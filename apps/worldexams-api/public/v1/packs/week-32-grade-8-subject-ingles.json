@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v1",
+      "statement": "Listen! I think ________ is knocking at the door.",
+      "context": "Using \"someone\" in an affirmative sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "someone",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! We use \"someone\" or \"somebody\" in affirmative sentences."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "anyone",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Anyone\" is usually for negatives or questions."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "no one",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "everyone",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Los pronombres indefinidos con \"some-\" se usan principalmente en oraciones afirmativas para referirse a personas, cosas o lugares no especificados.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v2",
+      "statement": "I'm hungry, but there isn't ________ to eat in the fridge.",
+      "context": "Using \"anything\" in a negative sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "something",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "anything",
+          "is_correct": true,
+          "feedback": "Correct! \"Anything\" is used in negative sentences."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "nothing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. You cannot have \"isn't nothing\" (double negative)."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "everything",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "En oraciones negativas (con *not*), usamos la serie \"any-\" (anyone, anything, anywhere) para referirnos a la ausencia de algo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v3",
+      "statement": "I've looked for my keys, but they are ________ to be found.",
+      "context": "Using \"nowhere\" to show location.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "anywhere",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a negative verb (they aren't anywhere)."
+        },
+        {
+          "letter": "B",
+          "text": "somewhere",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "nowhere",
+          "is_correct": true,
+          "feedback": "Correct! \"Nowhere\" is used with a positive verb to give a negative meaning."
+        },
+        {
+          "letter": "D",
+          "text": "everywhere",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los pronombres con \"no-\" (nothing, nobody, nowhere) ya contienen la negación, por lo que el verbo de la oración debe ser afirmativo.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v4",
+      "statement": "________ in my family loves traditional Colombian food.",
+      "context": "Using \"everybody\" correctly.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrect. \"All\" usually needs \"of\"."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Everybody",
+          "is_correct": true,
+          "feedback": "Correct! Refers to all people in a group."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Somebody",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Anybody",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "\"Everybody\" y \"Everyone\" son singulares gramaticalmente, por lo que el verbo debe llevar 's' en presente (loves).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v5",
+      "statement": "You can invite ________ you want to the party; there is plenty of space.",
+      "context": "Any- in affirmative sentences (meaning \"it doesn't matter who/which\").",
+      "options": [
+        {
+          "letter": "A",
+          "text": "someone",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean only one specific person."
+        },
+        {
+          "letter": "B",
+          "text": "anyone",
+          "is_correct": true,
+          "feedback": "Correct! In affirmative sentences, \"anyone\" means \"it doesn't matter who\"."
+        },
+        {
+          "letter": "C",
+          "text": "no one",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "everyone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un uso avanzado de \"any-\" es en oraciones afirmativas para indicar libre elección (\"cualquiera\").\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v6",
+      "statement": "If you get lost in Bogotá, just ask ________ for directions; people are very helpful.",
+      "context": "Finding help in a city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "no one",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "someone",
+          "is_correct": true,
+          "feedback": "Correct! Standard use for an unspecified person."
+        },
+        {
+          "letter": "C",
+          "text": "anything",
+          "is_correct": false,
+          "feedback": "Incorrect. You ask people, not things."
+        },
+        {
+          "letter": "D",
+          "text": "everywhere",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir el sufijo correcto (-one para personas, -thing para objetos, -where para lugares) es fundamental para la precisión léxica.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v7",
+      "statement": "I want to go ________ quiet this weekend. I'm tired of the city noise.",
+      "context": "Indefinite pronouns followed by adjectives.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "anywhere",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "somewhere",
+          "is_correct": true,
+          "feedback": "Correct! Indefinite pronoun + adjective is a common pattern."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "nowhere",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "everywhere",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "En inglés, los adjetivos se colocan **después** de los pronombres indefinidos (something special, someone famous, somewhere quiet).\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v8",
+      "statement": "Which two sentences mean the same?\r\n1. I saw nobody in the park.\r\n2. I didn't see nobody in the park.\r\n3. I didn't see anybody in the park.",
+      "context": "Distinguishing negative constructions.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "1 and 2",
+          "is_correct": false,
+          "feedback": "Incorrect. 2 is a double negative (non-standard)."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "1 and 3",
+          "is_correct": true,
+          "feedback": "Correct! Both are correct ways to express that the park was empty."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "2 and 3",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "All of them.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudiante debe reconocer las dos formas correctas de negar: Verbo Afirmativo + No-pronoun O Verbo Negativo + Any-pronoun.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v9",
+      "statement": "I've checked the list. ________ is ready for the presentation.",
+      "context": "Everything vs. All.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Everything",
+          "is_correct": true,
+          "feedback": "Correct! Pronoun referring to all things as a whole."
+        },
+        {
+          "letter": "B",
+          "text": "Every",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Every\" is an adjective, needs a noun."
+        },
+        {
+          "letter": "C",
+          "text": "All things",
+          "is_correct": false,
+          "feedback": "Incorrect. Less common than \"everything\" in this context."
+        },
+        {
+          "letter": "D",
+          "text": "Anything",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "\"Everything\" resume todas las cosas de una situación en un solo pronombre singular.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"**Nobody (A)** in the class **know (B)** the answer **to (C)** the last **question (D)**.\"",
+      "context": "Identifying errors in pronoun-verb agreement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nobody",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "know",
+          "is_correct": true,
+          "feedback": "Correct! Error found. Indefinite pronouns (nobody, everyone, etc.) are always singular. It should be \"knows\"."
+        },
+        {
+          "letter": "C",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "question",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Incluso en niveles avanzados, el acuerdo sujeto-verbo con pronombres indefinidos es un error común que se evalúa frecuentemente.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v11",
+      "statement": "Someone says: \"Nothing is what it seems.\" What does this mean?",
+      "context": "Evaluating clarity in a mystery.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "Everything is very clear and simple.",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "You shouldn't trust appearances; things might be different from how they look.",
+          "is_correct": true,
+          "feedback": "Correct! Idiomatic use of indefinite pronouns."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "There is no one in the room.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Every person is honest.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Comprender frases filosóficas o idiomáticas que usan pronombres indefinidos requiere un alto nivel de competencia pragmática.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v7",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-v12",
+      "statement": "\"The party was a total failure. I arrived at 9:00 PM and the room was empty. No music was playing, and I couldn't find a single person to talk to.\"\r\nWhich sentence uses indefinite pronouns to summarize this perfectly?",
+      "context": "Selecting the best summary of an empty or full situation.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "There was nobody there and nothing was happening when I arrived.",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! It uses \"nobody\" and \"nothing\" to accurately describe the lack of people and activity."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "Everyone was having a great time somewhere else.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Too much speculation."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Anybody could see that everything was perfect.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Contradicts the text."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Someone was playing music everywhere.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Sintetizar situaciones de ausencia o presencia total requiere el uso preciso de la serie \"no-\" y \"every-\" para transmitir la escala del evento.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W32-indefinite-pronouns-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v11",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W32-vocabulary-review-p4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

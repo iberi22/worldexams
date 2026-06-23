@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.463Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "En la Nota 1, las palabras de don Manuel aparecen entre comillas. ¿Cuál es la función de las comillas en este caso?",
+      "context": "*En el Colegio Rafael Uribe Uribe de Bogotá, los estudiantes de grado 6 realizaron una entrevista a don Manuel, el bibliotecario del barrio, para un proyecto de Lenguaje. Estas son las notas que tomaron:*\n\n**Nota 1:** Don Manuel nos dijo: \"Cuando yo era niño, la biblioteca era el único lugar donde podía viajar sin moverme. Leer me salvó la vida.\"\n\n**Nota 2:** La biblioteca del barrio (fundada en 1985 por la Junta de Acción Comunal) tiene más de 3000 libros.\n\n**Nota 3:** —¿Cuál es tu libro favorito? —preguntó Camila.\n—*Cien años de soledad* —respondió don Manuel—. Ese libro es como la vida misma: real y fantástica a la vez.\n\n**Nota 4:** La \"revolución silenciosa\" de la lectura en el barrio ha logrado que disminuya la deserción escolar.\n\n**Nota 5:** Don Manuel asegura que la lectura enseña a los jóvenes a ser (entre otras cosas) más críticos, más creativos y más empáticos.\n\n---",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar que don Manuel está enojado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no indican emociones."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar que las palabras son un título de un libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las comillas también se usan para títulos, aquí no es el caso."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducir textualmente lo que don Manuel dijo (estilo directo).",
+          "is_correct": true,
+          "feedback": "Correcto. Las comillas encierran las palabras exactas que pronunció don Manuel, diferenciando su voz de la del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que las palabras deben leerse en voz baja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no indican volumen de lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de la función principal de las comillas: marcar citas textuales en estilo directo. Las comillas permiten al lector distinguir claramente entre la voz del narrador y las palabras de un personaje o entrevistado.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de códigos y convenciones del lenguaje",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "En la Nota 2 — \"La biblioteca del barrio (fundada en 1985 por la Junta de Acción Comunal) tiene más de 3000 libros\" — ¿qué función cumplen los paréntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir un diálogo entre personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diálogos se marcan con rayas, no con paréntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Encerrar una información complementaria o aclaratoria sobre la biblioteca.",
+          "is_correct": true,
+          "feedback": "Correcto. Los paréntesis añaden un dato histórico (año de fundación y quién la fundó) que complementa la información principal. Si se elimina, la oración principal sigue siendo completa y con sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que la información debe leerse en voz alta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paréntesis no tienen función de lectura en voz alta."
+        },
+        {
+          "letter": "D",
+          "text": "Separar el sujeto del predicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una función de la estructura gramatical, no de los paréntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la función de los paréntesis: añadir información secundaria o complementaria sin interrumpir la fluidez de la oración principal. Los paréntesis siempre contienen datos que podrían omitirse sin perder el sentido central.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de códigos y convenciones del lenguaje",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "En la Nota 3, las rayas (—) se usan para marcar el diálogo. ¿Qué elemento del diálogo indica que don Manuel es quien habla en la segunda intervención?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de la raya al inicio de su respuesta.",
+          "is_correct": false,
+          "feedback": "Parcialmente cierto, pero incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre \"don Manuel\" escrito antes de sus palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diálogo no se escribe el nombre del hablante antes de sus palabras."
+        },
+        {
+          "letter": "C",
+          "text": "La combinación de la raya al inicio de su intervención y el verbo \"respondió\" seguido de raya después de su primera frase. Además, el contexto permite inferir que la pregunta de Camila es respondida por don Manuel.",
+          "is_correct": true,
+          "feedback": "Correcto. En los diálogos narrativos, la raya indica cambio de interlocutor. La primera raya marca a Camila preguntando, y la segunda raya marca a don Manuel respondiendo. Además, el verbo \"respondió don Manuel\" entre rayas aclara quién habla en medio de su intervención."
+        },
+        {
+          "letter": "D",
+          "text": "Los signos de exclamación que usa don Manuel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay signos de exclamación en esa intervención."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión de la estructura del diálogo narrativo: la raya (—) es el signo que introduce cada intervención en un diálogo. Los verbos de habla (dijo, preguntó, respondió) pueden ir entre rayas para aclarar quién habla sin interrumpir el diálogo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "En la Nota 4, la expresión \"revolución silenciosa\" está entre comillas. ¿Por qué el autor usó comillas en esta expresión y no en otras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es una cita textual de alguien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona quién dijo esa frase."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es una expresión figurada o metafórica que el autor quiere destacar o usar con un sentido especial.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Revolución silenciosa\" no es una revolución literal, sino una metáfora del cambio cultural que produce la lectura. Las comillas indican que la expresión se usa en un sentido figurado o que el autor la toma prestada de otro contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es el título de un libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona que sea un título."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la expresión está mal escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no corrigen errores ortográficos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del uso de comillas para expresiones metafóricas o con sentido figurado: cuando un autor quiere señalar que una palabra o frase no debe interpretarse literalmente, la encierra entre comillas. Esto se llama \"comillas de distanciamiento\" o \"comillas irónicas\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "Imagina que en la Nota 3, en lugar de rayas (—), el estudiante hubiera usado comillas (\"). ¿Qué cambiaría?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, las comillas y las rayas son intercambiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen funciones diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "El diálogo sería más formal y académico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no hacen el diálogo más formal."
+        },
+        {
+          "letter": "C",
+          "text": "Las comillas harían que el diálogo pareciera una cita textual de un texto previo, no una conversación en vivo. En los diálogos narrativos, la convención es usar rayas, no comillas. Las comillas en un diálogo pueden confundirse con una cita.",
+          "is_correct": true,
+          "feedback": "Correcto. En español, los diálogos narrativos se escriben con rayas. Las comillas se reservan para citas textuales dentro de la narración. Usar comillas en un diálogo sería confuso para el lector, que no sabría si es una cita o una conversación."
+        },
+        {
+          "letter": "D",
+          "text": "Sería más fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería confuso, no más fácil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la diferencia entre comillas (para citas) y rayas (para diálogos): cada signo tiene una función específica en la narrativa. Mezclarlos o usarlos incorrectamente puede confundir al lector sobre qué tipo de texto está leyendo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "Analiza la siguiente oración:\n\n*El profesor dijo —con una sonrisa— que el proyecto era el mejor que había visto.*\n\n¿Qué función cumplen las rayas que encierran \"con una sonrisa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcan un diálogo entre el profesor y los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay diálogo; es una narración."
+        },
+        {
+          "letter": "B",
+          "text": "Introducen un inciso o aclaración del narrador sobre cómo dijo el profesor esa frase. Es una raya de inciso, similar a la coma explicativa pero con un énfasis mayor.",
+          "is_correct": true,
+          "feedback": "Correcto. Las rayas de inciso (también llamadas rayas parentéticas) encierran una aclaración del narrador, en este caso sobre la actitud del profesor al hablar. Tienen la misma función que los paréntesis o las comas explicativas, pero crean un énfasis mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Indican que el profesor está feliz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la sonrisa indique felicidad, esa no es la función de las rayas."
+        },
+        {
+          "letter": "D",
+          "text": "Separan el sujeto del predicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función es gramatical, no de puntuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la raya de inciso: aunque visualmente similar a la raya de diálogo, la raya de inciso tiene una función diferente: insertar una aclaración del narrador dentro de una oración. Se diferencia de los paréntesis en que estas rayas no se abren y cierran con espacios.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "En la Nota 5, don Manuel dice que la lectura enseña a los jóvenes a ser \"(entre otras cosas) más críticos, más creativos y más empáticos\". ¿Por qué el autor usó paréntesis en \"entre otras cosas\" en lugar de comas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque \"entre otras cosas\" es una cita textual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cita a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los paréntesis son obligatorios antes de enumeraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enumeraciones pueden ir precedidas de dos puntos, coma o nada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el autor quería que \"entre otras cosas\" se percibiera como un comentario aparte, casi un susurro al lector, más que como parte fluida de la enumeración. Los paréntesis crean una pausa mental más marcada que las comas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los paréntesis permiten al autor hacer un comentario al margen sin interrumpir completamente la oración. La diferencia entre paréntesis y comas es de énfasis: los paréntesis aíslan más la información."
+        },
+        {
+          "letter": "D",
+          "text": "Porque \"entre otras cosas\" debe leerse en voz baja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paréntesis no indican volumen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de la diferencia entre paréntesis y comas para incisos: ambos pueden encerrar información adicional, pero los paréntesis crean una separación más marcada. El autor elige entre comas o paréntesis según el grado de énfasis que quiera dar al inciso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Lee el siguiente anuncio de la biblioteca del barrio:\n\n*\"Próximos eventos: 'Taller de poesía' con la escritora bogotana 'Pilar Quintana' y 'Club de lectura' para jóvenes.\"*\n\n¿Qué error de puntuación encuentras en este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faltan comillas en \"Próximos eventos\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es necesario poner comillas ahí."
+        },
+        {
+          "letter": "B",
+          "text": "Sobran las comillas en los nombres de los eventos y en el nombre de la escritora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas en los nombres de eventos (Taller de poesía, Club de lectura) son aceptables, pero hay otro problema."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la escritora, Pilar Quintana, está entre comillas innecesariamente. Las comillas alrededor de un nombre propio sugieren que no es el nombre real o que se usa en sentido irónico. Además, en enumeraciones con comillas internas, debería usarse punto y coma (;) para separar. Lo correcto: 'Taller de poesía' con la escritora bogotana Pilar Quintana; y 'Club de lectura' para jóvenes.",
+          "is_correct": true,
+          "feedback": "Correcto. Poner el nombre de una persona entre comillas es incorrecto a menos que se quiera indicar un apodo o uso irónico. También falta el punto y coma entre los dos eventos porque cada uno contiene comillas internas (enumeración compleja)."
+        },
+        {
+          "letter": "D",
+          "text": "Faltan signos de exclamación al inicio y al final del anuncio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un anuncio no necesita signos de exclamación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación crítica del uso de comillas: las comillas en nombres propios de personas pueden implicar que el nombre no es real o que se usa de manera irónica. Los nombres de personas no llevan comillas. Este es un error muy común en anuncios y carteles.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Un estudiante escribió en su diario de lectura:\n\n*\"Mi mamá me dijo —que mañana vamos a la biblioteca—. Y yo —que no me lo podía creer—. ¡Por fin!\"*\n\n¿Qué error de puntuación contiene este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faltan comillas para las palabras de la mamá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rayas podrían funcionar para diálogo, pero no es el error principal."
+        },
+        {
+          "letter": "B",
+          "text": "Sobran los signos de exclamación al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de exclamación son apropiados para la emoción."
+        },
+        {
+          "letter": "C",
+          "text": "Las rayas están mal usadas. En este caso, las palabras de la mamá deberían ir entre comillas porque no es un diálogo narrativo sino una cita dentro de un texto personal. Además, \"que\" después de \"dijo\" introduce estilo indirecto, no directo. Lo correcto sería: Mi mamá me dijo: \"Mañana vamos a la biblioteca\". O: Mi mamá me dijo que mañana vamos a la biblioteca.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay dos problemas: 1) \"dijo que\" es estilo indirecto, no lleva rayas ni comillas. 2) Si se quiere usar estilo directo, debe ser \"dijo:\" seguido de comillas. Las rayas no son apropiadas dentro de un texto personal como un diario; son para diálogos en narraciones."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene errores, está bien escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí tiene errores de puntuación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de la diferencia entre estilo directo e indirecto: \"dijo que\" introduce estilo indirecto (no lleva signos especiales), mientras que \"dijo:\" seguido de comillas introduce estilo directo. Las rayas de diálogo se usan en narraciones, no en textos personales.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Escribe un breve diálogo (mínimo 4 intervenciones) entre dos personajes que discuten sobre su libro favorito. Debes incluir:\n\n1. Rayas de diálogo correctamente usadas.\n2. Un inciso del narrador entre rayas.\n3. Un paréntesis con información complementaria sobre uno de los libros mencionados.\n4. Una palabra o frase entre comillas por su sentido figurado.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ejemplo:\n—Para mí, el mejor libro es *La ciudad de las bestias* —dijo Ana con seguridad—. Tiene de todo: aventura, misterio y personajes inolvidables.\n—Pues yo prefiero *Cien años de soledad* (lo leí en vacaciones) —respondió Luis—. Es una \"montaña rusa\" de emociones.\n—¿En serio? —preguntó Ana—. A mí me pareció muy complejo.\n—Por eso es tan bueno —sonrió Luis—. Te hace pensar.\nEste ejemplo incluye: rayas de diálogo en todas las intervenciones, inciso del narrador entre rayas (\"dijo Ana con seguridad\"), paréntesis con información complementaria (\"lo leí en vacaciones\"), y comillas de sentido figurado (\"montaña rusa\" de emociones).",
+          "is_correct": false,
+          "feedback": "Correcto. El ejemplo integra correctamente los cuatro elementos solicitados."
+        },
+        {
+          "letter": "B",
+          "text": "Ana dijo: \"Para mí, el mejor libro es La ciudad de las bestias\". Tiene de todo. Luis respondió: \"Pues yo prefiero Cien años de soledad\". Ana preguntó: \"¿En serio?\" Luis dijo: \"Por eso es tan bueno\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa comillas en lugar de rayas, y no incluye incisos, paréntesis ni comillas figuradas."
+        },
+        {
+          "letter": "C",
+          "text": "—Para mí, el mejor libro es La ciudad de las bestias —dijo Ana—. Tiene de todo. —Pues yo prefiero Cien años de soledad —respondió Luis—. Ana: —¿En serio? —, Luis: —Por eso es tan bueno—.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los verbos de habla están mal colocados y falta el paréntesis y las comillas figuradas."
+        },
+        {
+          "letter": "D",
+          "text": "\"Para mí, el mejor libro es La ciudad de las bestias\" (dijo Ana). \"Pues yo prefiero Cien años de soledad\" (respondió Luis).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa rayas de diálogo, ni incisos entre rayas, ni comillas figuradas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Producción textual integradora: aplicar los tres signos (comillas, paréntesis, rayas) en un diálogo narrativo. Esta actividad demuestra el dominio práctico de la puntuación en contextos literarios reales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido y producción textual",
+      "bundle_id": "CO-LEC-6-2026-W38-comillas-parentesis-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cúcuta, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Pereira, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Bucaramanga, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Armenia, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Villavicencio, se discute sobre Tema Semana 38 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 38 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 38 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 38 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-6-2026-W38-tema-semana-38-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencia y Tecnologia",
+    "country": "pe",
+    "pack_id": "pe-week-30-grade-11-subject-ciencia_y_tecnologia",
+    "generated_at": "2026-06-22T05:46:18.624Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v1",
+      "statement": "Simplifique: (2)(12x + 45)",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24x + 90",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24x + 45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 24x - 90\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(12x + 45) = 24x + 90.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v3",
+      "statement": "Maria compro 4 cuadernos a $6.2 c/u en Cajamarca. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $24.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $6.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $10.2\r\n  \r\n\r\n**Explicacion:** Total = 4 x 6 = $24.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional La Libertad en Huaraz grafica f(x) = 4x + 12. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v5",
+      "statement": "En Cusco, un estudiante del Colegio Nacional Ciencias resuelve: 4x + 1 = 21. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Se resta 1 de ambos lados. Luego se divide por 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v6",
+      "statement": "Simplifique: (8)(8x + 34)",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 64x + 272",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 64x + 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16x + 272",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 64x - 272\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(8x + 34) = 64x + 272.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v8",
+      "statement": "Maria compro 3 cuadernos a $4.1 c/u en Trujillo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $12.1",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $4.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $7.1\r\n  \r\n\r\n**Explicacion:** Total = 3 x 4 = $12.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional San Jose en Chiclayo grafica f(x) = 7x + 5. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v10",
+      "statement": "En Callao, un estudiante del Colegio Nacional Dos de Mayo resuelve: 2x + 1 = 11. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Se resta 1 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v11",
+      "statement": "Simplifique: (5)(4x + 37)",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 185",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 37",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9x + 185",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 20x - 185\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (5)(4x + 37) = 20x + 185.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v13",
+      "statement": "Maria compro 2 cuadernos a $10.3 c/u en Piura. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $20.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $12.3\r\n  \r\n\r\n**Explicacion:** Total = 2 x 10 = $20.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Dos de Mayo en Callao grafica f(x) = 5x + 4. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v15",
+      "statement": "En Puno, un estudiante del Colegio Nacional San Carlos resuelve: 8x + 2 = 42. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 2 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v16",
+      "statement": "Simplifique: (3)(8x + 38)",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24x + 114",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24x + 38",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 114",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 24x - 114\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(8x + 38) = 24x + 114.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v18",
+      "statement": "Maria compro 5 cuadernos a $8.3 c/u en Huancayo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $8.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.3\r\n  \r\n\r\n**Explicacion:** Total = 5 x 8 = $40.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional San Juan en Trujillo grafica f(x) = 4x + 8. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-v20",
+      "statement": "En Trujillo, un estudiante del Colegio Nacional San Juan resuelve: 7x + 3 = 38. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando cuerpo humano nutricion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** Se resta 3 de ambos lados. Luego se divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W30-cuerpo-humano-nutricion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

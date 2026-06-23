@@ -1,243 +1,205 @@
 ---
-id: "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY"
+id: "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "greetings-farewells"
 periodo: "weekly"
-semana: 1
+week: "W01"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Greetings and farewells, hello, goodbye, good morning, good night, how are you."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Greetings Farewells (W01)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W01: Greetings and Farewells (A1)
-
-Este bundle evalúa saludos y despedidas básicas en inglés, nivel A1 para grado 3.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Meeting a friend in the morning.
-
-### Enunciado
-What do you say when you see a friend at **7:00 AM**?
-
-### Options
-- [ ] A) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse en la noche, no para saludar en la mañana. -->
-- [x] B) Good morning <!-- feedback: Correct! "Good morning" es el saludo correcto para las 7 de la mañana. -->
-- [ ] C) Good afternoon <!-- feedback: Incorrect. "Good afternoon" se usa después del mediodía (12:00 PM). -->
-- [ ] D) Goodbye <!-- feedback: Incorrect. "Goodbye" es una despedida, no un saludo al encontrarse. -->
-
-### Explicación Pedagógica
-En inglés, al igual que en español, usamos diferentes saludos según la hora del día. Para la mañana (antes de las 12:00 PM), el saludo adecuado es "Good morning" (Buenos días).
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Standard greeting.
-
-### Enunciado
-What is the most common way to say **"Hola"** in English?
-
-### Options
-- [x] A) Hello <!-- feedback: Correct! "Hello" es la forma estándar de decir hola. -->
-- [ ] B) Bye <!-- feedback: Incorrect. "Bye" es una forma corta de decir adiós. -->
-- [ ] C) Please <!-- feedback: Incorrect. "Please" significa por favor. -->
-- [ ] D) Thanks <!-- feedback: Incorrect. "Thanks" es una forma corta de decir gracias. -->
-
-### Explicación Pedagógica
-"Hello" es el saludo más universal en inglés. También existe "Hi", que es un poco más informal, pero ambos significan "Hola".
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Saying goodbye.
-
-### Enunciado
-Your friend is going home. What do you say to say **"Adiós"**?
-
-### Options
-- [ ] A) Hello <!-- feedback: Incorrect. "Hello" es para saludar al llegar. -->
-- [x] B) Goodbye <!-- feedback: Correct! "Goodbye" significa adiós. -->
-- [ ] C) Good morning <!-- feedback: Incorrect. Esto es un saludo de mañana. -->
-- [ ] D) Hi <!-- feedback: Incorrect. "Hi" es hola. -->
-
-### Explicación Pedagógica
-Para despedirnos de alguien que se va, usamos "Goodbye" (Adiós). También podemos usar la versión corta "Bye".
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Greeting in the afternoon.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-It is **3:00 PM**. How do you greet your teacher?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Good morning <!-- feedback: Incorrect. La mañana ya terminó, ahora es la tarde. -->
-- [x] B) Good afternoon <!-- feedback: Correct! "Good afternoon" se usa desde el mediodía hasta el atardecer. -->
-- [ ] C) Good night <!-- feedback: Incorrect. Todavía no es hora de dormir o despedirse en la noche. -->
-- [ ] D) Hello, morning <!-- feedback: Incorrect. No combinamos hello con morning si es la tarde. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Good afternoon" se traduce como "Buenas tardes". Lo usamos después de las 12:00 PM (noon) hasta aproximadamente las 6:00 PM.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v5`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Basic conversation.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Complete the dialogue:
-**Sam:** "How are you?"
-**Lina:** "I am ______, thank you."
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) hello <!-- feedback: Incorrect. "Hello" no responde a cómo estás. -->
-- [x] B) fine <!-- feedback: Correct! "I am fine" significa estoy bien. -->
-- [ ] C) goodbye <!-- feedback: Incorrect. "Goodbye" es para irse. -->
-- [ ] D) morning <!-- feedback: Incorrect. "Morning" es mañana, no un estado de ánimo. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Cuando alguien nos pregunta "How are you?" (¿Cómo estás?), la respuesta más común y educada es "I am fine, thank you" (Estoy bien, gracias).
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Pragmática
-**Expected_Success:** 0.70
-**Context:** Evening greeting.
-
-### Enunciado
-You arrive at a party at **8:00 PM**. What do you say to greet people?
-
-### Options
-- [ ] A) Good morning <!-- feedback: Incorrect. Es de noche, no de mañana. -->
-- [x] B) Good evening <!-- feedback: Correct! "Good evening" se usa como saludo al llegar en la noche. -->
-- [ ] C) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse, no para saludar al llegar. -->
-- [ ] D) Goodbye <!-- feedback: Incorrect. Acabas de llegar, no te estás yendo. -->
-
-### Explicación Pedagógica
-En inglés hay dos formas de decir "buenas noches": "Good evening" se usa para saludar al llegar, y "Good night" se usa para despedirse o antes de dormir.
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Farewell for the next day.
-
-### Enunciado
-What does **"See you tomorrow"** mean?
-
-### Options
-- [ ] A) Hola mañana <!-- feedback: Incorrect. No es un saludo. -->
-- [x] B) Nos vemos mañana <!-- feedback: Correct! "See you" es nos vemos y "tomorrow" es mañana. -->
-- [ ] C) Te veo ahora <!-- feedback: Incorrect. "Tomorrow" no significa ahora. -->
-- [ ] D) Adiós por siempre <!-- feedback: Incorrect. Es una despedida temporal para el día siguiente. -->
-
-### Explicación Pedagógica
-"See you tomorrow" es una expresión muy común en la escuela. Significa que volverás a ver a la persona al día siguiente.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v8`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Formal greeting.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Choose the correct formal greeting:
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [x] A) Good morning, Mr. Smith <!-- feedback: Correct! Es una forma educada y formal de saludar. -->
-- [ ] B) What's up? <!-- feedback: Incorrect. "What's up" es muy informal (¿Qué pasa?). -->
-- [ ] C) Bye-bye <!-- feedback: Incorrect. Es una despedida infantil o muy informal. -->
-- [ ] D) Hey! <!-- feedback: Incorrect. "Hey" es un saludo muy informal para amigos. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Para hablar con profesores o adultos, usamos saludos más formales como "Good morning" o "Hello", seguidos de su título y apellido si es necesario.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v9`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Asking for a name.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-How do you ask someone's name in English?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) How are you? <!-- feedback: Incorrect. Esto pregunta cómo estás. -->
-- [x] B) What is your name? <!-- feedback: Correct! Esta es la pregunta para saber el nombre de alguien. -->
-- [ ] C) Who are you? <!-- feedback: Incorrect. Aunque gramaticalmente correcta, puede sonar un poco ruda en una presentación básica. -->
-- [ ] D) My name is Tom <!-- feedback: Incorrect. Esto es una respuesta, no una pregunta. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Después de saludar, solemos preguntar el nombre de la persona con "¿What is your name?". La respuesta suele empezar con "My name is...".
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** End of a phone call at night.
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-You are talking on the phone at **9:30 PM**. You are going to sleep. What do you say?
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) Good afternoon <!-- feedback: Incorrect. Es muy tarde para ser la tarde. -->
-- [ ] B) Hello <!-- feedback: Incorrect. Te vas a dormir, no estás empezando la charla. -->
-- [x] C) Good night <!-- feedback: Correct! "Good night" se usa para despedirse en la noche o antes de dormir. -->
-- [ ] D) Good morning <!-- feedback: Incorrect. Aún faltan muchas horas para la mañana. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Good night" es la despedida perfecta para la noche, especialmente si ya te vas a descansar o a dormir.
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

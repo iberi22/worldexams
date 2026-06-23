@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-18-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v1",
+      "statement": "What is this fruit: 🍎 ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": true,
+          "feedback": "Correct! This is an apple."
+        },
+        {
+          "letter": "B",
+          "text": "Banana",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pear",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La manzana se dice \"apple\". Puede ser roja o verde.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v2",
+      "statement": "What is this fruit: 🍌 ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Banana",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Grapes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Strawberry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El banano o plátano se dice \"banana\" igual que en español, pero se pronuncia diferente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v3",
+      "statement": "What fruit is **orange** and has the same name as the color?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lemon",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Orange",
+          "is_correct": true,
+          "feedback": "Correct! The fruit is an orange."
+        },
+        {
+          "letter": "C",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Banana",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La naranja se dice \"orange\". Es la fruta y el color.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v4",
+      "statement": "What is **\"Zanahoria\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potato",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Tomato",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Carrot",
+          "is_correct": true,
+          "feedback": "Correct! Carrot is zanahoria."
+        },
+        {
+          "letter": "D",
+          "text": "Onion",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La zanahoria se dice \"carrot\". A los conejos les encantan.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v5",
+      "statement": "What is **\"Papa\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potato",
+          "is_correct": true,
+          "feedback": "Correct! Potato is papa."
+        },
+        {
+          "letter": "B",
+          "text": "Tomato",
+          "is_correct": false,
+          "feedback": "Incorrect. Tomato is tomate."
+        },
+        {
+          "letter": "C",
+          "text": "Pear",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La papa se dice \"potato\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v6",
+      "statement": "What is **\"Uvas\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pears",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cherries",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Grapes",
+          "is_correct": true,
+          "feedback": "Correct! Grapes are uvas."
+        },
+        {
+          "letter": "D",
+          "text": "Strawberries",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las uvas se dicen \"grapes\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v7",
+      "statement": "What is **\"Fresa\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blackberry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Strawberry",
+          "is_correct": true,
+          "feedback": "Correct! Strawberry is fresa."
+        },
+        {
+          "letter": "C",
+          "text": "Blueberry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fresa se dice \"strawberry\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v8",
+      "statement": "Which one is a **vegetable**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect. Fruit."
+        },
+        {
+          "letter": "B",
+          "text": "Banana",
+          "is_correct": false,
+          "feedback": "Incorrect. Fruit."
+        },
+        {
+          "letter": "C",
+          "text": "Onion",
+          "is_correct": true,
+          "feedback": "Correct! Onion (cebolla) is a vegetable."
+        },
+        {
+          "letter": "D",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect. Fruit."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cebolla se dice \"onion\" y es una verdura o vegetal.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v9",
+      "statement": "What color is a **pear** usually?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green",
+          "is_correct": true,
+          "feedback": "Correct! Pears are often green."
+        },
+        {
+          "letter": "B",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Black",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pera se dice \"pear\" y suele ser de color verde (green).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-v10",
+      "statement": "What is a **\"Watermelon\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piña",
+          "is_correct": false,
+          "feedback": "Incorrect. Pineapple is piña."
+        },
+        {
+          "letter": "B",
+          "text": "Sandía",
+          "is_correct": true,
+          "feedback": "Correct! Watermelon is sandía."
+        },
+        {
+          "letter": "C",
+          "text": "Melón",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Limón",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sandía o patilla se dice \"watermelon\" (melón de agua).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

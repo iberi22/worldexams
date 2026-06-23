@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-15-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.424Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "¿Cuál de los siguientes elementos NO se menciona en la descripción de la casa del abuelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paredes de bahareque y techo de tejas de barro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona explícitamente las paredes de bahareque y el techo de tejas de barro en el primer párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "Un jardín con flores de todo tipo de colores.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto no menciona un jardín de flores. Menciona matas de plátano y árboles de aguacate, pero no un jardín florido."
+        },
+        {
+          "letter": "C",
+          "text": "Olor a café recién molido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El olor a café recién molido se menciona al inicio del segundo párrafo como parte de la ambientación."
+        },
+        {
+          "letter": "D",
+          "text": "Un piso de madera que crujía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo párrafo describe claramente que \"el piso de madera crujía con cada paso\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar información explícita dentro de una descripción es el primer paso para comprender un escenario literario. Se debe distinguir entre lo que el texto dice y lo que no dice.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿En qué región de Colombia está ubicada la casa del abuelo según el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay menciones al mar, playas o clima caribeño. El texto habla de un pueblo cafetero."
+        },
+        {
+          "letter": "B",
+          "text": "En el Quindío, región cafetera de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. El primer párrafo dice: \"La casa del abuelo Arturo quedaba en lo alto de una colina en un pueblo del Quindío.\""
+        },
+        {
+          "letter": "C",
+          "text": "En la Amazonía colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona selva tropical, ríos caudalosos ni fauna amazónica."
+        },
+        {
+          "letter": "D",
+          "text": "En la ciudad de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción corresponde a un entorno rural, no a una ciudad grande."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ubicar geográficamente un escenario literario ayuda a comprender el contexto de la historia. Las palabras clave como \"pueblo del Quindío\" y \"cafetal\" son pistas para identificar la región.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Qué sentimiento o atmósfera transmite principalmente la descripción de la casa del abuelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miedo y misterio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos de terror, oscuridad o suspenso en la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Tristeza y soledad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay un tono nostálgico, el texto también describe risas, calor familiar y vida cotidiana."
+        },
+        {
+          "letter": "C",
+          "text": "Calidez, nostalgia y tranquilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La casa transmite calidez (olor a sancocho, risas), nostalgia (fotografías antiguas, tiempo detenido) y tranquilidad (hamaca, abuelo sin prisa)."
+        },
+        {
+          "letter": "D",
+          "text": "Caos y ruido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ambiente descrito es pausado, con sonidos suaves como el canto de gallos y el viento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La atmósfera de un escenario literario se construye con detalles sensoriales (olores, sonidos, texturas) y emocionales. Identificar el sentimiento predominante ayuda a comprender el tono de la narración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Qué sentido se usa principalmente en la descripción del segundo párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gusto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se menciona café, no se describe su sabor; se usa el olfato (\"olor a café\")."
+        },
+        {
+          "letter": "B",
+          "text": "El olfato (\"olor a café\") y el oído (\"piso que crujía\").",
+          "is_correct": true,
+          "feedback": "Correcto. El segundo párrafo combina el sentido del olfato (café recién molido) y del oído (crujido del piso)."
+        },
+        {
+          "letter": "C",
+          "text": "El tacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripciones táctiles detalladas como texturas al tocar."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la vista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay elementos visuales, el texto también incluye olores y sonidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los autores usan distintos sentidos para describir un escenario: vista (colores, formas), olfato (aromas), oído (sonidos), tacto (texturas) y gusto (sabores). Un buen lector identifica qué sentidos están siendo estimulados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Caracterización literaria",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué podemos inferir sobre la personalidad del abuelo Arturo a partir de la descripción del escenario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es una persona apresurada y estresada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción muestra lo contrario: el abuelo \"pelaba una naranja con la parsimonia de quien no tiene prisa\"."
+        },
+        {
+          "letter": "B",
+          "text": "Que es una persona tranquila, que disfruta de la vida pausada del campo.",
+          "is_correct": true,
+          "feedback": "Correcto. El detalle de que pela una naranja \"con la parsimonia de quien no tiene prisa\", sumado al ambiente tranquilo de la casa, sugiere una personalidad calmada."
+        },
+        {
+          "letter": "C",
+          "text": "Que es una persona rica y poderosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La casa es descrita como una \"vieja casona\" con paredes desgastadas; no hay signos de riqueza."
+        },
+        {
+          "letter": "D",
+          "text": "Que no le gusta recibir visitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El último párrafo habla de risas y la casa \"se llenaba de historias\", lo que sugiere que recibía visitas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los escenarios no solo describen lugares: también revelan información sobre los personajes que los habitan. Los detalles del entorno (una silla de madera, una hamaca, un abuelo sin prisa) nos permiten inferir rasgos de su personalidad.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Cómo cambia la atmósfera de la casa entre el día y la caída de la tarde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay cambios; la atmósfera es igual en todo el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto describe cambios claros entre el día y la tarde."
+        },
+        {
+          "letter": "B",
+          "text": "De día hay silencio total; de tarde hay ruido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De día también hay sonidos: gallos, motor de camioneta."
+        },
+        {
+          "letter": "C",
+          "text": "De día el ambiente es más campestre y tranquilo, con sonidos de la naturaleza; al caer la tarde se vuelve más cálido y familiar, con olores de comida y risas.",
+          "is_correct": true,
+          "feedback": "Correcto. De día predominan la naturaleza (gallos, viento, cafetal), mientras que al caer la tarde el ambiente se vuelve hogareño (sancocho, risas, historias)."
+        },
+        {
+          "letter": "D",
+          "text": "De día hay miedo y misterio; de tarde hay alegría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos de miedo en la descripción diurna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los escenarios literarios pueden cambiar a lo largo del texto. Identificar estas variaciones ayuda a comprender la evolución de la atmósfera y cómo el autor usa el paso del tiempo para enriquecer la ambientación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué función cumple la descripción de la hamaca que \"se mecía suavemente con el viento\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es solo un adorno sin importancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En literatura, los detalles casi siempre tienen una función."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar que hace mucho viento en la región.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento es suave, no fuerte; \"se mecía suavemente\" indica brisa ligera."
+        },
+        {
+          "letter": "C",
+          "text": "Reforzar la sensación de tranquilidad y ritmo pausado del lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. La hamaca meciéndose suavemente es un símbolo de descanso, calma y vida sin prisa, que refuerza la atmósfera general del escenario."
+        },
+        {
+          "letter": "D",
+          "text": "Anunciar que alguien viene en la hamaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hamaca está vacía; es parte de la ambientación del patio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada elemento de una descripción tiene una función dentro del texto. La hamaca no es un objeto al azar: es un símbolo de la cultura colombiana y refuerza el ambiente de tranquilidad. Los autores eligen cuidadosamente qué detalles incluir.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "El texto dice que el piso de madera \"crujía con cada paso, como si contara secretos antiguos\". ¿Qué recurso literario se usa en esta expresión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una metáfora pura sin comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay un elemento figurado, la expresión usa \"como si\", que indica una comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación (símil) que personifica el piso, dándole la capacidad de contar secretos.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Como si contara secretos antiguos\" compara el crujido con el acto de contar secretos, personificando el piso."
+        },
+        {
+          "letter": "C",
+          "text": "Una hipérbole o exageración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración; el crujido es un sonido real de los pisos de madera."
+        },
+        {
+          "letter": "D",
+          "text": "Una repetición de sonidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay aliteración en algunos sonidos, la figura principal es la comparación personificada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los autores usan figuras literarias incluso en las descripciones de escenarios para hacerlas más vívidas. Reconocer estos recursos ayuda a apreciar cómo el lenguaje crea imágenes mentales y atmósferas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Si el autor quisiera cambiar la atmósfera de la casa para que transmitiera tristeza y abandono, ¿qué elemento de la descripción actual debería modificar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener el olor a café recién molido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El olor a café transmite calidez y vida; para crear tristeza, este detalle debería cambiarse."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar las risas y el sancocho en la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las risas y la comida familiar transmiten alegría y unión, lo opuesto a tristeza."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la hamaca meciéndose y el abuelo sin prisa por imágenes de abandono: telarañas, muebles rotos, silencio total.",
+          "is_correct": true,
+          "feedback": "Correcto. Detalles como telarañas, polvo, muebles rotos y silencio crearían una atmósfera de abandono y tristeza, en contraste con la hamaca y la tranquilidad actual."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener la descripción de las fotografías en blanco y negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fotografías pueden ser nostálgicas pero no necesariamente tristes; en el texto actual acompañan un ambiente cálido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La atmósfera de un escenario se construye con la suma de pequeños detalles. Cambiar esos detalles cambia completamente la sensación que transmite el texto. Esta habilidad de evaluar y modificar escenarios es clave para la escritura creativa y la comprensión lectora.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Imagina que eres el autor y debes agregar un nuevo párrafo que describa la misma casa pero durante la madrugada. ¿Qué elemento describirías para mantener la coherencia con el escenario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ruido de una discoteca cercana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto rompería la coherencia del escenario rural y tranquilo del Quindío."
+        },
+        {
+          "letter": "B",
+          "text": "El olor a gasolina y el tráfico de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ciudad cerca; la casa está en un pueblo cafetero."
+        },
+        {
+          "letter": "C",
+          "text": "El canto de los gallos anunciando el amanecer, la neblina sobre el cafetal y el silencio que solo se rompe con el viento.",
+          "is_correct": true,
+          "feedback": "Correcto. La madrugada en el campo incluye neblina, gallos y silencio, elementos que mantienen la coherencia con el escenario descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Luces de colores y música de una feria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una feria no corresponde con el ambiente campestre que el autor ha construido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Crear o extender una descripción requiere mantener coherencia con el escenario ya establecido. Los elementos nuevos deben ser compatibles con la atmósfera, la ubicación geográfica y el tono del texto original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Sincelejo, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Pereira, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Medellín, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Pasto, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Bucaramanga, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

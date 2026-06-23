@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.968Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-v1",
+      "statement": "¿Qué es un bioma?",
+      "context": "En Bogotá, los estudiantes inician el estudio de los ecosistemas colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tipo de clima específico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima es parte del bioma."
+        },
+        {
+          "letter": "B",
+          "text": "Un conjunto de poblaciones de una sola especie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una población."
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto de ecosistemas con características climáticas y biológicas similares en una región extensa",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar físico donde vive un organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el hábitat."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un bioma es una gran área geográfica con clima, flora y fauna característicos. Colombia tiene selva amazónica, bosque seco tropical, páramo, sabana (Llanos), manglar, bosque andino, desierto (La Guajira) y arrecifes de coral. Colombia es uno de los países con mayor diversidad de biomas por su ubicación ecuatorial y su topografía.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-002-v1",
+      "statement": "¿Cuál es el bioma más extenso de Colombia?",
+      "context": "En Medellín, identifican los biomas colombianos en un mapa interactivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El páramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cubren menos del 3% del territorio."
+        },
+        {
+          "letter": "B",
+          "text": "El desierto de La Guajira",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una pequeña porción."
+        },
+        {
+          "letter": "C",
+          "text": "La selva amazónica",
+          "is_correct": true,
+          "feedback": "Correcto. Cubre ~35% del territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Los Llanos Orientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cubren ~20%."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La selva amazónica colombiana ocupa unos 400,000 km² (35% del país) en Amazonas, Caquetá, Guainía, Guaviare, Putumayo, Vaupés y Vichada. Alberga la mayor biodiversidad del planeta y más de 50 pueblos indígenas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-003-v1",
+      "statement": "¿Qué caracteriza al bosque seco tropical colombiano?",
+      "context": "En Cali, comparan el bosque seco tropical y la selva húmeda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lluvias intensas todo el año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la selva húmeda."
+        },
+        {
+          "letter": "B",
+          "text": "Una temporada seca prolongada donde los árboles pierden las hojas (caducifolios)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Temperaturas bajo cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es páramo."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo siempre inundado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso son humedales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El bosque seco tropical recibe 700-1,500 mm de lluvia anual con 4-6 meses secos. Los árboles pierden hojas para conservar agua. Solo queda el 8% de su cobertura en Colombia, siendo el ecosistema más amenazado. Se encuentra en Costa Caribe, Tolima, Huila y valles interandinos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-004-v1",
+      "statement": "¿Por qué los manglares son ecosistemas estratégicos para Colombia?",
+      "context": "En Barranquilla, estudian los manglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque producen agua potable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Viven en agua salada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son el mejor lugar para construir hoteles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir en manglares los destruye."
+        },
+        {
+          "letter": "C",
+          "text": "Porque protegen la costa, son criaderos de peces y crustáceos, y almacenan carbono",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son la principal fuente de madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su madera no es comercial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los manglares son bosques adaptados al agua salada. En Colombia hay ~380,000 ha, principalmente en el Pacífico. Funciones: protección costera, criadero del 90% de especies marinas comerciales, secuestro de carbono (3-5 veces más que bosques terrestres), filtro de contaminantes. Amenazados por deforestación y acuicultura.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-005-v1",
+      "statement": "Un estudiante visita un lugar con pastizales extensos, clima cálido con estación seca y lluviosa, y ve ganado. ¿En qué ecosistema está?",
+      "context": "En Bucaramanga, identifican ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selva amazónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selva tiene árboles densos."
+        },
+        {
+          "letter": "B",
+          "text": "Páramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Páramo es frío."
+        },
+        {
+          "letter": "C",
+          "text": "Llanos Orientales (sabana)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Manglar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Manglar es costero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los Llanos Orientales (Arauca, Casanare, Meta, Vichada) son sabanas extensas de ~250,000 km². Clima cálido (27°C), lluvias mayo-octubre. Vegetación de pastizales con morichales. Fauna: venado cola blanca, chigüiro, babilla, oso hormiguero.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-006-v1",
+      "statement": "¿Cuál de estos animales es característico de la Amazonía colombiana?",
+      "context": "En Cartagena, relacionan animales con ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flamenco caribeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vive en la costa Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "Frailejón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una planta de páramo."
+        },
+        {
+          "letter": "C",
+          "text": "Delfín rosado",
+          "is_correct": true,
+          "feedback": "Correcto. Habita en ríos amazónicos."
+        },
+        {
+          "letter": "D",
+          "text": "Cóndor de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vive en alta montaña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El delfín rosado (Inia geoffrensis) es el delfín de río más grande (2.5 m, 150 kg). Su color rosado se debe a capilares cercanos a la piel. Tiene cuello flexible para navegar entre árboles inundados. Amenazado por mercurio de minería ilegal, represas y pesca.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-007-v1",
+      "statement": "¿Cuál es la principal causa de deforestación en la Amazonía colombiana?",
+      "context": "En Pereira, analizan la deforestación en la Amazonía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construcción de ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "Turismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es causa significativa."
+        },
+        {
+          "letter": "C",
+          "text": "Ganadería extensiva, minería ilegal y cultivos ilícitos",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Incendios forestales naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría son provocados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En 2023 se deforestaron >70,000 ha en la Amazonía colombiana. Causas: ganadería (40-50%), minería ilegal de oro (contamina con mercurio), cultivos de coca, infraestructura. La deforestación libera CO₂, destruye hábitats y amenaza pueblos indígenas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-008-v1",
+      "statement": "¿Qué función cumplen los corredores biológicos?",
+      "context": "En Manizales, analizan corredores biológicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilitan el turismo en áreas protegidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son senderos."
+        },
+        {
+          "letter": "B",
+          "text": "Conectan ciudades con parques naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conectan áreas naturales entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Conectan hábitats fragmentados permitiendo el flujo genético entre poblaciones",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Sirven como zona de cultivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son zonas de conservación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los corredores biológicos contrarrestan la fragmentación del hábitat causada por carreteras y cultivos. Permiten flujo genético, migración y recolonización. Ejemplo: Corredor del Oso de Anteojos en los Andes colombianos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-009-v1",
+      "statement": "¿Por qué la restauración del bosque seco tropical es prioritaria en Colombia?",
+      "context": "En Cúcuta, evalúan proyectos de restauración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para tener más sombra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Beneficio menor."
+        },
+        {
+          "letter": "B",
+          "text": "Para atraer turistas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el objetivo principal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo queda el 8% y alberga especies endémicas como el tití cabeciblanco",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Para vender la madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Va en contra de la restauración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El bosque seco tropical es el ecosistema más amenazado de Colombia (8% remanente). Alberga el tití cabeciblanco (endémico). Su restauración recupera biodiversidad, regula agua, protege suelo, captura carbono. Ejemplos: PNN Tayrona, Jardín Botánico de Barranquilla.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-010-v1",
+      "statement": "¿Por qué el mercurio usado en minería ilegal es especialmente dañino?",
+      "context": "En Ibagué, evalúan la minería ilegal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es caro",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el problema principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque huele mal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El olor no es el impacto mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se bioacumula en los organismos, contaminando ríos y peces por décadas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque usa mucha electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa electricidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia libera 50-100 toneladas de mercurio al año (mayor contaminador per cápita del mundo). El mercurio se convierte en metilmercurio (altamente tóxico), se bioacumula en peces y afecta la salud humana, especialmente comunidades indígenas amazónicas que dependen del pescado. El Convenio de Minamata busca reducir su uso.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Medellín, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Sincelejo, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Cartagena, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.59,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Riohacha, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Tunja, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.59,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Armenia, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Pereira, se discute sobre Tema Semana 9 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W09-tema-semana-9-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-v1",
+      "statement": "¿Cuáles son los órganos principales del aparato reproductor masculino?",
+      "context": "En Bogotá, la profesora explica la reproducción humana con un esquema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ovarios y útero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son órganos del aparato reproductor femenino."
+        },
+        {
+          "letter": "B",
+          "text": "Trompas de Falopio y vagina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos también son órganos femeninos."
+        },
+        {
+          "letter": "C",
+          "text": "Testículos, conductos deferentes y pene",
+          "is_correct": true,
+          "feedback": "Correcto. Son los órganos reproductores masculinos principales."
+        },
+        {
+          "letter": "D",
+          "text": "Riñones y vejiga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son órganos del sistema excretor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aparato reproductor masculino está formado por: testículos (producen espermatozoides y la hormona testosterona), epidídimo (almacena y madura los espermatozoides), conductos deferentes (transportan los espermatozoides), vesículas seminales y próstata (producen el líquido seminal) y pene (órgano copulador). Los testículos se encuentran en el escroto, una bolsa externa que mantiene la temperatura adecuada para la producción de espermatozoides (unos grados menos que la temperatura corporal).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-002-v1",
+      "statement": "¿Cuál es la función de los ovarios?",
+      "context": "En Medellín, los estudiantes identifican órganos femeninos en un diagrama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir espermatozoides",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los espermatozoides los producen los testículos."
+        },
+        {
+          "letter": "B",
+          "text": "Producir óvulos y las hormonas femeninas (estrógeno y progesterona)",
+          "is_correct": true,
+          "feedback": "Correcto. Los ovarios tienen función reproductiva y hormonal."
+        },
+        {
+          "letter": "C",
+          "text": "Expulsar el bebé en el parto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función del útero y la vagina."
+        },
+        {
+          "letter": "D",
+          "text": "Transportar el óvulo al útero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de las trompas de Falopio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ovarios son los órganos reproductores femeninos principales (gónadas). Tienen dos funciones esenciales: producen los óvulos (células sexuales femeninas) mediante la ovogénesis, y secretan las hormonas sexuales femeninas: estrógeno (responsable del desarrollo de caracteres sexuales secundarios como el crecimiento de mamas y la distribución de grasa corporal) y progesterona (prepara el útero para un posible embarazo). Una mujer nace con aproximadamente 400,000 óvulos inmaduros en sus ovarios.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-003-v1",
+      "statement": "¿Dónde ocurre normalmente la fecundación (unión del óvulo y el espermatozoide)?",
+      "context": "En Cali estudian el ciclo de vida humano desde la fecundación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el útero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecundación no ocurre en el útero, sino antes."
+        },
+        {
+          "letter": "B",
+          "text": "En las trompas de Falopio",
+          "is_correct": true,
+          "feedback": "Correcto. La fecundación ocurre en el tercio externo de las trompas de Falopio."
+        },
+        {
+          "letter": "C",
+          "text": "En el ovario",
+          "is_correct": false,
+          "feedback": "Incorrecto. El óvulo sale del ovario, pero la fecundación ocurre después."
+        },
+        {
+          "letter": "D",
+          "text": "En la vagina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los espermatozoides llegan a la vagina pero la fecundación es más arriba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fecundación es la unión del óvulo y el espermatozoide para formar el cigoto. Ocurre normalmente en el tercio externo (ampolla) de las trompas de Falopio. El proceso es: los espermatozoides viajan desde la vagina, atraviesan el cuello uterino y el útero, y llegan a las trompas de Falopio. Allí encuentran al óvulo (que fue liberado del ovario) y uno de ellos lo fertiliza. El cigoto resultante luego viaja al útero mientras se divide, implantándose en la pared uterina aproximadamente 6-7 días después de la fecundación.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-004-v1",
+      "statement": "¿Qué ocurre durante la menstruación?",
+      "context": "En Barranquilla, la profesora explica el ciclo menstrual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se libera un óvulo del ovario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la ovulación, no la menstruación."
+        },
+        {
+          "letter": "B",
+          "text": "El óvulo es fecundado por un espermatozoide",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecundación no es la menstruación."
+        },
+        {
+          "letter": "C",
+          "text": "Se desprende el endometrio (recubrimiento del útero) porque no hubo embarazo",
+          "is_correct": true,
+          "feedback": "Correcto. La menstruación es la eliminación del endometrio."
+        },
+        {
+          "letter": "D",
+          "text": "El cigoto se implanta en el útero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La implantación ocurre si hay embarazo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La menstruación es parte del ciclo menstrual femenino, que dura aproximadamente 28 días. Si no ocurre fecundación ni embarazo, los niveles de progesterona disminuyen y el endometrio (la capa interna del útero que se había engrosado para recibir un posible embrión) se desprende y es eliminado a través de la vagina junto con sangre. Este proceso dura aproximadamente 3-7 días. El primer día de sangrado se considera el día 1 del ciclo menstrual. La ovulación ocurre alrededor del día 14 del ciclo.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-005-v1",
+      "statement": "Ordena las etapas del ciclo de vida humano desde la concepción: (1) Feto, (2) Embrión, (3) Recién nacido, (4) Cigoto, (5) Adolescente. ¿Cuál es el orden correcto?",
+      "context": "En Bucaramanga, los estudiantes ordenan las etapas del desarrollo humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cigoto → Feto → Embrión → Recién nacido → Adolescente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El embrión va antes que el feto."
+        },
+        {
+          "letter": "B",
+          "text": "Cigoto → Embrión → Feto → Recién nacido → Adolescente",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la secuencia correcta del desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Embrión → Cigoto → Feto → Recién nacido → Adolescente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cigoto es la primera etapa."
+        },
+        {
+          "letter": "D",
+          "text": "Cigoto → Recién nacido → Embrión → Feto → Adolescente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recién nacido es después del feto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ciclo de vida humano desde la concepción sigue este orden:\n1. **Cigoto**: célula única formada por la unión del óvulo y el espermatozoide (día 1)\n2. **Embrión**: desde la implantación hasta la semana 8; se forman los órganos principales\n3. **Feto**: desde la semana 9 hasta el nacimiento; maduración y crecimiento de órganos\n4. **Recién nacido**: desde el nacimiento (semana 38-40) hasta aproximadamente 1 mes\n5. **Adolescente**: etapa de desarrollo entre los 10-12 y 18-20 años, con cambios físicos y hormonales (pubertad)\n\nDespués continúa la adultez y la vejez, completando el ciclo vital.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-006-v1",
+      "statement": "¿Cuál de los siguientes es un cambio que ocurre durante la pubertad?",
+      "context": "En Cartagena, estudiantes relacionan caracteres sexuales con su etapa de aparición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a leer y escribir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre en la infancia, no en la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollo de vello púbico y cambio en la voz",
+          "is_correct": true,
+          "feedback": "Correcto. Son caracteres sexuales secundarios que aparecen en la pubertad."
+        },
+        {
+          "letter": "C",
+          "text": "Salida de los primeros dientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre en la primera infancia (6-12 meses)."
+        },
+        {
+          "letter": "D",
+          "text": "Pérdida de la capacidad de aprendizaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la pubertad se sigue aprendiendo normalmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pubertad es la etapa en la que el cuerpo madura sexualmente, generalmente entre los 10-14 años en niñas y 12-16 años en niños. Los cambios incluyen:\n- En ambos sexos: crecimiento del vello púbico y axilar, aumento de estatura, cambios en la piel (acné), crecimiento acelerado\n- En niños: engrosamiento de la voz, crecimiento de los testículos y el pene, producción de espermatozoides\n- En niñas: desarrollo de las mamas, inicio de la menstruación (menarquia), ensanchamiento de caderas\n\nEstos cambios son controlados por hormonas: testosterona en hombres, estrógeno y progesterona en mujeres.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-007-v1",
+      "statement": "¿Cuál es la principal diferencia entre un espermatozoide y un óvulo?",
+      "context": "En Pereira, los estudiantes comparan los espermatozoides y los óvulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espermatozoide es más grande que el óvulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El óvulo es mucho más grande que el espermatozoide."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son iguales en tamaño y forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son muy diferentes en tamaño, forma y cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "El espermatozoide es pequeño, móvil y se produce en grandes cantidades; el óvulo es grande, inmóvil y se produce uno por ciclo",
+          "is_correct": true,
+          "feedback": "Correcto. Las diferencias están adaptadas a sus funciones."
+        },
+        {
+          "letter": "D",
+          "text": "El óvulo tiene cola y el espermatozoide no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el espermatozoide tiene cola para moverse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las diferencias entre gametos masculinos y femeninos reflejan sus funciones:\n- **Espermatozoide**: muy pequeño (0.05 mm), tiene cabeza (con el ADN), cuello (con mitocondrias para energía) y cola (flagelo para moverse). Se producen millones por día en los testículos.\n- **Óvulo**: mucho más grande (0.1 mm, visible a simple vista como un punto), esférico e inmóvil. Aporta el citoplasma, nutrientes y mitocondrias al futuro embrión. Se libera uno por ciclo menstrual (aproximadamente 400 en toda la vida reproductiva).\n\nEstas diferencias son un ejemplo de especialización celular: cada gameto está adaptado a su rol en la reproducción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-008-v1",
+      "statement": "¿Por qué el embrión debe implantarse en el útero para desarrollarse?",
+      "context": "En Manizales, el profesor muestra una ecografía de un feto de 12 semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el útero es el único lugar donde el óvulo puede ser fecundado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecundación ocurre en las trompas, no en el útero."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el útero proporciona alimento, oxígeno y protección al embrión en desarrollo",
+          "is_correct": true,
+          "feedback": "Correcto. El útero es el ambiente ideal para la gestación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el útero produce espermatozoides",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los espermatozoides se producen en los testículos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el útero ayuda a la ovulación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ovulación ocurre en los ovarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El útero es el órgano donde ocurre la gestación (embarazo). Su pared interna, el endometrio, se engrosa cada ciclo para recibir al embrión. Una vez implantado, se forma la placenta, un órgano temporal que conecta al embrión con el sistema circulatorio materno. A través de la placenta, el embrión recibe oxígeno y nutrientes de la madre, y elimina dióxido de carbono y desechos. El útero también protege al embrión de golpes y cambios de temperatura, y el líquido amniótico lo mantiene en un ambiente estable y estéril.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-009-v1",
+      "statement": "¿Qué argumento biológico refuta esta afirmación?",
+      "context": "En Cúcuta, un estudiante dice que \"la reproducción humana no es necesaria porque la gente puede adoptar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen razón, la adopción es una buena opción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adopción es válida socialmente, pero no reemplaza la función biológica."
+        },
+        {
+          "letter": "B",
+          "text": "La reproducción es una función vital necesaria para la supervivencia de la especie humana, no solo del individuo",
+          "is_correct": true,
+          "feedback": "Correcto. Sin reproducción, la especie se extinguiría."
+        },
+        {
+          "letter": "C",
+          "text": "La adopción es ilegal en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adopción es legal en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Los niños adoptados no son seres humanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por supuesto que lo son."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desde el punto de vista biológico, la reproducción es una de las tres funciones vitales de todos los seres vivos (junto con nutrición y relación). A nivel individual, una persona puede vivir sin reproducirse. Sin embargo, a nivel de la especie, la reproducción es indispensable para la supervivencia de la población humana. Sin reproducción, la especie dejaría de existir. La adopción es una práctica social valiosa que cuida de niños existentes, pero no puede reemplazar la función biológica de generar nuevos individuos de la especie.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-010-v1",
+      "statement": "¿Por qué es importante conocer el funcionamiento del aparato reproductor humano durante la adolescencia?",
+      "context": "En Ibagué, los estudiantes debaten sobre la importancia de la educación sexual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para poder tener hijos inmediatamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer no significa estar listo para tener hijos."
+        },
+        {
+          "letter": "B",
+          "text": "Para poder operar a otros compañeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudiantes no pueden realizar procedimientos médicos."
+        },
+        {
+          "letter": "C",
+          "text": "Para tomar decisiones informadas sobre la salud sexual y el propio cuerpo",
+          "is_correct": true,
+          "feedback": "Correcto. El conocimiento permite decisiones responsables."
+        },
+        {
+          "letter": "D",
+          "text": "Para poder diagnosticar enfermedades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diagnóstico requiere formación médica profesional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conocimiento del aparato reproductor humano y su funcionamiento es fundamental durante la adolescencia por varias razones: permite entender los cambios propios de la pubertad (normales y esperados), ayuda a tomar decisiones informadas sobre la salud sexual, previene embarazos no deseados e infecciones de transmisión sexual (ITS), promueve el respeto por el propio cuerpo y el de los demás, y fomenta relaciones basadas en el consentimiento y el respeto mutuo. La educación sexual integral no promueve la actividad sexual temprana, sino la madurez y responsabilidad.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

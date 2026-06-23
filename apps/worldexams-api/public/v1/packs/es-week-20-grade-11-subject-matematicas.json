@@ -1,12 +1,892 @@
 {
   "metadata": {
     "grade": 11,
-    "subject": "matematicas",
+    "subject": "Matematicas",
     "country": "es",
     "pack_id": "es-week-20-grade-11-subject-matematicas",
     "generated_at": "2026-06-18T23:58:39.435Z"
   },
   "questions": [
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v1",
+      "statement": "Simplifique: (6)(8x + 20)",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 48x + 120",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 48x + 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 48x - 120\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(8x + 20) = 48x + 120.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v3",
+      "statement": "Maria compro 8 cuadernos a $9.1 c/u en Santander. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $72.1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $8.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $9.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $17.1\r\n  \r\n\r\n**Explicacion:** Total = 8 x $9 = $72.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v4",
+      "statement": "Un estudiante de IES Santa Clara en Santander grafica f(x) = 3x + 9. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v5",
+      "statement": "En un examen EBAU en Alicante, se pide: si f(x) = 4x^2 + 10x + 0. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 36",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 14\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 4(4) + 10(2) + 0 = 16 + 20 + 0 = 36.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 9x + 14 = 0",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 2 y x = 7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 9 y x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-2)(x-7) = 0, por tanto x = 2 o x = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v7",
+      "statement": "Un estudiante de Bilbao obtuvo notas: 8, 12, 13, 14. &iquest;Cual es la media?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 11.5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 18\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 4x^3 + 1x^2 + 1x + 1",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 12x^2 + 2x + 1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 4x^2 + 1x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 12x^2 + 1x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 12x^3 + 2x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(4x^3) = 12x^2, d/dx(1x^2) = 2x, d/dx(1x) = 1, d/dx(1) = 0.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v10",
+      "statement": "En Madrid, un estudiante del IES San Isidro resuelve: 8x + 12 = 52. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** Se resta 12 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v11",
+      "statement": "Simplifique: (3)(6x + 12)",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 18x + 36",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18x + 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9x + 36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 18x - 36\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(6x + 12) = 18x + 36.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v13",
+      "statement": "Maria compro 5 cuadernos a $2.4 c/u en Toledo. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $10.4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $2.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $7.4\r\n  \r\n\r\n**Explicacion:** Total = 5 x $2 = $10.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v14",
+      "statement": "Un estudiante de IES Alfonso II en Oviedo grafica f(x) = 8x + 5. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v15",
+      "statement": "En un examen EBAU en Palma, se pide: si f(x) = 6x^2 + 5x + 2. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 36",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 6(4) + 5(2) + 2 = 24 + 10 + 2 = 36.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 12x + 36 = 0",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 6 y x = 6",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 12 y x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-6)(x-6) = 0, por tanto x = 6 o x = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v17",
+      "statement": "Un estudiante de Bilbao obtuvo notas: 16, 33, 24, 11. &iquest;Cual es la media?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 21.2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 88",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 29\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 4x^3 + 3x^2 + 0x + 3",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 12x^2 + 6x + 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 4x^2 + 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 12x^2 + 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 12x^3 + 6x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(4x^3) = 12x^2, d/dx(3x^2) = 6x, d/dx(0x) = 0, d/dx(3) = 0.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-v20",
+      "statement": "En Zaragoza, un estudiante del IES Goya resuelve: 2x + 7 = 17. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de ES practicando trigonometria razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 7 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
+    },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición del seno de un ángulo agudo $\\alpha$ en un triángulo rectángulo?",
@@ -48,7 +928,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v2",
@@ -91,7 +974,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v3",
@@ -134,7 +1020,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v4",
@@ -177,7 +1066,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v5",
@@ -220,7 +1112,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v6",
@@ -263,7 +1158,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v7",
@@ -306,7 +1204,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v8",
@@ -349,7 +1250,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v9",
@@ -392,7 +1296,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v10",
@@ -435,7 +1342,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v11",
@@ -478,7 +1388,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v12",
@@ -521,7 +1434,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v13",
@@ -564,7 +1480,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v14",
@@ -607,7 +1526,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v15",
@@ -650,7 +1572,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v16",
@@ -693,7 +1618,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v17",
@@ -736,7 +1664,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v18",
@@ -779,7 +1710,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v19",
@@ -822,7 +1756,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     },
     {
       "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v20",
@@ -865,7 +1802,10 @@
       "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "Matematicas",
+      "grade": 11,
+      "country": "es"
     }
   ]
 }

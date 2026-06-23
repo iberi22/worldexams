@@ -1,0 +1,1946 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-8-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.544Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "Según el texto continuo, ¿qué sector consume más agua en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doméstico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Agricultura (54%).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Industrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Otros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato en texto continuo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "Según la gráfica, ¿qué porcentaje del agua se usa para uso doméstico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "28%.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "12%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "6%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato en texto discontinuo (gráfica).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "Según la tabla, ¿qué ciudad tiene el menor consumo de agua por persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Riohacha.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Uribia (La Guajira).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extracción de datos de una tabla.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Cuánta agua consume en promedio una persona en Bogotá al día según la tabla?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95 litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "120 litros.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "108 litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "115 litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de dato en tabla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué relación hay entre la gráfica y la tabla respecto al consumo doméstico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La gráfica muestra que el 28% del agua es para uso doméstico; la tabla detalla cuánto consume cada ciudad individualmente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica contradice la tabla.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla es más importante que la gráfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de cómo dos formatos distintos ofrecen información complementaria.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué diferencia notable observas entre Bogotá y Uribia en la tabla?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá tiene menos población.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá consume 6 veces más agua por persona que Uribia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Uribia consume más agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen el mismo consumo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparación de datos entre filas de una tabla.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué problema social sugiere la diferencia de consumo entre Bogotá y Uribia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en Bogotá la gente bebe más agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay una desigualdad en el acceso al agua entre regiones de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que Uribia tiene mejor tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua es más barata en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de implicaciones sociales a partir de datos numéricos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué información de la gráfica complementa la afirmación del texto de que \"la agricultura usa la mayor parte del agua\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La barra de agricultura mide 54%, confirmando visualmente el dato.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "La barra de doméstico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "La barra de otros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla de ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integración de información textual y visual para confirmar hallazgos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "Según los datos de la tabla, ¿cuál es el consumo total aproximado de Bogotá por día?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto (es por persona)."
+        },
+        {
+          "letter": "B",
+          "text": "8 millones de litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "960 millones de litros (8.000.000 × 120).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "120 millones de litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo e inferencia a partir de dos columnas de la tabla.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "Según el texto, ¿qué pasará para 2030 si no cambiamos hábitos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El 70% de la población podría enfrentar estrés hídrico.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Todos tendrán más agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El consumo aumentará.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de una proyección en el texto continuo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿Qué ventaja tiene la gráfica sobre el texto continuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene más información.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Permite ver las proporciones de un solo vistazo, de manera visual e inmediata.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Es más precisa.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es más divertida.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparación de las ventajas de cada formato textual.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "¿Qué ventaja tiene el texto continuo sobre la gráfica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Permite explicar causas, proyecciones y contexto que la gráfica no puede mostrar.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Es más colorido.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ventajas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de las fortalezas de cada formato.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "¿Por qué es útil combinar textos continuos y discontinuos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ocupan más espacio.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ofrecen información complementaria: el texto explica el contexto y las causas, la gráfica/tabla muestra los datos visualmente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque confunden al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son más baratos de producir.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión sobre la complementariedad de formatos en la comunicación multimodal.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Cuál de los formatos presentados dirías que es un texto discontinuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La gráfica de consumo y la tabla de ciudades.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El título.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La advertencia del IDEAM.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificación correcta entre texto continuo y discontinuo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "¿Qué conclusión general puedes extraer combinando toda la información?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia tiene mucha agua y no hay problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la agricultura tiene problemas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Aunque Colombia tiene abundancia de agua, hay graves desigualdades en el acceso y el riesgo de estrés hídrico futuro es real.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El problema del agua solo afecta a Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Síntesis de información multimodal para llegar a una conclusión integrada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "Según la Publicación 2, ¿cuántas horas semanales tendrá la nueva jornada laboral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "42 horas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "36 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "40 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato específico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "Según la Publicación 3, ¿qué porcentaje de trabajadores informales no tiene prestaciones sociales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "63%.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "50%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "75%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato estadístico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es la publicación MENOS confiable y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicación 2: porque es de Facebook.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Publicación 1: porque es un tuit sin verificar, usa mayúsculas alarmistas y no cita fuentes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Publicación 3: porque es TikTok.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Publicación 4: porque es WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto (aunque WhatsApp es menos confiable, la 1 es peor)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación inicial de confiabilidad basada en formato y estilo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Qué elemento hace que la Publicación 4 sea sospechosa de desinformación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que usa muchas mayúsculas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que se basa en un testimonio anónimo (\"mi cuñado\") y pide compartir masivamente.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que habla de primas y cesantías.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que es larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de señales de alerta típicas de cadenas de desinformación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "La Publicación 1 dice que \"eliminarán el descanso del almuerzo\". ¿Qué elementos indican que puede ser falsa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene el hashtag #ReformaLaboral.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que usa lenguaje alarmista (\"URGENTE\"), no cita fuente oficial, es de una cuenta sin verificar y el cambio que describe es extremo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que menciona julio.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que tiene 1000 seguidores.",
+          "is_correct": false,
+          "feedback": "Parcial, pero no es determinante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de criterios de fact-checking básico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué hace que la Publicación 2 sea más confiable que las otras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está en Facebook.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que cita una fuente específica (Ministerio del Trabajo, comunicado oficial del 15 de marzo) y da datos concretos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que tiene 50.000 seguidores.",
+          "is_correct": false,
+          "feedback": "Parcial (no es suficiente)."
+        },
+        {
+          "letter": "D",
+          "text": "Que apoya la reforma.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de características que aumentan la confiabilidad: fuente verificable y datos específicos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué tipo de evidencia ofrece la Publicación 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Testimonio anónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Opinión personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Datos del DANE (institución oficial de estadística).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Un rumor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación del tipo de evidencia y su peso en la veracidad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "Para verificar la Publicación 2, ¿qué deberías hacer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartirla inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Buscar el comunicado oficial del Ministerio del Trabajo del 15 de marzo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar a un amigo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del proceso de verificación de fuentes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué tienen en común las Publicaciones 1 y 4 como ejemplos de posible desinformación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son de fuentes oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas usan lenguaje alarmante y se basan en afirmaciones sin fuente verificable.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen muchos seguidores.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas dan datos exactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de patrones comunes en la desinformación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "¿El número de seguidores (Publicación 2: 50K) garantiza que la información sea verdadera?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, a más seguidores más verdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "No, la popularidad no equivale a veracidad. Lo que importa es la fuente de la información.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque si muchos lo siguen es porque es cierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Depende del tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciación entre popularidad y credibilidad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿Qué intención podría tener quien creó la Publicación 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar responsablemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Generar miedo y confusión, posiblemente para desprestigiar la reforma.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Educar sobre derechos laborales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el debate respetuoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de la intención detrás de la desinformación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "Si solo vieras la Publicación 4 en WhatsApp, ¿cuál sería una reacción responsable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reenviarla a todos tus contactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Creerla porque viene de un familiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "No compartirla y buscar fuentes oficiales (Ministerio del Trabajo, medios serios).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorarla completamente sin hacer nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de comportamiento responsable ante información no verificada.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "¿Cuál publicación consideras más útil para entender realmente la reforma laboral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicación 1 (Tuit alarmista).",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Publicación 4 (Cadena WhatsApp).",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Publicación 2 (Facebook con fuente oficial) complementada con Publicación 3 (Datos DANE).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo Publicación 3 (TikTok).",
+          "is_correct": false,
+          "feedback": "Parcial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación y selección de fuentes confiables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Qué papel juega el DANE en la Publicación 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una opinión más.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Es una fuente de autoridad estadística que respalda los datos presentados.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Es una empresa privada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es una red social.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del valor de las instituciones oficiales como fuentes confiables.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "¿Cuál es la principal diferencia entre la Publicación 1 (Tuit) y la Publicación 3 (TikTok)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una es más larga que la otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La Publicación 3 cita una fuente oficial verificable (DANE); la 1 no cita ninguna fuente y usa lenguaje sensacionalista.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una es verdad y la otra no.",
+          "is_correct": false,
+          "feedback": "Simplista."
+        },
+        {
+          "letter": "D",
+          "text": "Una es de derecha y otra de izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis comparativo de la calidad informativa de distintas publicaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes obras fue escrita por Gabriel García Márquez?",
+      "context": "En clase de literatura en Bogotá, el profesor pregunta sobre Gabriel García Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La vorágine\".",
+          "is_correct": false,
+          "feedback": "Incorrect. Es de José Eustasio Rivera."
+        },
+        {
+          "letter": "B",
+          "text": "\"María\".",
+          "is_correct": false,
+          "feedback": "Incorrect. Es de Jorge Isaacs."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cien años de soledad\".",
+          "is_correct": true,
+          "feedback": "Correct. Es la obra maestra de García Márquez, Premio Nobel de Literatura 1982."
+        },
+        {
+          "letter": "D",
+          "text": "\"El túnel\".",
+          "is_correct": false,
+          "feedback": "Incorrect. Es de Ernesto Sabato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Gabriel García Márquez (1927-2014) es el escritor colombiano más famoso, ganador del Premio Nobel de Literatura en 1982. \"Cien años de soledad\" (1967) es su obra cumbre y máximo exponente del realismo mágico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cuál es la característica principal del ensayo como género literario?",
+      "context": "Un estudiante en Medellín estudia el género del ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narra una historia ficticia con personajes.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es la narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Expone y reflexiona sobre un tema desde una perspectiva personal y subjetiva.",
+          "is_correct": true,
+          "feedback": "Correct. El ensayo es un texto de opinión argumentado."
+        },
+        {
+          "letter": "C",
+          "text": "Describe un objeto o lugar.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es la descripción."
+        },
+        {
+          "letter": "D",
+          "text": "Cuenta hechos reales de forma objetiva.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es el reportaje o la crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo es un género literario en prosa que aborda un tema desde una perspectiva personal, combinando argumentación, reflexión y estilo literario. Es subjetivo pero fundamentado. Grandes ensayistas latinoamericanos: Octavio Paz, Alfonso Reyes, Germán Arciniegas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v3",
+      "statement": "¿Qué caracteriza al cuento latinoamericano contemporáneo?",
+      "context": "En clase de literatura en Cali, se analiza un cuento de Julio Cortázar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre tiene final feliz.",
+          "is_correct": false,
+          "feedback": "Incorrect. No es una regla."
+        },
+        {
+          "letter": "B",
+          "text": "Usa exclusivamente lenguaje formal.",
+          "is_correct": false,
+          "feedback": "Incorrect. Puede usar lenguaje coloquial."
+        },
+        {
+          "letter": "C",
+          "text": "A menudo mezcla lo real con lo fantástico y cuestiona la realidad cotidiana.",
+          "is_correct": true,
+          "feedback": "Correct. El cuento latinoamericano contemporáneo explora lo fantástico y lo real."
+        },
+        {
+          "letter": "D",
+          "text": "Solo habla de temas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrect. También habla de temas urbanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuento latinoamericano del siglo XX (Cortázar, Borges, García Márquez, Quiroga, Rulfo) se caracteriza por explorar lo fantástico dentro de lo cotidiano, romper con las estructuras narrativas tradicionales y abordar temas existenciales, sociales y políticos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v4",
+      "statement": "¿Qué propósito tiene el uso de la repetición de frases en un discurso político?",
+      "context": "En Barranquilla, un profesor analiza un discurso político de un candidato a la alcaldía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar un amplio vocabulario.",
+          "is_correct": false,
+          "feedback": "Incorrect. La repetición no muestra vocabulario variado."
+        },
+        {
+          "letter": "B",
+          "text": "Enfatizar una idea y hacerla memorable para la audiencia.",
+          "is_correct": true,
+          "feedback": "Correct. La repetición (anáfora) es un recurso retórico de énfasis."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir al público.",
+          "is_correct": false,
+          "feedback": "Incorrect. Busca claridad, no confusión."
+        },
+        {
+          "letter": "D",
+          "text": "Ahorrar tiempo al hablar.",
+          "is_correct": false,
+          "feedback": "Incorrect. Repetir no ahorra tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La repetición retórica (como la anáfora: \"Sí se puede, sí se puede, sí se puede\") busca fijar una idea en la mente de la audiencia, crear ritmo y dar énfasis emocional al mensaje. Es un recurso clásico de la oratoria política.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes afirmaciones sería apropiada para la introducción de un ensayo crítico sobre la desigualdad en Colombia?",
+      "context": "En un taller de escritura en Bucaramanga, un estudiante escribe un ensayo crítico sobre la desigualdad en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La desigualdad en Colombia es un tema que existe.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es demasiado vaga."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia tiene 48 millones de habitantes según el DANE.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un dato sin tesis."
+        },
+        {
+          "letter": "C",
+          "text": "\"La desigualdad en Colombia no es solo económica, sino también racial y territorial, y requiere soluciones estructurales.\"",
+          "is_correct": true,
+          "feedback": "Correct. Presenta una tesis clara y debatible."
+        },
+        {
+          "letter": "D",
+          "text": "\"Voy a hablar de la desigualdad.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es informal y no presenta una postura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La introducción de un ensayo debe presentar el tema, contextualizarlo y, sobre todo, plantear una tesis clara que el ensayo defenderá. Una tesis fuerte es específica, debatible y muestra la postura del autor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v6",
+      "statement": "¿Cuál de las siguientes situaciones es un ejemplo de realismo mágico?",
+      "context": "En clase de literatura en Pereira, se analiza el realismo mágico en \"Cien años de soledad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un personaje vuela en avión.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es real, no mágico."
+        },
+        {
+          "letter": "B",
+          "text": "Un personaje muere al final de la historia.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es realista."
+        },
+        {
+          "letter": "C",
+          "text": "Un personaje sube al cielo en cuerpo y alma mientras tiende la ropa.",
+          "is_correct": true,
+          "feedback": "Correct. El realismo mágico presenta lo extraordinario como natural."
+        },
+        {
+          "letter": "D",
+          "text": "Un personaje va al mercado.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una situación cotidiana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El realismo mágico, característico de la literatura latinoamericana (García Márquez, Isabel Allende, Laura Esquivel), presenta eventos sobrenaturales o fantásticos como si fueran parte de la realidad cotidiana, sin asombro por parte de los personajes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v7",
+      "statement": "¿Cuál es una diferencia fundamental entre el cuento y la novela?",
+      "context": "Un profesor explica la diferencia entre el cuento y la novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento tiene personajes, la novela no.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambos tienen personajes."
+        },
+        {
+          "letter": "B",
+          "text": "La novela siempre es de ficción, el cuento siempre es real.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambos pueden ser ficción o realidad."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento tiene una estructura más breve y concentrada; la novela permite desarrollar múltiples tramas y personajes.",
+          "is_correct": true,
+          "feedback": "Correct. Extensión y complejidad diferencian ambos géneros."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, son lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrect. Son géneros narrativos distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuento es una narración breve con pocos personajes y una sola línea argumental. La novela es más extensa, permite tramas múltiples, personajes complejos y desarrollo más profundo. Ambas son formas de narrativa, pero con alcances diferentes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v8",
+      "statement": "¿Qué recurso retórico predomina cuando un presidente dice \"Colombia, país de la belleza, país de la sabiduría, país de la esperanza\"?",
+      "context": "Se analiza un fragmento del discurso de posesión de Gustavo Petro (2022).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía.",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay indicios de ironía."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque es enfático, no es tanto exageración como acumulación."
+        },
+        {
+          "letter": "C",
+          "text": "Anáfora (repetición de \"país de la\" al inicio de cada frase).",
+          "is_correct": true,
+          "feedback": "Correct. La anáfora crea ritmo y énfasis."
+        },
+        {
+          "letter": "D",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay identificación entre términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anáfora es una figura retórica que consiste en repetir una palabra o frase al inicio de varias oraciones o versos para crear énfasis, ritmo y efecto poético. Es muy usada en discursos políticos y literatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v9",
+      "statement": "¿Qué diferencia temática principal hay entre estas dos obras?",
+      "context": "Se compara un fragmento de \"El Llano en llamas\" de Juan Rulfo con uno de \"La ciudad y los perros\" de Mario Vargas Llosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una es poesía, la otra es prosa.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambas son narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "\"El Llano en llamas\" aborda la vida rural y la violencia en el campo mexicano; \"La ciudad y los perros\" aborda la vida urbana y la violencia en un colegio militar peruano.",
+          "is_correct": true,
+          "feedback": "Correct. Rulfo es rural, Vargas Llosa es urbano."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tratan exactamente el mismo tema.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tienen contextos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Una es colombiana y la otra es argentina.",
+          "is_correct": false,
+          "feedback": "Incorrect. Rulfo es mexicano, Vargas Llosa es peruano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura latinoamericana es diversa: Rulfo (México) explora el mundo rural, la Revolución Mexicana y el realismo mágico; Vargas Llosa (Perú) aborda la vida urbana, las instituciones y la violencia estructural. Ambos son Premios Nobel de Literatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v10",
+      "statement": "¿Cuál sería el primer paso para escribir un ensayo crítico sobre una canción?",
+      "context": "Un estudiante en Cartagena debe escribir un ensayo crítico sobre una canción de vallenato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir la conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrect. La conclusión va al final."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar la letra de la canción.",
+          "is_correct": false,
+          "feedback": "Incorrect. No es un análisis."
+        },
+        {
+          "letter": "C",
+          "text": "Escuchar la canción, identificar su tema, contexto y recursos literarios.",
+          "is_correct": true,
+          "feedback": "Correct. El análisis parte de la observación detallada."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar a otros qué opinan.",
+          "is_correct": false,
+          "feedback": "Incorrect. El análisis crítico es personal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para escribir un ensayo crítico, primero se debe analizar el objeto de estudio: identificar el tema central, el contexto de producción, los recursos literarios o retóricos utilizados, y formular una interpretación personal fundamentada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v11",
+      "statement": "¿Es correcta esta afirmación?",
+      "context": "Un estudiante afirma: \"La literatura latinoamericana solo habla de realismo mágico.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, toda la literatura latinoamericana es realismo mágico.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una generalización falsa."
+        },
+        {
+          "letter": "B",
+          "text": "No, la literatura latinoamericana solo habla de política.",
+          "is_correct": false,
+          "feedback": "Incorrect. También es una generalización."
+        },
+        {
+          "letter": "C",
+          "text": "No. La literatura latinoamericana es muy diversa: incluye realismo mágico (García Márquez), realismo social (Vargas Llosa), poesía (Neruda, Paz), ensayo, teatro, etc.",
+          "is_correct": true,
+          "feedback": "Correct. Hay múltiples corrientes y géneros."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque el realismo mágico es lo único que se escribe en Latinoamérica.",
+          "is_correct": false,
+          "feedback": "Incorrect. Hay mucha variedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura latinoamericana es enormemente diversa: incluye realismo mágico, realismo social (Vargas Llosa, Rulfo), literatura indigenista (José María Arguedas), poesía (Pablo Neruda, Octavio Paz), ensayo (Alfonso Reyes) y narrativa contemporánea.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v12",
+      "statement": "¿Cuál era el propósito retórico principal de este discurso?",
+      "context": "Se analiza un discurso del presidente Juan Manuel Santos en la firma del Acuerdo de Paz (2016).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre los detalles técnicos del acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrect. El propósito era más persuasivo que informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Unir a los colombianos en torno a la paz y presentar el acuerdo como un logro histórico.",
+          "is_correct": true,
+          "feedback": "Correct. El discurso buscaba legitimar y celebrar el acuerdo."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar a la oposición.",
+          "is_correct": false,
+          "feedback": "Incorrect. Un discurso de firma busca unidad, no confrontación."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar las matemáticas del acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrect. No era un discurso técnico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los discursos políticos en momentos históricos (firma de acuerdos, posesiones, conmemoraciones) tienen un propósito principalmente ceremonial y persuasivo: buscan crear un relato compartido, legitimar un proceso y unir a la audiencia en torno a valores comunes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v13",
+      "statement": "¿Qué diferencia estructural hay entre el ensayo clásico y el ensayo contemporáneo en blogs/redes?",
+      "context": "Se comparan dos ensayos: uno de Germán Arciniegas sobre la identidad colombiana y otro contemporáneo sobre la identidad en la era digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo clásico no tiene introducción.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí tiene."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo contemporáneo es más extenso.",
+          "is_correct": false,
+          "feedback": "Incorrect. Suele ser más breve."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo clásico suele ser más extenso, con estructura formal y lenguaje académico; el contemporáneo en blogs es más breve, directo y con lenguaje coloquial.",
+          "is_correct": true,
+          "feedback": "Correct. El formato cambia según el medio."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencias.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí hay diferencias de formato y estilo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo ha evolucionado con los medios: el ensayo académico o literario clásico permite desarrollo extenso; el ensayo digital (blogs, newsletters) tiende a ser más breve, directo y accesible, adaptándose a la lectura en pantalla.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v14",
+      "statement": "¿Es correcta esta afirmación?",
+      "context": "Un estudiante dice: \"Leer literatura latinoamericana no sirve para nada porque son puras historias inventadas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, la literatura es solo entretenimiento.",
+          "is_correct": false,
+          "feedback": "Incorrect. La literatura tiene múltiples funciones."
+        },
+        {
+          "letter": "B",
+          "text": "No, la literatura latinoamericana solo es útil para escritores.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es útil para todos."
+        },
+        {
+          "letter": "C",
+          "text": "No. La literatura latinoamericana permite entender la historia, la cultura, las problemáticas sociales y la identidad de la región, además de desarrollar empatía y pensamiento crítico.",
+          "is_correct": true,
+          "feedback": "Correct. La literatura es una ventana a la realidad social."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque la historia es mejor que la literatura.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambas son formas de conocimiento complementarias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura no solo entretiene: permite explorar la condición humana, conocer otras realidades, desarrollar empatía y comprender contextos históricos y sociales. Leer a García Márquez o Rulfo ayuda a entender la historia y la identidad latinoamericana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v15",
+      "statement": "¿Qué evidencia apoya esta afirmación?",
+      "context": "Un crítico literario afirma: \"La literatura latinoamericana del siglo XX fue una forma de resistencia política y cultural frente al colonialismo y el imperialismo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los escritores latinoamericanos escribían solo para divertir.",
+          "is_correct": false,
+          "feedback": "Incorrect. Muchos tenían un compromiso político."
+        },
+        {
+          "letter": "B",
+          "text": "No hay relación entre literatura y política.",
+          "is_correct": false,
+          "feedback": "Incorrect. La literatura siempre está en contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Autores como Gabriel García Márquez, Mario Vargas Llosa y Pablo Neruda usaron sus obras para denunciar dictaduras, desigualdad y dependencia económica, posicionando la voz latinoamericana en el mundo.",
+          "is_correct": true,
+          "feedback": "Correct. La literatura latinoamericana tuvo un fuerte componente de denuncia social y política."
+        },
+        {
+          "letter": "D",
+          "text": "La literatura latinoamericana fue escrita en español por imposición colonial.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque se escribe en español, eso no invalida su carácter de resistencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Muchos escritores latinoamericanos combinaron literatura y compromiso político: García Márquez denunció el imperialismo (\"El otoño del patriarca\"), Neruda escribió poesía social, Vargas Llosa criticó dictaduras. La literatura fue una forma de construir identidad y resistir culturalmente.\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Reflexivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

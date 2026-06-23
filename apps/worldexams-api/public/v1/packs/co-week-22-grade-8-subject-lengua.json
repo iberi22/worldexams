@@ -48,7 +48,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v10",
@@ -435,7 +462,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v11",
@@ -478,7 +508,10 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-v12",
@@ -521,7 +554,562 @@
       "bundle_id": "CO-LEN-8-2026-W22-creacionismo-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v1",
+      "statement": "¿Qué es una metáfora?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una comparación directa usando 'como'",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La sustitución de un término real por uno imaginario con el que tiene semejanza",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un insulto",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una palabra que suena igual a otra",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora es la figura de sustitución por excelencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v2",
+      "statement": "El símil se diferencia de la metáfora porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más largo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Utiliza nexos comparativos como 'como', 'cual' o 'parecido a'",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "No tiene sentido",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Es solo para niños",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El símil establece una comparación explícita.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v3",
+      "statement": "'Tus dientes son perlas' es una:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identifica directamente dientes con perlas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v4",
+      "statement": "¿Qué es la personificación o prosopopeya?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disfrazarse de alguien",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Atribuir cualidades humanas a objetos inanimados o animales",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Escribir una biografía",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Inventar un personaje",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hace que lo no humano actúe o sienta como humano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v5",
+      "statement": "'Érase un hombre a una nariz pegado' (Quevedo) usa principalmente:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eufemismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Retruécano",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una exageración extrema de la nariz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v6",
+      "statement": "¿Qué figura consiste en la repetición de sonidos similares en una frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Aliteración",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Paradoja",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Sinestesia",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Busca un efecto sonoro o rítmico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v7",
+      "statement": "La antítesis consiste en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tener tesis",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Contraponer dos ideas de significado opuesto",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Escribir al revés",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Repetir una palabra al final",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Busca resaltar el contraste.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v8",
+      "statement": "¿Qué es la sinestesia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una enfermedad",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La atribución de una sensación a un sentido que no le corresponde",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de rima",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una pausa en el verso",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejemplo: 'un grito amargo' (oído y gusto).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v9",
+      "statement": "'El verde viento' es una figura de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbaton",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Epíteto o Sinestesia (según contexto)",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Ironía",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Pleonasmo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Asigna un color al viento, evocando sensaciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v10",
+      "statement": "El hipérbaton es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una exageración",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La alteración del orden lógico de las palabras",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de acento",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una rima interna",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muy común en el Barroco.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v11",
+      "statement": "¿Qué es un oxímoron?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gas noble",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La unión de dos palabras con significados contradictorios que crean un nuevo sentido",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un poema de ocho versos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una falta de ortografía",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejemplo: 'hielo abrasador'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-v12",
+      "statement": "La anáfora consiste en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir una palabra al principio de varios versos o frases",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "B",
+          "text": "Repetir sonidos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "C",
+          "text": "Omitir conjunciones",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Invertir el orden",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aporta ritmo y énfasis.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.3,
+      "bundle_id": "CO-LEN-8-2026-W22-figuras-retoricas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     }
   ]
 }

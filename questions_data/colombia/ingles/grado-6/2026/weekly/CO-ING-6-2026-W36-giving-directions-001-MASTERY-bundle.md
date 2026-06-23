@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
-alignment: "DBA MEN Colombia 2026"
-cefr_level: "A2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Weekly Pack W36 — Asking for and Giving Directions
 
 **Grade:** 6° | **Periodo:** 4 | **Semana:** W36 | **Year:** 2026 | **CEFR:** A2

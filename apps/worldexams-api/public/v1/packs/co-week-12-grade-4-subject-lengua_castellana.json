@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v1",
+      "statement": "\"El delfín rosado salta sobre la **ola**, mientras el turista lo saluda con un **hola**\". ¿Cuál es la diferencia entre estas dos palabras?",
+      "context": "Repaso de homófonos en un cuento sobre el río Amazonas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, se pueden escribir de las dos formas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía determina el significado."
+        },
+        {
+          "letter": "B",
+          "text": "**Ola** (sin H) es el movimiento del agua y **Hola** (con H) es un saludo.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un par homófono básico pero importante."
+        },
+        {
+          "letter": "C",
+          "text": "**Ola** es un animal y **Hola** es una planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos palabras se refiere a seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "**Hola** se usa solo para hablar y **Ola** solo para escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas se usan en el lenguaje oral y escrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar homófonos comunes mediante el contexto asegura que el estudiante no cometa errores ortográficos que cambien el sentido de sus mensajes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v2",
+      "statement": "En una gráfica de líneas sobre el Nevado del Cocuy, la línea cae bruscamente durante los últimos años. ¿Qué nos indica esto sobre la nieve del nevado?",
+      "context": "Lectura de una gráfica sobre el clima en el Nevado del Cocuy",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está nevando más que antes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nevara más, la línea subiría."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cantidad de nieve está disminuyendo (se está derritiendo).",
+          "is_correct": true,
+          "feedback": "Correcto. La caída de la línea representa una reducción en el valor medido (cantidad de nieve)."
+        },
+        {
+          "letter": "C",
+          "text": "Que el nevado es muy alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura no cambia bruscamente en pocos años."
+        },
+        {
+          "letter": "D",
+          "text": "Que los turistas ya no quieren ir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gráfica mide nieve, no turistas (a menos que se especifique lo contrario)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interpretación de tendencias en gráficas (subidas y bajadas) es una habilidad de análisis de textos discontinuos fundamental para las ciencias y el lenguaje.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v3",
+      "statement": "El profesor de arte dice: \"Dibujen una **hoja** en su **hoja** de papel\". ¿Cómo se clasifica la palabra resaltada?",
+      "context": "Uso de la palabra \"hoja\" en una clase de arte en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como un sinónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son palabras diferentes con el mismo significado, sino la misma palabra con varios significados."
+        },
+        {
+          "letter": "B",
+          "text": "Como un antónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son significados opuestos."
+        },
+        {
+          "letter": "C",
+          "text": "Como una palabra polisémica.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Hoja\" tiene múltiples acepciones (parte de planta, papel, herramienta)."
+        },
+        {
+          "letter": "D",
+          "text": "Como un error de repetición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un uso válido para mostrar la polisemia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La polisemia permite entender la flexibilidad del lenguaje. Reconocer estos usos evita confusiones en las instrucciones escolares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v4",
+      "statement": "¿Cuál es la función de los **argumentos** en un ensayo escolar?",
+      "context": "Estructura de un ensayo sobre la paz en el colegio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el texto sea más largo y difícil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es la longitud sino la persuasión."
+        },
+        {
+          "letter": "B",
+          "text": "Contar chistes para que el lector no se aburra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los argumentos deben ser razones serias y lógicas."
+        },
+        {
+          "letter": "C",
+          "text": "Dar razones válidas para apoyar la opinión (tesis) del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Los argumentos son el sustento de la opinión en un texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Listar los materiales que se usaron para el trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una lista de materiales, no argumentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender la función de la argumentación diferencia al ensayo de otros tipos de texto como la narración o la descripción pura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v5",
+      "statement": "Estás escribiendo una carta formal para pedir apoyo para un grupo de danza folclórica. ¿Cuál es la forma más respetuosa de referirse a la persona que recibirá la carta?",
+      "context": "El lenguaje de una carta formal dirigida al Ministerio de Cultura",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oye, tú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es irrespetuoso y demasiado informal."
+        },
+        {
+          "letter": "B",
+          "text": "Querido amigo del Ministerio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es demasiado cercano para una comunicación institucional."
+        },
+        {
+          "letter": "C",
+          "text": "Distinguido señor Ministro o Respetada autoridad:",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de cargos y adjetivos de cortesía es obligatorio en la carta formal."
+        },
+        {
+          "letter": "D",
+          "text": "A quien le interese esto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una forma descortés y poco profesional de dirigirse a alguien."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El registro formal es una competencia social. El estudiante debe saber elegir las palabras que demuestren respeto por la jerarquía y la institución.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v6",
+      "statement": "En un mapa conceptual sobre el ciclo del agua, ¿dónde debería ir el concepto \"Evaporación\" si queremos seguir un orden lógico?",
+      "context": "Organización de un mapa conceptual sobre el ciclo del agua",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un rincón apartado del mapa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe estar conectado a los demás procesos."
+        },
+        {
+          "letter": "B",
+          "text": "Conectado al concepto principal \"Ciclo del Agua\" como una de sus etapas.",
+          "is_correct": true,
+          "feedback": "Correcto. Todas las etapas deben depender jerárquicamente del tema central."
+        },
+        {
+          "letter": "C",
+          "text": "Dentro del cuadro del título.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título debe ser único y breve."
+        },
+        {
+          "letter": "D",
+          "text": "No debe ir, porque el vapor no se ve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sea invisible, es un concepto clave del proceso científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura jerárquica y lógica del mapa conceptual ayuda a organizar el conocimiento científico de forma visual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v7",
+      "statement": "Tienes que estudiar la vida de 5 personajes históricos de Colombia y recordar sus fechas y logros. ¿Qué combinación de técnicas sería la más efectiva?",
+      "context": "Selección de la técnica de estudio adecuada para un examen de historia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo leer el libro muchas veces hasta cansarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura pasiva es la técnica menos efectiva para memorizar datos específicos."
+        },
+        {
+          "letter": "B",
+          "text": "Subrayar los logros en el texto y luego hacer un cuadro comparativo o una línea de tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. El subrayado localiza la información y el cuadro/línea la organiza para el estudio."
+        },
+        {
+          "letter": "C",
+          "text": "Dibujar a los personajes con ropa de superhéroes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una actividad creativa pero no ayuda directamente con los datos históricos."
+        },
+        {
+          "letter": "D",
+          "text": "Subrayar todo el libro con el mismo color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subrayado total no permite distinguir lo importante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metacognición (saber cómo estudiar mejor) es el nivel más alto de las técnicas de estudio. El estudiante debe elegir herramientas según la tarea (datos vs. conceptos).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v8",
+      "statement": "Lee: \"La Sierra Nevada de Santa Marta es un sistema montañoso aislado de los Andes. Es la montaña costera más alta del mundo\". ¿Cuál de las siguientes es una **conclusión lógica** que se puede sacar de este texto?",
+      "context": "Análisis de un texto académico sobre la biodiversidad en la Sierra Nevada",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en la Sierra Nevada no hace frío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si es la más alta, seguramente tiene climas fríos en la cima."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Sierra Nevada tiene características únicas porque no está pegada a las otras montañas de los Andes.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que está \"aislada\", lo que implica una diferencia con el resto del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "Que los Andes son más pequeños que un edificio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una comparación sin sentido basada en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que no se puede subir a esa montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona que sea inaccesible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia lógica a partir de textos académicos es una habilidad de comprensión lectora crítica. El estudiante debe ir más allá de lo literal y entender las implicaciones de las palabras (como \"aislado\").\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2, bundle_size 8. |\n| Curricular | 40/40 | Repaso final de competencias de grado 4°. |\n| Contexto | 20/20 | Referencias a Amazonas, El Cocuy, Cali, Sierra Nevada de Santa Marta y Ministerios. |\n| Redacción | 10/10 | Alta calidad en distractores y explicaciones. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v1",
       "statement": "¿Cuál es la función principal de un texto argumentativo?",
       "context": "Un estudiante en Bogotá explica para qué se escribe un texto argumentativo.",
@@ -48,7 +416,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v2",
@@ -91,7 +462,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v3",
@@ -134,7 +508,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v4",
@@ -177,7 +554,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v5",
@@ -220,7 +600,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v6",
@@ -263,7 +646,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v7",
@@ -306,7 +692,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v8",
@@ -349,7 +738,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v9",
@@ -392,7 +784,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v10",
@@ -435,7 +830,10 @@
       "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

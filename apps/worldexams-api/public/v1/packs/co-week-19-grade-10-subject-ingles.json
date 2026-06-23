@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-19-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.579Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v1",
+      "statement": "\"He hasn't answered his phone all day. He ____ very busy with the final project.\"",
+      "context": "Making assumptions based on evidence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect for deduction."
+        },
+        {
+          "letter": "B",
+          "text": "must be",
+          "is_correct": true,
+          "feedback": "Correct. 'Must' is used for strong logical deductions."
+        },
+        {
+          "letter": "C",
+          "text": "should be",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Must' is used to express a strong belief or a logical deduction based on evidence.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v2",
+      "statement": "\"I'm not sure why she is late. She ____ the bus, or she ____ stuck in traffic.\"",
+      "context": "Considering different possibilities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must miss / is",
+          "is_correct": false,
+          "feedback": "Too certain."
+        },
+        {
+          "letter": "B",
+          "text": "might have missed / could be",
+          "is_correct": true,
+          "feedback": "Correct. 'Might' and 'could' for possibility."
+        },
+        {
+          "letter": "C",
+          "text": "should miss / will be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can miss / must be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Might', 'may', and 'could' are used to express possibility or uncertainty.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v3",
+      "statement": "\"That ____ the principal. He is currently at a conference in another city.\"",
+      "context": "Expressing impossibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Mustn't' is for prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "can't be",
+          "is_correct": true,
+          "feedback": "Correct. 'Can't' is used for logical impossibility."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "won't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Can't' is the negative of 'must' for deductions. It is used to express that something is logically impossible.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v4",
+      "statement": "\"The witness's story is inconsistent. He ____ the truth about what happened that night.\"",
+      "context": "An article about a mysterious event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't tell",
+          "is_correct": false,
+          "feedback": "Possible, but 'may not be telling' is more nuanced for B2."
+        },
+        {
+          "letter": "B",
+          "text": "may not be telling",
+          "is_correct": true,
+          "feedback": "Correct. Expresses doubt about an ongoing state."
+        },
+        {
+          "letter": "C",
+          "text": "mustn't tell",
+          "is_correct": false,
+          "feedback": "Incorrect (prohibition)."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't tell",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'may not be' + -ing to express doubt about a current or ongoing situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v5",
+      "statement": "\"Choosing to work for a company with such a poor environmental record ____ a difficult decision for her.\"",
+      "context": "Speculating about a choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can be",
+          "is_correct": false,
+          "feedback": "Too general."
+        },
+        {
+          "letter": "B",
+          "text": "must have been",
+          "is_correct": true,
+          "feedback": "Correct. Deduction about a past state/action."
+        },
+        {
+          "letter": "C",
+          "text": "should be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might be",
+          "is_correct": false,
+          "feedback": "Correct but B is more likely for an completed choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'must have been' to make a strong deduction about a past feeling or situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v6",
+      "statement": "\"This ethical theory ____ correct in every situation, but it provides a good general guideline.\"",
+      "context": "A critique of an ethical theory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "may not be",
+          "is_correct": true,
+          "feedback": "Correct. Expresses a lack of certainty/universality."
+        },
+        {
+          "letter": "C",
+          "text": "can't be",
+          "is_correct": false,
+          "feedback": "Too strong."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'may not' or 'might not' to express nuance and limitations in an academic or philosophical argument.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v7",
+      "statement": "\"She donated a lot of money anonymously. She ____ any public recognition for her charity work.\"",
+      "context": "Analyzing a person's motives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't want",
+          "is_correct": true,
+          "feedback": "Correct. Logical deduction based on her anonymity."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't have to want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'can't' to deduce a lack of desire or motivation based on observed behavior.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v8",
+      "statement": "\"If they are hiding their financial reports, there ____ something wrong with their accounting.\"",
+      "context": "A text about corporate ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can be",
+          "is_correct": false,
+          "feedback": "Too weak."
+        },
+        {
+          "letter": "B",
+          "text": "must be",
+          "is_correct": true,
+          "feedback": "Correct. Strong logical conclusion."
+        },
+        {
+          "letter": "C",
+          "text": "should be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might be",
+          "is_correct": false,
+          "feedback": "Possible, but B fits the 'hiding' context better."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relating 'must' to a condition (If they are hiding...) to strengthen a logical deduction.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v9",
+      "statement": "\"An AI ____ the difference between right and wrong, as it only follows its programming.\"",
+      "context": "Discussing the morality of AI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't really know",
+          "is_correct": true,
+          "feedback": "Correct. Deduction based on the nature of AI."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't have to know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might not know",
+          "is_correct": false,
+          "feedback": "Possible, but B is more definitive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'can't' to describe a fundamental or categorical impossibility.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v10",
+      "statement": "\"Given the circumstances, he ____ have felt that he had no other option.\"",
+      "context": "A complex ethical debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct. 'Must' + have + past participle for past deduction."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for deduction."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Using 'must have' + past participle to reconstruct a person's past mindset or motivation.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v11",
+      "statement": "\"His actions ____ well-intentioned, but the outcome was undeniably harmful.\"",
+      "context": "Critique of a moral choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must be",
+          "is_correct": false,
+          "feedback": "Too certain."
+        },
+        {
+          "letter": "B",
+          "text": "might have been",
+          "is_correct": true,
+          "feedback": "Correct. Conceding a possibility while focusing on the result."
+        },
+        {
+          "letter": "C",
+          "text": "can't have been",
+          "is_correct": false,
+          "feedback": "Contradicts the 'but' logic."
+        },
+        {
+          "letter": "D",
+          "text": "should have been",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'might have been' to acknowledge a possibility in a complex ethical evaluation.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v12",
+      "statement": "\"If a choice is predetermined by one's biology, then it ____ truly 'free' in the ethical sense.\"",
+      "context": "A philosophical paradox.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't be",
+          "is_correct": true,
+          "feedback": "Correct. Logical conclusion of the premise."
+        },
+        {
+          "letter": "C",
+          "text": "might not be",
+          "is_correct": false,
+          "feedback": "Possible, but B is the logical 'must not'."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Using 'can't' to complete a logical syllogism in a philosophical or ethical discussion.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

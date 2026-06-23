@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencia y Tecnologia",
+    "country": "pe",
+    "pack_id": "pe-week-10-grade-11-subject-ciencia_y_tecnologia",
+    "generated_at": "2026-06-22T05:46:18.612Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v1",
+      "statement": "Simplifique: (2)(3x + 14)",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6x + 28",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6x + 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5x + 28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6x - 28\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(3x + 14) = 6x + 28.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v3",
+      "statement": "Maria compro 5 cuadernos a $10.2 c/u en Huancayo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $50.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $15.2\r\n  \r\n\r\n**Explicacion:** Total = 5 x 10 = $50.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional La Libertad en Huaraz grafica f(x) = 5x + 9. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v5",
+      "statement": "En Ayacucho, un estudiante del Colegio Nacional Mariscal Caceres resuelve: 6x + 10 = 40. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Se resta 10 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v6",
+      "statement": "Simplifique: (2)(4x + 42)",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8x + 84",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8x + 42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6x + 84",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8x - 84\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(4x + 42) = 8x + 84.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v8",
+      "statement": "Maria compro 2 cuadernos a $2.3 c/u en Lima. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $4.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $4.3\r\n  \r\n\r\n**Explicacion:** Total = 2 x 2 = $4.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 3x + 4. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v10",
+      "statement": "En Trujillo, un estudiante del Colegio Nacional San Juan resuelve: 8x + 7 = 47. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 7 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v11",
+      "statement": "Simplifique: (7)(3x + 41)",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 21x + 287",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 21x + 41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10x + 287",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 21x - 287\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (7)(3x + 41) = 21x + 287.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v13",
+      "statement": "Maria compro 6 cuadernos a $3.3 c/u en Iquitos. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $18.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $6.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $3.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $9.3\r\n  \r\n\r\n**Explicacion:** Total = 6 x 3 = $18.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional San Carlos en Puno grafica f(x) = 4x + 11. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v15",
+      "statement": "En Piura, un estudiante del Colegio Nacional San Miguel resuelve: 8x + 8 = 48. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** Se resta 8 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v16",
+      "statement": "Simplifique: (4)(5x + 24)",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 96",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9x + 96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 20x - 96\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (4)(5x + 24) = 20x + 96.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v18",
+      "statement": "Maria compro 5 cuadernos a $5.4 c/u en Cusco. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $25.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $10.4\r\n  \r\n\r\n**Explicacion:** Total = 5 x 5 = $25.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional San Miguel en Piura grafica f(x) = 5x + 2. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-v20",
+      "statement": "En Chiclayo, un estudiante del Colegio Nacional San Jose resuelve: 2x + 4 = 14. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando biodiversidad peru.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W10-biodiversidad-peru-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

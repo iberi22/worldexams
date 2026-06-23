@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W09: Connecting Ideas - Relative Clauses (B1)
 
 This bundle focuses on defining relative clauses using "who", "which", "that", and "where" to provide essential information about people, things, and places, aligned with CEFR B1 level for Grade 8.

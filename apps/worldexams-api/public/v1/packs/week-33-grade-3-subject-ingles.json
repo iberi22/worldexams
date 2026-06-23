@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-33-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v1",
+      "statement": "In which subject do you study **numbers**, **addition**, and **subtraction**? ➕➖",
+      "context": "Working with numbers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Art",
+          "is_correct": false,
+          "feedback": "Incorrect. Art is for drawing."
+        },
+        {
+          "letter": "B",
+          "text": "Math",
+          "is_correct": true,
+          "feedback": "Correct! Math (Mathematics) is about numbers."
+        },
+        {
+          "letter": "C",
+          "text": "Music",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Physical Education",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Math\" (o Mathematics) es la asignatura de matemáticas, donde aprendemos sobre números y operaciones.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v2",
+      "statement": "What is the name of **this** subject where you learn to say \"Hello\", \"Apple\", and \"Red\"? 🇺🇸🇬🇧",
+      "context": "Learning a new language.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spanish",
+          "is_correct": false,
+          "feedback": "Incorrect. That is our first language in Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "English",
+          "is_correct": true,
+          "feedback": "Correct! English is the subject we are studying now."
+        },
+        {
+          "letter": "C",
+          "text": "Science",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "History",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"English\" significa inglés. Es el idioma que estamos practicando y aprendiendo en esta clase.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v3",
+      "statement": "In **Science** class, you learn about **animals**, **plants**, and the **planet**. True or False? 🔬",
+      "context": "Learning about nature.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct! Science covers nature and the physical world."
+        },
+        {
+          "letter": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Incorrect. Science is indeed about nature."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Science\" significa ciencias. En esta materia estudiamos los seres vivos y el funcionamiento de la naturaleza.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v4",
+      "statement": "What subject do you have when you use **crayons**, **paint**, and **brushes**? 🎨",
+      "context": "Being creative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Math",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Science",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Art",
+          "is_correct": true,
+          "feedback": "Correct! Art is for creativity and drawing."
+        },
+        {
+          "letter": "D",
+          "text": "English",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Art\" significa arte o educación artística. Es donde dibujamos, pintamos y creamos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v5",
+      "statement": "I play the **recorder** (flauta) and I **sing** songs in this class. It is... 🎵",
+      "context": "Playing instruments.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Math",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Music",
+          "is_correct": true,
+          "feedback": "Correct! Music class is for sounds and songs."
+        },
+        {
+          "letter": "C",
+          "text": "Geography",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Science",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Music\" significa música. En esta clase aprendemos sobre sonidos, instrumentos y canto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v6",
+      "statement": "In **P.E.** class, we **run**, **jump**, and play **sports**. What does **P.E.** mean? 🏃‍♂️",
+      "context": "Physical activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physical Education",
+          "is_correct": true,
+          "feedback": "Correct! P.E. is the short form of Physical Education."
+        },
+        {
+          "letter": "B",
+          "text": "Paper Exercise",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Play English",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Primary Exam",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Physical Education\" (Educación Física) se abrevia habitualmente como \"P.E.\". Es la clase de movimiento y deportes.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v7",
+      "statement": "In Colombia, we use this subject to read stories like \"Rafael Pombo\" and practice our **main language**.",
+      "context": "Reading and writing in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "English",
+          "is_correct": false,
+          "feedback": "Incorrect. English is a second language."
+        },
+        {
+          "letter": "B",
+          "text": "Spanish",
+          "is_correct": true,
+          "feedback": "Correct! Spanish is our primary subject for reading and writing."
+        },
+        {
+          "letter": "C",
+          "text": "Math",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Art",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Spanish\" (o Lengua Castellana) es la asignatura donde estudiamos nuestro idioma materno y literatura.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v8",
+      "statement": "Which subject uses **maps** and studies the **mountains** and **rivers** of Colombia? 🗺️",
+      "context": "Identifying subject by tools.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Math",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Music",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Geography",
+          "is_correct": true,
+          "feedback": "Correct! Geography is about places and maps."
+        },
+        {
+          "letter": "D",
+          "text": "Art",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Geography\" (Geografía) es la rama de las ciencias sociales que estudia los mapas y el relieve de la tierra.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v9",
+      "statement": "Which group has **only** subjects related to **Science and Numbers**?",
+      "context": "Categorizing subjects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Art and Music",
+          "is_correct": false,
+          "feedback": "Incorrect. These are creative arts."
+        },
+        {
+          "letter": "B",
+          "text": "Math and Science",
+          "is_correct": true,
+          "feedback": "Correct! Both use logic, numbers, and observation."
+        },
+        {
+          "letter": "C",
+          "text": "English and Spanish",
+          "is_correct": false,
+          "feedback": "Incorrect. These are languages."
+        },
+        {
+          "letter": "D",
+          "text": "P.E. and Geography",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la naturaleza de las materias. Las matemáticas y las ciencias forman el bloque de pensamiento lógico-científico.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v10",
+      "statement": "You need to solve the problem: **15 + 5 = ?**. Which notebook should you open?",
+      "context": "Deciding which book to use.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My Math notebook",
+          "is_correct": true,
+          "feedback": "Correct! Math is for solving numerical problems."
+        },
+        {
+          "letter": "B",
+          "text": "My Art notebook",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "My Music notebook",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "My Spanish notebook",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la aplicación de cada materia. Los problemas aritméticos se resuelven en la clase de matemáticas (Math).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

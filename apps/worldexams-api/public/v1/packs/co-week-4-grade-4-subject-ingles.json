@@ -1,0 +1,785 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.672Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v1",
+      "statement": "What color is an apple usually?",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Purple",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Grey",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v2",
+      "statement": "The sky is ________ on a sunny day.",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "yellow",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "blue",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "black",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v3",
+      "statement": "A banana is ________.",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "orange",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "white",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "yellow",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "pink",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v4",
+      "statement": "What shape has 4 equal sides?",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circle",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Triangle",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Heart",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Square",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v5",
+      "statement": "A ball is a ________.",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "circle",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "rectangle",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "star",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "square",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v6",
+      "statement": "What color do you get if you mix Red and Yellow?",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brown",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Orange",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Purple",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v7",
+      "statement": "Clouds are ________ when it is going to rain.",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "red",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "grey",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "pink",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-v8",
+      "statement": "A pizza slice is usually the shape of a ________.",
+      "context": "Learning about colors and shapes in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "square",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "oval",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "diamond",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "triangle",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding colors and shapes at the CEFR A1 level.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v1",
+      "statement": "I like ________ football with my friends on Saturdays.",
+      "context": "Talking about sports.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrect. After the verb \"like,\" we usually use the gerund form (-ing) to talk about a hobby."
+        },
+        {
+          "letter": "B",
+          "text": "playing",
+          "is_correct": true,
+          "feedback": "Correct. In English, when we talk about hobbies we enjoy, we often use the structure: like + verb-ing."
+        },
+        {
+          "letter": "C",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Plays\" is for he/she/it in the present simple, but not after \"like\"."
+        },
+        {
+          "letter": "D",
+          "text": "played",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past tense, but the sentence is about a general hobby/routine."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the structure \"like + -ing\" for hobbies. This is a fundamental pattern for expressing preferences in A1-A2 levels. Errors often involve using the base form of the verb.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v2",
+      "statement": "Superman is a superhero. He ________ fly!",
+      "context": "Abilities with \"can\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct. \"Can\" is used to express ability or possibility. Flying is Superman's famous ability."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can't\" means unable to do something, but we know Superman is able to fly."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" is the past of \"can,\" but we are talking about a permanent ability."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do\" is not the auxiliary used for expressing special abilities like flying."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the modal verb \"can\" for abilities. The student must recognize the positive ability of the subject. Errors usually involve choosing the negative form by mistake.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v3",
+      "statement": "My brother loves ________ to music in his bedroom.",
+      "context": "Hobbies at home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "listen",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"love,\" like after \"like,\" we need the -ing form for the hobby."
+        },
+        {
+          "letter": "B",
+          "text": "listening",
+          "is_correct": true,
+          "feedback": "Correct. \"Listening to music\" is a common hobby phrase using the gerund after a verb of preference."
+        },
+        {
+          "letter": "C",
+          "text": "listen with",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb \"listen\" always uses the preposition \"to\" (listen to), not \"with\"."
+        },
+        {
+          "letter": "D",
+          "text": "listining",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a spelling error. The correct spelling is \"listening\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the \"love + -ing\" structure and the specific collocation \"listen to\". The student must apply both the grammatical rule and the correct preposition. Errors often involve spelling or missing the preposition \"to\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v4",
+      "statement": "I ________ swim. I am afraid of the water.",
+      "context": "Expressing inability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. If you are afraid of the water, it is very likely you cannot swim or choose not to."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correct. \"Can't\" (cannot) expresses a lack of ability or choice due to fear in this context."
+        },
+        {
+          "letter": "C",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Incorrect. The second sentence says \"I am afraid,\" which is the opposite of \"like\"."
+        },
+        {
+          "letter": "D",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I am swim\" is grammatically incorrect; \"swim\" is an action verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the negative \"can't\" through logical deduction. The \"afraid of water\" clue points to the negative ability. Errors involve ignoring the context of the second sentence.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v5",
+      "statement": "She ________ the piano very well. She is a musician.",
+      "context": "Musical instruments.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrect. For \"she\", we must add an \"-s\" to the verb in the present simple."
+        },
+        {
+          "letter": "B",
+          "text": "plays",
+          "is_correct": true,
+          "feedback": "Correct. \"She plays the piano\" is the correct form for a routine or general ability in the third person."
+        },
+        {
+          "letter": "C",
+          "text": "playing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"She playing\" is missing the verb \"is\" and is not for general facts."
+        },
+        {
+          "letter": "D",
+          "text": "can plays",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"can,\" we ALWAYS use the base form of the verb without \"-s\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the third-person singular \"-s\" rule in the context of hobbies/skills. It also provides a distractor (\"can plays\") to test the rule that \"can\" cancels the \"-s\". Errors involve forgetting the \"-s\" or adding it where it doesn't belong.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v6",
+      "statement": "Which hobby requires a bicycle?",
+      "context": "Outdoor activities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Painting",
+          "is_correct": false,
+          "feedback": "Incorrect. Painting requires brushes and paint, not a bicycle."
+        },
+        {
+          "letter": "B",
+          "text": "Reading",
+          "is_correct": false,
+          "feedback": "Incorrect. Reading requires books or screens, not a bicycle."
+        },
+        {
+          "letter": "C",
+          "text": "Cycling",
+          "is_correct": true,
+          "feedback": "Correct. Cycling is the activity of riding a bicycle."
+        },
+        {
+          "letter": "D",
+          "text": "Dancing",
+          "is_correct": false,
+          "feedback": "Incorrect. Dancing requires music and body movement, not a bicycle."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates vocabulary for hobbies and the equipment associated with them. The student must match \"bicycle\" with \"cycling\". Errors are rare but involve not knowing the English term for the activity.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v7",
+      "statement": "________ you cook?\n\"Yes, I can. I make delicious pasta!\"",
+      "context": "Asking about abilities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. While \"Do you cook\" is a valid question, the response \"Yes, I can\" shows that the question used \"Can\"."
+        },
+        {
+          "letter": "B",
+          "text": "Can",
+          "is_correct": true,
+          "feedback": "Correct. We use \"Can\" at the beginning to ask about an ability. The answer \"Yes, I can\" confirms this structure."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are you cook\" is grammatically wrong. We don't use \"are\" with action verbs like \"cook\" in this way."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is for he, she, or it, and it's used with adjectives or -ing verbs, not to ask about abilities with \"you\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the formation of questions with \"Can\". The student must look at the short answer (\"Yes, I can\") to identify the auxiliary used in the question. This is a key test-taking strategy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v8",
+      "statement": "My parents enjoy ________ movies at the cinema.",
+      "context": "Hobbies with \"watching\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Like \"like\" and \"love,\" the verb \"enjoy\" is followed by the -ing form for activities."
+        },
+        {
+          "letter": "B",
+          "text": "watching",
+          "is_correct": true,
+          "feedback": "Correct. \"Enjoy watching\" is the standard way to express pleasure in this hobby."
+        },
+        {
+          "letter": "C",
+          "text": "looking",
+          "is_correct": false,
+          "feedback": "Incorrect. We \"watch\" movies or TV, we don't \"look\" them in this sense."
+        },
+        {
+          "letter": "D",
+          "text": "to watch",
+          "is_correct": false,
+          "feedback": "Incorrect. While \"love to watch\" is possible, \"enjoying\" or \"enjoy + -ing\" is the more common and natural structure for hobbies at this level."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the verb \"enjoy\" followed by the gerund (-ing). It also tests the difference between \"watch\" and \"look\". Errors usually involve choosing the base form or the wrong verb for the activity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v9",
+      "statement": "I ________ (not like) playing video games. I prefer playing outside.",
+      "context": "Weekend plans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not like",
+          "is_correct": false,
+          "feedback": "Incorrect. Negation requires the auxiliary \"don't\"."
+        },
+        {
+          "letter": "B",
+          "text": "don't like",
+          "is_correct": true,
+          "feedback": "Correct. This is the correct negative form for \"I\" in the present simple for preferences."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't like",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Doesn't\" is only for third-person singular subjects (he, she, it)."
+        },
+        {
+          "letter": "D",
+          "text": "dis-like",
+          "is_correct": false,
+          "feedback": "Incorrect. While \"dislike\" is a real word, it's not a common structure for A1 learners compared to \"don't like\". Also, it's written as one word without a hyphen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the negative form of \"like\" again, reinforcing the \"don't\" auxiliary. The contrast \"I prefer playing outside\" confirms the negative preference for video games. Errors usually involve the auxiliary choice.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-v10",
+      "statement": "If you like books, your favorite hobby is:",
+      "context": "Identifying hobbies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Singing",
+          "is_correct": false,
+          "feedback": "Incorrect. Singing is about using your voice for music, not necessarily related to books."
+        },
+        {
+          "letter": "B",
+          "text": "Swimming",
+          "is_correct": false,
+          "feedback": "Incorrect. Swimming is a sport in the water."
+        },
+        {
+          "letter": "C",
+          "text": "Reading",
+          "is_correct": true,
+          "feedback": "Correct. Reading is the hobby of enjoying books and texts."
+        },
+        {
+          "letter": "D",
+          "text": "Cooking",
+          "is_correct": false,
+          "feedback": "Incorrect. Cooking is preparing food, which can use a recipe book, but \"reading\" is the direct match for \"liking books\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates simple association of objects with hobbies. \"Books\" → \"Reading\". This is a basic vocabulary check for A1 learners. Errors are rare and usually due to misreading the words.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Comunicación y representación]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-4-2026-P4-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

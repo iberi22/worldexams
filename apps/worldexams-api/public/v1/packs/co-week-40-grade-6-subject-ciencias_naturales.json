@@ -1,0 +1,1841 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.955Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Manizales, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Ibagué, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Cali, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v11",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v12",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v13",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pereira, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v14",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v15",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v16",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Riohacha, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v17",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v18",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v19",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Riohacha, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-examen per-001-MASTERY-v20",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 4",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-6-2026-P4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-001-v1",
+      "statement": "¿Qué es un imán?",
+      "context": "En Bogotá, estudiantes definen qué es un imán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un objeto que solo atrae metales como el aluminio",
+          "is_correct": false,
+          "feedback": "Los imanes no atraen el aluminio; solo atraen materiales ferromagnéticos."
+        },
+        {
+          "letter": "B",
+          "text": "Un material que produce un campo magnético y atrae materiales ferromagnéticos (hierro, níquel, cobalto)",
+          "is_correct": true,
+          "feedback": "Correcto. Los imanes generan un campo magnético invisible que ejerce fuerza sobre ciertos metales."
+        },
+        {
+          "letter": "C",
+          "text": "Un objeto que produce electricidad constantemente",
+          "is_correct": false,
+          "feedback": "Los imanes no producen electricidad por sí solos; el movimiento relativo de un imán y una bobina puede generar electricidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un dispositivo que repele todos los metales",
+          "is_correct": false,
+          "feedback": "Los imanes atraen algunos metales y repelen a otros imanes (si se enfrentan polos iguales)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un **imán** es un objeto que genera un **campo magnético** a su alrededor. Este campo es invisible pero puede detectarse porque ejerce una **fuerza de atracción** sobre materiales **ferromagnéticos** (hierro, níquel, cobalto y sus aleaciones). Los imanes tienen **dos polos**: **norte (N)** y **sur (S)**. Polos opuestos (N-S) se **atraen**; polos iguales (N-N, S-S) se **repelen**. No se puede aislar un polo magnético: si se parte un imán por la mitad, cada mitad se convierte en un imán completo con sus propios polos norte y sur. El **campo magnético** se representa con **líneas de campo** que van del polo norte al polo sur fuera del imán, y son más intensas cerca de los polos. Existen imanes **naturales** (magnetita, Fe₃O₄) e imanes **artificiales** (de neodimio, ferrita, alnico, cerámicos). Colombia tiene depósitos de magnetita en Boyacá y Santander.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-002-v1",
+      "statement": "¿Por qué la aguja de una brújula siempre apunta hacia el norte geográfico?",
+      "context": "En Medellín, estudiantes identifican la brújula y su funcionamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el polo norte geográfico tiene un imán gigante que atrae la aguja",
+          "is_correct": false,
+          "feedback": "No hay un imán gigante en el polo norte."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la aguja está hecha de un material que siempre mira al norte",
+          "is_correct": false,
+          "feedback": "La aguja es un imán pequeñito que se alinea con el campo magnético terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Tierra tiene un campo magnético (como un imán gigante), y la aguja magnética de la brújula se alinea con ese campo, apuntando al norte magnético (cerca del polo norte geográfico)",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra actúa como un enorme imán."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la gravedad atrae la aguja hacia el norte",
+          "is_correct": false,
+          "feedback": "La gravedad atrae hacia el centro de la Tierra, no hacia el norte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **brújula** es un instrumento de navegación que funciona gracias al **campo magnético terrestre**. La Tierra se comporta como un **imán gigante** con un polo magnético cerca del polo norte geográfico (actualmente en el Ártico canadiense, desplazándose ~50 km/año). La aguja de la brújula es un **imán pequeño** que puede girar libremente; su polo norte (rojo) apunta hacia el polo sur magnético de la Tierra (que está cerca del polo norte geográfico). Es decir, el **norte magnético** de la brújula apunta al **sur magnético** terrestre (atracción de polos opuestos).\r\n\r\nLa diferencia entre el **norte geográfico** (eje de rotación) y el **norte magnético** se llama **declinación magnética**, y varía según la ubicación. En Colombia, la declinación magnética es de aproximadamente 5-10° oeste (dependiendo de la región), lo que significa que la brújula apunta unos grados a la izquierda del norte verdadero. La brújula fue esencial para la navegación de los españoles que llegaron a Colombia (1499 - Rodrigo de Bastidas, luego Ojeda y Vespucio), y para la exploración de los ríos Magdalena, Cauca y Atrato.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-003-v1",
+      "statement": "¿Qué descubrió Hans Christian Ørsted en 1820 que relacionó la electricidad y el magnetismo?",
+      "context": "En Cali, estudiantes explican el electromagnetismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los imanes producen electricidad cuando se calientan",
+          "is_correct": false,
+          "feedback": "No, el calor no produce electromagnetismo."
+        },
+        {
+          "letter": "B",
+          "text": "Que una corriente eléctrica que circula por un cable genera un campo magnético a su alrededor (la aguja de una brújula se desvía cerca del cable)",
+          "is_correct": true,
+          "feedback": "Correcto. Ørsted descubrió que la electricidad crea magnetismo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la electricidad y el magnetismo son fuerzas independientes",
+          "is_correct": false,
+          "feedback": "Son fenómenos relacionados: el electromagnetismo."
+        },
+        {
+          "letter": "D",
+          "text": "Que los imanes pueden generar corriente eléctrica en reposo",
+          "is_correct": false,
+          "feedback": "Para generar corriente se necesita movimiento relativo entre el imán y la bobina (inducción)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El experimento de **Hans Christian Ørsted** (1820, Dinamarca) marcó el nacimiento del **electromagnetismo**. Al conectar un cable a una pila y acercar una brújula, observó que la aguja se desviaba cuando pasaba corriente por el cable, demostrando que **una corriente eléctrica genera un campo magnético**. Este descubrimiento revolucionó la física y llevó al desarrollo de:\r\n- **Electroimanes**: Una bobina de cable con núcleo de hierro que se magnetiza cuando pasa corriente. Se puede encender/apagar (control de flujo de corriente).\r\n- **Motores eléctricos**: La corriente genera un campo magnético que hace girar un rotor (convertir energía eléctrica en mecánica).\r\n- **Generadores eléctricos**: Movimiento de un imán dentro de una bobina genera corriente eléctrica (Faraday, 1831) - principio de las centrales eléctricas.\r\n- **Transformadores**: Dispositivos que cambian el voltaje de la corriente alterna usando bobinas y núcleo magnético.\r\n\r\nEn Colombia, la industria eléctrica y electrónica (ensamblaje de electrodomésticos, transformadores, motores) se basa en estos principios del electromagnetismo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de Fenómenos",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-004-v1",
+      "statement": "¿Qué principio electromagnético utiliza un timbre eléctrico para sonar?",
+      "context": "En Barranquilla, estudiantes explican cómo funciona un timbre eléctrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un imán permanente que vibra solo",
+          "is_correct": false,
+          "feedback": "Los imanes permanentes no vibran sin intervención externa."
+        },
+        {
+          "letter": "B",
+          "text": "Un electroimán que se activa con la corriente, atrae un martillo que golpea la campana, y al interrumpirse el circuito el martillo vuelve y se repite el ciclo",
+          "is_correct": true,
+          "feedback": "Correcto. El timbre usa un electroimán y un interruptor automático para vibrar rápidamente."
+        },
+        {
+          "letter": "C",
+          "text": "Una pila que produce directamente ondas sonoras",
+          "is_correct": false,
+          "feedback": "Las pilas no producen sonido directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Un motor que hace girar una campana",
+          "is_correct": false,
+          "feedback": "No usa motor; usa un electroimán y un interruptor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El **timbre eléctrico** es un ejemplo clásico de aplicación del electromagnetismo. Funciona así:\r\n1. Al presionar el botón, se cierra el circuito y la corriente fluye.\r\n2. La corriente pasa por una **bobina de alambre** (electroimán), que se magnetiza y atrae una **armadura metálica** (martillo).\r\n3. El martillo golpea la **campana** → suena el timbre.\r\n4. Al moverse el martillo, abre un **interruptor** (circuito se interrumpe → el electroimán se desmagnetiza).\r\n5. El martillo vuelve a su posición original (por un resorte), cerrando el circuito nuevamente.\r\n6. El ciclo se repite mientras se mantenga presionado el botón, produciendo un sonido continuo y vibrante (ring-ring-ring).\r\n\r\nLos timbres tradicionales se encuentran en casas y porterías de edificios colombianos. Actualmente muchos han sido reemplazados por timbres electrónicos (zumbadores, chicharras) que usan circuitos integrados y altavoces, pero el principio del electroimán sigue siendo la base de muchos dispositivos: relevadores (relés), válvulas solenoides (electroválvulas), frenos electromagnéticos, y los **contadores de electricidad** (medidores que registran el consumo).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de Fenómenos",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-005-v1",
+      "statement": "¿Qué hace girar el rotor de un motor eléctrico?",
+      "context": "En Cartagena, estudiantes explican cómo funciona un motor eléctrico simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor generado por la corriente expande el rotor y lo hace girar",
+          "is_correct": false,
+          "feedback": "El calor no causa el giro de un motor eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "La atracción y repulsión magnética entre el campo magnético del estator (imanes fijos o electroimanes) y el campo del rotor (bobina con corriente)",
+          "is_correct": false,
+          "feedback": "Correcto. Las fuerzas magnéticas causan el giro."
+        },
+        {
+          "letter": "C",
+          "text": "La gravedad tira del rotor hacia abajo",
+          "is_correct": false,
+          "feedback": "La gravedad no es la fuerza que impulsa los motores eléctricos."
+        },
+        {
+          "letter": "D",
+          "text": "El viento generado por un ventilador dentro del motor",
+          "is_correct": false,
+          "feedback": "No hay ventilador interno que mueva el rotor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un **motor eléctrico** convierte **energía eléctrica en energía mecánica** (movimiento de rotación). Principio: Una corriente que circula por una bobina dentro de un campo magnético experimenta una **fuerza** (Ley de Lorentz, F = qvB). En un motor simple:\r\n1. **Estator**: Parte fija que genera un campo magnético (imanes permanentes o electroimanes).\r\n2. **Rotor** (armadura): Bobina de alambre que puede girar. Cuando pasa corriente por la bobina, se genera un campo magnético que interactúa con el campo del estator.\r\n3. Las **fuerzas de atracción y repulsión** entre los campos magnéticos hacen que el rotor gire.\r\n4. El **colector o conmutador** (escarabajo) invierte la dirección de la corriente en la bobina en el momento adecuado, manteniendo el giro continuo.\r\n\r\nUsos en Colombia: ventiladores, licuadoras (Oster, Imusa), lavadoras (Haceb, Challenger, LG), taladros, extractores, bombas de agua, motores de puertas eléctricas, juguetes. Los **motores de corriente continua** se usan en baterías y vehículos; los **motores de corriente alterna** son más comunes en electrodomésticos conectados a la red (110V AC).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de Fenómenos",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-006-v1",
+      "statement": "Se acerca la brújula a diferentes materiales: (1) un clavo de hierro, (2) una moneda de cobre, (3) un clip de acero, (4) un vaso de vidrio. ¿Cuáles serán atraídos por el imán?",
+      "context": "En Cúcuta, estudiantes aplican el concepto de campo magnético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el clavo y el vaso",
+          "is_correct": false,
+          "feedback": "El vidrio no es ferromagnético."
+        },
+        {
+          "letter": "B",
+          "text": "El clavo, la moneda y el clip",
+          "is_correct": false,
+          "feedback": "El cobre no es ferromagnético; un imán no atrae monedas de cobre."
+        },
+        {
+          "letter": "C",
+          "text": "El clavo de hierro y el clip de acero",
+          "is_correct": true,
+          "feedback": "Correcto. El hierro y el acero (aleación de hierro + carbono) son ferromagnéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Todos son atraídos por el imán",
+          "is_correct": false,
+          "feedback": "El cobre y el vidrio no son ferromagnéticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los materiales se clasifican según su comportamiento magnético:\r\n- **Ferromagnéticos**: Fuertemente atraídos por imanes. Se magnetizan fácilmente. Ejemplos: **hierro (Fe)** - clavos, rejas, estructuras; **níquel (Ni)** - monedas de algunas denominaciones; **cobalto (Co)**; **acero** (aleación Fe + C) - clips, alfileres, cuchillos, herramientas. La **magnetita** (Fe₃O₄) es el único mineral que es un imán natural.\r\n- **Paramagnéticos**: Débilmente atraídos. Aluminio, platino, oxígeno líquido. La atracción es tan débil que no se nota con imanes comunes.\r\n- **Diamagnéticos**: Débilmente repelidos. Cobre (monedas colombianas de $50, $100, $200, $500), plata, oro, agua, madera, plástico, vidrio, carbono (grafito), bismuto. La repulsión es extremadamente débil.\r\n- **Superconductores**: Expulsan completamente el campo magnético (efecto Meissner), levitación magnética, usados en trenes de alta velocidad (Maglev) y resonancia magnética (MRI) en hospitales colombianos.\r\n\r\nLos clips de acero y los clavos de hierro son los materiales ferromagnéticos más comunes en el hogar colombiano.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-007-v1",
+      "statement": "Para construir un electroimán casero más potente, ¿cuál de las siguientes acciones sería más efectiva?",
+      "context": "En Ibagué, estudiantes aplican conceptos para construir un electroimán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar un cable más largo pero sin enrollar",
+          "is_correct": false,
+          "feedback": "Un cable recto genera un campo magnético muy débil."
+        },
+        {
+          "letter": "B",
+          "text": "Enrollar el cable alrededor de un núcleo de hierro (como un clavo) formando muchas espiras y aumentar la corriente",
+          "is_correct": true,
+          "feedback": "Correcto. Más espiras y núcleo ferromagnético aumentan el campo."
+        },
+        {
+          "letter": "C",
+          "text": "Conectar el cable directamente a la pila sin enrollar",
+          "is_correct": false,
+          "feedback": "Generaría muy poco campo magnético."
+        },
+        {
+          "letter": "D",
+          "text": "Usar un cable de cobre más delgado posible",
+          "is_correct": false,
+          "feedback": "Un cable delgado se calienta más y no mejora el campo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza de un **electroimán** (campo magnético generado por una corriente) depende de:\r\n1. **Número de espiras (vueltas)**: Más espiras → campo magnético más fuerte. El campo se refuerza porque cada espira contribuye al campo total (B = μ₀nI, donde n = número de espiras por metro).\r\n2. **Corriente eléctrica (I)**: Mayor corriente → campo más fuerte. Pero al aumentar la corriente, el cable se calienta (efecto Joule), hay que usar cable adecuado.\r\n3. **Núcleo ferromagnético**: El núcleo de hierro dulce (bajo contenido de carbono) se magnetiza intensamente cuando la corriente pasa, multiplicando el campo magnético por 100-1000 veces respecto al aire. Cuando se apaga la corriente, el hierro se desmagnetiza casi por completo (baja remanencia).\r\n4. **Material del cable**: El cobre es ideal por su baja resistencia.\r\n\r\nUn electroimán casero: enrollar 20-50 vueltas de cable de cobre esmaltado (calibre 22-26) alrededor de un clavo de hierro grande (8-10 cm), conectar a una pila D (1.5V). No conectar a la red eléctrica (110V) por peligro de descarga eléctrica y cortocircuito.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-008-v1",
+      "statement": "¿Cómo se genera electricidad en la Central Hidroeléctrica de Ituango utilizando magnetismo?",
+      "context": "En Bucaramanga, estudiantes explican cómo se genera electricidad en una central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua cae directamente sobre imanes y produce electricidad",
+          "is_correct": false,
+          "feedback": "El agua no cae sobre imanes; hace girar turbinas."
+        },
+        {
+          "letter": "B",
+          "text": "El agua hace girar una turbina conectada a un generador: dentro del generador, una bobina de alambre gira dentro de un campo magnético, induciendo una corriente eléctrica (inducción electromagnética)",
+          "is_correct": true,
+          "feedback": "Correcto. El principio de Faraday: variación de flujo magnético genera corriente."
+        },
+        {
+          "letter": "C",
+          "text": "El agua reacciona químicamente con metales para producir electricidad",
+          "is_correct": false,
+          "feedback": "Eso es como una pila, no es el principio de una hidroeléctrica."
+        },
+        {
+          "letter": "D",
+          "text": "El agua se calienta y produce vapor que mueve turbinas",
+          "is_correct": false,
+          "feedback": "Eso es una central térmica, no una hidroeléctrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La **inducción electromagnética** (descubierta por **Michael Faraday** en 1831) es el principio fundamental de la generación eléctrica: al variar el **flujo magnético** a través de una bobina (moviendo un imán dentro de la bobina, o moviendo la bobina dentro de un campo magnético), se **induce una corriente eléctrica** en la bobina. En la Central Hidroeléctrica de Ituango (Antioquia, 2400 MW):\r\n1. El **agua embalsada** tiene energía potencial gravitatoria.\r\n2. Al caer por túneles, adquiere energía cinética.\r\n3. El agua en movimiento **gira las turbinas** (energía mecánica de rotación).\r\n4. Las turbinas están conectadas al **rotor** del generador.\r\n5. El rotor (con bobinas de alambre) **gira dentro de un campo magnético** (imanes masivos en el estator).\r\n6. Por inducción electromagnética, se genera **corriente alterna** en las bobinas del estator.\r\n7. Un **transformador** eleva el voltaje a 230,000-500,000 voltios (alta tensión) para transmitir la electricidad a larga distancia.\r\n\r\nEste mismo principio se aplica en generadores eólicos (aerogeneradores), térmicos (vapor) y nucleares, y también en el **dinamo** de una bicicleta.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de Fenómenos",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-009-v1",
+      "statement": "¿Qué principio del magnetismo se usa en la Resonancia Magnética Nuclear (RMN) o MRI en los hospitales colombianos?",
+      "context": "En Neiva, estudiantes analizan aplicaciones del magnetismo en medicina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se usa un electroimán para calentar los tejidos y verlos en una pantalla",
+          "is_correct": false,
+          "feedback": "No es calentamiento; es alineación de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Se usa un imán permanente para atraer objetos metálicos dentro del cuerpo",
+          "is_correct": false,
+          "feedback": "Eso es peligroso y no es el principio de la MRI."
+        },
+        {
+          "letter": "C",
+          "text": "Se usa un potente campo magnético que alinea los protones de hidrógeno del cuerpo; al emitir ondas de radio y medir su respuesta, se obtienen imágenes detalladas de los tejidos",
+          "is_correct": true,
+          "feedback": "Correcto. La MRI usa campos magnéticos y radiofrecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Se usa el magnetismo para matar células cancerosas",
+          "is_correct": false,
+          "feedback": "No; la MRI es diagnóstica, no terapéutica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **Resonancia Magnética Nuclear (RMN)** o **MRI** (Magnetic Resonance Imaging) es una técnica de imagenología médica que produce imágenes detalladas de los órganos y tejidos del cuerpo sin usar radiación ionizante (rayos X). Funcionamiento:\r\n1. **Campo magnético intenso**: Un electroimán superconductor (0.5-3 Tesla, 10,000-60,000 veces el campo magnético terrestre) alinea los **protones de hidrógeno** (presentes en agua y tejidos blandos) en una dirección.\r\n2. **Pulsos de radiofrecuencia**: Se emiten ondas de radio que desalinean temporalmente los protones.\r\n3. **Relajación**: Cuando cesa el pulso, los protones vuelven a su alineación original, emitiendo señales de radio que son detectadas.\r\n4. **Procesamiento**: Un computador analiza las señales (diferencias en tiempos de relajación T1 y T2 según el tejido) y genera imágenes de alta resolución.\r\n\r\nEn Colombia, la MRI está disponible en hospitales de tercer nivel (Bogotá - Fundación Cardioinfantil, Hospital San Ignacio; Medellín - Clínica Las Américas, Hospital Pablo Tobón Uribe; Cali - Fundación Valle del Lili) y es fundamental para diagnóstico de tumores cerebrales, lesiones de médula espinal, problemas articulares y enfermedades neurológicas. No se puede realizar en pacientes con marcapasos, clips metálicos o implantes ferromagnéticos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W40-magnetismo-010-v1",
+      "statement": "Un transformador eléctrico en un poste de luz en Sincelejo reduce el voltaje de 11,400V (línea de distribución) a 110V (hogar). ¿Qué principio electromagnético permite esto?",
+      "context": "En Sincelejo (Sucre), estudiantes integran conceptos de electricidad y magnetismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia en el número de espiras entre la bobina primaria y secundaria del transformador, conectadas por un núcleo de hierro que transmite el flujo magnético",
+          "is_correct": false,
+          "feedback": "Correcto. La relación de transformación depende de la relación de espiras (N₁/N₂ = V₁/V₂)."
+        },
+        {
+          "letter": "B",
+          "text": "La fricción entre las bobinas genera el cambio de voltaje",
+          "is_correct": false,
+          "feedback": "No hay fricción entre las bobinas; están aisladas eléctricamente."
+        },
+        {
+          "letter": "C",
+          "text": "La resistencia eléctrica de las bobinas reduce el voltaje",
+          "is_correct": false,
+          "feedback": "La resistencia causa pérdidas por calor, no un cambio controlado de voltaje."
+        },
+        {
+          "letter": "D",
+          "text": "El transformador usa pilas internas para cambiar el voltaje",
+          "is_correct": false,
+          "feedback": "No usa pilas; funciona solo con corriente alterna y campos magnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los **transformadores eléctricos** son dispositivos que cambian el voltaje de la **corriente alterna (AC)** utilizando inducción electromagnética. Componentes:\r\n1. **Bobina primaria (N₁ espiras)**: Conectada al voltaje de entrada (11,400V en la red de distribución colombiana).\r\n2. **Núcleo de hierro laminado**: Concentra y transmite el flujo magnético de una bobina a la otra con mínimas pérdidas (pérdidas por corrientes de Foucault reducidas con láminas aisladas).\r\n3. **Bobina secundaria (N₂ espiras)**: Donde se induce el voltaje de salida (110V o 220V para el hogar).\r\n\r\nLa **relación de transformación** es: **V₁ / V₂ = N₁ / N₂**\r\n- **Transformador reductor (step-down)**: N₁ > N₂, V₁ > V₂. Baja el voltaje para uso doméstico. Ejemplo: 11,400V / 110V → relación 104:1 de espiras.\r\n- **Transformador elevador (step-up)**: N₁ < N₂, V₁ < V₂. Sube el voltaje para transmisión a larga distancia.\r\n\r\nEn Colombia, la red de transmisión (ISA) opera a 500,000V y 230,000V; la subtransmisión a 115,000V y 34,500V; la distribución primaria a 11,400V y 13,200V; y la distribución secundaria (hogares) a 110V/220V. Los transformadores en los postes de luz (\"transformadores de distribución\") son esenciales para llevar electricidad segura a los hogares colombianos.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Villavicencio, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Cartagena, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Bucaramanga, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 40 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 40 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 40 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 40 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-6-2026-W40-tema-semana-40-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

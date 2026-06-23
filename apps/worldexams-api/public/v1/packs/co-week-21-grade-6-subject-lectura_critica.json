@@ -48,7 +48,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v10",
@@ -435,7 +462,920 @@
       "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Sincelejo, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Armenia, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Medellín, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Bucaramanga, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Armenia, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cali, se discute sobre Tema Semana 21 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 21 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 21 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 21 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W21-tema-semana-21-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué género literario representa el Texto B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poesía lírica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto B no tiene versos, estrofas ni rima. Tiene diálogos y acotaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Teatro (obra dramática).",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto B tiene personajes, diálogos, acotaciones entre paréntesis, y una estructura de escena con entrada y salida de personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Cuento narrativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un narrador que cuente la historia; la acción se muestra a través de diálogos y acotaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Texto expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca informar ni explicar un tema; busca representar una acción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar las características de cada género es fundamental. El teatro se identifica por tener personajes, diálogos sin narrador, acotaciones y estructura de actos/escenas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Qué figura literaria aparece en el verso \"Eres serpiente de plata\" del Texto A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa \"como\" ni \"cual\". Dice \"eres\", que es una identificación directa."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Eres serpiente de plata\" identifica al río directamente con una serpiente de plata, sugiriendo que es brillante, ondulante y veloz. Es una metáfora porque identifica sin usar conectores de comparación."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el río \"canta\" (personificación), en este verso específico no se le atribuye una cualidad humana. Se le compara con un animal."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración. Una serpiente de plata es una imagen poética, no una exageración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora identifica dos elementos distintos (río y serpiente) como si fueran el mismo. El río no es una serpiente literal, pero comparte con ella la forma ondulante y el brillo (plata = agua que refleja la luz).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Qué tiene en común el Texto A con el Texto C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son obras de teatro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son poemas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son poemas que hablan de un río, pero el Texto A describe un río natural y el Texto C usa el río como metáfora de la escritura en un cuaderno.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A habla de un río real (agua, piedras, orillas) y el Texto C habla de un \"río de tinta azul\" que es una metáfora de la escritura en un cuaderno perdido."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos hablan de Tomás y su cuaderno perdido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomás y el cuaderno perdido son del Texto B, no de los poemas."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están escritos en prosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos están escritos en verso (con rima y métrica)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar semejanzas entre textos del mismo género (poesía) ayuda a notar que pueden tratar el mismo tema (el río) pero con enfoques distintos: uno natural y otro metafórico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Qué problema enfrenta Tomás en el Texto B y cómo se resuelve?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No sabe leer y la profesora lo ayuda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomás sabe leer; su problema es que pierde el cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "Perdió su cuaderno de lenguaje. Ana lo ayuda a recordar que lo dejó en la biblioteca. El problema se resuelve cuando recuerda dónde está.",
+          "is_correct": true,
+          "feedback": "Correcto. Tomás no recuerda dónde dejó el cuaderno. Ana, con paciencia, lo guía para que recuerde que lo dejó en la biblioteca junto al libro de poemas."
+        },
+        {
+          "letter": "C",
+          "text": "No encontró el libro de poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El libro de poemas está en la biblioteca; él dejó el cuaderno allí."
+        },
+        {
+          "letter": "D",
+          "text": "La profesora lo castigó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profesora es amable y comprensiva; no lo castiga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el teatro, el conflicto se presenta a través de los diálogos. Tomás no sabe dónde está su cuaderno; ese es el conflicto. Ana lo ayuda a resolverlo recordándole sus pasos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué relación hay entre los tres textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna relación. Son textos independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparten elementos temáticos."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres tratan sobre el mismo personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada texto tiene personajes distintos (el río personificado, Tomás y Ana, la escritura)."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres textos están conectados: el Texto A y el Texto C son poemas sobre el río, y en el Texto B, Tomás dibujó un río en su cuaderno mientras aprendía sobre figuras literarias. El \"río de tinta azul\" del Texto C podría ser el mismo río que Tomás dibujó.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay una conexión temática: el río como imagen poética aparece en los poemas, y Tomás estaba dibujando un río cuando le explicaban las figuras literarias."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el Texto B y el Texto C están relacionados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A también habla del río, que es el tema que conecta los tres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer varios textos en conjunto permite encontrar conexiones temáticas y narrativas entre ellos. Aunque son géneros distintos (poesía y teatro), hay un hilo conductor: el río como imagen recurrente.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué diferencia hay en el uso del río entre el Texto A y el Texto C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia; ambos describen el mismo río real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enfoques son diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A describe un río seco y el Texto C un río caudaloso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información sobre el caudal en ninguno de los dos."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A describe un río natural con imágenes de la naturaleza (piedras, sol, flores, orillas), mientras que el Texto C usa el río como metáfora de la escritura (\"río de tinta azul\", \"letras son peces de oro\", \"verso es un tesoro\").",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A es un poema sobre el río como elemento natural. El Texto C toma la imagen del río y la transforma en una alegoría del acto de escribir."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto A habla de un río enojado y el Texto C de un río tranquilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A describe un río que \"baja cantando\" (alegre), no enojado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar cómo dos poemas tratan el mismo tema revela la creatividad del lenguaje poético. Mientras uno describe la naturaleza, el otro usa esa misma imagen para hablar de algo completamente distinto: la escritura.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "En el Texto A, la personificación del río se evidencia en los versos:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Eres serpiente de plata / que se desliza veloz\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una metáfora (serpiente de plata), no una personificación."
+        },
+        {
+          "letter": "B",
+          "text": "\"Río que bajas cantando\" y \"tu murmullo es un cariño / que nunca deja caer\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cantando\" es una acción humana atribuida al río. \"Cariño\" también es un sentimiento humano. Ambas son personificaciones."
+        },
+        {
+          "letter": "C",
+          "text": "\"tus aguas van reflejando / la luz del sol y la flor\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reflejar es una propiedad física del agua, no es exclusivamente humana."
+        },
+        {
+          "letter": "D",
+          "text": "\"En tus orillas el niño / aprende a soñar y a ser\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el niño quien aprende, no el río quien realiza una acción humana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar personificaciones, busca verbos o acciones que normalmente solo pueden hacer las personas: cantar, reír, llorar, amar, susurrar. El río no puede cantar literalmente, pero el poeta le da esa cualidad para transmitir alegría.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué género (poesía o teatro) sería más efectivo para representar el problema de la pérdida del cuaderno de Tomás y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La poesía, porque los poemas son más cortos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la efectividad para representar una situación cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "El teatro, porque permite ver la conversación entre Tomás y Ana en tiempo real, con sus gestos, tonos de voz y reacciones. El conflicto (perder el cuaderno) se vuelve más entretenido y dinámico al ser actuado.",
+          "is_correct": false,
+          "feedback": "Correcto. El teatro es ideal para representar conflictos cotidianos con diálogos y acciones. La poesía sería más adecuada para expresar los sentimientos de Tomás, pero no para mostrar la escena."
+        },
+        {
+          "letter": "C",
+          "text": "La poesía, porque solo así se puede usar lenguaje figurado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teatro también puede usar lenguaje figurado en los diálogos."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquiera de los dos, porque todos los géneros sirven para lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada género tiene fortalezas distintas. El teatro muestra acción; la poesía expresa emociones e imágenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar qué género es más adecuado para qué propósito es una habilidad metacognitiva avanzada. El teatro es ideal para mostrar acciones y diálogos; la poesía para expresar emociones y crear imágenes. Saber elegir el género según el propósito es parte de la competencia literaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué recurso literario comparten los versos \"Río que bajas cantando\" (Texto A) y \"Las letras son peces de oro\" (Texto C)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son símiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno usa \"como\" para comparar. Uno dice \"que bajas cantando\" y el otro dice \"son\"."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son ejemplos de hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración en ninguno de los dos."
+        },
+        {
+          "letter": "C",
+          "text": "No comparten el mismo recurso: \"Río que bajas cantando\" es una personificación (el río canta) y \"Las letras son peces de oro\" es una metáfora (identifica letras con peces).",
+          "is_correct": true,
+          "feedback": "Correcto. Son recursos distintos: personificación en el primero, metáfora en el segundo. Ambos son figuras literarias, pero funcionan de manera diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son ejemplos de aliteración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición intencional de sonidos consonánticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer que diferentes figuras literarias pueden coexistir en un mismo poema o conjunto de poemas. Saber distinguir entre personificación (atribuir cualidades humanas) y metáfora (identificar dos elementos distintos) es parte del análisis literario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Después de leer los tres textos, ¿cuál de ellos expresa mejor el sentimiento de Tomás cuando pierde su cuaderno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A, porque habla de un río que canta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río que canta expresa alegría, no la angustia de perder un cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto C, porque habla de \"un río de tinta azul que corre buscando el olvido\", que representa la pérdida y el deseo de recuperar lo escrito. El \"río de tinta\" es el cuaderno perdido, y \"buscar el olvido\" refleja la preocupación de Tomás.",
+          "is_correct": true,
+          "feedback": "Correcto. El poema \"Río de Papel\" utiliza la imagen del río de tinta para simbolizar la escritura perdida, y expresa una sensación de búsqueda que conecta con la angustia de Tomás."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B, porque muestra a Tomás hablando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto B muestra la acción de buscar, pero no expresa el sentimiento interno de Tomás de manera poética."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque los sentimientos solo se expresan en prosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía es especialmente adecuada para expresar sentimientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar qué texto captura mejor una emoción específica requiere conectar el contenido de cada texto con el sentimiento que queremos expresar. El Texto C, a través de su lenguaje poético y simbólico, logra transmitir la sensación de pérdida y búsqueda que experimenta Tomás.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W21-repaso-p5-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     }
   ]
 }

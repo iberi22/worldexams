@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W32: Someone, Everywhere, Nothing - Indefinite Pronouns (B1)
 
 This bundle focuses on indefinite pronouns (some-, any-, no-, every-) used to refer to people, things, and places without being specific. Aligned with CEFR B1.

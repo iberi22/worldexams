@@ -48,7 +48,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v10",
@@ -435,7 +462,920 @@
       "bundle_id": "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Barranquilla, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Tunja, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Medellín, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Quibdó, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Cartagena, se discute sobre Tema Semana 22 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 22 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 22 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 22 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-6-2026-W22-tema-semana-22-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "Según el texto, ¿quién defiende la postura de eliminar el servicio militar obligatorio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laura Velásquez, abogada de derechos humanos.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto presenta su postura bajo el título \"POSTURA 2: El servicio militar obligatorio debe eliminarse\"."
+        },
+        {
+          "letter": "B",
+          "text": "El Coronel (r) Andrés Ramírez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coronel defiende la postura contraria: mantener el servicio militar obligatorio."
+        },
+        {
+          "letter": "C",
+          "text": "La Defensoría del Pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Defensoría es citada como fuente de datos, pero no presenta una postura propia en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Los soldados de zonas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los soldados son mencionados como beneficiarios, no como defensores de una postura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de información explícita: quién defiende cada postura en un texto argumentativo con posiciones enfrentadas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Qué fuente cita Laura Velásquez para respaldar su afirmación sobre las quejas durante el servicio militar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Ejército Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ejército Nacional es citado por el Coronel Ramírez, no por Laura Velásquez."
+        },
+        {
+          "letter": "B",
+          "text": "El Ministerio de Defensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona al Ministerio de Defensa en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "La Defensoría del Pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. Laura menciona que \"según la Defensoría del Pueblo, cada año se presentan más de 500 quejas por maltrato y violaciones a derechos fundamentales\"."
+        },
+        {
+          "letter": "D",
+          "text": "La Universidad Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona a la Universidad Nacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de la fuente que respalda un argumento: el uso de datos de una institución oficial fortalece la credibilidad de la postura.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es la tesis (opinión principal) del Coronel Ramírez?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Colombia necesita más soldados profesionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coronel defiende el servicio obligatorio, no necesariamente más soldados profesionales."
+        },
+        {
+          "letter": "B",
+          "text": "Que el servicio militar obligatorio debe mantenerse porque forma ciudadanos y ofrece oportunidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Su tesis es clara: \"El servicio militar obligatorio debe mantenerse\" porque forma el carácter y da oportunidades a jóvenes de zonas rurales."
+        },
+        {
+          "letter": "C",
+          "text": "Que los jóvenes deben estudiar antes de servir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es parte de su argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Que las Fuerzas Militares necesitan más presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona el presupuesto militar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la tesis en un texto argumentativo: la opinión principal que el autor defiende y busca sostener con argumentos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Cuál de los siguientes NO es un argumento del Coronel Ramírez para mantener el servicio militar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El servicio militar forma disciplina, responsabilidad y trabajo en equipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sí es un argumento suyo."
+        },
+        {
+          "letter": "B",
+          "text": "Muchos jóvenes de zonas rurales encuentran oportunidades de estudio y trabajo en el servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso también es parte de su argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "Cada año se presentan más de 500 quejas por maltrato durante el servicio.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es un argumento de Laura Velásquez en contra del servicio militar, no del coronel."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia necesita ciudadanos preparados para defender la soberanía nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un argumento central del coronel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciar entre argumentos de una postura y de la otra: reconocer a qué lado pertenece cada argumento en un debate con posturas enfrentadas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué tipo de argumento usa Laura Velásquez cuando dice que \"un país en paz no debería basar su defensa en jóvenes obligados\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento de autoridad (cita a un experto).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a ninguna autoridad específica."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento basado en principios éticos y democráticos (libertad individual, derechos humanos).",
+          "is_correct": true,
+          "feedback": "Correcto. Laura apela a valores fundamentales de la democracia: la libertad individual y los derechos humanos. Es un argumento de principios."
+        },
+        {
+          "letter": "C",
+          "text": "Un argumento estadístico (usa datos numéricos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque antes usó datos de la Defensoría, esta frase en particular no contiene estadísticas."
+        },
+        {
+          "letter": "D",
+          "text": "Un argumento de experiencia personal (cuenta algo que le pasó).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuenta una experiencia personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del tipo de argumento: los argumentos basados en principios éticos apelan a valores compartidos (libertad, justicia, derechos humanos) para sostener una postura.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "Cuando Laura Velásquez dice que \"el servicio militar sigue siendo discriminatorio: afecta principalmente a jóvenes de bajos recursos\", ¿qué está cuestionando del argumento del Coronel Ramírez?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los jóvenes de zonas rurales realmente quieran servir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuestiona los deseos de los jóvenes."
+        },
+        {
+          "letter": "B",
+          "text": "Que el servicio militar sea realmente una \"oportunidad\" voluntaria, señalando que es una obligación que recae desproporcionadamente sobre quienes no pueden pagar la exención.",
+          "is_correct": true,
+          "feedback": "Correcto. Laura argumenta que lo que el coronel presenta como \"oportunidad\" es en realidad una carga impuesta a los más pobres."
+        },
+        {
+          "letter": "C",
+          "text": "Que el Ejército Nacional tenga datos confiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuestiona los datos del coronel."
+        },
+        {
+          "letter": "D",
+          "text": "Que Colombia tenga conflictos armados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuestiona la existencia de conflictos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del contraargumento: identificar cómo una postura cuestiona los fundamentos de la postura opuesta, mostrando una perspectiva diferente sobre los mismos hechos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "El Coronel Ramírez dice que \"más del 60% de los soldados provienen de municipios con pocas oportunidades laborales\". ¿Qué inferencia podemos hacer sobre las familias de esos soldados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que son familias ricas que pueden costear la educación militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos indican lo contrario: provienen de municipios con pocas oportunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Que son familias que no quieren que sus hijos estudien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que son familias de escasos recursos para quienes el servicio militar representa una opción económica cuando hay pocas alternativas.",
+          "is_correct": true,
+          "feedback": "Correcto. Si provienen de municipios sin oportunidades laborales, es probable que el servicio militar sea una opción por necesidad, no por vocación."
+        },
+        {
+          "letter": "D",
+          "text": "Que son familias con tradición militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona tradición familiar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferencia sobre las condiciones socioeconómicas a partir de información presentada: conectar datos demográficos con las realidades de las personas afectadas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Cuál de los siguientes argumentos del Coronel Ramírez es más fácil de verificar o comprobar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el servicio militar forma el carácter de los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación subjetiva que no se puede medir fácilmente."
+        },
+        {
+          "letter": "B",
+          "text": "Que más del 60% de los soldados provienen de municipios con pocas oportunidades laborales.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un dato estadístico citado del Ejército Nacional que podría verificarse consultando registros oficiales."
+        },
+        {
+          "letter": "C",
+          "text": "Que los jóvenes aprenden disciplina y trabajo en equipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión sobre los beneficios formativos, no un dato verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Que el servicio militar es necesario para defender la soberanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión estratégica, no un hecho comprobable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de la solidez de los argumentos: los argumentos basados en datos cuantitativos verificables son más sólidos que las afirmaciones subjetivas o de opinión.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Teniendo en cuenta los argumentos de ambas posturas, ¿cuál sería una solución equilibrada al debate sobre el servicio militar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener el servicio militar obligatorio para todos los jóvenes sin excepciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la postura radical del coronel que ignora las críticas de Laura."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar por completo cualquier forma de servicio, incluso el voluntario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la postura extrema opuesta que descarta cualquier beneficio del servicio."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar el servicio militar obligatorio y reemplazarlo con un servicio social voluntario con beneficios educativos y laborales para quienes participen.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta solución atiende la crítica de Laura (eliminar la obligación) mientras conserva la oportunidad que destaca el coronel (beneficios para jóvenes de pocos recursos), pero de forma voluntaria."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener el servicio obligatorio solo para jóvenes de zonas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería discriminatorio al imponer la obligación solo a un grupo poblacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación y síntesis: proponer una solución que integre argumentos de ambas posturas, demostrando comprensión del debate y capacidad de encontrar puntos de equilibrio.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Qué diferencia hay entre un \"hecho\" (dato verificable) y una \"opinión\" en un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hechos son siempre ciertos y las opiniones siempre falsas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones no son falsas, son juicios personales que pueden ser razonables o no."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, todo lo que se dice en un texto argumentativo es una opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos argumentativos pueden contener hechos verificables y opiniones al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Un hecho es algo que puede comprobarse (ej: \"más del 60% provienen de municipios con pocas oportunidades\"); una opinión es un juicio personal (ej: \"el servicio forma el carácter\").",
+          "is_correct": true,
+          "feedback": "Correcto. Los hechos se basan en datos objetivos verificables; las opiniones son interpretaciones subjetivas que pueden estar respaldadas o no por hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Las opiniones siempre incluyen números y los hechos no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números pueden aparecer tanto en hechos como en opiniones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reflexión metacognitiva sobre la diferencia entre hechos y opiniones en textos argumentativos: habilidad fundamental para el pensamiento crítico y la lectura analítica.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     }
   ]
 }

@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v1",
-      "statement": "\"Perro\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-001-v1",
+      "statement": "Juan ________ his homework every afternoon.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "dog",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "doing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "cat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cat = gato."
-        },
-        {
-          "letter": "C",
-          "text": "bird",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bird = pájaro."
-        },
-        {
-          "letter": "D",
-          "text": "fish",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fish = pez."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pets: dog (perro), cat (gato), bird (pájaro), fish (pez), hamster (hámster), rabbit (conejo).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v2",
-      "statement": "\"Vaca\" in English is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cow",
+          "text": "does",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "horse",
-          "is_correct": false,
-          "feedback": "Incorrecto. Horse = caballo."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "pig",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrecto. Pig = cerdo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "sheep",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrecto. Sheep = oveja."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Farm animals: cow (vaca), horse (caballo), pig (cerdo), sheep (oveja), chicken (gallina), goat (cabra).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v3",
-      "statement": "\"A ___ lives in a nest.\" (pájaro)",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "bird",
-          "is_correct": true,
-          "feedback": "Correcto. Bird = pájaro."
-        },
-        {
-          "letter": "B",
-          "text": "fish",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fish lives in water."
-        },
-        {
-          "letter": "C",
-          "text": "dog",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dog lives in a doghouse."
-        },
-        {
-          "letter": "D",
-          "text": "cow",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cow lives in a barn."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Where animals live: bird → nest (nido), fish → water/pond, dog → doghouse, cow → barn/field.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v4",
-      "statement": "\"A ___ gives us milk.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cow",
-          "is_correct": true,
-          "feedback": "Correcto. Cows give milk."
-        },
-        {
-          "letter": "B",
-          "text": "chicken",
-          "is_correct": false,
-          "feedback": "Incorrecto. Chickens give eggs."
-        },
-        {
-          "letter": "C",
-          "text": "sheep",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sheep give wool."
-        },
-        {
-          "letter": "D",
-          "text": "pig",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pigs give meat."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Animals and products: cow → milk, chicken → eggs, sheep → wool (lana), bee → honey.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v5",
-      "statement": "\"I have got a pet. It is small, has fur and says 'meow'.\" It is a ___.",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cat",
-          "is_correct": true,
-          "feedback": "Correcto. Cat says meow."
-        },
-        {
-          "letter": "B",
-          "text": "dog",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dog says woof/bark."
-        },
-        {
-          "letter": "C",
-          "text": "bird",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bird says chirp."
-        },
-        {
-          "letter": "D",
-          "text": "fish",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fish doesn't say meow."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Animal sounds: cat → meow, dog → woof/bark, cow → moo, bird → chirp/tweet.\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v6",
-      "statement": "\"My grandfather has got three ___ on the farm.\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-002-v1",
+      "statement": "I ________ to school at 7:00 AM.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "cows",
+          "text": "go",
           "is_correct": true,
-          "feedback": "Correcto. Three cows = plural."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "cow",
+          "text": "went",
           "is_correct": false,
-          "feedback": "Incorrecto. Three + plural."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "cowses",
+          "text": "goes",
           "is_correct": false,
-          "feedback": "Incorrecto. Plural incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "cowes",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Regular plurals: cow → cows. Some irregular: sheep → sheep, fish → fish.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v7",
-      "statement": "\"How many ___ does a cat have?\" (patas)",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-003-v1",
+      "statement": "They ________ like to eat vegetables.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "legs",
-          "is_correct": true,
-          "feedback": "Correcto. Cat has 4 legs."
+          "text": "no",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "arms",
+          "text": "not",
           "is_correct": false,
-          "feedback": "Incorrecto. Animals have legs."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "wings",
-          "is_correct": false,
-          "feedback": "Incorrecto. Wings = alas."
-        },
-        {
-          "letter": "D",
-          "text": "fins",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fins = aletas (fish)."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Cat body parts: 4 legs (patas), 2 ears (orejas), 1 tail (cola), 2 eyes (ojos), whiskers (bigotes).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v8",
-      "statement": "\"My pet ___ a dog. It ___ brown and white.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is / is",
+          "text": "don't",
           "is_correct": true,
-          "feedback": "Correcto. My pet is a dog. It is brown and white."
-        },
-        {
-          "letter": "B",
-          "text": "has / is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "is / has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "have / is",
+          "text": "doesn't",
           "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Describe pets: 'My pet is a...' (noun), 'It is...' (adjective), 'It has got...' (feature).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v9",
-      "statement": "\"A cow is bigger than a cat. A horse is bigger than a cow.\" Which is the BIGGEST?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Horse",
-          "is_correct": true,
-          "feedback": "Correcto. Horse is biggest."
-        },
-        {
-          "letter": "B",
-          "text": "Cow",
-          "is_correct": false,
-          "feedback": "Incorrecto. Horse > cow."
-        },
-        {
-          "letter": "C",
-          "text": "Cat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cat is smallest."
-        },
-        {
-          "letter": "D",
-          "text": "All same",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Comparisons: horse > cow > cat. Biggest = superlative.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-v10",
-      "statement": "\"Which animal can fly?\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A bird",
-          "is_correct": true,
-          "feedback": "Correcto. Fly = volar."
-        },
-        {
-          "letter": "B",
-          "text": "A cow",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cows can't fly."
-        },
-        {
-          "letter": "C",
-          "text": "A fish",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fish swim."
-        },
-        {
-          "letter": "D",
-          "text": "A horse",
-          "is_correct": false,
-          "feedback": "Incorrecto. Horses run."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Animal abilities: birds fly, fish swim, cows/horses run/walk. Can/can't for abilities.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W24-animals-vocabulary-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At Colegio San José de Manizales, teacher introduces passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + verb + object",
-          "is_correct": false,
-          "feedback": "Es activa."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have + past participle",
-          "is_correct": false,
-          "feedback": "Es present perfect."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Colegio Simón Bolívar de Cali, passive use is explained.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To emphasize the subject.",
-          "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
-        },
-        {
-          "letter": "B",
-          "text": "When the action is more important than who did it.",
-          "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
-        },
-        {
-          "letter": "C",
-          "text": "Only in questions.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Only in present tense.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio Simón Bolívar de Santa Marta, students practice present passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is visiting",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        },
-        {
-          "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
-        },
-        {
-          "letter": "C",
-          "text": "was visited",
-          "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
-        },
-        {
-          "letter": "D",
-          "text": "is visit",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In Colegio Tolimense de Pereira, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Fontán de San Andrés convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Colegio Fontán de Manizales, passive questions are practiced.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-004-v1",
+      "statement": "________ your sister play soccer?",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "did invite",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "was invited",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "is invite",
-          "is_correct": false,
-          "feedback": "Past participle needed."
+          "text": "Does",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "invited",
+          "text": "Is",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W24-present-simple-questions-005-v1",
+      "statement": "I ________ my teeth after breakfast.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brushed",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "brushes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "brushing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio Champagnat de Bogotá, students analyze passive.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-006-v1",
+      "statement": "What time ________ you wake up?",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The agent is important.",
+          "text": "does",
           "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
+          "text": "do",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The agent cannot be known.",
+          "text": "is",
           "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "It is always required.",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Cristo Rey:",
-      "context": "In I.E. La Salle de Santa Marta, evaluate passive usage.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-007-v1",
+      "statement": "She ________ TV in the evening.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Workers built the museum in colonial times.",
+          "text": "watching",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum is built by workers.",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
+          "text": "watches",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "The colonial period built the museum.",
+          "text": "watched",
           "is_correct": false,
-          "feedback": "Ilógico."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W24-present-simple-questions-008-v1",
+      "statement": "We ________ dinner at 7:30 PM.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Colegio Champagnat de Tunja, find passive errors.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-009-v1",
+      "statement": "My father ________ to work by bus.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "gone",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
+          "text": "goes",
           "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
+          "text": "go",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about Parque Tayrona:",
-      "context": "At Colegio San José de Manizales, create passive sentence.",
+      "id": "CO-ING-6-2026-W24-present-simple-questions-010-v1",
+      "statement": "They ________ play video games on weekdays.",
+      "context": "Scenario about present-simple-questions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Tourists visit the museum every year.",
+          "text": "sometimes",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
+          "text": "never",
           "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The museum was visit by tourists.",
+          "text": "usually",
           "is_correct": false,
-          "feedback": "Past participle incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tourists are visited the museum.",
+          "text": "always",
           "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Present Simple: Question Forms at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W24-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W24-present-simple-questions-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

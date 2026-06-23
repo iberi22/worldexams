@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencia y Tecnologia",
+    "country": "pe",
+    "pack_id": "pe-week-14-grade-11-subject-ciencia_y_tecnologia",
+    "generated_at": "2026-06-22T05:46:18.615Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v1",
+      "statement": "Simplifique: (8)(6x + 10)",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 48x + 80",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 48x + 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 48x - 80\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(6x + 10) = 48x + 80.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v3",
+      "statement": "Maria compro 2 cuadernos a $11.3 c/u en Cajamarca. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $22.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $11.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.3\r\n  \r\n\r\n**Explicacion:** Total = 2 x 11 = $22.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Ciencias en Cusco grafica f(x) = 5x + 8. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v5",
+      "statement": "En Arequipa, un estudiante del Colegio Nacional de la Independencia Americana resuelve: 5x + 11 = 36. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v6",
+      "statement": "Simplifique: (6)(11x + 42)",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 66x + 252",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 66x + 42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 17x + 252",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 66x - 252\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(11x + 42) = 66x + 252.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v8",
+      "statement": "Maria compro 8 cuadernos a $5.1 c/u en Iquitos. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.1",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $8.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.1\r\n  \r\n\r\n**Explicacion:** Total = 8 x 5 = $40.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional San Miguel en Piura grafica f(x) = 4x + 10. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v10",
+      "statement": "En Moquegua, un estudiante del Colegio Nacional Simbolos Patrios resuelve: 5x + 6 = 31. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 6 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v11",
+      "statement": "Simplifique: (7)(4x + 34)",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 28x + 238",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 28x + 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 238",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 28x - 238\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (7)(4x + 34) = 28x + 238.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v13",
+      "statement": "Maria compro 3 cuadernos a $12.4 c/u en Iquitos. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $36.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $12.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $15.4\r\n  \r\n\r\n**Explicacion:** Total = 3 x 12 = $36.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Nuestra Senora de Guadalupe en Lima grafica f(x) = 8x + 3. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v15",
+      "statement": "En Iquitos, un estudiante del Colegio Nacional Iquitos resuelve: 8x + 5 = 45. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 5 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v16",
+      "statement": "Simplifique: (5)(2x + 25)",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 10x + 125",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10x + 25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7x + 125",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 10x - 125\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (5)(2x + 25) = 10x + 125.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v18",
+      "statement": "Maria compro 4 cuadernos a $8.4 c/u en Ayacucho. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $32.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $8.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $12.4\r\n  \r\n\r\n**Explicacion:** Total = 4 x 8 = $32.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 6x + 8. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-v20",
+      "statement": "En Lima, un estudiante del Colegio Nacional Nuestra Senora de Guadalupe resuelve: 2x + 11 = 21. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando atomos moleculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W14-atomos-moleculas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

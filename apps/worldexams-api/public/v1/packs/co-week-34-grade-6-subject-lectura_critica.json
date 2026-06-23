@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.455Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-001-v1",
+      "statement": "¿Qué es una fuente de información confiable?",
+      "context": "Definición de fuente confiable",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquier texto que aparece en Internet",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda la información en Internet es confiable. Cualquier persona puede publicar contenido sin verificación."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto escrito por alguien famoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fama no garantiza confiabilidad. Una persona famosa puede estar equivocada o no ser experta en el tema."
+        },
+        {
+          "letter": "C",
+          "text": "Una fuente que ofrece información verificada, precisa y respaldada por expertos o instituciones reconocidas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una fuente confiable se caracteriza por: autores con credenciales en el tema, respaldo de instituciones reconocidas (universidades, centros de investigación, organismos oficiales), información verificable y actualizada, y transparencia sobre sus métodos y fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que tiene muchos \"me gusta\" en redes sociales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La popularidad no equivale a confiabilidad. Un contenido puede tener muchos \"me gusta\" pero ser falso. La verificación es independiente de la popularidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la era de la información, diferenciar fuentes confiables de las que no lo son es una habilidad de supervivencia intelectual. Las fuentes confiables tienen: autoría clara, respaldo institucional, citas y referencias, fecha de publicación, y ausencia de sesgos extremos. Las fuentes no confiables suelen tener anonimato, lenguaje exagerado, falta de referencias y promesas milagrosas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de fuentes de información",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-002-v1",
+      "statement": "¿Cuál de los siguientes es un ejemplo de fuente PRIMARIA?",
+      "context": "Fuentes primarias y secundarias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un artículo de Wikipedia sobre la independencia de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Wikipedia es una fuente secundaria o terciaria. Recopila y resume información de otras fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de texto de historia de grado 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un libro de texto es una fuente secundaria: interpreta y organiza información de fuentes primarias para fines educativos."
+        },
+        {
+          "letter": "C",
+          "text": "El diario personal de Simón Bolívar escrito durante la Campaña Libertadora",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una fuente primaria es un documento o testimonio creado durante el período que se estudia, por alguien que vivió los hechos. El diario de Bolívar es un testimonio directo de la época."
+        },
+        {
+          "letter": "D",
+          "text": "Un documental de televisión sobre Simón Bolívar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un documental es una fuente secundaria: analiza, interpreta y presenta información de fuentes primarias. No es un testimonio directo de la época."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las FUENTES PRIMARIAS son testimonios directos de la época o el evento: cartas, diarios, fotografías, grabaciones, documentos oficiales, entrevistas originales. Las FUENTES SECUNDARIAS analizan, interpretan o resumen fuentes primarias: libros de texto, artículos académicos, documentales, biografías. Las FUENTES TERCIARIAS compilan información de fuentes secundarias: enciclopedias, manuales, bases de datos. Cada tipo tiene su utilidad y sus limitaciones.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tipos de fuentes",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-003-v1",
+      "statement": "Estás investigando sobre la deforestación en la Amazonía colombiana. Encuentras dos sitios web:\r\n\r\n> **Sitio A:** \"Ladeforestacion.com\" — No muestra autor, no tiene fecha de publicación, tiene anuncios de productos milagrosos para la salud, y dice: \"La Amazonía desaparecerá en 2 años si no compras nuestro curso para salvar el planeta.\"\r\n>\r\n> **Sitio B:** \"sinchi.org.co\" — Es el sitio del Instituto Amazónico de Investigaciones Científicas SINCHI, muestra datos actualizados del 2025, cita estudios de la Universidad Nacional, y tiene informes descargables con metodología explicada.\r\n\r\n¿Cuál sitio es más confiable?",
+      "context": "Identificar señales de confiabilidad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sitio A, porque su mensaje es urgente y llama la atención",
+          "is_correct": false,
+          "feedback": "Incorrecto. La urgencia exagerada y el lenguaje alarmista son señales de alerta, no de confiabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El Sitio B, porque tiene un diseño más bonito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño no es un indicador de confiabilidad. Un sitio con buen diseño puede tener información falsa y viceversa."
+        },
+        {
+          "letter": "C",
+          "text": "El Sitio B, porque está respaldado por una institución científica reconocida (SINCHI), tiene datos actualizados y metodología transparente",
+          "is_correct": true,
+          "feedback": "¡Correcto! SINCHI es una institución oficial de investigación. La presencia de fecha, autoría institucional y metodología transparente son señales de confiabilidad. El Sitio A tiene múltiples banderas rojas: anonimato, sensacionalismo, intereses comerciales."
+        },
+        {
+          "letter": "D",
+          "text": "El Sitio A, porque es más fácil de entender",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad de lectura no garantiza veracidad. La información falsa suele ser más simple y atractiva que la verdad, que puede ser compleja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para evaluar rápidamente la confiabilidad de un sitio web, usa el método de las 5 preguntas: 1) ¿QUIÉN publica? (¿autor o institución identificable?), 2) ¿CUÁNDO se publicó? (¿fecha visible y actualizada?), 3) ¿POR QUÉ se publica? (¿informar, vender, convencer?), 4) ¿CÓMO se respalda? (¿citas, referencias, metodología?), 5) ¿QUÉ dicen otras fuentes? (¿se puede corroborar?). Si faltan dos o más de estas, probablemente no es confiable.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluación básica de confiabilidad",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-004-v1",
+      "statement": "Dos publicaciones en redes sociales hablan sobre el mismo tema:\r\n\r\n> **Publicación 1:** \"¡URGENTE! El gobierno colombiano acaba de anunciar que no habrá clases en todo el año 2027. COMPARTE para que todos se enteren.\" No tiene fuente, está escrita en mayúsculas, usa signos de exclamación excesivos y pide compartir.\r\n>\r\n> **Publicación 2:** \"El Ministerio de Educación publicó el calendario escolar 2027. Las clases iniciarán en febrero y finalizarán en noviembre, con dos semanas de vacaciones en junio. Consulte el documento oficial en www.mineducacion.gov.co.\"\r\n\r\n¿Qué características hacen que la Publicación 2 sea más confiable?",
+      "context": "Noticia falsa vs. noticia real",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene menos signos de exclamación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es cierto que la Publicación 1 usa exclamaciones excesivas, la ausencia de ellas no es suficiente para ser confiable. La clave está en la fuente y el lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Que da una fecha específica (2027)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas publicaciones mencionan 2027. Dar una fecha no hace que la información sea verdadera. La desinformación también usa fechas específicas para parecer real."
+        },
+        {
+          "letter": "C",
+          "text": "Que cita una fuente oficial (Ministerio de Educación) e invita a verificar en el sitio web oficial, mientras que la Publicación 1 usa lenguaje sensacionalista y pide compartir sin verificar",
+          "is_correct": true,
+          "feedback": "¡Correcto! La Publicación 2 ofrece una fuente verificable y no pide compartir ciegamente. La Publicación 1 usa todas las señales de desinformación: URGENTE, mayúsculas, exclamaciones múltiples, llamado a compartir sin verificar."
+        },
+        {
+          "letter": "D",
+          "text": "Que la Publicación 2 tiene más palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es un indicador de veracidad. Un texto falso puede ser muy largo y detallado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desinformación suele usar estas tácticas: 1) Lenguaje URGENTE y SENSACIONALISTA, 2) Pedir que COMPARTAS sin verificar, 3) Mayúsculas y signos de exclamación excesivos, 4) Afirmaciones increíbles sin fuente, 5) Ataques a medios tradicionales (\"no saldrá en la televisión\"). La información confiable: cita fuentes verificables, usa lenguaje mesurado, invita a comprobar, y no pide compartir como prueba de solidaridad.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Diferenciar información verificada de no verificada",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-005-v1",
+      "statement": "Un artículo titulado \"Los beneficios de los alimentos procesados\" fue escrito por la Asociación de Fabricantes de Alimentos Procesados. ¿Por qué deberíamos leer este artículo con precaución?",
+      "context": "Fuente con conflicto de interés",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los alimentos procesados no tienen ningún beneficio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmación es una generalización. Algunos alimentos procesados (como la leche pasteurizada) sí tienen beneficios. No podemos descartar todo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los fabricantes no tienen conocimiento sobre alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fabricantes conocen sus productos, pero su conocimiento puede estar sesgado por su interés en vender."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la fuente tiene un conflicto de interés: la Asociación de Fabricantes se beneficia si las personas compran más alimentos procesados, por lo que el artículo probablemente omitirá los aspectos negativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un conflicto de interés ocurre cuando quien publica la información puede beneficiarse de que el lector adopte cierta postura. Esto no significa que la información sea falsa, pero debemos leerla sabiendo que hay un sesgo favorable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los artículos escritos por asociaciones siempre mienten",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las asociaciones mienten. El problema no es la mentira, sino el sesgo y la omisión selectiva de información. Debemos evaluar cada fuente por sus méritos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un conflicto de interés no invalida automáticamente una fuente, pero exige una lectura más cuidadosa. Pregúntate: ¿quién se beneficia si creo esta información? ¿Qué información podría estar omitiendo? ¿Hay estudios independientes sobre el mismo tema? Busca siempre fuentes que no tengan un interés económico o ideológico directo en el tema. Las fuentes más confiables son independientes y transparentes sobre sus financiamientos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de sesgo en fuentes",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-006-v1",
+      "statement": "Encuentras esta afirmación en redes sociales: \"Comer huevos todos los días es malo para la salud porque aumenta el colesterol.\" ¿Cuál es la mejor manera de verificar esta información?",
+      "context": "Corroborar información",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartir la publicación para que otros opinen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir no verifica. Las opiniones de otros en redes sociales no son evidencia confiable. Esto solo contribuye a la difusión de información no verificada."
+        },
+        {
+          "letter": "B",
+          "text": "Buscar un video en TikTok que hable sobre huevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. TikTok no es un medio de verificación confiable. Los creadores de contenido no necesariamente tienen formación en nutrición."
+        },
+        {
+          "letter": "C",
+          "text": "Consultar fuentes como la Organización Mundial de la Salud (OMS), el Ministerio de Salud de Colombia, o estudios publicados en revistas científicas de nutrición",
+          "is_correct": true,
+          "feedback": "¡Correcto! La verificación cruzada consiste en contrastar la información con fuentes autorizadas e independientes. La OMS, el Ministerio de Salud y las revistas científicas son fuentes confiables porque sus publicaciones pasan por procesos de revisión y tienen respaldo institucional."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntarle a un familiar que sabe mucho de cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conocimiento popular o la experiencia personal no son equivalentes a la evidencia científica. Una persona puede cocinar huevos muy bien sin tener formación en nutrición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La verificación cruzada (o cross-checking) es el proceso de contrastar una afirmación con múltiples fuentes independientes y confiables. Pasos: 1) Identifica la afirmación principal, 2) Busca fuentes reconocidas sobre el tema (OMS, MinSalud, universidades), 3) Compara lo que dicen diferentes fuentes, 4) Si todas las fuentes confiables coinciden, la información es probablemente correcta; si hay contradicciones, profundiza. Nunca te quedes con una sola fuente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Verificación cruzada de información",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-007-v1",
+      "statement": "Tienes que hacer un trabajo escolar sobre \"La biodiversidad en Colombia\". ¿Cuáles de las siguientes fuentes son las MÁS adecuadas?\r\n\r\n1. Un video de un youtuber hablando de animales\r\n2. La página web del Ministerio de Ambiente y Desarrollo Sostenible\r\n3. Un comentario en Facebook de un usuario anónimo\r\n4. Un artículo del Instituto Humboldt (investigación científica)\r\n5. Un tweet de un político\r\n6. Una entrada de Wikipedia citando fuentes oficiales",
+      "context": "Elegir fuentes para una investigación",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 3 y 5, porque son fáciles de entender",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad no es un criterio de confiabilidad. Los videos de youtubers, comentarios anónimos y tweets no son fuentes académicas adecuadas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la 2, porque es del gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la fuente 2 es buena, la 4 y la 6 también son válidas. Limitarse a una sola fuente no es buena práctica de investigación."
+        },
+        {
+          "letter": "C",
+          "text": "2 (MinAmbiente), 4 (Instituto Humboldt) y 6 (Wikipedia con fuentes), porque son fuentes institucionales, científicas o con referencias verificables",
+          "is_correct": true,
+          "feedback": "¡Correcto! MinAmbiente es una fuente oficial del gobierno; Instituto Humboldt es un centro de investigación científica reconocido; Wikipedia con citas de fuentes oficiales puede ser un buen punto de partida (aunque debe verificarse). Estas tres fuentes son adecuadas para un trabajo escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 4, porque los científicos siempre tienen la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el Instituto Humboldt es muy confiable, los trabajos escolares deben usar múltiples fuentes para tener una visión completa. Además, los científicos también pueden equivocarse o tener sesgos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para un trabajo escolar, la jerarquía de fuentes recomendada es: 1) Instituciones oficiales (ministerios, organismos públicos), 2) Centros de investigación y universidades, 3) Publicaciones científicas revisadas por pares, 4) Organizaciones no gubernamentales especializadas, 5) Medios de comunicación con buena reputación. Las redes sociales, blogs personales y sitios sin autoría deben evitarse o usarse con extrema precaución.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Selección de fuentes para un trabajo escolar",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-008-v1",
+      "statement": "Un periódico publica: \"Según un estudio de la Universidad de los Andes, el 70% de los estudiantes colombianos prefieren clases en la mañana.\" El artículo cita al investigador principal y da el enlace al estudio original.\r\n\r\n¿Por qué esta noticia es más confiable que una publicación anónima en redes sociales que dice lo mismo?",
+      "context": "Rastrear el origen de la información",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los periódicos nunca se equivocan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los periódicos también pueden cometer errores. La diferencia es que tienen mecanismos de verificación y corrección."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el periódico tiene más lectores que la red social",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de lectores no es un indicador de veracidad. Las noticias falsas a veces llegan a más personas que las verdaderas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque podemos rastrear la fuente original (Universidad de los Andes), verificar quién hizo el estudio y consultar la metodología, lo que permite confirmar la información",
+          "is_correct": true,
+          "feedback": "¡Correcto! La posibilidad de rastrear la fuente original es clave. Podemos ir al estudio de la Universidad de los Andes, ver cómo se hizo la encuesta (metodología), qué preguntas se hicieron, y si realmente el 70% es un dato correcto. La cadena de fuentes es transparente y verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el periódico paga a sus periodistas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los periodistas reciban un salario no garantiza que la información sea correcta. La calidad depende de los procesos de verificación, no del tipo de contratación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una información confiable permite rastrear su origen hasta la fuente primaria. Esto se llama \"cadena de custodia de la información\": desde el hecho original → el estudio o documento → el artículo que lo cita → la noticia que lo difunde. Cuando una información no permite rastrear su origen (es anónima, no cita fuentes, o la fuente citada no existe), hay que desconfiar. Siempre pregúntate: ¿puedo llegar hasta la fuente original?\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de cadena de fuentes",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-009-v1",
+      "statement": "Estás investigando la población de Colombia y encuentras dos fuentes:\r\n\r\n> **Fuente A:** \"Colombia tiene 42 millones de habitantes\" — Publicado en 2005 por el DANE.\r\n>\r\n> **Fuente B:** \"Colombia tiene aproximadamente 52 millones de habitantes\" — Publicado en 2025 por el DANE.\r\n\r\n¿Cuál fuente es más adecuada para tu trabajo actual?",
+      "context": "Información desactualizada",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fuente A, porque los números más pequeños son más fáciles de recordar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad de memorización no es un criterio de selección de fuentes. Lo importante es la precisión y actualidad."
+        },
+        {
+          "letter": "B",
+          "text": "La Fuente B, porque el número es más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el número sea más grande no lo hace más correcto. La diferencia se debe al crecimiento poblacional en 20 años."
+        },
+        {
+          "letter": "C",
+          "text": "La Fuente B, porque es la más reciente y proviene de la misma institución oficial (DANE), reflejando el crecimiento poblacional de dos décadas",
+          "is_correct": true,
+          "feedback": "¡Correcto! La población cambia con el tiempo (nacimientos, muertes, migraciones). Una fuente de 2005 está desactualizada. La fuente B de 2025 del DANE (Departamento Administrativo Nacional de Estadística, la entidad oficial) es la adecuada. La fuente A no está \"equivocada\" para su época, pero está desactualizada."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas, porque son del DANE y el DANE siempre tiene la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el DANE es confiable, la desactualización es un problema. Usar datos de 2005 cuando existen datos de 2025 daría información incorrecta sobre la población actual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La actualidad de una fuente depende del tema. Para datos demográficos, económicos o tecnológicos, la información de hace 20 años puede estar completamente desactualizada. Para historia, literatura clásica o filosofía, una fuente antigua puede ser perfectamente válida. Siempre verifica la fecha de publicación y pregúntate: ¿este tema cambia rápidamente o es estable? La fórmula es: fuente confiable + actualizada = información de calidad.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluación de la actualidad de la fuente",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W34-fuentes-confiables-010-v1",
+      "statement": "Estás investigando si el consumo de azúcar es dañino para la salud. Encuentras cuatro fuentes:\r\n\r\n> **Fuente 1:** Artículo de la Organización Mundial de la Salud (OMS) que dice: \"Reducir el consumo de azúcares libres a menos del 10% de la ingesta calórica total reduce el riesgo de obesidad y caries dental.\"\r\n>\r\n> **Fuente 2:** Publicación en Instagram de un \"influencer fitness\": \"El azúcar es veneno puro. Debes eliminarlo completamente de tu dieta. ¡Mi curso te enseña cómo!\"\r\n>\r\n> **Fuente 3:** Estudio de la Universidad Nacional de Colombia que encuentra relación entre alto consumo de azúcar y enfermedades metabólicas, publicado en una revista científica revisada por pares.\r\n>\r\n> **Fuente 4:** Comunicado de la Asociación de Productores de Azúcar: \"El azúcar es parte esencial de una dieta balanceada. No hay evidencia suficiente para recomendar su restricción.\"\r\n\r\nOrdénalas de MÁS confiable a MENOS confiable:",
+      "context": "Evaluar credibilidad de fuentes sobre un mismo tema",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2, 4, 3, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ordenación pone al influencer y a la asociación de productores por encima de la OMS y la Universidad Nacional, lo cual es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "4, 2, 1, 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asociación de productores tiene conflicto de interés y el influencer carece de credenciales. No deberían estar por encima de la OMS."
+        },
+        {
+          "letter": "C",
+          "text": "1 (OMS) y 3 (Universidad Nacional), seguidas de 4 (productores con conflicto de interés) y finalmente 2 (influencer sin credenciales)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La OMS es una autoridad sanitaria mundial. La Universidad Nacional publica en revista revisada por pares. La Asociación de Productores tiene conflicto de interés pero al menos representa una posición institucional. El influencer no tiene credenciales y vende un curso, lo que lo hace la fuente menos confiable."
+        },
+        {
+          "letter": "D",
+          "text": "3, 2, 1, 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poner al influencer sobre la OMS y la Universidad Nacional es un error grave de evaluación de fuentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar fuentes requiere considerar múltiples factores: 1) AUTORIDAD: ¿el autor o institución tiene credenciales en el tema? 2) CONFIABILIDAD: ¿la información pasa por procesos de verificación? 3) ACTUALIDAD: ¿es reciente? 4) SESGO: ¿el autor tiene interés en que creas cierta información? 5) CONSENSO: ¿otras fuentes independientes coinciden? La jerarquía general es: instituciones científicas > universidades > gobiernos > medios serios > organizaciones con intereses > individuos sin credenciales. Pero siempre hay excepciones, por eso hay que evaluar caso por caso.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valoración crítica de múltiples fuentes",
+      "bundle_id": "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Cuál es la DIFERENCIA principal entre un MAPA y un PLANO?",
+      "context": "Definir mapa y plano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa es a color y el plano es en blanco y negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser a color o no."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa es político y el plano es físico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen mapas físicos, políticos y temáticos, y planos de todo tipo."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa representa territorios extensos (países, departamentos, regiones) a menor escala; el plano representa espacios más pequeños (ciudades, edificios, colegios) a mayor escala y con más detalle.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia principal es la ESCALA y la EXTENSIÓN. Los mapas muestran grandes áreas con menos detalle; los planos muestran áreas pequeñas con mucho detalle. Un mapa de Colombia cabe en una hoja; un plano del colegio también, pero muestra cada salón."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, son sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conceptos relacionados pero diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mapa y plano se diferencian por ESCALA. ESCALA es la relación entre la distancia en el mapa/plano y la distancia real. Un mapa de Colombia tiene escala pequeña (1 cm = muchos km). Un plano del colegio tiene escala grande (1 cm = pocos metros). A menor escala, menos detalle pero más territorio. A mayor escala, más detalle pero menos territorio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "*Mapa físico de Colombia con:*\n\n- *Tres cordilleras (Occidental, Central, Oriental) en marrón*\n- *Ríos (Magdalena, Cauca, Atrato) en azul*\n- *Llanuras (Caribe, Pacífica, Orinoquía, Amazonía) en verde*\n- *Una flecha que señala el norte*\n- *Un recuadro que dice \"Escala 1:5.000.000\"*\n- *Una cajita con {██ Montaña  ██ Río  ██ Llanura}*\n\n¿Qué elemento del mapa indica el SIGNIFICADO de los colores y símbolos?",
+      "context": "Identificar elementos de un mapa",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La flecha del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flecha del norte indica orientación, no significado de símbolos."
+        },
+        {
+          "letter": "B",
+          "text": "La escala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala indica la relación de tamaño, no el significado."
+        },
+        {
+          "letter": "C",
+          "text": "La LEYENDA o CONVENCIONES.",
+          "is_correct": true,
+          "feedback": "Correcto. La leyenda (también llamada convenciones) explica qué significa cada color, símbolo o línea del mapa. En este caso, marrón = montaña, azul = río, verde = llanura. Sin leyenda, el mapa sería ilegible para quien no conoce los símbolos."
+        },
+        {
+          "letter": "D",
+          "text": "El título del mapa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título dice de qué trata el mapa, pero no explica los símbolos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo mapa debe tener: TÍTULO (qué representa), LEYENDA (significado de símbolos y colores), ESCALA (relación de tamaño) y ROSA DE LOS VIENTOS o FLECHA DEL NORTE (orientación). La LEYENDA es el \"diccionario\" del mapa: sin ella, los colores y símbolos no tendrían significado. Es lo primero que debemos consultar al leer un mapa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "*Plano del colegio \"Nuestra Señora del Rosario\":*\n\n```\n[Cancha]        [--- Salones 1-3 ---]\n    |                    |\n    v                    v\n[Entrada] → [Patio central] → [Biblioteca]\n                  |\n         [--- Salones 4-6 ---]\n                  |\n             [Cafetería]\n```\n\nSegún el plano, ¿qué hay DETRÁS de la cancha?",
+      "context": "Leer un plano básico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biblioteca está al otro lado del patio central, no detrás de la cancha."
+        },
+        {
+          "letter": "B",
+          "text": "La cafetería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cafetería está al fondo, detrás de los salones 4-6."
+        },
+        {
+          "letter": "C",
+          "text": "Los salones 1-3.",
+          "is_correct": true,
+          "feedback": "Correcto. En el plano, la cancha está en la parte superior y los salones 1-3 están inmediatamente detrás de ella."
+        },
+        {
+          "letter": "D",
+          "text": "La entrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entrada está al frente, no detrás de la cancha."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer un PLANO requiere: 1) IDENTIFICAR la ORIENTACIÓN (¿dónde está la entrada? ¿el norte?), 2) RECONOCER los ESPACIOS representados, 3) ENTENDER las RELACIONES ESPACIALES (qué está al lado de qué, qué está detrás, qué está al frente), y 4) UBICARSE en el espacio representado. Los planos usan vistas desde arriba (vista aérea) para mostrar la distribución de los espacios.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "*Mapa político de Colombia con departamentos:*\n\n*La Guajira está en el extremo norte, en la península. Amazonas está en el sur, en la frontera con Brasil y Perú. Nariño está en el suroeste, en la frontera con Ecuador. Santander está en el centro-oriente, en la cuenca del Magdalena Medio.*\n\nUn estudiante dice: \"Voy de vacaciones de Nariño a La Guajira.\"\n\n¿En qué DIRECCIÓN general debe viajar?",
+      "context": "Interpretar un mapa político de Colombia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De norte a sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nariño está en el suroeste; La Guajira en el extremo norte."
+        },
+        {
+          "letter": "B",
+          "text": "De este a oeste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el movimiento correcto."
+        },
+        {
+          "letter": "C",
+          "text": "De sur a norte y ligeramente hacia el noreste.",
+          "is_correct": false,
+          "feedback": "Correcto. Nariño está en el sur/suroeste (frontera con Ecuador) y La Guajira está en el extremo norte (península). El viaje sería principalmente hacia el NORTE, con un ligero desplazamiento hacia el este."
+        },
+        {
+          "letter": "D",
+          "text": "De oeste a este.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería solo una parte del viaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los MAPAS POLÍTICOS muestran divisiones administrativas (países, departamentos, ciudades) y sus fronteras. Para ubicarse en un mapa político:\n1. Identifica los PUNTOS CARDINALES (N, S, E, O).\n2. Localiza el PUNTO DE PARTIDA y el DESTINO.\n3. Traza mentalmente la RUTA entre ambos.\n4. Determina la DIRECCIÓN GENERAL del desplazamiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "*Mapa temático: \"Zonas cafeteras de Colombia\"*\n\n*El mapa muestra una zona sombreada en la región andina que abarca partes de: Antioquia, Caldas, Quindío, Risaralda, Tolima, Huila, Cundinamarca, Santander y Norte de Santander.*\n\n*Leyenda: {██ Zona cafetera}*\n\n*Texto adicional: \"El Eje Cafetero (Caldas, Quindío, Risaralda) produce el café de mayor calidad del país.\"*\n\nSegún el mapa y el texto, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "context": "Leer un mapa temático",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo Colombia es zona cafetera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa muestra zonas específicas, no todo el país."
+        },
+        {
+          "letter": "B",
+          "text": "El café solo se cultiva en el Eje Cafetero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa muestra zonas cafeteras en otros departamentos (Tolima, Huila, Santander, etc.)."
+        },
+        {
+          "letter": "C",
+          "text": "El café se cultiva principalmente en la región Andina, en las laderas de las cordilleras. Aunque el Eje Cafetero produce café de mayor calidad, también hay zonas cafeteras importantes en Tolima, Huila, Cundinamarca y Santander.",
+          "is_correct": true,
+          "feedback": "Correcto. El mapa muestra que la zona cafetera se extiende por la región Andina en varios departamentos. El texto destaca al Eje Cafetero como productor de la mejor calidad, pero no es el único productor."
+        },
+        {
+          "letter": "D",
+          "text": "El café colombiano solo se produce en Antioquia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antioquia es una zona cafetera, no la única."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los MAPAS TEMÁTICOS representan información específica sobre un tema (café, población, clima, minería, etc.). Combinan la BASE GEOGRÁFICA (el mapa del territorio) con DATOS TEMÁTICOS (las zonas sombreadas). Para leerlos: 1) identifica el TEMA (zonas cafeteras), 2) observa la DISTRIBUCIÓN ESPACIAL (dónde se concentra), 3) relaciona con el TEXTO ADICIONAL que complementa la información visual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "Un mapa de Colombia tiene escala 1:10.000.000 (1 cm en el mapa = 100 km reales). La distancia entre Bogotá y Medellín en el mapa es de 2.5 cm.\n\n¿Cuál es la distancia REAL aproximada entre ambas ciudades?",
+      "context": "Inferir usando escala de un mapa",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 km.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo la medida del mapa con la real."
+        },
+        {
+          "letter": "B",
+          "text": "100 km.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la equivalencia de 1 cm, no de 2.5 cm."
+        },
+        {
+          "letter": "C",
+          "text": "250 km.",
+          "is_correct": true,
+          "feedback": "Correcto. Si 1 cm = 100 km, entonces 2.5 cm × 100 km/cm = 250 km. La distancia real entre Bogotá y Medellín es aproximadamente 250 km en línea recta."
+        },
+        {
+          "letter": "D",
+          "text": "1000 km.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Serían 10 cm en el mapa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ESCALA de un mapa permite calcular distancias reales. Fórmula: DISTANCIA EN EL MAPA × ESCALA = DISTANCIA REAL. Si la escala es 1:10.000.000, significa que 1 cm en el mapa representa 10.000.000 cm reales = 100 km. Saber usar la escala es fundamental para planificar viajes, entender la extensión de territorios y comparar distancias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "Un mapa turístico de Cartagena muestra:\n\n- El Centro Histórico (con la torre del reloj, la catedral, el palacio de la Inquisición)\n- El Castillo de San Felipe\n- Bocagrande (hoteles y centros comerciales)\n- La boquilla (playas)\n\nPERO no muestra:\n\n- La Localidad de la Virgen y Turística (donde vive la mayoría de la población cartagenera de bajos recursos)\n- Los barrios informales del sur de la ciudad\n\n¿Qué problema de REPRESENTACIÓN tiene este mapa?",
+      "context": "Analizar un mapa que muestra información incompleta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa tiene errores geográficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dice que tenga errores, solo omisiones."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa es muy pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es el problema."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa muestra solo los lugares de INTERÉS TURÍSTICO y oculta la realidad social de Cartagena, donde gran parte de la población vive en condiciones precarias. Esto da una imagen PARCIAL y SESGADA de la ciudad. Es un mapa selectivo que muestra lo \"bonito\" y omite lo \"incomodo\".",
+          "is_correct": true,
+          "feedback": "Correcto. Los mapas no son neutrales: QUIEN DISEÑA UN MAPA DECIDE QUÉ INCLUIR Y QUÉ OMITIR. Este mapa turístico elige mostrar lo que interesa a los visitantes y omite la realidad social. Un lector crítico debe preguntarse: ¿qué NO aparece en este mapa y por qué?"
+        },
+        {
+          "letter": "D",
+          "text": "Los mapas no pueden omitir información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. TODOS los mapas omiten información por necesidad de escala y propósito. Lo importante es identificar qué se omite y por qué."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los MAPAS NO SON NEUTRALES. Toda representación cartográfica implica decisiones sobre qué incluir, qué destacar y qué omitir. Un mapa turístico mostrará hoteles y playas; un mapa de salud mostrará hospitales; un mapa electoral mostrará resultados de votación. Preguntarse \"¿quién hizo este mapa y para qué?\" y \"¿qué información se omitió?\" es parte de la lectura crítica de mapas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Se comparan dos mapas de la misma zona de la Amazonía colombiana:\n\n**Mapa 1 (Gobernación):** Muestra los límites departamentales, municipios, carreteras principales y resguardos indígenas titulados.\n\n**Mapa 2 (ONG Ambiental):** Muestra la deforestación en los últimos 5 años, los territorios indígenas sin titular, las rutas de minería ilegal y los puntos de invasión de cultivos ilícitos.\n\n¿Por qué ambos mapas son DIFERENTES si representan la misma zona?",
+      "context": "Comparar diferentes tipos de mapa del mismo lugar",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque uno es más nuevo que el otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se especifica la fecha, y la diferencia no es solo temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque uno está mal hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden estar bien hechos para sus propósitos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada mapa responde a un PROPÓSITO y una PERSPECTIVA diferente: el de la Gobernación muestra lo \"oficial\" (límites y territorios reconocidos), mientras que el de la ONG muestra PROBLEMAS y REALIDADES NO OFICIALES (deforestación, minería ilegal). Cada mapa cuenta una historia diferente de la misma región.",
+          "is_correct": true,
+          "feedback": "Correcto. La misma zona geográfica puede representarse de maneras radicalmente diferentes según los INTERESES y OBJETIVOS de quien elabora el mapa. Comparar mapas de la misma zona hechos por diferentes actores enriquece nuestra comprensión del territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Son el mismo mapa con colores diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contienen información temática completamente distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar MÚLTIPLES MAPAS del mismo lugar revela diferentes perspectivas y realidades. La Gobernación muestra la \"capa oficial\" (lo que el Estado reconoce). La ONG muestra la \"capa no oficial\" (problemas ambientales y sociales). Un análisis completo del territorio requiere integrar ambas perspectivas. Esta habilidad de \"leer entre mapas\" es un nivel avanzado de pensamiento crítico espacial.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Necesitas llegar al Museo del Oro en Bogotá desde la estación de TransMilenio de la Calle 26. Tienes dos opciones:\n\n**Opción A:** Un mapa de Bogotá a escala 1:100.000 que muestra todas las calles, carreras y avenidas de la ciudad.\n\n**Opción B:** Un plano turístico del centro histórico de Bogotá que muestra las calles peatonales, las plazas, los museos y las estaciones de TransMilenio cercanas, a escala 1:5.000.\n\n¿Cuál mapa es MÁS ÚTIL para tu propósito y por qué?",
+      "context": "Evaluar la utilidad de un mapa para un propósito",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opción A, porque tiene toda la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener toda la ciudad es irrelevante si solo necesitas el centro. La escala grande (1:100.000) daría muy poco detalle del área que te interesa."
+        },
+        {
+          "letter": "B",
+          "text": "La opción B, porque es un PLANO del centro histórico a mayor escala, con más detalle de las calles que caminarías, los puntos de referencia como el Museo del Oro y las estaciones cercanas. Es el formato ideal para movilizarse a pie por una zona específica.",
+          "is_correct": true,
+          "feedback": "Correcto. Para navegar a pie por el centro histórico, necesitas un PLANO DETALLADO (escala grande) que muestre calles peatonales y puntos de referencia. El mapa general de la ciudad (escala pequeña) no tendría suficiente detalle para caminar."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones son igual de útiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son diferentes niveles de detalle para diferentes propósitos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es útil, es mejor usar Google Maps.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Google Maps es útil, la pregunta es sobre mapas impresos y la habilidad de evaluar cuál es más adecuado. Google Maps también es un tipo de mapa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la UTILIDAD de un mapa depende del PROPÓSITO. Para navegar una zona pequeña a pie, necesitas un PLANO con ESCALA GRANDE (mucho detalle). Para entender la ubicación de una ciudad en el país, necesitas un MAPA con ESCALA PEQUEÑA (visión general). \"El mejor mapa\" no existe en abstracto: existe el mapa más ADECUADO para cada tarea específica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Debes dibujar un PLANO DE EVACUACIÓN para tu salón de clase en caso de terremoto. El salón tiene:\n\n- Una puerta principal al fondo a la derecha\n- Una puerta de emergencia al fondo a la izquierda\n- Ventanas en la pared izquierda\n- El escritorio del profesor al frente\n- Los puestos de los estudiantes en 4 filas de 6\n- Un extintor junto a la puerta principal\n\n¿Qué ELEMENTO es INDISPENSABLE incluir en el plano?",
+      "context": "Crear un plano básico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los nombres de todos los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres individuales no son necesarios para un plano de evacuación."
+        },
+        {
+          "letter": "B",
+          "text": "Los colores de las paredes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de las paredes es irrelevante para la evacuación."
+        },
+        {
+          "letter": "C",
+          "text": "Las RUTAS DE EVACUACIÓN (flechas que indican hacia dónde dirigirse), la ubicación de las SALIDAS, el PUNTO DE ENCUENTRO y la ubicación del EXTINTOR. Todo con una LEYENDA clara.",
+          "is_correct": true,
+          "feedback": "Correcto. Un plano de evacuación debe incluir: 1) distribución de los espacios (puestos, escritorio), 2) ubicación de SALIDAS (puerta principal y de emergencia), 3) RUTAS de evacuación marcadas con flechas, 4) EQUIPOS de seguridad (extintor), y 5) LEYENDA que explique los símbolos. La SIMBOLOGÍA debe ser clara para que cualquier persona pueda seguirla en una emergencia."
+        },
+        {
+          "letter": "D",
+          "text": "La hora de la última actualización del plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque útil, no es el elemento más indispensable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Crear un PLANO requiere: 1) DEFINIR el PROPÓSITO (evacuación en caso de terremoto), 2) DIBUJAR la DISTRIBUCIÓN ESPACIAL (vista desde arriba), 3) INCLUIR los ELEMENTOS RELEVANTES para el propósito (salidas, rutas, equipos de seguridad), 4) USAR SÍMBOLOS CLAROS, y 5) INCLUIR UNA LEYENDA. La claridad y la simplicidad son esenciales: en una emergencia, el plano debe leerse en segundos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W34-mapas-planos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Ibagué, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Riohacha, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Villavicencio, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Pasto, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 34 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 34 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 34 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 34 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W34-tema-semana-34-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

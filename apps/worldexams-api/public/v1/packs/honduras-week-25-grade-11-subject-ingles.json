@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ingles",
+    "country": "honduras",
+    "pack_id": "honduras-week-25-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:17.430Z"
+  },
+  "questions": [
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "Silvia said: \"I visited the ruins last year.\" Which is the correct reported speech form?",
+      "context": "Silvia is talking about her visit to the Copan Ruins last summer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Silvia said she visits the ruins last year.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silvia said she visits the ruins last ye"
+        },
+        {
+          "letter": "B",
+          "text": "Silvia said she had visited the ruins the previous year.",
+          "is_correct": true,
+          "feedback": "Correcto! Silvia said she had visited the ruins the previous year."
+        },
+        {
+          "letter": "C",
+          "text": "Silvia said she has visited the ruins last year.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silvia said she has visited the ruins la"
+        },
+        {
+          "letter": "D",
+          "text": "Silvia said she would visit the ruins the previous year.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silvia said she would visit the ruins th"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el estilo indirecto (reported speech), cuando el verbo introductorio está en pasado, el Past Simple de la oración original debe cambiar a Past Perfect. Además, las expresiones de tiempo como 'last year' cambian a 'the previous year' o 'the year before'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "Complete the sentence: \"You ______ touch the coral reef while snorkeling; it is strictly prohibited.\"",
+      "context": "A tour guide in Roatan is explaining the local rules to a group of tourists.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrecto. don't have to"
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrecto. shouldn't"
+        },
+        {
+          "letter": "C",
+          "text": "must not",
+          "is_correct": true,
+          "feedback": "Correcto! must not"
+        },
+        {
+          "letter": "D",
+          "text": "might not",
+          "is_correct": false,
+          "feedback": "Incorrecto. might not"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El modal 'must not' se utiliza para expresar prohibiciones legales o reglas estrictas. En este contexto, tocar el arrecife de coral no es solo una mala idea, sino que está prohibido para proteger el ecosistema.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "If it ______ more often in the south, the coffee harvest ______ better this year.",
+      "context": "Farmers in Choluteca are discussing the effects of the recent drought on their crops.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rains / will be",
+          "is_correct": false,
+          "feedback": "Incorrecto. rains / will be"
+        },
+        {
+          "letter": "B",
+          "text": "rained / would be",
+          "is_correct": true,
+          "feedback": "Correcto! rained / would be"
+        },
+        {
+          "letter": "C",
+          "text": "had rained / will be",
+          "is_correct": false,
+          "feedback": "Incorrecto. had rained / will be"
+        },
+        {
+          "letter": "D",
+          "text": "rains / would have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. rains / would have been"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El segundo condicional se utiliza para hablar de situaciones hipotéticas o poco probables en el presente o futuro. Se forma con 'if' + Past Simple y 'would' + infinitivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "The new terminal at Ramon Villeda Morales Airport ______ by the end of next month.",
+      "context": "An article in a San Pedro Sula newspaper describes the expansion of the local airport.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will finish",
+          "is_correct": false,
+          "feedback": "Incorrecto. will finish"
+        },
+        {
+          "letter": "B",
+          "text": "is being finished",
+          "is_correct": false,
+          "feedback": "Incorrecto. is being finished"
+        },
+        {
+          "letter": "C",
+          "text": "will be finished",
+          "is_correct": true,
+          "feedback": "Correcto! will be finished"
+        },
+        {
+          "letter": "D",
+          "text": "will have finished",
+          "is_correct": false,
+          "feedback": "Incorrecto. will have finished"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La voz pasiva se utiliza cuando el sujeto de la oración recibe la acción. En este caso, la terminal es construida o finalizada por trabajadores, por lo que se requiere 'will be' + el participio del verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct phrasal verb: \"We need to ______ early in the morning to avoid the heavy traffic near Comayagüela.\"",
+      "context": "Two friends are planning a trip from Tegucigalpa to La Ceiba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get up",
+          "is_correct": false,
+          "feedback": "Incorrecto. get up"
+        },
+        {
+          "letter": "B",
+          "text": "set off",
+          "is_correct": true,
+          "feedback": "Correcto! set off"
+        },
+        {
+          "letter": "C",
+          "text": "take off",
+          "is_correct": false,
+          "feedback": "Incorrecto. take off"
+        },
+        {
+          "letter": "D",
+          "text": "go through",
+          "is_correct": false,
+          "feedback": "Incorrecto. go through"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren significados específicos. 'Set off' es el término estándar para iniciar un viaje.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "\"I have been studying English ______ five years, and it has opened many doors for me.\"",
+      "context": "A student is writing an essay about the importance of bilingual education in Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "Incorrecto. since"
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "Correcto! for"
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "Incorrecto. during"
+        },
+        {
+          "letter": "D",
+          "text": "while",
+          "is_correct": false,
+          "feedback": "Incorrecto. while"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el Present Perfect Continuous, utilizamos 'for' para indicar la duración de una actividad y 'since' para indicar el momento exacto en que comenzó.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "The mural, ______ was painted by Sofia, represents the history of the Ulúa river.",
+      "context": "A journalist is interviewing a local artist in El Progreso about her latest mural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrecto. who"
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correcto! which"
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrecto. whose"
+        },
+        {
+          "letter": "D",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrecto. whom"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pronombres relativos se utilizan para unir oraciones y proporcionar más información sobre un sustantivo. 'Which' se refiere específicamente a animales o cosas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "\"Baleadas ______ in every corner of Honduras because they are delicious and affordable.\"",
+      "context": "Discussing traditional food in a cultural festival in Gracias, Lempira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are selling",
+          "is_correct": false,
+          "feedback": "Incorrecto. are selling"
+        },
+        {
+          "letter": "B",
+          "text": "are sold",
+          "is_correct": true,
+          "feedback": "Correcto! are sold"
+        },
+        {
+          "letter": "C",
+          "text": "have sold",
+          "is_correct": false,
+          "feedback": "Incorrecto. have sold"
+        },
+        {
+          "letter": "D",
+          "text": "were sold",
+          "is_correct": false,
+          "feedback": "Incorrecto. were sold"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la voz pasiva en presente simple (am/is/are + participio) para hablar de hechos generales, procesos o situaciones donde el agente no es lo más importante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "Unless we ______ our forests now, future generations ______ many environmental problems.",
+      "context": "An environmentalist is warning about the deforestation in the Rio Platano Biosphere.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "protect / will not have",
+          "is_correct": false,
+          "feedback": "Incorrecto. protect / will not have"
+        },
+        {
+          "letter": "B",
+          "text": "protect / will face",
+          "is_correct": true,
+          "feedback": "Correcto! protect / will face"
+        },
+        {
+          "letter": "C",
+          "text": "will protect / face",
+          "is_correct": false,
+          "feedback": "Incorrecto. will protect / face"
+        },
+        {
+          "letter": "D",
+          "text": "protected / would face",
+          "is_correct": false,
+          "feedback": "Incorrecto. protected / would face"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' funciona como un condicional negativo (if not). En el primer condicional, la cláusula con 'unless' va en presente simple y la principal en futuro.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "The Garifuna people ______ in Honduras since the late 18th century.",
+      "context": "Reading about the Garifuna culture in Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Incorrecto. live"
+        },
+        {
+          "letter": "B",
+          "text": "are living",
+          "is_correct": false,
+          "feedback": "Incorrecto. are living"
+        },
+        {
+          "letter": "C",
+          "text": "have lived",
+          "is_correct": true,
+          "feedback": "Correcto! have lived"
+        },
+        {
+          "letter": "D",
+          "text": "had lived",
+          "is_correct": false,
+          "feedback": "Incorrecto. had lived"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Present Perfect se utiliza para acciones que comenzaron en el pasado y continúan en el presente, especialmente cuando se usa con la preposición 'since'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.58,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "\"If I ______ solar panels five years ago, my electricity bills ______ much lower now.\"",
+      "context": "A business owner in Choluteca is regretting not investing in solar panels earlier.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "installed / would be",
+          "is_correct": false,
+          "feedback": "Incorrecto. installed / would be"
+        },
+        {
+          "letter": "B",
+          "text": "had installed / would have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. had installed / would have been"
+        },
+        {
+          "letter": "C",
+          "text": "had installed / would be",
+          "is_correct": true,
+          "feedback": "Correcto! had installed / would be"
+        },
+        {
+          "letter": "D",
+          "text": "install / will be",
+          "is_correct": false,
+          "feedback": "Incorrecto. install / will be"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los condicionales mixtos se usan para hablar de cómo una acción pasada (Past Perfect) tiene una consecuencia en el presente (would + infinitivo).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "Fiber optic internet is significantly ______ than traditional DSL connections in most cities.",
+      "context": "A tech blogger is comparing different internet providers in Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more fast",
+          "is_correct": false,
+          "feedback": "Incorrecto. more fast"
+        },
+        {
+          "letter": "B",
+          "text": "faster",
+          "is_correct": true,
+          "feedback": "Correcto! faster"
+        },
+        {
+          "letter": "C",
+          "text": "the fastest",
+          "is_correct": false,
+          "feedback": "Incorrecto. the fastest"
+        },
+        {
+          "letter": "D",
+          "text": "fastly",
+          "is_correct": false,
+          "feedback": "Incorrecto. fastly"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para adjetivos cortos (una sílaba), el comparativo se forma añadiendo el sufijo '-er'. No se utiliza 'more' antes del adjetivo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.52,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "\"By the time the ship arrives, the paperwork ______ by the customs officers.\"",
+      "context": "A legal advisor is explaining the terms of a contract to a client in Puerto Cortes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will process",
+          "is_correct": false,
+          "feedback": "Incorrecto. will process"
+        },
+        {
+          "letter": "B",
+          "text": "is processed",
+          "is_correct": false,
+          "feedback": "Incorrecto. is processed"
+        },
+        {
+          "letter": "C",
+          "text": "will have been processed",
+          "is_correct": true,
+          "feedback": "Correcto! will have been processed"
+        },
+        {
+          "letter": "D",
+          "text": "has been processed",
+          "is_correct": false,
+          "feedback": "Incorrecto. has been processed"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Futuro Perfecto Pasivo se utiliza para indicar que una acción se habrá completado antes de un momento determinado en el futuro, enfatizando el resultado sobre el objeto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "Choose the correct word: \"Students should be encouraged to think for ______ rather than just memorizing facts.\"",
+      "context": "A university professor in Comayagua is talking about the importance of critical thinking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "them",
+          "is_correct": false,
+          "feedback": "Incorrecto. them"
+        },
+        {
+          "letter": "B",
+          "text": "themselves",
+          "is_correct": true,
+          "feedback": "Correcto! themselves"
+        },
+        {
+          "letter": "C",
+          "text": "theirs",
+          "is_correct": false,
+          "feedback": "Incorrecto. theirs"
+        },
+        {
+          "letter": "D",
+          "text": "their",
+          "is_correct": false,
+          "feedback": "Incorrecto. their"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pronombres reflexivos se utilizan cuando el sujeto y el objeto de la oración son la misma persona o cosa. En este caso, los estudiantes (ellos) deben pensar por ellos mismos (themselves).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.48,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "Tegucigalpa is ______ as hot ______ La Ceiba during the summer months.",
+      "context": "A conversation about the weather in Tegucigalpa compared to the Caribbean coast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "no / than",
+          "is_correct": false,
+          "feedback": "Incorrecto. no / than"
+        },
+        {
+          "letter": "B",
+          "text": "not / so",
+          "is_correct": true,
+          "feedback": "Correcto! not / so"
+        },
+        {
+          "letter": "C",
+          "text": "more / as",
+          "is_correct": false,
+          "feedback": "Incorrecto. more / as"
+        },
+        {
+          "letter": "D",
+          "text": "less / as",
+          "is_correct": false,
+          "feedback": "Incorrecto. less / as"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar dos cosas que no son iguales en grado, podemos usar la estructura 'not so + adjetivo + as' o 'not as + adjetivo + as'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "The lost city, ______ exact location remained a secret for centuries, was finally mapped using LiDAR technology.",
+      "context": "A historian is describing the discovery of the 'White City' (Ciudad Blanca) in La Mosquitia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrecto. which"
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correcto! whose"
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrecto. that"
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrecto. where"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' es un pronombre relativo posesivo que se utiliza para indicar que algo pertenece a la persona o cosa mencionada anteriormente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.42,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "\"Hardly ______ the new tax law been passed when prices started to rise significantly.\"",
+      "context": "A financial expert is discussing the impact of inflation on small businesses in Catacamas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correcto! had"
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto. has"
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrecto. did"
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrecto. was"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inversión se usa en inglés formal para dar énfasis. Con adverbios negativos como 'Hardly', 'Scarcely' o 'Never', el verbo auxiliar (had) precede al sujeto.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "It is essential that every member of the team ______ present at the budget meeting tomorrow.",
+      "context": "Advice given to a group of young entrepreneurs in Santa Rosa de Copan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. is"
+        },
+        {
+          "letter": "B",
+          "text": "be",
+          "is_correct": true,
+          "feedback": "Correcto! be"
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrecto. will be"
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrecto. was"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modo subjuntivo en inglés se utiliza después de ciertas expresiones de urgencia o importancia. Se caracteriza por usar la forma base del verbo (be, go, work) para todas las personas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.38,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "\"Had the government ______ more in wind energy ten years ago, we ______ so dependent on fossil fuels today.\"",
+      "context": "Reflecting on the evolution of renewable energy in the country.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "invest / wouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrecto. invest / wouldn't be"
+        },
+        {
+          "letter": "B",
+          "text": "invested / wouldn't be",
+          "is_correct": true,
+          "feedback": "Correcto! invested / wouldn't be"
+        },
+        {
+          "letter": "C",
+          "text": "invested / wouldn't have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. invested / wouldn't have been"
+        },
+        {
+          "letter": "D",
+          "text": "invest / wouldn't have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. invest / wouldn't have been"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una estructura de inversión de tercer condicional (omitimos 'if' y ponemos 'had' al principio) combinada con un resultado en presente (mixed conditional).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.35,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "\"I'd rather the local authorities ______ consulted the community leaders before implementing the project.\"",
+      "context": "A critique of a failed social program in a rural community in Intibuca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. have"
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correcto! had"
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrecto. did"
+        },
+        {
+          "letter": "D",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrecto. would have"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura 'would rather' seguida de un sujeto diferente y el Past Perfect se utiliza para expresar arrepentimiento o una preferencia sobre algo que ocurrió en el pasado de manera distinta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    }
+  ]
+}

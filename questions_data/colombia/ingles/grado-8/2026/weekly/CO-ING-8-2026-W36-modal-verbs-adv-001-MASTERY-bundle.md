@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W36: Advise, Request, Offer - Advanced Modals (B1)
 
 This bundle explores advanced uses of modal verbs including "shall" for suggestions, "would" for polite requests/offers, and "should have" for past criticism. Aligned with CEFR B1.

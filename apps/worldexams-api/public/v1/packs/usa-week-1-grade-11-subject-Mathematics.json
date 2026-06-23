@@ -3,309 +3,889 @@
     "grade": 11,
     "subject": "Mathematics",
     "country": "usa",
-    "pack_id": "usa-week-1-grade-11-subject-Mathematics",
+    "pack_id": "usa-week-1-grade-11-subject-mathematics",
     "generated_at": "2026-06-18T23:59:08.630Z"
   },
   "questions": [
     {
-      "id": "q-0",
-      "statement": "A taxi in New York City charges $2.50 initial fare plus $0.50 per quarter mile. If Maya pays $7.50 for a ride, how many miles did she travel?\n\nA) 5 miles\nB) 8 miles\nC) 10 miles\nD) 12 miles\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v1",
+      "statement": "**Stem:** Simplify: 5(8x + 36)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 180",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 36",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 40x - 180",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 13x + 36\r\n  \r\n\r\n**Explanation:** Apply distributive property: 5(8x + 36) = 5×8x + 5×36 = 40x + 180.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-1",
-      "statement": "Solve for x: 3x + 7 = 22\n\nA) 3\nB) 5\nC) 7\nD) 15\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v2",
+      "statement": "**Stem:** Find the slope between points (4, 3) and (7, 9)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-2",
-      "statement": "Which of the following is equivalent to 2(4x − 3) + 5x?\n\nA) 13x − 3\nB) 13x − 6\nC) 8x − 3\nD) 8x − 6\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v3",
+      "statement": "**Stem:** Solve for x: 4x + 6 = 26",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Subtract 6 from both sides: 4x = 20. Then divide by 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-3",
-      "statement": "A bus ticket from Los Angeles to San Francisco costs $45. A student group has $540 to spend on bus tickets. If they buy as many tickets as possible, how much money will they have left?\n\nA) $0\nB) $45\nC) $90\nD) $135\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v4",
+      "statement": "**Stem:** Simplify: 6(5x + 48)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 30x + 288",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 30x + 48",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 30x - 288",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 11x + 48\r\n  \r\n\r\n**Explanation:** Apply distributive property: 6(5x + 48) = 6×5x + 6×48 = 30x + 288.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-4",
-      "statement": "If 2x − 5 > 3, what is the solution set?\n\nA) x > 4\nB) x > 1\nC) x < 4\nD) x < 1\n**[ ]** → **A**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v5",
+      "statement": "**Stem:** Find the slope between points (2, 2) and (7, 13)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-5",
-      "statement": "A phone plan in Texas charges $20 per month plus $0.08 per text message. If a customer's bill was $36, how many text messages did they send?\n\nA) 100\nB) 150\nC) 200\nD) 250\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v6",
+      "statement": "**Stem:** Solve for x: 3x + 5 = 20",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Subtract 5 from both sides: 3x = 15. Then divide by 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-6",
-      "statement": "What is the slope of the line passing through points (2, 5) and (6, 13)?\n\nA) 1\nB) 2\nC) 3\nD) 4\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v7",
+      "statement": "**Stem:** Simplify: 8(11x + 43)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 88x + 344",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 88x + 43",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 88x - 344",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 19x + 43\r\n  \r\n\r\n**Explanation:** Apply distributive property: 8(11x + 43) = 8×11x + 8×43 = 88x + 344.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-7",
-      "statement": "A plumber in Chicago charges a $75 service call plus $45 per hour. If a job costs $210, how many hours did the plumber work?\n\nA) 2 hours\nB) 3 hours\nC) 4 hours\nD) 5 hours\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v8",
+      "statement": "**Stem:** Find the slope between points (3, 2) and (9, 8)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-8",
-      "statement": "Solve: −2x + 8 = 3x − 12\n\nA) x = 4\nB) x = −4\nC) x = 2\nD) x = −2\n**[ ]** → **A**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v9",
+      "statement": "**Stem:** Solve for x: 3x + 5 = 20",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** Subtract 5 from both sides: 3x = 15. Then divide by 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-9",
-      "statement": "A school's student council in Florida has $800 to spend on yearbook ads. Full-page ads cost $120 and half-page ads cost $75. If they buy 3 full-page ads, what is the maximum number of half-page ads they can also buy?\n\nA) 4\nB) 5\nC) 6\nD) 7\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v10",
+      "statement": "**Stem:** Simplify: 4(3x + 43)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12x + 172",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12x + 43",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x - 172",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 7x + 43\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(3x + 43) = 4×3x + 4×43 = 12x + 172.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-10",
-      "statement": "Which inequality represents \"three times a number is at least 12\"?\n\nA) 3x ≤ 12\nB) 3x ≥ 12\nC) 3x < 12\nD) 3x > 12\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v11",
+      "statement": "**Stem:** Find the slope between points (2, 4) and (9, 8)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-11",
-      "statement": "A line has equation 2x + 3y = 12. What is the y-intercept?\n\nA) 2\nB) 3\nC) 4\nD) 6\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v12",
+      "statement": "**Stem:** Solve for x: 5x + 7 = 32",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 7 from both sides: 5x = 25. Then divide by 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-12",
-      "statement": "A fitness gym in Seattle charges $45 per month. A new member pays $120 for the first three months including a $15 registration fee. How much does the monthly membership cost after the promotional period?\n\nA) $35\nB) $40\nC) $45\nD) $50\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v13",
+      "statement": "**Stem:** Simplify: 6(10x + 36)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 60x + 216",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 60x + 36",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 60x - 216",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 16x + 36\r\n  \r\n\r\n**Explanation:** Apply distributive property: 6(10x + 36) = 6×10x + 6×36 = 60x + 216.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-13",
-      "statement": "If f(x) = 4x − 7, what value of x makes f(x) = 21?\n\nA) 3.5\nB) 5.5\nC) 7\nD) 14\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v14",
+      "statement": "**Stem:** Find the slope between points (5, 1) and (9, 8)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-14",
-      "statement": "A rectangle's length is 3 more than twice its width. If the perimeter is 54 cm, what is the width?\n\nA) 6 cm\nB) 8 cm\nC) 12 cm\nD) 15 cm\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v15",
+      "statement": "**Stem:** Solve for x: 3x + 1 = 16",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 1 from both sides: 3x = 15. Then divide by 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-15",
-      "statement": "The cost of producing x custom t-shirts in Austin is given by C(x) = 250 + 8x. If each shirt sells for $22, how many shirts must be sold to break even?\n\nA) 15\nB) 18\nC) 20\nD) 25\n**[ ]** → **D**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v16",
+      "statement": "**Stem:** Simplify: 2(10x + 31)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 62",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 31",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 20x - 62",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x + 31\r\n  \r\n\r\n**Explanation:** Apply distributive property: 2(10x + 31) = 2×10x + 2×31 = 20x + 62.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-16",
-      "statement": "Solve the inequality: −4x + 6 ≤ 2x − 18\n\nA) x ≥ 4\nB) x ≤ 4\nC) x ≥ −4\nD) x ≤ −4\n**[ ]** → **A**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v17",
+      "statement": "**Stem:** Find the slope between points (1, 4) and (10, 12)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-17",
-      "statement": "A shipping company in Miami charges $8 per pound plus a flat fee of $12. For an order weighing 25 pounds, what is the total cost?\n\nA) $200\nB) $212\nC) $224\nD) $236\n**[ ]** → **B**\n\n---",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v18",
+      "statement": "**Stem:** Solve for x: 7x + 2 = 37",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** Subtract 2 from both sides: 7x = 35. Then divide by 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-18",
-      "statement": "Two trains leave stations 400 miles apart and travel toward each other. One travels at 60 mph and the other at 80 mph. In how many hours will they meet?\n\nA) 2 hours\nB) 2.5 hours\nC) 2.86 hours\nD) 3 hours\n**[ ]** → **C**\n\n---",
-      "context": "",
-      "options": [],
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v19",
+      "statement": "**Stem:** Simplify: 4(10x + 38)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 152",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 38",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 40x - 152",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 14x + 38\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(10x + 38) = 4×10x + 4×38 = 40x + 152.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
       "correct_answer": "A",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     },
     {
-      "id": "q-19",
-      "statement": "A catering company in Boston charges $15 per person for a lunch event plus a $200 setup fee. If the total cost for an event was $1,000, how many attendees were there?\n\nA) 40\nB) 50\nC) 53\nD) 60\n**[ ]** → **C**",
-      "context": "",
-      "options": [],
-      "correct_answer": "A",
+      "id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY-v20",
+      "statement": "**Stem:** Find the slope between points (5, 2) and (7, 7)",
+      "context": "A US student is practicing linear equations inequalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "US-SAT-11-P1-algebra-lineal",
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W01-linear-equations-inequalities-001-MASTERY",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
     }
   ]
 }

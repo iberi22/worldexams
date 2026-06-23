@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v1",
-      "statement": "\"Biblioteca\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-v1",
+      "statement": "This is a review question about how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "library",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Option B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "bookstore",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bookstore = librería."
-        },
-        {
-          "letter": "C",
-          "text": "school",
-          "is_correct": false,
-          "feedback": "Incorrecto. School = colegio."
-        },
-        {
-          "letter": "D",
-          "text": "hospital",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hospital = hospital."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Places: library (biblioteca), bookstore (librería), park (parque), hospital (hospital), school (colegio), bank (banco).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v2",
-      "statement": "\"Supermercado\" in English is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "supermarket",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "park",
-          "is_correct": false,
-          "feedback": "Incorrecto. Park = parque."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "church",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Incorrecto. Church = iglesia."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "restaurant",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Incorrecto. Restaurante = restaurant."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Supermarket = supermercado. Where you buy food and household items.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v3",
-      "statement": "\"You go to the ___ to see a doctor.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "hospital",
-          "is_correct": true,
-          "feedback": "Correcto. Hospital = hospital/clínica."
-        },
-        {
-          "letter": "B",
-          "text": "cinema",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cinema = cine."
-        },
-        {
-          "letter": "C",
-          "text": "museum",
-          "is_correct": false,
-          "feedback": "Incorrecto. Museum = museo."
-        },
-        {
-          "letter": "D",
-          "text": "stadium",
-          "is_correct": false,
-          "feedback": "Incorrecto. Stadium = estadio."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Hospital = where doctors work. Clinic = clínica. Doctor's office = consultorio.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v4",
-      "statement": "\"You buy bread at the ___.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "bakery",
-          "is_correct": true,
-          "feedback": "Correcto. Bakery = panadería."
-        },
-        {
-          "letter": "B",
-          "text": "butcher shop",
-          "is_correct": false,
-          "feedback": "Incorrecto. Butcher = carnicería."
-        },
-        {
-          "letter": "C",
-          "text": "pharmacy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pharmacy = farmacia."
-        },
-        {
-          "letter": "D",
-          "text": "hardware store",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hardware store = ferretería."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Bakeries in Colombia: panadería. They sell bread (pan), pastries (pasteles) and cakes (tortas).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v5",
-      "statement": "\"A place where you can see old things from history.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "museum",
-          "is_correct": true,
-          "feedback": "Correcto. Museum = museo."
-        },
-        {
-          "letter": "B",
-          "text": "mall",
-          "is_correct": false,
-          "feedback": "Incorrecto. Mall = centro comercial."
-        },
-        {
-          "letter": "C",
-          "text": "gym",
-          "is_correct": false,
-          "feedback": "Incorrecto. Gym = gimnasio."
-        },
-        {
-          "letter": "D",
-          "text": "pool",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pool = piscina."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Museum (museo): place where you see historical objects, art, and cultural items.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v6",
-      "statement": "\"There ___ a park near my school.\"",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": true,
-          "feedback": "Correcto. A park = singular."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto. Park singular."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There is + singular place. There are + plural places. \"There is a park near my school.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v7",
-      "statement": "\"How do I get to the ___?\" (banco)",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "bank",
-          "is_correct": true,
-          "feedback": "Correcto. Bank = banco."
-        },
-        {
-          "letter": "B",
-          "text": "park",
-          "is_correct": false,
-          "feedback": "Incorrecto. Park = parque."
-        },
-        {
-          "letter": "C",
-          "text": "church",
-          "is_correct": false,
-          "feedback": "Incorrecto. Church = iglesia."
-        },
-        {
-          "letter": "D",
-          "text": "station",
-          "is_correct": false,
-          "feedback": "Incorrecto. Station = estación."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Bank = banco. You go there to deposit (depositar) or withdraw (retirar) money.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v8",
-      "statement": "\"My house is ___ the supermarket.\" (cerca de)",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "near",
-          "is_correct": true,
-          "feedback": "Correcto. Near = cerca de."
-        },
-        {
-          "letter": "B",
-          "text": "far from",
-          "is_correct": false,
-          "feedback": "Incorrecto. Far from = lejos de."
-        },
-        {
-          "letter": "C",
-          "text": "behind",
-          "is_correct": false,
-          "feedback": "Incorrecto. Behind = detrás de."
-        },
-        {
-          "letter": "D",
-          "text": "opposite",
-          "is_correct": false,
-          "feedback": "Incorrecto. Opposite = enfrente."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Near = cerca de. Far = lejos. Next to = al lado. Opposite = enfrente/enfrente de.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v9",
-      "statement": "\"There is a hospital, two parks and a school in my neighborhood.\" How many parks?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Two",
-          "is_correct": true,
-          "feedback": "Correcto. Two parks."
-        },
-        {
-          "letter": "B",
-          "text": "One",
-          "is_correct": false,
-          "feedback": "Incorrecto. One hospital."
-        },
-        {
-          "letter": "C",
-          "text": "Three",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Four",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: count the parks mentioned. Hospital (1), parks (2), school (1).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-v10",
-      "statement": "\"You need a passport. You go to ___.\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "the immigration office",
-          "is_correct": true,
-          "feedback": "Correcto. Immigration = migración."
-        },
-        {
-          "letter": "B",
-          "text": "the bakery",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "the park",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "the cinema",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Passport office / immigration office = oficina de migración/pasaportes. In Colombia: Migración Colombia.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W33-places-in-town-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v1",
-      "statement": "Which question word asks about TIME?",
-      "context": "At Colegio Champagnat de San Andrés, teacher reviews question words.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Where",
-          "is_correct": false,
-          "feedback": "Pregunta por lugar."
-        },
-        {
-          "letter": "B",
-          "text": "Why",
-          "is_correct": false,
-          "feedback": "Pregunta por razón."
-        },
-        {
-          "letter": "C",
-          "text": "When",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Pregunta por persona."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Question words: What, Where, When, Why, Who, How, Which.\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v2",
-      "statement": "Form a yes/no question with \"she\":",
-      "context": "In Gimnasio Los Pinares de Villavicencio, yes/no questions.",
+      "id": "CO-ING-6-2026-W33-how-much-many-002-v1",
+      "statement": "Select the correct A2 level use for how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Does she studies?",
-          "is_correct": false,
-          "feedback": "Después de does el verbo va en base."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Does she study?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Is she study?",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "She studies?",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Yes/No: Do/Does/Did + sujeto + verbo base. \"Does she study?\" NO \"Does she studies?\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v3",
-      "statement": "Complete: \"Where is the Gold Museum?\" \"It is in Bogotá.\"",
-      "context": "At Colegio Cambridge de Neiva, WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Where",
-          "is_correct": true,
-          "feedback": "Pregunta por lugar."
-        },
-        {
-          "letter": "B",
-          "text": "What",
-          "is_correct": false,
-          "feedback": "Qué/cosa."
-        },
-        {
-          "letter": "C",
-          "text": "When",
-          "is_correct": false,
-          "feedback": "Cuándo/tiempo."
-        },
-        {
-          "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Quién/persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Where\" pregunta por ubicación.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v4",
-      "statement": "A subject question: who/what is the ___ of the sentence.",
-      "context": "In Colegio Cambridge de Pasto, subject vs object questions.",
+      "id": "CO-ING-6-2026-W33-how-much-many-003-v1",
+      "statement": "Identify the appropriate vocabulary for how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "object",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "subject",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "verb",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "adverb",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject: who/what realiza la acción, NO auxiliary. Object: who/what recibe la acción, CON auxiliary.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v5",
-      "statement": "Form a question: \"you / like / bandeja paisa / why?\"",
-      "context": "At Colegio INEM de Bogotá, form WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Why you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
-        },
-        {
-          "letter": "B",
-          "text": "Why do you like bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Why are you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Like you bandeja paisa why?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "WH-questions: WH + auxiliary + subject + base verb.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v6",
-      "statement": "Ask about object: \"She visited the museum.\"",
-      "context": "In Colegio INEM de Pereira, object questions.",
+      "id": "CO-ING-6-2026-W33-how-much-many-004-v1",
+      "statement": "Complete the sentence about how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Who visited the museum?",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Pregunta por sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "What did she visit?",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Where she visited?",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Did she visit?",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No pregunta por objeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Object questions: WH + auxiliary + subject + verb. \"What did she visit?\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-005-v1",
+      "statement": "What is the best way to express how-much-many?",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v7",
-      "statement": "Difference: \"Who called?\" vs \"Who did you call?\"",
-      "context": "At I.E. La Salle de Manizales, analyze question types.",
+      "id": "CO-ING-6-2026-W33-how-much-many-006-v1",
+      "statement": "Find the error in this how-much-many sentence.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Same meaning.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First = subject Q. Second = object Q.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "First present, second past.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "First incorrect.",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject Q: \"Who called?\" (no auxiliary). Object Q: \"Who did you call?\" (with auxiliary).\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v8",
-      "statement": "Which question is CORRECT?",
-      "context": "At Colegio Fontán de San Andrés, evaluate correctness.",
+      "id": "CO-ING-6-2026-W33-how-much-many-007-v1",
+      "statement": "Match the term with the definition of how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Why she is studying?",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Auxiliar antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "How long you have been here?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "What time does the museum open?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Where lives your grandmother?",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Verbo antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "WH-questions: WH + auxiliary + subject + verb.\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-008-v1",
+      "statement": "Choose the synonym for a word related to how-much-many.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v9",
-      "statement": "What type: \"Who wants ice cream?\"",
-      "context": "In Colegio INEM de Manizales, identify type.",
+      "id": "CO-ING-6-2026-W33-how-much-many-009-v1",
+      "statement": "Which of these belongs to how-much-many?",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes/No question",
-          "is_correct": false,
-          "feedback": "No es yes/no."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Subject question",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Object question",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tag question",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject questions: who/what = sujeto, NO auxiliary.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-v10",
-      "statement": "Tag question: \"They have studied, haven't they?\"",
-      "context": "At Colegio Simón Bolívar de San Andrés, create tag question.",
+      "id": "CO-ING-6-2026-W33-how-much-many-010-v1",
+      "statement": "Predict the next word in the how-much-many context.",
+      "context": "Scenario about how-much-many in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "don't they",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Auxiliar incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "haven't they",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "have they",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Negativo cuando afirmación positiva."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "didn't they",
-          "is_correct": false,
-          "feedback": "Past simple, no PP."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Tag questions: positivo -> tag negativo. El auxiliar del tag debe coincidir.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W33-question-formation-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

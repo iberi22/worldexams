@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-16-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.183Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v1",
+      "statement": "What animal says **\"Woof woof\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cat",
+          "is_correct": false,
+          "feedback": "Incorrect. Cats say \"Meow\"."
+        },
+        {
+          "letter": "B",
+          "text": "Dog",
+          "is_correct": true,
+          "feedback": "Correct! Dogs bark."
+        },
+        {
+          "letter": "C",
+          "text": "Cow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El perro se dice \"dog\". Los perros ladran (bark) y el sonido en inglés se escribe \"woof\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v2",
+      "statement": "What animal says **\"Meow\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cat",
+          "is_correct": true,
+          "feedback": "Correct! Cats say \"meow\"."
+        },
+        {
+          "letter": "B",
+          "text": "Dog",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Rabbit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Bird",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gato se dice \"cat\". Es una mascota muy común.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v3",
+      "statement": "What animal gives us **milk**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cow",
+          "is_correct": true,
+          "feedback": "Correct! Cows give milk."
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Duck",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La vaca se dice \"cow\". Es un animal de la granja (farm animal).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v4",
+      "statement": "What animal gives us **eggs**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Horse",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": true,
+          "feedback": "Correct! Chickens lay eggs."
+        },
+        {
+          "letter": "D",
+          "text": "Rabbit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La gallina o el pollo se dice \"chicken\". De ellas obtenemos los huevos (eggs).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v5",
+      "statement": "What animal is pink and says **\"Oink oink\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pig",
+          "is_correct": true,
+          "feedback": "Correct! Pigs are pink."
+        },
+        {
+          "letter": "C",
+          "text": "Sheep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Horse",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cerdo se dice \"pig\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v6",
+      "statement": "What animal has long ears and likes **carrots**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Rabbit",
+          "is_correct": true,
+          "feedback": "Correct! Rabbits like carrots."
+        },
+        {
+          "letter": "C",
+          "text": "Bird",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conejo se dice \"rabbit\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v7",
+      "statement": "Which animal can **fly**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dog",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Bird",
+          "is_correct": true,
+          "feedback": "Correct! Birds can fly."
+        },
+        {
+          "letter": "D",
+          "text": "Horse",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pájaro se dice \"bird\". Los pájaros tienen alas (wings) y pueden volar (fly).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v8",
+      "statement": "What animal is big and you can **ride**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cat",
+          "is_correct": false,
+          "feedback": "Incorrect. Too small."
+        },
+        {
+          "letter": "B",
+          "text": "Horse",
+          "is_correct": true,
+          "feedback": "Correct! You can ride a horse."
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Rabbit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El caballo se dice \"horse\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v9",
+      "statement": "What is **\"Pato\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Duck",
+          "is_correct": true,
+          "feedback": "Correct! Duck is pato."
+        },
+        {
+          "letter": "C",
+          "text": "Bird",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sheep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pato se dice \"duck\". Hace un sonido como \"quack\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v10",
+      "statement": "What animal has **wool** (lana)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Sheep",
+          "is_correct": true,
+          "feedback": "Correct! Sheep have wool."
+        },
+        {
+          "letter": "D",
+          "text": "Dog",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oveja se dice \"sheep\". De ellas sacamos la lana.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

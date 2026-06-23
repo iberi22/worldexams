@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-9-subject-sociales",
+    "generated_at": "2026-06-22T05:46:17.174Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v1",
+      "statement": "¿Qué es la globalización?",
+      "context": "En clase de sociales en Bogotá, se explica el concepto de globalización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un proceso exclusivamente económico que comenzó en el siglo XXI",
+          "is_correct": false,
+          "feedback": "Incorrect. La globalización es multidimensional y comenzó antes."
+        },
+        {
+          "letter": "B",
+          "text": "El proceso de interconexión creciente entre países en lo económico, político, cultural y tecnológico",
+          "is_correct": true,
+          "feedback": "Correct. La globalización abarca múltiples dimensiones y ha acelerado la integración mundial."
+        },
+        {
+          "letter": "C",
+          "text": "La creación de un gobierno mundial único",
+          "is_correct": false,
+          "feedback": "Incorrect. No existe un gobierno mundial unificado."
+        },
+        {
+          "letter": "D",
+          "text": "El aislamiento de los países para protegerse",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso sería proteccionismo o autarquía, lo opuesto a globalización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La globalización es un proceso histórico de creciente integración mundial en diferentes ámbitos. Sus orígenes se remontan a los viajes de exploración del siglo XV, pero se aceleró con la Revolución Industrial y las tecnologías de comunicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cuál es la función principal del Fondo Monetario Internacional (FMI)?",
+      "context": "Un estudiante en Medellín pregunta sobre los organismos económicos internacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financiar proyectos de infraestructura en países en desarrollo",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la función del Banco Mundial."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener la estabilidad del sistema financiero internacional y otorgar préstamos a países con problemas de balanza de pagos",
+          "is_correct": true,
+          "feedback": "Correct. El FMI otorga créditos condicionados para estabilizar economías."
+        },
+        {
+          "letter": "C",
+          "text": "Regular el comercio internacional entre países",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la función de la OMC (Organización Mundial del Comercio)."
+        },
+        {
+          "letter": "D",
+          "text": "Promover los derechos humanos en el mundo",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la función de la ONU y sus agencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El FMI, creado en 1944 en Bretton Woods, otorga préstamos a países con dificultades financieras, generalmente condicionados a reformas económicas. Colombia ha recibido varios préstamos del FMI.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cómo se relaciona la expansión del café en Colombia (siglos XIX-XX) con la globalización?",
+      "context": "Se analiza cómo llegó el café a Colombia y su impacto económico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El café es un producto que solo se consume en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia exporta café a todo el mundo."
+        },
+        {
+          "letter": "B",
+          "text": "El café conectó a Colombia con los mercados internacionales, integrando la economía colombiana al comercio global",
+          "is_correct": true,
+          "feedback": "Correct. El café fue el principal producto de exportación colombiano y vinculó al país con los mercados de Europa y Estados Unidos."
+        },
+        {
+          "letter": "C",
+          "text": "La caficultura colombiana siempre fue independiente de los mercados externos",
+          "is_correct": false,
+          "feedback": "Incorrect. La economía cafetera dependió siempre de la demanda internacional."
+        },
+        {
+          "letter": "D",
+          "text": "El café se cultiva solo para consumo nacional",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia es uno de los mayores exportadores de café del mundo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El café fue el motor de la integración de Colombia al mercado mundial desde finales del siglo XIX. La Federación Nacional de Cafeteros (1927) y el café colombiano se convirtieron en símbolos nacionales vinculados al comercio global.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuál es una desventaja de la globalización para países como Colombia?",
+      "context": "Se debate en clase sobre las ventajas y desventajas de la globalización para Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor acceso a tecnología y conocimiento",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es una ventaja."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de las exportaciones colombianas",
+          "is_correct": false,
+          "feedback": "Incorrect. También es una ventaja."
+        },
+        {
+          "letter": "C",
+          "text": "Mayor vulnerabilidad a crisis económicas internacionales y dependencia de mercados externos",
+          "is_correct": true,
+          "feedback": "Correct. La integración global hace que las crisis financieras se propaguen y que la economía local dependa de la demanda externa."
+        },
+        {
+          "letter": "D",
+          "text": "Mayor diversidad cultural",
+          "is_correct": false,
+          "feedback": "Incorrect. La diversidad cultural puede ser un efecto positivo, aunque también hay homogeneización cultural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La globalización tiene ventajas (acceso a mercados, tecnología, inversión) y desventajas: pérdida de soberanía económica, fuga de capitales, homogenización cultural y vulnerabilidad a crisis globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v5",
+      "statement": "¿Qué sector económico colombiano podría beneficiarse más de este TLC?",
+      "context": "Colombia negocia un Tratado de Libre Comercio (TLC) con un país asiático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sector textil chino",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia exporta textiles pero compite con China, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "La industria automotriz colombiana",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia no es un gran exportador de autos."
+        },
+        {
+          "letter": "C",
+          "text": "El sector agropecuario (café, flores, frutas) y minero-energético",
+          "is_correct": true,
+          "feedback": "Correct. Colombia tiene ventajas comparativas en agricultura tropical y minería."
+        },
+        {
+          "letter": "D",
+          "text": "La industria de alta tecnología colombiana",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia no tiene un sector de alta tecnología muy desarrollado para exportación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los TLC buscan aprovechar las ventajas comparativas de cada país. Colombia exporta principalmente productos agrícolas (café, banano, flores) y minero-energéticos (petróleo, carbón, oro).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué indica el PIB per cápita sobre el desarrollo de un país?",
+      "context": "Un estudiante analiza el PIB per cápita de Colombia comparado con el de Noruega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor de los bienes y servicios producidos por persona, como indicador aproximado del nivel de vida",
+          "is_correct": true,
+          "feedback": "Correct. El PIB per cápita es el PIB total dividido por la población, usado como proxy del bienestar material."
+        },
+        {
+          "letter": "B",
+          "text": "La felicidad promedio de los habitantes del país",
+          "is_correct": false,
+          "feedback": "Incorrect. El PIB no mide felicidad ni bienestar subjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de dinero que tiene cada persona en el banco",
+          "is_correct": false,
+          "feedback": "Incorrect. No mide riqueza personal ni ahorros."
+        },
+        {
+          "letter": "D",
+          "text": "La calidad de la educación y la salud del país",
+          "is_correct": false,
+          "feedback": "Incorrect. El PIB no mide directamente esos indicadores sociales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El PIB per cápita es un indicador económico que, aunque útil, no refleja la desigualdad en la distribución del ingreso. Colombia tiene un PIB per cápita medio (unos 6.000 USD) pero con alta desigualdad (coeficiente de Gini elevado).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v7",
+      "statement": "¿Qué factor fue clave en el desarrollo de los \"Tigres Asiáticos\" (Corea, Taiwán, Singapur, Hong Kong)?",
+      "context": "En clase se estudia el \"milagro económico\" de países como Corea del Sur y Singapur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exportación exclusiva de materias primas",
+          "is_correct": false,
+          "feedback": "Incorrect. Los Tigres Asiáticos se industrializaron, no dependieron de materias primas."
+        },
+        {
+          "letter": "B",
+          "text": "La industrialización orientada a la exportación con fuerte inversión en educación y tecnología",
+          "is_correct": true,
+          "feedback": "Correct. Estos países pasaron de producir textiles a productos de alta tecnología gracias a la inversión en educación."
+        },
+        {
+          "letter": "C",
+          "text": "El aislamiento comercial y la autarquía",
+          "is_correct": false,
+          "feedback": "Incorrect. Al contrario, se integraron agresivamente al comercio global."
+        },
+        {
+          "letter": "D",
+          "text": "La ayuda masiva de la Unión Soviética",
+          "is_correct": false,
+          "feedback": "Incorrect. Estos países eran capitalistas y aliados de Estados Unidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Tigres Asiáticos son ejemplo de desarrollo exitoso basado en industrialización exportadora, inversión en educación, ahorro interno alto y políticas industriales activas. Contrastan con economías latinoamericanas basadas en materias primas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v8",
+      "statement": "¿Cómo afectó la crisis financiera de 2008 a la economía colombiana?",
+      "context": "Se analiza la crisis financiera global de 2008 y su efecto en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia no se vio afectada por la crisis",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque menos afectada que otros, sí hubo impacto."
+        },
+        {
+          "letter": "B",
+          "text": "Se redujeron las exportaciones colombianas y el flujo de inversión extranjera, pero el sistema financiero colombiano resistió mejor que otros países",
+          "is_correct": true,
+          "feedback": "Correct. Colombia tenía regulación financiera sólida, pero la caída de la demanda global afectó las exportaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia entró en una depresión económica profunda",
+          "is_correct": false,
+          "feedback": "Incorrect. La economía colombiana se desaceleró pero no entró en depresión."
+        },
+        {
+          "letter": "D",
+          "text": "La crisis fortaleció la economía colombiana porque aumentó el precio del café",
+          "is_correct": false,
+          "feedback": "Incorrect. El precio del café no subió significativamente durante la crisis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crisis de 2008 afectó a Colombia principalmente por la caída de la demanda global de exportaciones y la reducción de inversión extranjera. Sin embargo, el sistema financiero colombiano, bien regulado por la Superintendencia Financiera, resistió.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v9",
+      "statement": "Si un país tiene un índice de Gini de 0.55, ¿qué indica este valor?",
+      "context": "Se estudia el índice de Gini como medida de desigualdad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la riqueza está distribuida de manera perfectamente equitativa",
+          "is_correct": false,
+          "feedback": "Incorrect. 0 sería equidad perfecta."
+        },
+        {
+          "letter": "B",
+          "text": "Que no hay desigualdad en el país",
+          "is_correct": false,
+          "feedback": "Incorrect. 0.55 indica desigualdad alta."
+        },
+        {
+          "letter": "C",
+          "text": "Que existe una alta desigualdad en la distribución del ingreso (0 = equidad perfecta, 1 = desigualdad máxima)",
+          "is_correct": true,
+          "feedback": "Correct. Colombia tiene un Gini cercano a 0.55, indicando alta desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el país es muy pobre",
+          "is_correct": false,
+          "feedback": "Incorrect. Mide desigualdad, no pobreza absoluta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El índice de Gini mide la desigualdad en la distribución del ingreso. Colombia tiene uno de los Gini más altos de América Latina (alrededor de 0.54-0.56), lo que refleja una profunda desigualdad estructural.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v10",
+      "statement": "¿Qué aspecto de la globalización representa mejor esta situación?",
+      "context": "Una empresa colombiana de tecnología quiere expandirse a mercados internacionales usando Internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Globalización política",
+          "is_correct": false,
+          "feedback": "Incorrect. No implica acuerdos políticos internacionales."
+        },
+        {
+          "letter": "B",
+          "text": "Globalización cultural",
+          "is_correct": false,
+          "feedback": "Parcialmente, pero el énfasis es tecnológico y económico."
+        },
+        {
+          "letter": "C",
+          "text": "Globalización tecnológica y económica",
+          "is_correct": true,
+          "feedback": "Correct. El uso de Internet para comerciar globalmente integra la dimensión tecnológica con la económica."
+        },
+        {
+          "letter": "D",
+          "text": "Globalización migratoria",
+          "is_correct": false,
+          "feedback": "Incorrect. No implica movimiento de personas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La globalización tiene múltiples dimensiones. La tecnológica (Internet, comunicaciones) permite la globalización económica al facilitar el comercio, las finanzas y los servicios a distancia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v11",
+      "statement": "¿Por qué es riesgosa para Colombia la dependencia de pocos productos de exportación?",
+      "context": "Se debate si Colombia debería diversificar su economía, que actualmente depende de exportaciones de petróleo, carbón y café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque esos productos siempre tienen precios estables",
+          "is_correct": false,
+          "feedback": "Incorrect. Los precios de materias primas son muy volátiles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los precios de las materias primas son volátiles y el país queda vulnerable a crisis cuando los precios bajan",
+          "is_correct": true,
+          "feedback": "Correct. La \"enfermedad holandesa\" describe cómo la dependencia de materias primas puede distorsionar la economía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque esos productos no generan empleo",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí generan empleo, pero el problema es la volatilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno no puede cobrar impuestos sobre esos productos",
+          "is_correct": false,
+          "feedback": "Incorrect. El gobierno sí cobra impuestos, especialmente al petróleo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dependencia de materias primas (commodities) es un riesgo económico porque sus precios fluctúan enormemente. Colombia ha intentado diversificar hacia servicios, agroindustria y manufactura para reducir esta vulnerabilidad.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v12",
+      "statement": "¿Qué organismo multilateral reemplazó al GATT y regula el comercio internacional actual?",
+      "context": "Se estudia el Banco Mundial y sus críticas: que sus proyectos han tenido impactos ambientales negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El FMI",
+          "is_correct": false,
+          "feedback": "Incorrect. El FMI regula finanzas, no comercio."
+        },
+        {
+          "letter": "B",
+          "text": "El Banco Mundial",
+          "is_correct": false,
+          "feedback": "Incorrect. El Banco Mundial financia proyectos de desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "La Organización Mundial del Comercio (OMC)",
+          "is_correct": true,
+          "feedback": "Correct. La OMC, creada en 1995, regula el comercio global, reemplazando al GATT de 1947."
+        },
+        {
+          "letter": "D",
+          "text": "La ONU",
+          "is_correct": false,
+          "feedback": "Incorrect. La ONU tiene muchas funciones pero la OMC es la específica para comercio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La OMC (OMC en inglés WTO) es la organización que establece las reglas del comercio global, resuelve disputas comerciales y promueve la liberalización del comercio. Colombia es miembro desde 1995.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v13",
+      "statement": "¿Qué obstáculo histórico ha enfrentado Colombia para industrializarse como los Tigres Asiáticos?",
+      "context": "Un analista propone que Colombia debería enfocarse en la industrialización y exportación de productos con valor agregado, como los Tigres Asiáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia no tiene recursos naturales",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia tiene abundantes recursos naturales."
+        },
+        {
+          "letter": "B",
+          "text": "El conflicto armado interno ha desincentivado la inversión en zonas rurales y ha afectado la infraestructura",
+          "is_correct": false,
+          "feedback": "Correct. El conflicto armado, la inseguridad jurídica y la falta de infraestructura han sido barreras."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia no tiene acceso al mar",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia tiene acceso a dos océanos."
+        },
+        {
+          "letter": "D",
+          "text": "La población colombiana no tiene educación",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque hay desafíos, Colombia tiene tasas de alfabetización altas comparadas con otros países en desarrollo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo industrial de Colombia ha enfrentado obstáculos: conflicto armado prolongado, infraestructura insuficiente, baja inversión en I+D, y un sistema educativo con brechas de calidad entre zonas urbanas y rurales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v14",
+      "statement": "¿Qué importancia tienen los BRICS para países como Colombia?",
+      "context": "Se analiza el surgimiento de los BRICS (Brasil, Rusia, India, China, Sudáfrica) como bloque económico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia es miembro de los BRICS",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia no es miembro de los BRICS."
+        },
+        {
+          "letter": "B",
+          "text": "Los BRICS representan mercados alternativos para las exportaciones colombianas y un contrapeso al poder económico de Estados Unidos y Europa",
+          "is_correct": true,
+          "feedback": "Correct. China y la India son grandes compradores de materias primas colombianas."
+        },
+        {
+          "letter": "C",
+          "text": "Los BRICS no tienen relación con la economía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrect. China es uno de los principales socios comerciales de Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Los BRICS impiden que Colombia comercie con Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia comercia libremente con ambos bloques."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los BRICS agrupan a las economías emergentes más grandes. China se ha convertido en el segundo socio comercial de Colombia después de Estados Unidos, comprando petróleo, carbón y productos agrícolas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-v15",
+      "statement": "¿Cuál es un argumento válido a favor y otro en contra de esta afirmación?",
+      "context": "Un economista afirma que la globalización, tal como se ha implementado desde 1980, ha aumentado la desigualdad global.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A favor: la globalización ha reducido la pobreza extrema en China y la India. En contra: la desigualdad dentro de países ha aumentado",
+          "is_correct": false,
+          "feedback": "Incorrect. Los argumentos están invertidos."
+        },
+        {
+          "letter": "B",
+          "text": "A favor: la desigualdad entre países ha disminuido (China y la India crecieron). En contra: la desigualdad dentro de los países ha aumentado y la clase media de países desarrollados ha perdido poder adquisitivo",
+          "is_correct": true,
+          "feedback": "Correct. La globalización ha reducido la pobreza global pero aumentado la desigualdad interna en muchos países."
+        },
+        {
+          "letter": "C",
+          "text": "La globalización solo ha beneficiado a países ricos",
+          "is_correct": false,
+          "feedback": "Incorrect. China y la India son ejemplos de países que se beneficiaron enormemente."
+        },
+        {
+          "letter": "D",
+          "text": "La globalización no tiene relación con la desigualdad",
+          "is_correct": false,
+          "feedback": "Incorrect. Hay amplia evidencia de su impacto en la distribución del ingreso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La globalización económica es un fenómeno complejo con efectos contradictorios. Ha sacado a millones de la pobreza en Asia, pero ha aumentado la desigualdad interna y la precarización laboral en muchos países.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

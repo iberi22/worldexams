@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v1",
+      "statement": "\"He hasn't answered his phone all day. He ____ very busy with the final project.\"",
+      "context": "Making assumptions based on evidence.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect for deduction."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "must be",
+          "is_correct": true,
+          "feedback": "Correct. 'Must' is used for strong logical deductions."
         },
         {
           "letter": "C",
+          "text": "should be",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
           "text": "will be",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v2",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "'Must' is used to express a strong belief or a logical deduction based on evidence.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v2",
+      "statement": "\"I'm not sure why she is late. She ____ the bus, or she ____ stuck in traffic.\"",
+      "context": "Considering different possibilities.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "must miss / is",
+          "is_correct": false,
+          "feedback": "Too certain."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "might have missed / could be",
+          "is_correct": true,
+          "feedback": "Correct. 'Might' and 'could' for possibility."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "should miss / will be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "can miss / must be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Might', 'may', and 'could' are used to express possibility or uncertainty.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v5",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v3",
+      "statement": "\"That ____ the principal. He is currently at a conference in another city.\"",
+      "context": "Expressing impossibility.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Mustn't' is for prohibition."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v6",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
+          "text": "can't be",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. 'Can't' is used for logical impossibility."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "shouldn't be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect meaning."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "won't be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Can't' is the negative of 'must' for deductions. It is used to express that something is logically impossible.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v4",
+      "statement": "\"The witness's story is inconsistent. He ____ the truth about what happened that night.\"",
+      "context": "An article about a mysterious event.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "can't tell",
+          "is_correct": false,
+          "feedback": "Possible, but 'may not be telling' is more nuanced for B2."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
+          "text": "may not be telling",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Expresses doubt about an ongoing state."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "mustn't tell",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect (prohibition)."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "shouldn't tell",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v10",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v11",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v12",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'may not be' + -ing to express doubt about a current or ongoing situation.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v13",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v5",
+      "statement": "\"Choosing to work for a company with such a poor environmental record ____ a difficult decision for her.\"",
+      "context": "Speculating about a choice.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "can be",
+          "is_correct": false,
+          "feedback": "Too general."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "must have been",
+          "is_correct": true,
+          "feedback": "Correct. Deduction about a past state/action."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "should be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "might be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct but B is more likely for an completed choice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'must have been' to make a strong deduction about a past feeling or situation.\r\n\r\n---",
       "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v6",
+      "statement": "\"This ethical theory ____ correct in every situation, but it provides a good general guideline.\"",
+      "context": "A critique of an ethical theory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "may not be",
+          "is_correct": true,
+          "feedback": "Correct. Expresses a lack of certainty/universality."
+        },
+        {
+          "letter": "C",
+          "text": "can't be",
+          "is_correct": false,
+          "feedback": "Too strong."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'may not' or 'might not' to express nuance and limitations in an academic or philosophical argument.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v7",
+      "statement": "\"She donated a lot of money anonymously. She ____ any public recognition for her charity work.\"",
+      "context": "Analyzing a person's motives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't want",
+          "is_correct": true,
+          "feedback": "Correct. Logical deduction based on her anonymity."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't have to want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't want",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'can't' to deduce a lack of desire or motivation based on observed behavior.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v8",
+      "statement": "\"If they are hiding their financial reports, there ____ something wrong with their accounting.\"",
+      "context": "A text about corporate ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can be",
+          "is_correct": false,
+          "feedback": "Too weak."
+        },
+        {
+          "letter": "B",
+          "text": "must be",
+          "is_correct": true,
+          "feedback": "Correct. Strong logical conclusion."
+        },
+        {
+          "letter": "C",
+          "text": "should be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might be",
+          "is_correct": false,
+          "feedback": "Possible, but B fits the 'hiding' context better."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relating 'must' to a condition (If they are hiding...) to strengthen a logical deduction.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v9",
+      "statement": "\"An AI ____ the difference between right and wrong, as it only follows its programming.\"",
+      "context": "Discussing the morality of AI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't really know",
+          "is_correct": true,
+          "feedback": "Correct. Deduction based on the nature of AI."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't have to know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might not know",
+          "is_correct": false,
+          "feedback": "Possible, but B is more definitive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'can't' to describe a fundamental or categorical impossibility.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v14",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-v15",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v10",
+      "statement": "\"Given the circumstances, he ____ have felt that he had no other option.\"",
+      "context": "A complex ethical debate.",
       "options": [
         {
           "letter": "A",
           "text": "must",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct. 'Must' + have + past participle for past deduction."
         },
         {
           "letter": "B",
           "text": "can",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect syntax for deduction."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "should",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect meaning."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Advanced B2 structure: Using 'must have' + past participle to reconstruct a person's past mindset or motivation.\r\n\r\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W19-conditional-writing-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v11",
+      "statement": "\"His actions ____ well-intentioned, but the outcome was undeniably harmful.\"",
+      "context": "Critique of a moral choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must be",
+          "is_correct": false,
+          "feedback": "Too certain."
+        },
+        {
+          "letter": "B",
+          "text": "might have been",
+          "is_correct": true,
+          "feedback": "Correct. Conceding a possibility while focusing on the result."
+        },
+        {
+          "letter": "C",
+          "text": "can't have been",
+          "is_correct": false,
+          "feedback": "Contradicts the 'but' logic."
+        },
+        {
+          "letter": "D",
+          "text": "should have been",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'might have been' to acknowledge a possibility in a complex ethical evaluation.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-v12",
+      "statement": "\"If a choice is predetermined by one's biology, then it ____ truly 'free' in the ethical sense.\"",
+      "context": "A philosophical paradox.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't be",
+          "is_correct": true,
+          "feedback": "Correct. Logical conclusion of the premise."
+        },
+        {
+          "letter": "C",
+          "text": "might not be",
+          "is_correct": false,
+          "feedback": "Possible, but B is the logical 'must not'."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Using 'can't' to complete a logical syllogism in a philosophical or ethical discussion.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W19-ethical-choices-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

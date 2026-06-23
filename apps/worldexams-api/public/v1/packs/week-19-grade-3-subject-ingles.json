@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-19-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.189Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v1",
+      "statement": "What is the first thing you do? **\"Despertarse\"**.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wake up",
+          "is_correct": true,
+          "feedback": "Correct! Wake up is despertarse."
+        },
+        {
+          "letter": "B",
+          "text": "Go to sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Eat dinner",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Play",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera acción del día al abrir los ojos es \"wake up\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v2",
+      "statement": "What do you do with a toothbrush?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash my face",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Brush my teeth",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Eat breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Combing my hair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cepillarse los dientes se dice \"brush my teeth\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v3",
+      "statement": "What is **\"Desayunar\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have lunch",
+          "is_correct": false,
+          "feedback": "Incorrect. Lunch is almuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Have dinner",
+          "is_correct": false,
+          "feedback": "Incorrect. Dinner is cena."
+        },
+        {
+          "letter": "C",
+          "text": "Have breakfast",
+          "is_correct": true,
+          "feedback": "Correct! Breakfast is the first meal."
+        },
+        {
+          "letter": "D",
+          "text": "Eat a snack",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desayuno se dice \"breakfast\". \"Have breakfast\" es desayunar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v4",
+      "statement": "What do you do to get clean in the morning?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Take a shower",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Play soccer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Read a book",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tomar una ducha o bañarse se dice \"take a shower\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v5",
+      "statement": "What do you do with your **clothes**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eat my clothes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Get dressed",
+          "is_correct": true,
+          "feedback": "Correct! Get dressed is vestirse."
+        },
+        {
+          "letter": "C",
+          "text": "Wash the car",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Vestirse se dice \"get dressed\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v6",
+      "statement": "Where do you go at 7:00 AM?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to the park",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Go to school",
+          "is_correct": true,
+          "feedback": "Correct! Morning is for school."
+        },
+        {
+          "letter": "C",
+          "text": "Go to sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Go to the beach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ir al colegio se dice \"go to school\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v7",
+      "statement": "What do you do with a **comb** (peine)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brush my teeth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Comb my hair",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Wash my hands",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Peinarse se dice \"comb my hair\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v8",
+      "statement": "What is **\"Lavarse las manos\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash my face",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Wash my hands",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Clean the table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Drink water",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lavarse las manos es \"wash my hands\". Es muy importante antes de comer.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v9",
+      "statement": "Complete: **\"I _______ my face in the morning.\"**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wash",
+          "is_correct": true,
+          "feedback": "Correct! Wash my face."
+        },
+        {
+          "letter": "C",
+          "text": "sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lavarse la cara es \"wash my face\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v10",
+      "statement": "Choose the correct order:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wake up, have breakfast, go to school",
+          "is_correct": true,
+          "feedback": "Correct order."
+        },
+        {
+          "letter": "B",
+          "text": "Go to school, wake up, have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        },
+        {
+          "letter": "C",
+          "text": "Have breakfast, go to school, wake up",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        },
+        {
+          "letter": "D",
+          "text": "Sleep, have breakfast, wake up",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las rutinas tienen un orden lógico: primero despertamos, luego desayunamos y finalmente vamos al colegio.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

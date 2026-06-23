@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W06-classroom-objects-001-MASTERY"
+id: "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "classroom-objects"
 periodo: "weekly"
-semana: 6
+week: "W06"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Vocabulary for common classroom objects like pencil, book, desk, etc."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Classroom Objects (W06)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W06: Classroom Objects (A1)
-
-Este bundle evalúa el vocabulario de objetos comunes en el salón de clases.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-What is this object: ✏️ ?
-
-### Options
-- [x] A) Pencil <!-- feedback: Correct! That is a pencil. -->
-- [ ] B) Pen <!-- feedback: Incorrect. A pen uses ink. -->
-- [ ] C) Eraser <!-- feedback: Incorrect. -->
-- [ ] D) Ruler <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El lápiz se dice "pencil" en inglés. Es una de las palabras más importantes en el colegio.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-You use it to read: 📖. What is it?
-
-### Options
-- [ ] A) Notebook <!-- feedback: Incorrect. A notebook is for writing. -->
-- [x] B) Book <!-- feedback: Correct! This is a book. -->
-- [ ] C) Desk <!-- feedback: Incorrect. -->
-- [ ] D) Chair <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Un libro se dice "book" en inglés.
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is **"Borrador"** in English?
-
-### Options
-- [ ] A) Pencil <!-- feedback: Incorrect. -->
-- [x] B) Eraser <!-- feedback: Correct! "Eraser" is borrador. -->
-- [ ] C) Sharpener <!-- feedback: Incorrect. That is sacapuntas. -->
-- [ ] D) Case <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Para borrar lo que escribimos con el lápiz usamos el "eraser".
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you sit in class?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Desk <!-- feedback: Incorrect. You sit AT the desk, but ON the chair. -->
-- [x] B) Chair <!-- feedback: Correct! You sit on a chair. -->
-- [ ] C) Board <!-- feedback: Incorrect. The board is for writing. -->
-- [ ] D) Floor <!-- feedback: Incorrect. Not usually in the classroom. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La silla se dice "chair" en inglés.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What is the teacher writing on?
-
-### Options
-- [ ] A) Window <!-- feedback: Incorrect. -->
-- [ ] B) Door <!-- feedback: Incorrect. -->
-- [x] C) Board <!-- feedback: Correct! The teacher writes on the board. -->
-- [ ] D) Table <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El tablero o la pizarra se llama "board" en inglés.
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v6`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Cuaderno"** in English?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [x] A) Notebook <!-- feedback: Correct! Notebook is cuaderno. -->
-- [ ] B) Book <!-- feedback: Incorrect. Book is libro. -->
-- [ ] C) Paper <!-- feedback: Incorrect. Paper is papel. -->
-- [ ] D) Pencil <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Un cuaderno, donde tomamos notas, se dice "notebook".
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-You use it to draw straight lines:
-
-### Options
-- [ ] A) Pen <!-- feedback: Incorrect. -->
-- [ ] B) Eraser <!-- feedback: Incorrect. -->
-- [x] C) Ruler <!-- feedback: Correct! A ruler is used for lines. -->
-- [ ] D) Backpack <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La regla se dice "ruler". Sirve para medir y hacer líneas rectas.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-What is **"Maleta"** or **"Morral"**?
-
-### Options
-- [ ] A) Case <!-- feedback: Incorrect. -->
-- [ ] B) Box <!-- feedback: Incorrect. -->
-- [x] C) Backpack <!-- feedback: Correct! Backpack is maleta. -->
-- [ ] D) Bag <!-- feedback: Incorrect. Bag is more general. -->
-
-### Explicación Pedagógica
-El morral o maleta escolar donde llevamos los útiles se dice "backpack".
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v9`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you put your pens and pencils?
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Book <!-- feedback: Incorrect. -->
-- [x] B) Pencil case <!-- feedback: Correct! This is for pencils. -->
-- [ ] C) Chair <!-- feedback: Incorrect. -->
-- [ ] D) Window <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La cartuchera se dice "pencil case".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v10`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Sacapuntas"**?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [x] A) Sharpener <!-- feedback: Correct! -->
-- [ ] B) Ruler <!-- feedback: Incorrect. -->
-- [ ] C) Eraser <!-- feedback: Incorrect. -->
-- [ ] D) Pencil <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El sacapuntas se dice "sharpener" (viene de 'sharp', que significa afilado).
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

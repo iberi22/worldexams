@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v1",
+      "statement": "I really enjoy ________ to vallenato music during the weekends.",
+      "context": "Verbs of preference.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "to listen",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Enjoy\" is followed by -ing."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "listening",
+          "is_correct": true,
+          "feedback": "Correct! After \"enjoy\", we must use the gerund (-ing)."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "listen",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "listened",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "En inglés, ciertos verbos como \"enjoy\", \"finish\" y \"mind\" siempre van seguidos de un gerundio (forma -ing).\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v2",
+      "statement": "My cousin wants ________ a professional chef in the future.",
+      "context": "Expressing plans or desires.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "becoming",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Want\" is followed by \"to\"."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "to become",
+          "is_correct": true,
+          "feedback": "Correct! After \"want\", we use the infinitive with \"to\"."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "become",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "becomes",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "Verbos que expresan planes, deseos o promesas, como \"want\", \"hope\", \"decide\" y \"promise\", suelen ir seguidos de un infinitivo con \"to\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v3",
+      "statement": "It is very important ________ your hands before eating.",
+      "context": "Adjectives followed by infinitives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "washing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to wash",
+          "is_correct": true,
+          "feedback": "Correct! After \"It is + adjective\", we use the infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "wash",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "washes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estructuras que comienzan con \"It is + adjetivo\" (como *it is easy*, *it is difficult*, *it is important*) requieren un infinitivo con \"to\" para completar la idea.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v3",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v4",
+      "statement": "________ is a great way to stay healthy and reduce stress.",
+      "context": "Gerund as a subject.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "Swimming",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct! When an activity is the subject of the sentence, we use the gerund."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "To swim",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. While possible, the gerund is much more common as a subject in B1."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "Swim",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "Swims",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Cuando usamos un verbo como el sujeto de una oración (para hablar de la actividad en general), lo ponemos en su forma -ing.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v5",
+      "statement": "I stopped ________ bread because I'm on a diet. (I don't eat bread anymore).",
+      "context": "Verbs followed by either form with different meanings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to eat",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Stop to eat\" means you paused another activity to eat."
+        },
+        {
+          "letter": "B",
+          "text": "eating",
+          "is_correct": true,
+          "feedback": "Correct! \"Stop + gerund\" means to quit or finish an activity."
+        },
+        {
+          "letter": "C",
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Algunos verbos como \"stop\" cambian su significado según lo que les siga. \"Stop eating\" significa dejar de comer algo permanentemente; \"Stop to eat\" significa detenerse un momento para comer algo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v6",
+      "statement": "Many people travel to San Andrés ________ its beautiful beaches.",
+      "context": "Expressing purpose.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for see",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to see",
+          "is_correct": true,
+          "feedback": "Correct! We use the infinitive to express the purpose or reason for an action."
+        },
+        {
+          "letter": "C",
+          "text": "seeing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "for to see",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar el \"para qué\" o propósito de una acción, usamos el infinitivo con \"to\". (No se debe usar \"for\" con un verbo para este fin).\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v7",
+      "statement": "Are you interested in ________ a new language?",
+      "context": "Prepositions followed by gerunds.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "learn",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "to learn",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
+          "text": "learning",
+          "is_correct": true,
+          "feedback": "Correct! After a preposition (in, at, with, about), we always use the gerund."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "learned",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Una regla de oro en inglés es que cualquier verbo que vaya inmediatamente después de una preposición debe estar en forma -ing.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v8",
+      "statement": "\"I like **dancing**\" vs. \"I'd like **to dance**.\"\r\nWhat is the difference?",
+      "context": "Understanding preference nuance.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "They mean exactly the same.",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "One is a general habit, the other is a specific desire for now.",
+          "is_correct": true,
+          "feedback": "Correct! \"Like + ing\" is for general tastes; \"Would like + to\" is a polite request/desire."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Both are about the past.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "The second one is rude.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"I like + -ing\" describe un gusto general. \"I would like (I'd like) + to\" se usa para pedir algo o expresar un deseo específico en un momento dado.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v9",
+      "statement": "My computer isn't working properly. It needs ________.",
+      "context": "Passive-like gerunds.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fixing",
+          "is_correct": true,
+          "feedback": "Correct! After \"need\", the gerund has a passive meaning (needs to be fixed)."
+        },
+        {
+          "letter": "B",
+          "text": "to fixing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "fix",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "fixed",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "Después del verbo \"need\", podemos usar un gerundio para indicar que algo necesita recibir una acción (significado pasivo: necesita ser arreglado).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"I **decided (A)** to go **to (B)** the gym because I **avoid (C)** to eat **sweets (D)**.\"",
+      "context": "Identifying errors in verb patterns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "decided",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "avoid",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "to eat",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Avoid\" must be followed by a gerund: \"avoid eating\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El verbo \"avoid\" (evitar) es uno de los verbos clave en B1 que siempre requiere un gerundio después.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v11",
+      "statement": "Which invitation sounds most professional and polite?",
+      "context": "Formal invitations.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "I want you to come to my office.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too direct/bossy."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "I would like to invite you to join our meeting tomorrow.",
+          "is_correct": true,
+          "feedback": "Correct! Polished use of \"would like + to\" for a formal context."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "I enjoy inviting you to the party.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Meaning is strange for an invitation."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "Coming to the meeting is better for you.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Too aggressive."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Saber usar \"would like to\" en lugar de \"want to\" es una marca de madurez lingüística en el nivel B1 para situaciones formales.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-v12",
+      "statement": "\"After finishing his project, Luis continued working on his presentation because he wanted to impress his boss. He avoided taking breaks until he was done.\"\r\nWhat did Luis do?",
+      "context": "Selecting the best summary with verb patterns.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "He kept working without stopping to ensure he did a great job.",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct! It correctly paraphrases \"continued working\" and \"avoided taking breaks\"."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "He wanted to finish but he enjoyed taking many breaks.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. He avoided them."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "He decided to stop working when the boss arrived.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "He thinks projects are easy to do.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Parafrasear textos que usan patrones verbales complejos requiere una comprensión profunda de cómo los gerundios e infinitivos conectan acciones y propósitos.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W18-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v10",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v11",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W18-writing-passive-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

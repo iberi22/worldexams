@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY"
+id: "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "animals-pets-farm"
 periodo: "weekly"
-semana: 16
+week: "W16"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Vocabulary for pets and farm animals: dog, cat, cow, pig, chicken, etc."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Animals Pets Farm (W16)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W16: Animals - Pets and Farm (A1)
-
-Este bundle evalúa el vocabulario de mascotas y animales de la granja en inglés.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-What animal says **"Woof woof"**?
-
-### Options
-- [ ] A) Cat <!-- feedback: Incorrect. Cats say "Meow". -->
-- [x] B) Dog <!-- feedback: Correct! Dogs bark. -->
-- [ ] C) Cow <!-- feedback: Incorrect. -->
-- [ ] D) Pig <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El perro se dice "dog". Los perros ladran (bark) y el sonido en inglés se escribe "woof".
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-What animal says **"Meow"**?
-
-### Options
-- [x] A) Cat <!-- feedback: Correct! Cats say "meow". -->
-- [ ] B) Dog <!-- feedback: Incorrect. -->
-- [ ] C) Rabbit <!-- feedback: Incorrect. -->
-- [ ] D) Bird <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El gato se dice "cat". Es una mascota muy común.
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What animal gives us **milk**?
-
-### Options
-- [ ] A) Pig <!-- feedback: Incorrect. -->
-- [x] B) Cow <!-- feedback: Correct! Cows give milk. -->
-- [ ] C) Chicken <!-- feedback: Incorrect. -->
-- [ ] D) Duck <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La vaca se dice "cow". Es un animal de la granja (farm animal).
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What animal gives us **eggs**?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Cow <!-- feedback: Incorrect. -->
-- [ ] B) Horse <!-- feedback: Incorrect. -->
-- [x] C) Chicken <!-- feedback: Correct! Chickens lay eggs. -->
-- [ ] D) Rabbit <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La gallina o el pollo se dice "chicken". De ellas obtenemos los huevos (eggs).
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What animal is pink and says **"Oink oink"**?
-
-### Options
-- [ ] A) Cow <!-- feedback: Incorrect. -->
-- [x] B) Pig <!-- feedback: Correct! Pigs are pink. -->
-- [ ] C) Sheep <!-- feedback: Incorrect. -->
-- [ ] D) Horse <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El cerdo se dice "pig".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v6`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-What animal has long ears and likes **carrots**?
-
-### Options
-- [ ] A) Cat <!-- feedback: Incorrect. -->
-- [x] B) Rabbit <!-- feedback: Correct! Rabbits like carrots. -->
-- [ ] C) Bird <!-- feedback: Incorrect. -->
-- [ ] D) Pig <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El conejo se dice "rabbit".
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v7`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which animal can **fly**?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Dog <!-- feedback: Incorrect. -->
-- [ ] B) Cow <!-- feedback: Incorrect. -->
-- [x] C) Bird <!-- feedback: Correct! Birds can fly. -->
-- [ ] D) Horse <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El pájaro se dice "bird". Los pájaros tienen alas (wings) y pueden volar (fly).
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-What animal is big and you can **ride**?
-
-### Options
-- [ ] A) Cat <!-- feedback: Incorrect. Too small. -->
-- [x] B) Horse <!-- feedback: Correct! You can ride a horse. -->
-- [ ] C) Chicken <!-- feedback: Incorrect. -->
-- [ ] D) Rabbit <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El caballo se dice "horse".
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v9`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Pato"** in English?
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Chicken <!-- feedback: Incorrect. -->
-- [x] B) Duck <!-- feedback: Correct! Duck is pato. -->
-- [ ] C) Bird <!-- feedback: Incorrect. -->
-- [ ] D) Sheep <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El pato se dice "duck". Hace un sonido como "quack".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-v10`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What animal has **wool** (lana)?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Pig <!-- feedback: Incorrect. -->
-- [ ] B) Cow <!-- feedback: Incorrect. -->
-- [x] C) Sheep <!-- feedback: Correct! Sheep have wool. -->
-- [ ] D) Dog <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La oveja se dice "sheep". De ellas sacamos la lana.
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Mathematics & Statistics",
+    "country": "newzealand",
+    "pack_id": "newzealand-week-9-grade-11-subject-mathematics__statistics",
+    "generated_at": "2026-06-22T05:46:18.553Z"
+  },
+  "questions": [
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v01",
+      "statement": "**Stem:** Expand and simplify: 4(1x + 18)",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4x + 72",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 4x + 18",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 4x - 72",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 5x + 18\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(1x + 18) = 4×1x + 4×18 = 4x + 72. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v02",
+      "statement": "**Stem:** A linear function passes through points (5, 3) and (9, 11). What is its gradient?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v03",
+      "statement": "**Stem:** A triangle has sides of 9 cm, 10 cm, and 11 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (9, 10, 11 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v04",
+      "statement": "**Stem:** If a bag contains 7 red marbles and 9 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7/16",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 9/16",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 7/9",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/16\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 7 / (7 + 9) = 7/16. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v05",
+      "statement": "**Stem:** Solve for x: 5x + 11 = 36",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** Subtract 11 from both sides: 5x = 25. Then divide by 5: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v06",
+      "statement": "**Stem:** Expand and simplify: 4(8x + 38)",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 32x + 152",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 32x + 38",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 32x - 152",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x + 38\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(8x + 38) = 4×8x + 4×38 = 32x + 152. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v07",
+      "statement": "**Stem:** A linear function passes through points (1, 1) and (10, 10). What is its gradient?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v08",
+      "statement": "**Stem:** A triangle has sides of 5 cm, 6 cm, and 7 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (5, 6, 7 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v09",
+      "statement": "**Stem:** If a bag contains 3 red marbles and 9 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3/12",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 9/12",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 3/9",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/12\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 3 / (3 + 9) = 3/12. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v10",
+      "statement": "**Stem:** Solve for x: 5x + 7 = 32",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Subtract 7 from both sides: 5x = 25. Then divide by 5: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v11",
+      "statement": "**Stem:** Expand and simplify: 4(11x + 44)",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 44x + 176",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 44x + 44",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 44x - 176",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 15x + 44\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(11x + 44) = 4×11x + 4×44 = 44x + 176. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v12",
+      "statement": "**Stem:** A linear function passes through points (1, 5) and (8, 13). What is its gradient?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v13",
+      "statement": "**Stem:** A triangle has sides of 5 cm, 6 cm, and 7 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (5, 6, 7 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v14",
+      "statement": "**Stem:** If a bag contains 7 red marbles and 2 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7/9",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 2/9",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 7/2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/9\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 7 / (7 + 2) = 7/9. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v15",
+      "statement": "**Stem:** Solve for x: 7x + 6 = 41",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Subtract 6 from both sides: 7x = 35. Then divide by 7: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v16",
+      "statement": "**Stem:** Expand and simplify: 7(7x + 36)",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 49x + 252",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 49x + 36",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 49x - 252",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 14x + 36\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(7x + 36) = 7×7x + 7×36 = 49x + 252. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v17",
+      "statement": "**Stem:** A linear function passes through points (5, 5) and (9, 12). What is its gradient?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v18",
+      "statement": "**Stem:** A triangle has sides of 4 cm, 5 cm, and 6 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (4, 5, 6 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v19",
+      "statement": "**Stem:** If a bag contains 4 red marbles and 8 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4/12",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 8/12",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 4/8",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/12\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 4 / (4 + 8) = 4/12. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY-v20",
+      "statement": "**Stem:** Solve for x: 8x + 12 = 52",
+      "context": "A New Zealand student is studying exponential functions for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 12 from both sides: 8x = 40. Then divide by 8: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W09-exponential-functions-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    }
+  ]
+}

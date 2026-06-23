@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-9-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v1",
+      "statement": "What is **\"Abuela\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandfather",
+          "is_correct": false,
+          "feedback": "Incorrect. That is abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Grandmother",
+          "is_correct": true,
+          "feedback": "Correct! Grandmother is abuela."
+        },
+        {
+          "letter": "C",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Aunt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Grandmother\" es la abuela. También se puede decir \"Grandma\" o \"Granny\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v2",
+      "statement": "What is **\"Abuelo\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandfather",
+          "is_correct": true,
+          "feedback": "Correct! Grandfather is abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Grandmother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Father",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Uncle",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Grandfather\" es el abuelo. También se puede decir \"Grandpa\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v3",
+      "statement": "What is **\"Tío\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunt is tía."
+        },
+        {
+          "letter": "B",
+          "text": "Uncle",
+          "is_correct": true,
+          "feedback": "Correct! Uncle is tío."
+        },
+        {
+          "letter": "C",
+          "text": "Cousin",
+          "is_correct": false,
+          "feedback": "Incorrect. Cousin is primo/a."
+        },
+        {
+          "letter": "D",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Uncle\" es el hermano de tu padre o de tu madre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v4",
+      "statement": "What is **\"Tía\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt",
+          "is_correct": true,
+          "feedback": "Correct! Aunt is tía."
+        },
+        {
+          "letter": "B",
+          "text": "Uncle",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Aunt\" es la hermana de tu padre o de tu madre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v5",
+      "statement": "What is **\"Primo\"** or **\"Prima\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Cousin",
+          "is_correct": true,
+          "feedback": "Correct! Cousin serves for both boys and girls."
+        },
+        {
+          "letter": "D",
+          "text": "Nephew",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En inglés, \"cousin\" se usa tanto para primo como para prima. ¡Es muy fácil!\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v6",
+      "statement": "Your mother's mother is your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Grandmother",
+          "is_correct": true,
+          "feedback": "Correct! Your mom's mom is your grandma."
+        },
+        {
+          "letter": "C",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Cousin",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La madre de tu mamá es tu abuela (grandmother).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v7",
+      "statement": "Your father's brother is your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandfather",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Uncle",
+          "is_correct": true,
+          "feedback": "Correct! Your dad's brother is your uncle."
+        },
+        {
+          "letter": "C",
+          "text": "Cousin",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hermano de tu papá es tu tío (uncle).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v8",
+      "statement": "Grandmother + Grandfather = ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parents",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Grandparents",
+          "is_correct": true,
+          "feedback": "Correct! They are your grandparents."
+        },
+        {
+          "letter": "C",
+          "text": "Cousins",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Friends",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que \"parents\" son mamá y papá, \"grandparents\" son la abuela y el abuelo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v9",
+      "statement": "Who is your uncle's son?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Your brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Your cousin",
+          "is_correct": true,
+          "feedback": "Correct! Your uncle's child is your cousin."
+        },
+        {
+          "letter": "C",
+          "text": "Your father",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Your aunt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hijo de tu tío es tu primo (cousin).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-v10",
+      "statement": "How do you say **\"Mi familia\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My family is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "My family",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Me family",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Mine family",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"My\" significa mi. Por lo tanto, \"My family\" es mi familia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At I.E. La Salle de Pereira, teacher introduces passive.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-001-v1",
+      "statement": "This is a review question about p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "subject + verb + object",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Es activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "subject + have + past participle",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Es present perfect."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "subject + be + past participle",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "subject + will + verb",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Colegio Simón Bolívar de Pasto, passive use is explained.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-002-v1",
+      "statement": "Select the correct A2 level use for p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "To emphasize the subject.",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "When the action is more important than who did it.",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Only in questions.",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Only in present tense.",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "This question evaluates the student's ability to remember the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At I.E. María Inmaculada de Bucaramanga, students practice present passive.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-003-v1",
+      "statement": "Identify the appropriate vocabulary for p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "is visiting",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Activo, no pasivo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "is visited",
+          "text": "Word 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "was visited",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "is visit",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In Liceo de la Sabana de Barranquilla, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Champagnat de Ibagué convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In I.E. La Salle de Bogotá, passive questions are practiced.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-004-v1",
+      "statement": "Complete the sentence about p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "did invite",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "was invited",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "is invite",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Past participle needed."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "invited",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W30-p3-final-review-005-v1",
+      "statement": "What is the best way to express p3-final-review?",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio Cambridge de Cúcuta, students analyze passive.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-006-v1",
+      "statement": "Find the error in this p3-final-review sentence.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The agent is important.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The agent cannot be known.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "It is always required.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Parque Tayrona:",
-      "context": "In Colegio Fontán de Pereira, evaluate passive usage.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-007-v1",
+      "statement": "Match the term with the definition of p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Workers built the museum in colonial times.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum is built by workers.",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "The colonial period built the museum.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Ilógico."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W30-p3-final-review-008-v1",
+      "statement": "Choose the synonym for a word related to p3-final-review.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Liceo de la Sabana de Manizales, find passive errors.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-009-v1",
+      "statement": "Which of these belongs to p3-final-review?",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
-          "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "text": "Not this one",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
-          "is_correct": false,
-          "feedback": "Correcta."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about San Agustín:",
-      "context": "At I.E. La Salle de Ibagué, create passive sentence.",
+      "id": "CO-ING-6-2026-W30-p3-final-review-010-v1",
+      "statement": "Predict the next word in the p3-final-review context.",
+      "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Tourists visit the museum every year.",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
+          "text": "Correct prediction",
           "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The museum was visit by tourists.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Past participle incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tourists are visited the museum.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v1",
-      "statement": "\"Invierno\" in English is ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "winter",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "summer",
-          "is_correct": false,
-          "feedback": "Incorrecto. Summer = verano."
-        },
-        {
-          "letter": "C",
-          "text": "spring",
-          "is_correct": false,
-          "feedback": "Incorrecto. Spring = primavera."
-        },
-        {
-          "letter": "D",
-          "text": "autumn",
-          "is_correct": false,
-          "feedback": "Incorrecto. Autumn = otoño."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Four seasons: spring (primavera), summer (verano), autumn/fall (otoño), winter (invierno).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v2",
-      "statement": "\"What season comes after winter?\"",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Spring",
-          "is_correct": true,
-          "feedback": "Correcto. Spring = primavera."
-        },
-        {
-          "letter": "B",
-          "text": "Summer",
-          "is_correct": false,
-          "feedback": "Incorrecto. Summer is after spring."
-        },
-        {
-          "letter": "C",
-          "text": "Autumn",
-          "is_correct": false,
-          "feedback": "Incorrecto. Autumn is after summer."
-        },
-        {
-          "letter": "D",
-          "text": "Winter again",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Order of seasons: Spring → Summer → Autumn → Winter → Spring again.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v3",
-      "statement": "\"Colombia has only two seasons because ___.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "it is near the equator",
-          "is_correct": true,
-          "feedback": "Correcto. Ecuador = línea ecuatorial."
-        },
-        {
-          "letter": "B",
-          "text": "it is a big country",
-          "is_correct": false,
-          "feedback": "Incorrecto. Not the reason."
-        },
-        {
-          "letter": "C",
-          "text": "it has mountains",
-          "is_correct": false,
-          "feedback": "Incorrecto. Mountains create microclimates."
-        },
-        {
-          "letter": "D",
-          "text": "it rains all year",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Colombia is on the equator → no extreme seasons → only dry and rainy seasons.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v4",
-      "statement": "\"The dry season in Colombia is called ___.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "summer / verano",
-          "is_correct": true,
-          "feedback": "Correcto. Dry season = summer."
-        },
-        {
-          "letter": "B",
-          "text": "winter / invierno",
-          "is_correct": false,
-          "feedback": "Incorrecto. Winter = rainy season."
-        },
-        {
-          "letter": "C",
-          "text": "spring",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "monsoon",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "In Colombia: summer (verano) = dry season, winter (invierno) = rainy season. Opposite of many countries.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v5",
-      "statement": "\"The temperature in Bogotá is usually around ___.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "14-20°C",
-          "is_correct": true,
-          "feedback": "Correcto. Bogotá: 14-20°C year-round."
-        },
-        {
-          "letter": "B",
-          "text": "30-35°C",
-          "is_correct": false,
-          "feedback": "Incorrecto. That's hot coast."
-        },
-        {
-          "letter": "C",
-          "text": "0-10°C",
-          "is_correct": false,
-          "feedback": "Incorrecto. Too cold for Bogotá."
-        },
-        {
-          "letter": "D",
-          "text": "40-45°C",
-          "is_correct": false,
-          "feedback": "Incorrecto. Extremely hot."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Bogotá: 14-20°C (cold). Medellín: 18-28°C (spring-like). Cali: 25-35°C (warm). Barranquilla: 28-38°C (hot).\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v6",
-      "statement": "\"I like ___ because the weather is warm.\" (Cartagena)",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cartagena",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Bogotá",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bogotá is cold."
-        },
-        {
-          "letter": "C",
-          "text": "Manizales",
-          "is_correct": false,
-          "feedback": "Incorrecto. Manizales is cold."
-        },
-        {
-          "letter": "D",
-          "text": "Pasto",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasto is very cold."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Cartagena is a hot coastal city. Bogotá, Manizales, Pasto are cold because of altitude.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v7",
-      "statement": "\"In December, it is ___ in Colombia.\" (dry season)",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sunny and dry",
-          "is_correct": true,
-          "feedback": "Correcto. Dec-Feb = dry season."
-        },
-        {
-          "letter": "B",
-          "text": "rainy and cold",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rainy = April-May, Oct-Nov."
-        },
-        {
-          "letter": "C",
-          "text": "snowy",
-          "is_correct": false,
-          "feedback": "Incorrecto. No snow in most of Colombia."
-        },
-        {
-          "letter": "D",
-          "text": "stormy",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Colombia dry season: December-February and July-August. Rainy season: April-May and October-November.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v8",
-      "statement": "\"It's very cold. The temperature is ___ zero.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "below",
-          "is_correct": true,
-          "feedback": "Correcto. Below zero = bajo cero."
-        },
-        {
-          "letter": "B",
-          "text": "above",
-          "is_correct": false,
-          "feedback": "Incorrecto. Above = arriba de."
-        },
-        {
-          "letter": "C",
-          "text": "over",
-          "is_correct": false,
-          "feedback": "Incorrecto. Over = sobre."
-        },
-        {
-          "letter": "D",
-          "text": "under",
-          "is_correct": false,
-          "feedback": "Incorrecto. Under = debajo. Below es más formal."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Below zero = bajo cero (0°C). Manizales can get very cold at night.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v9",
-      "statement": "\"The rainy season is from April to June. The dry season is from December to March.\" When is the dry season?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "December to March",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "April to June",
-          "is_correct": false,
-          "feedback": "Incorrecto. That's rainy."
-        },
-        {
-          "letter": "C",
-          "text": "All year",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "July to September",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: identify dry season (December-March) vs rainy season (April-June, October-November).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v10",
-      "statement": "\"If the temperature is 35°C, the weather is ___.\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "hot",
-          "is_correct": true,
-          "feedback": "Correcto. 35°C = hot."
-        },
-        {
-          "letter": "B",
-          "text": "cold",
-          "is_correct": false,
-          "feedback": "Incorrecto. 35°C is very warm."
-        },
-        {
-          "letter": "C",
-          "text": "freezing",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "cool",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Temperature: >30°C = hot, 20-30 = warm, 10-20 = cool/cold, <10°C = cold, <0°C = freezing.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

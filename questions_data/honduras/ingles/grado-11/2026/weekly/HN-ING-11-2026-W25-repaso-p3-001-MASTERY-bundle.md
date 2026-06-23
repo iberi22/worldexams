@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
-alignment: "CNB Honduras – Bachillerato en Ciencias y Letras, Eje de Lengua Extranjera (Ingles)"
+alignment: "Curriculo de Ingles"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-cefr_level: "C1+"
 ---
-
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,

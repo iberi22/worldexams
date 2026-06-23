@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v1",
+      "statement": "I stayed at home ________ it was raining heavily outside.",
+      "context": "Basic reason with \"because\".",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "because",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! \"Because\" introduces a clause showing the reason."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"So\" introduces the result, not the reason."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "although",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "but",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "\"Because\" (porque) se usa para introducir la causa o razón de una situación. Va seguido de una oración completa (sujeto + verbo).\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v2",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v2",
+      "statement": "It was raining heavily, ________ I stayed at home.",
+      "context": "Basic result with \"so\".",
       "options": [
         {
           "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! \"So\" introduces the consequence or result."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "since",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "although",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "\"So\" (así que / por lo tanto) conecta un hecho con su consecuencia lógica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v3",
+      "statement": "The flight was cancelled ________ the thick fog at the airport.",
+      "context": "Reason with a noun phrase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a verb (because there was fog)."
+        },
+        {
+          "letter": "B",
+          "text": "due to",
+          "is_correct": true,
+          "feedback": "Correct! \"Due to\" is followed by a noun phrase."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "as",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Due to\" (debido a) funciona como \"because of\" y debe ir seguido de un sustantivo o grupo nominal, no de una oración completa.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v4",
+      "statement": "The company lost a lot of money last year. ________, they had to close some offices.",
+      "context": "Formal result connector.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Therefore",
+          "is_correct": true,
+          "feedback": "Correct! \"Therefore\" is a formal connector for result."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "Since",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "Despite",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Therefore\" (por lo tanto) se utiliza en contextos formales para introducir una consecuencia, usualmente al principio de una nueva oración.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v5",
+      "statement": "________ you are already here, you should help us with the decorations.",
+      "context": "Using \"as\" and \"since\" for reason.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Since",
+          "is_correct": true,
+          "feedback": "Correct! \"Since\" and \"As\" can mean \"because\" when the reason is already known."
+        },
+        {
+          "letter": "B",
+          "text": "Due to",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a noun."
+        },
+        {
+          "letter": "C",
+          "text": "Consequently",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "So",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "En inglés de nivel B1, \"Since\" y \"As\" se usan frecuentemente como sinónimos de \"because\", especialmente cuando la razón es obvia para todos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v6",
+      "statement": "Trees absorb carbon dioxide. ________, planting more trees is essential to fight climate change.",
+      "context": "Environmental result.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "As a result",
+          "is_correct": true,
+          "feedback": "Correct! Formal expression for result."
+        },
+        {
+          "letter": "C",
+          "text": "In spite of",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Due to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"As a result\" (como resultado) es una frase de transición común para conectar un hecho científico con una acción recomendada.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v4",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v7",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Changing structures between because and because of.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
+          "text": "I was late because of the traffic was bad.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Because of\" + noun."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "I was late because the traffic.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Because\" + clause."
         },
         {
           "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
+          "text": "I was late because of the traffic.",
+          "is_correct": true,
+          "feedback": "Correct! \"Because of\" + noun phrase."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "I was late due to I missed the bus.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Due to\" + noun."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Es vital distinguir: \"Because\" + [Sujeto + Verbo] vs. \"Because of / Due to\" + [Sustantivo].\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v8",
+      "statement": "\"The museum is undergoing renovations. **Consequently**, it will remain closed for the next two months.\"\r\nWhat does \"Consequently\" indicate?",
+      "context": "Understanding the flow of information.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "The reason why the museum is being renovated.",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "The logical result of the renovations.",
+          "is_correct": true,
+          "feedback": "Correct! \"Consequently\" introduces the outcome."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "A contrast with the previous sentence.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "The time when the renovations started.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Los conectores de consecuencia (consequently, therefore, as a result) son herramientas clave para seguir el hilo de un texto informativo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v9",
+      "statement": "He didn't study at all for the test, and ________ he failed.",
+      "context": "Using \"that's why\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "that's why",
+          "is_correct": true,
+          "feedback": "Correct! Informal/semi-formal way to show result."
+        },
+        {
+          "letter": "C",
+          "text": "due to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"That's why\" es una expresión muy común en el habla cotidiana para introducir el resultado de algo que se acaba de mencionar.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"**As (A)** the price of gas has **risen (B)**, **therefore (C)** many people are **starting (D)** to use bicycles.\"",
+      "context": "Identifying errors in logical connections.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "risen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "therefore",
+          "is_correct": true,
+          "feedback": "Correct! Error found. You cannot use \"As\" (reason) and \"therefore\" (result) in the same sentence to connect the same two clauses. It's redundant."
+        },
+        {
+          "letter": "D",
+          "text": "starting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La redundancia de conectores es un error común. Si una oración ya empieza con \"As\" o \"Because\", no se debe poner \"so\" o \"therefore\" en medio.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v6",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v11",
+      "statement": "A student is writing an essay about urban growth. Which sentence is more academically appropriate?",
+      "context": "Evaluating the best formal explanation.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
+          "text": "People move to cities because they want jobs.",
+          "is_correct": false,
+          "feedback": "Incorrect. A bit too simple."
         },
         {
           "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Rapid urbanization is occurring largely due to the increased availability of employment opportunities in metropolitan areas.",
+          "is_correct": true,
+          "feedback": "Correct! Precise use of \"due to\" and formal vocabulary."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "Cities are growing so people like work there.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Poor structure."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "There are jobs since people move to cities.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Logic is backwards."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "El uso de \"due to\" seguido de una frase sustantivada compleja es una característica de la escritura académica de nivel intermedio/avanzado.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-v12",
+      "statement": "\"The region experienced a severe drought. Crops failed, and many farmers lost their income. This led to a significant increase in food prices in the cities.\"\r\nChoose the best summary:",
+      "context": "Selecting the best summary with cause and effect.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "The severe drought caused crop failure and financial loss for farmers, resulting in higher food prices for urban consumers.",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct! It captures the chain of cause and effect accurately."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "Farmers moved to cities because they liked the food prices there.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Misinterprets the text."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "Due to the high food prices, there was a drought in the region.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Logic is reversed."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "As farmers had no money, it started to rain again.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Sintetizar cadenas de eventos requiere identificar el \"primer motor\" (causa inicial) y seguir lógicamente todos los \"eslabones\" (resultados intermedios) hasta la conclusión final.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W31-connectors-reason-result-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v8",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v10",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-v12",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W31-grammar-review-p4-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

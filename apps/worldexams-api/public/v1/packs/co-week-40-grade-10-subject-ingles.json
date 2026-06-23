@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-40-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.592Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v1",
+      "statement": "\"I ____ my English skills significantly since the beginning of the year.\"",
+      "context": "Reflecting on personal progress.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "improve",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have improved",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect for result up to now."
+        },
+        {
+          "letter": "C",
+          "text": "improved",
+          "is_correct": false,
+          "feedback": "Past simple is for finished time."
+        },
+        {
+          "letter": "D",
+          "text": "was improving",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of the Present Perfect to describe personal achievements during the school year.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v2",
+      "statement": "\"By next month, I ____ all my final exams and will be enjoying my vacation.\"",
+      "context": "Describing a future achievement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will finish",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have finished",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for completion by a deadline."
+        },
+        {
+          "letter": "C",
+          "text": "will be finishing",
+          "is_correct": false,
+          "feedback": "Future Continuous."
+        },
+        {
+          "letter": "D",
+          "text": "finish",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of the Future Perfect to express completion by a certain date.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v3",
+      "statement": "\"It is important to find a group where you can ____ and be yourself.\"",
+      "context": "Discussing social belonging.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get along",
+          "is_correct": false,
+          "feedback": "To have a good relationship."
+        },
+        {
+          "letter": "B",
+          "text": "fit in",
+          "is_correct": true,
+          "feedback": "Correct. To feel you belong."
+        },
+        {
+          "letter": "C",
+          "text": "look up",
+          "is_correct": false,
+          "feedback": "To search for."
+        },
+        {
+          "letter": "D",
+          "text": "take over",
+          "is_correct": false,
+          "feedback": "To take control."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of phrasal verbs for social and personal identity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v4",
+      "statement": "\"____ the progress we have made, there is still much to do ____ global equality.\"",
+      "context": "An academic text on society.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although / so that",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "B",
+          "text": "Despite / regarding",
+          "is_correct": true,
+          "feedback": "Correct contrast preposition + preposition."
+        },
+        {
+          "letter": "C",
+          "text": "Whereas / because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "However / but",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of complex connectors and prepositions in an analytical context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v5",
+      "statement": "\"The documents ____ in the wrong office, which caused the delay in the announcement.\"",
+      "context": "Speculating about a mystery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must leave",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "must have been left",
+          "is_correct": true,
+          "feedback": "Correct passive modal deduction about the past."
+        },
+        {
+          "letter": "C",
+          "text": "can't have left",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "D",
+          "text": "should leave",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of passive modals of deduction to explain past errors.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v6",
+      "statement": "\"The director requested that all staff ____ present at the final meeting.\"",
+      "context": "Reporting a formal request.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Possible, but B is more formal."
+        },
+        {
+          "letter": "B",
+          "text": "be",
+          "is_correct": true,
+          "feedback": "Correct subjunctive after 'request'."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Possible in reported speech, but B is the B2 target."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of the subjunctive 'base form' for formal requests.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v7",
+      "statement": "\"____ only when we face challenges ____ we truly discover our strengths.\"",
+      "context": "Emphasizing a specific time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct 'It'-cleft for emphasis."
+        },
+        {
+          "letter": "C",
+          "text": "When / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Is / that",
+          "is_correct": false,
+          "feedback": "Incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of cleft sentences to highlight the circumstances of personal growth.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v8",
+      "statement": "\"Seldom ____ such a high degree of collaboration ____ seen in previous years.\"",
+      "context": "Describing a rare event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is / -",
+          "is_correct": false,
+          "feedback": "Possible, but B is more likely for comparison."
+        },
+        {
+          "letter": "B",
+          "text": "has / been",
+          "is_correct": true,
+          "feedback": "Correct inversion in the Present Perfect Passive."
+        },
+        {
+          "letter": "C",
+          "text": "did / -",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for passive."
+        },
+        {
+          "letter": "D",
+          "text": "was / being",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of inversion with 'Seldom' and the passive voice.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v9",
+      "statement": "\"If I ____ more attention to the instructions, I ____ that mistake.\"",
+      "context": "Discussing a hypothetical past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "paid / wouldn't make",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had paid / wouldn't have made",
+          "is_correct": true,
+          "feedback": "Correct Third Conditional for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "had paid / wouldn't make",
+          "is_correct": false,
+          "feedback": "Mixed conditional, but B is standard past-to-past."
+        },
+        {
+          "letter": "D",
+          "text": "paid / won't make",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of the Third Conditional for past-to-past hypothetical outcomes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v10",
+      "statement": "\"The ____ we engage with diverse perspectives, the ____ our understanding of the world becomes.\"",
+      "context": "A sophisticated observation on education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most / biggest",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "more / broader",
+          "is_correct": true,
+          "feedback": "Correct double comparative."
+        },
+        {
+          "letter": "C",
+          "text": "better / most",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "as / as",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of double comparatives to show correlation between learning and perspective.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v11",
+      "statement": "\"The policy, ____ was implemented twenty years ago, is finally ____ by the government.\"",
+      "context": "Critique of an old system.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that / reviewing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "which / being reviewed",
+          "is_correct": true,
+          "feedback": "Correct non-defining relative clause + passive continuous."
+        },
+        {
+          "letter": "C",
+          "text": "which / review",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "who / reviewed",
+          "is_correct": false,
+          "feedback": "Incorrect for policies."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of non-defining relative clauses and ongoing passive actions.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W40-final-review-001-MASTERY-v12",
+      "statement": "\"____ it not for the rapid development of AI, the field of data science ____ in such a short time.\"",
+      "context": "A complex theoretical hypothesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Had / not been / wouldn't have evolved",
+          "is_correct": true,
+          "feedback": "Correct Third Conditional inversion."
+        },
+        {
+          "letter": "B",
+          "text": "If it was / didn't evolve",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "C",
+          "text": "Were / won't evolve",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "Had / not been / didn't evolve",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using the formal inversion 'Had it not been for' to describe a past condition and its hypothetical result.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

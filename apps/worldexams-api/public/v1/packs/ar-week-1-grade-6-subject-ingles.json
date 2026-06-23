@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "ar",
+    "pack_id": "ar-week-1-grade-6-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.783Z"
+  },
+  "questions": [
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001",
+      "statement": "What is the most appropriate greeting for her teacher?",
+      "context": "Martina is arriving at school in Buenos Aires at 8:00 AM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good afternoon",
+          "is_correct": false,
+          "feedback": "Incorrect. This greeting is used after 12:00 PM."
+        },
+        {
+          "letter": "B",
+          "text": "Good morning",
+          "is_correct": true,
+          "feedback": "Correct. It is 8:00 AM, so \"Good morning\" is the right greeting."
+        },
+        {
+          "letter": "C",
+          "text": "Good night",
+          "is_correct": false,
+          "feedback": "Incorrect. This is used when going to bed or leaving late at night."
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye",
+          "is_correct": false,
+          "feedback": "Incorrect. This is used when leaving, not when arriving."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, el saludo correcto para la mañana (desde el amanecer hasta el mediodía) es \"Good morning\". En el contexto escolar argentino, este es el saludo habitual al ingresar al turno mañana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-002",
+      "statement": "He has twelve pencils. Which number is \"twelve\"?",
+      "context": "Facundo is counting his colored pencils in his backpack.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"two\"."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"ten\"."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correct. Twelve is the number 12."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"twenty\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los números básicos son fundamentales para cuantificar objetos escolares. \"Twelve\" corresponde al número 12.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-003",
+      "statement": "Which colors do you see in the three horizontal stripes?",
+      "context": "Looking at the Argentine flag stripes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light blue and white",
+          "is_correct": true,
+          "feedback": "Correct. The Argentine flag has two light blue stripes and one white stripe."
+        },
+        {
+          "letter": "B",
+          "text": "Blue and red",
+          "is_correct": false,
+          "feedback": "Incorrect. These are not the colors of the Argentine flag."
+        },
+        {
+          "letter": "C",
+          "text": "Yellow and green",
+          "is_correct": false,
+          "feedback": "Incorrect. These are not the colors of the Argentine flag."
+        },
+        {
+          "letter": "D",
+          "text": "Red and white",
+          "is_correct": false,
+          "feedback": "Incorrect. These are not the stripes colors."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta aplica el vocabulario de colores a un símbolo patrio nacional. \"Light blue\" es celeste y \"white\" es blanco.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-004",
+      "statement": "Which of the following items is NOT used for writing or drawing in a notebook?",
+      "context": "School objects used in the classroom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pen",
+          "is_correct": false,
+          "feedback": "Incorrect. A pen is used for writing."
+        },
+        {
+          "letter": "B",
+          "text": "Pencil",
+          "is_correct": false,
+          "feedback": "Incorrect. A pencil is used for writing and drawing."
+        },
+        {
+          "letter": "C",
+          "text": "Ruler",
+          "is_correct": true,
+          "feedback": "Correct. A ruler is used for measuring or drawing straight lines, not for writing."
+        },
+        {
+          "letter": "D",
+          "text": "Marker",
+          "is_correct": false,
+          "feedback": "Incorrect. A marker is used for drawing or highlighting."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al analizar el uso de los útiles escolares, la regla (ruler) se distingue de los instrumentos de escritura como la lapicera (pen), el lápiz (pencil) o el marcador (marker).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-005",
+      "statement": "How do you write \"seventy-five\" in numbers?",
+      "context": "At a \"kiosko\" in Rosario, a chocolate bar costs seventy-five pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"sixty-five\"."
+        },
+        {
+          "letter": "B",
+          "text": "75",
+          "is_correct": true,
+          "feedback": "Correct. Seventy-five is 75."
+        },
+        {
+          "letter": "C",
+          "text": "705",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"seven hundred and five\"."
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrect. This is \"seventeen\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Seventy\" representa la decena de los setenta y \"five\" la unidad cinco. Juntos forman el número 75.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-006",
+      "statement": "He says: \"This is my mother's brother.\" Who is he?",
+      "context": "Mateo is showing a photo of his family.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His grandfather",
+          "is_correct": false,
+          "feedback": "Incorrect. His mother's father would be his grandfather."
+        },
+        {
+          "letter": "B",
+          "text": "His father",
+          "is_correct": false,
+          "feedback": "Incorrect. His mother's husband is his father."
+        },
+        {
+          "letter": "C",
+          "text": "His uncle",
+          "is_correct": true,
+          "feedback": "Correct. The brother of one's mother or father is an uncle."
+        },
+        {
+          "letter": "D",
+          "text": "His cousin",
+          "is_correct": false,
+          "feedback": "Incorrect. The son of his uncle would be his cousin."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender los vínculos familiares básicos es esencial. El hermano de la madre es el tío (uncle).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-007",
+      "statement": "If today is Tuesday, what day is it tomorrow?",
+      "context": "Determining the days of the week.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday",
+          "is_correct": false,
+          "feedback": "Incorrect. Monday is the day before Tuesday."
+        },
+        {
+          "letter": "B",
+          "text": "Wednesday",
+          "is_correct": true,
+          "feedback": "Correct. Wednesday follows Tuesday."
+        },
+        {
+          "letter": "C",
+          "text": "Thursday",
+          "is_correct": false,
+          "feedback": "Incorrect. Thursday follows Wednesday."
+        },
+        {
+          "letter": "D",
+          "text": "Friday",
+          "is_correct": false,
+          "feedback": "Incorrect. Friday is three days after Tuesday."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El orden de los días de la semana es: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-008",
+      "statement": "Read the sentence: \"Martina and Julián are from Córdoba.\" Which pronoun can replace \"Martina and Julián\"?",
+      "context": "Identifying pronouns for people from Córdoba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" includes the speaker."
+        },
+        {
+          "letter": "B",
+          "text": "You",
+          "is_correct": false,
+          "feedback": "Incorrect. \"You\" refers to the person being spoken to."
+        },
+        {
+          "letter": "C",
+          "text": "They",
+          "is_correct": true,
+          "feedback": "Correct. \"They\" is the third person plural pronoun used for other people."
+        },
+        {
+          "letter": "D",
+          "text": "She",
+          "is_correct": false,
+          "feedback": "Incorrect. \"She\" is singular and only refers to Martina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"They\" (ellos/ellas) es el pronombre adecuado para referirse a un grupo de personas que no incluye al hablante ni al oyente directamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-009",
+      "statement": "Choose the most formal and correct way to ask for a pencil in class.",
+      "context": "Social interaction in the classroom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give me a pencil.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is an imperative and can sound rude."
+        },
+        {
+          "letter": "B",
+          "text": "I want a pencil.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just a statement of desire."
+        },
+        {
+          "letter": "C",
+          "text": "Can I have a pencil, please?",
+          "is_correct": true,
+          "feedback": "Correct. This is a polite and standard way to ask for something."
+        },
+        {
+          "letter": "D",
+          "text": "Pencil, now!",
+          "is_correct": false,
+          "feedback": "Incorrect. This is very rude."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de \"Can I...?\" y \"please\" es fundamental para la interacción social respetuosa en el aula.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.6,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W01-basic-vocabulary-ar-010",
+      "statement": "How do you spell the name of the capital city of Argentina?",
+      "context": "Spelling the name of the capital city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "B-U-E-N-O-S  A-I-R-S",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the 'E' in 'Aires'."
+        },
+        {
+          "letter": "B",
+          "text": "B-U-E-N-O-S  A-I-R-E-S",
+          "is_correct": true,
+          "feedback": "Correct. This is the correct spelling of Buenos Aires."
+        },
+        {
+          "letter": "C",
+          "text": "B-O-N-O-S  A-Y-R-E-S",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a phonetic spelling mistake."
+        },
+        {
+          "letter": "D",
+          "text": "B-U-E-N-A-S  A-I-R-E-S",
+          "is_correct": false,
+          "feedback": "Incorrect. It's 'Buenos', not 'Buenas'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El deletreo (spelling) permite consolidar el conocimiento del alfabeto aplicado a nombres propios conocidos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W01-basic-vocabulary-ar-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

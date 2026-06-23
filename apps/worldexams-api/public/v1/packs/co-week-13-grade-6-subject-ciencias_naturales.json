@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.973Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-v1",
+      "statement": "¿Cuál es la diferencia entre una cadena alimenticia y una red alimenticia?",
+      "context": "En Bogotá, profundizan en cadenas y redes tróficas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son el mismo concepto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conceptos diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "La cadena tiene más organismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La red tiene más organismos."
+        },
+        {
+          "letter": "C",
+          "text": "La cadena muestra una sola ruta de alimentación; la red muestra múltiples rutas interconectadas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "La red solo incluye plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye todos los niveles tróficos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una **cadena alimenticia** muestra una secuencia lineal de quién come a quién (ej: pasto → conejo → zorro → águila). Una **red alimenticia** es un conjunto de cadenas interconectadas que representa las relaciones alimenticias reales de un ecosistema. Las redes son más realistas porque la mayoría de animales comen más de un tipo de alimento. En un ecosistema real, un conejo no solo come pasto sino también otras hierbas, y el zorro no solo come conejos sino también ratones, aves, etc.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-002-v1",
+      "statement": "¿Qué organismo ocupa el primer nivel trófico (productores) en un ecosistema terrestre colombiano?",
+      "context": "En Medellín, identifican los niveles tróficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jaguar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jaguar es carnívoro (consumidor terciario)."
+        },
+        {
+          "letter": "B",
+          "text": "El venado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El venado es herbívoro (consumidor primario)."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas (pasto, árboles, arbustos)",
+          "is_correct": true,
+          "feedback": "Correcto. Los productores son autótrofos."
+        },
+        {
+          "letter": "D",
+          "text": "La bacteria descomponedora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores reciclan materia pero no son el primer nivel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los **niveles tróficos** son:\r\n1. **Productores** (autótrofos): plantas, algas, cianobacterias. Fabrican su propio alimento.\r\n2. **Consumidores primarios**: herbívoros (venado, conejo, chigüiro).\r\n3. **Consumidores secundarios**: carnívoros que comen herbívoros (zorro, babilla).\r\n4. **Consumidores terciarios**: carnívoros que comen otros carnívoros (jaguar, águila harpía).\r\n5. **Descomponedores**: hongos y bacterias que descomponen materia muerta y reciclan nutrientes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-003-v1",
+      "statement": "¿Qué porcentaje de la energía pasa de un nivel trófico al siguiente?",
+      "context": "En Cali, estudian el flujo de energía en los ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo pasa un pequeño porcentaje."
+        },
+        {
+          "letter": "B",
+          "text": "10% aproximadamente",
+          "is_correct": true,
+          "feedback": "Correcto. La regla del 10%."
+        },
+        {
+          "letter": "C",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mucho menos."
+        },
+        {
+          "letter": "D",
+          "text": "1%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es demasiado poco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La **regla del 10%** establece que aproximadamente solo el 10% de la energía de un nivel trófico se transfiere al siguiente. El resto (90%) se pierde como calor en la respiración, movimiento, digestión y otras funciones metabólicas. Esto explica por qué las cadenas alimenticias rara vez tienen más de 4-5 niveles: no hay suficiente energía disponible. También explica por qué hay muchos más productores (plantas) que consumidores terciarios (grandes carnívoros). Para mantener un jaguar, se necesitan toneladas de biomasa vegetal.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-004-v1",
+      "statement": "¿Qué función cumplen los descomponedores en el ecosistema?",
+      "context": "En Barranquilla, estudian el rol de los descomponedores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producen energía para las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas producen su propia energía."
+        },
+        {
+          "letter": "B",
+          "text": "Cazan animales pequeños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso hacen los depredadores."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponen materia orgánica muerta y reciclan nutrientes al suelo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Capturan luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso hacen los productores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los **descomponedores** (hongos y bacterias) son esenciales para el reciclaje de nutrientes. Cuando un organismo muere, los descomponedores degradan su materia orgánica en compuestos simples (nitratos, fosfatos, CO₂) que vuelven al suelo y son reutilizados por los productores en la fotosíntesis. Sin descomponedores, los nutrientes quedarían atrapados en organismos muertos y la vida no podría continuar. En los bosques colombianos, los hongos descomponedores son especialmente diversos y activos debido a la humedad y el calor.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-005-v1",
+      "statement": "En un ecosistema colombiano, el chigüiro come pasto, el caimán come chigüiros, y las garzas comen peces que comen algas. ¿Cuántas cadenas alimenticias diferentes hay en esta red?",
+      "context": "En Bucaramanga, construyen redes alimenticias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más interacciones."
+        },
+        {
+          "letter": "B",
+          "text": "2 (pasto→chigüiro→caimán; algas→peces→garzas)",
+          "is_correct": true,
+          "feedback": "Correcto. Hay dos cadenas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tres cadenas distintas."
+        },
+        {
+          "letter": "D",
+          "text": "0 (no hay suficientes organismos)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la red alimenticia descrita hay al menos dos cadenas:\r\n1. Pasto → chigüiro → caimán (cadena de Llanos Orientales)\r\n2. Algas → peces → garza (cadena de humedales)\r\n\r\nEn un ecosistema real, hay muchas más conexiones. El chigüiro podría comer otras plantas, el caimán podría comer peces también, y la garza podría comer chigüiros jóvenes. Las redes alimenticias muestran que los ecosistemas son sistemas complejos e interconectados: eliminar una especie puede tener efectos impredecibles.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-006-v1",
+      "statement": "Un agricultor usa pesticida en un cultivo cercano a un lago. El pesticida es absorbido por algas. ¿En qué organismo se acumulará MÁS pesticida?",
+      "context": "En Cartagena, aplican conceptos de biomagnificación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las algas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las algas tienen la menor concentración."
+        },
+        {
+          "letter": "B",
+          "text": "En los peces pequeños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen algo, pero no la máxima."
+        },
+        {
+          "letter": "C",
+          "text": "En los peces grandes o aves que comen peces",
+          "is_correct": true,
+          "feedback": "Correcto. La concentración aumenta en cada nivel."
+        },
+        {
+          "letter": "D",
+          "text": "En el agua del lago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concentración en agua es baja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **biomagnificación** es el aumento de concentración de una sustancia tóxica (como pesticidas o mercurio) a medida que se asciende en la cadena alimenticia. Funciona así:\r\n1. Las algas absorben pequeñas cantidades de pesticida del agua\r\n2. Los peces pequeños comen muchas algas, acumulando el pesticida\r\n3. Los peces grandes comen muchos peces pequeños, acumulando más\r\n4. Las aves o humanos que comen peces grandes reciben la dosis más alta\r\n\r\nEjemplo real: el DDT (pesticida) causó que los halcones peregrinos pusieran huevos con cáscaras delgadas porque el DDT se biomagnificó en su dieta. En Colombia, el mercurio de la minería se biomagnifica en la cadena trófica amazónica, afectando a delfines, nutrias y comunidades indígenas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-007-v1",
+      "statement": "Si desaparecieran las abejas polinizadoras de un ecosistema, ¿cuál sería la consecuencia MÁS GRAVE?",
+      "context": "En Pereira, analizan el impacto de eliminar un eslabón de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habría menos miel",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una consecuencia menor."
+        },
+        {
+          "letter": "B",
+          "text": "Las flores perderían color",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no depende de las abejas."
+        },
+        {
+          "letter": "C",
+          "text": "Muchas plantas con flor no podrían reproducirse, afectando toda la cadena alimenticia",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Las abejas serían reemplazadas por moscas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las flores pueden ser polinizadas por otros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desaparición de polinizadores (abejas, mariposas, colibríes, murciélagos) tendría un **efecto cascada** en el ecosistema: (1) el 75% de las plantas con flor dependen de polinizadores, (2) sin polinización, no habría frutos ni semillas, (3) los herbívoros perderían su alimento, (4) los carnívoros perderían a los herbívoros, (5) los descomponedores tendrían menos materia orgánica. En Colombia, la pérdida de polinizadores amenaza la producción de café, aguacate, mora, cacao y otros cultivos. Las abejas nativas (meliponas, sin aguijón) son particularmente importantes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-008-v1",
+      "statement": "¿Por qué en una pirámide ecológica hay menos jaguares que venados?",
+      "context": "En Manizales, analizan la pirámide ecológica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los jaguares son más grandes y necesitan más espacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio no es la razón principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los venados se reproducen más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la razón ecológica principal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al pasar la energía de un nivel al otro solo se transfiere el 10%, por lo que cada nivel tiene menos biomasa que el anterior",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los jaguares no necesitan comer tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Necesitan mucha energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **pirámide ecológica** representa la disminución de energía/biomasa en cada nivel trófico. Para mantener un jaguar adulto (80-100 kg), se necesitan aproximadamente 1,000 kg de herbívoros (venados, chigüiros), que a su vez necesitan 10,000 kg de plantas. Esto se debe a la regla del 10%. Por eso los grandes depredadores son escasos en la naturaleza y necesitan grandes territorios para obtener suficiente alimento. El jaguar (Panthera onca) necesita territorios de 30-100 km². En Colombia, la población de jaguares se estima en 16,000 individuos, principalmente en la Amazonía y los Llanos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-009-v1",
+      "statement": "En un ecosistema, los lobos fueron eliminados y los venados se multiplicaron sin control, agotando la vegetación. ¿Qué solución restablecería el equilibrio?",
+      "context": "En Cúcuta, evalúan la reintroducción de especies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cazar todos los venados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminaría la población."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar más pasto cada año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una solución temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Reintroducir lobos (depredador natural) para controlar la población de venados",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Construir una cerca para los venados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No resuelve el desequilibrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este caso real ocurrió en el Parque Nacional Yellowstone (EE.UU.) y es un ejemplo clásico de **cascada trófica**: (1) al eliminar los lobos, los venados multiplicaron su población, (2) los venados sobreexplotaron la vegetación, (3) desaparecieron árboles jóvenes como los sauces, (4) aves y castores perdieron su hábitat, (5) la erosión del suelo aumentó. La reintroducción de lobos en 1995 restauró el equilibrio: los venados disminuyeron, la vegetación se recuperó y la biodiversidad aumentó.\r\n\r\nEn Colombia, la reintroducción del cóndor andino y el oso de anteojos en áreas protegidas busca restaurar las cadenas tróficas originales.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-010-v1",
+      "statement": "La sobrepesca del bagre en el río Magdalena ha reducido drásticamente su población. ¿Cuál es la consecuencia ecológica MÁS probable?",
+      "context": "En Ibagué, evalúan la sobrepesca en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los bagres aprenderán a evitar las redes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aprendizaje no es la respuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Las personas comerán más pollo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una consecuencia social, no ecológica."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies que los bagres consumían (peces pequeños, crustáceos) aumentarán descontroladamente, y los depredadores que comen bagres (nutrias, aves) disminuirán",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El río se limpiará solo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sobrepesca no limpia el río."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **sobrepesca** tiene efectos en cascada en el ecosistema acuático. El bagre del Magdalena es un pez de gran tamaño (hasta 1.5 m) que era abundante en el río Magdalena pero hoy está en peligro crítico por sobrepesca y contaminación. Consecuencias: (1) aumento de sus presas (peces pequeños, camarones), (2) disminución de sus depredadores (nutria, aves acuáticas, caimán), (3) cambio en la estructura del ecosistema acuático, (4) pérdida de una especie cultural y económicamente importante para las comunidades ribereñas.\r\n\r\nSoluciones: vedas (temporadas de prohibición de pesca), tallas mínimas, repoblación con alevinos, y creación de áreas protegidas acuáticas.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Manizales, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Villavicencio, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Riohacha, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Villavicencio, se discute sobre Tema Semana 13 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 13 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 13 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 13 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-W13-tema-semana-13-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

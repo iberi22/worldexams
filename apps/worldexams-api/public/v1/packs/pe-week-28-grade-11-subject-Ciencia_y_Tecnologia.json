@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencia y Tecnologia",
+    "country": "pe",
+    "pack_id": "pe-week-28-grade-11-subject-ciencia_y_tecnologia",
+    "generated_at": "2026-06-22T05:46:18.623Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v1",
+      "statement": "Simplifique: (2)(3x + 20)",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6x + 40",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6x + 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5x + 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6x - 40\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(3x + 20) = 6x + 40.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v3",
+      "statement": "Maria compro 3 cuadernos a $1.2 c/u en Cajamarca. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $3.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $1.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $4.2\r\n  \r\n\r\n**Explicacion:** Total = 3 x 1 = $3.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional San Ramon en Cajamarca grafica f(x) = 5x + 9. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v5",
+      "statement": "En Ayacucho, un estudiante del Colegio Nacional Mariscal Caceres resuelve: 6x + 3 = 33. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 3 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v6",
+      "statement": "Simplifique: (2)(5x + 18)",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 10x + 36",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10x + 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7x + 36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 10x - 36\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(5x + 18) = 10x + 36.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v8",
+      "statement": "Maria compro 5 cuadernos a $9.1 c/u en Moquegua. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $45.1",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $9.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $14.1\r\n  \r\n\r\n**Explicacion:** Total = 5 x 9 = $45.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 5x + 12. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v10",
+      "statement": "En Trujillo, un estudiante del Colegio Nacional San Juan resuelve: 5x + 6 = 31. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 6 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v11",
+      "statement": "Simplifique: (7)(6x + 11)",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 42x + 77",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 42x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 77",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 42x - 77\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (7)(6x + 11) = 42x + 77.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v13",
+      "statement": "Maria compro 7 cuadernos a $4.2 c/u en Arequipa. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $28.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $4.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $11.2\r\n  \r\n\r\n**Explicacion:** Total = 7 x 4 = $28.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Santa Isabel en Huancayo grafica f(x) = 4x + 11. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v15",
+      "statement": "En Piura, un estudiante del Colegio Nacional San Miguel resuelve: 6x + 12 = 42. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 12 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v16",
+      "statement": "Simplifique: (7)(4x + 33)",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 28x + 231",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 28x + 33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 231",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 28x - 231\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (7)(4x + 33) = 28x + 231.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v18",
+      "statement": "Maria compro 3 cuadernos a $10.4 c/u en Lima. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $30.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.4\r\n  \r\n\r\n**Explicacion:** Total = 3 x 10 = $30.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional Santa Isabel en Huancayo grafica f(x) = 6x + 4. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-v20",
+      "statement": "En Puno, un estudiante del Colegio Nacional San Carlos resuelve: 7x + 3 = 38. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando calor temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 3 de ambos lados. Luego se divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W28-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

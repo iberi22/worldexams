@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-11-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.316Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v1",
+      "statement": "La Contraloría: 1 de cada 4 pesos de salud no se ejecutó por falta de capacidad administrativa en EPS. ¿Qué relación inferencial hay?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "EPS tienen demasiados pacientes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Falta de capacidad impidió ejecutar fondos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno no giró recursos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hospitales bloquearon pagos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación causal directa: falta de capacidad administrativa → no ejecución presupuestal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v2",
+      "statement": "Un informe de la Defensoría presenta: cifra de desplazados → causas → consecuencias → recomendaciones. ¿Qué patrón predomina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cronológico",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Problema-solución con datos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Espacial",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Comparativo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Problema → análisis → soluciones: patrón problema-solución.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v3",
+      "statement": "La reforma pensional es necesaria porque el 67 % no cotiza. Sin cambios, el fondo colapsará en 2035. ¿Fortaleza del argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa datos cuantitativos verificables",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Apela a emociones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Presenta opiniones de expertos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Incluye experiencias personales",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Datos concretos (67 % de no cotizantes, fecha de colapso) sustentan la urgencia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v4",
+      "statement": "Tres artículos sobre el metro de Bogotá: El Tiempo (describe avances), Semana (critica), Alcaldía (destaca). ¿Cuál es más objetivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcaldía",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El Tiempo",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Semana",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Todos igual",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tiempo describe sin emitir juicios evidentes, acercándose más a la objetividad informativa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v5",
+      "statement": "Según el texto sobre la Amazonía colombiana, ¿qué institución reporta la pérdida de cobertura de humedales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IDEAM",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "SINCHI",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "MinAmbiente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "FAO",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El SINCHI es la institución especializada en la Amazonía colombiana que reporta estos datos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v6",
+      "statement": "¿Cuántas áreas protegidas nacionales tiene Colombia continental?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "59",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "72",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "88",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia cuenta con 59 áreas protegidas nacionales que cubren el 15 % del territorio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v7",
+      "statement": "Los páramos proveen el 70 % del agua dulce del país. Sin embargo, la minería amenaza su ecosistema. ¿Qué función cumple 'sin embargo'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar información",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Introducir una oposición o contraste",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Indicar consecuencia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar cronológicamente",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es un conector adversativo que contrasta la importancia del páramo con la amenaza minera.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v8",
+      "statement": "Un texto expositivo sobre Zonas Económicas Especiales: (1) Definición, (2) Antecedentes, (3) Beneficios. ¿Qué estructura tiene?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causa-efecto",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Secuencia temática enumerativa",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Comparación-contraste",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Problema-solución",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La enumeración de temas es típica de textos expositivos que desglosan un tema.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v9",
+      "statement": "Hidroituango genera el 17 % de la energía nacional. ¿Cuál es el propósito principal de este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criticar retrasos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Informar objetivamente",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Promover energía hidroeléctrica",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Narrar la construcción",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Presenta datos sin juicios de valor; propósito expositivo-informativo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-v10",
+      "statement": "¿Qué esquema organizativo es más adecuado para un texto expositivo sobre el sistema de salud?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anécdota-Opinión-Reflexión",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Definición-Datos-Resumen",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pregunta retórica-Poema-ACCIÓN",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Chiste-Diálogo-Moraleja",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición y contexto, desarrollo con datos, cierre con síntesis es la estructura expositiva clásica.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W37-simulacros-saber-11-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

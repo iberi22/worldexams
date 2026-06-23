@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-26-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.746Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v1",
+      "statement": "If I ________ more, I would have passed the exam.",
+      "context": "Identifying the structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had studied",
+          "is_correct": true,
+          "feedback": "Correct! Third conditional uses Past Perfect in the \"if\" clause."
+        },
+        {
+          "letter": "C",
+          "text": "have studied",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would study",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tercer Condicional se usa para imaginar un pasado diferente. La estructura de la condición es: If + Pasado Perfecto (had + participio).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v2",
+      "statement": "If we had left earlier, we ________ the bus.",
+      "context": "Identifying the result clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will not miss",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wouldn't miss",
+          "is_correct": false,
+          "feedback": "Incorrect. This is second conditional."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't have missed",
+          "is_correct": true,
+          "feedback": "Correct! Result clause: would + have + past participle."
+        },
+        {
+          "letter": "D",
+          "text": "didn't miss",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el Tercer Condicional, la cláusula de resultado se forma con \"would have\" seguido del participio pasado del verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v3",
+      "statement": "If she ________ so much cake, she wouldn't have felt sick.",
+      "context": "Negative third conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hadn't eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't eaten",
+          "is_correct": true,
+          "feedback": "Correct! Negative Past Perfect in the condition."
+        },
+        {
+          "letter": "C",
+          "text": "didn't eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't eaten",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para la forma negativa en la condición, usamos \"hadn't\" (had not) más el participio pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v4",
+      "statement": "**Contexto:** I didn't see you, so I didn't say hello.\n**Hypothesis:** If I ________ you, I ________ hello.",
+      "context": "Reality vs. Hypothesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "saw / would say",
+          "is_correct": false,
+          "feedback": "Incorrect. This is 2nd conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had seen / would have said",
+          "is_correct": true,
+          "feedback": "Correct! It reflects the opposite of what actually happened in the past."
+        },
+        {
+          "letter": "C",
+          "text": "see / will say",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have seen / would said",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tercer Condicional siempre implica lo contrario de lo que realmente sucedió en el pasado. Como no te vi, imagino \"si te hubiera visto...\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v5",
+      "statement": "If they had had more time, they ________ the project.",
+      "context": "Using \"could have\" instead of \"would have\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could have finished",
+          "is_correct": true,
+          "feedback": "Correct! \"Could have\" shows past ability in a hypothetical situation."
+        },
+        {
+          "letter": "B",
+          "text": "can have finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will have finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Podemos usar \"could have\" o \"might have\" en lugar de \"would have\" para matizar la consecuencia como una posibilidad o habilidad pasada que no se dio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v6",
+      "statement": "If Colombia ________ that soccer match in the last minute, the fans wouldn't have been so sad.",
+      "context": "Historical regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't lose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't lost",
+          "is_correct": true,
+          "feedback": "Correct! Past hypothesis about a game that already happened."
+        },
+        {
+          "letter": "C",
+          "text": "didn't lose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't lost",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el contexto de deportes o historia, el Tercer Condicional nos permite analizar \"qué hubiera pasado si...\" los eventos hubieran sido distintos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v7",
+      "statement": "Which sentence refers to a **past** event that cannot be changed?",
+      "context": "Distinguishing Second and Third Conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I had a car, I would drive to work.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about the present situation."
+        },
+        {
+          "letter": "B",
+          "text": "If I had had a car last year, I would have driven to work.",
+          "is_correct": true,
+          "feedback": "Correct! The use of past perfect and \"would have\" points to the past."
+        },
+        {
+          "letter": "C",
+          "text": "If I have a car, I will drive to work.",
+          "is_correct": false,
+          "feedback": "Incorrect. Future possibility."
+        },
+        {
+          "letter": "D",
+          "text": "I have a car and I drive to work.",
+          "is_correct": false,
+          "feedback": "Incorrect. Fact."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Segundo Condicional (A) habla de situaciones imaginarias hoy. El Tercer Condicional (B) habla de situaciones que ya pasaron y no se pueden cambiar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v8",
+      "statement": "\"If I had known you were in the hospital, I would have visited you.\"\nWhat is the speaker feeling?",
+      "context": "Expressing regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happiness.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Regret or sorrow.",
+          "is_correct": true,
+          "feedback": "Correct! Third conditional is often used to express regret about not knowing or not doing something."
+        },
+        {
+          "letter": "C",
+          "text": "Anger at the friend.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Confusion about the future.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pragmáticamente, el Tercer Condicional es la forma estándar de expresar remordimiento o explicar por qué no se actuó de cierta manera en el pasado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v9",
+      "statement": "What ________ you ________ if you ________ the lottery ten years ago?",
+      "context": "Questions in third conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would / do / won",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would / have done / had won",
+          "is_correct": true,
+          "feedback": "Correct! Complete structure for a past hypothetical question."
+        },
+        {
+          "letter": "C",
+          "text": "will / do / win",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would / do / have won",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preguntas en el Tercer Condicional mantienen la complejidad de los tiempos verbales: What + would + have + participio + if + sujeto + had + participio?\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"If I **had known (A)** that the party **was (B)** so far, I **would (C)** have **bringed (D)** more money for the taxi.\"",
+      "context": "Identifying errors in complex conditionals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had known",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "bringed",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The past participle of \"bring\" is \"brought\", not \"bringed\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Nuevamente, el dominio de los participios irregulares es crucial para no cometer errores en las estructuras avanzadas de los condicionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v11",
+      "statement": "Which apology sounds more formal and takes responsibility for a past mistake?",
+      "context": "Evaluating an apology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sorry I'm late. My car broke.",
+          "is_correct": false,
+          "feedback": "Incorrect. Very simple."
+        },
+        {
+          "letter": "B",
+          "text": "I sincerely apologize; if I had checked the traffic report earlier, I would have avoided the delay.",
+          "is_correct": true,
+          "feedback": "Correct! Uses Third Conditional to show reflection on the past mistake."
+        },
+        {
+          "letter": "C",
+          "text": "If you had called me, I wouldn't be late.",
+          "is_correct": false,
+          "feedback": "Incorrect. This blames the other person (not an apology)."
+        },
+        {
+          "letter": "D",
+          "text": "I will not be late next time if I can.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about the future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del Tercer Condicional en una disculpa demuestra que la persona ha analizado qué salió mal y cómo pudo haberlo evitado, lo cual es muy valorado en contextos formales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-v12",
+      "statement": "\"Elena forgot to set her alarm. She woke up late and missed her flight to San Andrés. Because of this, she couldn't attend her best friend's wedding.\"\nWhat is the best hypothetical summary?",
+      "context": "Selecting the best summary of a hypothetical story.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If Elena hadn't forgotten her alarm, she would have been able to attend the wedding.",
+          "is_correct": true,
+          "feedback": "Correct! It correctly connects the first cause with the final consequence in the past."
+        },
+        {
+          "letter": "B",
+          "text": "Elena will go to the wedding if she wakes up early tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. The wedding already happened."
+        },
+        {
+          "letter": "C",
+          "text": "If she missed the flight, she wouldn't have a wedding.",
+          "is_correct": false,
+          "feedback": "Incorrect. Logic is reversed."
+        },
+        {
+          "letter": "D",
+          "text": "She used to attend weddings when she had an alarm.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sintetizar una cadena de eventos pasados en una sola oración condicional requiere identificar la causa raíz y el resultado final, aplicando la gramática del Tercer Condicional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W26-third-conditional-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

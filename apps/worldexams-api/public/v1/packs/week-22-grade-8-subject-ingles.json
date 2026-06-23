@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v1",
+      "statement": "Juan ________ speak three languages: Spanish, English, and French.",
+      "context": "Present ability.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "can",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! \"Can\" expresses general ability in the present."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "could",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is for past ability."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "is able",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Missing \"to\"."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "may",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is for permission or possibility."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "El verbo modal \"can\" es la forma más común de expresar que alguien tiene la capacidad o habilidad de hacer algo en el presente.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v2",
+      "statement": "When I was five years old, I ________ ride a bike without help.",
+      "context": "Past ability.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v3",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
           "text": "can",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct! \"Could\" is the past form of \"can\" for general past abilities."
         },
         {
           "letter": "C",
           "text": "might",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "been able to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hablar de habilidades que teníamos en el pasado (que solíamos poseer), usamos \"could\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v3",
+      "statement": "________ I use your dictionary for a moment, please?",
+      "context": "Asking for permission.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Should",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "May",
+          "is_correct": true,
+          "feedback": "Correct! \"May\" is a polite and formal way to ask for permission."
+        },
+        {
+          "letter": "D",
+          "text": "Might",
+          "is_correct": false,
+          "feedback": "Incorrect. Too formal for this context."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque \"Can\" se usa mucho informalmente, \"May\" es la forma correcta y más educada de pedir permiso en contextos escolares o formales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v4",
+      "statement": "With enough practice, you ________ speak English fluently in a couple of years.",
+      "context": "Future ability with \"be able to\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can\" doesn't have a future form."
+        },
+        {
+          "letter": "B",
+          "text": "will be able to",
+          "is_correct": true,
+          "feedback": "Correct! We use \"will be able to\" for future abilities."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are able to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como el modal \"can\" no tiene forma de futuro, debemos usar la estructura \"will be able to\" para hablar de capacidades futuras.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v5",
+      "statement": "Take a jacket with you. It ________ get cold tonight.",
+      "context": "Possibility in the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! \"Might\" expresses a possibility in the future."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can\" is for general possibility, but for specific future events, \"might\" is better."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "\"Might\" (y también \"may\") se utilizan para indicar que algo es posible en el futuro, aunque no estemos seguros de que ocurrirá.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v6",
+      "statement": "**Assistant:** \"________ I help you find something, sir?\"",
+      "context": "Asking for help in a shop.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "May",
+          "is_correct": true,
+          "feedback": "Correct! Very common formal offer of help."
+        },
+        {
+          "letter": "C",
+          "text": "Must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Should",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el sector servicios, el uso de \"May\" o \"Can\" para ofrecer ayuda es la norma. \"May\" otorga un tono más profesional y servicial.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v7",
+      "statement": "The fire was huge, but the firefighters ________ save everyone in the building.",
+      "context": "Specific past ability (managed to).",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" is for general ability, not a specific success in one situation."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "were able to",
+          "is_correct": true,
+          "feedback": "Correct! \"Was/were able to\" is preferred for a specific success in the past."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "can",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "might",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Para hablar de un logro específico en una situación difícil del pasado (no una habilidad general), preferimos \"was/were able to\" o \"managed to\" sobre \"could\".\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v8",
+      "statement": "**Speaker A:** \"We may go to the park.\"\r\n**Speaker B:** \"We could go to the park.\"\r\n\r\nWhich speaker sounds like they are suggesting an **option** rather than just a possibility?",
+      "context": "Distinguishing possibility degrees.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "Speaker A",
+          "is_correct": false,
+          "feedback": "Incorrect. \"May\" is just about chance."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Speaker B",
+          "is_correct": true,
+          "feedback": "Correct! \"Could\" is often used to suggest options or choices."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Both mean the same.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Neither.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque ambos pueden indicar posibilidad, \"could\" tiene un uso pragmático muy común para proponer planes o alternativas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v9",
+      "statement": "I can't find my wallet. I ________ have left it at the restaurant.",
+      "context": "Modals in the perfect form (speculation).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! \"Might have + participle\" is used for past possibility/speculation."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para especular sobre cosas que posiblemente ocurrieron en el pasado, usamos la estructura: modal (might/may/could) + have + participio pasado.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"I **haven't could (A)** finish the work yet, but I **hope (B)** I **will be able (C)** to do it **tomorrow (D)**.\"",
+      "context": "Identifying errors in modal usage across tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "haven't could",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Can/could\" cannot be used in the Present Perfect. It should be \"haven't been able to\"."
+        },
+        {
+          "letter": "B",
+          "text": "hope",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will be able",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "tomorrow",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "Dado que los modales como \"can\" son \"defectivos\" (no tienen todas las formas), debemos usar \"be able to\" en tiempos compuestos como el Presente Perfecto.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v11",
+      "statement": "Which request is the most appropriate for a student asking a principal for help?",
+      "context": "Politeness in requests.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "I want you to help me.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too demanding."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "Can you help me now?",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. A bit too direct/informal."
         },
         {
           "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
+          "text": "I wonder if you might be able to help me with this issue?",
+          "is_correct": true,
+          "feedback": "Correct! Very polite and uses \"might be able to\" to soften the request."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "You must help me.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Very rude."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "En niveles intermedios, se valora la capacidad de \"suavizar\" peticiones usando modales de posibilidad, lo que demuestra cortesía y respeto por la jerarquía.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-v12",
+      "statement": "\"In the past, people could only communicate across long distances by letters. Today, we can talk to anyone instantly via the internet. In the future, we might be able to communicate using only our thoughts.\"\r\nWhat is the summary of this progression?",
+      "context": "Selecting the best conclusion about human ability.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "Human communication abilities have evolved from slow methods to instant ones, with even more radical possibilities ahead.",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct! It summarizes past (could), present (can) and future (might be able to)."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "People in the past were smarter because they could write letters.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "The internet is the only way people can talk to each other now.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "We must stop using technology to communicate.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Sintetizar la evolución de una capacidad requiere el uso correcto de los diferentes modales que corresponden a cada marco temporal (pasado, presente y futuro).",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W22-modal-verbs-possibility-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v11",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-v12",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W22-reading-environment-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

@@ -8,886 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v1",
-      "statement": "\"Carlos has a book. It is ___ book.\"",
-      "context": "In Bogotá, students learn the possessive 's.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-001-v1",
+      "statement": "Choose the correct response to 'How are you?'",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Carlos's",
+          "text": "I'm fine, thank you.",
           "is_correct": true,
-          "feedback": "Correcto. \"Carlos's book\" = el libro de Carlos."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Carlos book",
+          "text": "My name is Carlos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el apóstrofe."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Carlos'",
+          "text": "I'm from Bogota.",
           "is_correct": false,
-          "feedback": "Posible en algunos estilos, pero \"Carlos's\" es más común y claro."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "book Carlos",
+          "text": "I am 12 years old.",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden es incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El posesivo 's se usa así: nombre + 's + cosa poseída. \"Carlos's book\" = el libro de Carlos. Para nombres que terminan en s, ambas formas son aceptables.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v2",
-      "statement": "\"Your aunt's daughter is your ___.\"",
-      "context": "In Medellín, students identify family words.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sister",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tu hermana es hija de tus padres."
-        },
-        {
-          "letter": "B",
-          "text": "niece",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sobrina es hija de tu hermano."
-        },
-        {
-          "letter": "C",
-          "text": "cousin",
-          "is_correct": true,
-          "feedback": "Correcto. La hija de tu tía es tu prima."
-        },
-        {
-          "letter": "D",
-          "text": "grandmother",
-          "is_correct": false,
-          "feedback": "Incorrecto. Eso sería la abuela."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Aunt's daughter\" = cousin (prima). \"Uncle's son\" = cousin (primo). Los hijos de los tíos son los primos.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v3",
-      "statement": "\"The dog's name\" means ___.",
-      "context": "In Cali, students talk about pets.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El perro se llama",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es el significado exacto."
-        },
-        {
-          "letter": "B",
-          "text": "El nombre del perro",
-          "is_correct": true,
-          "feedback": "Correcto. \"The dog's name\" = el nombre del perro."
-        },
-        {
-          "letter": "C",
-          "text": "El perro del nombre",
-          "is_correct": false,
-          "feedback": "Incorrecto. El orden está invertido."
-        },
-        {
-          "letter": "D",
-          "text": "Los perros se llaman",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Dog\" es singular."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"X's Y\" = \"Y de X\". The dog's name = el nombre del perro. María's house = la casa de María.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v4",
-      "statement": "\"My mother's sister is my ___. And her husband is my ___.\"",
-      "context": "In Barranquilla, students practice family relationships.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "aunt / uncle",
-          "is_correct": true,
-          "feedback": "Correcto. La hermana de mi mamá es mi tía, su esposo es mi tío."
-        },
-        {
-          "letter": "B",
-          "text": "cousin / uncle",
-          "is_correct": false,
-          "feedback": "Incorrecto. La hermana de mi mamá no es mi prima."
-        },
-        {
-          "letter": "C",
-          "text": "aunt / cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. El esposo de mi tía es mi tío, no mi primo."
-        },
-        {
-          "letter": "D",
-          "text": "grandmother / grandfather",
-          "is_correct": false,
-          "feedback": "Incorrecto. La hermana no es mi abuela."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Mother's sister = aunt, aunt's husband = uncle. In Colombia it's common to call them \"tía\" and \"tío\" even if they're not blood related.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v5",
-      "statement": "\"My parents' house is big.\" This means ___.",
-      "context": "In Bucaramanga, students use possessive with plural family.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La casa de mis padres es grande",
-          "is_correct": true,
-          "feedback": "Correcto. \"Parents'\" = de los padres (plural)."
-        },
-        {
-          "letter": "B",
-          "text": "La casa de mi papá es grande",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Parents\" es plural."
-        },
-        {
-          "letter": "C",
-          "text": "La casa de mis papás son grandes",
-          "is_correct": false,
-          "feedback": "Incorrecto. La casa (sujeto) es singular."
-        },
-        {
-          "letter": "D",
-          "text": "Mis padres son grandes",
-          "is_correct": false,
-          "feedback": "Incorrecto. No describe la casa."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Con plurales que terminan en s, el posesivo se forma agregando solo apóstrofe: parents' house. Con singular: parent's house.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v6",
-      "statement": "\"My ___ name is Laura. She is 8 years old.\"",
-      "context": "In Cartagena, students write about siblings.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-002-v1",
+      "statement": "What is a formal way to say goodbye?",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "sister's",
-          "is_correct": true,
-          "feedback": "Correcto. \"My sister's name\" = el nombre de mi hermana."
+          "text": "Good evening.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "sister",
+          "text": "Nice to meet you.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sin 's no indica posesión."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "sisters'",
+          "text": "What's up?",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Sisters'\" implicaría que tengo varias hermanas."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "sisters",
+          "text": "Have a nice day.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-003-v1",
+      "statement": "Complete: 'Hi, ________ name is Maria.'",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "your",
           "is_correct": false,
-          "feedback": "Incorrecto. Plural sin posesivo."
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "me",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "my",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-004-v1",
+      "statement": "When you meet someone for the first time, you say:",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nice to meet you.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Good night.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "See you later.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Welcome.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Singular: sister's. Plural: sisters'. \"My sister's name\" (una hermana). \"My sisters' names\" (varias hermanas).\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v7",
-      "statement": "\"Those are my cousins. ___ names are Tomás and Sofía.\"",
-      "context": "In Pereira, students use possessive adjectives correctly.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-005-v1",
+      "statement": "What time of day do you say 'Good morning'?",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "His",
+          "text": "In the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrecto. Hay dos primos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Her",
+          "text": "At 8:00 PM.",
           "is_correct": false,
-          "feedback": "Incorrecto. Hay dos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Their",
-          "is_correct": true,
-          "feedback": "Correcto. \"Their names\" = sus nombres (de ellos)."
+          "text": "At midnight.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Its",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Its\" es singular."
+          "text": "At 8:00 AM.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "\"My cousins\" = they → their. \"Their names\" (sus nombres). Their house (su casa). Their school (su colegio).\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v8",
-      "statement": "\"___ book is this? Is it yours?\"",
-      "context": "In Manizales, students ask about possession.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-006-v1",
+      "statement": "Response to 'Where are you from?'",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Who\" pregunta por persona."
+          "text": "I'm from Medellin.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
+          "text": "I'm 11.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "I'm a student.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "I'm happy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-007-v1",
+      "statement": "Which is a formal greeting?",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hey!",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "What's going on?",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Good afternoon, sir.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Hi there.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-008-v1",
+      "statement": "Complete: '________ are you?' - 'I am ten years old.'",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
           "text": "What",
           "is_correct": false,
-          "feedback": "Incorrecto. \"What\" pregunta por cosa."
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "How",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Whose",
+          "text": "How old",
           "is_correct": true,
-          "feedback": "Correcto. \"Whose\" pregunta por el dueño."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Which",
+          "text": "Who",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Which\" pregunta por opciones."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"Whose\" = ¿de quién? \"Whose book is this?\" = ¿De quién es este libro? Se responde: \"It's María's\" o \"It's mine.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v9",
-      "statement": "\"Which sentence is CORRECT?\"",
-      "context": "In Cúcuta, students correct errors in sentences.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "My brother name is Juan.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My brother's name.\""
-        },
-        {
-          "letter": "B",
-          "text": "The teachers car is blue.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"The teacher's car.\""
-        },
-        {
-          "letter": "C",
-          "text": "My grandmother's house is beautiful.",
-          "is_correct": true,
-          "feedback": "Correcto. Posesivo bien usado."
-        },
-        {
-          "letter": "D",
-          "text": "The students books are new.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"The students' books.\""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El apóstrofe es esencial para indicar posesión. Sin él, las oraciones cambian de significado o son incorrectas.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v10",
-      "statement": "\"Luis is Ana's father. Ana is Carlos's mother. Carlos is Luis's ___.\"",
-      "context": "In Ibagué, students interpret a family tree.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "son",
-          "is_correct": false,
-          "feedback": "Incorrecto. Luis es el padre de Ana, y Ana es la madre de Carlos. Luis es el abuelo."
-        },
-        {
-          "letter": "B",
-          "text": "father",
-          "is_correct": false,
-          "feedback": "Incorrecto. Luis es el abuelo de Carlos, no el padre."
-        },
-        {
-          "letter": "C",
-          "text": "grandson",
-          "is_correct": true,
-          "feedback": "Correcto. Luis es el abuelo de Carlos, entonces Carlos es el nieto de Luis."
-        },
-        {
-          "letter": "D",
-          "text": "nephew",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es sobrino."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Para resolver relaciones familiares: sigue la cadena. Luis → Ana (hija). Ana → Carlos (hijo). Por lo tanto Luis → Carlos (abuelo → nieto).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v1",
-      "statement": "What is the structure of present perfect?",
-      "context": "At Colegio INEM de Bogotá, students review present perfect.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + past tense verb",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have/has + past participle",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + verb-ing",
-          "is_correct": false,
-          "feedback": "Presente continuo."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Futuro simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v2",
-      "statement": "What is the past participle of \"go\"?",
-      "context": "In Colegio Tolimense de Barranquilla, students review verb forms.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "No existe."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Gerundio."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v3",
-      "statement": "Complete: \"I have lived in Neiva since 2020.\"",
-      "context": "At Colegio Tolimense de Pasto, students practice for/since.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "For + duración."
-        },
-        {
-          "letter": "B",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "Correcto. Since + punto específico."
-        },
-        {
-          "letter": "C",
-          "text": "ago",
-          "is_correct": false,
-          "feedback": "Ago + pasado simple."
-        },
-        {
-          "letter": "D",
-          "text": "from",
-          "is_correct": false,
-          "feedback": "No aplica."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v4",
-      "statement": "What does \"I have just eaten\" mean?",
-      "context": "In I.E. La Salle de Ibagué, students practice comprehension.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I ate a long time ago.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "I ate a very short time ago.",
-          "is_correct": true,
-          "feedback": "Correcto. Just = acabar de."
-        },
-        {
-          "letter": "C",
-          "text": "I will eat soon.",
-          "is_correct": false,
-          "feedback": "Futuro."
-        },
-        {
-          "letter": "D",
-          "text": "I never eat.",
-          "is_correct": false,
-          "feedback": "Negación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v5",
-      "statement": "Correct: \"She has went to the museum.\"",
-      "context": "Students at Colegio Fontán de Bucaramanga correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has goed to the park.",
-          "is_correct": false,
-          "feedback": "\"Goed\" no existe."
-        },
-        {
-          "letter": "B",
-          "text": "She has gone to the museum.",
-          "is_correct": true,
-          "feedback": "Correcto. Gone es el past participle de go."
-        },
-        {
-          "letter": "C",
-          "text": "She has go to the museum.",
-          "is_correct": false,
-          "feedback": "\"Go\" no es past participle."
-        },
-        {
-          "letter": "D",
-          "text": "She went to the museum.",
-          "is_correct": false,
-          "feedback": "Pasado simple, no PP."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v6",
-      "statement": "Choose: \"I have already visited Tierradentro.\"",
-      "context": "In Colegio Simón Bolívar de Bogotá, students use already.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have already visit",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "B",
-          "text": "have already visited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "already have visited",
-          "is_correct": false,
-          "feedback": "Orden incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "visited already",
-          "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v7",
-      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
-      "context": "At Colegio Cambridge de Bucaramanga, analyze been vs gone.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "\"Been to\" = still there.",
-          "is_correct": false,
-          "feedback": "Al revés."
-        },
-        {
-          "letter": "D",
-          "text": "\"Gone to\" = visited many times.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v8",
-      "statement": "Question: \"you / ever / try / sancocho?\"",
-      "context": "In Colegio INEM de Barranquilla, students form questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Did you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past simple."
-        },
-        {
-          "letter": "B",
-          "text": "Have you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "C",
-          "text": "Have you ever tried bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "You have ever tried bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta inversión."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v9",
-      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
-      "context": "At Colegio Tolimense de Pereira, evaluate tense.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "has won",
-          "is_correct": false,
-          "feedback": "Tiempo específico."
-        },
-        {
-          "letter": "B",
-          "text": "won",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "has been winning",
-          "is_correct": false,
-          "feedback": "PP continuous."
-        },
-        {
-          "letter": "D",
-          "text": "wins",
-          "is_correct": false,
-          "feedback": "Present simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v10",
-      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
-      "context": "In Colegio Champagnat de Villavicencio, students write a paragraph.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-009-v1",
+      "statement": "What is the response to 'Nice to meet you'?",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "I visit the museum. I go there.",
-          "is_correct": false,
-          "feedback": "Present simple, not PP."
+          "text": "Nice to meet you, too.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "I have visited the museum. I have been there twice.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "I am fine.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "I have visit the museum.",
+          "text": "Hello.",
           "is_correct": false,
-          "feedback": "Visit -> visited."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "I have visited last week.",
+          "text": "You're welcome.",
           "is_correct": false,
-          "feedback": "\"Last week\" con PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v11",
-      "statement": "Which auxiliary for \"she\" in PP?",
-      "context": "In Colegio Champagnat de Bogotá, review have/has.",
+      "id": "CO-ING-6-2026-W08-review-greetings-tobe-010-v1",
+      "statement": "A polite way to ask for a name is:",
+      "context": "Scenario about review-greetings-tobe in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
+          "text": "Give me your name.",
           "is_correct": false,
-          "feedback": "Have para I/you/we/they."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "What is your name?",
           "is_correct": true,
-          "feedback": "Correcto. He/she/it -> has."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "do",
+          "text": "Who are you?",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "Name?",
           "is_correct": false,
-          "feedback": "Past simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "3",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Review: Greetings and To Be at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W08-review-greetings-tobe-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

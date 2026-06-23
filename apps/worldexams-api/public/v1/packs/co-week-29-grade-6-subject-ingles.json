@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-29-grade-6-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.721Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-001-v1",
+      "statement": "Juan ________ his homework every afternoon.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-002-v1",
+      "statement": "I ________ to school at 7:00 AM.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-003-v1",
+      "statement": "They ________ like to eat vegetables.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "no",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "don't",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-004-v1",
+      "statement": "________ your sister play soccer?",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Does",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-005-v1",
+      "statement": "I ________ my teeth after breakfast.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brushing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "brushes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "brushed",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-006-v1",
+      "statement": "What time ________ you wake up?",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-007-v1",
+      "statement": "She ________ TV in the evening.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "watches",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-008-v1",
+      "statement": "We ________ dinner at 7:30 PM.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-009-v1",
+      "statement": "My father ________ to work by bus.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "gone",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-010-v1",
+      "statement": "They ________ play video games on weekdays.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "usually",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "never",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    }
+  ]
+}

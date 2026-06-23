@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-23-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v1",
+      "statement": "What is this toy: ⚽ ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ball",
+          "is_correct": true,
+          "feedback": "Correct! That is a ball."
+        },
+        {
+          "letter": "B",
+          "text": "Doll",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Car",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Bike",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un balón o pelota se dice \"ball\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v2",
+      "statement": "What is **\"Muñeca\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ball",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Doll",
+          "is_correct": true,
+          "feedback": "Correct! Doll is muñeca."
+        },
+        {
+          "letter": "C",
+          "text": "Kite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Teddy bear",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una muñeca se dice \"doll\" en inglés.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v3",
+      "statement": "What toy has **four wheels** (cuatro ruedas)? 🏎️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Doll",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Car",
+          "is_correct": true,
+          "feedback": "Correct! Toy cars have wheels."
+        },
+        {
+          "letter": "D",
+          "text": "Ball",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un carro de juguete se dice \"car\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v4",
+      "statement": "What is **\"Cometa\"** in English? 🪁",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kite",
+          "is_correct": true,
+          "feedback": "Correct! Kite is cometa."
+        },
+        {
+          "letter": "B",
+          "text": "Bike",
+          "is_correct": false,
+          "feedback": "Incorrect. Bike is bicicleta."
+        },
+        {
+          "letter": "C",
+          "text": "Plane",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Boat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cometa se dice \"kite\". Se vuela cuando hace viento.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v5",
+      "statement": "What is **\"Bicicleta\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Car",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Bike",
+          "is_correct": true,
+          "feedback": "Correct! Bike is short for bicycle."
+        },
+        {
+          "letter": "C",
+          "text": "Bus",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Train",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La bicicleta se dice \"bicycle\" o simplemente \"bike\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v6",
+      "statement": "What is a **\"Teddy bear\"**? 🧸",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un perro de juguete",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Un oso de peluche",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Una pelota blanda",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Un tren de madera",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un oso de peluche se llama \"teddy bear\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v7",
+      "statement": "You use them to **build** houses or towers: 🧱",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dolls",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Blocks",
+          "is_correct": true,
+          "feedback": "Correct! Blocks are for building."
+        },
+        {
+          "letter": "C",
+          "text": "Balls",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Kites",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los bloques de construcción se llaman \"blocks\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v8",
+      "statement": "What is **\"Videojuego\"** in English? 🎮",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Board game",
+          "is_correct": false,
+          "feedback": "Incorrect. Board game is juego de mesa."
+        },
+        {
+          "letter": "B",
+          "text": "Video game",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Toy game",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Screen game",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los videojuegos se dicen \"video games\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v9",
+      "statement": "Complete: **\"I play with my _______ in the park.\"** (COMETA)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bike",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "kite",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "doll",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "blocks",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volamos la cometa (kite) en el parque.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W23-toys-001-MASTERY-v10",
+      "statement": "Which toy is **soft** (suave)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toy car",
+          "is_correct": false,
+          "feedback": "Incorrect. It is hard."
+        },
+        {
+          "letter": "B",
+          "text": "Teddy bear",
+          "is_correct": true,
+          "feedback": "Correct! Teddy bears are soft."
+        },
+        {
+          "letter": "C",
+          "text": "Blocks",
+          "is_correct": false,
+          "feedback": "Incorrect. They are hard."
+        },
+        {
+          "letter": "D",
+          "text": "Bike",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los peluches (como el teddy bear) son suaves (soft).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

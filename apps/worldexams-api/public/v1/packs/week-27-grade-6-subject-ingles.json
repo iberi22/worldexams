@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At Colegio Fontán de Bogotá, teacher introduces passive.",
+      "id": "CO-ING-6-2026-W27-sports-001-v1",
+      "statement": "This is a review question about sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "subject + verb + object",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Es activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "subject + have + past participle",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Es present perfect."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Es futuro simple."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Liceo de la Sabana de Cúcuta, passive use is explained.",
+      "id": "CO-ING-6-2026-W27-sports-002-v1",
+      "statement": "Select the correct A2 level use for sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "To emphasize the subject.",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "When the action is more important than who did it.",
-          "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
+          "text": "Structure 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Only in questions.",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Only in present tense.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio Simón Bolívar de Bogotá, students practice present passive.",
+      "id": "CO-ING-6-2026-W27-sports-003-v1",
+      "statement": "Identify the appropriate vocabulary for sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "is visiting",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "was visited",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "is visit",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In I.E. María Inmaculada de Ibagué, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Fontán de Santa Marta convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Colegio INEM de Manizales, passive questions are practiced.",
+      "id": "CO-ING-6-2026-W27-sports-004-v1",
+      "statement": "Complete the sentence about sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "did invite",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "was invited",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "is invite",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "Past participle needed."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "invited",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Activo."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W27-sports-005-v1",
+      "statement": "What is the best way to express sports?",
+      "context": "Scenario about sports in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio Simón Bolívar de Manizales, students analyze passive.",
+      "id": "CO-ING-6-2026-W27-sports-006-v1",
+      "statement": "Find the error in this sports sentence.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The agent is important.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The agent cannot be known.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "It is always required.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Monserrate:",
-      "context": "In Colegio Cambridge de Santa Marta, evaluate passive usage.",
+      "id": "CO-ING-6-2026-W27-sports-007-v1",
+      "statement": "Match the term with the definition of sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Workers built the museum in colonial times.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum is built by workers.",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "The colonial period built the museum.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Ilógico."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W27-sports-008-v1",
+      "statement": "Choose the synonym for a word related to sports.",
+      "context": "Scenario about sports in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Colegio San José de Cúcuta, find passive errors.",
+      "id": "CO-ING-6-2026-W27-sports-009-v1",
+      "statement": "Which of these belongs to sports?",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
-          "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
-          "is_correct": false,
-          "feedback": "Correcta."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about Tierradentro:",
-      "context": "At I.E. María Inmaculada de Cúcuta, create passive sentence.",
+      "id": "CO-ING-6-2026-W27-sports-010-v1",
+      "statement": "Predict the next word in the sports context.",
+      "context": "Scenario about sports in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Tourists visit the museum every year.",
-          "is_correct": false,
-          "feedback": "Activa."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
+          "text": "Impossible",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum was visit by tourists.",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Past participle incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tourists are visited the museum.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W27-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v1",
-      "statement": "\"There ___ a book on the desk.\"",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": true,
-          "feedback": "Correcto. A book = singular."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto. Are para plural."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There is = hay (singular). \"There is a book on the desk.\"\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v2",
-      "statement": "\"There ___ ten students in the classroom.\"",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. Ten students = plural."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. Is para singular."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There are = hay (plural). \"There are ten students.\"\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v3",
-      "statement": "\"___ there a park near your house?\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Is",
-          "is_correct": true,
-          "feedback": "Correcto. Is there + singular."
-        },
-        {
-          "letter": "B",
-          "text": "Are",
-          "is_correct": false,
-          "feedback": "Incorrecto. Are there + plural."
-        },
-        {
-          "letter": "C",
-          "text": "Do",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Questions: Is there + singular? Are there + plural?\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v4",
-      "statement": "\"___ there any trees in the garden?\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Are",
-          "is_correct": true,
-          "feedback": "Correcto. Trees = plural."
-        },
-        {
-          "letter": "B",
-          "text": "Is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "Have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"Are there any trees?\" = ¿Hay árboles?\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v5",
-      "statement": "\"There isn't ___ milk in the fridge.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "any",
-          "is_correct": true,
-          "feedback": "Correcto. Any en negativas."
-        },
-        {
-          "letter": "B",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Incorrecto. Some en afirmativas."
-        },
-        {
-          "letter": "C",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. Milk incontable."
-        },
-        {
-          "letter": "D",
-          "text": "many",
-          "is_correct": false,
-          "feedback": "Incorrecto. Many para contables."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"There isn't any milk\" = No hay leche. \"There is some milk\" = Hay leche.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v6",
-      "statement": "\"How ___ bedrooms are there in your house?\"",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "many",
-          "is_correct": true,
-          "feedback": "Correcto. Many para contables."
-        },
-        {
-          "letter": "B",
-          "text": "much",
-          "is_correct": false,
-          "feedback": "Incorrecto. Much para incontables."
-        },
-        {
-          "letter": "C",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "any",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"How many bedrooms are there?\" = ¿Cuántos cuartos hay?\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v7",
-      "statement": "\"In my school, there ___ a big library.\"",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": true,
-          "feedback": "Correcto. A library = singular."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"There is a big library.\" = Hay una biblioteca grande.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v8",
-      "statement": "\"There ___ two cats and a dog in my house.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. Two cats = plural."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Use \"are\" when the first item after there is plural.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v9",
-      "statement": "Which sentence is CORRECT?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "There is two books.",
-          "is_correct": false,
-          "feedback": "Incorrecto. There are."
-        },
-        {
-          "letter": "B",
-          "text": "There are two books.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "There have two books.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "There has two books.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"There are\" + plural. \"There is\" + singular/uncountable. Never use \"have\" with there.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-v10",
-      "statement": "\"There is a TV in the living room. There are chairs in the kitchen.\" What is in the living room?",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A TV",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Chairs",
-          "is_correct": false,
-          "feedback": "Incorrecto. Chairs = kitchen."
-        },
-        {
-          "letter": "C",
-          "text": "A book",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "A table",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: identify items in each room. Living room → TV. Kitchen → chairs.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W27-there-is-are-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.025Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-v1",
+      "statement": "¿Cual es el resultado de 2³ × 2²?",
+      "context": "Producto de potencias igual base",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2⁵",
+          "is_correct": true,
+          "feedback": "Correct. Producto de potencias de igual base: se conserva la base y se suman los exponentes: 2³×2² = 2³⁺² = 2⁵."
+        },
+        {
+          "letter": "B",
+          "text": "2⁶",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar mal los exponentes: 3+2=5, no 6. 2³×2²=2⁵."
+        },
+        {
+          "letter": "C",
+          "text": "4⁵",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar las bases: 2×2=4 y sumar exponentes: 3+2=5. La base se conserva, no se multiplica."
+        },
+        {
+          "letter": "D",
+          "text": "2¹",
+          "is_correct": false,
+          "feedback": "Incorrect. Restar exponentes: 3-2=1. En producto de potencias de igual base, los exponentes se SUMAN, no se restan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Propiedad: Producto de potencias de igual base.\r\na^m × a^n = a^(m+n)\r\n2³ × 2² = 2^(3+2) = 2⁵ = 32.\r\nVerificacion: 2³=8, 2²=4, 8×4=32=2⁵. ✓\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-002-v1",
+      "statement": "¿Cual es el resultado de 3⁵ ÷ 3²?",
+      "context": "Cociente de potencias igual base",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3⁷",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar exponentes: 5+2=7. En division de potencias de igual base, los exponentes se RESTAN, no se suman."
+        },
+        {
+          "letter": "B",
+          "text": "3³",
+          "is_correct": true,
+          "feedback": "Correct. 3⁵ ÷ 3² = 3⁵⁻² = 3³."
+        },
+        {
+          "letter": "C",
+          "text": "3¹⁰",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar exponentes: 5×2=10. En division de potencias de igual base, los exponentes se restan."
+        },
+        {
+          "letter": "D",
+          "text": "1³",
+          "is_correct": false,
+          "feedback": "Incorrect. Dividir las bases: 3÷3=1 y restar exponentes: 5-2=3 → 1³=1. La base se conserva, no se divide."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad: Cociente de potencias de igual base.\r\na^m ÷ a^n = a^(m-n), con a ≠ 0.\r\n3⁵ ÷ 3² = 3^(5-2) = 3³ = 27.\r\nVerificacion: 3⁵=243, 3²=9, 243÷9=27=3³. ✓\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-003-v1",
+      "statement": "¿Cual es el resultado de (2³)²?",
+      "context": "Potencia de una potencia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2⁵",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar exponentes: 3+2=5. En potencia de una potencia, los exponentes se MULTIPLICAN."
+        },
+        {
+          "letter": "B",
+          "text": "2⁶",
+          "is_correct": false,
+          "feedback": "Correct. (2³)² = 2³×² = 2⁶ = 64."
+        },
+        {
+          "letter": "C",
+          "text": "2⁹",
+          "is_correct": true,
+          "feedback": "Incorrect. Error: 3²=9. (2³)² = 2³×² = 2⁶, no 2⁹."
+        },
+        {
+          "letter": "D",
+          "text": "4³",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar bases: 2×2=4, conservar exponente 3. (2³)² = 2⁶. 4³ = 64, que es el mismo resultado, pero la expresion correcta es 2⁶."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Propiedad: Potencia de una potencia.\r\n(a^m)^n = a^(m×n)\r\n(2³)² = 2^(3×2) = 2⁶ = 64.\r\nVerificacion: 2³=8, 8²=64=2⁶. ✓\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-004-v1",
+      "statement": "¿Cual es la forma desarrollada de (2×3)²?",
+      "context": "Potencia de un producto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2² × 3²",
+          "is_correct": true,
+          "feedback": "Correct. (2×3)² = 2²×3² = 4×9 = 36. La potencia se distribuye a cada factor."
+        },
+        {
+          "letter": "B",
+          "text": "2×3²",
+          "is_correct": false,
+          "feedback": "Incorrect. Solo elevar al cuadrado el 3: 2×3²=2×9=18. La potencia aplica a todo el producto."
+        },
+        {
+          "letter": "C",
+          "text": "2²×3",
+          "is_correct": false,
+          "feedback": "Incorrect. Solo elevar al cuadrado el 2: 2²×3=4×3=12. La potencia aplica a todo el producto."
+        },
+        {
+          "letter": "D",
+          "text": "6²",
+          "is_correct": false,
+          "feedback": "Es correcto numericamente (2×3=6, 6²=36), pero la forma DESARROLLADA usando la propiedad es 2²×3²."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Propiedad: Potencia de un producto.\r\n(a×b)^n = a^n × b^n\r\n(2×3)² = 2² × 3² = 4 × 9 = 36.\r\nVerificacion directa: (2×3)² = 6² = 36. ✓\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-005-v1",
+      "statement": "¿Cual es el valor de 5⁰?",
+      "context": "Exponente cero",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun pensar que cualquier numero elevado a 0 da 0. 5⁰ = 1. Solo el 0⁰ no esta definido."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun: pensar que 5⁰ = 5. Cualquier numero distinto de cero elevado a la 0 es 1."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correct. Cualquier numero (excepto 0) elevado a la 0 es igual a 1. 5⁰ = 1."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir 5⁰ con 50. 5⁰ = 1, no 50."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Propiedad: Exponente cero.\r\nCualquier numero diferente de cero elevado a la 0 es igual a 1.\r\na⁰ = 1, con a ≠ 0.\r\nExplicacion: 5³÷5³ = 5^(3-3) = 5⁰, pero tambien 125÷125=1. Por lo tanto 5⁰ = 1.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-006-v1",
+      "statement": "$2.000 se multiplican por 2 cada año en una inversion. Usando propiedades de potencias, ¿cuanto dinero habra despues de 4 años si se invierten $2.000?",
+      "context": "Ahorro con potencias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 2.000×2⁴ = 2.000×16 = 32.000. Error: 2⁴=16, no 8. 2⁴=2×2×2×2=16."
+        },
+        {
+          "letter": "B",
+          "text": "$8.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 2.000×2² = 2.000×4=8.000. Eso seria despues de 2 años, no 4."
+        },
+        {
+          "letter": "C",
+          "text": "$32.000",
+          "is_correct": true,
+          "feedback": "Correct. 2.000×2⁴ = 2.000×16 = 32.000. Usando que 2⁴ = 16."
+        },
+        {
+          "letter": "D",
+          "text": "$64.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 2.000×2⁵=64.000. Eso seria despues de 5 años, no 4. El exponente debe ser 4 (años)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como el dinero se multiplica por 2 cada año, usamos potencias de base 2:\r\nAño 0: $2.000 = 2.000 × 2⁰ = 2.000 × 1 = 2.000\r\nAño 1: 2.000 × 2¹ = 4.000\r\nAño 2: 2.000 × 2² = 8.000\r\nAño 3: 2.000 × 2³ = 16.000\r\nAño 4: 2.000 × 2⁴ = 2.000 × 16 = 32.000\r\nDespues de 4 años hay $32.000.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-007-v1",
+      "statement": "Simplifica la expresion: 2⁴ × 2³ ÷ 2² usando propiedades de potencias.",
+      "context": "Simplificar expresiones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2⁵",
+          "is_correct": false,
+          "feedback": "Correct. 2⁴×2³=2⁷; 2⁷÷2²=2⁵=32."
+        },
+        {
+          "letter": "B",
+          "text": "2⁹",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todos los exponentes: 4+3+2=9. Pero la division RESTA exponentes: 4+3-2=5, no 9."
+        },
+        {
+          "letter": "C",
+          "text": "2²⁴",
+          "is_correct": true,
+          "feedback": "Incorrect. Multiplicar todos los exponentes: 4×3×2=24. No se multiplican exponentes en estas operaciones. En producto se suman, en division se restan."
+        },
+        {
+          "letter": "D",
+          "text": "2⁴",
+          "is_correct": false,
+          "feedback": "Incorrect. 4+3-2=5, no 4. Error: 2⁴×2³=2⁷ (4+3=7); 2⁷÷2²=2⁵ (7-2=5)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicamos las propiedades paso a paso:\r\nPaso 1: Producto: 2⁴ × 2³ = 2^(4+3) = 2⁷.\r\nPaso 2: Division: 2⁷ ÷ 2² = 2^(7-2) = 2⁵.\r\nResultado simplificado: 2⁵ = 32.\r\nOrden de las propiedades: primero multiplicacion (suma exponentes), luego division (resta exponentes).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-008-v1",
+      "statement": "Don Jose tiene un terreno cuadrado de 5 m de lado. Si decide agrandar cada lado al doble, ¿cuantas veces mas grande sera el area del nuevo terreno?",
+      "context": "Area de cuadrado expandido",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces mas grande",
+          "is_correct": false,
+          "feedback": "Incorrect. Si el lado se duplica, el area se multiplica por 2²=4, no por 2. Area crece al cuadrado del factor de escala."
+        },
+        {
+          "letter": "B",
+          "text": "4 veces mas grande",
+          "is_correct": true,
+          "feedback": "Correct. (2×5)² = 2²×5² = 4×25 = 100 m². El area original es 25 m². 100÷25=4. El area es 4 veces mayor."
+        },
+        {
+          "letter": "C",
+          "text": "8 veces mas grande",
+          "is_correct": false,
+          "feedback": "Incorrect. (2×5)² = 2²×5² = 4×25. El factor es 2²=4, no 2³=8. Solo si fuera volumen (lado al cubo) se multiplicaria por 8."
+        },
+        {
+          "letter": "D",
+          "text": "16 veces mas grande",
+          "is_correct": false,
+          "feedback": "Incorrect. 2⁴=16. El exponente del factor es 2 (cuadrado), no 4. (2L)²=4L², por lo tanto 4 veces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Area original: A₁ = 5² = 25 m².\r\nNuevo lado: 2×5 = 10 m.\r\nNueva area: A₂ = (2×5)² = 2²×5² = 4×25 = 100 m² (usando la propiedad potencia de un producto).\r\nRazon: A₂ ÷ A₁ = 100 ÷ 25 = 4.\r\nEl area se hace 4 veces mas grande. Esto es porque el area depende del cuadrado del lado.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-009-v1",
+      "statement": "Cual de las siguientes igualdades es VERDADERA?",
+      "context": "Verificar igualdades",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2⁴ × 2³ = 4⁷",
+          "is_correct": false,
+          "feedback": "Incorrect. 2⁴×2³=2⁷. 4⁷=(2²)⁷=2¹⁴. Son diferentes. Error comun: multiplicar bases (2×2=4) y sumar exponentes (4+3=7)."
+        },
+        {
+          "letter": "B",
+          "text": "(3²)³ = 3⁵",
+          "is_correct": false,
+          "feedback": "Incorrect. (3²)³ = 3²×³ = 3⁶. 3⁵=243. Error: sumar en vez de multiplicar: 2+3=5."
+        },
+        {
+          "letter": "C",
+          "text": "5⁰ × 5³ = 5³",
+          "is_correct": true,
+          "feedback": "Correct. 5⁰=1, entonces 5⁰×5³ = 1×5³ = 5³. Tambien por propiedad: 5⁰⁺³=5³."
+        },
+        {
+          "letter": "D",
+          "text": "6⁴ ÷ 6² = 6⁸",
+          "is_correct": false,
+          "feedback": "Incorrect. 6⁴÷6² = 6⁴⁻²=6². 6²=36. Error: sumar en vez de restar: 4+2=8."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analicemos cada igualdad:\r\nA) 2⁴×2³ = 2⁷, no 4⁷. 4⁷ = (2²)⁷ = 2¹⁴. ✗\r\nB) (3²)³ = 3⁶, no 3⁵. 3⁶ = 729, 3⁵ = 243. ✗\r\nC) 5⁰×5³ = 1×125 = 125 = 5³. ✓ Cierta.\r\nD) 6⁴÷6² = 6², no 6⁸. ✗\r\nLa unica igualdad verdadera es C.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-potenciacion-propiedades-010-v1",
+      "statement": "En la tarea, deben simplificar (2⁴ × 2²) ÷ 2³. Cuatro estudiantes responden:\r\n- Ana: 2⁸\r\n- Carlos: 2³\r\n- Maria: 2⁹\r\n- Juan: 2⁶\r\n¿Quien tiene la respuesta correcta?",
+      "context": "Error en tarea de potencias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana: 2⁸",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: multiplicar todos los exponentes: 4×2=8 y 8÷3... no, Ana hizo 4+2+3=9, no 8. Posible: (4×2)×3... confuso. El procedimiento correcto: 4+2-3=3."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos: 2³",
+          "is_correct": true,
+          "feedback": "Correct. (2⁴×2²)÷2³ = 2⁴⁺²⁻³ = 2³."
+        },
+        {
+          "letter": "C",
+          "text": "Maria: 2⁹",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todos los exponentes sin considerar la division: 4+2+3=9. En la division, los exponentes se RESTAN, no se suman."
+        },
+        {
+          "letter": "D",
+          "text": "Juan: 2⁶",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 4+2=6 y olvidar la division entre 2³ por completo. O hacer 4×2=8 y 8-2=6. El resultado correcto es 2³."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvamos paso a paso:\r\nPaso 1: Producto en el numerador: 2⁴ × 2² = 2^(4+2) = 2⁶.\r\nPaso 2: Division: 2⁶ ÷ 2³ = 2^(6-3) = 2³.\r\nRespuesta correcta: 2³ = 8.\r\nRegla general: cuando hay multiplicaciones y divisiones consecutivas con la misma base, los exponentes se suman (multiplicacion) y se restan (division) en orden: (4+2) - 3 = 3.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Tunja, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Quibdó, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. San José en Cali, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 9 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 9 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

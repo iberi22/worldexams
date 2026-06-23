@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-26-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v1",
+      "statement": "When the **sun** is out, the weather is: ☀️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunny",
+          "is_correct": true,
+          "feedback": "Correct! Sun -> Sunny."
+        },
+        {
+          "letter": "B",
+          "text": "Rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Snowy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Cloudy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Soleado se dice \"sunny\". Viene de la palabra \"sun\" (sol).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v2",
+      "statement": "When **water** falls from the sky, it is: 🌧️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunny",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Rainy",
+          "is_correct": true,
+          "feedback": "Correct! Rain -> Rainy."
+        },
+        {
+          "letter": "C",
+          "text": "Windy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hot",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lluvioso se dice \"rainy\". Viene de \"rain\" (lluvia).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v3",
+      "statement": "When there are many **clouds** in the sky: ☁️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunny",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Cloudy",
+          "is_correct": true,
+          "feedback": "Correct! Cloud -> Cloudy."
+        },
+        {
+          "letter": "D",
+          "text": "Clear",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Nublado se dice \"cloudy\". Viene de \"cloud\" (nube).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v4",
+      "statement": "What is **\"Frío\"** in English? ❄️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hot",
+          "is_correct": false,
+          "feedback": "Incorrect. Hot is calor."
+        },
+        {
+          "letter": "B",
+          "text": "Cold",
+          "is_correct": true,
+          "feedback": "Correct! Cold is frío."
+        },
+        {
+          "letter": "C",
+          "text": "Warm",
+          "is_correct": false,
+          "feedback": "Incorrect. Warm is tibio/cálido."
+        },
+        {
+          "letter": "D",
+          "text": "Cool",
+          "is_correct": false,
+          "feedback": "Incorrect. Cool is fresco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El frío se dice \"cold\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v5",
+      "statement": "What is **\"Calor\"** in English? 🌡️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hot",
+          "is_correct": true,
+          "feedback": "Correct! Hot is calor/caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Snowy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El calor se dice \"hot\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v6",
+      "statement": "What is **\"Nieve\"** or **\"Nevando\"**? ❄️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Snowy",
+          "is_correct": true,
+          "feedback": "Correct! Snow -> Snowy."
+        },
+        {
+          "letter": "C",
+          "text": "Sunny",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Cloudy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nevado o cuando nieva se dice \"snowy\". Viene de \"snow\" (nieve).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v7",
+      "statement": "What do you use when it is **rainy**? ☂️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunglasses",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "An umbrella",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "A hat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sunscreen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos una sombrilla (umbrella) cuando está lluvioso (rainy).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v8",
+      "statement": "When there is a lot of **wind**: 💨",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Windy",
+          "is_correct": true,
+          "feedback": "Correct! Wind -> Windy."
+        },
+        {
+          "letter": "B",
+          "text": "Sunny",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hot",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando hace mucho viento, decimos que está \"windy\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v9",
+      "statement": "Complete: **\"It is _______ today. I want an ice cream!\"** 🍦",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "Incorrect. You want ice cream when it's hot."
+        },
+        {
+          "letter": "B",
+          "text": "hot",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "snowy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "rainy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Queremos helado cuando hace calor (hot).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v10",
+      "statement": "How do you ask about the weather?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How are you?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "How is the weather?",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "What is your name?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Where are you?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta para saber cómo está el clima es \"¿How is the weather?\".\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.465Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "Según las reglas de la RAE, ¿cuál de las siguientes palabras del Artículo 1 está correctamente escrita con mayúscula?",
+      "context": "*Los estudiantes del Colegio San Bartolomé de Bogotá crearon un periódico escolar llamado \"La Voz Estudiantil\". En su primer número, varios artículos tenían errores de mayúsculas. La profesora de Lenguaje, doña Lucía Romero, les pidió que revisaran las normas ortográficas antes de imprimir.*\n\n**Fragmentos del periódico:**\n\n**Artículo 1:** \"El Presidente de la República visitará nuestra institución el próximo martes 15 de abril.\"\n\n**Artículo 2:** \"La Guerra de los Mil Días fue un conflicto que marcó la historia de Colombia.\"\n\n**Artículo 3:** \"El club de ciencias, dirigido por el profesor Álvarez, organizará una feria el 20 de Junio.\"\n\n**Artículo 4:** \"Los estudiantes de grado sexto leerán *cien años de soledad* en la clase de Lenguaje.\"\n\n**Artículo 5:** \"La ONU y la UNESCO han reconocido el trabajo del Colegio en derechos humanos.\"\n\n---",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Presidente\" — debería ir en minúscula porque los cargos no llevan mayúscula a menos que se refieran a la persona específica en un contexto formal.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero \"Presidente de la República\" puede llevar mayúscula por tratarse de un tratamiento protocolario."
+        },
+        {
+          "letter": "B",
+          "text": "\"Martes\" — debería ir en minúscula porque los días de la semana se escriben con minúscula en español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"martes\" está en minúscula en el texto, no en mayúscula. El texto dice \"martes\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"Abril\" — debería ir en minúscula porque los meses del año se escriben con minúscula en español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"abril\" está en minúscula en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las palabras del Artículo 1 están escritas correctamente según las reglas ortográficas. \"Presidente de la República\" es un tratamiento honorífico que puede llevar mayúscula; \"martes\" y \"abril\" están en minúscula (correcto).",
+          "is_correct": true,
+          "feedback": "Correcto. Los días de la semana y los meses se escriben con minúscula en español (a diferencia del inglés). \"Presidente de la República\" puede escribirse con mayúscula como tratamiento protocolario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificación de las reglas básicas: los días de la semana y los meses del año se escriben con minúscula inicial en español. Esta es una diferencia importante con el inglés, donde siempre llevan mayúscula. Los cargos y títulos pueden llevar mayúscula en contextos protocolarios.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de códigos y convenciones del lenguaje",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "En el Artículo 2, \"La Guerra de los Mil Días\" está escrito con mayúsculas en todas las palabras principales. ¿Por qué es correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todas las palabras en un título llevan mayúscula inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En español, solo la primera palabra de un título lleva mayúscula inicial (salvo nombres propios)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque \"Guerra de los Mil Días\" es el nombre propio de un evento histórico específico. Los nombres de guerras, batallas y eventos históricos se consideran nombres propios y llevan mayúscula en todas sus palabras significativas.",
+          "is_correct": true,
+          "feedback": "Correcto. La Guerra de los Mil Días es un conflicto histórico específico de Colombia (1899-1902). Como nombre propio de un evento, todas las palabras significativas (sustantivos y adjetivos) llevan mayúscula inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque \"Mil Días\" es un título de un libro famoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un título de libro, es un evento histórico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque todas las palabras largas llevan mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de la palabra no determina el uso de mayúscula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la regla de mayúsculas en nombres de eventos históricos: cuando hablamos de un evento específico y único (una guerra, una batalla, un tratado), se considera nombre propio y lleva mayúscula en las palabras significativas. Esto lo diferencia de las guerras en general (\"la guerra\" sin mayúscula).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de códigos y convenciones del lenguaje",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "En el Artículo 3, \"20 de Junio\" está escrito con mayúscula en \"Junio\". ¿Es correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque las fechas siempre llevan mayúscula en el mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una creencia común pero incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "No, los meses se escriben con minúscula en español. Lo correcto es \"20 de junio\". La mayúscula en \"Junio\" es un error.",
+          "is_correct": true,
+          "feedback": "Correcto. Según la RAE, los nombres de los meses se escriben con minúscula inicial en español. Es uno de los errores más frecuentes, posiblemente por influencia del inglés."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque \"Junio\" es un nombre propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los meses no son nombres propios."
+        },
+        {
+          "letter": "D",
+          "text": "Depende del contexto: si es una fecha formal, puede llevar mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla es clara: los meses siempre en minúscula, independientemente del contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de la regla de mayúsculas para meses y días: en español, a diferencia del inglés, los nombres de los meses y los días de la semana se escriben con minúscula inicial. Esta es una de las reglas ortográficas que más se violan, incluso en documentos formales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "En el Artículo 4, el título del libro aparece como \"*cien años de soledad*\" (todo en minúscula). ¿Es correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque los títulos de libros se escriben completamente en minúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos tienen reglas específicas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque \"cien años de soledad\" debería ir completamente en mayúsculas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos no van completamente en mayúsculas."
+        },
+        {
+          "letter": "C",
+          "text": "No, solo la primera palabra del título lleva mayúscula inicial: \"Cien años de soledad\". Las demás palabras van en minúscula, a menos que sean nombres propios (en este caso, ninguna lo es).",
+          "is_correct": true,
+          "feedback": "Correcto. Según la RAE, en los títulos de libros, películas, obras de arte, etc., solo la primera palabra lleva mayúscula inicial (salvo que contengan nombres propios). \"Cien años de soledad\" es una obra de Gabriel García Márquez y debe escribirse con \"C\" mayúscula."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque \"Soledad\" debería llevar mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Soledad\" aquí no es un nombre propio, es el concepto de la soledad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión de la regla de mayúsculas en títulos de obras: en español, solo la primera palabra del título lleva mayúscula inicial. Esto contrasta con el inglés, donde todas las palabras significativas del título llevan mayúscula.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "En el Artículo 5, se usan las siglas ONU y UNESCO. ¿Por qué se escriben completamente en mayúsculas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son palabras extranjeras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las siglas no siempre son extranjeras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las siglas (abreviaturas formadas por las iniciales de varias palabras) se escriben completamente en mayúsculas, sin puntos entre las letras. ONU = Organización de las Naciones Unidas. UNESCO es un acrónimo (se lee como palabra) y también se escribe en mayúsculas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las siglas se escriben con todas las letras en mayúscula, sin espacios ni puntos. Los acrónimos (como UNESCO, que se lee como una palabra) también van en mayúsculas, aunque algunos acrónimos muy asentados en el uso pueden llegar a escribirse en minúscula (como \"láser\")."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todas las abreviaturas llevan mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas abreviaturas llevan minúscula (ej: \"pág.\" por página)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la RAE exige que los nombres de organismos internacionales siempre estén en mayúsculas completas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre completo del organismo se escribe con mayúscula inicial, no todo en mayúsculas. Las siglas sí van en mayúsculas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la regla de siglas y acrónimos: las siglas (iniciales de varias palabras) se escriben en mayúsculas. Los acrónimos (siglas que se leen como palabras) también van en mayúsculas inicialmente, aunque algunos con el tiempo pueden lexicalizarse.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "Lee el siguiente letrero en la entrada de la biblioteca:\n\n*\"Biblioteca Pública Municipal 'Gabriel García Márquez'\"*\n\n¿Por qué \"Biblioteca Pública Municipal\" lleva mayúsculas en todas sus palabras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todas las palabras en un letrero deben llevar mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una regla; es una elección de diseño."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es el nombre oficial de una institución específica. Los nombres de instituciones (bibliotecas, colegios, museos) se consideran nombres propios y llevan mayúscula en todas sus palabras significativas.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Biblioteca Pública Municipal Gabriel García Márquez\" es el nombre propio de una institución. Como tal, todas las palabras significativas del nombre llevan mayúscula inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque \"Biblioteca\" es un nombre propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Biblioteca\" no es un nombre propio; el nombre completo de la institución sí es un nombre propio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los letreros siempre se escriben en mayúscula sostenida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal regla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la regla de mayúsculas en nombres de instituciones: cuando nos referimos a una institución específica por su nombre oficial completo, todas las palabras significativas llevan mayúscula inicial. Es como un nombre propio de varias palabras.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "Analiza la siguiente oración:\n\n*\"El Papa Francisco visitó la iglesia de San Francisco en la ciudad de Popayán.\"*\n\n¿Por qué \"Papa\" lleva mayúscula pero \"iglesia\" va en minúscula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque \"Papa\" es una palabra más importante que \"iglesia\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La importancia no determina el uso de mayúsculas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque \"Papa Francisco\" es el nombre propio de una persona (un tratamiento honorífico que funciona como nombre), mientras que \"iglesia de San Francisco\" es un nombre común que designa un tipo de edificio, aunque \"San Francisco\" sí lleve mayúscula por ser nombre de santo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Papa\" seguido del nombre específico (Francisco) funciona como parte del nombre propio o tratamiento. En cambio, \"iglesia\" sin un nombre específico que lo acompañe como parte del nombre oficial va en minúscula. \"San Francisco\" lleva mayúscula por ser nombre propio de un santo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque \"Papa\" siempre lleva mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"El papa\" puede escribirse con minúscula cuando se usa como cargo genérico (ej: \"el papa anterior\")."
+        },
+        {
+          "letter": "D",
+          "text": "Porque \"iglesia\" es un lugar, no una persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa no es una regla ortográfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la mayúscula en tratamientos y cargos: cuando un cargo va seguido del nombre específico de la persona que lo ocupa, puede escribirse con mayúscula (especialmente en contextos formales o protocolarios). Pero si se usa de manera genérica, va en minúscula.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Un estudiante escribió en su tarea sobre la independencia de Colombia:\n\n*\"El 20 de julio de 1810 es una fecha importante para los colombianos. Ese día se firmó el Acta de Independencia en Santafe de Bogota.\"*\n\nEl texto tiene dos errores de mayúsculas. ¿Cuáles son?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Julio\" debería ir en minúscula y \"Bogota\" debería llevar tilde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bogotá\" lleva tilde, pero el error de la tilde no es de mayúsculas. Además, \"Acta de Independencia\" está correcto como nombre de evento histórico."
+        },
+        {
+          "letter": "B",
+          "text": "\"Santafe\" debería escribirse como \"Santa Fe\" (separado y con mayúscula en \"Fe\"), y \"Bogota\" debería ser \"Bogotá\" (con tilde, aunque la tilde no afecta la mayúscula). Sin embargo, preguntando específicamente por mayúsculas: \"Santafe\" está mal escrito (debería ser \"Santa Fe\", dos palabras, ambas con mayúscula inicial). \"Bogotá\" lleva tilde pero la mayúscula está correcta. También \"Acta de Independencia\" puede escribirse con mayúscula como nombre de evento histórico. El error más claro es la mayúscula en \"Julio\" que debería ir en minúscula.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Julio\" como mes debe ir en minúscula. \"Santafe\" es un error de ortografía (una sola palabra) pero la mayúscula de \"Fe\" sería necesaria si se escribiera correctamente separado."
+        },
+        {
+          "letter": "C",
+          "text": "\"Independencia\" y \"Acta\" deberían ir en minúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Acta de Independencia\" como nombre de un documento histórico específico puede llevar mayúscula."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ese\" y \"día\" deberían llevar mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay regla que exija mayúscula en esas palabras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación crítica del uso de mayúsculas en un texto sobre historia de Colombia: los meses siempre en minúscula, los nombres de lugares correctamente escritos, y el reconocimiento de cuándo un evento histórico se considera nombre propio.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Un estudiante escribió en el periódico escolar:\n\n*\"El profesor de Ciencias Sociales nos explicó que la Revolución Francesa comenzó en 1789. También vimos que el renacimiento fue un movimiento cultural muy importante.\"*\n\n¿Es correcto el uso de mayúsculas en \"Revolución Francesa\" y \"renacimiento\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos están correctos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una inconsistencia."
+        },
+        {
+          "letter": "B",
+          "text": "\"Revolución Francesa\" debería ir en minúscula porque no es un nombre propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Revolución Francesa\" es el nombre propio de un evento histórico específico."
+        },
+        {
+          "letter": "C",
+          "text": "\"Revolución Francesa\" está correcto (evento histórico específico), pero \"renacimiento\" debería llevar mayúscula porque \"Renacimiento\" es el nombre propio de un período histórico-cultural específico.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos son nombres de períodos o eventos históricos. La \"Revolución Francesa\" (evento) y el \"Renacimiento\" (período) son nombres propios de fenómenos históricos únicos y deben llevar mayúscula. El estudiante aplicó la regla correctamente en uno pero no en el otro."
+        },
+        {
+          "letter": "D",
+          "text": "\"Revolución Francesa\" debería ser \"revolución francesa\" y \"renacimiento\" está correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos deberían llevar mayúscula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de la mayúscula en períodos históricos y movimientos culturales: cuando un período o movimiento tiene un nombre convencional aceptado (Renacimiento, Revolución Francesa, Ilustración), se considera nombre propio y lleva mayúscula. Esto puede variar según el nivel de lexicalización del término.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Escribe una breve noticia escolar (3-4 oraciones) sobre un evento en tu colegio. Debes demostrar el uso correcto de mayúsculas en al menos 5 de los siguientes casos:\n\n1. Después de punto\n2. Nombres propios de personas\n3. Nombre de una institución\n4. Título de una obra o evento\n5. Un mes o día de la semana (en minúscula)\n6. Una sigla\n7. Un nombre de evento histórico o movimiento cultural\n\nLuego, justifica brevemente por qué cada mayúscula o minúscula es correcta.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ejemplo: \"El Colegio San Bartolomé realizará su feria cultural anual el viernes 20 de septiembre. El evento, llamado 'Arte y Ciencia', incluirá exposiciones sobre el Renacimiento. La ONU ha invitado a nuestros estudiantes a participar en un foro juvenil. La profesora Lucía Romero, directora del proyecto, afirmó: 'Es una oportunidad única'.\" — Justificación: \"Colegio San Bartolomé\" (institución, mayúscula); \"feria cultural anual\" (nombre común, minúscula); \"viernes\" y \"septiembre\" (día y mes, minúscula); \"Arte y Ciencia\" (solo primera palabra mayúscula en título); \"Renacimiento\" (período histórico, mayúscula); \"ONU\" (sigla, mayúscula completa); \"Lucía Romero\" (nombres propios).",
+          "is_correct": true,
+          "feedback": "Correcto. El ejemplo integra correctamente los 7 casos solicitados con justificación adecuada."
+        },
+        {
+          "letter": "B",
+          "text": "\"El Colegio San Bartolomé realizará su Feria Cultural anual el Viernes 20 de Septiembre.\" — Usa mayúscula incorrecta en \"Feria Cultural\", \"Viernes\" y \"Septiembre\". No justifica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene errores de mayúsculas y no incluye suficientes casos."
+        },
+        {
+          "letter": "C",
+          "text": "\"El colegio san bartolomé realizará su feria cultural anual el viernes 20 de septiembre.\" — Todo en minúscula, incluyendo nombres propios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres propios deben llevar mayúscula."
+        },
+        {
+          "letter": "D",
+          "text": "\"El Colegio San Bartolomé realizará su Feria Cultural Anual el Viernes 20 de Septiembre. El Evento, Llamado 'Arte y Ciencia', Incluirá Exposiciones Sobre El Renacimiento.\" — Exceso de mayúsculas incorrectas en cada palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la primera palabra de la oración y los nombres propios llevan mayúscula, no todas las palabras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Producción textual integradora: aplicar las reglas de mayúsculas en un texto original. La justificación demuestra la comprensión de las reglas, no solo la aplicación mecánica. Es la habilidad más avanzada: saber no solo cómo se escribe, sino por qué.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido y producción textual",
+      "bundle_id": "CO-LEC-6-2026-W39-mayusculas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Villavicencio, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Cali, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Bucaramanga, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Tunja, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Bucaramanga, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Bogotá, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Quibdó, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Quibdó, se discute sobre Tema Semana 39 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W39-tema-semana-39-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

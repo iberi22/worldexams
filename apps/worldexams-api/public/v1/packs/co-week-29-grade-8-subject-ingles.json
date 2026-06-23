@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-29-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.748Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v1",
+      "statement": "The movie was ________ interesting that I watched it twice.",
+      "context": "Using \"so\" with an adjective.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! We use \"so\" before an adjective."
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Such\" needs a noun."
+        },
+        {
+          "letter": "C",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Very\" doesn't connect with \"that\" to show consequence."
+        },
+        {
+          "letter": "D",
+          "text": "too",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos \"so\" antes de un adjetivo o adverbio para enfatizar una cualidad que produce un resultado (expresado con \"that\").\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v2",
+      "statement": "It was ________ a beautiful day that we decided to go for a picnic.",
+      "context": "Using \"such\" with a noun phrase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "is_correct": true,
+          "feedback": "Correct! We use \"such\" before \"a/an + adjective + noun\"."
+        },
+        {
+          "letter": "C",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "quite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Such\" se utiliza antes de un grupo nominal (adjetivo + sustantivo). Si el sustantivo es singular y contable, incluimos \"a\" o \"an\" (such a beautiful day).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v3",
+      "statement": "The athlete ran ________ fast that he broke the world record.",
+      "context": "So + adverb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! \"So\" can also modify adverbs."
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "too",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such a",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al igual que con los adjetivos, usamos \"so\" antes de los adverbios para mostrar que la intensidad de la acción tuvo una consecuencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v4",
+      "statement": "They are ________ nice people that everyone wants to be their friend.",
+      "context": "Such with plural nouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect. \"People\" is a noun."
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "is_correct": true,
+          "feedback": "Correct! For plural nouns, we use \"such\" without \"a/an\"."
+        },
+        {
+          "letter": "C",
+          "text": "such a",
+          "is_correct": false,
+          "feedback": "Incorrect. \"People\" is plural."
+        },
+        {
+          "letter": "D",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con sustantivos en plural o incontables, usamos simplemente \"such + adjetivo + sustantivo\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v5",
+      "statement": "Complete the sentence: \"The book was so boring ________.\"",
+      "context": "Identifying the consequence clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because I didn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "that I fell asleep while reading it.",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" introduces the consequence of being so boring."
+        },
+        {
+          "letter": "C",
+          "text": "but I liked the cover.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "than the other one.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura \"so... that\" siempre requiere una cláusula de consecuencia iniciada por \"that\" (aunque a veces \"that\" se puede omitir en el habla informal).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v6",
+      "statement": "It is ________ a hot afternoon in Barranquilla ________ you need to drink a lot of water.",
+      "context": "Weather in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so / that",
+          "is_correct": false,
+          "feedback": "Incorrect. Need \"such\" for \"a hot afternoon\"."
+        },
+        {
+          "letter": "B",
+          "text": "such / that",
+          "is_correct": true,
+          "feedback": "Correct! Such + a + adj + noun ... that."
+        },
+        {
+          "letter": "C",
+          "text": "so / because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such / so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de \"such a\" es esencial para dar énfasis a descripciones de situaciones climáticas extremas y sus consecuencias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v7",
+      "statement": "Which sentence has the same meaning as \"The exam was so long that I couldn't finish it\"?",
+      "context": "Changing \"so\" to \"such\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was so a long exam that I couldn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "B",
+          "text": "It was such a long exam that I couldn't finish it.",
+          "is_correct": true,
+          "feedback": "Correct! Grammatically equivalent."
+        },
+        {
+          "letter": "C",
+          "text": "It was very long exam that I couldn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Such exam was long that I couldn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudiante debe ser capaz de transformar una estructura de \"so + adjetivo\" a \"such a + adjetivo + sustantivo\" manteniendo el mismo significado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v8",
+      "statement": "\"It was **such a shock** to see him there.\"\nWhat is the purpose of \"such\" in this sentence?",
+      "context": "Understanding emphasis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To compare two shocks.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "To emphasize the intensity of the feeling.",
+          "is_correct": true,
+          "feedback": "Correct! \"So\" and \"Such\" are powerful tools for emphasis."
+        },
+        {
+          "letter": "C",
+          "text": "To show the cause of the shock.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "To ask a question.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Más allá de la consecuencia, \"so\" y \"such\" se usan frecuentemente en exclamaciones o para dar énfasis emocional a una declaración.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v9",
+      "statement": "There were ________ many people at the concert that we couldn't see the stage.",
+      "context": "So much / So many.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect. With \"many\" or \"much\", we always use \"so\"."
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! \"So many\" / \"So much\" are the standard expressions for quantity."
+        },
+        {
+          "letter": "C",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such a",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque \"people\" es un sustantivo, cuando va precedido de cuantificadores como \"many\", \"much\", \"few\" o \"little\", debemos usar \"so\" en lugar de \"such\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"He is **so (A)** a **good (B)** student **that (C)** he **always (D)** gets a scholarship.\"",
+      "context": "Identifying errors in emphasis structures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! Error found. Because there is a noun phrase \"a good student\", we must use \"such\"."
+        },
+        {
+          "letter": "B",
+          "text": "good",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uno de los errores más persistentes en B1 es usar \"so\" antes de un sustantivo con adjetivo. Recordamos: So + Adj, pero Such + (a/an) + Adj + Noun.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v11",
+      "statement": "Which sentence makes a story's ending more dramatic?",
+      "context": "Evaluating the impact of a story's climax.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ending was very surprising.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too plain."
+        },
+        {
+          "letter": "B",
+          "text": "It was such a surprising ending that everyone in the cinema gasped.",
+          "is_correct": true,
+          "feedback": "Correct! Combines high emphasis with a clear, dramatic consequence."
+        },
+        {
+          "letter": "C",
+          "text": "The ending was so surprise.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "Because the ending was such surprising, we liked it.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de \"such... that\" permite al escritor conectar la intensidad de una escena con la reacción física o emocional de los personajes, mejorando la calidad narrativa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v12",
+      "statement": "\"The noise from the construction site was constant and extremely loud. As a result, the neighbors were unable to sleep or concentrate during the entire day.\"\nChoose the most effective summary using \"so\" or \"such\":",
+      "context": "Selecting the best summary of cause and effect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The construction was so loud that the neighbors couldn't sleep or concentrate.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes the cause and the two effects accurately using \"so... that\"."
+        },
+        {
+          "letter": "B",
+          "text": "It was very loud construction and the neighbors were sad.",
+          "is_correct": false,
+          "feedback": "Incorrect. Does not show the consequence link clearly."
+        },
+        {
+          "letter": "C",
+          "text": "The neighbors didn't sleep because the construction was such a noise.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "Such a loud noise made the neighbors sleep so much.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sintetizar relaciones de causa y efecto requiere el uso preciso de \"so... that\" para integrar los hechos de manera coherente y compacta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

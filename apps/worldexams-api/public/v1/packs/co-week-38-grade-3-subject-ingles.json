@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-38-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.669Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v1",
+      "statement": "An **elephant** is very **_________**. 🐘",
+      "context": "Describing size.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Small",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Big",
+          "is_correct": true,
+          "feedback": "Correct! Elephants are large/big animals."
+        },
+        {
+          "letter": "C",
+          "text": "New",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect. (Normally they are gray)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Big\" significa grande. Se usa para describir objetos o seres de gran tamaño.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v2",
+      "statement": "A **feather** (pluma) is very **_________**. 🪶",
+      "context": "Describing weight.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light",
+          "is_correct": true,
+          "feedback": "Correct! Light means it does not weigh much."
+        },
+        {
+          "letter": "B",
+          "text": "Heavy",
+          "is_correct": false,
+          "feedback": "Incorrect. Heavy is for things that weigh a lot."
+        },
+        {
+          "letter": "C",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hard",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Light\" significa ligero o liviano. Describe cosas que pesan poco.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v3",
+      "statement": "I just bought this toy. It is not old, it is **_________**. 🆕",
+      "context": "Identifying condition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Broken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "New",
+          "is_correct": true,
+          "feedback": "Correct! Something just bought is new."
+        },
+        {
+          "letter": "C",
+          "text": "Old",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the opposite."
+        },
+        {
+          "letter": "D",
+          "text": "Small",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"New\" significa nuevo. Es lo opuesto a \"Old\" (viejo/antiguo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v4",
+      "statement": "What is the opposite of **\"Hard\"** (duro)? ☁️",
+      "context": "Identifying opposites.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Soft",
+          "is_correct": true,
+          "feedback": "Correct! Soft is the opposite of hard."
+        },
+        {
+          "letter": "C",
+          "text": "Small",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar antónimos. \"Soft\" significa suave o blando, lo opuesto de \"Hard\" (duro).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v5",
+      "statement": "A **racing car** is very **_________**. 🏎️💨",
+      "context": "Describing speed of objects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fast",
+          "is_correct": true,
+          "feedback": "Correct! Racing cars move at high speeds."
+        },
+        {
+          "letter": "B",
+          "text": "Slow",
+          "is_correct": false,
+          "feedback": "Incorrect. Slow is the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Heavy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Broken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Fast\" significa rápido. Describe objetos que se desplazan a gran velocidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v6",
+      "statement": "A **big rock** is difficult to lift because it is **_________**. 🪨",
+      "context": "Describing weight of heavy things.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Heavy",
+          "is_correct": true,
+          "feedback": "Correct! Heavy things are hard to lift."
+        },
+        {
+          "letter": "C",
+          "text": "Soft",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "New",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Heavy\" significa pesado. Describe objetos que tienen mucho peso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v7",
+      "statement": "A **mirror** or a **window** is very **_________**. You can see through it or it is even.",
+      "context": "Texture of an object.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Smooth",
+          "is_correct": true,
+          "feedback": "Correct! Smooth means even and flat."
+        },
+        {
+          "letter": "B",
+          "text": "Rough",
+          "is_correct": false,
+          "feedback": "Incorrect. Rough is like a stone or sandpaper."
+        },
+        {
+          "letter": "C",
+          "text": "Soft",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Smooth\" significa liso o suave al tacto. Se aplica a superficies como el vidrio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v8",
+      "statement": "Which group shows **opposites**?",
+      "context": "Analyzing object properties.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big and Large",
+          "is_correct": false,
+          "feedback": "Incorrect. These are synonyms."
+        },
+        {
+          "letter": "B",
+          "text": "Big and Small",
+          "is_correct": true,
+          "feedback": "Correct! These are antonyms for size."
+        },
+        {
+          "letter": "C",
+          "text": "New and Clean",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Fast and Quick",
+          "is_correct": false,
+          "feedback": "Incorrect. These are synonyms."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las relaciones entre palabras. \"Big\" (grande) y \"Small\" (pequeño) son opuestos directos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v9",
+      "statement": "\"It is made of metal, it has 4 wheels, and it is very **fast**.\"\nWhat is it?",
+      "context": "Identifying by description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A bed",
+          "is_correct": false,
+          "feedback": "Incorrect. A bed is not fast."
+        },
+        {
+          "letter": "B",
+          "text": "A car",
+          "is_correct": true,
+          "feedback": "Correct! A car matches all the descriptions."
+        },
+        {
+          "letter": "C",
+          "text": "A pencil",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "A book",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las propiedades para deducir el objeto. La combinación de metal, ruedas y velocidad apunta a un \"Car\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-v10",
+      "statement": "You have a **plastic ball** and a **metal ball**. They are the same size.\nWhich one is probably **heavier**?",
+      "context": "Comparing two objects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The plastic ball",
+          "is_correct": false,
+          "feedback": "Incorrect. Plastic is usually lighter than metal."
+        },
+        {
+          "letter": "B",
+          "text": "The metal ball",
+          "is_correct": true,
+          "feedback": "Correct! Metal is a heavy material."
+        },
+        {
+          "letter": "C",
+          "text": "They are both light",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar las propiedades de los materiales. El metal es intrínsecamente más pesado (heavier) que el plástico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

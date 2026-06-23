@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v1",
-      "statement": "Which question word asks about TIME?",
-      "context": "At Colegio Champagnat de Pasto, teacher reviews question words.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-001-v1",
+      "statement": "This is a review question about countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Where",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Pregunta por lugar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Why",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Pregunta por razón."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "When",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Pregunta por persona."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Question words: What, Where, When, Why, Who, How, Which.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v2",
-      "statement": "Form a yes/no question with \"she\":",
-      "context": "In Liceo de la Sabana de San Andrés, yes/no questions.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-002-v1",
+      "statement": "Select the correct A2 level use for countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Does she studies?",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Después de does el verbo va en base."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Does she study?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Is she study?",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "She studies?",
-          "is_correct": false,
-          "feedback": "Coloquial."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Yes/No: Do/Does/Did + sujeto + verbo base. \"Does she study?\" NO \"Does she studies?\"\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v3",
-      "statement": "Complete: \"Where is the Gold Museum?\" \"It is in Bogotá.\"",
-      "context": "At Colegio Simón Bolívar de Santa Marta, WH-questions.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-003-v1",
+      "statement": "Identify the appropriate vocabulary for countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Where",
+          "text": "Word 1 (Correct)",
           "is_correct": true,
-          "feedback": "Pregunta por lugar."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "What",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Qué/cosa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "When",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Cuándo/tiempo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Who",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Quién/persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Where\" pregunta por ubicación.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v4",
-      "statement": "A subject question: who/what is the ___ of the sentence.",
-      "context": "In Liceo de la Sabana de Pasto, subject vs object questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "object",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "subject",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "verb",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "adverb",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Subject: who/what realiza la acción, NO auxiliary. Object: who/what recibe la acción, CON auxiliary.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v5",
-      "statement": "Form a question: \"you / like / bandeja paisa / why?\"",
-      "context": "At I.E. María Inmaculada de Manizales, form WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Why you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
-        },
-        {
-          "letter": "B",
-          "text": "Why do you like bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Why are you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Like you bandeja paisa why?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "WH-questions: WH + auxiliary + subject + base verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v6",
-      "statement": "Ask about object: \"She visited the museum.\"",
-      "context": "In I.E. La Salle de Pasto, object questions.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-004-v1",
+      "statement": "Complete the sentence about countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Who visited the museum?",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Pregunta por sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "What did she visit?",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Where she visited?",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Did she visit?",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No pregunta por objeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Object questions: WH + auxiliary + subject + verb. \"What did she visit?\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W32-countable-uncountable-005-v1",
+      "statement": "What is the best way to express countable-uncountable?",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v7",
-      "statement": "Difference: \"Who called?\" vs \"Who did you call?\"",
-      "context": "At Colegio Simón Bolívar de Manizales, analyze question types.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-006-v1",
+      "statement": "Find the error in this countable-uncountable sentence.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "First = subject Q. Second = object Q.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "First present, second past.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "First incorrect.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject Q: \"Who called?\" (no auxiliary). Object Q: \"Who did you call?\" (with auxiliary).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v8",
-      "statement": "Which question is CORRECT?",
-      "context": "At Colegio Simón Bolívar de Cúcuta, evaluate correctness.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-007-v1",
+      "statement": "Match the term with the definition of countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Why she is studying?",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Auxiliar antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "How long you have been here?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "What time does the museum open?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Where lives your grandmother?",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Verbo antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W32-countable-uncountable-008-v1",
+      "statement": "Choose the synonym for a word related to countable-uncountable.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "WH-questions: WH + auxiliary + subject + verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v9",
-      "statement": "What type: \"Who wants ice cream?\"",
-      "context": "In I.E. María Inmaculada de Bogotá, identify type.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-009-v1",
+      "statement": "Which of these belongs to countable-uncountable?",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes/No question",
-          "is_correct": false,
-          "feedback": "No es yes/no."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Subject question",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Object question",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tag question",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject questions: who/what = sujeto, NO auxiliary.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-v10",
-      "statement": "Tag question: \"They have studied, haven't they?\"",
-      "context": "At Colegio Simón Bolívar de Neiva, create tag question.",
+      "id": "CO-ING-6-2026-W32-countable-uncountable-010-v1",
+      "statement": "Predict the next word in the countable-uncountable context.",
+      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "don't they",
-          "is_correct": false,
-          "feedback": "Auxiliar incorrecto."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "haven't they",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "have they",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Negativo cuando afirmación positiva."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "didn't they",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Past simple, no PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Tag questions: positivo -> tag negativo. El auxiliar del tag debe coincidir.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W32-question-formation-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v1",
-      "statement": "\"Nublado\" in English is ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cloudy",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "sunny",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sunny = soleado."
-        },
-        {
-          "letter": "C",
-          "text": "rainy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rainy = lluvioso."
-        },
-        {
-          "letter": "D",
-          "text": "windy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Windy = ventoso."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Weather: sunny, cloudy, rainy, windy, snowy, foggy (nublado/brumoso).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v2",
-      "statement": "\"I like ___ in the park on weekends.\"",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "walking",
-          "is_correct": true,
-          "feedback": "Correcto. Walking = caminar."
-        },
-        {
-          "letter": "B",
-          "text": "walk",
-          "is_correct": false,
-          "feedback": "Incorrecto. Like + -ing."
-        },
-        {
-          "letter": "C",
-          "text": "walks",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "walked",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Like + -ing: I like walking, running, playing, reading.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v3",
-      "statement": "\"If it's raining, I can't ___ soccer.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "play",
-          "is_correct": true,
-          "feedback": "Correcto. Can't + base verb."
-        },
-        {
-          "letter": "B",
-          "text": "playing",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "plays",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "played",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can't + verb: I can't play soccer when it's raining. I can read a book instead.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v4",
-      "statement": "\"In the hot season, people like ___.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "going to the beach",
-          "is_correct": true,
-          "feedback": "Correcto. Beach = playa."
-        },
-        {
-          "letter": "B",
-          "text": "staying inside",
-          "is_correct": false,
-          "feedback": "Incorrecto. Prefieren salir."
-        },
-        {
-          "letter": "C",
-          "text": "wearing a coat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hace calor."
-        },
-        {
-          "letter": "D",
-          "text": "skiing",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay nieve."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Hot weather activities: go to the beach, swim, eat ice cream, stay in the shade.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v5",
-      "statement": "\"Can she dance?\" \"No, she ___.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can't",
-          "is_correct": true,
-          "feedback": "Correcto. No, she can't."
-        },
-        {
-          "letter": "B",
-          "text": "doesn't",
-          "is_correct": false,
-          "feedback": "Incorrecto. Can pregunta."
-        },
-        {
-          "letter": "C",
-          "text": "isn't",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "don't",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Short negative answer: No, she can't. / No, he can't. / No, I can't.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v6",
-      "statement": "\"On a sunny day, you can ___.\"",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "go to the beach",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "go skiing",
-          "is_correct": false,
-          "feedback": "Incorrecto. No snow."
-        },
-        {
-          "letter": "C",
-          "text": "build a snowman",
-          "is_correct": false,
-          "feedback": "Incorrecto. No snow."
-        },
-        {
-          "letter": "D",
-          "text": "wear a winter coat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hot day."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sunny day activities: beach, swimming, walking, playing outside.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v7",
-      "statement": "\"My sister can ___ very well.\" (cantar)",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sing",
-          "is_correct": true,
-          "feedback": "Correcto. Can + sing."
-        },
-        {
-          "letter": "B",
-          "text": "sings",
-          "is_correct": false,
-          "feedback": "Incorrecto. After can, base verb."
-        },
-        {
-          "letter": "C",
-          "text": "singing",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "sang",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can + base verb. My sister can sing. She can swim. They can dance.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v8",
-      "statement": "\"In Colombia, it ___ rain a lot in April.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. Can = puede."
-        },
-        {
-          "letter": "B",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can para posibilidad: \"It can rain in April.\" = Puede llover en abril.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v9",
-      "statement": "\"It's sunny and warm. My friends and I can ___.\"",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "play outside",
-          "is_correct": true,
-          "feedback": "Correcto. Good for sunny weather."
-        },
-        {
-          "letter": "B",
-          "text": "stay inside all day",
-          "is_correct": false,
-          "feedback": "Incorrecto. Better to go out."
-        },
-        {
-          "letter": "C",
-          "text": "use an umbrella",
-          "is_correct": false,
-          "feedback": "Incorrecto. No necesita paraguas."
-        },
-        {
-          "letter": "D",
-          "text": "wear a heavy coat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Warm day."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Consider weather and choose the best activity. Sunny + warm = play outside.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-v10",
-      "statement": "\"When it's cold and raining, I can stay home and ___.\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "read a book",
-          "is_correct": true,
-          "feedback": "Correcto. Indoor activity."
-        },
-        {
-          "letter": "B",
-          "text": "go swimming",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cold + rain no es bueno."
-        },
-        {
-          "letter": "C",
-          "text": "play soccer",
-          "is_correct": false,
-          "feedback": "Incorrecto. Mejor indoors."
-        },
-        {
-          "letter": "D",
-          "text": "sunbathe",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay sol."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Match activity to weather: cold+rainy → indoor activities (read, watch TV, draw).\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W32-weather-free-time-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

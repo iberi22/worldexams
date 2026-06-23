@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-9-subject-sociales",
+    "generated_at": "2026-06-22T05:46:17.175Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v1",
+      "statement": "¿En qué año fue aprobada la Declaración Universal de los Derechos Humanos?",
+      "context": "En clase de sociales en Bogotá, se estudia la Declaración Universal de los Derechos Humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1918, al final de la Primera Guerra Mundial",
+          "is_correct": false,
+          "feedback": "Incorrect. La DUDH es posterior."
+        },
+        {
+          "letter": "B",
+          "text": "1948, por la Asamblea General de las Naciones Unidas en París",
+          "is_correct": true,
+          "feedback": "Correct. La DUDH fue aprobada el 10 de diciembre de 1948."
+        },
+        {
+          "letter": "C",
+          "text": "1960, durante la descolonización de África",
+          "is_correct": false,
+          "feedback": "Incorrect. Fue aprobada antes."
+        },
+        {
+          "letter": "D",
+          "text": "1939, al inicio de la Segunda Guerra Mundial",
+          "is_correct": false,
+          "feedback": "Incorrect. Fue después de la guerra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La DUDH fue aprobada por la ONU en 1948, después de las atrocidades de la Segunda Guerra Mundial. Colombia votó a favor. El 10 de diciembre se celebra el Día de los Derechos Humanos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cuál es la principal institución de protección de derechos humanos en el sistema interamericano?",
+      "context": "Un estudiante pregunta qué organismo internacional protege los derechos humanos en América.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ONU",
+          "is_correct": false,
+          "feedback": "Incorrect. La ONU es global, no específica de América."
+        },
+        {
+          "letter": "B",
+          "text": "La Organización de Estados Americanos (OEA)",
+          "is_correct": false,
+          "feedback": "Parcialmente, pero hay un organismo específico."
+        },
+        {
+          "letter": "C",
+          "text": "La Corte Interamericana de Derechos Humanos (CorteIDH)",
+          "is_correct": true,
+          "feedback": "Correct. La CorteIDH, con sede en San José de Costa Rica, es el tribunal regional que juzga violaciones de derechos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "El Fondo Monetario Internacional",
+          "is_correct": false,
+          "feedback": "Incorrect. El FMI no protege derechos humanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema interamericano de derechos humanos tiene dos órganos principales: la Comisión Interamericana (CIDH) que recibe denuncias, y la Corte Interamericana (CorteIDH) que emite sentencias vinculantes. Colombia ha sido demandada en múltiples ocasiones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cuál fue la causa principal del inicio de la guerra civil en Siria?",
+      "context": "Se analiza el conflicto armado en Siria, que comenzó en 2011.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una invasión extranjera de Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrect. La guerra comenzó como un levantamiento interno."
+        },
+        {
+          "letter": "B",
+          "text": "Protestas populares contra el gobierno autoritario de Bashar al-Asad, que fueron reprimidas violentamente y derivaron en una guerra civil con múltiples actores",
+          "is_correct": true,
+          "feedback": "Correct. Las protestas de la Primavera Árabe de 2011 fueron reprimidas, lo que llevó a una guerra civil que ha causado cientos de miles de muertos."
+        },
+        {
+          "letter": "C",
+          "text": "Un conflicto territorial entre Siria e Israel",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque hay tensiones, no fue la causa del inicio."
+        },
+        {
+          "letter": "D",
+          "text": "Una catástrofe natural que destruyó el país",
+          "is_correct": false,
+          "feedback": "Incorrect. No fue un desastre natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La guerra civil siria es uno de los conflictos más devastadores del siglo XXI, con más de 500.000 muertos y millones de desplazados. Ilustra cómo las protestas pacíficas pueden escalar a guerras complejas con actores internacionales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuál es el objetivo de la Jurisdicción Especial para la Paz (JEP)?",
+      "context": "Se analiza la Jurisdicción Especial para la Paz (JEP) en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condenar a todos los excombatientes de las FARC a prisión",
+          "is_correct": false,
+          "feedback": "Incorrect. La JEP no busca encarcelar a todos, sino hacer justicia transicional."
+        },
+        {
+          "letter": "B",
+          "text": "Investigar, juzgar y sancionar los crímenes más graves cometidos durante el conflicto armado colombiano, ofreciendo penas alternativas a quienes reconozcan la verdad",
+          "is_correct": true,
+          "feedback": "Correct. La JEP es el componente de justicia del Sistema Integral de Verdad, Justicia, Reparación y No Repetición."
+        },
+        {
+          "letter": "C",
+          "text": "Olvidar todos los crímenes del conflicto",
+          "is_correct": false,
+          "feedback": "Incorrect. La JEP busca justicia, no impunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Juzgar solo a los militares colombianos",
+          "is_correct": false,
+          "feedback": "Incorrect. La JEP juzga a excombatientes de las FARC, miembros de la fuerza pública y otros actores del conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La JEP es un tribunal de justicia transicional creado por el Acuerdo de Paz de 2016. Busca la verdad, la justicia y la reparación de las víctimas, ofreciendo beneficios penales a quienes contribuyan a la verdad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v5",
+      "statement": "¿Qué caracteriza al conflicto israelí-palestino como un conflicto contemporáneo?",
+      "context": "Un estudiante lee que en 2023 hubo un conflicto entre Israel y Hamas en Gaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un conflicto reciente que comenzó en 2023",
+          "is_correct": false,
+          "feedback": "Incorrect. El conflicto tiene décadas, incluso más de un siglo de historia."
+        },
+        {
+          "letter": "B",
+          "text": "Es una disputa exclusivamente religiosa",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque hay dimensión religiosa, también es territorial, política y nacionalista."
+        },
+        {
+          "letter": "C",
+          "text": "Es un conflicto de larga data con componentes territoriales, religiosos, nacionalistas y geopolíticos, que ha involucrado a múltiples actores internacionales",
+          "is_correct": true,
+          "feedback": "Correct. El conflicto israelí-palestino es multi-causal y tiene raíces en el siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Es un conflicto que ya se resolvió con los Acuerdos de Oslo",
+          "is_correct": false,
+          "feedback": "Incorrect. Los Acuerdos de Oslo (1993) no lograron una paz definitiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conflicto israelí-palestino es uno de los más complejos del mundo, con dimensiones: territorial (ocupación de Cisjordania), religiosa (lugares sagrados), política (estado palestino) y de seguridad (ataques y represalias).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué tipo de crímenes puede juzgar la Corte Penal Internacional?",
+      "context": "Se analiza la Corte Penal Internacional (CPI) y su rol en la justicia global.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los delitos cometidos en cualquier país",
+          "is_correct": false,
+          "feedback": "Incorrect. La CPI solo juzga crímenes específicos."
+        },
+        {
+          "letter": "B",
+          "text": "Genocidio, crímenes de lesa humanidad, crímenes de guerra y crimen de agresión",
+          "is_correct": true,
+          "feedback": "Correct. La CPI, con sede en La Haya, juzga los crímenes más graves que afectan a la comunidad internacional."
+        },
+        {
+          "letter": "C",
+          "text": "Solo los delitos económicos como lavado de dinero",
+          "is_correct": false,
+          "feedback": "Incorrect. Los delitos económicos no son competencia de la CPI."
+        },
+        {
+          "letter": "D",
+          "text": "Crímenes cometidos por civiles, no por militares",
+          "is_correct": false,
+          "feedback": "Incorrect. La CPI juzga a cualquier persona por crímenes internacionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La CPI fue creada por el Estatuto de Roma (1998) y entró en funcionamiento en 2002. Colombia es parte del Estatuto de Roma. La CPI puede actuar cuando los tribunales nacionales no quieren o no pueden juzgar.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v7",
+      "statement": "¿Qué derecho protege la acción de tutela en Colombia?",
+      "context": "En Colombia, la Corte Constitucional ha emitido varias sentencias sobre derechos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el derecho a la propiedad privada",
+          "is_correct": false,
+          "feedback": "Incorrect. La tutela protege todos los derechos fundamentales."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los derechos fundamentales cuando son vulnerados o amenazados por una autoridad pública o un particular",
+          "is_correct": true,
+          "feedback": "Correct. La tutela (artículo 86 de la Constitución de 1991) es un mecanismo rápido y gratuito para proteger derechos fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el derecho a la vida",
+          "is_correct": false,
+          "feedback": "Incorrect. Protege todos los derechos fundamentales."
+        },
+        {
+          "letter": "D",
+          "text": "Los derechos económicos y sociales",
+          "is_correct": false,
+          "feedback": "Incorrect. La tutela protege derechos fundamentales; los económicos y sociales son progresivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La acción de tutela es uno de los mecanismos más importantes de la Constitución de 1991. Cualquier persona puede interponerla sin necesidad de abogado. Es un recurso ágil (máximo 10 días para fallar).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v8",
+      "statement": "¿Qué principio del derecho internacional fue violado por la invasión rusa de Ucrania en 2022?",
+      "context": "Se analiza el conflicto en Ucrania que comenzó con la invasión rusa en 2022.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de comercio internacional",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque afectó el comercio, no es el principio central violado."
+        },
+        {
+          "letter": "B",
+          "text": "La soberanía e integridad territorial de los Estados, principio fundamental de la Carta de la ONU",
+          "is_correct": true,
+          "feedback": "Correct. La Carta de la ONU prohíbe el uso de la fuerza contra la integridad territorial de cualquier Estado."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho al medio ambiente sano",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque hubo daños ambientales, no es la violación principal."
+        },
+        {
+          "letter": "D",
+          "text": "La libertad de expresión",
+          "is_correct": false,
+          "feedback": "Incorrect. No es relevante para la invasión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La invasión rusa de Ucrania violó el artículo 2(4) de la Carta de la ONU que prohíbe la amenaza o el uso de la fuerza contra la integridad territorial de cualquier Estado. La ONU condenó la invasión en la Asamblea General.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v9",
+      "statement": "¿Cuál de los siguientes es un Derecho Económico, Social y Cultural?",
+      "context": "Se estudian los Derechos Económicos, Sociales y Culturales (DESC).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de expresión",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un derecho civil y político."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a no ser torturado",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un derecho civil."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la educación",
+          "is_correct": true,
+          "feedback": "Correct. La educación es un DESC, junto con la salud, la vivienda, el trabajo y la seguridad social."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho al voto",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un derecho político."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los derechos humanos se clasifican en: derechos civiles y políticos (primera generación) y derechos económicos, sociales y culturales (segunda generación). La Constitución colombiana protege ambos grupos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v10",
+      "statement": "¿Qué principios del DIH prohíben atacar a la población civil durante un conflicto armado?",
+      "context": "Se analiza el Derecho Internacional Humanitario (DIH), aplicable en conflictos armados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de soberanía",
+          "is_correct": false,
+          "feedback": "Incorrect. La soberanía es sobre el territorio, no sobre la conducción de hostilidades."
+        },
+        {
+          "letter": "B",
+          "text": "Los principios de distinción (separar civiles de combatientes) y de proporcionalidad (no causar daño excesivo a civiles)",
+          "is_correct": true,
+          "feedback": "Correct. El DIH establece que las partes en conflicto deben distinguir entre objetivos militares y civiles."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de no intervención",
+          "is_correct": false,
+          "feedback": "Incorrect. La no intervención se refiere a la injerencia de un Estado en otro."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de libre determinación",
+          "is_correct": false,
+          "feedback": "Incorrect. La libre determinación es el derecho de los pueblos a decidir su estatus político."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El DIH (o derecho de la guerra) está contenido en los Convenios de Ginebra de 1949. Establece reglas mínimas: protección de civiles, heridos y prisioneros, prohibición de tortura y tratos crueles.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v11",
+      "statement": "¿Cuál ha sido un desafío importante en la implementación del Acuerdo de Paz en Colombia?",
+      "context": "Se analiza cómo Colombia ha implementado el Acuerdo de Paz con las FARC desde 2016.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acuerdo se implementó completamente y sin problemas",
+          "is_correct": false,
+          "feedback": "Incorrect. La implementación ha enfrentado múltiples obstáculos."
+        },
+        {
+          "letter": "B",
+          "text": "La violencia continua de grupos armados ilegales (ELN, disidencias de FARC) en territorios donde antes estaban las FARC, y el asesinato de líderes sociales y excombatientes",
+          "is_correct": true,
+          "feedback": "Correct. A pesar del acuerdo, líderes sociales y excombatientes siguen siendo asesinados, y otros grupos ocupan los territorios dejados por las FARC."
+        },
+        {
+          "letter": "C",
+          "text": "El acuerdo fue rechazado por todas las partes",
+          "is_correct": false,
+          "feedback": "Incorrect. El acuerdo fue firmado (tras un primer plebiscito derrotado, se negoció un nuevo acuerdo que se aprobó en el Congreso)."
+        },
+        {
+          "letter": "D",
+          "text": "El conflicto armado terminó por completo en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrect. El conflicto continúa con otros actores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La implementación del Acuerdo de Paz ha enfrentado desafíos: más de 400 excombatientes asesinados, líderes sociales asesinados, y grupos armados disputando territorios. Sin embargo, el acuerdo ha reducido significativamente la violencia.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v12",
+      "statement": "¿Qué causa principal explica los conflictos en muchos países africanos después de su independencia?",
+      "context": "Se analiza la crisis humanitaria en Sudán del Sur, el país más joven del mundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clima extremo y la falta de recursos naturales",
+          "is_correct": false,
+          "feedback": "Incorrect. Muchos países africanos son ricos en recursos."
+        },
+        {
+          "letter": "B",
+          "text": "Las fronteras artificiales trazadas por las potencias coloniales europeas, que agruparon grupos étnicos rivales en un mismo país y dividieron a otros",
+          "is_correct": true,
+          "feedback": "Correct. La Conferencia de Berlín (1884-1885) dividió África sin considerar las realidades étnicas y culturales."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de educación de la población africana",
+          "is_correct": false,
+          "feedback": "Incorrect. La educación es una consecuencia, no la causa principal."
+        },
+        {
+          "letter": "D",
+          "text": "La sobrepoblación en el continente",
+          "is_correct": false,
+          "feedback": "Incorrect. África tiene baja densidad poblacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El colonialismo europeo en África trazó fronteras arbitrarias que no respetaban las divisiones étnicas, lingüísticas y culturales preexistentes. Esto ha generado conflictos postcoloniales en países como Sudán del Sur, Nigeria, Ruanda y la República Democrática del Congo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v13",
+      "statement": "¿Es viable y conveniente esta propuesta?",
+      "context": "Un estudiante afirma que Colombia debería retirarse de la Corte Penal Internacional para evitar que juzgue a colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la CPI no tiene jurisdicción sobre Colombia",
+          "is_correct": false,
+          "feedback": "Incorrect. Colombia sí es parte del Estatuto de Roma."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la CPI solo juzga a ciudadanos colombianos si la justicia colombiana no lo hace. Además, retirarse enviaría una señal negativa sobre el compromiso de Colombia con los derechos humanos",
+          "is_correct": false,
+          "feedback": "Correct. La CPI es complementaria: solo actúa si los tribunales nacionales no pueden o no quieren juzgar."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la CPI es una institución inútil",
+          "is_correct": false,
+          "feedback": "Incorrect. La CPI ha emitido sentencias importantes contra crímenes internacionales."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la CPI tiene más poder que la Corte Constitucional colombiana",
+          "is_correct": false,
+          "feedback": "Incorrect. La CPI es complementaria, no superior a las cortes nacionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de complementariedad de la CPI significa que los Estados tienen la primera responsabilidad de juzgar. Colombia fortaleció su justicia transicional con la JEP para que los crímenes del conflicto sean juzgados en el país.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v14",
+      "statement": "¿Por qué es importante la participación de las mujeres en los procesos de paz?",
+      "context": "Se analiza el papel de las mujeres en la construcción de paz en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las mujeres no se ven afectadas por los conflictos armados",
+          "is_correct": false,
+          "feedback": "Incorrect. Las mujeres sufren impactos específicos del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los procesos de paz con participación femenina tienen mayor probabilidad de éxito y sostenibilidad, según estudios de la ONU",
+          "is_correct": false,
+          "feedback": "Correct. Los acuerdos de paz con participación femenina tienen 35% más probabilidad de durar al menos 15 años según la ONU."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las mujeres son naturalmente más pacíficas",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay evidencia de que las mujeres sean \"naturalmente\" más pacíficas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las mujeres no deben participar en política",
+          "is_correct": false,
+          "feedback": "Incorrect. La participación femenina es un derecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Resolución 1325 del Consejo de Seguridad de la ONU (2000) reconoce el papel fundamental de las mujeres en la prevención y resolución de conflictos. En Colombia, mujeres líderes y víctimas participaron en las negociaciones de paz de La Habana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-v15",
+      "statement": "¿Cuál de las siguientes afirmaciones es correcta sobre el derecho a la paz?",
+      "context": "Un debate en clase: ¿Es la paz un derecho humano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La paz no es un derecho humano porque no está en la DUDH de 1948",
+          "is_correct": false,
+          "feedback": "Parcialmente cierto, pero desde entonces se ha reconocido como derecho."
+        },
+        {
+          "letter": "B",
+          "text": "La paz es un derecho humano de tercera generación (solidaridad) reconocido por la ONU y la Constitución colombiana",
+          "is_correct": false,
+          "feedback": "Correct. La paz es un derecho colectivo, de tercera generación. El artículo 22 de la Constitución colombiana dice: \"La paz es un derecho y un deber de obligatorio cumplimiento.\""
+        },
+        {
+          "letter": "C",
+          "text": "La paz solo puede ser un deseo, no un derecho exigible",
+          "is_correct": false,
+          "feedback": "Incorrect. En Colombia, la paz es un derecho constitucional exigible."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la paz solo aplica en tiempos de guerra",
+          "is_correct": false,
+          "feedback": "Incorrect. El derecho a la paz aplica siempre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La paz es un derecho humano de tercera generación, también llamados derechos de solidaridad. La Constitución colombiana de 1991 establece la paz como derecho y deber. La Corte Constitucional ha desarrollado jurisprudencia sobre el derecho a la paz.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v1",
+      "statement": "\"When I was a child, we ____ live in a small town, and my father ____ take us to the river every Sunday.\"",
+      "context": "Discussing childhood habits.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "used to / would",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct. 'Used to' for a past state (live) and 'would' for a repeated past action (take)."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "would / used to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. 'Would' is not used for past states like 'live'."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "used to / used to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also grammatically correct, but less varied."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "were / did",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v2",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "'Used to' can describe both past states and actions. 'Would' only describes repeated past actions, not states.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v2",
+      "statement": "\"Moving to London was hard, but I am finally ____ the cold weather and driving on the left.\"",
+      "context": "Moving to a new country.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs 'getting' or 'being' used to for the process."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "getting used to",
+          "is_correct": true,
+          "feedback": "Correct. Describes the process of becoming familiar with something."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "use to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect spelling."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "used for",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect preposition."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Get used to' + gerund/noun describes the process of adjustment.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v3",
+      "statement": "\"I ____ stay up late studying for exams, but now that I have graduated, I ____ early every day.\"",
+      "context": "A person who recently graduated.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "was used to / work",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
+          "text": "used to / work",
           "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Past habit vs present fact."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "would / am working",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct, but B is a more direct contrast."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "got used to / worked",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Contrast between past habits and present routines.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v4",
+      "statement": "\"After living in Japan for a year, she ____ to the etiquette, but she still ____ bowing instead of shaking hands.\"",
+      "context": "An article about cultural adaptation.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "used to / used to",
+          "is_correct": false,
+          "feedback": "Incorrect usage."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "was used / found difficult",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. 'Was used' implies she was accustomed."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "got used / is using",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect grammar."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "had used / would use",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect context."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v10",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Be used to' (state of being accustomed) vs 'get used to' (the process).\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v5",
+      "statement": "\"I didn't think I would like the night shift, but I ____ it quite quickly.\"",
+      "context": "Changing jobs.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "was used to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is a state."
         },
         {
           "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
+          "text": "got used to",
+          "is_correct": true,
+          "feedback": "Correct. Shows the transition into a new habit."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "am used to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "'Got used to' is used to show a change in state regarding a habit.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v14",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-v15",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W02-life-experiences-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v6",
+      "statement": "\"The athlete ____ train for six hours a day, which is why he ____ the intense pressure of the Olympics.\"",
+      "context": "A biography of a famous athlete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to / was getting used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would / was used to",
+          "is_correct": true,
+          "feedback": "Correct. 'Would' for repeated action, 'was used to' for being accustomed."
+        },
+        {
+          "letter": "C",
+          "text": "used to / use to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "is used to / used to",
+          "is_correct": false,
+          "feedback": "Tense mismatch."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguishing between repeated past actions and states of being accustomed.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v7",
+      "statement": "\"We ____ have to wait weeks for a letter, but we soon ____ instant messaging.\"",
+      "context": "Reflecting on how technology has changed lives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would / are used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "used to / got used to",
+          "is_correct": true,
+          "feedback": "Correct. Past state vs becoming accustomed to a new one."
+        },
+        {
+          "letter": "C",
+          "text": "used to / were using",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "were / used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Used to' is necessary for states, and 'get used to' for the transition.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v8",
+      "statement": "\"Despite the noise of the city, the old man ____ in his quiet village, where he ____ sit by the fire every evening.\"",
+      "context": "A story about an elderly man.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is used to live / would",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had been used to living / would",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect form of 'be used to'."
+        },
+        {
+          "letter": "C",
+          "text": "used to live / was used to",
+          "is_correct": false,
+          "feedback": "Correct but less sophisticated."
+        },
+        {
+          "letter": "D",
+          "text": "was used to / used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Complexity: Past Perfect 'be used to' to describe a state prior to a past event.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v9",
+      "statement": "\"Employees ____ the office routine, so they found it difficult ____ to working from home at first.\"",
+      "context": "A discussion on remote work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were used to / use to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were used to / to get used",
+          "is_correct": true,
+          "feedback": "Correct. 'Be used to' for the state, 'get used' for the transition."
+        },
+        {
+          "letter": "C",
+          "text": "used to / getting used",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "would / getting used",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using 'be used to' and 'get used to' in the same sentence.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v10",
+      "statement": "\"Rarely ____ he ____ how much he ____ his grandmother's stories until she passed away.\"",
+      "context": "A philosophical take on aging.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "did / realize / would enjoy",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Rarely'."
+        },
+        {
+          "letter": "B",
+          "text": "had / realized / used to enjoy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "was / realizing / would",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "does / realize / would",
+          "is_correct": false,
+          "feedback": "Tense mismatch."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with negative adverbials and 'would' for past habits.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v11",
+      "statement": "\"Settlers ____ the harsh conditions, yet they ____ their traditional customs whenever possible.\"",
+      "context": "Academic text on historical migrations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were not used to / would keep",
+          "is_correct": false,
+          "feedback": "Correct but less precise."
+        },
+        {
+          "letter": "B",
+          "text": "had not been used to / would maintain",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect state + 'would' for habit."
+        },
+        {
+          "letter": "C",
+          "text": "didn't use to / kept",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "were used to / used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Formal vocabulary (maintain) and advanced past perfect 'be used to'.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-v12",
+      "statement": "\"Hardly ____ the new manager ____ into her role when she had to ____ to a completely different corporate culture.\"",
+      "context": "Speculating about a lifestyle change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had / settled / get used",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Hardly' and 'get used to'."
+        },
+        {
+          "letter": "B",
+          "text": "did / settle / be used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "was / settling / used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has / settled / get used",
+          "is_correct": false,
+          "feedback": "Tense mismatch."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Inversion with 'Hardly' combined with the transitionary 'get used to'.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W02-life-landmarks-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

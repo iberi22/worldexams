@@ -11,12 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "NAP Argentina"
+alignment: "NAP/Aprender"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 ## Question 1 [D3-D4]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v1
 **Bloom:** Remember

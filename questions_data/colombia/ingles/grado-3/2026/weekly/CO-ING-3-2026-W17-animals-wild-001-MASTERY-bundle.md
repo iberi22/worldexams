@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W17-animals-wild-001-MASTERY"
+id: "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "animals-wild"
 periodo: "weekly"
-semana: 17
+week: "W17"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Vocabulary for wild animals: lion, tiger, elephant, giraffe, monkey."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Animals Wild (W17)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W17: Animals - Wild (A1)
-
-Este bundle evalúa el vocabulario de animales salvajes en inglés.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-Which animal is the **"King of the Jungle"**?
-
-### Options
-- [x] A) Lion <!-- feedback: Correct! The lion is the king. -->
-- [ ] B) Monkey <!-- feedback: Incorrect. -->
-- [ ] C) Snake <!-- feedback: Incorrect. -->
-- [ ] D) Giraffe <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El león se dice "lion". Es conocido como el rey de la selva.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-What animal is very big and has a **trunk** (trompa)?
-
-### Options
-- [ ] A) Lion <!-- feedback: Incorrect. -->
-- [x] B) Elephant <!-- feedback: Correct! Elephants have trunks. -->
-- [ ] C) Tiger <!-- feedback: Incorrect. -->
-- [ ] D) Giraffe <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El elefante se dice "elephant".
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What animal has a very **long neck**?
-
-### Options
-- [ ] A) Elephant <!-- feedback: Incorrect. -->
-- [ ] B) Lion <!-- feedback: Incorrect. -->
-- [x] C) Giraffe <!-- feedback: Correct! Giraffes have long necks. -->
-- [ ] D) Monkey <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La jirafa se dice "giraffe". Usan su cuello largo para comer hojas de árboles altos.
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What animal likes **bananas** and climbs trees?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Tiger <!-- feedback: Incorrect. -->
-- [x] B) Monkey <!-- feedback: Correct! Monkeys love bananas. -->
-- [ ] C) Snake <!-- feedback: Incorrect. -->
-- [ ] D) Elephant <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El mono se dice "monkey".
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What animal has **stripes** (rayas) and is orange?
-
-### Options
-- [ ] A) Lion <!-- feedback: Incorrect. -->
-- [x] B) Tiger <!-- feedback: Correct! Tigers have stripes. -->
-- [ ] C) Zebra <!-- feedback: Incorrect. Zebras are black and white. -->
-- [ ] D) Bear <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El tigre se dice "tiger".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v6`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-What animal is black and white with **stripes**?
-
-### Options
-- [x] A) Zebra <!-- feedback: Correct! Zebras are striped. -->
-- [ ] B) Horse <!-- feedback: Incorrect. -->
-- [ ] C) Tiger <!-- feedback: Incorrect. -->
-- [ ] D) Lion <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La cebra se dice "zebra".
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v7`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-Which animal lives in the **water** and is very big?
-
-### Options
-- [ ] A) Lion <!-- feedback: Incorrect. -->
-- [x] B) Whale <!-- feedback: Correct! Whales live in the ocean. -->
-- [ ] C) Giraffe <!-- feedback: Incorrect. -->
-- [ ] D) Monkey <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La ballena se dice "whale". Vive en el mar.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v8`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which animal has **no legs** (no tiene piernas)?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Monkey <!-- feedback: Incorrect. -->
-- [ ] B) Tiger <!-- feedback: Incorrect. -->
-- [x] C) Snake <!-- feedback: Correct! Snakes crawl. -->
-- [ ] D) Bear <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La serpiente se dice "snake".
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v9`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Oso"** in English?
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Beer <!-- feedback: Incorrect. That is cerveza! -->
-- [x] B) Bear <!-- feedback: Correct! Bear is oso. -->
-- [ ] C) Bird <!-- feedback: Incorrect. -->
-- [ ] D) Bee <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El oso se dice "bear". ¡No confundir con la bebida "beer"!
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W17-animals-wild-001-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do wild animals live?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) In a house <!-- feedback: Incorrect. -->
-- [x] B) In the jungle or forest <!-- feedback: Correct! -->
-- [ ] C) In a school <!-- feedback: Incorrect. -->
-- [ ] D) In a bathroom <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Los animales salvajes (wild animals) viven en la naturaleza, como la selva (jungle) o el bosque (forest).
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

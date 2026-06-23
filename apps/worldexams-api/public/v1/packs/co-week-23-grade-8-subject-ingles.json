@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.744Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v1",
+      "statement": "I ________ English for three years, and I still have a lot to learn.",
+      "context": "Identifying the structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have study",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have been studying",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect Continuous: have/has + been + -ing."
+        },
+        {
+          "letter": "C",
+          "text": "am studying",
+          "is_correct": false,
+          "feedback": "Incorrect. This is only for now."
+        },
+        {
+          "letter": "D",
+          "text": "has been studying",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I\" takes \"have\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto Continuo se usa para acciones que comenzaron en el pasado y continúan en el presente. La estructura es: have/has + been + verbo con -ing.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v2",
+      "statement": "How long ________ it ________ raining? The street is completely flooded.",
+      "context": "Asking about duration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is / being",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "has / been",
+          "is_correct": true,
+          "feedback": "Correct! Question form: How long + has/have + subject + been + -ing?"
+        },
+        {
+          "letter": "D",
+          "text": "did / been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para preguntar por la duración de una acción que aún continúa, usamos la estructura interrogativa del Presente Perfecto Continuo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v3 Higgins",
+      "statement": "Maria is very tired because she ________ all day.",
+      "context": "Third person singular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have been working",
+          "is_correct": false,
+          "feedback": "Incorrect. \"She\" takes \"has\"."
+        },
+        {
+          "letter": "B",
+          "text": "has been working",
+          "is_correct": true,
+          "feedback": "Correct! Subject-verb agreement is \"has\" for she."
+        },
+        {
+          "letter": "C",
+          "text": "is working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "worked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que en el Presente Perfecto Simple, en el Continuo debemos usar \"has\" cuando el sujeto es he, she o it.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v4",
+      "statement": "Your eyes are red. ________ you ________?",
+      "context": "Action that has just finished with visible results.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did / cry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Have / been crying",
+          "is_correct": true,
+          "feedback": "Correct! We use this tense for actions that just finished but have visible effects now."
+        },
+        {
+          "letter": "C",
+          "text": "Are / crying",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Has / been crying",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto Continuo se usa a menudo para explicar un estado presente como resultado de una actividad que acaba de ocurrir (ojos rojos -> haber estado llorando).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v5",
+      "statement": "Which sentence is **NOT** correct in the continuous form?",
+      "context": "Continuous action vs. state.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have been playing soccer.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        },
+        {
+          "letter": "B",
+          "text": "I have been knowing her for years.",
+          "is_correct": true,
+          "feedback": "Correct! \"Know\" is a stative verb and shouldn't be used in continuous forms."
+        },
+        {
+          "letter": "C",
+          "text": "I have been waiting for you.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        },
+        {
+          "letter": "D",
+          "text": "I have been reading this book.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de estado (stative verbs) como \"know\", \"like\" o \"believe\" no se usan normalmente en tiempos continuos, ni siquiera en el Presente Perfecto Continuo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v6",
+      "statement": "The government ________ this new bridge for two years, and it's almost finished.",
+      "context": "Describing a long-term project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "builds",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "has been building",
+          "is_correct": true,
+          "feedback": "Correct! Describes an ongoing process over a period of time."
+        },
+        {
+          "letter": "C",
+          "text": "is building",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't emphasize the two-year duration as well."
+        },
+        {
+          "letter": "D",
+          "text": "was building",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para procesos largos que aún no terminan, el Presente Perfecto Continuo es el tiempo más preciso porque conecta el inicio pasado con el progreso actual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v7",
+      "statement": "**A:** \"I ________ five emails today.\" (Focus on the result/number).\n**B:** \"I ________ emails all morning.\" (Focus on the activity).",
+      "context": "Contrast with Present Perfect Simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have been writing / have been writing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have written / have been writing",
+          "is_correct": true,
+          "feedback": "Correct! Simple for quantity/result; Continuous for duration/activity."
+        },
+        {
+          "letter": "C",
+          "text": "have written / have written",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "am writing / was writing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Presente Perfecto Simple cuando nos enfocamos en el resultado o la cantidad (cuántos). Usamos el Continuo cuando nos enfocamos en el proceso o la duración (cuánto tiempo).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v8",
+      "statement": "\"Someone has been using my computer without permission! All my files are moved.\"\nWhat is the tone of this sentence?",
+      "context": "Expressing annoyance with continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy and grateful.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Annoyed or suspicious.",
+          "is_correct": true,
+          "feedback": "Correct! Present perfect continuous is often used to complain about something."
+        },
+        {
+          "letter": "C",
+          "text": "Neutral and bored.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Confused about the future.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que el Presente Continuo, el Presente Perfecto Continuo se usa frecuentemente para quejarse de acciones repetitivas o recientes que nos resultan molestas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v9",
+      "statement": "She has been living in Bogotá ________ she graduated from university.",
+      "context": "Using \"for\" and \"since\" correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct! \"Since\" is for a specific point in time (graduation)."
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ago",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las reglas para \"for\" y \"since\" son las mismas que en el Presente Perfecto Simple. \"Since\" para el momento de inicio, \"for\" para la duración.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"I **have (A)** been **waiting (B)** for you **since (C)** three **hours (D)**!\"",
+      "context": "Identifying errors in complex sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "waiting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Three hours\" is a duration, so it must use \"for\"."
+        },
+        {
+          "letter": "D",
+          "text": "hours",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciar entre un punto en el tiempo (since) y un periodo (for) es una de las áreas donde los estudiantes de nivel B1 cometen más errores.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v11",
+      "statement": "You arrive late to a meeting and you are out of breath. Which explanation is most natural?",
+      "context": "Choosing the best justification.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I ran to the office.",
+          "is_correct": false,
+          "feedback": "Incorrect. A bit too simple."
+        },
+        {
+          "letter": "B",
+          "text": "I'm sorry, I'm out of breath because I've been running to get here on time.",
+          "is_correct": true,
+          "feedback": "Correct! Explains a current physical state through a recent continuous activity."
+        },
+        {
+          "letter": "C",
+          "text": "I have run to the office once.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sounds like a life experience."
+        },
+        {
+          "letter": "D",
+          "text": "I was running yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto Continuo es el tiempo ideal para justificar estados físicos presentes (cansancio, sudor, suciedad) basándose en la actividad inmediatamente anterior.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v12",
+      "statement": "\"In recent years, the average temperature in the world has been rising steadily. Scientists have been warning us about the consequences of climate change for decades, but many people are just starting to listen now.\"\nWhat is the best summary?",
+      "context": "Selecting the best summary of an ongoing trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Climate change is an ongoing process that has been occurring alongside long-term scientific warnings.",
+          "is_correct": true,
+          "feedback": "Correct! It captures the continuous nature of both the rising temperature and the warnings."
+        },
+        {
+          "letter": "B",
+          "text": "The temperature rose once and then stopped.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Scientists just started to warn people yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Text says \"for decades\"."
+        },
+        {
+          "letter": "D",
+          "text": "People are not interested in the weather.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sintetizar tendencias globales requiere comprender cómo el Presente Perfecto Continuo describe procesos que no son eventos aislados, sino flujos constantes de acción desde el pasado hasta hoy.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

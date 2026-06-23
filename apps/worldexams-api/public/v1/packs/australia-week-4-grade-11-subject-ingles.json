@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "English",
+    "country": "australia",
+    "pack_id": "australia-week-4-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.886Z"
+  },
+  "questions": [
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v1",
+      "statement": "Which piece of evidence best supports the claim that exercise improves academic performance?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v2",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v3",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v4",
+      "statement": "Which piece of evidence best supports the claim that social media affects teen mental health?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v5",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v6",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v7",
+      "statement": "Which piece of evidence best supports the claim that exercise improves academic performance?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v8",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v9",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v10",
+      "statement": "Which piece of evidence best supports the claim that exercise improves academic performance?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v11",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v12",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v13",
+      "statement": "Which piece of evidence best supports the claim that exercise improves academic performance?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v14",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v15",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v16",
+      "statement": "Which piece of evidence best supports the claim that social media affects teen mental health?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v17",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v18",
+      "statement": "What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?\n\n- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->\n\n- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->\n\n- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->\n\n- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perseverance leads to success",
+          "is_correct": true,
+          "feedback": "Correcto! Perseverance leads to success"
+        },
+        {
+          "letter": "B",
+          "text": "Obstacles are impossible to overcome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obstacles are impossible to overcome"
+        },
+        {
+          "letter": "C",
+          "text": "Characters never change",
+          "is_correct": false,
+          "feedback": "Incorrecto. Characters never change"
+        },
+        {
+          "letter": "D",
+          "text": "The setting is the most important element",
+          "is_correct": false,
+          "feedback": "Incorrecto. The setting is the most important elemen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v19",
+      "statement": "Which piece of evidence best supports the claim that exercise improves academic performance?\n\n- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->\n\n- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->\n\n- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->\n\n- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A study showing correlation between the two factors",
+          "is_correct": true,
+          "feedback": "Correcto! A study showing correlation between the two factors"
+        },
+        {
+          "letter": "B",
+          "text": "An opinion from a random blog post",
+          "is_correct": false,
+          "feedback": "Incorrecto. An opinion from a random blog post"
+        },
+        {
+          "letter": "C",
+          "text": "A fictional story about the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. A fictional story about the topic"
+        },
+        {
+          "letter": "D",
+          "text": "An advertisement related to the topic",
+          "is_correct": false,
+          "feedback": "Incorrecto. An advertisement related to the topic"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong evidence comes from studies and research, not opinions, fiction, or advertisements.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY-v20",
+      "statement": "Which sentence uses correct punctuation?\n\n- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->\n\n- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->\n\n- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->\n\n- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->",
+      "context": "Students in AU are dev### Opciones\neloping their English language arts skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After school, we went to the park.",
+          "is_correct": true,
+          "feedback": "Correcto! After school, we went to the park."
+        },
+        {
+          "letter": "B",
+          "text": "After school we went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we went to the park."
+        },
+        {
+          "letter": "C",
+          "text": "After school, we went, to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school, we went, to the park."
+        },
+        {
+          "letter": "D",
+          "text": "After school we, went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrecto. After school we, went to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A comma should follow an introductory phrase like 'After school' before the main clause.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de conocimientos",
+      "expected_success": 0.75,
+      "bundle_id": "AU-ENG-11-2026-W04-language-devices-001-MASTERY",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

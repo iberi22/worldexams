@@ -9,648 +9,555 @@
   "questions": [
     {
       "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "statement": "\"Influencers often ____ their professional photos ____ by specialized photographers to maintain a high-quality feed.\"",
+      "context": "Discussing profile management.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "have / taking",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
+          "text": "have / taken",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct causative structure (have + object + past participle)."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "get / taking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "have / took",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "The causative 'have something done' is used when someone else performs a service for us.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v2",
+      "statement": "\"You should ____ your account ____ twice a year to ensure your privacy settings are up to date.\"",
+      "context": "Securing an account.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "have / check",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "get / checked",
+          "is_correct": true,
+          "feedback": "Correct causative with 'get' (get + object + past participle)."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "get / checking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "have / to check",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect syntax for causative passive."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Get something done' is a more informal alternative to 'have something done' and follows the same structure.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v4",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v5",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v3",
+      "statement": "\"I couldn't post anything yesterday because I was ____ my screen ____ at the tech store.\"",
+      "context": "Repairing technology.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "having / repair",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v6",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
+          "text": "having / repaired",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct causative in the continuous form."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "getting / to repair",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "'Get someone to do' is active causative; passive needs past participle."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "getting / repair",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Causative structures can be used in different tenses (e.g., Past Continuous: was having something done).\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v4",
+      "statement": "\"Companies ____ harmful content ____ by AI algorithms before it reaches a large audience.\"",
+      "context": "An article about content moderation.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "get / removing",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v8",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
+          "text": "have / removed",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct causative passive."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "have / remove",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "This is active causative (have someone do)."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "got / removed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect tense for a general fact."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v10",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v11",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v12",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using the causative passive to describe technical and automated processes.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v13",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v5",
+      "statement": "\"Did you ____ your new app ____ by a professional agency?\"",
+      "context": "A conversation about marketing.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "have / promote",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "have / promoted",
+          "is_correct": true,
+          "feedback": "Correct causative question structure."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "get / promoting",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "had / promoted",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect auxiliary in question."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Forming questions with the causative 'have something done' using 'do/did'.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v14",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v6",
+      "statement": "\"The firm ____ its social media posts ____ into five different languages every week.\"",
+      "context": "Describing a corporate social media strategy.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
+          "text": "gets / translate",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
+          "text": "gets / translated",
+          "is_correct": true,
+          "feedback": "Correct causative for repetitive services."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "has / translating",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "is having / translate",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Using 'gets' + object + past participle for routine professional tasks.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v7",
+      "statement": "\"We ____ our database ____ after the cyberattack last month.\"",
+      "context": "Reflecting on a past mistake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / encrypted",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "had / encrypted",
+          "is_correct": true,
+          "feedback": "Correct causative in the past."
+        },
+        {
+          "letter": "C",
+          "text": "were having / encrypt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "got / encrypt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'had something done' to report actions taken as a response to past events.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v8",
+      "statement": "\"It is common for celebrities to ____ their social media accounts ____ by entire teams of experts.\"",
+      "context": "A text about digital influencers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get / managing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have / managed",
+          "is_correct": true,
+          "feedback": "Correct causative passive."
+        },
+        {
+          "letter": "C",
+          "text": "have / manage",
+          "is_correct": false,
+          "feedback": "Correct active causative, but 'managed' fits the context of delegating."
+        },
+        {
+          "letter": "D",
+          "text": "are having / managed",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for general state."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparing active and passive causative structures in a celebrity context.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
       "expected_success": 0.59,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v15",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v9",
+      "statement": "\"By next year, the startup ____ its new feature ____ by a global group of beta testers.\"",
+      "context": "Discussing future plans for a tech startup.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "will have / test",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "will have had / tested",
+          "is_correct": true,
+          "feedback": "Correct Future Perfect causative (will have + had + object + p.p.)."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "will be having / tested",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future Continuous causative, possible but B is for completion."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "will have / tested",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future simple causative."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using causative structures in the Future Perfect tense.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
       "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v10",
+      "statement": "\"Hardly ever ____ the CEO ____ his own posts without having them reviewed by the legal department.\"",
+      "context": "A formal report on social media audits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does / publish",
+          "is_correct": true,
+          "feedback": "Correct inversion."
+        },
+        {
+          "letter": "B",
+          "text": "has / published",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "C",
+          "text": "is / publishing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did / publish",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with 'Hardly ever' combined with a causative logic (not causative verb here, but related context).\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v11",
+      "statement": "\"Users often forget that they can ____ their personal data ____ upon request under the new law.\"",
+      "context": "Critique of social media transparency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / delete",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have / deleted",
+          "is_correct": true,
+          "feedback": "Correct causative passive for legal rights."
+        },
+        {
+          "letter": "C",
+          "text": "get / deleting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had / deleted",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the causative passive to describe the exercise of legal rights over personal data.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W31-social-media-001-MASTERY-v12",
+      "statement": "\"The politician ____ the controversial video ____ from the platform by filing a formal complaint.\"",
+      "context": "A complex scenario involving misinformation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "got / removing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "succeeded in getting / removed",
+          "is_correct": true,
+          "feedback": "Correct. Success verb + causative 'get' structure."
+        },
+        {
+          "letter": "C",
+          "text": "managed to have / remove",
+          "is_correct": false,
+          "feedback": "Incorrect (active causative)."
+        },
+        {
+          "letter": "D",
+          "text": "had / remove",
+          "is_correct": false,
+          "feedback": "Incorrect (active causative)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Combining achievement verbs (succeed in) with a causative passive structure to describe a complex action.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W31-social-media-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

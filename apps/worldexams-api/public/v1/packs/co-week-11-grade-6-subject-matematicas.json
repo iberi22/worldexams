@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.027Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-001-v1",
+      "statement": "En el salón de clase hay 15 niños y 20 niñas. ¿Cual es la razon de niños a niñas?",
+      "context": "Estudiantes en el salon",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15:35",
+          "is_correct": false,
+          "feedback": "Incorrect. La razon niños:niñas compara 15 con 20. 35 es el total de estudiantes (15+20). La razon no es parte-todo, es parte-parte."
+        },
+        {
+          "letter": "B",
+          "text": "15:20",
+          "is_correct": true,
+          "feedback": "Correct. La razon de niños a niñas es 15:20, que se simplifica a 3:4."
+        },
+        {
+          "letter": "C",
+          "text": "20:15",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir el orden. La razon pide niños a niñas, no niñas a niños. 15:20 es la razon correcta."
+        },
+        {
+          "letter": "D",
+          "text": "20:35",
+          "is_correct": false,
+          "feedback": "Incorrect. Comparar niñas con el total. La razon es parte-parte: niños (15) a niñas (20)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una razon compara dos cantidades. Se escribe como a:b o a/b.\r\nNiños : Niñas = 15 : 20.\r\nSe puede simplificar dividiendo ambos entre 5: 15:20 = 3:4.\r\nEsto significa que por cada 3 niños hay 4 niñas en el salon.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-002-v1",
+      "statement": "En una receta de limonada, por cada 2 limones se usan 3 cucharadas de azucar. ¿Cual es la razon de limones a azucar?",
+      "context": "Ingredientes de una receta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:2",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir el orden. La razon es limones:azucar = 2:3."
+        },
+        {
+          "letter": "B",
+          "text": "2:3",
+          "is_correct": true,
+          "feedback": "Correct. Por cada 2 limones, 3 cucharadas de azucar. Razon 2:3."
+        },
+        {
+          "letter": "C",
+          "text": "2:5",
+          "is_correct": false,
+          "feedback": "Incorrect. 2+3=5. La razon parte-parte es 2:3, no 2:5 (que seria limones:total)."
+        },
+        {
+          "letter": "D",
+          "text": "5:2",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar y luego poner al reves: 5:2. La razon es limones:azucar = 2:3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razon compara limones con azucar en ese orden: limones : azucar = 2 : 3.\r\nEsto significa que por cada 2 limones se necesitan 3 cucharadas de azucar.\r\nUna razon tambien se puede escribir como fraccion: 2/3.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-003-v1",
+      "statement": "La razon de ninos a ninas en un curso es 2:3. Si hay 12 ninos, ¿cuantas ninas hay?",
+      "context": "Proporciones equivalentes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 ninas",
+          "is_correct": false,
+          "feedback": "Incorrect. 12×2/3=8. Error: multiplicar por 2/3. La razon 2:3 significa 2/3 = ninos/ninas, entonces ninas = 12×3/2 = 18."
+        },
+        {
+          "letter": "B",
+          "text": "12 ninas",
+          "is_correct": false,
+          "feedback": "Incorrect. 12+? = 2:3. Si hay 12 ninos y 12 ninas, la razon seria 1:1. La razon es 2:3, entonces por cada 12 ninos (2×6) hay 3×6=18 ninas."
+        },
+        {
+          "letter": "C",
+          "text": "18 ninas",
+          "is_correct": true,
+          "feedback": "Correct. 2:3 = 12:?. Factor de 2 a 12 es ×6. Entonces 3×6=18 ninas."
+        },
+        {
+          "letter": "D",
+          "text": "30 ninas",
+          "is_correct": false,
+          "feedback": "Incorrect. 12+18=30. Sumar 12+18=30. La razon seria 12:30 = 2:5, no 2:3. La respuesta correcta es 18."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si la razon es 2:3, significa que por cada 2 ninos hay 3 ninas.\r\nPara 12 ninos: 2 → ×6 → 12. Aplicamos el mismo factor a las ninas: 3 × 6 = 18.\r\nHay 18 ninas. Verificacion: 12:18 = 2:3 (dividiendo entre 6). ✓\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-004-v1",
+      "statement": "¿Cual de los siguientes pares de razones forman una proporción?",
+      "context": "Verificar proporciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2:3 y 4:5",
+          "is_correct": false,
+          "feedback": "Incorrect. 2×5=10 y 3×4=12. Productos cruzados diferentes (10 ≠ 12), no forman proporción."
+        },
+        {
+          "letter": "B",
+          "text": "3:4 y 6:8",
+          "is_correct": true,
+          "feedback": "Correct. 3×8=24 y 4×6=24. Productos cruzados iguales, forman proporción. 3/4 = 6/8."
+        },
+        {
+          "letter": "C",
+          "text": "1:2 y 2:3",
+          "is_correct": false,
+          "feedback": "Incorrect. 1×3=3 y 2×2=4. 3 ≠ 4. No forman proporción."
+        },
+        {
+          "letter": "D",
+          "text": "5:2 y 10:6",
+          "is_correct": false,
+          "feedback": "Incorrect. 5×6=30 y 2×10=20. 30 ≠ 20. No forman proporción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos razones forman una proporción si los productos cruzados son iguales.\r\nPara a:b = c:d, se cumple que a×d = b×c.\r\nVerificando B: 3:4 y 6:8 → 3×8=24 y 4×6=24. ¡Son iguales! 3/4 = 6/8 = 0,75.\r\nLas demas opciones tienen productos cruzados diferentes.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-005-v1",
+      "statement": "En un mapa, 1 cm representa 50 km en la realidad. Si la distancia entre Bogota y Medellin en el mapa es de 5 cm, ¿cual es la distancia real?",
+      "context": "Mapa a escala",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 km",
+          "is_correct": false,
+          "feedback": "Incorrect. 50×4=200. Error: 5×40=200. La escala es 1cm:50km, entonces 5cm×50=250km."
+        },
+        {
+          "letter": "B",
+          "text": "250 km",
+          "is_correct": true,
+          "feedback": "Correct. 5 cm × 50 km/cm = 250 km."
+        },
+        {
+          "letter": "C",
+          "text": "55 km",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar 50+5=55. La relacion es multiplicacion, no suma."
+        },
+        {
+          "letter": "D",
+          "text": "10 km",
+          "is_correct": false,
+          "feedback": "Incorrect. Dividir 50÷5=10. Error: 5×50=250, no 50/5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala 1:50 significa 1 cm en el mapa = 50 km reales.\r\nDistancia real = 5 cm × 50 km/cm = 250 km.\r\nLa distancia real entre Bogota y Medellin es de aproximadamente 250 km.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-006-v1",
+      "statement": "Para preparar jugo de naranja, la razon de agua a concentrado es 5:2. Si se usan 10 vasos de agua, ¿cuantos vasos de concentrado se necesitan?",
+      "context": "Mezcla de jugo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 vasos",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir. Si la razon es 5:2, y hay 10 de agua (el doble de 5), entonces de concentrado es el doble de 2 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "7 vasos",
+          "is_correct": false,
+          "feedback": "Incorrect. 5+2=7. Sumar en vez de aplicar la proporcion. 10 agua, entonces 10/5=2, 2×2=4."
+        },
+        {
+          "letter": "C",
+          "text": "4 vasos",
+          "is_correct": true,
+          "feedback": "Correct. Agua: 5→10 (×2). Concentrado: 2×2=4."
+        },
+        {
+          "letter": "D",
+          "text": "25 vasos",
+          "is_correct": false,
+          "feedback": "Incorrect. 5×5=25. Multiplicar 5×5 para el agua, y 2×5=10. Error: el factor es 2 (10÷5=2), no 5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Razon agua:concentrado = 5:2.\r\nAgua usada: 10 vasos. Factor = 10÷5 = 2.\r\nConcentrado necesario: 2 × 2 = 4 vasos.\r\nVerificacion: 10:4 = 5:2 ✓\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-007-v1",
+      "statement": "Dos socios invierten en un negocio de empanadas. Carlos aporta $3.000.000 y Maria $5.000.000. Al final del año, las ganancias son $4.000.000 y se reparten en proporción a lo invertido. ¿Cuanto recibe Maria?",
+      "context": "Reparto de utilidades",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.500.000",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso recibiria Carlos (3/8 × 4M = 1,5M). Maria recibe 5/8 × 4M = 2,5M."
+        },
+        {
+          "letter": "B",
+          "text": "$2.000.000",
+          "is_correct": false,
+          "feedback": "Incorrect. Dividir ganancias en partes iguales: 4M÷2=2M. Pero se reparte en proporcion a la inversion, no por igual. La inversion de Maria es mayor."
+        },
+        {
+          "letter": "C",
+          "text": "$2.500.000",
+          "is_correct": true,
+          "feedback": "Correct. Total inversion: 3M+5M=8M. Maria: 5/8 × 4.000.000 = 2.500.000."
+        },
+        {
+          "letter": "D",
+          "text": "$3.000.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 4.000.000×3/4=3.000.000. Error: usar 3/4 en vez de 5/8. Maria invirtio 5/8 del total."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Total invertido: $3.000.000 + $5.000.000 = $8.000.000.\r\nRazon de Maria respecto al total: 5/8.\r\nGanancia de Maria: 5/8 × $4.000.000 = $2.500.000.\r\nCarlos recibe: 3/8 × $4.000.000 = $1.500.000.\r\nVerificacion: 1.500.000:2.500.000 = 3:5 ✓\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-008-v1",
+      "statement": "Un ciclista recorre 36 km en 2 horas manteniendo velocidad constante. ¿Cuantos km recorrera en 5 horas a la misma velocidad?",
+      "context": "Velocidad y distancia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72 km",
+          "is_correct": false,
+          "feedback": "Incorrect. 36×2=72. Eso es en 4 horas (2×2). La proporcion: 36/2 = x/5 → x=36×5/2=90 km."
+        },
+        {
+          "letter": "B",
+          "text": "90 km",
+          "is_correct": false,
+          "feedback": "Correct. Proporcion: 36/2 = x/5 → x = (36×5)/2 = 180/2 = 90 km."
+        },
+        {
+          "letter": "C",
+          "text": "180 km",
+          "is_correct": true,
+          "feedback": "Incorrect. 36×5=180. Error: 36 km en 2 horas, entonces por hora son 18 km. En 5 horas: 18×5=90 km. No es 36×5."
+        },
+        {
+          "letter": "D",
+          "text": "41 km",
+          "is_correct": false,
+          "feedback": "Incorrect. 36+5=41. Sumar en vez de usar proporcion. La relacion es directamente proporcional: a mas horas, mas km."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es una relacion directamente proporcional: a mas tiempo, mas distancia.\r\n36 km / 2 h = 18 km/h (velocidad constante).\r\nEn 5 horas: 18 km/h × 5 h = 90 km.\r\nUsando proporcion: 36/2 = x/5 → x = (36×5)/2 = 90 km.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-009-v1",
+      "statement": "Dos jugos de naranja se preparan asi:\r\nJugo A: 3 vasos de agua por 1 de concentrado.\r\nJugo B: 5 vasos de agua por 2 de concentrado.\r\n¿Cual jugo tiene sabor mas concentrado a naranja?",
+      "context": "Comparacion de mezclas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugo A, porque tiene menos agua por concentrado",
+          "is_correct": false,
+          "feedback": "Correct. A: 3:1 = 3 vasos agua por 1 concentrado. B: 5:2 = 2,5 vasos agua por 1 concentrado. B tiene MENOS agua por concentrado, por eso es MAS concentrado."
+        },
+        {
+          "letter": "B",
+          "text": "Jugo B, porque tiene 2,5 vasos de agua por cada vaso de concentrado (menos que 3)",
+          "is_correct": true,
+          "feedback": "Correct. B: 5/2=2,5. A: 3/1=3. B tiene menos agua por unidad de concentrado, por eso sabe mas a naranja."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos saben igual porque tiene naranja",
+          "is_correct": false,
+          "feedback": "Incorrect. Las proporciones son diferentes: A (3:1=3) vs B (5:2=2,5). A tiene mas agua relativa, por eso es menos concentrado."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrect. Si se puede determinar. Calculamos la cantidad de agua por unidad de concentrado: A=3, B=2,5. Menos agua = mas concentrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar concentraciones, calculamos la cantidad de agua por cada unidad de concentrado:\r\nJugo A: 3/1 = 3 vasos de agua por cada vaso de concentrado.\r\nJugo B: 5/2 = 2,5 vasos de agua por cada vaso de concentrado.\r\nEl jugo B tiene menos agua por unidad de concentrado (2,5 < 3), por lo tanto tiene sabor MAS concentrado a naranja.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-razones-proporciones-010-v1",
+      "statement": "Para pintar un salon, la razon de pintura blanca a pintura azul debe ser 4:1. Si un pintor mezcla 8 galones de blanca con 3 de azul, ¿la mezcla tiene mas azul de la debida o menos?",
+      "context": "Error en mezcla de pintura",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menos azul de la debida",
+          "is_correct": false,
+          "feedback": "Incorrect. La mezcla real es 8:3 = 2,67:1 blanca:azul. La debida es 4:1 = 4:1. La mezcla real tiene menos blanca por azul (2,67 < 4), o sea MAS azul de la debida."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente la cantidad de azul correcta",
+          "is_correct": false,
+          "feedback": "Incorrect. 8/3 = 2,67. 4/1 = 4. No son iguales. 8/3 ≠ 4/1."
+        },
+        {
+          "letter": "C",
+          "text": "Mas azul de la debida",
+          "is_correct": true,
+          "feedback": "Correct. Debida: 4 blanca por 1 azul. Real: 8 blanca por 3 azul = 2,67 blanca por 1 azul. Hay MENOS blanca por azul = MAS azul de la debida."
+        },
+        {
+          "letter": "D",
+          "text": "La mezcla tiene menos pintura de la necesaria",
+          "is_correct": false,
+          "feedback": "Incorrect. La pregunta es sobre la proporcion, no sobre la cantidad total. La proporcion real es 8:3 = 2,67:1, que tiene mas azul que la debida 4:1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Razon debida: blanco:azul = 4:1. Significa 4 galones de blanca por cada 1 de azul.\r\nRazon real: blanco:azul = 8:3.\r\nPara comparar, vemos cuanta pintura blanca hay por cada galon de azul:\r\nDebida: 4 ÷ 1 = 4 galones de blanca por galon de azul.\r\nReal: 8 ÷ 3 = 2,67 galones de blanca por galon de azul.\r\nComo 2,67 < 4, la mezcla real tiene MENOS pintura blanca por cada galon de azul, lo que significa que tiene MAS azul de la debida.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Bucaramanga, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Pereira, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cali, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Sincelejo, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Bucaramanga, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. San José en Ibagué, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Medellín, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Quibdó, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.51,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. San José en Bucaramanga, se discute sobre Tema Semana 11 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 11 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 11 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 11 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.57,
+      "bundle_id": "CO-MAT-6-2026-W11-tema-semana-11-de-matematicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-13-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v1",
+      "statement": "Where do you **sleep**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect. You cook in the kitchen."
+        },
+        {
+          "letter": "B",
+          "text": "Bedroom",
+          "is_correct": true,
+          "feedback": "Correct! You sleep in the bedroom."
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Garden",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La habitación donde dormimos se llama \"bedroom\" (habitación de la cama).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v2",
+      "statement": "Where does your mom **cook**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kitchen",
+          "is_correct": true,
+          "feedback": "Correct! Kitchen is where we cook."
+        },
+        {
+          "letter": "B",
+          "text": "Bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Living room",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cocina se dice \"kitchen\". Es el lugar donde preparamos la comida.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v3",
+      "statement": "What is **\"Baño\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom",
+          "is_correct": true,
+          "feedback": "Correct! Bathroom is baño."
+        },
+        {
+          "letter": "D",
+          "text": "Garage",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El baño se dice \"bathroom\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v4",
+      "statement": "Where do you watch **TV** with your family?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Living room",
+          "is_correct": true,
+          "feedback": "Correct! Living room is sala."
+        },
+        {
+          "letter": "C",
+          "text": "Kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sala se dice \"living room\". Es el espacio común de la casa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v5",
+      "statement": "What is **\"Jardín\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Park",
+          "is_correct": false,
+          "feedback": "Incorrect. Park is a public place."
+        },
+        {
+          "letter": "B",
+          "text": "Garden",
+          "is_correct": true,
+          "feedback": "Correct! Garden is jardín."
+        },
+        {
+          "letter": "C",
+          "text": "Yard",
+          "is_correct": false,
+          "feedback": "Incorrect. Yard is also used, but garden is more common for flowers."
+        },
+        {
+          "letter": "D",
+          "text": "Forest",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El jardín de la casa se dice \"garden\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v6",
+      "statement": "Where do you **eat** dinner (el comedor)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Living room",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Dining room",
+          "is_correct": true,
+          "feedback": "Correct! Dining room is comedor."
+        },
+        {
+          "letter": "D",
+          "text": "Bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comedor se dice \"dining room\". Viene de \"dine\" que significa cenar o comer formalmente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v7",
+      "statement": "Where is the **car**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "In the garage",
+          "is_correct": true,
+          "feedback": "Correct! Cars go in the garage."
+        },
+        {
+          "letter": "C",
+          "text": "In the bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "In the bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El garaje se dice \"garage\". Es donde guardamos el carro.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v8",
+      "statement": "What is **\"Casa\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "House",
+          "is_correct": true,
+          "feedback": "Correct! House is casa."
+        },
+        {
+          "letter": "B",
+          "text": "Home",
+          "is_correct": false,
+          "feedback": "Incorrect. Home means hogar, house is the building."
+        },
+        {
+          "letter": "C",
+          "text": "Room",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La construcción o edificio donde vivimos es la \"house\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v9",
+      "statement": "Complete: **\"My bed is in the _______.\"**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Bedroom",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Garden",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cama (bed) está en la habitación (bedroom).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-v10",
+      "statement": "Where do you take a **shower**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the bathroom",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "In the dining room",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "In the living room",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "In the kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nos duchamos o bañamos en el \"bathroom\".\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

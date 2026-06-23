@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v1",
+      "statement": "\"To maintain a balanced diet, you ____ include more vegetables and fruits in every meal.\"",
+      "context": "General advice for a healthy life.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Too weak for general advice."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Standard modal for giving advice."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "would",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect meaning."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "had better",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possible, but B is the standard neutral choice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "'Should' is the most common modal used to give advice or express a recommendation.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v3",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v2",
+      "statement": "\"You ____ to exercise at least three times a week if you want to improve your stamina.\"",
+      "context": "Advice on physical activity.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect syntax ('should to' is wrong)."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct. 'Ought to' is a synonym for 'should' and requires 'to'."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "had better",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Does not take 'to'."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "must",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Too strong, and doesn't take 'to'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Ought to' is a formal alternative to 'should' and is always followed by the full infinitive ('to' + verb).\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v3",
+      "statement": "\"You ____ see a doctor about that cough before it gets any worse.\"",
+      "context": "A warning about health.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "should to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
+          "text": "had better",
           "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Used to give strong advice or a warning."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "would rather",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect meaning (preference)."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "ought",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing 'to'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Had better' is used for strong advice, often implying a negative consequence if the advice is not followed.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v4",
+      "statement": "\"Experts suggest that people ____ prioritize sleep as much as they do their work.\"",
+      "context": "An article about mental health.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Too strong for a suggestion."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Common in suggestions."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "had better",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Too informal/urgent for an expert summary."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v10",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v11",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v12",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'should' to summarize professional recommendations in an informative text.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v5",
+      "statement": "\"You ____ not to spend so much time on your phone right before going to bed.\"",
+      "context": "Discussing stress management.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect syntax ('should not to' is wrong)."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "had better",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect syntax ('had better not to' is wrong)."
         },
         {
           "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct. 'Ought not to' is the negative form."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "might",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Too weak."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "The negative form 'ought not to' is used for formal advice against an action.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v14",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-v15",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W24-persuasive-speaking-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v6",
+      "statement": "\"We ____ avoid processed sugars if we are serious about reducing our risk of diabetes.\"",
+      "context": "A health blog entry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had better",
+          "is_correct": true,
+          "feedback": "Correct strong advice."
+        },
+        {
+          "letter": "C",
+          "text": "should to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ought",
+          "is_correct": false,
+          "feedback": "Missing 'to'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'had better' for authoritative or urgent health advice in a blog or article.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v7",
+      "statement": "\"I feel terrible today. I ____ so much junk food at the party last night.\"",
+      "context": "Reflecting on past advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shouldn't eat",
+          "is_correct": false,
+          "feedback": "This is for present/future."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't have eaten",
+          "is_correct": true,
+          "feedback": "Correct. 'Shouldn't have' + past participle for past regret/advice."
+        },
+        {
+          "letter": "C",
+          "text": "ought not eat",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "didn't have to eat",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Should (not) have' + past participle is used to express regret or criticism about a past action.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v8",
+      "statement": "\"It is often said that one ____ to drink eight glasses of water a day, though needs vary.\"",
+      "context": "A text on hydration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect with 'to'."
+        },
+        {
+          "letter": "B",
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct formal advice structure."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect with 'to'."
+        },
+        {
+          "letter": "D",
+          "text": "had better",
+          "is_correct": false,
+          "feedback": "Incorrect with 'to'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'ought to' in formal or general health statements.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v9",
+      "statement": "\"If you find high-intensity workouts too difficult, you ____ try yoga instead.\"",
+      "context": "Comparing different health strategies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had better",
+          "is_correct": false,
+          "feedback": "Too strong for a gentle suggestion."
+        },
+        {
+          "letter": "B",
+          "text": "might as well",
+          "is_correct": true,
+          "feedback": "Correct. Used to suggest something because there is no reason not to, or as a secondary option."
+        },
+        {
+          "letter": "C",
+          "text": "ought",
+          "is_correct": false,
+          "feedback": "Missing 'to'."
+        },
+        {
+          "letter": "D",
+          "text": "would rather",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using 'might as well' to suggest an alternative in a low-pressure way.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v10",
+      "statement": "\"You ____ not ignore these symptoms, as they ____ indicative of a more serious condition.\"",
+      "context": "A formal health warning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had better / could be",
+          "is_correct": true,
+          "feedback": "Correct strong advice + possibility."
+        },
+        {
+          "letter": "B",
+          "text": "should / must be",
+          "is_correct": false,
+          "feedback": "'Should not' is possible but A is stronger. 'Must be' is too certain."
+        },
+        {
+          "letter": "C",
+          "text": "ought / might be",
+          "is_correct": false,
+          "feedback": "Missing 'to'."
+        },
+        {
+          "letter": "D",
+          "text": "would / can be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Combining 'had better' with modals of possibility to provide nuanced health warnings.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v11",
+      "statement": "\"The government ____ more to regulate the marketing of sugary drinks to children years ago.\"",
+      "context": "Critique of a health policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should do",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "ought to do",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "C",
+          "text": "should have done",
+          "is_correct": true,
+          "feedback": "Correct. Criticism of a past lack of action."
+        },
+        {
+          "letter": "D",
+          "text": "had better do",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using 'should have done' to criticize past institutional decisions regarding public health.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-v12",
+      "statement": "\"It is strongly recommended that a patient ____ consulted before ____ any major lifestyle changes.\"",
+      "context": "A complex recommendation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be / making",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive 'be' + gerund after preposition."
+        },
+        {
+          "letter": "B",
+          "text": "is / make",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "was / to make",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "should be / made",
+          "is_correct": false,
+          "feedback": "'Made' is incorrect here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using the subjunctive 'be' in a formal recommendation and the gerund after 'before' in a medical context.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W24-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v1",
+      "statement": "En la clase de Lengua Castellana de la I.E. Antonio Nariño, el profesor Carlos escribe en el tablero: \"El campesino usó la **hoz** para cortar el trigo, mientras que en la distancia se escuchaba una **voz** fuerte\". ¿Qué relación tienen las palabras resaltadas?",
+      "context": "I.E. Antonio Nariño en Villa de Leyva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son palabras sinónimas porque significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hoz es una herramienta y una voz es un sonido humano; no significan lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "Son palabras antónimas porque tienen significados opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son significados opuestos, son simplemente palabras distintas con sonidos parecidos."
+        },
+        {
+          "letter": "C",
+          "text": "Son palabras homófonas porque suenan igual (o muy parecido en nuestra región) pero se escriben diferente.",
+          "is_correct": true,
+          "feedback": "Correcto. En el español de Colombia, la 'z' se pronuncia igual que la 's', por lo que hoz y voz suenan de forma similar y se diferencian por su escritura y significado."
+        },
+        {
+          "letter": "D",
+          "text": "Son palabras derivadas porque vienen de la misma raíz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hoz y voz tienen raíces etimológicas completamente diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras homófonas son aquellas que se escuchan igual pero su escritura y significado son diferentes. En este caso, \"hoz\" (herramienta) y \"voz\" (sonido) ejemplifican esta relación, especialmente relevante en el contexto hispanoamericano donde no se distingue la pronunciación de 'z' y 's'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v2",
+      "statement": "Mariana está en Ráquira y quiere comprar una **vasija** de barro. Su abuelo le dice: \"Esa vasija está muy **bella**, pero ten cuidado porque es de **vello** delicado (refiriéndose a una pequeña pelusa decorativa)\". ¿Cuál es la diferencia entre \"bella\" y \"vello\"?",
+      "context": "Una tienda de artesanías en Ráquira, Boyacá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Bella\" se refiere a la belleza (hermosura) y \"vello\" se refiere al pelo corto y fino.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la distinción exacta entre estas dos palabras homófonas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas significan lo mismo y se pueden usar indistintamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la 'b' por 'v' en estas palabras cambia totalmente el significado."
+        },
+        {
+          "letter": "C",
+          "text": "\"Bella\" es una herramienta de cocina y \"vello\" es una planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las definiciones corresponde a los términos presentados."
+        },
+        {
+          "letter": "D",
+          "text": "\"Bella\" es un nombre propio y \"vello\" es un adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bella\" funciona aquí como adjetivo y \"vello\" como sustantivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar entre 'b' y 'v' es fundamental para comprender el significado de palabras homófonas como bella y vello. Este conocimiento permite mejorar la ortografía y la comprensión de textos descriptivos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v3",
+      "statement": "La familia de Juan está de paseo en el río Pance. Juan dice: \"Voy a **votar** la basura en el lugar correcto\", pero su hermana lo corrige y le dice: \"Se dice **botar**, porque **votar** es lo que hacen los adultos en las elecciones\". ¿Por qué la hermana tiene razón?",
+      "context": "Un paseo familiar al río Pance en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque \"votar\" solo se escribe con 'v' cuando se habla de basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: \"botar\" con 'b' es arrojar o lanzar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque \"botar\" con 'b' significa arrojar y \"votar\" con 'v' significa dar un voto.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la diferencia fundamental entre estos dos homófonos muy comunes en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en Colombia siempre se escribe con 'b' sin importar el significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía sigue las reglas de la Real Academia Española."
+        },
+        {
+          "letter": "D",
+          "text": "Porque \"votar\" no existe en el idioma español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Votar\" es una acción ciudadana fundamental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El par homófono botar/votar es uno de los más frecuentes. Identificar el contexto (arrojar basura vs. participar en elecciones) es clave para elegir la grafía correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v4",
+      "statement": "En una cocina en Envigado, la abuela dice: \"Mijo, primero hay que **cocer** bien el maíz y luego **coser** el delantal que se rompió\". ¿Qué indican las palabras resaltadas sobre las acciones que se deben realizar?",
+      "context": "Preparación de una receta de arepas en una cocina de Antioquia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ambas acciones se hacen con una aguja e hilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cocer el maíz no requiere aguja e hilo."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambas acciones se hacen en la estufa con agua caliente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coser el delantal no requiere estufa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la primera es cocinar alimentos y la segunda es unir tela con hilo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cocer\" (con C) viene de cocina/calor, y \"coser\" (con S) viene de costura."
+        },
+        {
+          "letter": "D",
+          "text": "Que son la misma palabra escrita de dos formas aceptables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras distintas con significados totalmente diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distinción entre \"cocer\" y \"coser\" es vital en textos instructivos y recetas. La relación semántica (C de Cocina, S de Sastre/Sutura) ayuda a los estudiantes a memorizar la diferencia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v5",
+      "statement": "Durante un partido en Barranquilla, el narrador dice: \"El jugador tiene un gran **as** bajo la manga, es un verdadero **has** del balón\". Si analizamos la frase, hay un error. ¿Cuál es la forma correcta de referirse a un campeón o alguien excelente en algo?",
+      "context": "Un partido de fútbol en el Estadio Metropolitano de Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se debe usar **as**, que significa campeón o carta de la baraja.",
+          "is_correct": true,
+          "feedback": "Correcto. \"As\" (sin h y con s) se refiere a la persona que sobresale."
+        },
+        {
+          "letter": "B",
+          "text": "Se debe usar **has**, que viene del verbo haber.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Has\" es una forma verbal (ej: has jugado), no un sustantivo para campeones."
+        },
+        {
+          "letter": "C",
+          "text": "Se debe usar **haz**, que es una orden del verbo hacer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Haz\" se usa para imperativos (ej: haz la tarea) o para un conjunto de rayos de luz."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquiera de las tres es correcta en el fútbol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada palabra tiene un uso gramatical específico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trío as/has/haz suele confundir a los estudiantes. \"As\" como sustantivo (campeón), \"has\" como auxiliar verbal y \"haz\" como imperativo o sustantivo (haz de luz) deben ser diferenciados por su función gramatical.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v6",
+      "statement": "Un guía en el Tayrona explica: \"Deben tener cuidado con esa **baya** silvestre, no la coman. Y por favor, no salten la **valla** de protección\". ¿Cómo se clasifican estas palabras?",
+      "context": "Una excursión al Parque Nacional Natural Tayrona",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como sinónimos de peligro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son sinónimos, una es un fruto y la otra una cerca."
+        },
+        {
+          "letter": "B",
+          "text": "Como homófonas, porque suenan igual pero \"baya\" es fruto y \"valla\" es una cerca.",
+          "is_correct": true,
+          "feedback": "Correcto. La distinción entre B/V y Y/LL es clave en este par."
+        },
+        {
+          "letter": "C",
+          "text": "Como homógrafas, porque se escriben exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escriben diferente (baya vs valla)."
+        },
+        {
+          "letter": "D",
+          "text": "Como palabras compuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras simples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio refuerza la ortografía de palabras que contienen grafemas con sonidos similares en el español hablado en Colombia (seseo y yeísmo), obligando al estudiante a usar el contexto para determinar la escritura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v7",
+      "statement": "Lee el siguiente titular: \"Se espera que **hacia** el mediodía, el viento **asía** con fuerza las nubes frías del nevado\". ¿Cuál de las palabras está mal empleada según el contexto de dirección y tiempo?",
+      "context": "Una noticia sobre el clima en el Nevado del Ruiz",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hacia\" está mal, debería ser \"Asia\" (el continente).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hacia\" es la preposición correcta para indicar dirección o tiempo aproximado."
+        },
+        {
+          "letter": "B",
+          "text": "\"Asía\" está mal, pues se refiere a agarrar algo; lo correcto sería no usar esa palabra sino una acción climática.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Asía\" viene del verbo asir (agarrar), lo cual no encaja con el viento y las nubes en este contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas están bien escritas y usadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una incoherencia semántica con \"asía\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"Hacia\" debe escribirse sin 'h' siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hacia\" con 'h' es la preposición obligatoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este nivel requiere que el estudiante no solo identifique el sonido, sino que analice la coherencia del verbo \"asir\" (agarrar) frente a la preposición \"hacia\". Es un reto de comprensión semántica avanzada para 4°.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v8",
+      "statement": "Un estudiante escribe: \"El pirata llegó a la **cresta** de la ola y sintió que su **cresta** de gallo en el sombrero se movía\". ¿Qué fenómeno ocurre con la palabra \"cresta\" en este caso?",
+      "context": "Redacción de un cuento sobre la historia de Cartagena de Indias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una palabra homófona porque suena igual pero se escribe diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escriben exactamente igual, por lo que no es solo homófona."
+        },
+        {
+          "letter": "B",
+          "text": "Es una palabra homónima (específicamente homógrafa), porque se escribe igual pero tiene varios significados relacionados o distintos.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cresta\" puede ser la parte superior de una ola o el apéndice de un ave."
+        },
+        {
+          "letter": "C",
+          "text": "Es un error ortográfico, debe usar palabras diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de la misma palabra para diferentes significados es una riqueza del lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Es una palabra que no existe en el diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra muy común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Introducir la homonimia (palabras que se escriben y suenan igual) diferencia este concepto de la homofonía (suenan igual, escriben distinto). \"Cresta\" es un excelente ejemplo de homografía.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo, bundle_size 8. |\n| Curricular | 40/40 | Alineado con DBA de Grado 4 sobre ortografía y semántica. |\n| Contexto | 20/20 | Referencias a Villa de Leyva, Ráquira, Pance, Envigado, Barranquilla, Tayrona, Nevado del Ruiz y Cartagena. |\n| Redacción | 10/10 | Lenguaje apropiado para primaria y distractores claros. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v1",
       "statement": "¿Qué es la comunicación asertiva?",
       "context": "Un estudiante en Bogotá explica a sus compañeros qué significa comunicarse bien.",
@@ -48,7 +416,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v2",
@@ -91,7 +462,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v3",
@@ -134,7 +508,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v4",
@@ -177,7 +554,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v5",
@@ -220,7 +600,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v6",
@@ -263,7 +646,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v7",
@@ -306,7 +692,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v8",
@@ -349,7 +738,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v9",
@@ -392,7 +784,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-v10",
@@ -435,7 +830,10 @@
       "bundle_id": "CO-LEN-4-2026-W01-comunicacion-asertiva-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

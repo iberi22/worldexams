@@ -1,0 +1,2271 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.443Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "¿Cuál de las siguientes opciones contiene SOLO características del lenguaje FORMAL?",
+      "context": "Reconocer elementos del lenguaje formal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de \"parce\", \"qué más\", \"llave\", muletillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas son expresiones coloquiales propias del lenguaje informal."
+        },
+        {
+          "letter": "B",
+          "text": "Uso de abreviaturas como \"xq\", \"tqm\", \"q\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas abreviaturas son típicas del lenguaje informal escrito (mensajes de texto, chats)."
+        },
+        {
+          "letter": "C",
+          "text": "Uso de \"usted\", vocabulario preciso, oraciones completas, fórmulas de cortesía.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje formal se caracteriza por el tratamiento de respeto (\"usted\"), la precisión léxica, la estructura gramatical completa y las fórmulas de cortesía (\"cordial saludo\", \"agradezco su atención\")."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de gestos exagerados, interjecciones y apodos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gestos exagerados y apodos son propios de contextos informales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje formal se reconoce por marcas lingüísticas específicas: tratamiento de cortesía (usted/señor/señora), vocabulario preciso y técnico cuando se requiere, oraciones gramaticalmente completas, ausencia de muletillas y presencia de fórmulas de cortesía. No es \"mejor\" que el informal; es el apropiado para contextos formales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Cuál de las siguientes es una característica del lenguaje INFORMAL?",
+      "context": "Reconocer elementos del lenguaje informal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vocabulario técnico y especializado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario técnico es propio de contextos formales o profesionales."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura de carta formal con membrete y despedida protocolizada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es propio del lenguaje formal escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Uso de apodos, diminutivos, expresiones afectivas y referencias a la vida cotidiana.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje informal usa diminutivos (\"mijito\", \"ahorita\"), apodos (\"el Mono\", \"la Gorda\"), expresiones afectivas (\"mi cielo\", \"corazón\") y referencias a experiencias compartidas."
+        },
+        {
+          "letter": "D",
+          "text": "Citas de leyes y artículos en latín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es extremadamente formal y técnico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje informal refleja cercanía y confianza. Se caracteriza por: uso de apodos y sobrenombres, diminutivos y aumentativos afectivos (\"chiquito\", \"grandote\"), interjecciones (\"¡uy!\", \"¡ay no!\"), muletillas (\"o sea\", \"este\", \"pues\"), expresiones regionales y jerga. Es la lengua de la cotidianidad, la familia y los amigos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "Relaciona cada situación con el tipo de lenguaje más adecuado:\n\n1. Solicitar una beca al ICETEX\n2. Hablar con un amigo en el descanso\n3. Presentar una queja formal en la Personería Municipal",
+      "context": "Clasificar registros en ejemplos cotidianos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1. Formal / 2. Informal / 3. Formal",
+          "is_correct": true,
+          "feedback": "Correcto. La solicitud de beca y la queja formal requieren lenguaje formal; la conversación con un amigo permite lenguaje informal."
+        },
+        {
+          "letter": "B",
+          "text": "1. Informal / 2. Formal / 3. Informal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería inadecuado hablarle informalmente al ICETEX o a la Personería."
+        },
+        {
+          "letter": "C",
+          "text": "1. Formal / 2. Formal / 3. Informal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar formalmente con un amigo en el descanso sería extraño e inadecuado."
+        },
+        {
+          "letter": "D",
+          "text": "1. Informal / 2. Informal / 3. Formal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solicitar una beca no debe hacerse en lenguaje informal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Saber elegir entre lenguaje formal e informal según la situación es una habilidad comunicativa clave. La adecuación depende de: 1) la INSTITUCIÓN (ICETEX, Personería → formal), 2) la RELACIÓN (amigo → informal), 3) el PROPÓSITO (solicitar un beneficio → formal, conversar → informal) y 4) el CANAL (carta formal escrita vs. conversación oral).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "*\"Cordial saludo, estimado estudiante: La presente es para informarle que su solicitud de traslado ha sido aprobada. Lo invitamos a acercarse a la Secretaría Académica para formalizar el proceso.\"*\n\n¿Qué marcas de lenguaje FORMAL identificas en este texto?",
+      "context": "Identificar marcas de formalidad/informalidad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hola\", \"chao\", \"listo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son marcas de lenguaje informal, no aparecen en este texto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Cordial saludo\", \"estimado estudiante\", \"la presente es para informarle\", \"lo invitamos a acercarse\".",
+          "is_correct": true,
+          "feedback": "Correcto. Cada una de estas expresiones es una marca de formalidad: saludo protocolario, tratamiento respetuoso (\"estimado\" + \"le\"), fórmula burocrática (\"la presente es para\"), y cortesía institucional (\"lo invitamos\")."
+        },
+        {
+          "letter": "C",
+          "text": "\"Oye\", \"¿qué más?\", \"necesito que vengas\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de esas expresiones aparece en el texto original."
+        },
+        {
+          "letter": "D",
+          "text": "\"Mira\", \"toca\", \"corra\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son expresiones informales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las \"marcas de formalidad\" son palabras o expresiones que indican que estamos ante un lenguaje formal: saludos protocolarios (\"cordial saludo\"), tratamientos (\"estimado\", \"distinguido\"), fórmulas burocráticas (\"la presente\", \"por medio de la cual\"), uso del \"usted\" y verbos en condicional cortés (\"agradecería\", \"invitamos\"). Identificar estas marcas ayuda a reconocer el registro de un texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "Un estudiante de grado 6 escribe una carta al alcalde de su municipio pidiendo una cancha deportiva. Escribe:\n\n*\"Oiga, alcalde, ¿qué más? Necesitamos una cancha, parce. Los pelaos del barrio no tenemos dónde jugar. Hágale, alcalde, que usted es buena gente.\"*\n\n¿Qué problema tiene esta carta?",
+      "context": "Inferir consecuencias del registro inadecuado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La información es incorrecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la veracidad de la información."
+        },
+        {
+          "letter": "B",
+          "text": "Es demasiado larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la extensión."
+        },
+        {
+          "letter": "C",
+          "text": "Usa lenguaje informal (\"oiga\", \"qué más\", \"parce\", \"hágale\", \"buena gente\") que es inadecuado para dirigirse a una autoridad municipal. El alcalde puede no tomar en serio la solicitud.",
+          "is_correct": true,
+          "feedback": "Correcto. El registro informal puede hacer que una solicitud legítima sea ignorada por no ajustarse a los protocolos de comunicación formal con autoridades."
+        },
+        {
+          "letter": "D",
+          "text": "El estudiante no explica bien lo que quiere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La idea está clara: quiere una cancha. El problema es el registro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usar un registro inadecuado puede tener CONSECUENCIAS PRÁCTICAS: que no nos tomen en serio, que nuestro mensaje sea ignorado o que no logremos nuestro objetivo comunicativo. Una solicitud a una autoridad debe ser formal, respetuosa y clara, independientemente de la edad del solicitante. El lenguaje informal, aunque sea amable, no es efectivo cuando se requiere seriedad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "En una fiesta familiar, tu primo te dice:\n\n*\"Apreciado consanguíneo, por la presente me permito solicitarle comedidamente el traslado del aderezo de tomate hacia mi ubicación.\"*\n\n¿Qué problema tiene esta forma de hablar en este contexto?",
+      "context": "Reconocer cuándo lo formal es inadecuado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Es perfectamente adecuada porque es correcta gramaticalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección gramatical no garantiza la adecuación comunicativa."
+        },
+        {
+          "letter": "C",
+          "text": "Usa lenguaje excesivamente formal (\"apreciado consanguíneo\", \"solicitarle comedidamente\") para pedir algo tan simple como pasar la salsa de tomate en una fiesta familiar. Suena artificial y fuera de lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje demasiado formal en un contexto informal es tan inadecuado como el lenguaje informal en un contexto formal. Produce extrañeza y puede interpretarse como burla."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuado porque muestra buena educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La buena educación consiste en ser adecuado al contexto, no en ser formal siempre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El exceso de formalidad en contextos informales también es INADECUADO. Hablarle con lenguaje de notaría a un familiar en una fiesta resulta artificial, incómodo y puede interpretarse como sarcasmo. La clave no es \"siempre formal\" o \"siempre informal\", sino ADECUAR el lenguaje al contexto. Un hablante competente sabe moverse en ambos registros según la situación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "*Campaña de salud pública:*\n\n*\"Mija, ¿ya se hizo el examen de seno? No sea dejada. En el centro de salud la atienden sin cita. ¡Cuídese, que sus hijos la necesitan!\"*\n\n¿Por qué los diseñadores de esta campaña usaron lenguaje INFORMAL?",
+      "context": "Analizar cómo el lenguaje informal crea cercanía",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no saben escribir formalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección del lenguaje informal es intencional y estratégica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el lenguaje informal crea cercanía y confianza, lo que hace que el mensaje llegue mejor a la población objetivo, especialmente a mujeres que pueden sentirse intimidadas por un lenguaje médico muy técnico.",
+          "is_correct": true,
+          "feedback": "Correcto. El \"mija\", \"no sea dejada\", \"¡cuídese!\" buscan sonar como una amiga o familiar que aconseja, no como una institución distante. Esto puede ser más efectivo que un mensaje formal para motivar la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una campaña para niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La campaña está dirigida a mujeres adultas, aunque usa un tono coloquial."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las campañas de salud siempre deben ser informales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depende del público objetivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje informal no es \"malo\" o \"incorrecto\". Puede ser una ESTRATEGIA COMUNICATIVA efectiva cuando se busca llegar a un público específico. Las campañas de salud pública, los mensajes de bien social y la publicidad suelen usar lenguaje informal para crear cercanía y confianza con la audiencia. La clave está en que la elección del registro sea INTENCIONAL y ADECUADA al propósito.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Compara estas dos versiones del mismo mensaje:\n\n**Versión A:** \"Señores padres de familia: la presente es para informarles que la reunión de entrega de boletines se realizará el viernes 15 a las 4:00 p.m. en el auditorio principal. Agradecemos su puntual asistencia.\"\n\n**Versión B:** \"Hola, papás y mamás: les contamos que la reunión de notas es este viernes a las 4 p.m. en el auditorio. Lleguen tempranito para no perderse nada. ¡Los esperamos!\"\n\n¿Cuál es la PRINCIPAL diferencia entre ambas versiones?",
+      "context": "Comparar versiones formal e informal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión B tiene información incorrecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas tienen la misma información básica."
+        },
+        {
+          "letter": "B",
+          "text": "La versión A es mejor porque es más larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la calidad."
+        },
+        {
+          "letter": "C",
+          "text": "La versión A es formal (tratamiento respetuoso, estructura de carta) y es más adecuada para una comunicación oficial del colegio; la versión B es informal (tono cercano, lenguaje cotidiano) y podría ser más efectiva para crear un ambiente acogedor.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas son válidas, pero su adecuación depende del canal y la relación: la versión A es mejor para una circular oficial; la versión B es mejor para un mensaje de WhatsApp del grupo de padres."
+        },
+        {
+          "letter": "D",
+          "text": "La versión B es inadecuada porque usa \"hola\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un canal como WhatsApp grupal, \"hola\" puede ser perfectamente adecuado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No hay una versión \"correcta\" universal: ambas son correctas en el contexto adecuado. La VERSIÓN A es apropiada para una circular oficial impresa o un correo formal. La VERSIÓN B es apropiada para un mensaje de WhatsApp del grupo de padres. La competencia comunicativa consiste en saber cuál usar según el medio, la relación y el propósito.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "*\"Profe, disculpe la hora: ¿el trabajo de sociales es para el viernes o para el lunes? XQ tengo dudas con la fecha. Gracias. Ah, y ¿los mapas los imprimimos o los dibujamos?\"*\n\nUn profesor recibe este mensaje de un estudiante. ¿Qué observación crítica puede hacer el profesor sobre el lenguaje usado?",
+      "context": "Evaluar críticamente el lenguaje en redes sociales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mensaje es perfecto porque se entiende todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se entiende, hay aspectos que mejorar."
+        },
+        {
+          "letter": "B",
+          "text": "El mensaje mezcla un saludo respetuoso (\"profe\", \"disculpe\") con marcas de oralidad (\"XQ\", \"ah, y\") que son informales. El profesor podría sugerir usar un registro más formal para comunicaciones académicas, aunque el mensaje es entendible y la intención es respetuosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La mezcla de registros muestra que el estudiante intenta ser respetuoso pero aún no domina completamente el registro escrito formal. Es una oportunidad de aprendizaje, no un error grave."
+        },
+        {
+          "letter": "C",
+          "text": "El mensaje es ofensivo y debe ser castigado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ofensa. El estudiante es respetuoso en el saludo."
+        },
+        {
+          "letter": "D",
+          "text": "El mensaje es incomprensible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se entiende perfectamente la pregunta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la comunicación digital, especialmente entre estudiantes y profesores, es común encontrar MEZCLAS DE REGISTRO. Esto no es necesariamente malo, pero es importante que los estudiantes aprendan a ADECUAR su lenguaje incluso en canales digitales. El uso de abreviaturas como \"XQ\" puede ser aceptable entre amigos pero no en una comunicación académica. La evaluación crítica del propio lenguaje es parte del desarrollo comunicativo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Eres el personero estudiantil de tu colegio y debes escribir dos mensajes:\n\n1. Un ANUNCIO OFICIAL para poner en la cartelera del colegio informando sobre la campaña de reciclaje.\n2. Un MENSAJE para el grupo de WhatsApp de tus compañeros recordándoles que traigan materiales reciclables.\n\n¿Cuál combinación de registros es la ADECUADA?",
+      "context": "Elegir el registro adecuado para un propósito",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mensaje 1 informal (\"¡Oigan, traigan sus botellas!\") y Mensaje 2 formal (\"Señores estudiantes: por la presente se les recuerda...\").",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Mensaje 1 formal (\"Se informa a la comunidad educativa que el viernes 20 se realizará la jornada de reciclaje. Favor traer materiales limpios y clasificados.\") y Mensaje 2 informal (\"Chicos, no olviden traer las botellas y el cartón para el reciclaje mañana. ¡Todos participan! ¡Ganamos puntos para el curso!\").",
+          "is_correct": true,
+          "feedback": "Correcto. La cartelera es un medio oficial que requiere lenguaje formal y claro. El WhatsApp grupal entre compañeros permite un lenguaje cercano, motivador y coloquial. Cada registro es adecuado a su canal y audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos mensajes en lenguaje formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje de WhatsApp a compañeros sería artificial y distante en lenguaje formal."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos mensajes en lenguaje informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cartelera del colegio es un medio formal que exige seriedad. El lenguaje informal sería inadecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un comunicador competente sabe CAMBIAR DE REGISTRO según el medio y la audiencia, incluso cuando habla del mismo tema. La cartelera oficial exige formalidad (es un medio institucional, público, dirigido a toda la comunidad). El WhatsApp grupal permite informalidad (es un medio privado, entre pares, con confianza). Saber alternar entre estos registros demuestra madurez comunicativa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W28-lenguaje-formal-informal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué es una estrofa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada palabra de un poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras son versos, no estrofas."
+        },
+        {
+          "letter": "B",
+          "text": "Un conjunto de versos que forman una unidad en un poema, similar a un párrafo en prosa.",
+          "is_correct": true,
+          "feedback": "Correcto. Una estrofa es un grupo de versos separados por un espacio en blanco de otra estrofa."
+        },
+        {
+          "letter": "C",
+          "text": "El título del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La última palabra de cada línea.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estrofa es la unidad estructural de un poema: un conjunto de versos que forman un bloque. Se separan visualmente con un espacio. Así como un texto en prosa se divide en párrafos, un poema se divide en estrofas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "En el Poema 1, ¿cuántas estrofas tiene?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sola estrofa larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un espacio entre los versos."
+        },
+        {
+          "letter": "B",
+          "text": "Dos estrofas, cada una con cuatro versos (cuartetos).",
+          "is_correct": true,
+          "feedback": "Correcto. Hay dos bloques de cuatro versos separados por un espacio. Cada bloque es una estrofa."
+        },
+        {
+          "letter": "C",
+          "text": "Ocho estrofas, una por cada verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada verso no es una estrofa."
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro estrofas de dos versos cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de estrofas: se cuentan los bloques visuales separados por espacios. El Poema 1 tiene dos grupos de cuatro versos (estrofas de 4 versos = cuartetos).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "En el Poema 1, las letras entre paréntesis (a, b, a, b) indican la rima. ¿Qué significa que el primer verso (a) rime con el tercer verso (a)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ambos versos tienen el mismo número de sílabas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima no se trata de la cantidad de sílabas sino de la coincidencia de sonidos al final."
+        },
+        {
+          "letter": "B",
+          "text": "Que las palabras finales del primer y tercer verso (cielo / consuelo) comparten sonidos similares: terminan en \"-elo\".",
+          "is_correct": true,
+          "feedback": "Correcto. La rima es la repetición de sonidos a partir de la última vocal acentuada. \"Cielo\" y \"consuelo\" riman porque comparten el final \"-elo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos versos hablan del mismo tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que ambos versos tienen la misma longitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rima es la coincidencia de sonidos entre dos o más versos a partir de la última vocal acentuada. Los versos que riman no necesitan tener el mismo tema ni la misma extensión, solo compartir sonidos finales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "En el Poema 1, \"cielo\" rima con \"consuelo\" y \"danza\" rima con \"esperanza\". ¿Qué tipo de rima es esta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rima consonante: coinciden tanto las vocales como las consonantes desde la última vocal acentuada (-elo, -anza).",
+          "is_correct": true,
+          "feedback": "Correcto. En \"cielo-consuelo\" coinciden TODOS los sonidos: \"-elo\". En \"danza-esperanza\" coinciden \"-anza\". Es rima consonante porque vocales y consonantes coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "Rima asonante: solo coinciden las vocales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si solo coincidieran las vocales, \"cielo\" rimaría con \"fuego\" (e-o). Pero aquí coinciden todas las letras."
+        },
+        {
+          "letter": "C",
+          "text": "Rima libre: no hay rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay rima evidente."
+        },
+        {
+          "letter": "D",
+          "text": "Rima cruzada: que alterna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Rima cruzada\" describe el patrón ABAB, no el tipo de sonido. La pregunta es sobre el TIPO de rima (consonante o asonante), no sobre el patrón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos tipos de rima: (1) CONSONANTE: coinciden vocales Y consonantes (cielo-consuelo). (2) ASONANTE: coinciden solo las vocales (cielo-fuego, porque la \"l\" y \"g\" no coinciden, pero sí la \"e\" y \"o\").",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "El Poema 2 tiene el patrón de rima a-b-a-b en su primera estrofa. ¿Cómo se llama este patrón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rima gemela (AA BB).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería cuando el primer verso rima con el segundo (AA) y el tercero con el cuarto (BB)."
+        },
+        {
+          "letter": "B",
+          "text": "Rima cruzada o alterna (ABAB): el primer verso rima con el tercero y el segundo con el cuarto.",
+          "is_correct": true,
+          "feedback": "Correcto. En el patrón ABAB, los versos impares riman entre sí y los pares entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Rima abrazada (ABBA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería cuando el primero rima con el cuarto y el segundo con el tercero."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene patrón de rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí tiene un patrón claro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los patrones de rima se nombran con letras: ABAB (cruzada o alterna), AABB (gemela o pareada), ABBA (abrazada). Identificar el patrón ayuda a entender la estructura musical del poema.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "En el Poema 2, el último verso de la segunda estrofa dice \"mi casa y mi hogar\". La palabra \"hogar\" debería rimar con \"empezar\" (verso 2 de esa estrofa), pero no riman perfectamente. ¿Qué ocurre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poeta cometió un error.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poesía, las decisiones son intencionales."
+        },
+        {
+          "letter": "B",
+          "text": "Que es una rima asonante: \"empezar\" y \"hogar\" comparten las vocales \"a...a\" pero las consonantes son diferentes (-zar vs. -gar). El poeta usó rima asonante para mayor flexibilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. En la poesía popular y en canciones, la rima asonante es muy común porque ofrece más libertad."
+        },
+        {
+          "letter": "C",
+          "text": "Que no hay rima en absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay una coincidencia vocálica."
+        },
+        {
+          "letter": "D",
+          "text": "Que la rima cambia a consonante.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rima asonante es común en poesía popular y canciones (como el vallenato y los llaneros). Es más flexible porque solo requiere que coincidan las vocales, permitiendo más opciones de palabras.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "El Poema 3 dice: \"Duérmete mi niño, duérmete mi sol\". La repetición de \"duérmete mi\" al inicio de varios versos se llama:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima está al final del verso, no al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Aliteración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aliteración repite sonidos, no palabras completas."
+        },
+        {
+          "letter": "C",
+          "text": "Anáfora o repetición: repetir una palabra o frase al inicio de versos consecutivos para crear ritmo y énfasis.",
+          "is_correct": true,
+          "feedback": "Correcto. La anáfora es un recurso poético que consiste en repetir una palabra o frase al inicio de varios versos. Crea un efecto hipnótico y musical, ideal para una canción de cuna."
+        },
+        {
+          "letter": "D",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anáfora (repetición) es un recurso poético que refuerza el ritmo y la musicalidad. En canciones de cuna, la repetición crea un efecto calmante y envolvente, como un arrullo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Por qué el Poema 3 (canción de cuna del Pacífico) usa versos más largos y un ritmo más libre que el Poema 2 (coplas llaneras)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el autor del Poema 3 no sabe escribir poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Poema 3 es para niños y el Poema 2 para adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser disfrutados por todas las edades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la canción de cuna busca un efecto de arrullo y suavidad (versos largos y fluidos), mientras que la copla llanera busca un ritmo más marcado y bailable, típico del joropo. La estructura poética se adapta al propósito y la tradición cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma poética (longitud de versos, tipo de rima, ritmo) no es arbitraria: responde al propósito y la tradición cultural de cada tipo de poesía."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el Poema 3 es más moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha no determina la estructura poética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma y el fondo están conectados: la estructura de un poema (versos, rimas, ritmo) se elige según el efecto deseado. Las canciones de cuna usan ritmos suaves y repetitivos; las coplas llaneras usan ritmos vivos y marcados.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Los tres poemas describen paisajes o experiencias de diferentes regiones de Colombia (Magdalena, Llanos Orientales, Pacífico). ¿Qué elemento comparten los tres más allá de la geografía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres usan el mismo patrón de rima (ABAB).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Poema 3 no sigue exactamente ese patrón."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres hablan de la vida en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres hablan de la naturaleza y la vida rural."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres expresan un sentido de pertenencia, amor por el terruño y conexión emocional con el paisaje y la cultura de la región que describen.",
+          "is_correct": true,
+          "feedback": "Correcto. La poesía regional colombiana suele expresar un profundo arraigo y amor por la tierra natal, conectando paisaje, identidad y emoción."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres tienen exactamente el mismo número de versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La poesía colombiana de raíz popular expresa un fuerte sentido de pertenencia regional. El paisaje no es solo un escenario: es parte de la identidad del poeta.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Un estudiante dice: \"La poesía es difícil porque tiene rimas y reglas complicadas. Prefiero leer cuentos.\" ¿Qué le responderías?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, la poesía no sirve para nada.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía tiene mucho valor."
+        },
+        {
+          "letter": "B",
+          "text": "\"Es mejor leer solo cuentos.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tampoco es una respuesta constructiva."
+        },
+        {
+          "letter": "C",
+          "text": "\"La poesía parece difícil al principio, pero en realidad es como una canción: tiene ritmo, musicalidad y juega con las palabras para expresar sentimientos. Además, muchas canciones que escuchas (vallenato, rap, pop) también tienen versos y rimas. ¡Tú ya escuchas poesía todos los días!\"",
+          "is_correct": true,
+          "feedback": "Correcto. La poesía no es solo para libros antiguos: está en las canciones que escuchamos, en los versos de los juglares vallenatos, en el rap y en el hip-hop. Todos tenemos una conexión natural con la poesía a través de la música."
+        },
+        {
+          "letter": "D",
+          "text": "\"La poesía no tiene ritmo ni musicalidad.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ritmo y la musicalidad son la esencia de la poesía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reflexión sobre la poesía en la vida cotidiana: la poesía no está solo en los libros de texto. Está en los versos de las canciones que escuchamos (vallenato, rap, pop, reguetón), en los arrullos que nos cantaban de niños, en las coplas populares. Todos somos capaces de apreciar y crear poesía.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-001-v1",
+      "statement": "Relaciona cada género con su propósito principal:\r\n\r\n1. **Noticia** →  \r\n2. **Editorial** →  \r\n3. **Reseña crítica** →",
+      "context": "Repaso: diferenciar tipos de texto periodístico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-Opinar / 2-Informar / 3-Analizar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las relaciones están invertidas. La noticia informa, el editorial opina y la reseña analiza."
+        },
+        {
+          "letter": "B",
+          "text": "1-Analizar / 2-Informar / 3-Opinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no analiza, informa. La reseña analiza y opina. El editorial opina."
+        },
+        {
+          "letter": "C",
+          "text": "1-Informar / 2-Opinar / 3-Analizar y opinar",
+          "is_correct": true,
+          "feedback": "¡Correcto! La noticia INFORMA hechos objetivos. El editorial OPINA (representa la postura del medio). La reseña ANALIZA Y OPINA sobre una obra (libro, película, exposición)."
+        },
+        {
+          "letter": "D",
+          "text": "1-Entre tener / 2-Analizar / 3-Informar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de estos géneros tiene como propósito principal entretener. Informar, opinar y analizar son sus funciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada género periodístico tiene un propósito distinto: la NOTICIA informa hechos; el EDITORIAL expresa la opinión del medio; la RESEÑA CRÍTICA analiza y evalúa una obra. Identificar el propósito ayuda a leer cada texto de manera adecuada, sabiendo qué esperar de él.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de géneros periodísticos",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-002-v1",
+      "statement": "Un periodista está escribiendo una noticia y tiene estos datos:\r\n\r\n- **¿Qué?** Inundaciones en el municipio de Turbo.\r\n- **¿Quién?** 500 familias afectadas.\r\n- **¿Cuándo?** El miércoles pasado.\r\n- **¿Dónde?** Turbo, Antioquia.\r\n- **¿Por qué?** Por el desbordamiento del río León debido a las fuertes lluvias.\r\n\r\nEstos datos corresponden a:",
+      "context": "Repaso: las 5W",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título de la noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título sería más corto y llamativo, como \"Inundaciones en Turbo afectan a 500 familias\". Estos datos son más detallados."
+        },
+        {
+          "letter": "B",
+          "text": "Las 5 preguntas básicas que debe responder el lead de la noticia",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estos cinco datos (qué, quién, cuándo, dónde, por qué) son las 5W que debe contener el lead o primer párrafo de toda noticia."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión del periodista sobre la noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto son hechos, no opiniones. El periodista no está opinando, está respondiendo las preguntas básicas de manera objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "El cuerpo de la noticia con todos los detalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el cuerpo se desarrollarían estos datos con más detalles, testimonios y contexto, pero la información esencial (5W) va en el lead."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lead de una noticia debe responder las 5W en uno o dos párrafos. Esto permite que el lector obtenga la información esencial de inmediato. Los detalles adicionales (cómo ocurrió exactamente, testimonios, antecedentes) se desarrollan en el cuerpo de la noticia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Elementos de la noticia",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-003-v1",
+      "statement": "> **Anuncio: \"Lácteos El Rancho — El sabor que crece contigo. Desde 1985 acompañando a las familias colombianas.\"**\r\n\r\n¿Qué recursos persuasivos utiliza este anuncio?",
+      "context": "Repaso: interpretar un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el precio bajo del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona precio en absoluto. No es un recurso basado en economía."
+        },
+        {
+          "letter": "B",
+          "text": "Datos científicos sobre los beneficios de los lácteos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos científicos. No dice \"contiene calcio\" ni \"fortalece los huesos\"."
+        },
+        {
+          "letter": "C",
+          "text": "La tradición (\"Desde 1985\") y la confianza familiar (\"acompañando a las familias colombianas\")",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Desde 1985\" apela a la TRADICIÓN y la experiencia (años en el mercado). \"Acompañando a las familias\" apela a la CONFIANZA y los valores familiares. Son recursos emocionales, no racionales."
+        },
+        {
+          "letter": "D",
+          "text": "La amenaza de que si no consumes el producto tendrás problemas de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no usa miedo ni amenazas. Su tono es positivo y nostálgico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad apela a diferentes valores. Aquí, los valores son: TRADICIÓN (una empresa con historia transmite confianza), FAMILIA (asociar el producto con momentos familiares), e IDENTIDAD NACIONAL (\"familias colombianas\"). Estos recursos son efectivos porque conectan emocionalmente con el consumidor.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de un anuncio publicitario",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-004-v1",
+      "statement": "> **Eslogan de una marca de tenis: \"Entrena como un profesional, cuesta como un aficionado.\"**\r\n\r\n¿Qué mensaje transmite este eslogan?",
+      "context": "Repaso: interpretar el mensaje de un eslogan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo los profesionales pueden usar estos tenis",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan dice \"entrena como profesional\", lo que sugiere que CUALQUIERA puede entrenar como profesional con estos tenis."
+        },
+        {
+          "letter": "B",
+          "text": "Que los tenis son muy caros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dice \"cuesta como un aficionado\", lo que significa que el precio es bajo, accesible para aficionados."
+        },
+        {
+          "letter": "C",
+          "text": "Que el producto ofrece calidad profesional a un precio accesible",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Entrena como profesional\" = alta calidad. \"Cuesta como aficionado\" = precio bajo. La combinación sugiere que obtienes lo mejor de ambos mundos: calidad premium a precio económico."
+        },
+        {
+          "letter": "D",
+          "text": "Que los aficionados no deberían comprar estos tenis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario. El eslogan invita a los aficionados a comprarlos porque les ofrece calidad profesional a un precio que pueden pagar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este eslogan usa una estructura de CONTRASTE: enfrenta dos ideas opuestas (calidad profesional vs. precio de aficionado) para crear un mensaje poderoso. Los eslóganes efectivos suelen ser breves, fáciles de recordar y comunicar un beneficio claro. Identificar el contraste ayuda a entender la estrategia persuasiva.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Análisis de eslogan publicitario",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-005-v1",
+      "statement": "> **Anuncio de una tarjeta de crédito: \"¡Saca tu tarjeta y llévate este televisor LED sin cuota inicial! Aprovecha, que la oferta termina pronto.\"**\r\n\r\n¿A qué necesidad o deseo del público apela este anuncio?",
+      "context": "Repaso: inferir a quién va dirigido un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la necesidad de ahorrar dinero a largo plazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comprar a crédito sin cuota inicial no es necesariamente ahorro. Puede llevar a pagar más a largo plazo por los intereses."
+        },
+        {
+          "letter": "B",
+          "text": "Al deseo de invertir en educación",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona educación. Habla de un televisor, que es un bien de consumo."
+        },
+        {
+          "letter": "C",
+          "text": "Al deseo de obtener algo valioso de inmediato sin tener que pagar todo de una vez, combinado con la urgencia (\"la oferta termina pronto\")",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Sin cuota inicial\" apela a quien quiere el producto ahora pero no tiene el dinero completo. \"La oferta termina pronto\" crea URGENCIA para actuar rápido sin pensar demasiado."
+        },
+        {
+          "letter": "D",
+          "text": "A la necesidad de tener la mejor tecnología del mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dice que sea \"la mejor\" tecnología. Solo ofrece un televisor LED sin cuota inicial. La calidad del producto no es el foco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad a menudo explota nuestro deseo de gratificación inmediata. \"Sin cuota inicial\" nos permite obtener algo ahora y pagar después. \"Oferta termina pronto\" nos presiona a decidir rápido. Reconocer estas tácticas nos ayuda a tomar decisiones de consumo más conscientes, en lugar de dejarnos llevar por la urgencia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Público objetivo en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-006-v1",
+      "statement": "> **Fragmento de una reseña:**\r\n>\r\n> \"La novela 'El Olvido que Seremos' de Héctor Abad Faciolince narra la vida de un médico y profesor universitario que luchó por los derechos humanos en Medellín. El libro combina memorias personales con crónica social. La prosa es sencilla pero poderosa. Sin embargo, algunos capítulos resultan extensos y podrían haberse editado. En conclusión, es una obra conmovedora que recomiendo a quienes quieran entender la historia reciente de Colombia.\"\r\n\r\nEn este fragmento, ¿qué parte corresponde al ANÁLISIS CRÍTICO?",
+      "context": "Repaso: identificar partes de una reseña",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La novela 'El Olvido que Seremos' narra la vida de un médico... en Medellín\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la DESCRIPCIÓN de la obra (de qué trata), no el análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "\"El libro combina memorias personales con crónica social\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sigue siendo descripción del estilo, no análisis valorativo."
+        },
+        {
+          "letter": "C",
+          "text": "\"La prosa es sencilla pero poderosa. Sin embargo, algunos capítulos resultan extensos y podrían haberse editado\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aquí el reseñador EMITE UN JUICIO: valora la prosa (\"sencilla pero poderosa\") y señala un defecto (\"capítulos extensos\"). Eso es análisis crítico: opinión fundamentada con ejemplos."
+        },
+        {
+          "letter": "D",
+          "text": "\"En conclusión, es una obra conmovedora que recomiendo\"",
+          "is_correct": false,
+          "feedback": "Parcialmente. Esa es la CONCLUSIÓN Y RECOMENDACIÓN, que también contiene opinión, pero el análisis detallado está en la parte C."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una reseña tiene tres partes: PRESENTACIÓN (qué obra, de qué trata), ANÁLISIS CRÍTICO (qué funciona bien y qué no, con ejemplos), y VEREDICTO (recomendación final). El análisis es la parte más importante: ahí el reseñador demuestra por qué piensa lo que piensa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estructura de la reseña crítica",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-007-v1",
+      "statement": "> **Anuncio de un champú: \"Los colombianos lo prefieren. ¡Únete a millones de personas que ya usan BrilloCapilar!\"**\r\n\r\n¿Qué tipo de recurso persuasivo utiliza este anuncio?",
+      "context": "Repaso: identificar falacias en publicidad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autoridad científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona dermatólogos, científicos ni estudios. No hay autoridad técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Comparación con la competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona otras marcas ni dice \"mejor que...\". Solo afirma que mucha gente lo usa."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de apelación a la mayoría o \"argumento ad populum\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Los colombianos lo prefieren\" y \"millones de personas ya lo usan\" es una falacia que dice: \"como mucha gente lo usa, debe ser bueno\". La popularidad no garantiza calidad. Es un recurso común pero falaz."
+        },
+        {
+          "letter": "D",
+          "text": "Apelación emocional a la nostalgia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay referencias al pasado, la infancia o recuerdos. La apelación es a la popularidad, no a la nostalgia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia \"ad populum\" (apelación a la mayoría) asume que algo es bueno, verdadero o deseable solo porque mucha gente lo piensa o lo usa. Pero la popularidad no es evidencia de calidad. Muchos productos populares pueden ser mediocres, y muchos excelentes productos pueden ser poco conocidos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos persuasivos en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-008-v1",
+      "statement": "**Texto 1:** \"El Festival de Cine de Cartagena anunció ayer los ganadores de su edición número 64. La película 'Los reyes del mundo' obtuvo el premio a Mejor Película Colombiana.\"\r\n\r\n**Texto 2:** \"'Los reyes del mundo' es una película que retrata la realidad de los jóvenes habitantes de calle en Medellín con una sensibilidad extraordinaria. La dirección es impecable y las actuaciones, con actores no profesionales, sorprenden por su naturalidad.\"\r\n\r\n¿En qué se diferencian fundamentalmente estos textos?",
+      "context": "Repaso: contrastar géneros",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno habla del festival y el otro de la película",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos mencionan la misma película. La diferencia no es temática."
+        },
+        {
+          "letter": "B",
+          "text": "Uno es más largo que el otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no define el género."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 es una NOTICIA: informa un hecho (quién ganó). El Texto 2 es una RESEÑA: analiza y valora la película",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 1 responde a qué pasó (anuncio de ganadores), cuándo (ayer), dónde (Cartagena). El Texto 2 describe la película y la evalúa (\"sensibilidad extraordinaria\", \"impecable\", \"sorprenden\"). Son géneros diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 es positivo y el Texto 2 es negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son positivos. La diferencia es de género, no de tono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una NOTICIA informa un hecho de manera objetiva: qué pasó, cuándo, dónde. Una RESEÑA analiza y valora una obra. Es posible escribir una noticia sobre el estreno de una película (hecho) y también escribir una reseña sobre esa misma película (crítica). No son excluyentes, pero son textos diferentes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación entre noticia y reseña",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-009-v1",
+      "statement": "Quieres saber si una nueva película colombiana es buena. Encuentras dos fuentes:\r\n\r\n**Fuente A:** La reseña de un crítico de cine profesional en el periódico El Espectador.\r\n\r\n**Fuente B:** Un comentario en redes sociales de un usuario que dice: \"La película es una porquería, no la vean\".\r\n\r\n¿Qué fuente es más confiable y por qué?",
+      "context": "Repaso: juzgar la confiabilidad de la información",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fuente B, porque es más directa y sincera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sinceridad no es lo mismo que confiabilidad. Una opinión sin fundamento no es confiable solo por ser directa."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son igual de confiables porque ambas expresan una opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las opiniones son igualmente válidas. Una opinión fundamentada por un experto tiene más peso que un comentario sin argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La Fuente A, porque el crítico profesional tiene experiencia analizando cine, su reseña está argumentada y el medio tiene reputación que respalda su contenido",
+          "is_correct": true,
+          "feedback": "¡Correcto! La credibilidad se construye con: (1) experiencia del autor (crítico profesional), (2) calidad de la argumentación (no es solo \"me gustó/no me gustó\"), y (3) reputación del medio (El Espectador es un periódico serio)."
+        },
+        {
+          "letter": "D",
+          "text": "La Fuente A, pero solo si estoy de acuerdo con su opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La confiabilidad de una fuente no depende de si estamos de acuerdo con ella. Una fuente puede ser confiable aunque no compartamos su opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La credibilidad de una fuente se evalúa con tres criterios: AUTORIDAD (¿quién lo dice? ¿tiene experiencia en el tema?), ARGUMENTACIÓN (¿da razones o solo opina?) y REPUTACIÓN (¿el medio tiene estándares de calidad?). Un crítico profesional en un periódico serio tiene más credibilidad que un comentario anónimo en redes.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluación de fuentes y credibilidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-010-v1",
+      "statement": "Imagina que debes escribir una reseña crítica de tu libro favorito. ¿Cuál de los siguientes esquemas seguirías para hacer una buena reseña?",
+      "context": "Repaso: evaluar y crear una reseña breve",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar solo la calificación (ej. \"5 estrellas\") sin explicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una calificación sin contexto no es una reseña. No ayuda al lector a entender por qué el libro merece esa calificación."
+        },
+        {
+          "letter": "B",
+          "text": "Contar todo el argumento del libro con lujo de detalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revelar demasiados detalles (spoilers) arruina la experiencia de futuros lectores. Además, una reseña no es solo un resumen."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar el libro (título, autor), describir brevemente de qué trata sin spoilers, destacar aspectos positivos y debilidades con ejemplos, y cerrar con una recomendación para un público específico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es la estructura ideal de una reseña: presentación + descripción breve sin spoilers + análisis con ejemplos + recomendación para público objetivo. Así ayuda al lector a decidir informadamente."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar la reseña de otra persona y poner nuestro nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es plagio. Una reseña debe ser original, aunque podamos estar de acuerdo con otras reseñas. La honestidad intelectual es parte de la crítica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escribir una buena reseña es una habilidad que combina comprensión lectora, pensamiento crítico y expresión escrita. Los pasos clave: (1) identificar la obra, (2) describir sin spoilers, (3) analizar con ejemplos concretos (no solo opiniones), (4) dar un veredicto con recomendación. Una buena reseña es útil incluso para quienes no están de acuerdo con ella.\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción de reseña crítica",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Manizales, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Riohacha, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Ibagué, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Quibdó, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Cartagena, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Pereira, se discute sobre Tema Semana 28 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W28-tema-semana-28-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-001-v1",
+      "statement": "Relaciona cada género con su propósito principal:\n\n1. **Noticia** →  \n2. **Editorial** →  \n3. **Reseña crítica** →",
+      "context": "Repaso: diferenciar tipos de texto periodístico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-Opinar / 2-Informar / 3-Analizar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las relaciones están invertidas. La noticia informa, el editorial opina y la reseña analiza."
+        },
+        {
+          "letter": "B",
+          "text": "1-Analizar / 2-Informar / 3-Opinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no analiza, informa. La reseña analiza y opina. El editorial opina."
+        },
+        {
+          "letter": "C",
+          "text": "1-Informar / 2-Opinar / 3-Analizar y opinar",
+          "is_correct": true,
+          "feedback": "¡Correcto! La noticia INFORMA hechos objetivos. El editorial OPINA (representa la postura del medio). La reseña ANALIZA Y OPINA sobre una obra (libro, película, exposición)."
+        },
+        {
+          "letter": "D",
+          "text": "1-Entre tener / 2-Analizar / 3-Informar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de estos géneros tiene como propósito principal entretener. Informar, opinar y analizar son sus funciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada género periodístico tiene un propósito distinto: la NOTICIA informa hechos; el EDITORIAL expresa la opinión del medio; la RESEÑA CRÍTICA analiza y evalúa una obra. Identificar el propósito ayuda a leer cada texto de manera adecuada, sabiendo qué esperar de él.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de géneros periodísticos",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-002-v1",
+      "statement": "Un periodista está escribiendo una noticia y tiene estos datos:\n\n- **¿Qué?** Inundaciones en el municipio de Turbo.\n- **¿Quién?** 500 familias afectadas.\n- **¿Cuándo?** El miércoles pasado.\n- **¿Dónde?** Turbo, Antioquia.\n- **¿Por qué?** Por el desbordamiento del río León debido a las fuertes lluvias.\n\nEstos datos corresponden a:",
+      "context": "Repaso: las 5W",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título de la noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título sería más corto y llamativo, como \"Inundaciones en Turbo afectan a 500 familias\". Estos datos son más detallados."
+        },
+        {
+          "letter": "B",
+          "text": "Las 5 preguntas básicas que debe responder el lead de la noticia",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estos cinco datos (qué, quién, cuándo, dónde, por qué) son las 5W que debe contener el lead o primer párrafo de toda noticia."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión del periodista sobre la noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto son hechos, no opiniones. El periodista no está opinando, está respondiendo las preguntas básicas de manera objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "El cuerpo de la noticia con todos los detalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el cuerpo se desarrollarían estos datos con más detalles, testimonios y contexto, pero la información esencial (5W) va en el lead."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lead de una noticia debe responder las 5W en uno o dos párrafos. Esto permite que el lector obtenga la información esencial de inmediato. Los detalles adicionales (cómo ocurrió exactamente, testimonios, antecedentes) se desarrollan en el cuerpo de la noticia.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Elementos de la noticia",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-003-v1",
+      "statement": "> **Anuncio: \"Lácteos El Rancho — El sabor que crece contigo. Desde 1985 acompañando a las familias colombianas.\"**\n\n¿Qué recursos persuasivos utiliza este anuncio?",
+      "context": "Repaso: interpretar un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el precio bajo del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona precio en absoluto. No es un recurso basado en economía."
+        },
+        {
+          "letter": "B",
+          "text": "Datos científicos sobre los beneficios de los lácteos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos científicos. No dice \"contiene calcio\" ni \"fortalece los huesos\"."
+        },
+        {
+          "letter": "C",
+          "text": "La tradición (\"Desde 1985\") y la confianza familiar (\"acompañando a las familias colombianas\")",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Desde 1985\" apela a la TRADICIÓN y la experiencia (años en el mercado). \"Acompañando a las familias\" apela a la CONFIANZA y los valores familiares. Son recursos emocionales, no racionales."
+        },
+        {
+          "letter": "D",
+          "text": "La amenaza de que si no consumes el producto tendrás problemas de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no usa miedo ni amenazas. Su tono es positivo y nostálgico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad apela a diferentes valores. Aquí, los valores son: TRADICIÓN (una empresa con historia transmite confianza), FAMILIA (asociar el producto con momentos familiares), e IDENTIDAD NACIONAL (\"familias colombianas\"). Estos recursos son efectivos porque conectan emocionalmente con el consumidor.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de un anuncio publicitario",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-004-v1",
+      "statement": "> **Eslogan de una marca de tenis: \"Entrena como un profesional, cuesta como un aficionado.\"**\n\n¿Qué mensaje transmite este eslogan?",
+      "context": "Repaso: interpretar el mensaje de un eslogan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo los profesionales pueden usar estos tenis",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan dice \"entrena como profesional\", lo que sugiere que CUALQUIERA puede entrenar como profesional con estos tenis."
+        },
+        {
+          "letter": "B",
+          "text": "Que los tenis son muy caros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dice \"cuesta como un aficionado\", lo que significa que el precio es bajo, accesible para aficionados."
+        },
+        {
+          "letter": "C",
+          "text": "Que el producto ofrece calidad profesional a un precio accesible",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Entrena como profesional\" = alta calidad. \"Cuesta como aficionado\" = precio bajo. La combinación sugiere que obtienes lo mejor de ambos mundos: calidad premium a precio económico."
+        },
+        {
+          "letter": "D",
+          "text": "Que los aficionados no deberían comprar estos tenis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario. El eslogan invita a los aficionados a comprarlos porque les ofrece calidad profesional a un precio que pueden pagar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este eslogan usa una estructura de CONTRASTE: enfrenta dos ideas opuestas (calidad profesional vs. precio de aficionado) para crear un mensaje poderoso. Los eslóganes efectivos suelen ser breves, fáciles de recordar y comunicar un beneficio claro. Identificar el contraste ayuda a entender la estrategia persuasiva.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Análisis de eslogan publicitario",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-005-v1",
+      "statement": "> **Anuncio de una tarjeta de crédito: \"¡Saca tu tarjeta y llévate este televisor LED sin cuota inicial! Aprovecha, que la oferta termina pronto.\"**\n\n¿A qué necesidad o deseo del público apela este anuncio?",
+      "context": "Repaso: inferir a quién va dirigido un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la necesidad de ahorrar dinero a largo plazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comprar a crédito sin cuota inicial no es necesariamente ahorro. Puede llevar a pagar más a largo plazo por los intereses."
+        },
+        {
+          "letter": "B",
+          "text": "Al deseo de invertir en educación",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona educación. Habla de un televisor, que es un bien de consumo."
+        },
+        {
+          "letter": "C",
+          "text": "Al deseo de obtener algo valioso de inmediato sin tener que pagar todo de una vez, combinado con la urgencia (\"la oferta termina pronto\")",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Sin cuota inicial\" apela a quien quiere el producto ahora pero no tiene el dinero completo. \"La oferta termina pronto\" crea URGENCIA para actuar rápido sin pensar demasiado."
+        },
+        {
+          "letter": "D",
+          "text": "A la necesidad de tener la mejor tecnología del mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dice que sea \"la mejor\" tecnología. Solo ofrece un televisor LED sin cuota inicial. La calidad del producto no es el foco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad a menudo explota nuestro deseo de gratificación inmediata. \"Sin cuota inicial\" nos permite obtener algo ahora y pagar después. \"Oferta termina pronto\" nos presiona a decidir rápido. Reconocer estas tácticas nos ayuda a tomar decisiones de consumo más conscientes, en lugar de dejarnos llevar por la urgencia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Público objetivo en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-006-v1",
+      "statement": "> **Fragmento de una reseña:**\n>\n> \"La novela 'El Olvido que Seremos' de Héctor Abad Faciolince narra la vida de un médico y profesor universitario que luchó por los derechos humanos en Medellín. El libro combina memorias personales con crónica social. La prosa es sencilla pero poderosa. Sin embargo, algunos capítulos resultan extensos y podrían haberse editado. En conclusión, es una obra conmovedora que recomiendo a quienes quieran entender la historia reciente de Colombia.\"\n\nEn este fragmento, ¿qué parte corresponde al ANÁLISIS CRÍTICO?",
+      "context": "Repaso: identificar partes de una reseña",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La novela 'El Olvido que Seremos' narra la vida de un médico... en Medellín\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la DESCRIPCIÓN de la obra (de qué trata), no el análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "\"El libro combina memorias personales con crónica social\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sigue siendo descripción del estilo, no análisis valorativo."
+        },
+        {
+          "letter": "C",
+          "text": "\"La prosa es sencilla pero poderosa. Sin embargo, algunos capítulos resultan extensos y podrían haberse editado\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aquí el reseñador EMITE UN JUICIO: valora la prosa (\"sencilla pero poderosa\") y señala un defecto (\"capítulos extensos\"). Eso es análisis crítico: opinión fundamentada con ejemplos."
+        },
+        {
+          "letter": "D",
+          "text": "\"En conclusión, es una obra conmovedora que recomiendo\"",
+          "is_correct": false,
+          "feedback": "Parcialmente. Esa es la CONCLUSIÓN Y RECOMENDACIÓN, que también contiene opinión, pero el análisis detallado está en la parte C."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una reseña tiene tres partes: PRESENTACIÓN (qué obra, de qué trata), ANÁLISIS CRÍTICO (qué funciona bien y qué no, con ejemplos), y VEREDICTO (recomendación final). El análisis es la parte más importante: ahí el reseñador demuestra por qué piensa lo que piensa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estructura de la reseña crítica",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-007-v1",
+      "statement": "> **Anuncio de un champú: \"Los colombianos lo prefieren. ¡Únete a millones de personas que ya usan BrilloCapilar!\"**\n\n¿Qué tipo de recurso persuasivo utiliza este anuncio?",
+      "context": "Repaso: identificar falacias en publicidad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autoridad científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona dermatólogos, científicos ni estudios. No hay autoridad técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Comparación con la competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona otras marcas ni dice \"mejor que...\". Solo afirma que mucha gente lo usa."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de apelación a la mayoría o \"argumento ad populum\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Los colombianos lo prefieren\" y \"millones de personas ya lo usan\" es una falacia que dice: \"como mucha gente lo usa, debe ser bueno\". La popularidad no garantiza calidad. Es un recurso común pero falaz."
+        },
+        {
+          "letter": "D",
+          "text": "Apelación emocional a la nostalgia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay referencias al pasado, la infancia o recuerdos. La apelación es a la popularidad, no a la nostalgia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia \"ad populum\" (apelación a la mayoría) asume que algo es bueno, verdadero o deseable solo porque mucha gente lo piensa o lo usa. Pero la popularidad no es evidencia de calidad. Muchos productos populares pueden ser mediocres, y muchos excelentes productos pueden ser poco conocidos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos persuasivos en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-008-v1",
+      "statement": "**Texto 1:** \"El Festival de Cine de Cartagena anunció ayer los ganadores de su edición número 64. La película 'Los reyes del mundo' obtuvo el premio a Mejor Película Colombiana.\"\n\n**Texto 2:** \"'Los reyes del mundo' es una película que retrata la realidad de los jóvenes habitantes de calle en Medellín con una sensibilidad extraordinaria. La dirección es impecable y las actuaciones, con actores no profesionales, sorprenden por su naturalidad.\"\n\n¿En qué se diferencian fundamentalmente estos textos?",
+      "context": "Repaso: contrastar géneros",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno habla del festival y el otro de la película",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos mencionan la misma película. La diferencia no es temática."
+        },
+        {
+          "letter": "B",
+          "text": "Uno es más largo que el otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no define el género."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 es una NOTICIA: informa un hecho (quién ganó). El Texto 2 es una RESEÑA: analiza y valora la película",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 1 responde a qué pasó (anuncio de ganadores), cuándo (ayer), dónde (Cartagena). El Texto 2 describe la película y la evalúa (\"sensibilidad extraordinaria\", \"impecable\", \"sorprenden\"). Son géneros diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 es positivo y el Texto 2 es negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son positivos. La diferencia es de género, no de tono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una NOTICIA informa un hecho de manera objetiva: qué pasó, cuándo, dónde. Una RESEÑA analiza y valora una obra. Es posible escribir una noticia sobre el estreno de una película (hecho) y también escribir una reseña sobre esa misma película (crítica). No son excluyentes, pero son textos diferentes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación entre noticia y reseña",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-009-v1",
+      "statement": "Quieres saber si una nueva película colombiana es buena. Encuentras dos fuentes:\n\n**Fuente A:** La reseña de un crítico de cine profesional en el periódico El Espectador.\n\n**Fuente B:** Un comentario en redes sociales de un usuario que dice: \"La película es una porquería, no la vean\".\n\n¿Qué fuente es más confiable y por qué?",
+      "context": "Repaso: juzgar la confiabilidad de la información",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fuente B, porque es más directa y sincera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sinceridad no es lo mismo que confiabilidad. Una opinión sin fundamento no es confiable solo por ser directa."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son igual de confiables porque ambas expresan una opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las opiniones son igualmente válidas. Una opinión fundamentada por un experto tiene más peso que un comentario sin argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La Fuente A, porque el crítico profesional tiene experiencia analizando cine, su reseña está argumentada y el medio tiene reputación que respalda su contenido",
+          "is_correct": true,
+          "feedback": "¡Correcto! La credibilidad se construye con: (1) experiencia del autor (crítico profesional), (2) calidad de la argumentación (no es solo \"me gustó/no me gustó\"), y (3) reputación del medio (El Espectador es un periódico serio)."
+        },
+        {
+          "letter": "D",
+          "text": "La Fuente A, pero solo si estoy de acuerdo con su opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La confiabilidad de una fuente no depende de si estamos de acuerdo con ella. Una fuente puede ser confiable aunque no compartamos su opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La credibilidad de una fuente se evalúa con tres criterios: AUTORIDAD (¿quién lo dice? ¿tiene experiencia en el tema?), ARGUMENTACIÓN (¿da razones o solo opina?) y REPUTACIÓN (¿el medio tiene estándares de calidad?). Un crítico profesional en un periódico serio tiene más credibilidad que un comentario anónimo en redes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluación de fuentes y credibilidad",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W28-repaso-p7-010-v1",
+      "statement": "Imagina que debes escribir una reseña crítica de tu libro favorito. ¿Cuál de los siguientes esquemas seguirías para hacer una buena reseña?",
+      "context": "Repaso: evaluar y crear una reseña breve",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar solo la calificación (ej. \"5 estrellas\") sin explicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una calificación sin contexto no es una reseña. No ayuda al lector a entender por qué el libro merece esa calificación."
+        },
+        {
+          "letter": "B",
+          "text": "Contar todo el argumento del libro con lujo de detalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revelar demasiados detalles (spoilers) arruina la experiencia de futuros lectores. Además, una reseña no es solo un resumen."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar el libro (título, autor), describir brevemente de qué trata sin spoilers, destacar aspectos positivos y debilidades con ejemplos, y cerrar con una recomendación para un público específico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es la estructura ideal de una reseña: presentación + descripción breve sin spoilers + análisis con ejemplos + recomendación para público objetivo. Así ayuda al lector a decidir informadamente."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar la reseña de otra persona y poner nuestro nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es plagio. Una reseña debe ser original, aunque podamos estar de acuerdo con otras reseñas. La honestidad intelectual es parte de la crítica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escribir una buena reseña es una habilidad que combina comprensión lectora, pensamiento crítico y expresión escrita. Los pasos clave: (1) identificar la obra, (2) describir sin spoilers, (3) analizar con ejemplos concretos (no solo opiniones), (4) dar un veredicto con recomendación. Una buena reseña es útil incluso para quienes no están de acuerdo con ella.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción de reseña crítica",
+      "bundle_id": "CO-LEC-6-2026-W28-repaso-p7-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

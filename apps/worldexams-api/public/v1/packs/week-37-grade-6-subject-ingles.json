@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v1",
-      "statement": "Which question word asks about TIME?",
-      "context": "At I.E. La Salle de Cali, teacher reviews question words.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-001-v1",
+      "statement": "This is a review question about present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Where",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Pregunta por lugar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Why",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Pregunta por razón."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "When",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Who",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Pregunta por persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Question words: What, Where, When, Why, Who, How, Which.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v2",
-      "statement": "Form a yes/no question with \"she\":",
-      "context": "In Colegio Fontán de San Andrés, yes/no questions.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-002-v1",
+      "statement": "Select the correct A2 level use for present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Does she studies?",
-          "is_correct": false,
-          "feedback": "Después de does el verbo va en base."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Does she study?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Is she study?",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "She studies?",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Yes/No: Do/Does/Did + sujeto + verbo base. \"Does she study?\" NO \"Does she studies?\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v3",
-      "statement": "Complete: \"Where is the Gold Museum?\" \"It is in Bogotá.\"",
-      "context": "At I.E. La Salle de Medellín, WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Where",
-          "is_correct": true,
-          "feedback": "Pregunta por lugar."
-        },
-        {
-          "letter": "B",
-          "text": "What",
-          "is_correct": false,
-          "feedback": "Qué/cosa."
-        },
-        {
-          "letter": "C",
-          "text": "When",
-          "is_correct": false,
-          "feedback": "Cuándo/tiempo."
-        },
-        {
-          "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Quién/persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Where\" pregunta por ubicación.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v4",
-      "statement": "A subject question: who/what is the ___ of the sentence.",
-      "context": "In Colegio Champagnat de Cartagena, subject vs object questions.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-003-v1",
+      "statement": "Identify the appropriate vocabulary for present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "object",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "subject",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "verb",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "adverb",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject: who/what realiza la acción, NO auxiliary. Object: who/what recibe la acción, CON auxiliary.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v5",
-      "statement": "Form a question: \"you / like / bandeja paisa / why?\"",
-      "context": "At Liceo de la Sabana de Ibagué, form WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Why you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
-        },
-        {
-          "letter": "B",
-          "text": "Why do you like bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Why are you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Like you bandeja paisa why?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "WH-questions: WH + auxiliary + subject + base verb.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v6",
-      "statement": "Ask about object: \"She visited the museum.\"",
-      "context": "In I.E. La Salle de Manizales, object questions.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-004-v1",
+      "statement": "Complete the sentence about present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Who visited the museum?",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Pregunta por sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "What did she visit?",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Where she visited?",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Did she visit?",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No pregunta por objeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Object questions: WH + auxiliary + subject + verb. \"What did she visit?\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-005-v1",
+      "statement": "What is the best way to express present-continuous-intro?",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v7",
-      "statement": "Difference: \"Who called?\" vs \"Who did you call?\"",
-      "context": "At I.E. La Salle de Santa Marta, analyze question types.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-006-v1",
+      "statement": "Find the error in this present-continuous-intro sentence.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Same meaning.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First = subject Q. Second = object Q.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "First present, second past.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "First incorrect.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Subject Q: \"Who called?\" (no auxiliary). Object Q: \"Who did you call?\" (with auxiliary).\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v8",
-      "statement": "Which question is CORRECT?",
-      "context": "At Liceo de la Sabana de Manizales, evaluate correctness.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-007-v1",
+      "statement": "Match the term with the definition of present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Why she is studying?",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Auxiliar antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "How long you have been here?",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "What time does the museum open?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Where lives your grandmother?",
-          "is_correct": false,
-          "feedback": "Verbo antes de sujeto."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "WH-questions: WH + auxiliary + subject + verb.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-008-v1",
+      "statement": "Choose the synonym for a word related to present-continuous-intro.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v9",
-      "statement": "What type: \"Who wants ice cream?\"",
-      "context": "In Colegio INEM de Cúcuta, identify type.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-009-v1",
+      "statement": "Which of these belongs to present-continuous-intro?",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes/No question",
-          "is_correct": false,
-          "feedback": "No es yes/no."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Subject question",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Object question",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tag question",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject questions: who/what = sujeto, NO auxiliary.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-v10",
-      "statement": "Tag question: \"They have studied, haven't they?\"",
-      "context": "At Colegio Simón Bolívar de Tunja, create tag question.",
+      "id": "CO-ING-6-2026-W37-present-continuous-intro-010-v1",
+      "statement": "Predict the next word in the present-continuous-intro context.",
+      "context": "Scenario about present-continuous-intro in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "don't they",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Auxiliar incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "haven't they",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Maybe",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "have they",
-          "is_correct": false,
-          "feedback": "Negativo cuando afirmación positiva."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "didn't they",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Past simple, no PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Tag questions: positivo -> tag negativo. El auxiliar del tag debe coincidir.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v1",
-      "statement": "\"Good evening\" is used at ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "6 PM onwards",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "8 AM",
-          "is_correct": false,
-          "feedback": "Incorrecto. 8 AM = morning."
-        },
-        {
-          "letter": "C",
-          "text": "12 PM",
-          "is_correct": false,
-          "feedback": "Incorrecto. 12 PM = afternoon."
-        },
-        {
-          "letter": "D",
-          "text": "3 PM",
-          "is_correct": false,
-          "feedback": "Incorrecto. 3 PM = afternoon."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Greetings: Good morning (AM), Good afternoon (12-6 PM), Good evening (6 PM+), Good night (farewell).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v2",
-      "statement": "\"Your father's mother is your ___.\"",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "grandmother",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "aunt",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunt = tía."
-        },
-        {
-          "letter": "C",
-          "text": "sister",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sister = hermana."
-        },
-        {
-          "letter": "D",
-          "text": "cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cousin = prima."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Family: father's mother = grandmother. Father's father = grandfather.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v3",
-      "statement": "\"He ___ English on Mondays and Wednesdays.\" (third person)",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "studies",
-          "is_correct": true,
-          "feedback": "Correcto. He studies."
-        },
-        {
-          "letter": "B",
-          "text": "study",
-          "is_correct": false,
-          "feedback": "Incorrecto. He studies."
-        },
-        {
-          "letter": "C",
-          "text": "studying",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "studied",
-          "is_correct": false,
-          "feedback": "Incorrecto. Past."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Third person singular: study → studies. He studies English. She plays soccer.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v4",
-      "statement": "\"I ___ like spicy food.\" (negation)",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "don't",
-          "is_correct": true,
-          "feedback": "Correcto. I don't like."
-        },
-        {
-          "letter": "B",
-          "text": "doesn't",
-          "is_correct": false,
-          "feedback": "Incorrecto. Doesn't para he/she/it."
-        },
-        {
-          "letter": "C",
-          "text": "am not",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "not",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Negation: I/you/we/they + don't. He/she/it + doesn't. \"I don't like spicy food.\"\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v5",
-      "statement": "\"It's quarter to eight\" = ___.",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "7:45",
-          "is_correct": true,
-          "feedback": "Correcto. Quarter to eight = 7:45."
-        },
-        {
-          "letter": "B",
-          "text": "8:15",
-          "is_correct": false,
-          "feedback": "Incorrecto. Quarter past eight = 8:15."
-        },
-        {
-          "letter": "C",
-          "text": "8:30",
-          "is_correct": false,
-          "feedback": "Incorrecto. Half past eight = 8:30."
-        },
-        {
-          "letter": "D",
-          "text": "8:00",
-          "is_correct": false,
-          "feedback": "Incorrecto. Eight o'clock = 8:00."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Quarter to = 15 minutos para la hora. Quarter past = 15 minutos después de la hora.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v6",
-      "statement": "\"This is María. ___ mother is a teacher.\" (possessive)",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Her",
-          "is_correct": true,
-          "feedback": "Correcto. María = she → her."
-        },
-        {
-          "letter": "B",
-          "text": "His",
-          "is_correct": false,
-          "feedback": "Incorrecto. María = woman."
-        },
-        {
-          "letter": "C",
-          "text": "My",
-          "is_correct": false,
-          "feedback": "Incorrecto. My = de quien habla."
-        },
-        {
-          "letter": "D",
-          "text": "Your",
-          "is_correct": false,
-          "feedback": "Incorrecto. Your = de ti."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Her = de ella. Possessive adjective for third person feminine singular.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v7",
-      "statement": "\"There ___ some books on the table.\"",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. Books = plural."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. Plural."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There are + plural noun. There is + singular/uncountable noun. \"There are some books.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v8",
-      "statement": "\"I ___ a new pencil case.\" (tengo)",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have got",
-          "is_correct": true,
-          "feedback": "Correcto. I have got."
-        },
-        {
-          "letter": "B",
-          "text": "has got",
-          "is_correct": false,
-          "feedback": "Incorrecto. I have."
-        },
-        {
-          "letter": "C",
-          "text": "am got",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "is got",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "I have got (I've got) = yo tengo. He/she has got = él/ella tiene.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v9",
-      "statement": "\"Correct the sentence: She don't like vegetables.\"",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She doesn't like vegetables.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "She don't likes vegetables.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "She isn't like vegetables.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "She not like vegetables.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Error: 'don't' with 'she'. Correction: 'doesn't'. She doesn't like vegetables.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v10",
-      "statement": "\"I wake up at 5 AM, have breakfast at 6, go to school at 7.\" What do I do at 6 AM?",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Have breakfast",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Wake up",
-          "is_correct": false,
-          "feedback": "Incorrecto. Wake up = 5 AM."
-        },
-        {
-          "letter": "C",
-          "text": "Go to school",
-          "is_correct": false,
-          "feedback": "Incorrecto. School = 7 AM."
-        },
-        {
-          "letter": "D",
-          "text": "Sleep",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading comprehension: identify the activity at each time. 5 AM = wake up, 6 AM = breakfast, 7 AM = go to school.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

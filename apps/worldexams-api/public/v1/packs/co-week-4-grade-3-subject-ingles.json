@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-4-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.645Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v1",
+      "statement": "What color is a **tomato**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect. Blue is the color of the sky."
+        },
+        {
+          "letter": "B",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "Incorrect. Green is the color of grass."
+        },
+        {
+          "letter": "C",
+          "text": "Red",
+          "is_correct": true,
+          "feedback": "Correct! Tomatoes are red."
+        },
+        {
+          "letter": "D",
+          "text": "Yellow",
+          "is_correct": false,
+          "feedback": "Incorrect. Bananas are yellow."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El color rojo en inglés se dice \"red\". Los tomates maduros son rojos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v2",
+      "statement": "What color is the **sky** on a sunny day?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue",
+          "is_correct": true,
+          "feedback": "Correct! The sky is blue."
+        },
+        {
+          "letter": "B",
+          "text": "Black",
+          "is_correct": false,
+          "feedback": "Incorrect. The sky is black at night."
+        },
+        {
+          "letter": "C",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect. Pink is a different color."
+        },
+        {
+          "letter": "D",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect. Oranges are orange."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El color azul en inglés se dice \"blue\". Es el color característico del cielo despejado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v3",
+      "statement": "Which color is **\"Amarillo\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrect. Red is rojo."
+        },
+        {
+          "letter": "B",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "Incorrect. Green is verde."
+        },
+        {
+          "letter": "C",
+          "text": "Yellow",
+          "is_correct": true,
+          "feedback": "Correct! Yellow is amarillo."
+        },
+        {
+          "letter": "D",
+          "text": "White",
+          "is_correct": false,
+          "feedback": "Incorrect. White is blanco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El color amarillo se dice \"yellow\". ¡Recuerda que se escribe con doble 'l'!\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v4",
+      "statement": "What color do you get if you mix **Blue and Yellow**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Green",
+          "is_correct": true,
+          "feedback": "Correct! Blue + Yellow = Green."
+        },
+        {
+          "letter": "C",
+          "text": "Purple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al mezclar azul (blue) y amarillo (yellow), obtenemos el color verde, que en inglés es \"green\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v5",
+      "statement": "What color is an **elephant**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "White",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Grey",
+          "is_correct": true,
+          "feedback": "Correct! Elephants are grey."
+        },
+        {
+          "letter": "D",
+          "text": "Black",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El color gris en inglés se puede escribir \"grey\" (UK) o \"gray\" (USA). Los elefantes son de este color.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v6",
+      "statement": "What color is **\"Naranja\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Purple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Orange",
+          "is_correct": true,
+          "feedback": "Correct! Orange is both the fruit and the color."
+        },
+        {
+          "letter": "C",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Brown",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, la palabra \"orange\" sirve tanto para la fruta (naranja) como para el color.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v7",
+      "statement": "What color is **chocolate**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Black",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Brown",
+          "is_correct": true,
+          "feedback": "Correct! Chocolate is brown."
+        },
+        {
+          "letter": "D",
+          "text": "Yellow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El color café o marrón se dice \"brown\" en inglés.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v8",
+      "statement": "What color are **clouds** before it rains?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "White",
+          "is_correct": false,
+          "feedback": "Incorrect. White clouds are for sunny days."
+        },
+        {
+          "letter": "B",
+          "text": "Dark grey",
+          "is_correct": true,
+          "feedback": "Correct! Storm clouds are dark grey."
+        },
+        {
+          "letter": "C",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Yellow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando va a llover, las nubes se ponen de color gris oscuro (dark grey).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v9",
+      "statement": "Complete: **\"The grass is _______.\"**",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green",
+          "is_correct": true,
+          "feedback": "Correct! Grass is green."
+        },
+        {
+          "letter": "B",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Purple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pasto o la hierba es de color verde, que en inglés es \"green\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v10",
+      "statement": "Which color is **\"Morado\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pink",
+          "is_correct": false,
+          "feedback": "Incorrect. Pink is rosado."
+        },
+        {
+          "letter": "B",
+          "text": "Purple",
+          "is_correct": true,
+          "feedback": "Correct! Purple is morado."
+        },
+        {
+          "letter": "C",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El color morado o púrpura se dice \"purple\" en inglés.\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

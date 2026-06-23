@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-32-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v1",
+      "statement": "What do you do with your **notebooks** and **books** after school to practice your lessons? 📚",
+      "context": "After school task.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Do homework",
+          "is_correct": true,
+          "feedback": "Correct! Students do homework to practice."
+        },
+        {
+          "letter": "C",
+          "text": "Take a shower",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Do homework\" significa hacer la tarea. Es la actividad académica que se realiza después de la jornada escolar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v2",
+      "statement": "What do you do in front of the **television**? 📺",
+      "context": "Relaxing at home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch TV",
+          "is_correct": true,
+          "feedback": "Correct! We watch television for entertainment."
+        },
+        {
+          "letter": "B",
+          "text": "Play soccer",
+          "is_correct": false,
+          "feedback": "Incorrect. Soccer is played on a field."
+        },
+        {
+          "letter": "C",
+          "text": "Brush my teeth",
+          "is_correct": false,
+          "feedback": "Incorrect. This is done in the bathroom."
+        },
+        {
+          "letter": "D",
+          "text": "Wake up",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Watch TV\" significa ver televisión. Es una actividad de ocio común en la tarde.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v3",
+      "statement": "What is the name of the meal you eat at **night** with your family? 🌃",
+      "context": "Night meal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect. Breakfast is in the morning."
+        },
+        {
+          "letter": "B",
+          "text": "Lunch",
+          "is_correct": false,
+          "feedback": "Incorrect. Lunch is in the afternoon."
+        },
+        {
+          "letter": "C",
+          "text": "Dinner",
+          "is_correct": true,
+          "feedback": "Correct! Dinner is the last big meal of the day."
+        },
+        {
+          "letter": "D",
+          "text": "Snack",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Dinner\" significa cena. Es la comida que compartimos por la noche.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v4",
+      "statement": "When you are **tired** and it is **night**, you go to your bedroom to... 😴",
+      "context": "Ending the day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to sleep",
+          "is_correct": true,
+          "feedback": "Correct! Sleeping is how we rest at night."
+        },
+        {
+          "letter": "B",
+          "text": "Go to school",
+          "is_correct": false,
+          "feedback": "Incorrect. School is in the morning."
+        },
+        {
+          "letter": "C",
+          "text": "Eat lunch",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Play with blocks",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Go to sleep\" significa ir a dormir. Es la acción final de la rutina diaria.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v5",
+      "statement": "After dinner, you help your parents. You **wash** the... 🍽️",
+      "context": "Helping at home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Dishes",
+          "is_correct": true,
+          "feedback": "Correct! We wash the dishes (plates and cups) after eating."
+        },
+        {
+          "letter": "C",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Homework",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Wash the dishes\" significa lavar los platos. Es una forma común de ayudar en las tareas del hogar.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v6",
+      "statement": "Complete the sequence:\r\n**I arrive home → I have a snack → I ________.**",
+      "context": "Routine sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wake up",
+          "is_correct": false,
+          "feedback": "Incorrect. This was the first thing in the morning."
+        },
+        {
+          "letter": "B",
+          "text": "Do my homework",
+          "is_correct": true,
+          "feedback": "Correct! Doing homework usually follows arriving home."
+        },
+        {
+          "letter": "C",
+          "text": "Have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Get dressed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender el orden lógico de las actividades de la tarde. Después de llegar y merendar, lo habitual es hacer las tareas escolares.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v7",
+      "statement": "Before I go to sleep, I put on my **pajamas**. I... 🛌",
+      "context": "Evening hygiene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get ready for bed",
+          "is_correct": true,
+          "feedback": "Correct! Putting on pajamas is part of getting ready to sleep."
+        },
+        {
+          "letter": "B",
+          "text": "Get ready for school",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Go to the park",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Watch the sun rise",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Get ready for bed\" significa prepararse para ir a dormir. Incluye ponerse la pijama (pajamas) y otras rutinas nocturnas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v8",
+      "statement": "Which of these is a **night** activity?",
+      "context": "Grouping actions by time of day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect. Morning."
+        },
+        {
+          "letter": "B",
+          "text": "Go to school",
+          "is_correct": false,
+          "feedback": "Incorrect. Morning."
+        },
+        {
+          "letter": "C",
+          "text": "Listen to a bedtime story",
+          "is_correct": true,
+          "feedback": "Correct! Bedtime stories are for the night."
+        },
+        {
+          "letter": "D",
+          "text": "Have lunch",
+          "is_correct": false,
+          "feedback": "Incorrect. Afternoon."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el momento adecuado para cada actividad. Los cuentos antes de dormir (bedtime stories) son exclusivos de la noche.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v9",
+      "statement": "Which action is **NOT** part of an **afternoon** routine?",
+      "context": "Routine logic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Play with friends",
+          "is_correct": false,
+          "feedback": "Incorrect. Common in the afternoon."
+        },
+        {
+          "letter": "B",
+          "text": "Wake up",
+          "is_correct": true,
+          "feedback": "Correct! Waking up is for the morning, not the afternoon."
+        },
+        {
+          "letter": "C",
+          "text": "Do homework",
+          "is_correct": false,
+          "feedback": "Incorrect. Common in the afternoon."
+        },
+        {
+          "letter": "D",
+          "text": "Have a snack",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las categorías temporales. Despertarse (Wake up) no pertenece a la rutina de la tarde.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v10",
+      "statement": "It is **night**. You are very tired. What is the **best** thing for your body to do?",
+      "context": "Choosing the most important routine for health.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch three movies",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Go to sleep and rest",
+          "is_correct": true,
+          "feedback": "Correct! Sleep is essential for health and energy."
+        },
+        {
+          "letter": "C",
+          "text": "Do more homework",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Eat a very big cake",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar las necesidades del cuerpo. El descanso (sleep) es la actividad más importante durante la noche para recuperar energías.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

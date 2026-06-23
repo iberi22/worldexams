@@ -1,831 +1,891 @@
 {
   "metadata": {
     "grade": 11,
-    "subject": "ciencias-naturales",
+    "subject": "Ciencias Naturales",
     "country": "gq",
     "pack_id": "gq-week-1-grade-11-subject-ciencias_naturales",
     "generated_at": "2026-06-18T23:59:07.776Z"
   },
   "questions": [
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v1",
-      "statement": "¿Cuál es el ecosistema predominante en la mayor parte del territorio continental (Río Muni) de Guinea Ecuatorial?",
-      "context": "Biodiversidad de Guinea Ecuatorial.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v1",
+      "statement": "Simplifique: (8)(11x + 11)",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Sabana seca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La sabana no es el ecosistema principal de la región ecuatorial húmeda."
+          "text": "** 88x + 88",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Selva tropical lluviosa (Pluvisilva).",
-          "is_correct": true,
-          "feedback": "Correcto. Debido a su ubicación geográfica, el país posee una de las selvas más densas y ricas en biodiversidad de África Central."
+          "text": "** 88x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Desierto cálido.",
+          "text": "** 19x + 88",
           "is_correct": false,
-          "feedback": "Incorrecto. El clima de Guinea Ecuatorial es ecuatorial húmedo, incompatible con el desierto."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Tundra alpina.",
+          "text": "** 88x - 88\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(11x + 11) = 88x + 88.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Este ecosistema es propio de climas polares o de muy alta montaña, no de la zona ecuatorial."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Identificación de los biomas principales y las características geográficas del entorno nacional.\n\n---",
+      "correct_answer": "A",
+      "explanation": "",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v2",
-      "statement": "El **gorila de llanura occidental**, que habita en las selvas de nuestro país, se clasifica como una especie:",
-      "context": "Especies endémicas y emblemáticas.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Invasora.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las especies invasoras son las introducidas de fuera que causan daño; el gorila es nativo."
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "En peligro crítico de extinción.",
-          "is_correct": true,
-          "feedback": "Correcto. Debido a la pérdida de hábitat y la caza furtiva, esta especie emblemática enfrenta una amenaza grave para su supervivencia."
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Extinta en estado silvestre.",
+          "text": "** 6",
           "is_correct": false,
-          "feedback": "Incorrecto. Afortunadamente, aún existen poblaciones en libertad en las reservas de Guinea Ecuatorial."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Doméstica.",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Los gorilas son animales salvajes y no han sido domesticados por el ser humano."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comprensión del estado de conservación de la fauna local y la importancia de la protección de especies clave.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v3",
-      "statement": "¿Cuál de las siguientes áreas protegidas se encuentra en la Isla de Bioko y es famosa por su gran biodiversidad y paisajes volcánicos?",
-      "context": "Reservas Naturales de Guinea Ecuatorial.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Parque Nacional de Monte Alén.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Monte Alén se encuentra en la región continental (Río Muni)."
-        },
-        {
-          "letter": "B",
-          "text": "Parque Nacional del Pico Basilé.",
-          "is_correct": true,
-          "feedback": "Correcto. Es el punto más alto de la isla de Bioko y un área protegida fundamental para muchas especies endémicas."
-        },
-        {
-          "letter": "C",
-          "text": "Reserva Natural de las Islas Corisco.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se refiere a las islas de la zona sur, no a la isla principal del norte."
-        },
-        {
-          "letter": "D",
-          "text": "Reserva Científica de la Caldera de Luba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunque está en Bioko, el nombre principal del parque mencionado en relación al pico volcánico más alto es Basilé."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Conocimiento de la geografía y las áreas de conservación ambiental del país.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v4",
-      "statement": "En la selva de Guinea Ecuatorial, ¿cuál es el principal factor limitante para las plantas que crecen a ras del suelo (sotobosque)?",
-      "context": "Factores abióticos en la selva.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El agua, porque llueve poco.",
-          "is_correct": false,
-          "feedback": "Incorrecto. En la selva ecuatorial el agua es abundante."
-        },
-        {
-          "letter": "B",
-          "text": "La luz solar, debido a la densidad de la copa de los árboles (dosel).",
-          "is_correct": true,
-          "feedback": "Correcto. Los grandes árboles bloquean la mayoría de la luz, obligando a las plantas del suelo a adaptarse a condiciones de sombra."
-        },
-        {
-          "letter": "C",
-          "text": "La temperatura, porque hace demasiado frío por la noche.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El clima ecuatorial mantiene temperaturas cálidas y constantes."
-        },
-        {
-          "letter": "D",
-          "text": "El oxígeno, que es escaso en la selva.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La gran densidad de plantas asegura una buena producción de oxígeno."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Identificación de las interacciones entre factores abióticos y bióticos en ecosistemas de selva tropical.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v5",
-      "statement": "En una cadena trófica de la selva guineana compuesta por: **Hojas de Árbol $\\rightarrow$ Oruga $\\rightarrow$ Pájaro Insectívoro $\\rightarrow$ Serpiente**, ¿qué organismo actúa como consumidor secundario?",
-      "context": "Cadenas tróficas en la selva.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v3",
+      "statement": "Maria compro 6 cuadernos a $11.3 c/u en San Antonio de Pale. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Las hojas de árbol.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Son los productores primarios."
+          "text": "** $66.3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "La oruga.",
+          "text": "** $6.3",
           "is_correct": false,
-          "feedback": "Incorrecto. Es el consumidor primario (herbívoro)."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "El pájaro insectívoro.",
-          "is_correct": true,
-          "feedback": "Correcto. Se alimenta de un herbívoro (la oruga), ocupando el segundo nivel de consumidores."
+          "text": "** $11.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "La serpiente.",
+          "text": "** $17.3\r\n  \r\n\r\n**Explicacion:** Total = 6 x $11 = $66.3.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Es el consumidor terciario o depredador tope en esta cadena."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Análisis de los niveles tróficos y la transferencia de materia y energía en los ecosistemas.\n\n---",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v4",
+      "statement": "Un estudiante de Centro de Ensenanza Media de Moca en Moca grafica f(x) = 5x + 11. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v5",
+      "statement": "En un examen EBAU en San Antonio de Pale, se pide: si f(x) = 4x^2 + 10x + 9. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 45",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 14\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 4(4) + 10(2) + 9 = 16 + 20 + 9 = 45.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 17x + 66 = 0",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 6 y x = 11",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 17 y x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 66",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-6)(x-11) = 0, por tanto x = 6 o x = 11.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v6",
-      "statement": "¿De qué manera la tala masiva de árboles en la cuenca del Río Muni afecta al ciclo del carbono y al cambio climático global?",
-      "context": "Ciclo del Carbono y deforestación.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v7",
+      "statement": "Un estudiante de Bata obtuvo notas: 12, 24, 19, 13. &iquest;Cual es la media?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Aumenta la producción de oxígeno en la zona.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Al haber menos árboles, disminuye la fotosíntesis y por tanto el oxígeno."
+          "text": "** 16.5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Aumenta la concentración de $CO_2$ en la atmósfera, ya que se pierde capacidad de absorción y se libera el carbono almacenado.",
-          "is_correct": true,
-          "feedback": "Correcto. Los bosques actúan como \"sumideros de carbono\" y su destrucción agrava el efecto invernadero."
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "No tiene ningún efecto fuera de Guinea Ecuatorial.",
+          "text": "** 48",
           "is_correct": false,
-          "feedback": "Incorrecto. El ciclo del carbono es global y la deforestación tropical afecta a todo el planeta."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Enfría el clima local porque el suelo queda más expuesto.",
+          "text": "** 24\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. El suelo expuesto suele calentarse más y la pérdida de humedad aumenta la temperatura."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comprensión del papel de los bosques tropicales en la regulación del clima y los ciclos biogeoquímicos.\n\n---",
+      "correct_answer": "A",
+      "explanation": "",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v7",
-      "statement": "En la selva, existen orquídeas que crecen sobre las ramas de los grandes árboles para obtener luz, pero sin extraer nutrientes del árbol ni dañarlo. Esta relación se llama:",
-      "context": "Relaciones interespecíficas.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 5x^3 + 9x^2 + 7x + 9",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Parasitismo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. En el parasitismo un organismo sale beneficiado y el otro perjudicado."
+          "text": "** f'(x) = 15x^2 + 18x + 7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Comensalismo.",
-          "is_correct": true,
-          "feedback": "Correcto. Un organismo se beneficia (la orquídea obtiene luz y soporte) y el otro no se ve afectado ni beneficiado (el árbol)."
+          "text": "** f'(x) = 5x^2 + 9x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Mutualismo.",
+          "text": "** f'(x) = 15x^2 + 9x",
           "is_correct": false,
-          "feedback": "Incorrecto. En el mutualismo ambos organismos deben obtener un beneficio."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Competencia.",
+          "text": "** f'(x) = 15x^3 + 18x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(5x^3) = 15x^2, d/dx(9x^2) = 18x, d/dx(7x) = 7, d/dx(9) = 0.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. No hay lucha por un recurso limitado que afecte a ambos negativamente."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Identificación y distinción de los tipos de interacciones entre diferentes especies en una comunidad biológica.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v10",
+      "statement": "En Aconibe, un estudiante del Centro de Ensenanza Media de Aconibe resuelve: 5x + 6 = 31. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 6 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v11",
+      "statement": "Simplifique: (4)(1x + 37)",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4x + 148",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4x + 37",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5x + 148",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4x - 148\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (4)(1x + 37) = 4x + 148.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v8",
-      "statement": "¿Cuál es la función principal de las bacterias nitrificantes presentes en el suelo de nuestras selvas y campos de cultivo?",
-      "context": "El ciclo del Nitrógeno y el suelo.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v13",
+      "statement": "Maria compro 6 cuadernos a $8.2 c/u en Moca. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Destruir las raíces de las plantas para que mueran.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Son bacterias beneficiosas para el ecosistema."
+          "text": "** $48.2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Transformar el amoníaco en nitratos que las plantas pueden absorber y utilizar para crecer.",
-          "is_correct": true,
-          "feedback": "Correcto. Son piezas clave en el ciclo del nitrógeno, haciendo disponible este nutriente esencial."
+          "text": "** $6.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Producir energía a partir de la luz solar como las plantas.",
+          "text": "** $8.2",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas bacterias son quimiosintéticas o heterótrofas, no fotosintéticas."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Purificar el agua de los ríos quitándole la sal.",
+          "text": "** $14.2\r\n  \r\n\r\n**Explicacion:** Total = 6 x $8 = $48.2.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Su función principal está relacionada con el ciclo de nutrientes en el suelo, no con la desalinización."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comprensión de los procesos microbiológicos esenciales para la fertilidad y salud de los ecosistemas.\n\n---",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v14",
+      "statement": "Un estudiante de Instituto de Ebibeyin en Ebibeyin grafica f(x) = 5x + 9. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v15",
+      "statement": "En un examen EBAU en Malabo, se pide: si f(x) = 8x^2 + 6x + 8. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 52",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 14\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 8(4) + 6(2) + 8 = 32 + 12 + 8 = 52.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 13x + 40 = 0",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 8 y x = 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 13 y x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-8)(x-5) = 0, por tanto x = 8 o x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v9",
-      "statement": "Los **manglares** que se encuentran en las costas de Malabo y Bata son vitales porque:",
-      "context": "Importancia de los manglares.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v17",
+      "statement": "Un estudiante de Bidjabidjan obtuvo notas: 10, 15, 15, 11. &iquest;Cual es la media?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Son la principal fuente de madera para la construcción de rascacielos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Su importancia es ecológica, no maderera a gran escala."
+          "text": "** 12.8",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Protegen la costa contra la erosión y sirven de criadero para muchas especies marinas.",
-          "is_correct": true,
-          "feedback": "Correcto. Sus raíces retienen el sedimento y ofrecen refugio a peces jóvenes."
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Absorben el agua del mar para convertirla en agua dulce.",
+          "text": "** 25",
           "is_correct": false,
-          "feedback": "Incorrecto. Los manglares toleran la sal, pero no desalan el océano."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Evitan que el sol caliente demasiado el agua del mar.",
+          "text": "** 20\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. No es su función principal ni tienen impacto significativo en la temperatura del océano."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Valoración de los servicios ecosistémicos proporcionados por los biomas costeros tropicales.\n\n---",
+      "correct_answer": "A",
+      "explanation": "",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v10",
-      "statement": "La técnica tradicional de \"tala y quema\" para la agricultura puede ser sostenible en pequeñas poblaciones, pero si se practica de forma masiva puede provocar:",
-      "context": "Impacto de la agricultura de quema.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 2x^3 + 6x^2 + 2x + 6",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Un aumento permanente de la fertilidad del suelo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ceniza da fertilidad a corto plazo, pero el suelo se agota rápido sin bosque."
+          "text": "** f'(x) = 6x^2 + 12x + 2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Degradación del suelo, pérdida de biodiversidad y erosión acelerada.",
-          "is_correct": true,
-          "feedback": "Correcto. Al eliminar la cobertura vegetal, el suelo queda expuesto a las fuertes lluvias ecuatoriales que lavan los nutrientes."
+          "text": "** f'(x) = 2x^2 + 6x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "La aparición de nuevas especies de animales gigantes.",
+          "text": "** f'(x) = 6x^2 + 6x",
           "is_correct": false,
-          "feedback": "Incorrecto. No tiene fundamento biológico."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Que llueva más frecuentemente en la zona.",
+          "text": "** f'(x) = 6x^3 + 12x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(2x^3) = 6x^2, d/dx(6x^2) = 12x, d/dx(2x) = 2, d/dx(6) = 0.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. La deforestación suele disminuir la humedad local y la lluvia."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Análisis de la sostenibilidad de las prácticas humanas y su impacto en la conservación del suelo y la biota.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v11",
-      "statement": "Muchas plantas de la selva de Guinea Ecuatorial tienen hojas con \"puntas de goteo\" (drip tips). Esta es una adaptación evolutiva para:",
-      "context": "Adaptaciones de las plantas de la selva.",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "Almacenar agua para las épocas de sequía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las puntas de goteo facilitan la salida del agua, no su almacenamiento."
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "B",
-          "text": "Facilitar el drenaje rápido del agua de lluvia y evitar el crecimiento de hongos o algas sobre la hoja.",
-          "is_correct": true,
-          "feedback": "Correcto. En un ambiente tan húmedo, el exceso de agua en la hoja puede ser perjudicial."
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Pinchar a los animales que intentan comerse la hoja.",
+          "text": "** No, no tiene extremos",
           "is_correct": false,
-          "feedback": "Incorrecto. No son espinas, sino extensiones lisas que guían el agua."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Captar mejor la luz del sol cuando está nublado.",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. La forma está relacionada con la gestión del agua, no con la luz."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Análisis de las adaptaciones morfológicas de los seres vivos a las condiciones específicas de su bioma.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v12",
-      "statement": "En una población de mariposas de la selva, algunas tienen colores brillantes (fáciles de ver) y otras colores apagados (camuflaje). Si llega un nuevo depredador visual, ¿qué se espera que ocurra según la selección natural?",
-      "context": "Genética y selección natural.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Todas las mariposas aprenderán a cambiar de color voluntariamente.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La evolución no es voluntaria ni individual, ocurre en la población a través de generaciones."
-        },
-        {
-          "letter": "B",
-          "text": "Las mariposas brillantes se reproducirán más porque son más bonitas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Serán cazadas más fácilmente, por lo que tendrán menos probabilidad de reproducirse."
-        },
-        {
-          "letter": "C",
-          "text": "La frecuencia de mariposas con colores apagados aumentará con el tiempo en la población.",
-          "is_correct": true,
-          "feedback": "Correcto. Al tener mayor supervivencia, dejarán más descendencia con sus genes de camuflaje."
-        },
-        {
-          "letter": "D",
-          "text": "El depredador decidirá no comer mariposas para no alterar el equilibrio.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los depredadores actúan por necesidad biológica, no por decisiones de gestión ambiental consciente."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Aplicación de los principios de la selección natural de Darwin a un escenario de presión ambiental.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v13",
-      "statement": "El gorila o el elefante de bosque son considerados \"especies paraguas\" en Guinea Ecuatorial. ¿Qué significa esto para la conservación?",
-      "context": "Especies paraguas (Umbrella species).",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que son animales que usan hojas grandes para protegerse de la lluvia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es una interpretación literal y errónea del término técnico."
-        },
-        {
-          "letter": "B",
-          "text": "Que al proteger su hábitat, que es muy extenso, se protege automáticamente a cientos de otras especies más pequeñas que viven allí.",
-          "is_correct": true,
-          "feedback": "Correcto. Son especies cuya conservación beneficia a todo el ecosistema."
-        },
-        {
-          "letter": "C",
-          "text": "Que son las únicas especies que el Ministerio de Educación ha decidido estudiar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El término es científico y biológico, no administrativo."
-        },
-        {
-          "letter": "D",
-          "text": "Que pueden vivir en cualquier parte del mundo sin problemas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Son especies muy especializadas en su hábitat de selva tropical."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Comprensión de las estrategias modernas de conservación basadas en especies clave.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     },
     {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v14",
-      "statement": "Si en un ecosistema de Guinea Ecuatorial los productores primarios (plantas) capturan $10,000$ kcal de energía solar, ¿cuánta energía estará disponible, aproximadamente, para los consumidores secundarios?",
-      "context": "El flujo de energía (Regla del 10%).",
+      "id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-v20",
+      "statement": "En Ebibeyin, un estudiante del Instituto de Ebibeyin resuelve: 5x + 4 = 29. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de GQ practicando metodo cientifico pasos.",
       "options": [
         {
           "letter": "A",
-          "text": "$10,000$ kcal.",
+          "text": "** 2",
           "is_correct": false,
-          "feedback": "Incorrecto. La energía se pierde en cada nivel trófico (principalmente como calor)."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "B",
-          "text": "$1,000$ kcal.",
+          "text": "** 4",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la energía para los consumidores primarios (10%)."
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "$100$ kcal.",
+          "text": "** 5",
           "is_correct": true,
-          "feedback": "Correcto. Se aplica la regla del 10% dos veces: 10% de 10,000 es 1,000 (Primarios), y 10% de 1,000 es 100 (Secundarios)."
+          "feedback": "&iexcl;Correcto!"
         },
         {
           "letter": "D",
-          "text": "$10$ kcal.",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Este sería el nivel de los consumidores terciarios."
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Aplicación cuantitativa de las leyes de la termodinámica al flujo de energía en las redes tróficas.\n\n---",
-      "difficulty": "8",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "bundle_id": "GQ-CIE-11-2026-W01-metodo-cientifico-pasos-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v15",
-      "statement": "¿Cuál es el mayor riesgo biológico de introducir especies de peces extranjeros en los ríos de nuestro país para la acuicultura?",
-      "context": "Introducción de especies exóticas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que los peces extranjeros se sientan tristes por estar lejos de su casa.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los sentimientos no son un factor de riesgo biológico analizado en ecología."
-        },
-        {
-          "letter": "B",
-          "text": "Que el agua de los ríos cambie de color.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es un efecto biológico directo de la introducción de peces."
-        },
-        {
-          "letter": "C",
-          "text": "Que desplacen a las especies nativas por competencia o depredación, rompiendo el equilibrio ecológico.",
-          "is_correct": true,
-          "feedback": "Correcto. Las especies exóticas pueden convertirse en invasoras y causar la extinción de especies locales únicas."
-        },
-        {
-          "letter": "D",
-          "text": "Que la gente prefiera comer el pescado nuevo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este es un factor económico o de mercado, no un riesgo biológico para el ecosistema."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Evaluación de las amenazas a la biodiversidad local por actividades humanas mal planificadas.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v16",
-      "statement": "Los reptiles de la selva guineana, como los cocodrilos, son animales **ectotermos**. Esto significa que:",
-      "context": "Adaptaciones fisiológicas (Homeostasis).",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Producen su propio calor corporal mediante el metabolismo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esos son los animales endotermos (mamíferos y aves)."
-        },
-        {
-          "letter": "B",
-          "text": "Su temperatura corporal depende principalmente de la temperatura del ambiente externo.",
-          "is_correct": true,
-          "feedback": "Correcto. Los ectotermos regulan su temperatura mediante comportamientos como tomar el sol."
-        },
-        {
-          "letter": "C",
-          "text": "No necesitan agua para vivir.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Todos los seres vivos necesitan agua, especialmente los reptiles que viven cerca de ella."
-        },
-        {
-          "letter": "D",
-          "text": "Solo pueden vivir en el agua salada del mar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Existen muchas especies de agua dulce."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Diferenciación de las estrategias de termorregulación en el reino animal.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v17",
-      "statement": "Muchos medicamentos modernos se derivan de plantas de selvas tropicales como las de Guinea Ecuatorial. El debate ético sobre la **Biopiratería** se refiere a:",
-      "context": "Bioprospección y Ética.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El robo de madera durante la noche en los parques nacionales.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El término se refiere a recursos genéticos y conocimiento, no a materia prima física."
-        },
-        {
-          "letter": "B",
-          "text": "La explotación de recursos biológicos o conocimientos tradicionales sin el consentimiento o beneficio del país y las comunidades de origen.",
-          "is_correct": true,
-          "feedback": "Correcto. Es un debate clave sobre la propiedad intelectual y la justicia con los países biodiversos."
-        },
-        {
-          "letter": "C",
-          "text": "El uso de barcos piratas para estudiar la vida marina en Corisco.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Interpretación literal y errónea del término."
-        },
-        {
-          "letter": "D",
-          "text": "El estudio de los virus que afectan a los monos de la selva.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esto es virología o epidemiología, no necesariamente biopiratería."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Análisis de los dilemas éticos y legales en la intersección entre ciencia, economía e identidad nacional.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v18",
-      "statement": "Para que la explotación del petróleo en Guinea Ecuatorial sea compatible con la conservación de sus ecosistemas marinos, ¿cuál de las siguientes medidas es la más crítica?",
-      "context": "Desarrollo sostenible.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Prohibir totalmente la pesca en todo el océano.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es una medida extrema que afectaría la seguridad alimentaria sin resolver el problema del petróleo."
-        },
-        {
-          "letter": "B",
-          "text": "Implementar protocolos estrictos de seguridad, monitoreo ambiental constante y planes de respuesta rápida ante vertidos.",
-          "is_correct": true,
-          "feedback": "Correcto. Permite la actividad económica minimizando el riesgo de desastre ecológico irreversible."
-        },
-        {
-          "letter": "C",
-          "text": "Pintar las plataformas petrolíferas de color verde para que se camuflen.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es una medida estética que no tiene impacto real en la protección del ecosistema."
-        },
-        {
-          "letter": "D",
-          "text": "Trasladar a todos los peces de la zona de extracción a una pecera gigante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es técnicamente imposible y biológicamente inviable."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Evaluación de estrategias de gestión ambiental para equilibrar desarrollo económico y preservación natural.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v19",
-      "statement": "¿Cuál de las siguientes características hace que un ecosistema, como la selva de Monte Alén, sea más **resiliente** frente a un cambio ambiental brusco?",
-      "context": "Resiliencia de los ecosistemas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que todas las especies de árboles sean exactamente iguales.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La falta de diversidad hace al sistema más vulnerable."
-        },
-        {
-          "letter": "B",
-          "text": "Una alta biodiversidad y una red compleja de interacciones tróficas.",
-          "is_correct": true,
-          "feedback": "Correcto. Si hay muchas especies y conexiones, el fallo de una parte puede ser compensado por otras."
-        },
-        {
-          "letter": "C",
-          "text": "Que no haya ningún tipo de depredador en el sistema.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los depredadores son necesarios para mantener el equilibrio y la salud de las poblaciones."
-        },
-        {
-          "letter": "D",
-          "text": "Que el suelo sea completamente de arena sin materia orgánica.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los suelos pobres soportan ecosistemas menos complejos y menos resilientes."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Comprensión del concepto de resiliencia ecológica y los factores que la promueven.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "GQ-CN-11-P1-ecosistemas-guineanos-001-v20",
-      "statement": "Si fueras el encargado de diseñar un corredor biológico entre dos reservas naturales fragmentadas en Río Muni, ¿cuál sería tu objetivo principal?",
-      "context": "Plan de acción ambiental.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Construir una carretera asfaltada para que los científicos lleguen más rápido.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las carreteras fragmentan aún más el hábitat y aumentan el riesgo de atropellos."
-        },
-        {
-          "letter": "B",
-          "text": "Poner una valla eléctrica para que los animales no se escapen de las reservas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El objetivo del corredor es permitir el movimiento, no impedirlo."
-        },
-        {
-          "letter": "C",
-          "text": "Restaurar una franja de vegetación nativa que conecte ambas áreas para permitir el flujo genético y el movimiento de especies.",
-          "is_correct": true,
-          "feedback": "Correcto. Los corredores reducen el aislamiento de las poblaciones y ayudan a mantener la diversidad genética."
-        },
-        {
-          "letter": "D",
-          "text": "Iluminar el bosque por la noche para que los animales no se pierdan.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La contaminación lumínica altera los ciclos biológicos de las especies nocturnas."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Diseño y justificación de estrategias de restauración y conectividad ecológica en paisajes fragmentados.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Create",
-      "bundle_id": "GQ-CN-11-P1-ecosistemas-guineanos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "gq"
     }
   ]
 }

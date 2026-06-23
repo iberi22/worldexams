@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
-alignment: "DBA MEN Colombia 2026"
-cefr_level: "A2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Weekly Pack W03 — Verb To Be: Affirmative
 
 **Grade:** 6° | **Periodo:** 1 | **Semana:** W03 | **Year:** 2026 | **CEFR:** A2

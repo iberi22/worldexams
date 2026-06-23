@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v1",
+      "statement": "I couldn't sleep ________ the loud music from the neighbors.",
+      "context": "Reviewing connectors of reason.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a clause."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "because of",
+          "is_correct": true,
+          "feedback": "Correct! Followed by a noun phrase."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "since",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "\"Because of\" se utiliza antes de un sustantivo para explicar la causa de algo.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v2",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v2",
+      "statement": "Is there ________ in the house? I heard a noise.",
+      "context": "Reviewing indefinite pronouns.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
+          "text": "someone",
+          "is_correct": false,
+          "feedback": "Incorrect. In questions, \"anyone\" is standard."
         },
         {
           "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
+          "text": "anyone",
+          "is_correct": true,
+          "feedback": "Correct! Standard indefinite pronoun for questions."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "no one",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "everyone",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En preguntas sobre la identidad de una persona, usamos \"anyone\" o \"anybody\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v3",
+      "statement": "She taught ________ how to play the guitar using YouTube videos.",
+      "context": "Reviewing reflexive pronouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "her",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "herself",
+          "is_correct": true,
+          "feedback": "Correct! Subject and object are the same."
+        },
+        {
+          "letter": "C",
+          "text": "she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hers",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una persona realiza una acción sobre sí misma, usamos el pronombre reflexivo correspondiente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v4",
+      "statement": "You haven't finished your homework yet, ________?",
+      "context": "Reviewing question tags.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have you",
+          "is_correct": true,
+          "feedback": "Correct! Positive tag for a negative sentence."
+        },
+        {
+          "letter": "B",
+          "text": "haven't you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "do you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did you",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "La coletilla debe usar el mismo auxiliar que la oración pero con la polaridad opuesta.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v5",
+      "statement": "It was a public holiday. ________, all the shops were closed.",
+      "context": "Reviewing \"Therefore\" for result.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "Therefore",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Correct! Formal connector of consequence."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "Because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "Although",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "But",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "\"Therefore\" sirve para unir dos oraciones donde la segunda es la consecuencia lógica de la primera.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v6",
+      "statement": "I have ________ to say to you after what you did.",
+      "context": "Reviewing \"Nothing\" in sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "anything",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a negative verb (I don't have anything)."
+        },
+        {
+          "letter": "B",
+          "text": "nothing",
+          "is_correct": true,
+          "feedback": "Correct! \"Nothing\" with an affirmative verb gives a negative meaning."
+        },
+        {
+          "letter": "C",
+          "text": "something",
+          "is_correct": false,
+          "feedback": "Incorrect meaning for the context."
+        },
+        {
+          "letter": "D",
+          "text": "everything",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Nothing\" ya contiene la negación, por lo que se usa con verbos en forma afirmativa.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v4",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v7",
+      "statement": "We can fix the computer ________; we don't need a technician.",
+      "context": "Reviewing reflexive pronouns for plurals.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "ourselves",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! Reflexive for \"we\"."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "ourself",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect form."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "themselves",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "by ourself",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect form."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Recordamos que los reflexivos en plural terminan en \"-selves\". Para \"we\", es \"ourselves\".\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v8",
+      "statement": "I am right about this, ________?",
+      "context": "Reviewing irregular question tag.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "am not I",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "aren't I",
+          "is_correct": true,
+          "feedback": "Correct! Irregular tag for \"I am\"."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "isn't it",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "don't I",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Se refuerza el conocimiento de la excepción \"aren't I?\" para la primera persona del singular con el verbo \"to be\".\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v9",
+      "statement": "This information is public, so ________ can read it.",
+      "context": "Reviewing \"anyone\" as \"it doesn't matter who\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "someone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "no one",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "anyone",
+          "is_correct": true,
+          "feedback": "Correct! Means \"it doesn't matter which person\"."
+        },
+        {
+          "letter": "D",
+          "text": "anything",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Anyone\" en oraciones afirmativas transmite la idea de que no hay restricciones sobre quién puede realizar la acción.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"**Everyone (A)** in the room **was (B)** silent **because (C)** they were looking at **theirselves (D)** in the new mirrors.\"",
+      "context": "Identifying errors in a mix of topics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Everyone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "theirselves",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The reflexive for \"they\" is \"themselves\", not \"theirselves\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se evalúa la forma correcta de los pronombres reflexivos plurales, un error común incluso si la concordancia de la oración es aceptable.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v6",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v11",
+      "statement": "Which sentence is the best way to explain a delay in a professional report?",
+      "context": "Evaluating the best formal explanation.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
+          "text": "We were late because the rain was bad.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
+          "text": "The project was delayed due to unforeseen technical difficulties; therefore, the deadline has been extended.",
+          "is_correct": true,
+          "feedback": "Correct! Excellent use of \"due to\" and \"therefore\" in a formal context."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "Someone didn't do the work, so we are late.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Unprofessional."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Everything is bad, haven't it?",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect grammar."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Combinar conectores formales (due to, therefore) con una estructura clara es esencial para la comunicación profesional en nivel B1.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v12",
+      "statement": "\"Nobody expected the surprise party. Everybody arrived at different times. Because of the lack of coordination, some people brought the same gifts. As a result, there were many duplicates.\"\r\nChoose the best summary:",
+      "context": "Selecting the best summary of a group action.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "Due to a lack of coordination, everyone's independent arrivals resulted in duplicate gifts that nobody had anticipated.",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct! It synthesizes all the indefinite pronouns and connectors perfectly."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "Someone brought gifts to everyone because they were coordinated.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Contradicts the text."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "Nothing happened at the party.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "They arrived themselves and brought nothing.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Un resumen exitoso en este nivel debe ser capaz de integrar múltiples pronombres indefinidos y conectores de causa/efecto para describir con precisión la dinámica de un evento.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v8",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v10",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-v12",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

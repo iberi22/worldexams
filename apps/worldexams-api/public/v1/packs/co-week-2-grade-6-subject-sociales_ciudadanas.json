@@ -1,0 +1,1731 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-22T05:46:17.337Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v1",
+      "statement": "Según la Constitución colombiana, ¿cuál es el primero y más importante de los derechos fundamentales?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la propiedad privada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad es importante pero no es el primero."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la vida",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 11 de la Constitución dice: \"El derecho a la vida es inviolable\"."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a tener un celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un derecho constitucional."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la educación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es un derecho fundamental, pero no el primero en el orden constitucional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derecho a la vida es el derecho fundamental más importante porque sin él no pueden existir los demás. El artículo 11 de la Constitución establece que no habrá pena de muerte. Todos los demás derechos parten de la base de que la vida humana debe ser protegida.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v2",
+      "statement": "¿Cuál es un deber de los ciudadanos colombianos según la Constitución?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagar solo los impuestos que uno considere justos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos deben pagarse según la ley, no según la opinión personal."
+        },
+        {
+          "letter": "B",
+          "text": "Votar en todas las elecciones sin excepción",
+          "is_correct": false,
+          "feedback": "El voto es un derecho y deber, pero no tener cédula o estar fuera del país son excusas válidas."
+        },
+        {
+          "letter": "C",
+          "text": "Respetar los derechos ajenos y no abusar de los propios",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 95 de la Constitución establece los deberes de la persona y del ciudadano."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiarse de ciudad cada 5 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal deber constitucional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 95 de la Constitución enumera los deberes de los colombianos, entre ellos: respetar los derechos ajenos, obrar conforme al principio de solidaridad social, defender y difundir los derechos humanos, participar en la vida política, y contribuir al financiamiento del Estado mediante impuestos.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v3",
+      "statement": "¿Qué son los derechos sociales, económicos y culturales?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos que solo tienen las personas ricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son para todos los ciudadanos."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos que buscan garantizar condiciones de vida digna, como la salud, la educación, el trabajo y la vivienda",
+          "is_correct": true,
+          "feedback": "Correcto. Son derechos de segunda generación que el Estado debe garantizar progresivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Derechos que los ciudadanos pueden comprar y vender libremente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos no son mercancías."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos de los extranjeros en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplican a todos los residentes en Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos sociales, económicos y culturales (artículos 42 al 77 de la Constitución) incluyen el derecho a la educación (art. 67), la salud, la seguridad social, el trabajo en condiciones dignas y la vivienda. A diferencia de los derechos fundamentales, su cumplimiento es progresivo porque requiere inversión del Estado.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v4",
+      "statement": "¿Qué significa que un derecho sea \"fundamental\"?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es opcional para el Estado protegerlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado está obligado a protegerlos."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo aplica para los adultos mayores de 60 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica para todas las personas."
+        },
+        {
+          "letter": "C",
+          "text": "Que es inherente a la persona humana y su protección puede exigirse inmediatamente mediante tutela",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos fundamentales son de aplicación inmediata."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo existe en países con monarquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen en todas las democracias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los derechos fundamentales (Título II, Capítulo 1 de la Constitución) son aquellos que pueden protegerse mediante Acción de Tutela. Incluyen la vida, la igualdad, la intimidad, el libre desarrollo de la personalidad, la libertad de expresión, entre otros. Son de aplicación inmediata y no requieren desarrollo legal previo.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v5",
+      "statement": "¿Qué son los derechos colectivos y del ambiente?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos que pueden ejercerse individualmente sin afectar a otros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son derechos que pertenecen a toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos que pertenecen a la comunidad en su conjunto, como el derecho a un ambiente sano, al espacio público y al patrimonio cultural",
+          "is_correct": true,
+          "feedback": "Correcto. Son derechos de tercera generación."
+        },
+        {
+          "letter": "C",
+          "text": "Derechos exclusivos de los funcionarios públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen a toda la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos que solo existen en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen en muchos países del mundo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos colectivos (artículos 78 al 82 de la Constitución) incluyen el derecho a un ambiente sano, la protección del espacio público, la defensa del patrimonio cultural y la moralidad administrativa. Se protegen mediante la Acción Popular, que cualquier persona puede interponer.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v6",
+      "statement": "Un estudiante de grado 6 se pregunta: \"¿Tengo derecho a la educación aunque mis padres no tengan dinero para pagar un colegio privado?\" ¿Qué debería saber?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la educación es un privilegio, no un derecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es un derecho fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "Que la educación es un derecho fundamental y el Estado debe garantizar educación pública gratuita hasta el grado 11",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 67 establece que la educación es obligatoria y gratuita en instituciones públicas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la educación solo es para quienes pueden pagarla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería discriminatorio e inconstitucional."
+        },
+        {
+          "letter": "D",
+          "text": "Que la educación es un derecho, pero solo para niños menores de 12 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es un derecho de todos los niños y jóvenes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 67 de la Constitución establece que la educación es un derecho de la persona y un servicio público que tiene una función social. El Estado debe garantizar la educación gratuita en las instituciones públicas para todos los niveles, desde preescolar hasta media (grado 11).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v7",
+      "statement": "Una empresa está contaminando el río de la vereda, afectando a toda la comunidad. ¿Qué tipo de derecho se está vulnerando y qué mecanismo pueden usar los ciudadanos?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se vulnera el derecho al trabajo y pueden usar la tutela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tutela protege derechos individuales, no colectivos."
+        },
+        {
+          "letter": "B",
+          "text": "Se vulnera el derecho a la propiedad privada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río no es propiedad privada de una sola persona."
+        },
+        {
+          "letter": "C",
+          "text": "Se vulnera el derecho colectivo a un ambiente sano y pueden usar la Acción Popular",
+          "is_correct": true,
+          "feedback": "Correcto. La Acción Popular protege los derechos e intereses colectivos."
+        },
+        {
+          "letter": "D",
+          "text": "Se vulnera el derecho a la libre empresa y no hay nada que hacer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a un ambiente sano está por encima de los intereses económicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Acción Popular (Ley 472 de 1998) es el mecanismo para proteger derechos colectivos como el ambiente sano, el espacio público, la moralidad administrativa y el patrimonio cultural. Cualquier persona puede interponerla sin necesidad de abogado.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v8",
+      "statement": "¿Por qué la Constitución establece deberes ciudadanos además de derechos?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el Estado tenga excusas para castigar a los ciudadanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los deberes tienen un fin constructivo, no punitivo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los derechos y deberes son dos caras de la misma moneda: vivir en sociedad implica tanto derechos que proteger como responsabilidades que cumplir",
+          "is_correct": true,
+          "feedback": "Correcto. La convivencia democrática requiere equilibrio entre ambos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los deberes reemplazan a los derechos cuando el gobierno lo decide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos no son reemplazables por deberes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en Colombia los derechos no son importantes, solo los deberes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son igualmente importantes en el constitucionalismo colombiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre derechos y deberes es fundamental en una democracia. Así como los ciudadanos tienen derecho a la educación, también tienen el deber de respetar los derechos de los demás y contribuir al funcionamiento del Estado pagando impuestos. La corresponsabilidad es clave para la convivencia.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v9",
+      "statement": "¿Qué significa el principio de \"igualdad\" ante la ley según la Constitución colombiana?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todas las personas deben ser tratadas exactamente igual en todas las situaciones sin importar sus circunstancias",
+          "is_correct": false,
+          "feedback": "Incorrecto. A veces se requiere un trato diferenciado para proteger a grupos vulnerables."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las personas tienen los mismos derechos y deberes, y no puede haber discriminación por razones de sexo, raza, origen, religión o condición económica",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 13 prohíbe la discriminación y promueve la igualdad real."
+        },
+        {
+          "letter": "C",
+          "text": "Que el gobierno puede tratar mejor a sus amigos que a sus opositores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería discriminación ilegal."
+        },
+        {
+          "letter": "D",
+          "text": "Que la igualdad solo aplica para los hombres mayores de edad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad aplica a todas las personas sin distinción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 13 de la Constitución va más allá de la igualdad formal: establece que el Estado debe promover condiciones para que la igualdad sea real y efectiva, y adoptar medidas a favor de grupos discriminados o marginados (discriminación positiva o acción afirmativa).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v10",
+      "statement": "Analiza: un ciudadano exige que el Estado le garantice su derecho a la salud, pero al mismo tiempo no ha pagado sus impuestos en los últimos 5 años. ¿Qué conflicto ético y constitucional se presenta en esta situación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay conflicto, porque los derechos no tienen relación con los impuestos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos requieren financiación estatal."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una tensión entre el derecho individual a recibir servicios y el deber ciudadano de contribuir al sostenimiento del Estado mediante impuestos",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos tienen un costo y se financian con los impuestos de todos."
+        },
+        {
+          "letter": "C",
+          "text": "El ciudadano tiene toda la razón porque los derechos son absolutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos tienen límites y contrapartidas."
+        },
+        {
+          "letter": "D",
+          "text": "El Estado no debería garantizar ningún derecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado debe garantizar derechos, pero necesita recursos para hacerlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este dilema muestra que los derechos no son gratuitos: su financiación depende de los impuestos que pagan los ciudadanos y las empresas. Por eso el artículo 95 de la Constitución establece como deber \"contribuir al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad\". La corresponsabilidad es esencial para el funcionamiento del Estado Social de Derecho.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v1",
+      "statement": "¿Quién llegó primero al territorio de la actual Colombia en 1499?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cristóbal Colón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colón llegó a las Antillas, no a tierra firme colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Alonso de Ojeda, acompañado de Juan de la Cosa y Américo Vespucio",
+          "is_correct": true,
+          "feedback": "Correcto. Fue la primera expedición europea en llegar a la costa Caribe colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Gonzalo Jiménez de Quesada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quesada llegó décadas después, en 1536."
+        },
+        {
+          "letter": "D",
+          "text": "Simón Bolívar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar vivió en el siglo XIX, mucho después de la colonia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Alonso de Ojeda llegó a la península de La Guajira en 1499. A partir de ahí comenzó la exploración y conquista del territorio colombiano por parte de los españoles, que encontraron diversas culturas indígenas como los taironas y los muiscas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v2",
+      "statement": "¿Cómo se llamó la unidad político-administrativa colonial que gobernó el territorio de la actual Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Virreinato de México",
+          "is_correct": false,
+          "feedback": "Incorrecto. México era otro virreinato."
+        },
+        {
+          "letter": "B",
+          "text": "El Virreinato del Perú",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perú era otro virreinato."
+        },
+        {
+          "letter": "C",
+          "text": "El Virreinato de la Nueva Granada",
+          "is_correct": true,
+          "feedback": "Correcto. Fue creado en 1717 y gobernó desde Santafé de Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "El Virreinato del Río de la Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gobernaba el sur del continente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Virreinato de la Nueva Granada fue creado por la Corona española para administrar mejor sus colonias. Incluía los actuales territorios de Colombia, Ecuador, Panamá y Venezuela. Su capital era Santafé de Bogotá.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v3",
+      "statement": "¿En qué se basaba principalmente la economía colonial en el territorio de la Nueva Granada?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la industria textil de alta tecnología",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía industria textil avanzada en esa época."
+        },
+        {
+          "letter": "B",
+          "text": "En la exportación de petróleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El petróleo se descubrió mucho después."
+        },
+        {
+          "letter": "C",
+          "text": "En la minería (oro y plata), la agricultura de plantación y el comercio con España",
+          "is_correct": true,
+          "feedback": "Correcto. La minería fue la actividad económica más importante de la colonia."
+        },
+        {
+          "letter": "D",
+          "text": "En la fabricación de automóviles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los automóviles no existían en la época colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La economía colonial neogranadina se basaba en la extracción de oro y plata (especialmente en Antioquia y el Cauca), la agricultura (caña de azúcar, algodón, cacao) y el comercio monopólico con España. Las riquezas extraídas se enviaban a la metrópoli.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v4",
+      "statement": "¿Cómo estaba organizada la sociedad en la época colonial?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos eran iguales sin distinción de raza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sociedad colonial era altamente jerarquizada."
+        },
+        {
+          "letter": "B",
+          "text": "Estaba dividida en grupos según la raza y el origen: españoles, criollos, mestizos, indígenas y esclavos africanos",
+          "is_correct": true,
+          "feedback": "Correcto. Era una sociedad estamental basada en la pureza de sangre."
+        },
+        {
+          "letter": "C",
+          "text": "Solo existían indígenas y españoles como grupos sociales",
+          "is_correct": false,
+          "feedback": "Incorrecto. También había mestizos, criollos y africanos esclavizados."
+        },
+        {
+          "letter": "D",
+          "text": "Las personas podían cambiar de grupo social fácilmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La movilidad social era muy limitada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sociedad colonial neogranadina era jerárquica. En la cima estaban los españoles peninsulares, seguidos por los criollos (españoles nacidos en América). Los mestizos ocupaban una posición intermedia, mientras indígenas y esclavos africanos estaban en la base. Esta jerarquía generó tensiones que más tarde llevarían a la independencia.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v5",
+      "statement": "¿Qué fue la \"Mita\" en la época colonial?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un baile tradicional de los indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una danza."
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema de trueque entre indígenas y españoles",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era un intercambio voluntario."
+        },
+        {
+          "letter": "C",
+          "text": "Un sistema de trabajo obligatorio que los indígenas debían cumplir en minas y obras públicas",
+          "is_correct": true,
+          "feedback": "Correcto. Era una forma de explotación laboral indígena."
+        },
+        {
+          "letter": "D",
+          "text": "Un impuesto que los españoles pagaban a los indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas eran quienes trabajaban, no al revés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mita fue una institución colonial que obligaba a los indígenas varones adultos a trabajar por temporadas en minas, haciendas u obras públicas a cambio de un salario muy bajo. Era una continuación de prácticas precolombinas adaptadas al sistema colonial.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v6",
+      "statement": "Si un estudiante investiga sobre la vida de un esclavo africano en la Cartagena colonial del siglo XVII, ¿qué institución colonial estaría directamente relacionada con la compra y venta de personas?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La universidad colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las universidades no comerciaban esclavos."
+        },
+        {
+          "letter": "B",
+          "text": "El cabildo municipal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo administraba la ciudad, no comerciaba esclavos."
+        },
+        {
+          "letter": "C",
+          "text": "El puerto de Cartagena como centro de comercio de esclavos africanos",
+          "is_correct": true,
+          "feedback": "Correcto. Cartagena fue uno de los principales puertos de entrada de esclavizados a la América española."
+        },
+        {
+          "letter": "D",
+          "text": "La iglesia catedral",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la iglesia tenía relación con la colonia, no comerciaba directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cartagena fue el principal puerto negrero del Virreinato de la Nueva Granada. Miles de africanos esclavizados llegaban por barco y eran vendidos en el mercado de la ciudad. La mayoría eran llevados a trabajar en minas de oro en Antioquia, Chocó y el Cauca.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v7",
+      "statement": "¿Qué papel cumplía la Iglesia Católica durante la época colonial en la Nueva Granada?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Era independiente de la Corona española",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia estaba estrechamente ligada al poder colonial."
+        },
+        {
+          "letter": "B",
+          "text": "Solo se dedicaba a la construcción de edificios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tenía muchas más funciones."
+        },
+        {
+          "letter": "C",
+          "text": "Evangelizaba a los indígenas, administraba la educación, registraba nacimientos y bautizos, y tenía gran influencia política y económica",
+          "is_correct": true,
+          "feedback": "Correcto. La Iglesia era una institución clave del sistema colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Luchaba contra el poder español para liberar a los indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo algunos religiosos defensores de indígenas como Las Casas, pero la Iglesia en general apoyaba el sistema colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Iglesia Católica fue una institución fundamental en la colonia. Tenía el monopolio de la educación, poseía grandes extensiones de tierra (latifundios), controlaba el registro civil a través de bautizos y matrimonios, y cumplía la función de evangelizar a la población indígena.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v8",
+      "statement": "¿Por qué el mestizaje fue un fenómeno importante durante la colonia en Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos los grupos sociales tenían los mismos derechos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Había discriminación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la mezcla entre españoles, indígenas y africanos dio origen a nuevas identidades culturales y raciales que caracterizan a la población colombiana actual",
+          "is_correct": true,
+          "feedback": "Correcto. El mestizaje es la base de la identidad colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el mestizaje eliminó todas las diferencias sociales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias persistieron."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno español promovió activamente la mezcla racial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corona desaprobaba las uniones mixtas, pero ocurrieron de manera informal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mestizaje fue un proceso espontáneo que ocurrió a pesar de las restricciones sociales. Los mestizos se convirtieron en un grupo numeroso que hoy constituye la mayoría de la población colombiana. Este proceso también generó sincretismo cultural: mezcla de tradiciones europeas, indígenas y africanas en la música, la comida y las creencias.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v9",
+      "statement": "¿Qué relación existió entre la Ilustración europea del siglo XVIII y el descontento de los criollos en la Nueva Granada?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hubo ninguna relación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Ilustración influyó en los criollos."
+        },
+        {
+          "letter": "B",
+          "text": "Las ideas ilustradas (libertad, igualdad, soberanía popular) llegaron a la Nueva Granada y los criollos las usaron para cuestionar el poder español",
+          "is_correct": true,
+          "feedback": "Correcto. La Ilustración inspiró los movimientos de independencia."
+        },
+        {
+          "letter": "C",
+          "text": "La Ilustración hizo que los criollos quisieran más monarquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Ilustración criticaba el absolutismo."
+        },
+        {
+          "letter": "D",
+          "text": "La Ilustración prohibió la lectura en las colonias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario, promovió la difusión del conocimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Expedición Botánica, liderada por José Celestino Mutis, difundió ideas científicas ilustradas en la Nueva Granada. Además, libros prohibidos sobre la Ilustración francesa circulaban en secreto entre los criollos educados. Estas ideas sembraron la semilla del deseo de independencia.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-v10",
+      "statement": "Analiza: durante la colonia, los criollos (descendientes de españoles nacidos en América) acumularon riqueza y educación, pero no podían acceder a los altos cargos del gobierno. Los españoles peninsulares ocupaban los puestos más importantes. ¿Qué consecuencias políticas tuvo esta desigualdad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los criollos aceptaron felices esta situación porque respetaban a los peninsulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los criollos estaban inconformes."
+        },
+        {
+          "letter": "B",
+          "text": "Los criollos desarrollaron un profundo descontento que eventualmente los llevó a liderar los movimientos de independencia a principios del siglo XIX",
+          "is_correct": true,
+          "feedback": "Correcto. La exclusión política de los criollos fue una causa fundamental de la independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Los criollos emigraron todos a España para tener mejores oportunidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los criollos amaban su tierra y querían gobernarla."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo consecuencias, la colonia continuó igual por muchos siglos más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tensión creció hasta estallar en 1810."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exclusión de los criollos de los altos cargos políticos fue una de las causas más importantes de la independencia. Personajes como Antonio Nariño y Policarpa Salavarrieta pertenecían a la élite criolla y fueron líderes del movimiento independentista. Entender esta tensión ayuda a comprender las revoluciones de independencia en toda América Latina.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-6-2026-P2-historia-colonial-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v1",
+      "statement": "¿En qué fecha se recuerda el \"Grito de Independencia\" de Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 de agosto de 1819",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fecha de la Batalla de Boyacá, no el grito."
+        },
+        {
+          "letter": "B",
+          "text": "20 de julio de 1810",
+          "is_correct": true,
+          "feedback": "Correcto. Ese día se firmó el Acta de Independencia en Santafé."
+        },
+        {
+          "letter": "C",
+          "text": "12 de octubre de 1492",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la llegada de Colón a América."
+        },
+        {
+          "letter": "D",
+          "text": "6 de diciembre de 1822",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fecha posterior relacionada con la independencia del sur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El 20 de julio de 1810 ocurrió el \"Grito de Independencia\" cuando un grupo de criollos, liderados por José Acevedo y Gómez y Francisco José de Caldas, provocaron un altercado en la Plaza Mayor de Santafé que llevó a la firma del Acta de Independencia. Sin embargo, la independencia definitiva no llegó hasta 1819.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v2",
+      "statement": "¿Quién fue el \"Libertador\" de Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Francisco de Paula Santander",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santander fue un líder importante pero no es llamado el Libertador."
+        },
+        {
+          "letter": "B",
+          "text": "Simón Bolívar",
+          "is_correct": true,
+          "feedback": "Correcto. Simón Bolívar lideró las campañas militares que liberaron a Colombia y a otros países sudamericanos."
+        },
+        {
+          "letter": "C",
+          "text": "Antonio Nariño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nariño fue un precursor de la independencia, no el Libertador."
+        },
+        {
+          "letter": "D",
+          "text": "José Antonio Páez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue líder independentista venezolano, no colombiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simón Bolívar es conocido como \"El Libertador\" por su papel en la independencia de Colombia, Venezuela, Ecuador, Perú y Bolivia. La Campaña Libertadora de 1819, que cruzó los Andes por el Páramo de Pisba, es considerada una de las hazañas militares más importantes de la historia.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v3",
+      "statement": "¿Qué sucedió el 7 de agosto de 1819?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se firmó la Constitución de 1991",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fecha es muy posterior."
+        },
+        {
+          "letter": "B",
+          "text": "Murió Simón Bolívar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar murió en 1830."
+        },
+        {
+          "letter": "C",
+          "text": "La Batalla de Boyacá, que selló la independencia de la Nueva Granada",
+          "is_correct": true,
+          "feedback": "Correcto. El triunfo patriota en el Puente de Boyacá aseguró la libertad."
+        },
+        {
+          "letter": "D",
+          "text": "Llegaron los primeros españoles a Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurrió en 1499."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Batalla de Boyacá (7 de agosto de 1819) fue el enfrentamiento decisivo de la independencia. El ejército patriota, comandado por Simón Bolívar, derrotó a las fuerzas realistas españolas en el Puente de Boyacá. Esta victoria abrió el camino hacia Santafé de Bogotá, que fue tomada el 10 de agosto.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v4",
+      "statement": "¿Qué fue la \"Patria Boba\" (1810-1816)?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un periodo de gran prosperidad y unidad en la Nueva Granada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue todo lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Un periodo de conflictos internos entre los criollos independentistas, divididos entre centralistas y federalistas",
+          "is_correct": true,
+          "feedback": "Correcto. Las disputas internas debilitaron la causa independentista."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de un barco que trajo ayuda de Inglaterra",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue un barco."
+        },
+        {
+          "letter": "D",
+          "text": "Una batalla naval contra España",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un periodo histórico, no una batalla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Después del grito de 1810, los líderes criollos no lograron ponerse de acuerdo sobre cómo organizar el nuevo gobierno. Los centralistas (liderados por Antonio Nariño) querían un gobierno fuerte y centralizado, mientras que los federalistas (como Camilo Torres) querían autonomía para las provincias. Estas divisiones facilitaron la reconquista española en 1816.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v5",
+      "statement": "¿Qué fue el \"Régimen del Terror\" durante la Reconquista española (1816-1819)?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una película sobre la independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una producción cinematográfica."
+        },
+        {
+          "letter": "B",
+          "text": "Un periodo de paz entre independencia y reconquista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un periodo de extrema violencia."
+        },
+        {
+          "letter": "C",
+          "text": "La brutal represión del gobierno español contra los patriotas, ejecutando a líderes como Policarpa Salavarrieta y Francisco José de Caldas",
+          "is_correct": true,
+          "feedback": "Correcto. Los españoles castigaron severamente a quienes participaron en la independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado de paz entre España y los patriotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo tratado de paz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tras la derrota de los patriotas en 1816, el español Pablo Morillo aplicó una política de terror contra los independentistas. Muchos líderes fueron ejecutados, incluyendo a Policarpa Salavarrieta (fusilada el 14 de noviembre de 1817) y Francisco José de Caldas. Esto radicalizó a los patriotas sobrevivientes.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v6",
+      "statement": "¿Qué importancia tuvo la Campaña Libertadora de 1819 para la independencia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue una derrota patriota que retrasó la independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una victoria crucial."
+        },
+        {
+          "letter": "B",
+          "text": "Fue la estrategia militar que cruzó los Andes, liberó la Nueva Granada y culminó con la Batalla de Boyacá",
+          "is_correct": true,
+          "feedback": "Correcto. Fue la operación militar más audaz y exitosa de la independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Fue un acuerdo diplomático firmado en Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una campaña militar, no un acuerdo."
+        },
+        {
+          "letter": "D",
+          "text": "Fue la primera expedición de Cristóbal Colón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurrió más de 300 años después."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Campaña Libertadora fue una brillante estrategia militar. Bolívar cruzó los Andes helados con su ejército, tomando por sorpresa a los españoles. Derrotó a las fuerzas realistas en la Batalla del Pantano de Vargas (25 de julio) y luego en la Batalla de Boyacá (7 de agosto), liberando finalmente Santafé de Bogotá.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v7",
+      "statement": "¿Qué papel jugó Francisco de Paula Santander en la independencia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Era un general español que luchaba contra los patriotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santander era patriota."
+        },
+        {
+          "letter": "B",
+          "text": "Era un comerciante que financió a los españoles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santander fue militar y político independentista."
+        },
+        {
+          "letter": "C",
+          "text": "Fue el principal organizador del ejército patriota en los Llanos Orientales y el más cercano colaborador militar de Bolívar",
+          "is_correct": true,
+          "feedback": "Correcto. Santander es conocido como \"El Hombre de las Leyes\" y fue clave en la organización militar."
+        },
+        {
+          "letter": "D",
+          "text": "Fue el rey de España que concedió la independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. España nunca concedió voluntariamente la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Francisco de Paula Santander organizó y disciplinó el ejército patriota en los Llanos Orientales, apoyando la Campaña Libertadora de 1819. Después de la independencia, fue vicepresidente de la Gran Colombia y más tarde presidente de la Nueva Granada. Se le considera el fundador del sistema educativo colombiano.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v8",
+      "statement": "¿Qué fue la Gran Colombia (1819-1831)?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una empresa minera fundada por Simón Bolívar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue una empresa."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de la primera ciudad fundada por los españoles",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue una ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "La república unificada que incluía los actuales territorios de Colombia, Venezuela, Ecuador y Panamá",
+          "is_correct": true,
+          "feedback": "Correcto. Fue el sueño de Bolívar de una gran nación sudamericana."
+        },
+        {
+          "letter": "D",
+          "text": "Un barco mercante español",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue un barco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Gran Colombia fue creada por el Congreso de Angostura (1819) y ratificada por el Congreso de Cúcuta (1821). Bolívar soñaba con una gran república unificada, pero las diferencias regionales y políticas llevaron a su disolución en 1831, con la separación de Venezuela y Ecuador.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v9",
+      "statement": "¿Por qué la independencia de Colombia no fue aceptada inmediatamente por todos los habitantes del territorio?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos estaban contentos bajo el dominio español",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos estaban contentos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque algunos grupos (españoles peninsulares, parte del clero, esclavos que no veían mejoría) tenían intereses creados en el sistema colonial y temían los cambios",
+          "is_correct": true,
+          "feedback": "Correcto. La independencia generó conflictos internos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la independencia solo la quisieron los indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas también tenían intereses divididos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Colombia prefería ser colonia de otro país diferente a España",
+          "is_correct": false,
+          "feedback": "Incorrecto. No había tal preferencia generalizada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La independencia no fue un movimiento unánime. Los españoles peninsulares perdían sus privilegios, algunos criollos temían el caos, y los esclavos africanos a menudo no veían mejoras en su situación con la independencia. Esto generó divisiones y conflictos armados internos después de 1819.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-v10",
+      "statement": "Analiza: tras la independencia, Colombia mantuvo estructuras económicas y sociales coloniales (latifundios, desigualdad, dependencia de materias primas). ¿Qué nos dice esto sobre la independencia como proceso de transformación social?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la independencia eliminó toda desigualdad social",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad persistió."
+        },
+        {
+          "letter": "B",
+          "text": "Que la independencia fue principalmente un cambio político (de colonia a república), pero las estructuras sociales y económicas profundas cambiaron muy lentamente",
+          "is_correct": true,
+          "feedback": "Correcto. La independencia fue más política que social."
+        },
+        {
+          "letter": "C",
+          "text": "Que la independencia no significó ningún cambio en absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hubo cambios políticos importantes."
+        },
+        {
+          "letter": "D",
+          "text": "Que Colombia volvió a ser colonia inmediatamente después",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia se mantuvo independiente, aunque con desafíos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La independencia cambió la forma de gobierno (de monarquía colonial a república), pero las élites criollas reemplazaron a las españolas manteniendo muchas estructuras de poder. Las desigualdades sociales, la concentración de la tierra y la dependencia económica continuaron siendo desafíos durante todo el siglo XIX y buena parte del XX.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-6-2026-P2-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v1",
+      "statement": "¿Cuál es el mecanismo de participación ciudadana más común en Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La revocatoria del mandato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese mecanismo se usa en casos específicos, no es el más común."
+        },
+        {
+          "letter": "B",
+          "text": "El voto en elecciones populares",
+          "is_correct": true,
+          "feedback": "Correcto. El voto es el mecanismo de participación más utilizado en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "El referendo constitucional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa con menos frecuencia que las elecciones."
+        },
+        {
+          "letter": "D",
+          "text": "El cabildo abierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mecanismo local menos frecuente que el voto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El voto es la forma más básica y extendida de participación ciudadana. Cada 4 años los colombianos eligen presidente, congreso, gobernadores, alcaldes, diputados y concejales. Votar es un derecho y un deber ciudadano, consagrado en el artículo 258 de la Constitución.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes es un mecanismo de participación ciudadana en Colombia?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pago de impuestos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagar impuestos es una obligación, no un mecanismo de participación."
+        },
+        {
+          "letter": "B",
+          "text": "La declaración de renta anual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una obligación tributaria."
+        },
+        {
+          "letter": "C",
+          "text": "La revocatoria del mandato",
+          "is_correct": true,
+          "feedback": "Correcto. Permite a los ciudadanos remover a un funcionario electo antes de terminar su periodo."
+        },
+        {
+          "letter": "D",
+          "text": "El servicio militar obligatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una obligación constitucional, no un mecanismo de participación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revocatoria del mandato permite que los ciudadanos decidan si un alcalde o gobernador debe continuar en su cargo. Para que proceda, un grupo de ciudadanos debe recoger firmas de al menos el 40% de los votos válidos de la elección del funcionario.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v3",
+      "statement": "¿Cuál es la diferencia entre un referendo y un plebiscito?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son exactamente lo mismo con diferente nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay diferencias importantes."
+        },
+        {
+          "letter": "B",
+          "text": "El referendo convoca al pueblo para aprobar o rechazar un proyecto de ley o reforma constitucional; el plebiscito es para respaldar o no decisiones del presidente",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos son consultas populares pero sobre temas diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "El plebiscito lo hacen los colegios y el referendo el gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una actividad escolar."
+        },
+        {
+          "letter": "D",
+          "text": "El referendo es solo para temas locales y el plebiscito para temas nacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser nacionales o locales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución distingue estos mecanismos: el referendo (nacional o local) se usa para aprobar una ley o reforma, mientras que el plebiscito es una consulta del presidente al pueblo sobre políticas específicas. Ambos son ejemplos de democracia participativa.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v4",
+      "statement": "¿Qué es el Cabildo Abierto?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una reunión secreta de los concejales municipales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo abierto es público."
+        },
+        {
+          "letter": "B",
+          "text": "Una feria artesanal que organiza el municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una feria."
+        },
+        {
+          "letter": "C",
+          "text": "Una reunión pública del Concejo Municipal o la Asamblea Departamental donde los ciudadanos pueden participar directamente",
+          "is_correct": true,
+          "feedback": "Correcto. Permite que la comunidad exprese sus opiniones ante los concejales."
+        },
+        {
+          "letter": "D",
+          "text": "Un evento deportivo municipal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mecanismo político, no deportivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cabildo abierto es un espacio donde los ciudadanos pueden asistir a las sesiones del Concejo Municipal para expresar sus opiniones sobre temas que afectan a la comunidad. Es una herramienta de participación a nivel local que fortalece la democracia cercana a la gente.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v5",
+      "statement": "¿Qué se necesita para que una Iniciativa Legislativa Popular (proyecto de ley presentado por ciudadanos) sea considerada por el Congreso?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un congresista lo proponga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La iniciativa debe partir de los ciudadanos, no de un congresista."
+        },
+        {
+          "letter": "B",
+          "text": "Que un grupo de ciudadanos recoja las firmas de al menos el 5% del censo electoral",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución exige un número mínimo de firmas para que el Congreso tramite la iniciativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el presidente lo apruebe antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No necesita aprobación presidencial previa."
+        },
+        {
+          "letter": "D",
+          "text": "Que los medios de comunicación lo apoyen",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se requiere apoyo mediático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Iniciativa Legislativa Popular (artículo 155 de la Constitución) permite que los ciudadanos presenten proyectos de ley directamente al Congreso, sin intermediarios. Se requieren firmas del 5% del censo electoral. Es una herramienta poderosa de democracia participativa.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v6",
+      "statement": "Un grupo de ciudadanos está inconforme con la gestión del alcalde de su municipio y quiere que sea removido de su cargo antes de que termine su periodo. ¿Qué mecanismo de participación pueden usar?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El referendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo es para aprobar o rechazar leyes."
+        },
+        {
+          "letter": "B",
+          "text": "El plebiscito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plebiscito lo convoca el presidente, no los ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "La revocatoria del mandato",
+          "is_correct": true,
+          "feedback": "Correcto. Este mecanismo permite a los ciudadanos destituir a un funcionario electo antes de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "El voto en las próximas elecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a las próximas elecciones sería demasiado tarde si quieren removerlo antes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revocatoria del mandato (artículo 259 de la Constitución y Ley 134 de 1994) permite a los ciudadanos decidir si un funcionario electo (alcalde o gobernador) continúa o no en su cargo. Se requiere un número mínimo de firmas y la votación debe superar el umbral de participación.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v7",
+      "statement": "El presidente de la República quiere saber si los ciudadanos están de acuerdo con un tratado de paz que firmó. ¿Qué mecanismo debería usar?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un referendo constitucional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un tratado de paz no es una reforma constitucional."
+        },
+        {
+          "letter": "B",
+          "text": "Un plebiscito",
+          "is_correct": true,
+          "feedback": "Correcto. El plebiscito es la consulta popular que convoca el presidente para que el pueblo respalde sus decisiones sobre políticas específicas."
+        },
+        {
+          "letter": "C",
+          "text": "Un cabildo abierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo abierto es a nivel municipal, no nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Una iniciativa legislativa popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es iniciativa de los ciudadanos, no del presidente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El plebiscito (artículo 7 de la Ley 134 de 1994) es el mecanismo adecuado cuando el presidente quiere consultar al pueblo sobre una decisión importante. Los resultados del plebiscito son vinculantes si participa al menos la cuarta parte del censo electoral.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v8",
+      "statement": "¿Por qué es importante que existan varios mecanismos de participación ciudadana y no solo el voto?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el voto es complicado y los otros mecanismos son más sencillos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto es sencillo; la razón es de profundidad democrática."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la democracia participativa permite que los ciudadanos se involucren en las decisiones públicas de forma continua, no solo cada 4 años",
+          "is_correct": true,
+          "feedback": "Correcto. La participación no se limita a elegir gobernantes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los colombianos se aburren de votar siempre lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es por aburrimiento, sino por fortalecimiento democrático."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los mecanismos de participación reemplazan completamente al voto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son complementarios, no sustitutos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La democracia no se agota en las elecciones. Los mecanismos de participación permiten a los ciudadanos intervenir en decisiones importantes entre elecciones, controlar a sus gobernantes y proponer cambios. Esto hace que la democracia sea más vibrante y cercana a la gente.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v9",
+      "statement": "¿Qué requisito deben cumplir los mecanismos de participación para que sus resultados sean vinculantes (obligatorios)?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el presidente esté de acuerdo con el resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No depende de la opinión del presidente."
+        },
+        {
+          "letter": "B",
+          "text": "Que participe al menos una persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requiere un mínimo de participación."
+        },
+        {
+          "letter": "C",
+          "text": "Que particione al menos la cuarta parte (25%) del censo electoral, salvo la revocatoria que tiene sus propias reglas",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1757 de 2015 fija estos umbrales de participación."
+        },
+        {
+          "letter": "D",
+          "text": "Que los resultados se publiquen en redes sociales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar no es suficiente, el umbral es legal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que una consulta popular, referendo o plebiscito sea vinculante, debe participar al menos el 25% del censo electoral. Si no se alcanza ese umbral, el resultado no es obligatorio. Esto busca asegurar que las decisiones importantes tengan una participación mínima de la ciudadanía.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v10",
+      "statement": "Analiza: en Colombia, la participación electoral en las últimas décadas ha sido baja (alrededor del 50% del censo). Si los jóvenes de 14 a 17 años pudieran votar, algunos creen que la participación aumentaría. Otros creen que los jóvenes no tienen la madurez suficiente. ¿Qué aspectos positivos y negativos tendría bajar la edad de votación a 16 años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sería positivo porque aumenta la participación, pero negativo porque los jóvenes no deben tener opiniones políticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los jóvenes sí tienen derecho a opinar."
+        },
+        {
+          "letter": "B",
+          "text": "Positivo: más participación, formación temprana en ciudadanía, temas juveniles representados. Negativo: posible falta de madurez en decisiones complejas, riesgo de manipulación",
+          "is_correct": true,
+          "feedback": "Correcto. El debate tiene argumentos válidos en ambos sentidos."
+        },
+        {
+          "letter": "C",
+          "text": "No tendría ningún efecto porque los jóvenes no votarían",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos jóvenes participarían."
+        },
+        {
+          "letter": "D",
+          "text": "Sería completamente negativo porque los adolescentes no saben nada de política",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los jóvenes tienen opiniones e intereses legítimos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este debate muestra la importancia de la participación juvenil. Varios países como Argentina, Brasil y Austria permiten votar a los 16 años. En Colombia, el Congreso ha discutido proyectos para bajar la edad de votación. La pregunta invita a reflexionar sobre cómo fortalecer la democracia y la educación cívica.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

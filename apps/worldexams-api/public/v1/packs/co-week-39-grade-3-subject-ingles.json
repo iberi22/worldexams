@@ -1,0 +1,453 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-39-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.669Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v1",
+      "statement": "Complete the sentence: **\"I ________ a student.\"** 👦",
+      "context": "Talking about oneself.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": true,
+          "feedback": "Correct! \"I am\" is the correct conjugation."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is for he, she, it."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is for you, we, they."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect. We must conjugate the verb."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En inglés, el pronombre \"I\" (yo) siempre se acompaña de la forma \"am\" del verbo to be.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v2",
+      "statement": "Complete: **\"She ________ my sister.\"** 👧",
+      "context": "Talking about a girl.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! \"She is\" is the correct form."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para la tercera persona del singular (he, she, it), usamos la forma \"is\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v3",
+      "statement": "Complete: **\"We ________ friends.\"** 👬👭",
+      "context": "Talking about a group.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correct! \"We are\" is for plural."
+        },
+        {
+          "letter": "D",
+          "text": "is not",
+          "is_correct": false,
+          "feedback": "Incorrect grammar for we."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para los pronombres plurales (we, they) y \"you\", usamos la forma \"are\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v4",
+      "statement": "Complete: **\"The dog ________ brown.\"** 🐕",
+      "context": "Describing an animal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! The dog (it) uses \"is\"."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hablamos de un animal o un objeto en singular, usamos \"is\" (equivalente a \"it is\").\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v5",
+      "statement": "**Question:** \"Are you happy?\"\n**Answer:** \"Yes, I ________.\" 😊",
+      "context": "Describing a feeling.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": true,
+          "feedback": "Correct! \"I am\" matches the answer."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Use to be for state/feelings."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En respuestas cortas afirmativas, mantenemos la concordancia: \"I am\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v6",
+      "statement": "**\"The apples ________ red and sweet.\"** 🍎🍎",
+      "context": "Plural subjects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. There are many apples."
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correct! Plural subjects use \"are\"."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el sujeto es plural (the apples = they), debemos usar \"are\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v7",
+      "statement": "How do you say **\"Él no es un doctor\"**? 👨‍⚕️✖️",
+      "context": "Negative form.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is a doctor",
+          "is_correct": false,
+          "feedback": "Incorrect. This is affirmative."
+        },
+        {
+          "letter": "B",
+          "text": "He is not a doctor",
+          "is_correct": true,
+          "feedback": "Correct! We add \"not\" after the verb."
+        },
+        {
+          "letter": "C",
+          "text": "He no is a doctor",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "He not is doctor",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para negar con el verbo to be, simplemente añadimos la palabra \"not\" después del verbo (is not).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v8",
+      "statement": "Which sentence is **grammatically correct**?",
+      "context": "Identifying the correct pronoun/verb pair.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You is a good boy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be \"You are\"."
+        },
+        {
+          "letter": "B",
+          "text": "They am at school.",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be \"They are\"."
+        },
+        {
+          "letter": "C",
+          "text": "It is a sunny day.",
+          "is_correct": true,
+          "feedback": "Correct! \"It is\" is the right conjugation."
+        },
+        {
+          "letter": "D",
+          "text": "I are happy.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la concordancia sujeto-verbo. La única opción correcta es \"It is a sunny day\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v9",
+      "statement": "To make a **question**, we change the order.\n**Statement:** \"You are a teacher.\"\n**Question:** \"________ a teacher?\" 👩‍🏫",
+      "context": "Interrogative form logic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are you",
+          "is_correct": false,
+          "feedback": "Correct! In questions, the verb comes first."
+        },
+        {
+          "letter": "A",
+          "text": "Are you",
+          "is_correct": true,
+          "feedback": "Wait, let me check the labels."
+        },
+        {
+          "letter": "A",
+          "text": "Are you",
+          "is_correct": true,
+          "feedback": "Yes, A is correct."
+        },
+        {
+          "letter": "B",
+          "text": "You are",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the statement order."
+        },
+        {
+          "letter": "C",
+          "text": "Is you",
+          "is_correct": false,
+          "feedback": "Incorrect conjugation."
+        },
+        {
+          "letter": "D",
+          "text": "Am you",
+          "is_correct": false,
+          "feedback": "Incorrect conjugation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la estructura interrogativa. Para preguntar, invertimos el sujeto y el verbo: \"Are you...?\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v10",
+      "statement": "You are presenting your **mother and father** to your friends. What do you say?",
+      "context": "Choosing the right introduction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They is my parents.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "B",
+          "text": "They are my parents.",
+          "is_correct": true,
+          "feedback": "Correct! Using plural \"They\" with \"are\"."
+        },
+        {
+          "letter": "C",
+          "text": "He are my parents.",
+          "is_correct": false,
+          "feedback": "Incorrect pronoun."
+        },
+        {
+          "letter": "D",
+          "text": "She am my parents.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el uso correcto de pronombres plurales. Al referirse a ambos padres, el pronombre es \"They\" y el verbo es \"are\".",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

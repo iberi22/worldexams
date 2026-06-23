@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.974Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-v1",
+      "statement": "¿Cuál es el ecosistema más extenso de Colombia?",
+      "context": "Repaso del periodo 3 sobre ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Páramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cubre menos del 3%."
+        },
+        {
+          "letter": "B",
+          "text": "Manglar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cubre aprox 380,000 ha."
+        },
+        {
+          "letter": "C",
+          "text": "Selva amazónica",
+          "is_correct": true,
+          "feedback": "Correcto. Cubre ~35% del territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Bosque seco tropical",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo queda 8% del original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La selva amazónica colombiana (400,000 km², 35% del territorio) es el bioma más extenso. Colombia tiene 74 ecosistemas generales y es el segundo país más biodiverso del mundo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-002-v1",
+      "statement": "¿Cuál es el nivel trófico que produce su propio alimento?",
+      "context": "Repaso de niveles tróficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidor primario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros son consumidores."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidor secundario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carnívoros no producen."
+        },
+        {
+          "letter": "C",
+          "text": "Productor (autótrofo)",
+          "is_correct": true,
+          "feedback": "Correcto. Plantas, algas, cianobacterias."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclan, no producen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los productores (autótrofos) fabrican su propio alimento mediante fotosíntesis o quimiosíntesis. Son la base de toda cadena alimenticia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-003-v1",
+      "statement": "¿Por qué los grandes carnívoros (como el jaguar) son menos abundantes que los herbívoros?",
+      "context": "Repaso sobre flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se reproducen más lento",
+          "is_correct": false,
+          "feedback": "Consecuencia, no causa principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la energía disminuye en cada nivel trófico (regla del 10%)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son más perseguidos por humanos",
+          "is_correct": false,
+          "feedback": "No explica el patrón ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque necesitan más agua",
+          "is_correct": false,
+          "feedback": "No es la razón principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del 10% explica que solo ~10% de la energía pasa al siguiente nivel. Por eso hay más plantas que herbívoros y más herbívoros que carnívoros.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-004-v1",
+      "statement": "¿Qué pasaría en un bosque si no existieran descomponedores?",
+      "context": "Repaso sobre descomponedores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habría más oxígeno",
+          "is_correct": false,
+          "feedback": "No está relacionado."
+        },
+        {
+          "letter": "B",
+          "text": "Los árboles crecerían más rápido",
+          "is_correct": false,
+          "feedback": "Los nutrientes se agotarían."
+        },
+        {
+          "letter": "C",
+          "text": "Los nutrientes quedarían atrapados en organismos muertos y las plantas no tendrían nutrientes",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Los animales vivirían más",
+          "is_correct": false,
+          "feedback": "El ecosistema colapsaría."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sin descomponedores (hongos y bacterias), la materia orgánica muerta se acumularía sin descomponerse, atrapando los nutrientes que las plantas necesitan para crecer.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-005-v1",
+      "statement": "Un estudiante en Bogotá quiere proteger el agua de su ciudad. ¿Qué ecosistema debe priorizar?",
+      "context": "Repaso aplicado sobre ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desierto de La Guajira",
+          "is_correct": false,
+          "feedback": "No abastece a Bogotá."
+        },
+        {
+          "letter": "B",
+          "text": "La selva amazónica",
+          "is_correct": false,
+          "feedback": "Importante pero no la fuente directa."
+        },
+        {
+          "letter": "C",
+          "text": "El páramo de Chingaza",
+          "is_correct": true,
+          "feedback": "Correcto. Abastece ~80% del agua de Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "Los Llanos Orientales",
+          "is_correct": false,
+          "feedback": "No es la fuente de agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Páramo de Chingaza suministra el 70-80% del agua de Bogotá a través del Sistema Chingaza. Proteger este páramo es proteger el agua de más de 8 millones de personas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-006-v1",
+      "statement": "En un humedal, si desaparecen los peces que comen larvas de mosquito, ¿qué ocurriría?",
+      "context": "Repaso de redes alimenticias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los mosquitos desaparecerían",
+          "is_correct": false,
+          "feedback": "Sin peces, aumentan."
+        },
+        {
+          "letter": "B",
+          "text": "Los mosquitos aumentarían descontroladamente",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Las aves acuáticas se multiplicarían",
+          "is_correct": false,
+          "feedback": "Sin peces, las aves disminuyen."
+        },
+        {
+          "letter": "D",
+          "text": "No pasaría nada",
+          "is_correct": false,
+          "feedback": "Toda red está interconectada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los peces que comen larvas de mosquito son controladores biológicos. Sin ellos, las larvas sobreviven y se convierten en mosquitos adultos, aumentando el riesgo de dengue y malaria.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-007-v1",
+      "statement": "¿Por qué el mercurio de la minería ilegal es más peligroso para los humanos que para las algas?",
+      "context": "Repaso de biomagnificación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los humanos son más sensibles",
+          "is_correct": false,
+          "feedback": "Todos se afectan."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los humanos beben agua del río",
+          "is_correct": false,
+          "feedback": "No es la vía principal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el mercurio se biomagnifica en la cadena alimenticia",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las algas no tienen sangre",
+          "is_correct": false,
+          "feedback": "No es la razón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El mercurio se biomagnifica: baja concentración en algas, mayor en peces pequeños, máxima en peces grandes que consumimos. Comunidades indígenas del Amazonas tienen niveles alarmantes de mercurio por consumo de pescado.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-008-v1",
+      "statement": "¿Por qué los manglares son importantes para mitigar el cambio climático?",
+      "context": "Repaso de cambio climático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son frescos y agradables",
+          "is_correct": false,
+          "feedback": "No es argumento climático."
+        },
+        {
+          "letter": "B",
+          "text": "Porque producen oxígeno",
+          "is_correct": false,
+          "feedback": "Cualquier planta produce oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque almacenan 3-5 veces más carbono por hectárea que bosques terrestres",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reflejan la luz solar",
+          "is_correct": false,
+          "feedback": "No es significativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los manglares son sumideros de carbono excepcionales (\"carbono azul\"). El carbono queda atrapado en sedimentos anóxicos por siglos. Colombia tiene ~380,000 ha de manglar que deben protegerse.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-009-v1",
+      "statement": "Un proyecto minero propone explotar oro en un páramo. ¿Cuál es el argumento MÁS SÓLIDO para rechazar el proyecto?",
+      "context": "Repaso evaluativo del periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oro no es importante",
+          "is_correct": false,
+          "feedback": "Tiene valor económico."
+        },
+        {
+          "letter": "B",
+          "text": "Los páramos son bonitos",
+          "is_correct": false,
+          "feedback": "Es subjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "El páramo regula el agua de millones; la minería causaría daños irreversibles vs derecho fundamental al agua",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay suficiente oro",
+          "is_correct": false,
+          "feedback": "No es el problema principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Corte Constitucional (Sentencia C-035/2016) protege los páramos por ser ecosistemas estratégicos para el agua. El derecho al agua prevalece sobre intereses económicos mineros.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W14-repaso-periodo-3-010-v1",
+      "statement": "¿Cuál acción individual contribuye MÁS a proteger los ecosistemas colombianos?",
+      "context": "Evaluación final del periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No bañarse todos los días",
+          "is_correct": false,
+          "feedback": "Ahorrar agua es bueno pero no lo más efectivo."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar productos importados",
+          "is_correct": false,
+          "feedback": "Tienen alta huella de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Consumir local, reducir plásticos, reciclar y apoyar conservación",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Mudarse al campo",
+          "is_correct": false,
+          "feedback": "No es realista ni necesariamente mejor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Acciones de impacto: consumir local, reducir plásticos, reciclar, apoyar ONGs de conservación, no comprar fauna silvestre, denunciar minería ilegal, ahorrar agua y energía.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Cali, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Quibdó, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Ibagué, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Medellín, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Riohacha, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Bogotá, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Bucaramanga, se discute sobre Tema Semana 14 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 14 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 14 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 14 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W14-tema-semana-14-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

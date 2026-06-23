@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At I.E. María Inmaculada de Pereira, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-001-v1",
+      "statement": "This is a review question about parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "First conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "Option D",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "past perfect + would have",
-          "is_correct": false,
-          "feedback": "Third conditional."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Colegio Tolimense de Pasto, first conditional structure.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If + present simple, present simple",
-          "is_correct": false,
-          "feedback": "Zero."
-        },
-        {
-          "letter": "B",
-          "text": "If + present simple, will + base verb",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If + will + verb, present simple",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio INEM de San Andrés, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
-        },
-        {
-          "letter": "D",
-          "text": "are heating / is boiling",
-          "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Cambridge de Medellín, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W17-parts-of-house-002-v1",
+      "statement": "Select the correct A2 level use for parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Structure 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Structure 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Structure 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Catedral de Sal:",
-      "context": "Students at I.E. La Salle de Santa Marta write conditionals.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-003-v1",
+      "statement": "Identify the appropriate vocabulary for parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
+          "text": "Word 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Past simple al final."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Colegio San José de Bogotá, unless practice.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-004-v1",
+      "statement": "Complete the sentence about parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If not",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W17-parts-of-house-005-v1",
+      "statement": "What is the best way to express parts-of-house?",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In I.E. María Inmaculada de Cartagena, compare conditionals.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-006-v1",
+      "statement": "Find the error in this parts-of-house sentence.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Colegio Tolimense de Pasto, find error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W17-parts-of-house-007-v1",
+      "statement": "Match the term with the definition of parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Non-matching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W17-parts-of-house-008-v1",
+      "statement": "Choose the synonym for a word related to parts-of-house.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Colegio Champagnat de Tunja, identify type.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-009-v1",
+      "statement": "Which of these belongs to parts-of-house?",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Castillo de San Felipe tomorrow:",
-      "context": "At Colegio INEM de Santa Marta, create sentence.",
+      "id": "CO-ING-6-2026-W17-parts-of-house-010-v1",
+      "statement": "Predict the next word in the parts-of-house context.",
+      "context": "Scenario about parts-of-house in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you visit, you see the views.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Zero, not first."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
-          "is_correct": false,
-          "feedback": "Second cond."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W17-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W17-parts-of-house-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v1",
-      "statement": "\"Apple\" in Spanish is ___.",
-      "context": "In Bogotá, students learn food words.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Manzana",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Banano",
-          "is_correct": false,
-          "feedback": "Incorrecto. Banana = banano."
-        },
-        {
-          "letter": "C",
-          "text": "Naranja",
-          "is_correct": false,
-          "feedback": "Incorrecto. Orange = naranja."
-        },
-        {
-          "letter": "D",
-          "text": "Uva",
-          "is_correct": false,
-          "feedback": "Incorrecto. Grape = uva."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Fruits: apple (manzana), banana (banano), orange (naranja), grape (uva).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v2",
-      "statement": "The first meal of the day is ___.",
-      "context": "In Medellín, learn meal names.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "breakfast",
-          "is_correct": true,
-          "feedback": "Correcto. Breakfast = desayuno."
-        },
-        {
-          "letter": "B",
-          "text": "lunch",
-          "is_correct": false,
-          "feedback": "Incorrecto. Lunch = almuerzo."
-        },
-        {
-          "letter": "C",
-          "text": "dinner",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dinner = cena."
-        },
-        {
-          "letter": "D",
-          "text": "snack",
-          "is_correct": false,
-          "feedback": "Incorrecto. Snack = merienda."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Meals: breakfast (desayuno), lunch (almuerzo), dinner (cena), snack (merienda).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v3",
-      "statement": "\"Arepa\" in English is also ___.",
-      "context": "In Cali, learn Colombian foods in English.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "arepa",
-          "is_correct": true,
-          "feedback": "Correcto. Arepa se dice arepa en inglés también."
-        },
-        {
-          "letter": "B",
-          "text": "corn cake",
-          "is_correct": false,
-          "feedback": "Posible pero no estándar."
-        },
-        {
-          "letter": "C",
-          "text": "bread",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bread = pan."
-        },
-        {
-          "letter": "D",
-          "text": "tortilla",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tortilla es mexicano."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Many Colombian foods keep their Spanish name in English: arepa, empanada, bandeja paisa, sancocho.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v4",
-      "statement": "\"Agua\" in English is ___.",
-      "context": "In Barranquilla, drink vocabulary.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "water",
-          "is_correct": true,
-          "feedback": "Correcto. Water = agua."
-        },
-        {
-          "letter": "B",
-          "text": "juice",
-          "is_correct": false,
-          "feedback": "Incorrecto. Juice = jugo."
-        },
-        {
-          "letter": "C",
-          "text": "soda",
-          "is_correct": false,
-          "feedback": "Incorrecto. Soda = gaseosa."
-        },
-        {
-          "letter": "D",
-          "text": "milk",
-          "is_correct": false,
-          "feedback": "Incorrecto. Milk = leche."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Drinks: water (agua), juice (jugo), milk (leche), soda/gaseosa (soda/pop).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v5",
-      "statement": "Rice, bread and pasta are ___.",
-      "context": "In Bucaramanga, food groups.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "grains / carbohydrates",
-          "is_correct": true,
-          "feedback": "Correcto. Son granos/carbohidratos."
-        },
-        {
-          "letter": "B",
-          "text": "fruits",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fruits = frutas."
-        },
-        {
-          "letter": "C",
-          "text": "vegetables",
-          "is_correct": false,
-          "feedback": "Incorrecto. Vegetables = verduras."
-        },
-        {
-          "letter": "D",
-          "text": "dairy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dairy = lácteos."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Food groups: grains (cereales), fruits (frutas), vegetables (verduras), dairy (lácteos), protein (proteína).\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v6",
-      "statement": "\"I would like a ___ of water, please.\"",
-      "context": "In Cartagena, ordering food.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "glass",
-          "is_correct": true,
-          "feedback": "Correcto. A glass of water = un vaso de agua."
-        },
-        {
-          "letter": "B",
-          "text": "cup",
-          "is_correct": false,
-          "feedback": "Posible pero cup es taza."
-        },
-        {
-          "letter": "C",
-          "text": "plate",
-          "is_correct": false,
-          "feedback": "Incorrecto. Plate = plato."
-        },
-        {
-          "letter": "D",
-          "text": "bottle",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bottle = botella."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Containers: a glass of water, a cup of coffee, a plate of rice, a bottle of soda.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v7",
-      "statement": "\"For breakfast I ___ eggs and bread.\"",
-      "context": "In Pereira, breakfast.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have",
-          "is_correct": true,
-          "feedback": "Correcto. Have breakfast = desayunar."
-        },
-        {
-          "letter": "B",
-          "text": "take",
-          "is_correct": false,
-          "feedback": "Incorrecto. Take no va con comidas."
-        },
-        {
-          "letter": "C",
-          "text": "make",
-          "is_correct": false,
-          "feedback": "Incorrecto. Make = preparar."
-        },
-        {
-          "letter": "D",
-          "text": "eat",
-          "is_correct": false,
-          "feedback": "Posible pero \"have\" es más común para comidas."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Have + meal: have breakfast, have lunch, have dinner. \"I have eggs for breakfast.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v8",
-      "statement": "\"Sugar is ___.\"",
-      "context": "In Manizales, describing flavor.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sweet",
-          "is_correct": true,
-          "feedback": "Correcto. Sweet = dulce."
-        },
-        {
-          "letter": "B",
-          "text": "salty",
-          "is_correct": false,
-          "feedback": "Incorrecto. Salty = salado."
-        },
-        {
-          "letter": "C",
-          "text": "sour",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sour = ácido."
-        },
-        {
-          "letter": "D",
-          "text": "bitter",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bitter = amargo."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Flavors: sweet (dulce), salty (salado), sour (ácido), bitter (amargo), spicy (picante).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v9",
-      "statement": "\"Menu: Rice with chicken, salad, juice\" - What protein does it have?",
-      "context": "In Cúcuta, read a menu.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Chicken",
-          "is_correct": true,
-          "feedback": "Correcto. Chicken = pollo."
-        },
-        {
-          "letter": "B",
-          "text": "Rice",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rice es carbohidrato."
-        },
-        {
-          "letter": "C",
-          "text": "Salad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Salad = verdura."
-        },
-        {
-          "letter": "D",
-          "text": "Juice",
-          "is_correct": false,
-          "feedback": "Incorrecto. Juice = bebida."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading a menu: identify the protein (chicken), carbohydrate (rice), vegetable (salad), drink (juice).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-v10",
-      "statement": "Which food is HEALTHY?",
-      "context": "In Ibagué, healthy eating.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fruit salad",
-          "is_correct": true,
-          "feedback": "Correcto. Fruit salad = ensalada de frutas."
-        },
-        {
-          "letter": "B",
-          "text": "Candy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Candy = dulces."
-        },
-        {
-          "letter": "C",
-          "text": "French fries",
-          "is_correct": false,
-          "feedback": "Incorrecto. French fries = papas fritas."
-        },
-        {
-          "letter": "D",
-          "text": "Soda",
-          "is_correct": false,
-          "feedback": "Incorrecto. Soda = gaseosa."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Healthy food: fruits, vegetables, lean proteins. Unhealthy: fried food, candy, soda.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W17-food-vocabulary-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

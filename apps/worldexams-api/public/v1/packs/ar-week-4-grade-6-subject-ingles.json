@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "ar",
+    "pack_id": "ar-week-4-grade-6-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.785Z"
+  },
+  "questions": [
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-001",
+      "statement": "What time is it if the clock says 07:30?",
+      "context": "Telling the time on a digital clock.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is seven o'clock.",
+          "is_correct": false,
+          "feedback": "Incorrect. That would be 07:00."
+        },
+        {
+          "letter": "B",
+          "text": "It is half past seven.",
+          "is_correct": true,
+          "feedback": "Correct. \"Half past\" indicates 30 minutes after the hour."
+        },
+        {
+          "letter": "C",
+          "text": "It is quarter past seven.",
+          "is_correct": false,
+          "feedback": "Incorrect. That would be 07:15."
+        },
+        {
+          "letter": "D",
+          "text": "It is seven forty.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, para indicar las \"y media\", se utiliza la expresión \"half past\" seguida de la hora.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-002",
+      "statement": "Choose the correct verb: \"I ___ my teeth after breakfast.\"",
+      "context": "Personal hygiene habits in the morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wash",
+          "is_correct": false,
+          "feedback": "Incorrect. We wash our hands or face."
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correct. \"Brush your teeth\" is the correct expression."
+        },
+        {
+          "letter": "C",
+          "text": "clean",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Brush\" is the specific verb for teeth."
+        },
+        {
+          "letter": "D",
+          "text": "comb",
+          "is_correct": false,
+          "feedback": "Incorrect. We comb our hair."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vocabulario de rutina diaria requiere conocer las combinaciones de verbos y sustantivos adecuadas, como \"brush teeth\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-003",
+      "statement": "At many schools in Argentina, the shift starts at 08:00 AM. How do you say \"08:00\" in English?",
+      "context": "The start of the morning shift at school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eight o'clock",
+          "is_correct": true,
+          "feedback": "Correct. \"O'clock\" is used for exact hours."
+        },
+        {
+          "letter": "B",
+          "text": "Eight zero zero",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the standard way to tell time."
+        },
+        {
+          "letter": "C",
+          "text": "Eight hour",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "At eight",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para las horas en punto, se utiliza la expresión \"o'clock\" después del número de la hora.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-004",
+      "statement": "Which of these activities usually happens in the evening (night)?",
+      "context": "Categorizing activities by time of day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I go to school.",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually happens in the morning or afternoon."
+        },
+        {
+          "letter": "B",
+          "text": "I have lunch.",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually happens at noon."
+        },
+        {
+          "letter": "C",
+          "text": "I go to bed.",
+          "is_correct": true,
+          "feedback": "Correct. Going to bed is a nighttime activity."
+        },
+        {
+          "letter": "D",
+          "text": "I wake up.",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually happens in the morning."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relacionar las actividades de la rutina diaria con los momentos del día es una habilidad de organización temporal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-005",
+      "statement": "Where does an adverb of frequency (like \"always\") go with the verb \"to be\"?",
+      "context": "Grammar rule for adverbs with the verb \"to be\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Before the verb \"to be\".",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "After the verb \"to be\".",
+          "is_correct": true,
+          "feedback": "Correct. Example: \"I am always happy.\""
+        },
+        {
+          "letter": "C",
+          "text": "At the end of the sentence.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "At the beginning.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con el verbo \"to be\", los adverbios de frecuencia se colocan después del verbo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-006",
+      "statement": "In Argentina, children often have a snack called 'merienda'. They ___ milk and eat cookies.",
+      "context": "Having \"merienda\" in Argentina at 5:00 PM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "drink",
+          "is_correct": true,
+          "feedback": "Correct. We drink liquids like milk."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre acciones de comer y beber según el complemento (leche) es parte del vocabulario básico de rutina.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-007",
+      "statement": "What is the correct way to say 09:15?",
+      "context": "Telling the time (09:15).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quarter past nine",
+          "is_correct": true,
+          "feedback": "Correct. \"Quarter past\" indicates 15 minutes after the hour."
+        },
+        {
+          "letter": "B",
+          "text": "Quarter to nine",
+          "is_correct": false,
+          "feedback": "Incorrect. That would be 08:45."
+        },
+        {
+          "letter": "C",
+          "text": "Fifteen nine",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Nine and fifteen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se utiliza \"quarter past\" para indicar que han pasado 15 minutos (un cuarto de hora) de la hora señalada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-008",
+      "statement": "Read and choose: \"I ___ on Saturdays, but I ___ to the club.\"",
+      "context": "Weekend routines and frequency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "study never / go usually",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        },
+        {
+          "letter": "B",
+          "text": "never study / usually go",
+          "is_correct": true,
+          "feedback": "Correct. Adverbs go before the main verb."
+        },
+        {
+          "letter": "C",
+          "text": "never studies / usually goes",
+          "is_correct": false,
+          "feedback": "Incorrect for subject \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "am never study / am usually go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con verbos de acción (que no son \"to be\"), los adverbios de frecuencia se colocan antes del verbo principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-009",
+      "statement": "What does \"seldom\" or \"rarely\" mean in a routine?",
+      "context": "Understanding different levels of frequency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every day.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Not very often.",
+          "is_correct": true,
+          "feedback": "Correct. These adverbs indicate low frequency."
+        },
+        {
+          "letter": "C",
+          "text": "Sometimes.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Never.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la escala de frecuencia (Always -> Usually -> Often -> Sometimes -> Rarely -> Never) es fundamental para describir hábitos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W04-daily-routines-010",
+      "statement": "Choose the correct preposition: \"I do my homework ___ the afternoon.\"",
+      "context": "Using prepositions for times of day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. \"At\" is used for specific times."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct. \"In the morning / afternoon / evening\"."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preposiciones de tiempo son específicas para cada momento del día. Se utiliza \"in\" con morning, afternoon y evening.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

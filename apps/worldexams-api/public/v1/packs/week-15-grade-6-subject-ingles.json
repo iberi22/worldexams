@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Gimnasio Los Pinares de Neiva, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-001-v1",
+      "statement": "The cat is ________ the table.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
-          "is_correct": false,
-          "feedback": "First conditional."
+          "text": "under",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "to",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Gimnasio Los Pinares de Pasto, first conditional structure.",
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-002-v1",
+      "statement": "The book is ________ my backpack.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "from",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio Fontán de Cartagena, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
+          "text": "in",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Tolimense de Ibagué, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Isla Gorgona:",
-      "context": "Students at Colegio Simón Bolívar de Neiva write conditionals.",
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-003-v1",
+      "statement": "Bogota is ________ Colombia.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "by",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
-          "is_correct": false,
-          "feedback": "Past simple al final."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At I.E. La Salle de Bogotá, unless practice.",
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-004-v1",
+      "statement": "The pen is ________ the book and the eraser.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "between",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "in front of",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "behind",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "next to",
           "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio Simón Bolívar de Barranquilla, compare conditionals.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Zero uses will.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Same thing.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At I.E. La Salle de Pereira, find error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If she will come, she will visit.",
-          "is_correct": true,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "D",
-          "text": "If you don't eat, you get hungry.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Colegio INEM de Pasto, identify type.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
-        },
-        {
-          "letter": "B",
-          "text": "First conditional",
-          "is_correct": false,
-          "feedback": "No will."
-        },
-        {
-          "letter": "C",
-          "text": "Second conditional",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Third conditional",
-          "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Parque Tayrona tomorrow:",
-      "context": "At Colegio Champagnat de Villavicencio, create sentence.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If you visit, you see the views.",
-          "is_correct": false,
-          "feedback": "Zero, not first."
-        },
-        {
-          "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If you visited, you would enjoy it.",
-          "is_correct": false,
-          "feedback": "Second cond."
-        },
-        {
-          "letter": "D",
-          "text": "If you will visit, you will enjoy.",
-          "is_correct": false,
-          "feedback": "Will en if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W15-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v1",
-      "statement": "\"50 + 30 = ___\"",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "eighty",
-          "is_correct": true,
-          "feedback": "Correcto. 80 = eighty."
-        },
-        {
-          "letter": "B",
-          "text": "seventy",
-          "is_correct": false,
-          "feedback": "Incorrecto. 70."
-        },
-        {
-          "letter": "C",
-          "text": "ninety",
-          "is_correct": false,
-          "feedback": "Incorrecto. 90."
-        },
-        {
-          "letter": "D",
-          "text": "sixty",
-          "is_correct": false,
-          "feedback": "Incorrecto. 60."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Decenas: twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v2",
-      "statement": "\"Half past seven\" = ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "7:15",
-          "is_correct": false,
-          "feedback": "Incorrecto. 7:15 = quarter past seven."
-        },
-        {
-          "letter": "B",
-          "text": "7:30",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "7:45",
-          "is_correct": false,
-          "feedback": "Incorrecto. 7:45 = quarter to eight."
-        },
-        {
-          "letter": "D",
-          "text": "8:00",
-          "is_correct": false,
-          "feedback": "Incorrecto. 8:00 = eight o'clock."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Half = media hora. \"Half past seven\" = 7:30.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v3",
-      "statement": "\"I ___ my face every morning.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "wash",
-          "is_correct": true,
-          "feedback": "Correcto. Wash my face = lavarme la cara."
-        },
-        {
-          "letter": "B",
-          "text": "brush",
-          "is_correct": false,
-          "feedback": "Incorrecto. Brush para teeth/hair."
-        },
-        {
-          "letter": "C",
-          "text": "clean",
-          "is_correct": false,
-          "feedback": "Incorrecto. Clean = limpiar."
-        },
-        {
-          "letter": "D",
-          "text": "comb",
-          "is_correct": false,
-          "feedback": "Incorrecto. Comb para hair."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Verb collocations: wash my face, brush my teeth, comb my hair, take a shower.\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "This question evaluates the student's ability to understand the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v4",
-      "statement": "\"8:00 PM is ___.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "in the morning",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "in the afternoon",
-          "is_correct": false,
-          "feedback": "Incorrecto. Afternoon = 12-6 PM."
-        },
-        {
-          "letter": "C",
-          "text": "in the evening",
-          "is_correct": true,
-          "feedback": "Correcto. Evening = 6-12 PM."
-        },
-        {
-          "letter": "D",
-          "text": "at noon",
-          "is_correct": false,
-          "feedback": "Incorrecto. Noon = 12 PM."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "AM = morning. PM = afternoon (12-6) / evening (6-12).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v5",
-      "statement": "\"I ___ eat vegetables.\" (0%)",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "never",
-          "is_correct": true,
-          "feedback": "Correcto. Never = nunca."
-        },
-        {
-          "letter": "B",
-          "text": "always",
-          "is_correct": false,
-          "feedback": "Incorrecto. Always = 100%."
-        },
-        {
-          "letter": "C",
-          "text": "sometimes",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sometimes = 50%."
-        },
-        {
-          "letter": "D",
-          "text": "usually",
-          "is_correct": false,
-          "feedback": "Incorrecto. Usually = 90%."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Frequency adverbs: always, usually, sometimes, rarely, never.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v6",
-      "statement": "\"I wake up ___ 6 AM.\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-005-v1",
+      "statement": "There is a picture ________ the wall.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
           "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "near",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correcto. At + hora."
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-006-v1",
+      "statement": "The students are ________ the classroom.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrecto. On + día."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "in",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Incorrecto. In + month/year."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "by",
+          "text": "above",
           "is_correct": false,
-          "feedback": "Incorrecto. By = antes de."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Time prepositions: at (hour), on (day), in (month/year/part of day).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v7",
-      "statement": "\"What time ___ you go to school?\"",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "do",
-          "is_correct": true,
-          "feedback": "Correcto. Do you go."
-        },
-        {
-          "letter": "B",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto. Does para he/she/it."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Question: (Wh) + do/does + subject + verb? \"What time do you go to school?\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v8",
-      "statement": "\"My brother ___ video games after school.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "plays",
-          "is_correct": true,
-          "feedback": "Correcto. Brother = he → plays."
-        },
-        {
-          "letter": "B",
-          "text": "play",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tercera persona → -s."
-        },
-        {
-          "letter": "C",
-          "text": "playes",
-          "is_correct": false,
-          "feedback": "Incorrecto. Play → plays (vocal+y)."
-        },
-        {
-          "letter": "D",
-          "text": "played",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Verb + s rules: play → plays (vocal+y), study → studies (consonante+y), watch → watches (ch).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v9",
-      "statement": "\"School: 7 AM - 2 PM.\" How many hours?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "5 hours",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "7 hours",
-          "is_correct": true,
-          "feedback": "Correcto. 7 AM to 2 PM = 7 horas."
-        },
-        {
-          "letter": "C",
-          "text": "6 hours",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "8 hours",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "7 AM → 2 PM = 7 hours. Count: 7-8(1), 8-9(2), 9-10(3), 10-11(4), 11-12(5), 12-1(6), 1-2(7).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-v10",
-      "statement": "Which is a DAILY routine?",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Brushing your teeth",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Going on vacation",
-          "is_correct": false,
-          "feedback": "Incorrecto. No diario."
-        },
-        {
-          "letter": "C",
-          "text": "Having a birthday",
-          "is_correct": false,
-          "feedback": "Incorrecto. Una vez al año."
-        },
-        {
-          "letter": "D",
-          "text": "Going to the doctor",
-          "is_correct": false,
-          "feedback": "Incorrecto. No diario."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Daily routines = what you do every day: eat, sleep, brush teeth, go to school.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "explanation": "This question evaluates the student's ability to apply the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W15-review-unit3-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-007-v1",
+      "statement": "My house is ________ the park.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "near",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-008-v1",
+      "statement": "The lamp is ________ the table.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-009-v1",
+      "statement": "Stand ________ the chair.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "behind",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "on top",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W15-prepositions-place-basic-010-v1",
+      "statement": "We live ________ Bogota.",
+      "context": "Scenario about prepositions-place-basic in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Prepositions of Place: Basic at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

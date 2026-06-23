@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v1",
+      "statement": "Un grupo de estudiantes de la I.E. Santander quiere pedir que arreglen el parque del barrio. Para esto, deben escribir una carta. ¿Cuál es el tipo de carta más adecuado para dirigirse a un alcalde?",
+      "context": "Una solicitud a la Alcaldía de Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carta de amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito es institucional, no sentimental."
+        },
+        {
+          "letter": "B",
+          "text": "Una carta formal.",
+          "is_correct": true,
+          "feedback": "Correcto. Las cartas formales se usan para trámites, peticiones o comunicaciones con autoridades."
+        },
+        {
+          "letter": "C",
+          "text": "Una carta de cumpleaños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una comunicación personal e informal."
+        },
+        {
+          "letter": "D",
+          "text": "Una carta para un amigo de otro colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una carta informal o familiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudiante debe distinguir entre contextos comunicativos formales e informales. La carta formal requiere un lenguaje respetuoso y una estructura específica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v2",
+      "statement": "Toda carta formal debe empezar con el lugar y la fecha. ¿Cuál de estas opciones está escrita correctamente para iniciar una carta en la capital del Amazonas?",
+      "context": "El encabezado de una carta escrita en Leticia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Hola alcalde!, hoy es lunes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un saludo informal, no el encabezado de lugar y fecha."
+        },
+        {
+          "letter": "B",
+          "text": "Leticia, 15 de marzo de 2026.",
+          "is_correct": true,
+          "feedback": "Correcto. Indica claramente la ciudad (Lugar) y el momento (Fecha)."
+        },
+        {
+          "letter": "C",
+          "text": "Por allá lejos, hace poco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es preciso ni sigue el formato formal."
+        },
+        {
+          "letter": "D",
+          "text": "Amazonas, Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le falta la fecha, que es un elemento esencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El encabezado es la primera parte de la estructura de la carta. El estudiante debe reconocer la importancia de situar la comunicación en el tiempo y el espacio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v3",
+      "statement": "Vas a escribirle a la rectora de tu colegio para pedir permiso para un evento. ¿Cuál es el saludo más apropiado para una carta formal?",
+      "context": "El saludo a la rectora de un colegio en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Qué hubo, doña Rectora!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un saludo demasiado coloquial e irrespetuoso para una carta formal."
+        },
+        {
+          "letter": "B",
+          "text": "Hola, ¿cómo estás?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un saludo informal para amigos o familiares."
+        },
+        {
+          "letter": "C",
+          "text": "Respetada Rectora:",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de \"Respetada\" o \"Estimada\" seguido del cargo es la forma correcta y cortés."
+        },
+        {
+          "letter": "D",
+          "text": "Oiga, necesito un favor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un saludo, es una petición directa y descortés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El saludo formal marca el tono de la comunicación. El uso de adjetivos como \"Respetado/a\" es una convención social y lingüística en Colombia para estos documentos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v4",
+      "statement": "En una carta formal, la parte donde explicamos el motivo de nuestro escrito se llama **cuerpo**. ¿Qué información no debería faltar en el cuerpo de una carta pidiendo permiso para una excursión?",
+      "context": "El cuerpo de una carta sobre una excursión a la Catedral de Sal de Zipaquirá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qué color de zapatos vamos a llevar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es información irrelevante para el permiso."
+        },
+        {
+          "letter": "B",
+          "text": "El objetivo de la visita, la fecha y el lugar donde iremos.",
+          "is_correct": true,
+          "feedback": "Correcto. Son los datos esenciales para que la autoridad pueda tomar una decisión."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de nuestros chistes favoritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con el propósito de la carta."
+        },
+        {
+          "letter": "D",
+          "text": "Un dibujo de la Catedral de Sal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede ser un anexo, lo esencial es la información textual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La claridad y la relevancia de la información son críticas en la escritura formal. El estudiante debe seleccionar los datos necesarios para cumplir el objetivo comunicativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v5",
+      "statement": "Para terminar una carta formal, usamos una **despedida de cortesía**. ¿Cuál de estas opciones es la más adecuada?",
+      "context": "La despedida de una carta al gerente de una empresa de servicios en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chao, nos vemos luego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una despedida informal."
+        },
+        {
+          "letter": "B",
+          "text": "Atentamente,",
+          "is_correct": true,
+          "feedback": "Correcto. Es la fórmula de despedida estándar y más respetuosa en el ámbito formal."
+        },
+        {
+          "letter": "C",
+          "text": "Besos y abrazos para todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se usa con personas muy cercanas."
+        },
+        {
+          "letter": "D",
+          "text": "Ya no escribo más, adiós.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una forma brusca y poco profesional de terminar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fórmulas de cortesía son parte de la etiqueta del lenguaje escrito. El estudiante debe memorizar y aplicar términos como \"Atentamente\" o \"Cordialmente\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v6",
+      "statement": "En una carta, aparecen los nombres de Pedro y María. Pedro es quien escribe la carta y María es quien la recibe. ¿Cómo se llaman estos roles en el lenguaje de la comunicación?",
+      "context": "Diferencia entre destinatario y remitente en una oficina de envíos en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro es el cartero y María la vecina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son roles sociales, no elementos de la carta."
+        },
+        {
+          "letter": "B",
+          "text": "Pedro es el lector y María la escritora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés en este caso."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro es el remitente y María es la destinataria.",
+          "is_correct": true,
+          "feedback": "Correcto. Remitente es quien envía y destinatario es quien recibe."
+        },
+        {
+          "letter": "D",
+          "text": "Pedro es el autor y María es la protagonista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos términos se usan más en cuentos o novelas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dominar el vocabulario técnico de la correspondencia es esencial para entender cómo funciona el circuito de la comunicación escrita.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v7",
+      "statement": "En una carta formal dirigida a un juez en Cali, un estudiante escribió: \"**Te** pido que por favor **mires** mi caso\". ¿Por qué esta frase es un error en una carta formal?",
+      "context": "Revisión de una carta para corregir el \"voseo\" o \"tuteo\" inadecuado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usar la palabra \"caso\" es de mala suerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra es correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa un lenguaje demasiado cercano (\"te\" y \"mires\") en lugar de usar \"Usted\" (\"Le pido que mire\").",
+          "is_correct": true,
+          "feedback": "Correcto. En contextos formales en Colombia, el uso del \"Usted\" es obligatorio para mostrar respeto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no puso el nombre del juez en la frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es obligatorio en cada oración."
+        },
+        {
+          "letter": "D",
+          "text": "Porque le faltó poner \"por favor\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí lo puso en la frase original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de los pronombres y la conjugación verbal adecuada según el nivel de formalidad (tratar de \"Usted\") es un aprendizaje social y lingüístico fundamental.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-v8",
+      "statement": "Lee este fragmento: \"Por medio de la presente, solicito formalmente la donación de tres balones de fútbol para el equipo de nuestra escuela\". ¿Cuál es la función comunicativa de esta carta?",
+      "context": "Identificación del propósito de una carta formal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agradecer un favor recibido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona agradecimientos por algo pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar una petición o solicitud.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra \"solicito\" indica claramente que se está pidiendo algo."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre un resultado deportivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuenta resultados, pide implementos."
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a una fiesta de inauguración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una invitación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ser capaz de identificar la intención comunicativa a través de verbos clave (solicitar, informar, invitar, agradecer) es una habilidad de comprensión lectora de alto nivel para 4°.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2, bundle_size 8. |\n| Curricular | 40/40 | Cubre estructura, roles y registros de la carta formal. |\n| Contexto | 20/20 | Referencias a Bucaramanga, Leticia, Ibagué, Zipaquirá, Pereira, Quibdó y Cali. |\n| Redacción | 10/10 | Lenguaje adaptado y distractores bien construidos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-4-2026-W07-carta-formal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v1",
       "statement": "¿Cuál de las siguientes reglas de acentuación es CORRECTA?",
       "context": "Un repaso de las reglas básicas en un colegio de Bogotá.",
@@ -48,7 +416,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v2",
@@ -91,7 +462,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v3",
@@ -134,7 +508,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v4",
@@ -177,7 +554,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v5",
@@ -220,7 +600,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v6",
@@ -263,7 +646,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v7",
@@ -306,7 +692,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v8",
@@ -349,7 +738,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v9",
@@ -392,7 +784,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v10",
@@ -435,7 +830,10 @@
       "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

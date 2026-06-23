@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY"
+id: "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "daily-routines-1"
 periodo: "weekly"
-semana: 19
+week: "W19"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Vocabulary for basic morning routines: wake up, brush teeth, have breakfast."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Daily Routines 1 (W19)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W19: Daily Routines - Morning (A1)
-
-Este bundle evalúa el vocabulario de las rutinas diarias de la mañana en inglés.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-What is the first thing you do? **"Despertarse"**.
-
-### Options
-- [x] A) Wake up <!-- feedback: Correct! Wake up is despertarse. -->
-- [ ] B) Go to sleep <!-- feedback: Incorrect. -->
-- [ ] C) Eat dinner <!-- feedback: Incorrect. -->
-- [ ] D) Play <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La primera acción del día al abrir los ojos es "wake up".
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What do you do with a toothbrush?
-
-### Options
-- [ ] A) Wash my face <!-- feedback: Incorrect. -->
-- [x] B) Brush my teeth <!-- feedback: Correct! -->
-- [ ] C) Eat breakfast <!-- feedback: Incorrect. -->
-- [ ] D) Combing my hair <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Cepillarse los dientes se dice "brush my teeth".
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Desayunar"** in English?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Have lunch <!-- feedback: Incorrect. Lunch is almuerzo. -->
-- [ ] B) Have dinner <!-- feedback: Incorrect. Dinner is cena. -->
-- [x] C) Have breakfast <!-- feedback: Correct! Breakfast is the first meal. -->
-- [ ] D) Eat a snack <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El desayuno se dice "breakfast". "Have breakfast" es desayunar.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What do you do to get clean in the morning?
-
-### Options
-- [ ] A) Go to bed <!-- feedback: Incorrect. -->
-- [x] B) Take a shower <!-- feedback: Correct! -->
-- [ ] C) Play soccer <!-- feedback: Incorrect. -->
-- [ ] D) Read a book <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Tomar una ducha o bañarse se dice "take a shower".
-
----
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-What do you do with your **clothes**?
-
-### Options
-- [ ] A) Eat my clothes <!-- feedback: Incorrect. -->
-- [x] B) Get dressed <!-- feedback: Correct! Get dressed is vestirse. -->
-- [ ] C) Wash the car <!-- feedback: Incorrect. -->
-- [ ] D) Sleep <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Vestirse se dice "get dressed".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v6`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you go at 7:00 AM?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Go to the park <!-- feedback: Incorrect. -->
-- [x] B) Go to school <!-- feedback: Correct! Morning is for school. -->
-- [ ] C) Go to sleep <!-- feedback: Incorrect. -->
-- [ ] D) Go to the beach <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Ir al colegio se dice "go to school".
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-What do you do with a **comb** (peine)?
-
-### Options
-- [ ] A) Brush my teeth <!-- feedback: Incorrect. -->
-- [x] B) Comb my hair <!-- feedback: Correct! -->
-- [ ] C) Wash my hands <!-- feedback: Incorrect. -->
-- [ ] D) Eat <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Peinarse se dice "comb my hair".
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-
-### Enunciado
-What is **"Lavarse las manos"**?
-
-### Options
-- [ ] A) Wash my face <!-- feedback: Incorrect. -->
-- [x] B) Wash my hands <!-- feedback: Correct! -->
-- [ ] C) Clean the table <!-- feedback: Incorrect. -->
-- [ ] D) Drink water <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Lavarse las manos es "wash my hands". Es muy importante antes de comer.
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v9`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Complete: **"I _______ my face in the morning."**
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) eat <!-- feedback: Incorrect. -->
-- [x] B) wash <!-- feedback: Correct! Wash my face. -->
-- [ ] C) sleep <!-- feedback: Incorrect. -->
-- [ ] D) read <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Lavarse la cara es "wash my face".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-v10`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.45
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Choose the correct order:
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [x] A) Wake up, have breakfast, go to school <!-- feedback: Correct order. -->
-- [ ] B) Go to school, wake up, have breakfast <!-- feedback: Incorrect order. -->
-- [ ] C) Have breakfast, go to school, wake up <!-- feedback: Incorrect order. -->
-- [ ] D) Sleep, have breakfast, wake up <!-- feedback: Incorrect order. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Las rutinas tienen un orden lógico: primero despertamos, luego desayunamos y finalmente vamos al colegio.
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

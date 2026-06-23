@@ -8,886 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v1",
-      "statement": "\"30\" in English is ___.",
-      "context": "In Bogotá, students learn numbers 20-100.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-001-v1",
+      "statement": "I write with my ________ in my notebook.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "threety",
+          "text": "window",
           "is_correct": false,
-          "feedback": "Incorrecto. No existe \"threety\"."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "thirty",
-          "is_correct": true,
-          "feedback": "Correcto. 30 = thirty."
+          "text": "board",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "thirteen",
-          "is_correct": false,
-          "feedback": "Incorrecto. 13 = thirteen."
-        },
-        {
-          "letter": "D",
-          "text": "thirdy",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Thirdy\" no existe."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Decenas: 20 = twenty, 30 = thirty, 40 = forty (sin u), 50 = fifty, 60 = sixty, 70 = seventy, 80 = eighty, 90 = ninety.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v2",
-      "statement": "\"100\" in English is ___.",
-      "context": "In Medellín, students count in class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "one hundredth",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Hundredth\" es ordinal (centésimo)."
-        },
-        {
-          "letter": "B",
-          "text": "one thousand",
-          "is_correct": false,
-          "feedback": "Incorrecto. 1000 = one thousand."
-        },
-        {
-          "letter": "C",
-          "text": "one hundred",
+          "text": "pencil",
           "is_correct": true,
-          "feedback": "Correcto. 100 = one hundred."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "one hundreds",
+          "text": "desk",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Hundred\" no se pluraliza cuando va con número."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "100 = one hundred (un/a cien). 200 = two hundred (doscientos). En inglés, \"hundred\" no se pluraliza: two hundred, not \"two hundreds\".\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v3",
-      "statement": "\"Twenty + forty = ___\"",
-      "context": "In Cali, students do math problems.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "fifty",
-          "is_correct": false,
-          "feedback": "Incorrecto. 20 + 40 = 60, no 50."
-        },
-        {
-          "letter": "B",
-          "text": "seventy",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es 70."
-        },
-        {
-          "letter": "C",
-          "text": "sixty",
-          "is_correct": true,
-          "feedback": "Correcto. 20 + 40 = 60 (sixty)."
-        },
-        {
-          "letter": "D",
-          "text": "eighty",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es 80."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "20 (twenty) + 40 (forty) = 60 (sixty). Practicar sumas ayuda a aprender los números en contexto.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v4",
-      "statement": "\"My grandmother is ___ years old.\" (72)",
-      "context": "In Barranquilla, students say their age.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "seventy two",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los números compuestos llevan guión."
-        },
-        {
-          "letter": "B",
-          "text": "seventy-two",
-          "is_correct": true,
-          "feedback": "Correcto. 72 = seventy-two."
-        },
-        {
-          "letter": "C",
-          "text": "seventy second",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Second\" es ordinal."
-        },
-        {
-          "letter": "D",
-          "text": "seventy twos",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se pluraliza."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Los números compuestos (21-99) se escriben con guión: twenty-one, thirty-two, forty-three, seventy-two.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v5",
-      "statement": "\"That backpack costs ___ pesos.\" (55,000)",
-      "context": "In Bucaramanga, students talk about prices.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "fifty five thousand",
-          "is_correct": false,
-          "feedback": "Correcto pero sin guión."
-        },
-        {
-          "letter": "B",
-          "text": "fifty-five thousand",
-          "is_correct": true,
-          "feedback": "Correcto. 55,000 = fifty-five thousand. guión entre decenas y unidades."
-        },
-        {
-          "letter": "C",
-          "text": "fifty-five thousandth",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Thousandth\" es ordinal."
-        },
-        {
-          "letter": "D",
-          "text": "fifty-fifth thousand",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es ordinal."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para cantidades grandes: 55,000 = fifty-five thousand. Thousand = mil. Se usa el guión en 55 (fifty-five).\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v6",
-      "statement": "\"There are ___ students in my school.\" (350)",
-      "context": "In Cartagena, students read a school schedule.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-002-v1",
+      "statement": "The teacher writes on the ________.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "three hundred and fifty",
-          "is_correct": true,
-          "feedback": "Correcto. 350 = three hundred and fifty."
+          "text": "floor",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "three hundreds fifty",
+          "text": "backpack",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Hundred\" no se pluraliza."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "three hundred fiftyth",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es ordinal."
+          "text": "board",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "three hundred fifty one",
+          "text": "chair",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso sería 351."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W09-review-numbers-school-003-v1",
+      "statement": "Where do you study?",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the classroom.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "In the bed.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "In the kitchen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "In the park.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "350 = three hundred and fifty. En inglés británico se usa \"and\" entre hundred y el resto. En americano a veces se omite.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v7",
-      "statement": "\"What number is 5 tens + 3 ones?\"",
-      "context": "In Pereira, students play a number game.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "thirty-five",
-          "is_correct": false,
-          "feedback": "Incorrecto. 5 tens = 50, 3 ones = 3."
-        },
-        {
-          "letter": "B",
-          "text": "fifty-three",
-          "is_correct": true,
-          "feedback": "Correcto. 50 + 3 = 53 (fifty-three)."
-        },
-        {
-          "letter": "C",
-          "text": "fifty-five",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sería 5 tens + 5 ones."
-        },
-        {
-          "letter": "D",
-          "text": "thirty-three",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sería 3 tens + 3 ones."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Tens = decenas, ones = unidades. 5 tens (50) + 3 ones (3) = 53 (fifty-three).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v8",
-      "statement": "\"How much is this?\" \"It's ___ pesos.\" (1,200)",
-      "context": "In Manizales, students ask about prices.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "one thousand two hundreds",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Hundreds\" no se pluraliza."
-        },
-        {
-          "letter": "B",
-          "text": "one thousand two hundred",
-          "is_correct": true,
-          "feedback": "Correcto. 1,200 = one thousand two hundred."
-        },
-        {
-          "letter": "C",
-          "text": "twelve hundred",
-          "is_correct": false,
-          "feedback": "Posible en inglés informal, pero menos estándar."
-        },
-        {
-          "letter": "D",
-          "text": "one thousand and two hundredth",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Hundredth\" es ordinal."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "1,200 = one thousand two hundred. En inglés, \"hundred\" y \"thousand\" no se pluralizan cuando van con números: two hundred, three thousand.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v9",
-      "statement": "\"The teacher says: seventy-eight. What number is it?\"",
-      "context": "In Cúcuta, students listen to a dictation.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-004-v1",
+      "statement": "What do you use to erase a mistake?",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "87",
-          "is_correct": false,
-          "feedback": "Incorrecto. 87 = eighty-seven."
+          "text": "An eraser.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "78",
-          "is_correct": true,
-          "feedback": "Correcto. seventy-eight = 78."
+          "text": "A book.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "68",
+          "text": "A sharpener.",
           "is_correct": false,
-          "feedback": "Incorrecto. 68 = sixty-eight."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "88",
+          "text": "A ruler.",
           "is_correct": false,
-          "feedback": "Incorrecto. 88 = eighty-eight."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Escuchar números requiere atención. Seventy (70) + eight (8) = seventy-eight (78). No confundir con eighty-seven (87).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W09-review-numbers-school-005-v1",
+      "statement": "I carry my books in my ________.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "backpack",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "wallet",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "pocket",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "pencil case",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v10",
-      "statement": "\"Which number is the largest?\"",
-      "context": "In Ibagué, students compare numbers.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-006-v1",
+      "statement": "The ________ helps students learn English.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "thirty-nine",
+          "text": "doctor",
           "is_correct": false,
-          "feedback": "Incorrecto. 39."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "forty-one",
+          "text": "pilot",
           "is_correct": false,
-          "feedback": "Incorrecto. 41."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "fifty-three",
+          "text": "chef",
           "is_correct": false,
-          "feedback": "Posible pero no el mayor."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "ninety-nine",
+          "text": "teacher",
           "is_correct": true,
-          "feedback": "Correcto. 99 es el mayor de todas las opciones."
+          "feedback": "Correct! Well done."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Comparar números en inglés: ninety-nine (99) > fifty-three (53) > forty-one (41) > thirty-nine (39).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v1",
-      "statement": "What is the structure of present perfect?",
-      "context": "At Liceo de la Sabana de Neiva, students review present perfect.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + past tense verb",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have/has + past participle",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + verb-ing",
-          "is_correct": false,
-          "feedback": "Presente continuo."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Futuro simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v2",
-      "statement": "What is the past participle of \"go\"?",
-      "context": "In Colegio Simón Bolívar de Bogotá, students review verb forms.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "No existe."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Gerundio."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v3",
-      "statement": "Complete: \"I have lived in Ibagué since 2020.\"",
-      "context": "At I.E. La Salle de Villavicencio, students practice for/since.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "For + duración."
-        },
-        {
-          "letter": "B",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "Correcto. Since + punto específico."
-        },
-        {
-          "letter": "C",
-          "text": "ago",
-          "is_correct": false,
-          "feedback": "Ago + pasado simple."
-        },
-        {
-          "letter": "D",
-          "text": "from",
-          "is_correct": false,
-          "feedback": "No aplica."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v4",
-      "statement": "What does \"I have just eaten\" mean?",
-      "context": "In Gimnasio Los Pinares de Medellín, students practice comprehension.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I ate a long time ago.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "I ate a very short time ago.",
-          "is_correct": true,
-          "feedback": "Correcto. Just = acabar de."
-        },
-        {
-          "letter": "C",
-          "text": "I will eat soon.",
-          "is_correct": false,
-          "feedback": "Futuro."
-        },
-        {
-          "letter": "D",
-          "text": "I never eat.",
-          "is_correct": false,
-          "feedback": "Negación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v5",
-      "statement": "Correct: \"She has went to the museum.\"",
-      "context": "Students at Gimnasio Los Pinares de Cali correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has goed to the park.",
-          "is_correct": false,
-          "feedback": "\"Goed\" no existe."
-        },
-        {
-          "letter": "B",
-          "text": "She has gone to the museum.",
-          "is_correct": true,
-          "feedback": "Correcto. Gone es el past participle de go."
-        },
-        {
-          "letter": "C",
-          "text": "She has go to the museum.",
-          "is_correct": false,
-          "feedback": "\"Go\" no es past participle."
-        },
-        {
-          "letter": "D",
-          "text": "She went to the museum.",
-          "is_correct": false,
-          "feedback": "Pasado simple, no PP."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v6",
-      "statement": "Choose: \"I have already visited Parque Tayrona.\"",
-      "context": "In I.E. La Salle de San Andrés, students use already.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have already visit",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "B",
-          "text": "have already visited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "already have visited",
-          "is_correct": false,
-          "feedback": "Orden incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "visited already",
-          "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v7",
-      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
-      "context": "At Colegio INEM de Cartagena, analyze been vs gone.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "\"Been to\" = still there.",
-          "is_correct": false,
-          "feedback": "Al revés."
-        },
-        {
-          "letter": "D",
-          "text": "\"Gone to\" = visited many times.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v8",
-      "statement": "Question: \"you / ever / try / oblea?\"",
-      "context": "In Colegio Champagnat de San Andrés, students form questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Did you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past simple."
-        },
-        {
-          "letter": "B",
-          "text": "Have you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "C",
-          "text": "Have you ever tried bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "You have ever tried bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta inversión."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v9",
-      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
-      "context": "At Colegio Champagnat de Pasto, evaluate tense.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-007-v1",
+      "statement": "Where is the math class?",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "has won",
+          "text": "In the cafeteria.",
           "is_correct": false,
-          "feedback": "Tiempo específico."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "won",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "In the bathroom.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "has been winning",
+          "text": "In the gym.",
           "is_correct": false,
-          "feedback": "PP continuous."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "wins",
-          "is_correct": false,
-          "feedback": "Present simple."
+          "text": "In the classroom.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W09-review-numbers-school-008-v1",
+      "statement": "What do you use to draw a straight line?",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A scissors.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "A pen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "A ruler.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "A glue.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v10",
-      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
-      "context": "In Colegio INEM de Santa Marta, students write a paragraph.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-009-v1",
+      "statement": "We eat lunch in the school ________.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "I visit the museum. I go there.",
+          "text": "office",
           "is_correct": false,
-          "feedback": "Present simple, not PP."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "I have visited the museum. I have been there twice.",
+          "text": "cafeteria",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "I have visit the museum.",
+          "text": "bus",
           "is_correct": false,
-          "feedback": "Visit -> visited."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "I have visited last week.",
+          "text": "library",
           "is_correct": false,
-          "feedback": "\"Last week\" con PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v11",
-      "statement": "Which auxiliary for \"she\" in PP?",
-      "context": "In Gimnasio Los Pinares de Pereira, review have/has.",
+      "id": "CO-ING-6-2026-W09-review-numbers-school-010-v1",
+      "statement": "You find many books in the school ________.",
+      "context": "Scenario about review-numbers-school in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
+          "text": "playground",
           "is_correct": false,
-          "feedback": "Have para I/you/we/they."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. He/she/it -> has."
+          "text": "closet",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "do",
+          "text": "lab",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "did",
-          "is_correct": false,
-          "feedback": "Past simple."
+          "text": "library",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Review: Numbers and School at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W09-review-numbers-school-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

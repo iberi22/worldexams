@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-10-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.736Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v1",
+      "statement": "You ________ study tonight if you want to pass the math test tomorrow.",
+      "context": "Reviewing advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" is the appropriate modal for giving advice."
+        },
+        {
+          "letter": "B",
+          "text": "must to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" does not take \"to\"."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical advice for someone who wants to pass."
+        },
+        {
+          "letter": "D",
+          "text": "are should",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordamos que \"should\" se utiliza para dar consejos y va seguido de la forma base del verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v2",
+      "statement": "I ________ never ________ a horse before. Is it difficult?",
+      "context": "Reviewing life experiences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "did / ride",
+          "is_correct": false,
+          "feedback": "Incorrect. Experiences use Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "have / ridden",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect (have + past participle) for life experiences."
+        },
+        {
+          "letter": "C",
+          "text": "has / rode",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I\" takes \"have\" and \"rode\" is simple past."
+        },
+        {
+          "letter": "D",
+          "text": "am / riding",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hablar de cosas que hemos (o no hemos) hecho en nuestra vida, usamos el Presente Perfecto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v3",
+      "statement": "The boy ________ won the spelling bee competition is in my class.",
+      "context": "Reviewing relative clauses for people.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Which\" is for things."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! \"Who\" refers to people."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply possession."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos \"who\" o \"that\" para dar información sobre una persona mencionada previamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v4",
+      "statement": "If we ________ to the party, we ________ a gift for the host.",
+      "context": "Reviewing First Conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go / bring",
+          "is_correct": false,
+          "feedback": "Incorrect. Result needs \"will\"."
+        },
+        {
+          "letter": "B",
+          "text": "go / will bring",
+          "is_correct": true,
+          "feedback": "Correct! First conditional structure."
+        },
+        {
+          "letter": "C",
+          "text": "will go / bring",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"will\" after \"if\"."
+        },
+        {
+          "letter": "D",
+          "text": "goes / will bring",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" takes \"go\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Primer Condicional conecta una condición presente (Present Simple) con un resultado futuro probable (Will).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v5",
+      "statement": "Maria has worked as a nurse ________ 2015.",
+      "context": "Reviewing \"since\" and \"for\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect. For is for periods of time (years)."
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct! Since is for a specific starting point."
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ago",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Since\" marca el inicio de una acción que continúa hasta el presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v6",
+      "statement": "You ________ smoke in the hospital; it's strictly forbidden.",
+      "context": "Reviewing prohibition vs. lack of necessity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Mustn't\" expresses prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it's optional, but here it's forbidden."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Too weak for a strict rule."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es crucial distinguir entre \"mustn't\" (prohibido) y \"don't have to\" (no es necesario).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v7",
+      "statement": "That is the girl ________ brother plays in the national soccer team.",
+      "context": "Reviewing \"whose\" for possession.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! Shows possession (the brother of the girl)."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Whose\" se usa para unir dos ideas a través de una relación de pertenencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v8",
+      "statement": "I won't call you ________ it's an emergency. I know you are busy.",
+      "context": "Reviewing conditional with \"unless\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct! \"Unless\" means \"if not\". I won't call IF IT'S NOT an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "already",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Unless\" introduce una excepción a lo que se ha dicho anteriormente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v9",
+      "statement": "**A:** \"Have you seen the new movie yet?\"\n**B:** \"No, I ________.\"",
+      "context": "Reviewing Present Perfect with \"yet\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "haven't see it yet",
+          "is_correct": false,
+          "feedback": "Incorrect. Participle \"seen\" is required."
+        },
+        {
+          "letter": "B",
+          "text": "haven't seen it yet",
+          "is_correct": true,
+          "feedback": "Correct! Correct use of negative Present Perfect with \"yet\"."
+        },
+        {
+          "letter": "C",
+          "text": "didn't see it yet",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect is needed with \"yet\"."
+        },
+        {
+          "letter": "D",
+          "text": "have already seen it",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't match the \"No\" in the response."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En respuestas negativas con \"yet\", debemos usar la estructura completa del Presente Perfecto Negativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"If you **will see (A)** the man **whose (B)** car was stolen, you **should (C)** tell him to call **the police (D)**.\"",
+      "context": "Identifying grammatical errors in a complex sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will see",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Will\" cannot be used in the \"if\" clause. It should be \"see\"."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of possessive relative pronoun."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for giving advice."
+        },
+        {
+          "letter": "D",
+          "text": "the police",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct noun."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas condicionales, un error común incluso en niveles intermedios.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v11",
+      "statement": "Your friend is crying because they lost their phone. What is the most empathetic B1 advice?",
+      "context": "Evaluating advice for a social situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must buy a new one now.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too direct/commanding."
+        },
+        {
+          "letter": "B",
+          "text": "You should try to remember where you saw it last, and maybe we can call it.",
+          "is_correct": true,
+          "feedback": "Correct! Helpful advice using \"should\" and \"can\"."
+        },
+        {
+          "letter": "C",
+          "text": "If you cry, you won't find it.",
+          "is_correct": false,
+          "feedback": "Incorrect. True, but not empathetic."
+        },
+        {
+          "letter": "D",
+          "text": "You shouldn't have a phone if you are so distracted.",
+          "is_correct": false,
+          "feedback": "Incorrect. Critical and unhelpful."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En B1, se espera que el estudiante use el lenguaje no solo con precisión gramatical, sino también con adecuación pragmática (empatía y cortesía).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v12",
+      "statement": "\"I have a friend. Her name is Carla. She lives in a house. The house is very old. She has visited many countries.\"\nChoose the best combined sentence:",
+      "context": "Summarizing a complex situation using relative clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carla, who has visited many countries, lives in a house that is very old.",
+          "is_correct": true,
+          "feedback": "Correct! Perfectly combines the information using relative clauses."
+        },
+        {
+          "letter": "B",
+          "text": "Carla is a friend where lives in a very old house and has visited countries.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" is used incorrectly for a person."
+        },
+        {
+          "letter": "C",
+          "text": "The old house who Carla lives in has visited many countries.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical (houses don't visit countries)."
+        },
+        {
+          "letter": "D",
+          "text": "Carla has visited countries since she lived in an old house who is hers.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically weak and uses \"who\" for a house."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creación de oraciones complejas mediante la subordinación (relative clauses) es una marca distintiva de la competencia en nivel B1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

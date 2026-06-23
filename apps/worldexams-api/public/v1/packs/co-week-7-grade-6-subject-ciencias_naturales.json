@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.966Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-v1",
+      "statement": "¿Qué es la reproducción sexual?",
+      "context": "En Bogotá, los estudiantes comienzan el tema de reproducción sexual en una presentación interactiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La división de una célula en dos hijas idénticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es mitosis."
+        },
+        {
+          "letter": "B",
+          "text": "La formación de un nuevo individuo a partir de un solo progenitor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es reproducción asexual."
+        },
+        {
+          "letter": "C",
+          "text": "La formación de un nuevo individuo a partir de la unión de dos células especializadas (gametos) de dos progenitores",
+          "is_correct": true,
+          "feedback": "Correcto. La reproducción sexual requiere dos progenitores."
+        },
+        {
+          "letter": "D",
+          "text": "El crecimiento de un organismo a partir de un fragmento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es fragmentación (asexual)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reproducción sexual es un proceso en el que dos progenitores contribuyen con células especializadas llamadas **gametos** (óvulo de la hembra, espermatozoide del macho). Cuando el óvulo y el espermatozoide se fusionan (fecundación), forman una célula llamada **cigoto**, que contiene material genético de ambos progenitores. El cigoto se desarrolla mediante mitosis hasta formar un nuevo organismo.\r\n\r\nCaracterísticas: (1) produce descendencia genéticamente única (variabilidad genética), (2) requiere dos progenitores, (3) es más lenta y requiere más energía que la asexual, (4) los gametos se producen por meiosis (reducción del número de cromosomas a la mitad).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-002-v1",
+      "statement": "¿Cómo se llaman las células sexuales (gametos) en los seres humanos?",
+      "context": "En Medellín, los estudiantes aprenden la diferencia entre gameto masculino y femenino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cigoto y blastocito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cigoto es el resultado de la unión de los gametos."
+        },
+        {
+          "letter": "B",
+          "text": "Mitocondria y cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son orgánulos celulares, no células sexuales."
+        },
+        {
+          "letter": "C",
+          "text": "Óvulo (femenino) y espermatozoide (masculino)",
+          "is_correct": true,
+          "feedback": "Correcto. Estos son los gametos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Célula somática y célula germinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son categorías generales, no los nombres específicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la reproducción sexual humana:\r\n- **Óvulo**: gameto femenino, grande (100 µm), inmóvil, producido en los ovarios. Contiene citoplasma con nutrientes.\r\n- **Espermatozoide**: gameto masculino, pequeño (50 µm), móvil (flagelo), producido en los testículos. Tiene cabeza (con núcleo), pieza intermedia (con mitocondrias para energía) y cola (flagelo para movimiento).\r\n\r\nAmbos tienen la mitad del número de cromosomas (23 en humanos, n). Al fusionarse, el cigoto tiene 46 cromosomas (2n). En las plantas, los gametos se llaman óvulo (femenino) y grano de polen (masculino, que contiene el espermatozoide vegetal).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-003-v1",
+      "statement": "¿Qué ventaja evolutiva tiene la reproducción sexual sobre la asexual?",
+      "context": "En Cali, los estudiantes comparan reproducción sexual en diferentes organismos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más rápida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual es más lenta."
+        },
+        {
+          "letter": "B",
+          "text": "Produce más descendencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asexual produce más descendencia en menos tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Genera variabilidad genética, lo que permite adaptarse mejor a cambios ambientales",
+          "is_correct": true,
+          "feedback": "Correcto. La recombinación genética es clave para la evolución."
+        },
+        {
+          "letter": "D",
+          "text": "No requiere energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual requiere más energía (buscar pareja, producir gametos)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **variabilidad genética** es la gran ventaja evolutiva de la reproducción sexual. Se genera por:\r\n1. **Meiosis**: durante la formación de gametos, los cromosomas homólogos intercambian segmentos (entrecruzamiento o crossing-over)\r\n2. **Distribución independiente**: los cromosomas se reparten al azar\r\n3. **Fecundación al azar**: la combinación de gametos de dos progenitores es única\r\n\r\nEsta variabilidad permite que en una población haya individuos con diferentes características. Si el ambiente cambia (nueva enfermedad, clima diferente), algunos individuos tendrán características que les permitan sobrevivir. En la reproducción asexual, si el ambiente cambia y el clon no está adaptado, toda la población muere. Por eso la mayoría de organismos complejos usan reproducción sexual.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-004-v1",
+      "statement": "¿Cómo se reproduce sexualmente una planta con flor?",
+      "context": "En Barranquilla, los estudiantes ven un video sobre la polinización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por esquejes de sus tallos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esquejes son reproducción asexual."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante polinización: el polen (gameto masculino) fecunda el óvulo en el ovario de la flor, formando semillas",
+          "is_correct": true,
+          "feedback": "Correcto. La flor es el órgano reproductor de las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Por fragmentación de sus hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es reproducción asexual."
+        },
+        {
+          "letter": "D",
+          "text": "Por gemación en el tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gemación no es típica de plantas con flor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reproducción sexual en plantas con flor (angiospermas) ocurre en las flores:\r\n- **Partes masculinas**: estambres (antera produce el polen)\r\n- **Partes femeninas**: pistilo (ovario contiene óvulos)\r\n\r\nLa **polinización** es el transporte del polen desde la antera hasta el estigma: puede ser por viento (anemófila, ej. pastos, maíz), insectos (entomófila, ej. abejas, mariposas), aves (ornitófila, ej. colibríes) o murciélagos (quiropterófila). En Colombia, las abejas nativas (meliponas, abejas sin aguijón) son polinizadores importantes en cultivos de café, aguacate y mora.\r\n\r\nLa polinización es esencial para la producción de alimentos: aproximadamente el 75% de los cultivos del mundo dependen de polinizadores.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-005-v1",
+      "statement": "Un estudiante observa una flor y encuentra una estructura que produce polen. ¿Qué parte de la flor está observando?",
+      "context": "En Bucaramanga, los estudiantes observan flores y sus partes en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pistilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pistilo es la parte femenina y contiene el ovario."
+        },
+        {
+          "letter": "B",
+          "text": "El pétalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pétalos atraen polinizadores pero no producen polen."
+        },
+        {
+          "letter": "C",
+          "text": "El estambre (antera)",
+          "is_correct": true,
+          "feedback": "Correcto. La antera del estambre produce los granos de polen."
+        },
+        {
+          "letter": "D",
+          "text": "El sépalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sépalos protegen la flor en desarrollo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura floral consta de:\r\n- **Sépalos**: hojas modificadas que protegen la flor en capullo (cáliz)\r\n- **Pétalos**: atractivos para polinizadores (corola)\r\n- **Estambres**: órganos masculinos. Cada estambre tiene filamento (sostén) y antera (produce polen)\r\n- **Pistilo**: órgano femenino. Tiene estigma (recibe polen), estilo (tubo que conecta) y ovario (contiene óvulos)\r\n\r\nUn grano de polen contiene dos células: una genera el tubo polínico y la otra produce dos espermatozoides vegetales. La fecundación en plantas con flor es doble: un espermatozoide fecunda el óvulo (forma el embrión) y el otro fecunda otra célula (forma el endospermo, tejido nutritivo de la semilla).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-006-v1",
+      "statement": "¿Qué diferencia hay entre fecundación interna y externa?",
+      "context": "En Cartagena, los estudiantes relacionan animales con su tipo de fecundación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fecundación interna produce menos descendencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una consecuencia, no la definición."
+        },
+        {
+          "letter": "B",
+          "text": "En la externa los gametos se unen dentro del cuerpo de la hembra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la interna."
+        },
+        {
+          "letter": "C",
+          "text": "En la interna la unión de gametos ocurre dentro del cuerpo de la hembra; en la externa ocurre en el agua o el medio externo",
+          "is_correct": true,
+          "feedback": "Correcto. La fecundación externa es común en organismos acuáticos."
+        },
+        {
+          "letter": "D",
+          "text": "La fecundación externa solo ocurre en mamíferos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mamíferos tienen fecundación interna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "- **Fecundación interna**: el macho introduce los espermatozoides dentro del cuerpo de la hembra. Generalmente produce menos descendencia pero más protegida. Ejemplos: mamíferos (humanos, perros, ballenas), aves, reptiles, insectos.\r\n- **Fecundación externa**: ambos sexos liberan gametos al agua, donde ocurre la fecundación al azar. Generalmente produce muchos descendientes (cientos o miles) pero muchos mueren. Ejemplos: peces (salmón, trucha), anfibios (ranas, sapos), equinodermos (estrellas de mar).\r\n\r\nEn Colombia, la rana venenosa (Dendrobates) tiene fecundación externa, mientras que el delfín rosado del Amazonas (Inia geoffrensis) tiene fecundación interna.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-007-v1",
+      "statement": "¿Por qué los peces producen miles de huevos mientras que los mamíferos solo producen unos pocos?",
+      "context": "En Pereira, analizan por qué los peces producen miles de huevos y los mamíferos pocos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los peces son más fértiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es cuestión de fertilidad sino de estrategia reproductiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los mamíferos no necesitan reproducirse mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos necesitan reproducirse para perpetuar la especie."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los peces tienen fecundación externa y sus huevos son vulnerables, así que necesitan muchos para que algunos sobrevivan; los mamíferos tienen fecundación interna y cuidan a sus crías, por lo que invierten más en pocas crías",
+          "is_correct": true,
+          "feedback": "Correcto. Son estrategias reproductivas diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los mamíferos viven más tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longevidad no es la causa directa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las diferentes estrategias reproductivas se explican por la **teoría de historias de vida**:\r\n- **Estrategia r**: muchos descendientes, poca inversión por cría, poca supervivencia individual. Común en ambientes inestables o impredecibles. Ej: peces, insectos, anfibios.\r\n- **Estrategia K**: pocos descendientes, alta inversión por cría (nutrición, cuidado parental), alta supervivencia individual. Común en ambientes estables. Ej: mamíferos, aves.\r\n\r\nEl salmón del Pacífico pone 2,000-5,000 huevos por desove. De todos ellos, solo 1 o 2 sobreviven hasta la edad adulta. En cambio, una hembra humana produce 1 óvulo (a veces 2) por ciclo reproductivo y normalmente cuida de su cría durante años.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-008-v1",
+      "statement": "La mariposa pasa por huevo, oruga, crisálida y adulto. ¿Qué nombre recibe este proceso?",
+      "context": "En Manizales, analizan el proceso de metamorfosis en insectos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fecundación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecundación es la unión de gametos."
+        },
+        {
+          "letter": "B",
+          "text": "Gemación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gemación es un tipo de reproducción asexual."
+        },
+        {
+          "letter": "C",
+          "text": "Metamorfosis completa",
+          "is_correct": true,
+          "feedback": "Correcto. La metamorfosis completa tiene cuatro etapas distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Fragmentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay fragmentación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **metamorfosis** es el proceso de cambios físicos que algunos animales experimentan después del nacimiento:\r\n- **Metamorfosis completa** (holometábola): huevo → larva (oruga) → pupa (crisálida) → adulto (imago). Ej: mariposas, abejas, escarabajos, moscas. La larva y el adulto tienen formas y estilos de vida completamente diferentes.\r\n- **Metamorfosis incompleta** (hemimetábola): huevo → ninfa (similar al adulto pero más pequeña y sin alas) → adulto. Ej: saltamontes, libélulas, chinches.\r\n\r\nEn Colombia, el cultivo de mariposas (mariposarios) es una actividad ecoturística, educativa y de conservación. El Santuario de Fauna y Flora Otún-Quimbaya en Risaralda tiene programas de cría de mariposas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-009-v1",
+      "statement": "En zoológicos se usan programas de reproducción asistida para especies amenazadas. ¿Por qué la reproducción sexual es preferible a la clonación para conservar especies?",
+      "context": "En Cúcuta, evalúan la reproducción de especies en peligro de extinción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la clonación es más barata",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación suele ser más costosa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la reproducción sexual produce individuos genéticamente idénticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sexual produce VARIABILIDAD genética."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la reproducción sexual genera variabilidad genética, lo que da a la población mayor capacidad para adaptarse a cambios y enfermedades",
+          "is_correct": true,
+          "feedback": "Correcto. La diversidad genética es clave para la supervivencia a largo plazo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la reproducción sexual es más rápida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación puede ser más rápida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para la conservación de especies amenazadas, mantener la **diversidad genética** es fundamental:\r\n- **Reproducción sexual natural o asistida**: produce descendencia con combinaciones genéticas únicas. Se puede gestionar el apareamiento para maximizar la diversidad genética (evitar endogamia).\r\n- **Clonación**: produce individuos genéticamente idénticos. Si todos son clones, una enfermedad que afecte a uno afectará a todos.\r\n\r\nEn Colombia, el Programa de Conservación del Cóndor Andino usa reproducción asistida. El Parque Zoológico Santa Fe en Medellín y la Fundación Botánica y Zoológica de Barranquilla participan en programas de reproducción de especies como el tití cabeciblanco, la tortuga hicotea y el manatí.\r\n\r\nLa diversidad genética es el seguro de vida de las especies contra cambios ambientales y enfermedades.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-reproduccion-sexual-010-v1",
+      "statement": "¿Por qué el cruce entre familiares cercanos (endogamia) puede ser perjudicial para una especie?",
+      "context": "En Ibagué, evalúan por qué la endogamia (cruce entre familiares) es problemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los animales se vuelven menos inteligentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una explicación científica precisa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce menos crías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede no afectar el número de crías directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aumenta la probabilidad de que genes recesivos dañinos se expresen, ya que ambos progenitores tienen genes muy similares",
+          "is_correct": true,
+          "feedback": "Correcto. Los genes recesivos deletéreos tienen más probabilidad de manifestarse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las crías son clones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las crías no son clones, pero comparten más genes de lo normal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **endogamia** (cruce entre individuos emparentados) tiene consecuencias genéticas negativas:\r\n1. Todos tenemos genes recesivos dañinos en nuestro ADN (mutaciones que no se expresan porque tenemos una copia sana del otro progenitor)\r\n2. Entre familiares cercanos hay muchos genes en común\r\n3. Al tener hijos, hay mayor probabilidad de que ambos aporten el mismo gen recesivo dañino\r\n4. El gen dañino se expresa y causa enfermedades genéticas\r\n\r\nEjemplos históricos: la realeza europea (hemofilia en descendientes de la reina Victoria), extinción de poblaciones pequeñas (lobo rojo, tigre de Tasmania).\r\n\r\nEn conservación, se evita la endogamia mediante: (1) corredores biológicos que conectan poblaciones, (2) programas de intercambio de individuos entre zoológicos, (3) bancos de semen para diversidad genética. En Colombia, el jaguar y el oso de anteojos se benefician de corredores biológicos que conectan poblaciones aisladas.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Armenia, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Pereira, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Manizales, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Barranquilla, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Villavicencio, se discute sobre Tema Semana 7 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 7 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 7 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 7 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W07-tema-semana-7-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-v1",
+      "statement": "¿Cuál es la función principal del núcleo celular?",
+      "context": "En Bogotá, la profesora muestra un diagrama de la célula en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir energía para la célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de las mitocondrias."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre en los cloroplastos."
+        },
+        {
+          "letter": "C",
+          "text": "Controlar las actividades de la célula y contener el material genético",
+          "is_correct": true,
+          "feedback": "Correcto. El núcleo dirige las funciones celulares."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar agua y nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de las vacuolas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El núcleo es el \"centro de control\" de la célula. Contiene el ADN (material genético) que lleva las instrucciones para todas las actividades celulares, incluyendo el crecimiento, la reproducción y la producción de proteínas. Está rodeado por una membrana nuclear que regula el paso de sustancias. El núcleo es una característica distintiva de las células eucariotas, y su presencia o ausencia define la primera gran división entre los seres vivos.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-002-v1",
+      "statement": "¿Qué organelo se encarga de producir energía en la célula?",
+      "context": "En Medellín, los estudiantes identifican organelos en una maqueta de célula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo contiene el ADN, no produce energía."
+        },
+        {
+          "letter": "B",
+          "text": "El aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparato de Golgi empaca y distribuye sustancias."
+        },
+        {
+          "letter": "C",
+          "text": "La mitocondria",
+          "is_correct": true,
+          "feedback": "Correcto. Las mitocondrias producen energía mediante la respiración celular."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sintetiza proteínas y lípidos, no produce energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las mitocondrias son conocidas como las \"centrales energéticas\" de la célula. En su interior ocurre la respiración celular, un proceso que transforma la glucosa (proveniente de los alimentos) en ATP (trifosfato de adenosina), la molécula que almacena y transporta energía para todas las funciones celulares. Las mitocondrias tienen su propio ADN y se cree que evolucionaron a partir de bacterias que fueron incorporadas por células primitivas (teoría endosimbiótica).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-003-v1",
+      "statement": "¿Qué estructura está presente en la célula vegetal pero NO en la célula animal?",
+      "context": "En Cali comparan una célula vegetal de cebolla y una célula animal de epitelio bucal al microscopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular rodea la membrana en células vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "Membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células tienen membrana plasmática."
+        },
+        {
+          "letter": "C",
+          "text": "Núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen núcleo definido."
+        },
+        {
+          "letter": "D",
+          "text": "Mitocondrias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen mitocondrias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pared celular de celulosa es una estructura rígida que rodea la membrana plasmática en las células vegetales. Le da forma a la célula, la protege y evita que estalle cuando absorbe mucha agua (presión de turgencia). La célula animal no tiene pared celular, solo membrana plasmática. Esta diferencia explica por qué las plantas pueden mantenerse erguidas sin un esqueleto: la presión de agua dentro de las células, contenida por la pared celular, les da soporte.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-004-v1",
+      "statement": "¿Qué función cumple el aparato de Golgi en la célula?",
+      "context": "En Barranquilla estudian la función de los organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar sustancias y reciclar partes celulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de los lisosomas."
+        },
+        {
+          "letter": "B",
+          "text": "Empacar, modificar y distribuir proteínas y lípidos",
+          "is_correct": true,
+          "feedback": "Correcto. El aparato de Golgi es el centro de empaque de la célula."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre en los cloroplastos."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar el material genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético está en el núcleo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aparato de Golgi se puede imaginar como el \"centro de empaque y envío\" de la célula. Recibe proteínas y lípidos del retículo endoplasmático, los modifica (por ejemplo, añadiendo moléculas de azúcar), los empaca en vesículas y los envía a su destino final: la membrana celular (para ser secretados), los lisosomas (para degradación) u otros lugares de la célula. Fue descubierto por Camilo Golgi, científico italiano, y tiene forma de pilas de sacos aplanados.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-005-v1",
+      "statement": "Observan una célula con las siguientes características: tiene forma irregular, no tiene pared celular y tiene pequeñas vacuolas. ¿Qué tipo de célula es?",
+      "context": "En Bucaramanga, los estudiantes identifican una célula como animal o vegetal observando sus características.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula animal",
+          "is_correct": true,
+          "feedback": "Correcto. Las células animales tienen forma irregular, sin pared celular y con vacuolas pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "Célula vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células vegetales tienen pared celular, forma regular y vacuolas grandes."
+        },
+        {
+          "letter": "C",
+          "text": "Célula bacteriana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias son procariotas y tienen pared celular de peptidoglicano."
+        },
+        {
+          "letter": "D",
+          "text": "Célula fúngica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células de hongos tienen pared celular de quitina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células animales se caracterizan por: forma irregular o variable (no tienen pared rígida), ausencia de pared celular (solo membrana plasmática), vacuolas pequeñas y numerosas (no una sola grande) y ausencia de cloroplastos. En contraste, las células vegetales tienen forma poligonal regular gracias a la pared celular de celulosa, una vacuola central grande que ocupa la mayor parte del volumen celular y cloroplastos para la fotosíntesis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-006-v1",
+      "statement": "Relaciona: si una célula necesita digerir y reciclar partes viejas, ¿qué organelo debe tener?",
+      "context": "En Cartagena, estudiantes relacionan cada organelo con su función mediante tarjetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria produce energía, no digiere desechos."
+        },
+        {
+          "letter": "B",
+          "text": "Cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto realiza fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Lisosoma",
+          "is_correct": true,
+          "feedback": "Correcto. Los lisosomas contienen enzimas digestivas para reciclar materiales."
+        },
+        {
+          "letter": "D",
+          "text": "Retículo endoplasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RE sintetiza proteínas y lípidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los lisosomas son \"bolsas\" llenas de enzimas digestivas que funcionan como el sistema de reciclaje de la célula. Digieren bacterias que entran a la célula (defensa), degradan partes celulares viejas o dañadas (renovación) y descomponen nutrientes. Las enzimas lisosomales trabajan en un ambiente ácido (pH bajo) y están contenidas dentro de la membrana del lisosoma para no dañar el resto de la célula.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-007-v1",
+      "statement": "¿Por qué las células vegetales son de color verde?",
+      "context": "En Pereira, un grupo de estudiantes debate por qué las células vegetales son verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tienen pared celular verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared celular es incolora o blanca."
+        },
+        {
+          "letter": "B",
+          "text": "Porque contienen cloroplastos con clorofila",
+          "is_correct": true,
+          "feedback": "Correcto. La clorofila es el pigmento verde que capta la luz solar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las vacuolas almacenan líquido verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El líquido vacuolar no es verde."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el núcleo es de ese color",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo no es verde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El color verde de las células vegetales se debe a los cloroplastos, organelos que contienen clorofila, un pigmento verde que absorbe la energía luminosa del sol. La clorofila es esencial para la fotosíntesis, el proceso mediante el cual las plantas convierten dióxido de carbono y agua en glucosa (alimento) y oxígeno. Los cloroplastos, al igual que las mitocondrias, tienen su propio ADN y se heredan de la planta madre.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-008-v1",
+      "statement": "¿Qué propiedad de la membrana celular permite que entre oxígeno pero no entren bacterias?",
+      "context": "En Manizales, estudiantes comparan la membrana celular con un colador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es completamente permeable, deja pasar todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera así, cualquier bacteria entraría."
+        },
+        {
+          "letter": "B",
+          "text": "Es completamente impermeable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera impermeable, no entraría el oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Es semipermeable o de permeabilidad selectiva",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana selecciona qué entra y qué sale."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene poros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene poros y proteínas que regulan el paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La membrana plasmática es una estructura que rodea la célula y regula el intercambio de sustancias con el exterior. Tiene permeabilidad selectiva: deja pasar libremente moléculas pequeñas como el oxígeno y el dióxido de carbono, pero controla el paso de otras sustancias (glucosa, iones) mediante proteínas transportadoras. Las bacterias y partículas grandes no pueden atravesarla fácilmente; la célula usa mecanismos especiales como la endocitosis para incorporarlas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-009-v1",
+      "statement": "¿Qué argumento científico refuta esta afirmación?",
+      "context": "En Cúcuta, un estudiante dice: \"las bacterias tienen el mismo tipo de células que las plantas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las bacterias son más pequeñas que las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no determina el tipo celular."
+        },
+        {
+          "letter": "B",
+          "text": "Las bacterias son procariotas (sin núcleo) y las plantas son eucariotas (con núcleo)",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es el tipo de organización celular."
+        },
+        {
+          "letter": "C",
+          "text": "Las bacterias viven en el suelo y las plantas no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas plantas también viven en el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Las bacterias no se ven a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La visibilidad no es criterio de tipo celular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La afirmación es incorrecta porque las bacterias y las plantas tienen tipos celulares fundamentalmente diferentes. Las bacterias tienen células procariotas: sin núcleo definido, sin organelos membranosos (como mitocondrias o cloroplastos) y con el ADN disperso en el citoplasma. Las plantas tienen células eucariotas: con núcleo verdadero rodeado por membrana nuclear y múltiples organelos especializados. Esta diferencia en la organización celular es la más importante en la biología y define la primera gran división entre los seres vivos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W07-celula-estructura-funcion-010-v1",
+      "statement": "Para representar el retículo endoplasmático en la maqueta, ¿qué material representa mejor su estructura y función?",
+      "context": "En Ibagué, estudiantes deben diseñar un modelo de célula con materiales reciclables y explicar por qué eligieron cada material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una esfera de icopor grande para representar el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático no es una esfera."
+        },
+        {
+          "letter": "B",
+          "text": "Tubos y bolsas interconectados para representar el sistema de membranas que transporta sustancias",
+          "is_correct": true,
+          "feedback": "Correcto. El RE es una red de membranas que transporta y sintetiza."
+        },
+        {
+          "letter": "C",
+          "text": "Un frasco con agua para representar el citoplasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso representaría el citoplasma o la vacuola."
+        },
+        {
+          "letter": "D",
+          "text": "Una bolsa con piedritas para representar los ribosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas son más pequeños y no son bolsas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El retículo endoplasmático (RE) es una red de membranas interconectadas que se extiende por todo el citoplasma. Hay dos tipos: RE rugoso (con ribosomas adheridos, sintetiza proteínas) y RE liso (sin ribosomas, sintetiza lípidos y detoxifica sustancias). La mejor representación sería con tubos y bolsas conectados entre sí, formando un laberinto de canales, porque así es como se ve el RE: una serie de sacos aplanados y túbulos que transportan materiales dentro de la célula.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

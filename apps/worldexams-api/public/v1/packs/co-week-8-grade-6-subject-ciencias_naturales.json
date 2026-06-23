@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.967Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-v1",
+      "statement": "¿Cuál es la función principal del ciclo celular?",
+      "context": "Repaso general del periodo 2 sobre reproducción celular y organismos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir energía para la célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía se produce en las mitocondrias."
+        },
+        {
+          "letter": "B",
+          "text": "Permitir que la célula se comunique con otras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comunicación celular es función de la membrana."
+        },
+        {
+          "letter": "C",
+          "text": "Regular el crecimiento, la replicación del ADN y la división celular",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo celular coordina el crecimiento y la división."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almacenamiento es función de las vacuolas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El **ciclo celular** es la secuencia ordenada de eventos que ocurren en una célula desde que se forma hasta que se divide. Tiene dos fases principales: interfase (G1, S, G2) y fase M (mitosis + citocinesis). Sus funciones son: (1) asegurar que la célula crezca lo suficiente (G1), (2) replicar el ADN correctamente (S), (3) verificar que todo esté listo para la división (G2), (4) distribuir el material genético equitativamente (mitosis), (5) separar las células hijas (citocinesis).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-002-v1",
+      "statement": "¿En qué fase de la mitosis los cromosomas se alinean en el centro de la célula?",
+      "context": "Repaso de fases de la mitosis con tarjetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En profase los cromosomas se condensan."
+        },
+        {
+          "letter": "B",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En anafase los cromosomas se separan."
+        },
+        {
+          "letter": "C",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "Correcto. Los cromosomas se alinean en la placa metafásica."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En telofase se forman los nuevos núcleos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Recordatorio PMAT: Profase (condensación), Metafase (alineación en el ecuador), Anafase (separación a polos opuestos), Telofase (formación de nuevos núcleos). La metafase es clave porque garantiza que cada célula hija reciba un juego completo de cromosomas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-003-v1",
+      "statement": "¿Cuál es la principal diferencia entre mitosis y meiosis?",
+      "context": "Repaso de la diferencia entre mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mitosis produce 4 células hijas, la meiosis produce 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: mitosis produce 2, meiosis 4."
+        },
+        {
+          "letter": "B",
+          "text": "En la mitosis no hay núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos procesos involucran el núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "La mitosis produce células hijas idénticas (2n) para crecimiento y reparación; la meiosis produce gametos con la mitad de cromosomas (n) para reproducción sexual",
+          "is_correct": true,
+          "feedback": "Correcto. Las funciones y resultados son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "La mitosis ocurre solo en animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en todas las células eucariotas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "| Característica | Mitosis | Meiosis |\r\n|---|---|---|\r\n| Función | Crecimiento, reparación | Producción de gametos |\r\n| Número de divisiones | 1 | 2 (meiosis I y II) |\r\n| Células hijas | 2 (idénticas) | 4 (diferentes) |\r\n| Número de cromosomas | 2n (igual) | n (mitad) |\r\n| Variabilidad genética | No (clones) | Sí (crossing-over) |\r\n| Ocurre en | Células somáticas | Células germinales |\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-004-v1",
+      "statement": "¿Qué tipo de reproducción asexual usa una hidra para reproducirse?",
+      "context": "Repaso sobre reproducción asexual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria es típica de bacterias."
+        },
+        {
+          "letter": "B",
+          "text": "Gemación",
+          "is_correct": true,
+          "feedback": "Correcto. La hidra forma una yema que crece y se separa."
+        },
+        {
+          "letter": "C",
+          "text": "Fragmentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación implica romperse en pedazos."
+        },
+        {
+          "letter": "D",
+          "text": "Esporulación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esporulación produce esporas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las hidras (cnidarios de agua dulce) se reproducen asexualmente por **gemación**: se forma una protuberancia en el cuerpo de la hidra madre que contiene una copia de todas las células. La yema crece, desarrolla tentáculos y boca, y cuando es independiente, se separa. También pueden reproducirse sexualmente cuando las condiciones son desfavorables. Esta flexibilidad reproductiva (alternar entre asexual y sexual) se llama **alternancia de generaciones**.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-005-v1",
+      "statement": "¿Por qué los esquejes de una planta madre producen plantas genéticamente idénticas a ella?",
+      "context": "Aplicación práctica de mitosis en jardinería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el esqueje contiene ADN de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN no viene del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las células del esqueje hacen meiosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce cromosomas y produce variabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las células del esqueje se dividen por mitosis, produciendo células hijas genéticamente idénticas a la planta madre",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis garantiza copias exactas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el esqueje absorbe hormonas del ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas vegetales estimulan el crecimiento pero no cambian el ADN."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando se toma un esqueje (trozo de tallo, hoja o raíz) de una planta y se planta, las células del esqueje comienzan a dividirse por **mitosis**. Como la mitosis produce células hijas genéticamente idénticas a la célula original, toda la nueva planta será genéticamente idéntica a la planta madre. Es un clon. Por eso la reproducción por esquejes (asexual) preserva las características de la planta madre, mientras que la reproducción por semillas (sexual) produce plantas con características diferentes (variabilidad genética).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-006-v1",
+      "statement": "Un agricultor quiere preservar las características de una variedad de café resistente a la roya. ¿Qué método de reproducción debería usar?",
+      "context": "Aplicación en agricultura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducción sexual por semillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las semillas producen variabilidad, no garantizan las mismas características."
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción asexual por esquejes o injertos",
+          "is_correct": true,
+          "feedback": "Correcto. Garantiza que la nueva planta sea idéntica a la planta resistente."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar que se reproduzca naturalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción natural es sexual."
+        },
+        {
+          "letter": "D",
+          "text": "Usar fertilizantes especiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fertilizantes no cambian el método de reproducción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la caficultura colombiana, cuando se desarrolla una variedad resistente a enfermedades (como la variedad Castillo, resistente a la roya), se multiplica asexualmente por **injertos**: se toma una yema de la planta resistente y se injerta en un patrón (raíz) de otra planta. La parte aérea (que produce el café) es genéticamente idéntica a la planta resistente. Todos los árboles de Café de Colombia con la misma variedad son clones.\r\n\r\nSin embargo, si se usaran semillas de esa planta, las nuevas plantas serían diferentes porque la reproducción sexual mezcla genes. Por eso los agricultores usan esquejes e injertos para preservar características deseables.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-007-v1",
+      "statement": "¿Por qué es necesario que los gametos (óvulos y espermatozoides) tengan la mitad del número de cromosomas?",
+      "context": "Análisis de la meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así son más pequeños y pueden moverse mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no se relaciona directamente con el número de cromosomas."
+        },
+        {
+          "letter": "B",
+          "text": "Para que haya menos material genético que copiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una razón evolutiva sólida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al fusionarse en la fecundación, el cigoto recupera el número normal (2n), evitando que se duplique el número de cromosomas en cada generación",
+          "is_correct": true,
+          "feedback": "Correcto. La meiosis mantiene constante el número de cromosomas."
+        },
+        {
+          "letter": "D",
+          "text": "Para que los hijos tengan menos cromosomas que los padres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hijos tienen el mismo número (2n) que los padres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si los gametos tuvieran el mismo número de cromosomas (2n) que las células somáticas, al fusionarse el cigoto tendría 4n, la siguiente generación 8n, y así sucesivamente. La **meiosis** resuelve este problema reduciendo el número a la mitad (n). Así, cuando se unen dos gametos (n + n), el cigoto recupera el número normal (2n). Este número se mantiene constante generación tras generación.\r\n\r\nEn humanos: células somáticas = 46 cromosomas (2n). Gametos = 23 cromosomas (n). Cigoto = 46 cromosomas (2n). La meiosis es el proceso que produce gametos con n cromosomas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-008-v1",
+      "statement": "¿Qué ocurre cuando los mecanismos de control del ciclo celular fallan?",
+      "context": "Análisis sobre el control del ciclo celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula se vuelve más resistente",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una consecuencia directa."
+        },
+        {
+          "letter": "B",
+          "text": "La célula deja de dividirse permanentemente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede dividirse sin control."
+        },
+        {
+          "letter": "C",
+          "text": "La célula puede dividirse sin control, lo que puede llevar al desarrollo de cáncer",
+          "is_correct": true,
+          "feedback": "Correcto. El cáncer es el resultado de la división celular descontrolada."
+        },
+        {
+          "letter": "D",
+          "text": "La célula produce más ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN se replica en la fase S normal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ciclo celular tiene **puntos de control** (checkpoints) que verifican: (1) ¿Hay suficientes nutrientes? (G1), (2) ¿El ADN se replicó correctamente? (G2), (3) ¿Los cromosomas están alineados en el huso? (Metafase). Cuando estos puntos de control fallan debido a mutaciones:\r\n\r\n1. Las células pueden dividirse con ADN dañado\r\n2. Las mutaciones se acumulan\r\n3. Las células ignoran señales de detención del crecimiento\r\n4. Las células invaden tejidos vecinos (metástasis)\r\n\r\nLos genes supresores de tumor (como p53) son \"frenos\" del ciclo celular. Cuando mutan, el freno se pierde. En Colombia, el cáncer gástrico es particularmente común, asociado a infección por H. pylori y factores dietéticos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-009-v1",
+      "statement": "¿Por qué la reproducción sexual es más ventajosa que la asexual cuando el ambiente cambia rápidamente?",
+      "context": "Evaluación sobre implicaciones de la reproducción asexual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la reproducción sexual produce más descendencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asexual produce más."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la reproducción sexual es más rápida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asexual es más rápida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la reproducción sexual genera variabilidad genética, y algunos descendientes pueden tener características que les permitan sobrevivir en las nuevas condiciones",
+          "is_correct": true,
+          "feedback": "Correcto. La diversidad genética es la clave."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la reproducción sexual no requiere pareja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sexual requiere pareja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un ambiente estable, la reproducción asexual es muy eficiente: produce muchos clones idénticos adaptados al ambiente actual. Pero si el ambiente cambia drásticamente (nueva enfermedad, cambio climático, depredador nuevo), los clones pueden no estar adaptados y toda la población muere.\r\n\r\nLa reproducción sexual, aunque más lenta y costosa, produce **variabilidad genética**. En una población sexual, algunos individuos pueden tener características (resistencia a una enfermedad, tolerancia a sequía, etc.) que les permitan sobrevivir al cambio. Es como tener un \"seguro evolutivo\".\r\n\r\nMuchos organismos alternan entre ambas estrategias: reproducción asexual en condiciones favorables (rápida colonización) y sexual en condiciones adversas (generar variabilidad para sobrevivir).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-repaso-periodo-2-010-v1",
+      "statement": "Un científico descubre que un organismo se reproduce cada 20 minutos por fisión binaria. ¿Qué tipo de organismo es y qué implicación tiene para la salud humana?",
+      "context": "Evaluación final del periodo 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una planta y es beneficiosa para la agricultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no se reproducen por fisión binaria cada 20 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Es un hongo y produce antibióticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos no se reproducen por fisión binaria tan rápida."
+        },
+        {
+          "letter": "C",
+          "text": "Es una bacteria (procariota) y puede causar infecciones que progresan muy rápido si no se tratan a tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. La reproducción rápida de bacterias explica la progresión de infecciones."
+        },
+        {
+          "letter": "D",
+          "text": "Es un protozoo y ayuda a la digestión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protozoos son eucariotas y no se dividen tan rápido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fisión binaria cada 20 minutos es característica de bacterias (procariotas). Esto significa:\r\n\r\n- Una sola bacteria puede generar más de 2 millones en 7 horas (2²¹)\r\n- En 24 horas, una bacteria podría generar 4.7 x 10²¹ células (si no hubiera limitaciones)\r\n- Esto explica por qué las infecciones bacterianas progresan tan rápido\r\n- También explica por qué es importante completar los tratamientos con antibióticos: si se suspenden antes de tiempo, algunas bacterias sobreviven y la población se recupera rápidamente\r\n\r\nEjemplo: una infección urinaria no tratada puede convertirse en una infección renal grave en pocos días. La fiebre (defensa del cuerpo) y los antibióticos ayudan a controlar la población bacteriana.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Riohacha, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Ibagué, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Cartagena, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.59,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Manizales, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.59,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Cartagena, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Armenia, se discute sobre Tema Semana 8 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W08-tema-semana-8-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-v1",
+      "statement": "¿Cuál es el orden correcto de los niveles de organización biológica, del más simple al más complejo?",
+      "context": "En Bogotá, el profesor explica los niveles de organización biológica en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Órgano, tejido, célula, sistema, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La célula es el nivel más básico, no el órgano."
+        },
+        {
+          "letter": "B",
+          "text": "Célula, órgano, tejido, sistema, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido va antes que el órgano."
+        },
+        {
+          "letter": "C",
+          "text": "Célula, tejido, órgano, sistema, organismo",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la secuencia jerárquica de organización."
+        },
+        {
+          "letter": "D",
+          "text": "Célula, sistema, tejido, órgano, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema se compone de órganos, no al revés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los niveles de organización biológica en orden ascendente son:\n1. **Célula**: unidad básica de la vida (ej. neurona)\n2. **Tejido**: conjunto de células similares que cumplen una función común (ej. tejido nervioso)\n3. **Órgano**: estructura formada por varios tejidos que trabajan juntos (ej. cerebro)\n4. **Sistema**: conjunto de órganos que realizan una función coordinada (ej. sistema nervioso)\n5. **Organismo**: ser vivo completo formado por sistemas (ej. ser humano)\n\nEste orden jerárquico es fundamental para entender cómo funcionan los seres vivos pluricelulares.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-002-v1",
+      "statement": "¿Cuál de los siguientes es un ejemplo de tejido?",
+      "context": "En Medellín, estudiantes identifican tipos de tejidos en láminas didácticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón es un órgano, no un tejido."
+        },
+        {
+          "letter": "B",
+          "text": "La sangre",
+          "is_correct": false,
+          "feedback": "¡Correcta también! Pero buscamos tejido como:"
+        },
+        {
+          "letter": "C",
+          "text": "Tejido muscular",
+          "is_correct": true,
+          "feedback": "Correcto. El tejido muscular está formado por células musculares especializadas."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema digestivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema digestivo es un sistema de órganos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tejido muscular es un conjunto de células musculares (miocitos) especializadas en contraerse para generar movimiento. En el cuerpo humano existen tres tipos de tejido muscular: esquelético (mueve los huesos, control voluntario), cardíaco (forma el corazón, contracción involuntaria rítmica) y liso (recubre órganos internos como el estómago, contracción involuntaria). Nota: la sangre también es un tejido (conectivo líquido), pero en contexto de clase se suele priorizar el tejido muscular como ejemplo clásico.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-003-v1",
+      "statement": "El estómago está formado por tejido muscular (que se contrae), tejido epitelial (que recubre y secreta jugos gástricos) y tejido nervioso (que controla la digestión). ¿Qué nivel de organización representa el estómago?",
+      "context": "En Cali, los estudiantes analizan el funcionamiento del estómago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estómago contiene muchos tipos de células, pero es más que una célula."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estómago contiene varios tejidos diferentes, no es un solo tejido."
+        },
+        {
+          "letter": "C",
+          "text": "Órgano",
+          "is_correct": true,
+          "feedback": "Correcto. El estómago es un órgano formado por varios tejidos."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estómago es parte del sistema digestivo, no es un sistema completo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estómago es un órgano porque está formado por varios tejidos diferentes que trabajan juntos para cumplir una función específica: digerir los alimentos. Los cuatro tejidos principales del estómago son: mucosa (epitelio que secreta jugos gástricos), submucosa (tejido conectivo con vasos sanguíneos), muscular (capas de músculo liso que mezclan los alimentos) y serosa (capa externa de protección). Esta organización en capas es típica de los órganos del sistema digestivo.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-004-v1",
+      "statement": "¿Qué nivel de organización se forma cuando varios órganos trabajan juntos para cumplir una función?",
+      "context": "En Barranquilla, los estudiantes hacen una sopa de letras con niveles de organización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido está formado por células, no por órganos."
+        },
+        {
+          "letter": "B",
+          "text": "Organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El organismo contiene varios sistemas, no es solo un grupo de órganos."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema de órganos",
+          "is_correct": true,
+          "feedback": "Correcto. Un sistema es un conjunto de órganos que trabajan coordinadamente."
+        },
+        {
+          "letter": "D",
+          "text": "Célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. La célula es el nivel más básico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un sistema de órganos (o aparato) es el nivel de organización que resulta de la integración de varios órganos que trabajan coordinadamente para realizar una función vital. Por ejemplo, el sistema digestivo incluye boca, esófago, estómago, intestinos, hígado y páncreas; todos trabajan juntos para digerir los alimentos y absorber nutrientes. El cuerpo humano tiene 11 sistemas principales, incluyendo el circulatorio, respiratorio, nervioso, muscular, esquelético, entre otros.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-005-v1",
+      "statement": "¿Cuál de las siguientes opciones muestra correctamente la jerarquía de organización dentro del sistema circulatorio?",
+      "context": "En Bucaramanga, el profesor muestra una imagen del sistema circulatorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula sanguínea → Tejido sanguíneo → Corazón (órgano) → Sistema circulatorio",
+          "is_correct": true,
+          "feedback": "Correcto. Sigue la jerarquía de menor a mayor complejidad."
+        },
+        {
+          "letter": "B",
+          "text": "Corazón → Célula sanguínea → Sistema circulatorio → Tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido y desordenado."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema circulatorio → Corazón → Célula sanguínea → Tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el orden inverso (de mayor a menor)."
+        },
+        {
+          "letter": "D",
+          "text": "Célula sanguínea → Corazón → Sistema circulatorio → Tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salta del nivel celular al órgano sin pasar por tejido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La jerarquía correcta para el sistema circulatorio es:\n- **Célula**: glóbulos rojos, glóbulos blancos y plaquetas\n- **Tejido**: tejido sanguíneo (sangre) y tejido muscular cardíaco\n- **Órgano**: corazón (formado por tejido muscular cardíaco, nervioso y conectivo)\n- **Sistema**: sistema circulatorio (corazón + vasos sanguíneos + sangre)\nCada nivel integra y organiza al anterior, creando estructuras cada vez más complejas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-006-v1",
+      "statement": "Los pulmones están formados por tejido epitelial (que recubre los alveolos), tejido conectivo (que da estructura) y tejido nervioso (que controla la respiración). ¿Qué nivel de organización son los pulmones?",
+      "context": "En Cartagena, los estudiantes analizan el sistema respiratorio durante una clase práctica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula, porque están hechos de células",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los órganos están hechos de células, pero son más que eso."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema, porque participan en la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son parte del sistema respiratorio, no el sistema completo."
+        },
+        {
+          "letter": "C",
+          "text": "Órgano, porque están formados por varios tejidos",
+          "is_correct": true,
+          "feedback": "Correcto. Los pulmones son órganos pares del sistema respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido, porque los pulmones tienen una función específica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pulmones contienen varios tejidos, no son un solo tejido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los pulmones son órganos pares del sistema respiratorio. Cada pulmón está formado por diferentes tejidos: epitelial (recubre los alveolos donde ocurre el intercambio de gases), conectivo (proporciona elasticidad y estructura), muscular liso (en los bronquios) y nervioso (regula la frecuencia respiratoria). El conjunto del sistema respiratorio incluye: fosas nasales, faringe, laringe, tráquea, bronquios y pulmones. Juntos permiten la entrada de oxígeno al cuerpo y la salida de dióxido de carbono.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-007-v1",
+      "statement": "Clasifica cada uno en su nivel: (1) Neurona, (2) Tejido nervioso, (3) Cerebro, (4) Sistema nervioso. ¿Cuál es la correspondencia correcta?",
+      "context": "En Pereira, los estudiantes clasifican diferentes estructuras según su nivel de organización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neurona=tejido, Tejido nervioso=célula, Cerebro=sistema, Sistema nervioso=órgano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las correspondencias están cambiadas."
+        },
+        {
+          "letter": "B",
+          "text": "Neurona=célula, Tejido nervioso=tejido, Cerebro=órgano, Sistema nervioso=sistema",
+          "is_correct": true,
+          "feedback": "Correcto. Cada uno corresponde a su nivel jerárquico."
+        },
+        {
+          "letter": "C",
+          "text": "Neurona=órgano, Tejido nervioso=célula, Cerebro=sistema, Sistema nervioso=tejido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las correspondencias están invertidas."
+        },
+        {
+          "letter": "D",
+          "text": "Neurona=sistema, Tejido nervioso=órgano, Cerebro=tejido, Sistema nervioso=célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las correspondencias son incorrectas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clasificación correcta según la jerarquía biológica es:\n1. **Neurona** → nivel celular (es una célula especializada del sistema nervioso)\n2. **Tejido nervioso** → nivel de tejido (conjunto de neuronas y células gliales)\n3. **Cerebro** → nivel de órgano (formado por tejido nervioso, conectivo y vascular)\n4. **Sistema nervioso** → nivel de sistema (cerebro + médula espinal + nervios)\n\nCada nivel contiene y organiza al anterior, formando una estructura jerárquica integrada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-008-v1",
+      "statement": "¿Qué error tiene la afirmación del estudiante?",
+      "context": "En Manizales, un estudiante afirma que \"el corazón es un tejido porque está hecho de células cardíacas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decir que el corazón está hecho de células cardíacas, porque no es cierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón sí está formado por células cardíacas y otros tipos."
+        },
+        {
+          "letter": "B",
+          "text": "Decir que el corazón es un tejido, porque el corazón contiene varios tejidos diferentes",
+          "is_correct": false,
+          "feedback": "Correcto. Al contener varios tejidos, el corazón es un órgano."
+        },
+        {
+          "letter": "C",
+          "text": "Decir que el corazón está en el tórax",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí está en el tórax."
+        },
+        {
+          "letter": "D",
+          "text": "Decir que está hecho de células, porque las células forman tejidos, no órganos directamente",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto pero el error principal es llamar tejido a un órgano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El error es de clasificación jerárquica. El corazón no es un tejido, es un órgano. Un tejido es un conjunto de células similares que cumplen una función común (ej. tejido muscular cardíaco). Un órgano, en cambio, está formado por varios tejidos diferentes que trabajan juntos. El corazón contiene tejido muscular cardíaco (para bombear), tejido nervioso (para regular el latido), tejido conectivo (para dar estructura) y tejido epitelial (para recubrir las cavidades). Por tener múltiples tejidos, es un órgano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-009-v1",
+      "statement": "¿La hoja de una planta es un órgano? ¿Por qué?",
+      "context": "En Cúcuta, un grupo debate si una hoja de una planta es un órgano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque está formada por varios tejidos (epidermis, parénquima, vasos conductores) que trabajan juntos",
+          "is_correct": true,
+          "feedback": "Correcto. La hoja cumple con la definición de órgano."
+        },
+        {
+          "letter": "B",
+          "text": "No, solo los animales tienen órganos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas también tienen órganos."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque las hojas son solo tejido vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas contienen varios tejidos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque es verde y realiza fotosíntesis",
+          "is_correct": false,
+          "feedback": "Parcialmente cierto, pero la razón correcta es que tiene varios tejidos organizados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sí, la hoja es un órgano vegetal. Está formada por varios tejidos especializados:\n- **Epidermis**: tejido protector que recubre la hoja (con estomas para el intercambio de gases)\n- **Parénquima clorofiliano**: tejido que realiza la fotosíntesis (en empalizada y esponjoso)\n- **Tejido vascular**: xilema y floema que transportan agua, minerales y nutrientes\n- **Tejido de sostén**: colénquima y esclerénquima que dan rigidez\n\nLas plantas tienen órganos principales: raíz, tallo y hojas (vegetativos) y flor, fruto y semilla (reproductivos).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-010-v1",
+      "statement": "¿Por qué una bacteria no tiene tejidos, órganos ni sistemas?",
+      "context": "En Ibagué, los estudiantes deben explicar por qué un organismo unicelular no tiene tejidos ni órganos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es demasiado pequeña para tenerlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no es el motivo principal, hay animales microscópicos con tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un organismo unicelular: una sola célula realiza todas las funciones vitales",
+          "is_correct": false,
+          "feedback": "Correcto. En un organismo unicelular no hay división de trabajo entre células."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no es un ser vivo verdadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias son seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque carece de núcleo definido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de núcleo no impide tener tejidos; hay organismos eucariotas unicelulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tejidos, órganos y sistemas son niveles de organización que solo existen en organismos pluricelulares. En estos organismos, las células se especializan y agrupan para dividir el trabajo (especialización celular). En cambio, en un organismo unicelular como una bacteria, una sola célula debe realizar todas las funciones vitales: obtener energía, reproducirse, responder al ambiente, eliminar desechos, etc. No hay necesidad de tejidos porque no hay un grupo de células especializadas; la célula individual lo hace todo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

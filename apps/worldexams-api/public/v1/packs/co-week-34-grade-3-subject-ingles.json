@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-34-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.666Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v1",
+      "statement": "In which sport do you **kick** a ball into a **goal** (arco)? ⚽",
+      "context": "Playing with a ball and feet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Basketball",
+          "is_correct": false,
+          "feedback": "Incorrect. You use your hands in basketball."
+        },
+        {
+          "letter": "B",
+          "text": "Soccer",
+          "is_correct": true,
+          "feedback": "Correct! Soccer is the most popular sport in Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Tennis",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Swimming",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Soccer\" (fútbol) es el deporte donde se patea un balón para anotar goles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v2",
+      "statement": "What sport do you do in a **swimming pool**? 🏊‍♂️",
+      "context": "Sport in a pool.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Swimming",
+          "is_correct": true,
+          "feedback": "Correct! Swimming is the sport of moving through water."
+        },
+        {
+          "letter": "B",
+          "text": "Baseball",
+          "is_correct": false,
+          "feedback": "Incorrect. Baseball is played on a field."
+        },
+        {
+          "letter": "C",
+          "text": "Cycling",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Soccer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Swimming\" significa natación. Es la actividad física que se realiza en el agua.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v3",
+      "statement": "In this sport, you **throw** the ball into a high **hoop** (aro). 🏀",
+      "context": "Using hands and a hoop.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soccer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Basketball",
+          "is_correct": true,
+          "feedback": "Correct! Basketball involves throwing the ball into a hoop."
+        },
+        {
+          "letter": "C",
+          "text": "Tennis",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Running",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Basketball\" (baloncesto) se juega encestando el balón en un aro elevado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v4",
+      "statement": "What sport uses a **bicycle** and is very famous in Colombia? 🚲",
+      "context": "Cycling in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Skating",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cycling",
+          "is_correct": true,
+          "feedback": "Correct! Cycling is very popular in Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Golf",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Volleyball",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Cycling\" (ciclismo) es el deporte de montar en bicicleta, muy importante en la cultura deportiva colombiana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v5",
+      "statement": "To play **Tennis**, you need a ball and a... 🎾",
+      "context": "Using a racket.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bat",
+          "is_correct": false,
+          "feedback": "Incorrect. Baseball uses a bat."
+        },
+        {
+          "letter": "B",
+          "text": "Racket",
+          "is_correct": true,
+          "feedback": "Correct! You hit the ball with a racket in tennis."
+        },
+        {
+          "letter": "C",
+          "text": "Helmet",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Goal",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Racket\" significa raqueta. Es el implemento necesario para golpear la pelota en el tenis.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v6",
+      "statement": "When you go **cycling** or **skating**, what do you wear on your **head** for safety? 🪖",
+      "context": "Safety equipment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A helmet",
+          "is_correct": true,
+          "feedback": "Correct! A helmet protects your head."
+        },
+        {
+          "letter": "B",
+          "text": "A hat",
+          "is_correct": false,
+          "feedback": "Incorrect. A hat doesn't protect from falls."
+        },
+        {
+          "letter": "C",
+          "text": "A cap",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "A glove",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Helmet\" significa casco. Es un elemento de seguridad vital para deportes de velocidad o impacto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v7",
+      "statement": "You are at the **track**. You are moving very fast on your **feet**. You are... 🏃‍♀️",
+      "context": "Identifying sport by action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Swimming",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Jumping",
+          "is_correct": false,
+          "feedback": "Incorrect. Jumping is up and down."
+        },
+        {
+          "letter": "C",
+          "text": "Running",
+          "is_correct": true,
+          "feedback": "Correct! Running is moving fast on foot."
+        },
+        {
+          "letter": "D",
+          "text": "Playing chess",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Running\" (correr o atletismo) consiste en desplazarse velozmente a pie.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v8",
+      "statement": "Which group of sports **always** uses a **ball**?",
+      "context": "Grouping sports by equipment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soccer, Basketball, Tennis",
+          "is_correct": true,
+          "feedback": "Correct! All three need a ball."
+        },
+        {
+          "letter": "B",
+          "text": "Swimming, Running, Cycling",
+          "is_correct": false,
+          "feedback": "Incorrect. These don't need a ball."
+        },
+        {
+          "letter": "C",
+          "text": "Skating, Dancing, Jumping",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Karate, Boxing, Running",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los elementos necesarios para cada deporte. El fútbol, baloncesto y tenis son deportes de pelota (ball games).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v9",
+      "statement": "You have **wheels** on the bottom of your **shoes**. You are practicing... ⛸️",
+      "context": "Identifying sport by shoes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soccer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Skating",
+          "is_correct": true,
+          "feedback": "Correct! Skating uses shoes with wheels (skates)."
+        },
+        {
+          "letter": "C",
+          "text": "Cycling",
+          "is_correct": false,
+          "feedback": "Incorrect. You are on a bike, not wheels on shoes."
+        },
+        {
+          "letter": "D",
+          "text": "Basketball",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el equipo especializado. El patinaje (Skating) se realiza con patines, que son calzado con ruedas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v10",
+      "statement": "In **Soccer**, you play with **11 people** on your team. Is it an **individual** or a **team** sport?",
+      "context": "Understanding teamwork.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Individual sport",
+          "is_correct": false,
+          "feedback": "Incorrect. You need many people."
+        },
+        {
+          "letter": "B",
+          "text": "Team sport",
+          "is_correct": true,
+          "feedback": "Correct! Working with other people makes it a team sport."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sport",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la naturaleza social del deporte. Los deportes que se juegan en grupo se denominan \"Team sports\" (deportes de equipo).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

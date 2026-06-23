@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-3-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:16.965Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v1",
+      "statement": "Hay 4 bolsas con 3 manzanas cada una. Que operacion calcula el total?",
+      "context": "En Colegio San Agustin de Sincelejo de Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 + 3 = 7",
+          "is_correct": false,
+          "feedback": "No es suma. Son 4 grupos de 3."
+        },
+        {
+          "letter": "B",
+          "text": "4 x 3 = 12",
+          "is_correct": true,
+          "feedback": "Correcto! 4 grupos de 3 = 4 x 3 = 12."
+        },
+        {
+          "letter": "C",
+          "text": "4 - 3 = 1",
+          "is_correct": false,
+          "feedback": "La resta no calcula totales."
+        },
+        {
+          "letter": "D",
+          "text": "4 ÷ 3",
+          "is_correct": false,
+          "feedback": "La division no calcula totales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicacion es suma abreviada. 4 grupos de 3 = 3+3+3+3 = 4x3 = 12.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.95,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v2",
+      "statement": "En el parque hay 7 arboles, cada uno con 5 pajaros. Cuantos pajaros hay?",
+      "context": "En Colegio Nuestra Senora del Rosario de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto! 7 x 5 = 35."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "7+5=12. Aqui se multiplica."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "5x5=25. Son 7 arboles."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "7x5=35, no 40."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Grupos iguales: 7 arboles x 5 pajaros = 35 pajaros.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.91,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v3",
+      "statement": "Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?",
+      "context": "En Colegio Simon Bolivar de Bucaramanga de Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto! 24 ÷ 6 = 4 cartones."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6x6=36 huevos, son mas de 24."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "3x6=18 huevos, le sobran 6."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "8x6=48 huevos, el doble."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v4",
+      "statement": "Hay 36 estudiantes en 4 equipos iguales. Cuantos por equipo?",
+      "context": "En Colegio San Luis Gonzaga de Manizales de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto! 36 ÷ 4 = 9."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "8x4=32, no 36. 9x4=36."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6x4=24, no alcanza."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "10x4=40, se pasa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reparto: 36 ÷ 4 = 9. Verifica: 9 x 4 = 36.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v5",
+      "statement": "Cuanto es 7 x 3?",
+      "context": "En Colegio San Bartolome de Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "Correcto! 7x3=21."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "7+3=10. Multiplicacion es diferente."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "8x3=24. 7x3=21."
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "7x4=28. Aqui es 7x3=21."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tabla del 3: 3,6,9,12,15,18,21. 7x3=21.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v6",
+      "statement": "6 empanadas a $1.500 cada una. Cuanto cuestan?",
+      "context": "En Colegio El Rosario de Ibague de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9.000",
+          "is_correct": true,
+          "feedback": "Correcto! 6 x 1.500 = 9.000."
+        },
+        {
+          "letter": "B",
+          "text": "$7.500",
+          "is_correct": false,
+          "feedback": "5x1.500=7.500. Son 6."
+        },
+        {
+          "letter": "C",
+          "text": "$10.500",
+          "is_correct": false,
+          "feedback": "7x1.500=10.500. Son 6."
+        },
+        {
+          "letter": "D",
+          "text": "$8.000",
+          "is_correct": false,
+          "feedback": "1.500x6. Separa: 1.000x6=6.000, 500x6=3.000. Total:9.000."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1.500 x 6 = (1.000x6) + (500x6) = 6.000 + 3.000 = 9.000.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v7",
+      "statement": "Maria dice: \"6x4=24, entonces 24÷4=6\". Es correcto?",
+      "context": "En Colegio San Luis Gonzaga de Manizales de Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, son operaciones inversas",
+          "is_correct": true,
+          "feedback": "Correcto! Multiplicacion y division son inversas."
+        },
+        {
+          "letter": "B",
+          "text": "No, da otro resultado",
+          "is_correct": false,
+          "feedback": "Si, es correcto. 24÷4=6."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si usamos 6x4=24",
+          "is_correct": false,
+          "feedback": "Siempre se cumple."
+        },
+        {
+          "letter": "D",
+          "text": "No, 24÷4=8",
+          "is_correct": false,
+          "feedback": "24÷4=6. 8x4=32."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si a x b = c, entonces c ÷ b = a. 6x4=24, entonces 24÷4=6.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v8",
+      "statement": "3 paquetes de galletas a $2.500. Paga con $10.000. Vuelto?",
+      "context": "En Liceo Nacional San Mateo de Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.500",
+          "is_correct": true,
+          "feedback": "Correcto! 3x2.500=7.500. 10.000-7.500=2.500."
+        },
+        {
+          "letter": "B",
+          "text": "$3.000",
+          "is_correct": false,
+          "feedback": "3x2.500=7.500. 10.000-7.500=2.500."
+        },
+        {
+          "letter": "C",
+          "text": "$1.500",
+          "is_correct": false,
+          "feedback": "10.000-7.500=2.500."
+        },
+        {
+          "letter": "D",
+          "text": "$5.000",
+          "is_correct": false,
+          "feedback": "Gasto:7.500, no 5.000."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Total:3x2.500=7.500. Vuelto:10.000-7.500=2.500.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v9",
+      "statement": "La profesora reparte 15 lapices entre 3 estudiantes. Que operacion?",
+      "context": "En Colegio Nuestra Senora del Rosario de Popayan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 x 3 = 45",
+          "is_correct": false,
+          "feedback": "No es multiplicacion."
+        },
+        {
+          "letter": "B",
+          "text": "15 - 3 = 12",
+          "is_correct": false,
+          "feedback": "No es resta."
+        },
+        {
+          "letter": "C",
+          "text": "15 ÷ 3 = 5",
+          "is_correct": true,
+          "feedback": "Correcto! Reparto equitativo = division."
+        },
+        {
+          "letter": "D",
+          "text": "15 + 3 = 18",
+          "is_correct": false,
+          "feedback": "No es suma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reparto en partes iguales = division. 15 ÷ 3 = 5 lapices cada uno.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-v10",
+      "statement": "En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?",
+      "context": "En Colegio San Agustin de Sincelejo de Medellin",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto! 8x4=32 sillas."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "8+4=12. Hay grupos iguales, se multiplica."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "4x4=16. Son 8 mesas."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "6x4=24. Son 8 mesas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "8 mesas x 4 sillas = 8x4 = 32 sillas.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

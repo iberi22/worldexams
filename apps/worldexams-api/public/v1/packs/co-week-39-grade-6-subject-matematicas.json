@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.058Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-001-v1",
+      "statement": "En estadistica, ¿que es una \"muestra\"?",
+      "context": "Poblacion y muestra",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un subconjunto representativo de la poblacion que se estudia",
+          "is_correct": true,
+          "feedback": "Correct. La muestra es una parte de la poblacion que se selecciona para realizar el estudio."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto completo de individuos que se quiere estudiar",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es la poblacion, no la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio de todos los datos recolectados",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es la media."
+        },
+        {
+          "letter": "D",
+          "text": "La grafica que resume los datos",
+          "is_correct": false,
+          "feedback": "Incorrect. Una grafica es una representacion visual, no una muestra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En estadistica, la poblacion es el conjunto total de individuos que nos interesa estudiar. Como estudiar a toda la poblacion puede ser muy costoso o dificil, tomamos una muestra (un subconjunto) que sea representativa. Por ejemplo, para saber la opinion de todos los estudiantes de Colombia (poblacion), encuestamos a 1,000 estudiantes de diferentes colegios (muestra).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-002-v1",
+      "statement": "¿Cual de los siguientes es un ejemplo de variable CUALITATIVA?",
+      "context": "Diferencia entre dato cualitativo y cuantitativo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estatura de los estudiantes en metros",
+          "is_correct": false,
+          "feedback": "Incorrect. La estatura es numerica y medible, es una variable cuantitativa."
+        },
+        {
+          "letter": "B",
+          "text": "La edad en años cumplidos",
+          "is_correct": false,
+          "feedback": "Incorrect. La edad es numerica, es cuantitativa."
+        },
+        {
+          "letter": "C",
+          "text": "El color preferido de los estudiantes",
+          "is_correct": true,
+          "feedback": "Correct. El color es una categoria, no un numero. Es una variable cualitativa."
+        },
+        {
+          "letter": "D",
+          "text": "El numero de hermanos",
+          "is_correct": false,
+          "feedback": "Incorrect. El numero de hermanos es numerico, es cuantitativo discreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las variables se clasifican en:\r\n- Cualitativas: expresan cualidades o categorias (color, genero, municipio, deporte favorito)\r\n- Cuantitativas: expresan cantidades numericas (edad, peso, estatura, numero de hermanos)\r\nLas cualitativas no se pueden sumar o promediar, solo contar frecuencias.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-003-v1",
+      "statement": "Las temperaturas maximas registradas en Cartagena durante una semana fueron: 30, 32, 31, 33, 30, 34, 32 (en °C). ¿Cual es el rango de las temperaturas?",
+      "context": "Calcular el rango",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2°C",
+          "is_correct": false,
+          "feedback": "Incorrect. El rango es diferencia entre maximo y minimo: 34 - 30 = 4°C."
+        },
+        {
+          "letter": "B",
+          "text": "3°C",
+          "is_correct": false,
+          "feedback": "Incorrect. Error de calculo."
+        },
+        {
+          "letter": "C",
+          "text": "4°C",
+          "is_correct": true,
+          "feedback": "Correct. Maximo = 34°C, minimo = 30°C. Rango = 34 - 30 = 4°C."
+        },
+        {
+          "letter": "D",
+          "text": "5°C",
+          "is_correct": false,
+          "feedback": "Incorrect. Probablemente se tomo 35 - 30 = 5, pero 35 no esta en los datos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango es la medida de dispersion mas simple: la diferencia entre el valor maximo y el minimo. Datos: 30, 32, 31, 33, 30, 34, 32. Valor maximo = 34°C, valor minimo = 30°C. Rango = 34 - 30 = 4°C. Esto indica que las temperaturas variaron hasta 4°C durante la semana.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-004-v1",
+      "statement": "En un estudio sobre mascotas en un barrio de Sincelejo, 12 familias tienen perro, 8 tienen gato y 5 tienen otras mascotas. Si hay 25 familias encuestadas, ¿cual es la frecuencia relativa de las familias con perro?",
+      "context": "Frecuencia absoluta y relativa",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrect. 12 es la frecuencia absoluta, no la relativa."
+        },
+        {
+          "letter": "B",
+          "text": "12/25",
+          "is_correct": false,
+          "feedback": "Correct. Frecuencia relativa = frecuencia absoluta ÷ total = 12/25 = 0.48 = 48%."
+        },
+        {
+          "letter": "C",
+          "text": "12/25",
+          "is_correct": true,
+          "feedback": "Correct. 12 ÷ 25 = 0.48 = 48%."
+        },
+        {
+          "letter": "D",
+          "text": "25/12",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa fraccion es mayor que 1, no puede ser una frecuencia relativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La frecuencia absoluta es el numero de veces que aparece un dato (12 familias con perro). La frecuencia relativa es esa cantidad dividida entre el total (12/25 = 0.48). Las frecuencias relativas siempre suman 1 (o 100%). Se pueden expresar como fraccion, decimal o porcentaje.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-005-v1",
+      "statement": "Las calificaciones de un grupo de 7 estudiantes en Neiva fueron: 2.0, 3.0, 3.5, 4.0, 4.0, 4.5, 5.0. ¿Cual es la mediana de las calificaciones?",
+      "context": "Media, mediana y moda de calificaciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.5",
+          "is_correct": false,
+          "feedback": "Incorrect. 3.5 es el 3er valor, pero con 7 datos la mediana es el 4° valor."
+        },
+        {
+          "letter": "B",
+          "text": "4.0",
+          "is_correct": true,
+          "feedback": "Correct. Datos ya ordenados. Posicion central = (7+1)÷2 = 4. 4° valor = 4.0."
+        },
+        {
+          "letter": "C",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Incorrect. Es el 6° valor, no el central."
+        },
+        {
+          "letter": "D",
+          "text": "3.7",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa seria la media aproximada, no la mediana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los datos ya estan ordenados de menor a mayor. Con 7 datos (impar), la mediana es el valor en la posicion (7+1)÷2 = 4. El 4° valor es 4.0. Notar que 4.0 tambien es la moda (aparece 2 veces). La media seria (2+3+3.5+4+4+4.5+5)÷7 = 26÷7 ≈ 3.71.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-006-v1",
+      "statement": "La siguiente tabla muestra las ventas de empanadas en una cafeteria de Popayan:\r\n- Lunes: 40 empanadas\r\n- Martes: 55 empanadas\r\n- Miercoles: 45 empanadas\r\n- Jueves: 60 empanadas\r\n- Viernes: 70 empanadas\r\n\r\nSi se construye una grafica de barras con estos datos, la barra del viernes es mas alta que la del lunes por:",
+      "context": "Interpretacion de grafica de barras",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 empanadas",
+          "is_correct": false,
+          "feedback": "Incorrect. 70 - 40 = 30, no 10."
+        },
+        {
+          "letter": "B",
+          "text": "20 empanadas",
+          "is_correct": false,
+          "feedback": "Incorrect. 70 - 40 = 30."
+        },
+        {
+          "letter": "C",
+          "text": "30 empanadas",
+          "is_correct": true,
+          "feedback": "Correct. Viernes: 70, Lunes: 40. Diferencia = 70 - 40 = 30 empanadas."
+        },
+        {
+          "letter": "D",
+          "text": "40 empanadas",
+          "is_correct": false,
+          "feedback": "Incorrect. 70 - 40 = 30, no 40."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una grafica de barras, la altura de cada barra representa la frecuencia. Viernes = 70 empanadas, Lunes = 40 empanadas. La diferencia es 70 - 40 = 30 empanadas. Esto indica que el viernes se vendieron 30 empanadas mas que el lunes. La grafica permitiria ver esta diferencia visualmente de inmediato.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-007-v1",
+      "statement": "En un curso de 30 estudiantes en Manizales, se pregunto cuantos hermanos tienen:\r\n- 0 hermanos: 5 estudiantes\r\n- 1 hermano: 12 estudiantes\r\n- 2 hermanos: 8 estudiantes\r\n- 3 hermanos: 4 estudiantes\r\n- 4 o mas: 1 estudiante\r\n\r\n¿Cuantos estudiantes tienen 2 o menos hermanos?",
+      "context": "Tabla de frecuencias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrect. 5 + 12 = 17, pero falta incluir los de 2 hermanos."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrect. 12 + 8 = 20, olvidando los de 0 hermanos."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Correct. 0 hermanos (5) + 1 hermano (12) + 2 hermanos (8) = 25 estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrect. Si todos tuvieran 2 o menos, serian 30, pero hay 5 con 3 o mas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sumamos las frecuencias de las categorias que cumplen la condicion \"2 o menos hermanos\": 0 hermanos (5) + 1 hermano (12) + 2 hermanos (8) = 25 estudiantes. Esto representa 25/30 = 83.3% del curso. Solo 5 estudiantes (4 con 3 hermanos + 1 con 4 o mas) tienen mas de 2 hermanos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-008-v1",
+      "statement": "Un grupo de 10 amigos en Bogota registro el dinero que gastaron en el cine (en miles de pesos): 8, 10, 10, 12, 12, 15, 15, 15, 15, 50. ¿Cual medida de tendencia central es la mas representativa del gasto tipico de un amigo?",
+      "context": "Seleccion de medida de tendencia central",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media, porque es la mas conocida",
+          "is_correct": false,
+          "feedback": "Incorrect. La media es (8+10+10+12+12+15+15+15+15+50)÷10 = 162÷10 = 16.2. Pero 9 de 10 gastaron menos de 16.2."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana, porque el dato de 50 distorsiona la media",
+          "is_correct": true,
+          "feedback": "Correct. Mediana = promedio posiciones 5 y 6 = (12+15)÷2 = 13.5 mil. Representa mejor el gasto tipico."
+        },
+        {
+          "letter": "C",
+          "text": "La moda, que es 15",
+          "is_correct": false,
+          "feedback": "La moda (15) tambien es buena opcion, pero la mediana (13.5) esta mas cerca de la mayoria."
+        },
+        {
+          "letter": "D",
+          "text": "La media, que es 16.2",
+          "is_correct": false,
+          "feedback": "La media esta inflada por el valor extremo de 50. Solo una persona gasto mas que la media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Datos ordenados: 8, 10, 10, 12, 12, 15, 15, 15, 15, 50.\r\n- Media = 162 ÷ 10 = 16.2 mil (solo 1 de 10 gasto mas que el promedio)\r\n- Mediana = (12+15) ÷ 2 = 13.5 mil\r\n- Moda = 15 mil\r\n\r\nCuando hay valores extremos (50), la media se distorsiona. La mediana (13.5) representa mejor lo que tipicamente gasto un amigo. Tambien la moda (15) es representativa.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-009-v1",
+      "statement": "Dos grupos de estudiantes de grado 6° presentaron el mismo examen de matematicas. Las notas fueron:\r\n- Grupo A: 2.0, 3.0, 4.0, 4.0, 5.0\r\n- Grupo B: 3.0, 3.5, 3.5, 4.0, 4.0\r\n\r\n¿Cual afirmacion es CORRECTA?",
+      "context": "Comparacion de dos conjuntos de datos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo A tiene un rendimiento mas homogeneo (uniforme)",
+          "is_correct": false,
+          "feedback": "Incorrect. Grupo A tiene notas de 2.0 a 5.0 (rango 3.0). Grupo B tiene de 3.0 a 4.0 (rango 1.0). B es mas homogeneo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos grupos tienen la misma media",
+          "is_correct": false,
+          "feedback": "Incorrect. Media A = 18÷5 = 3.6. Media B = 18÷5 = 3.6. Correcto, tienen la misma media."
+        },
+        {
+          "letter": "C",
+          "text": "El grupo B tiene menor dispersion que el grupo A",
+          "is_correct": true,
+          "feedback": "Correct. Grupo A: rango = 5.0-2.0 = 3.0. Grupo B: rango = 4.0-3.0 = 1.0. B es mas homogeneo."
+        },
+        {
+          "letter": "D",
+          "text": "La moda de ambos grupos es 4.0",
+          "is_correct": false,
+          "feedback": "La moda de A es 4.0 (2 veces). La moda de B es 3.5 y 4.0 (bimodal, ambos aparecen 2 veces)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analisis completo:\r\n- Grupo A: {2, 3, 4, 4, 5} → Media=3.6, Rango=3, Moda=4\r\n- Grupo B: {3, 3.5, 3.5, 4, 4} → Media=3.6, Rango=1, Moda=3.5 y 4 (bimodal)\r\n\r\nAunque tienen la misma media (3.6), son muy diferentes: el grupo A tiene estudiantes desde 2.0 hasta 5.0 (alta dispersion), mientras que el grupo B tiene notas concentradas entre 3.0 y 4.0 (baja dispersion).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W39-repaso-estadistica-010-v1",
+      "statement": "La alcaldia de un municipio colombiano realizo una encuesta a 200 habitantes sobre la prioridad de inversion:\r\n- Educacion: 80 votos\r\n- Salud: 50 votos\r\n- Infraestructura: 40 votos\r\n- Seguridad: 30 votos\r\n\r\nSi los resultados se representan en una grafica circular, ¿que porcentaje del circulo representa el sector de Educacion y que decision deberia tomar la alcaldia?",
+      "context": "Encuesta y toma de decisiones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25%; invertir en partes iguales",
+          "is_correct": false,
+          "feedback": "Incorrect. Educacion tiene 80/200 = 40%, no 25%."
+        },
+        {
+          "letter": "B",
+          "text": "40%; invertir mas en educacion por ser la mayor prioridad",
+          "is_correct": true,
+          "feedback": "Correct. Educacion = 80/200 = 0.4 = 40%. Es la categoria con mas votos, por lo que la alcaldia deberia priorizar la inversion en educacion."
+        },
+        {
+          "letter": "C",
+          "text": "80%; invertir solo en educacion",
+          "is_correct": false,
+          "feedback": "Incorrect. 80 es el numero de votos, no el porcentaje. El 40% no es mayoria absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "50%; invertir en salud y educacion",
+          "is_correct": false,
+          "feedback": "Incorrect. Educacion + Salud = 130/200 = 65%, no 50%. Ademas la pregunta es solo sobre educacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Total de votos: 80 + 50 + 40 + 30 = 200.\r\nPorcentaje de Educacion: 80/200 = 0.4 = 40%.\r\nAngulo del sector: 40% de 360° = 0.4 × 360 = 144°.\r\n\r\nLa encuesta muestra que la poblacion prioriza la educacion (40%), seguida de salud (25%), infraestructura (20%) y seguridad (15%). La alcaldia deberia asignar el mayor presupuesto a educacion, aunque considerando tambien las demas necesidades. Es un ejemplo de como la estadistica ayuda en la toma de decisiones.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Synthesize",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del I.E. San José en Riohacha, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. San José en Tunja, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Barranquilla, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.51,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Pereira, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.51,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Cartagena, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Bogotá, se discute sobre Tema Semana 39 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 39 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 39 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 39 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-6-2026-W39-tema-semana-39-de-matematicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

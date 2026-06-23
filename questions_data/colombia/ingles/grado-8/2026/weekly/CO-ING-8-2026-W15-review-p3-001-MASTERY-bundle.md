@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W15: Review Period 3 (B1)
 
 This bundle provides a comprehensive review of the topics covered in weeks 11 to 14: Passive Voice, Reported Speech, Past Perfect, and Second Conditional. Aligned with CEFR B1 level.

@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v1",
+      "statement": "Midnight is the time ________ one day ends and another begins.",
+      "context": "Reviewing relative adverbs (time).",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "when",
+          "is_correct": true,
+          "feedback": "Correct! Adverb for time."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "why",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "\"When\" es el conector que usamos para relacionar un momento específico con una acción.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v2",
+      "statement": "If you take these lessons, you ________ to drive by the end of the month.",
+      "context": "Reviewing ability with \"be able to\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be able",
+          "is_correct": true,
+          "feedback": "Correct! Future ability."
+        },
+        {
+          "letter": "C",
+          "text": "are able",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para el futuro, \"can\" se reemplaza por la estructura \"will be able to\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v3",
+      "statement": "She ________ for the company for ten years now.",
+      "context": "Reviewing Present Perfect Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has worked",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, continuous is better for ongoing actions."
+        },
+        {
+          "letter": "B",
+          "text": "has been working",
+          "is_correct": true,
+          "feedback": "Correct! Focus on the duration of an ongoing action."
+        },
+        {
+          "letter": "C",
+          "text": "is working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "works",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto Continuo resalta la continuidad de una acción desde el pasado hasta hoy.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v4",
+      "statement": "The results of the exam ________ to the students next Monday.",
+      "context": "Reviewing Future Passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will announce",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be announced",
+          "is_correct": true,
+          "feedback": "Correct! Future passive structure."
+        },
+        {
+          "letter": "C",
+          "text": "are announced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "been announced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Voz pasiva en futuro: will + be + participio.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v5",
+      "statement": "My father, ________ is 50 years old, still plays soccer every weekend.",
+      "context": "Reviewing non-defining relative clauses.",
       "options": [
         {
           "letter": "A",
           "text": "who",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! Extra information about a person."
         },
         {
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"That\" is not for non-defining clauses."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "En oraciones entre comas (explicativas), usamos \"who\" para personas.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v3",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v6",
+      "statement": "The sky is very grey. It ________ rain later.",
+      "context": "Reviewing possibility with \"might\".",
       "options": [
         {
           "letter": "A",
           "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "is_correct": false,
+          "feedback": "Incorrect. Too certain."
         },
         {
           "letter": "B",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! Expresses a real possibility."
+        },
+        {
+          "letter": "C",
           "text": "can",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "should",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v6",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "\"Might\" indica una posibilidad en el futuro que no es 100% segura.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v7",
+      "statement": "All safety rules ________ strictly followed in the laboratory.",
+      "context": "Reviewing passive with modals.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"be\"."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v10",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
+          "text": "must be",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct! Modal obligation in passive voice."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "are being",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "must being",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v11",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-v12",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Estructura de modales pasivos: modal + be + participio.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v8",
+      "statement": "I'm so tired. I ________ all morning and I haven't finished yet.",
+      "context": "Reviewing present perfect continuous vs simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have worked",
+          "is_correct": false,
+          "feedback": "Incorrect. Focus should be on duration."
+        },
+        {
+          "letter": "B",
+          "text": "have been working",
+          "is_correct": true,
+          "feedback": "Correct! Emphasizes the effort over time."
+        },
+        {
+          "letter": "C",
+          "text": "am working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo continuo es preferible cuando la acción es larga y su efecto (cansancio) es visible ahora.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v9",
+      "statement": "Medellín, ________ flowers are famous worldwide, is a great place to visit.",
+      "context": "Reviewing \"whose\" in non-defining clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! Shows the connection between the city and its flowers."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Whose\" puede referirse también a lugares o cosas para indicar pertenencia o asociación.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"The boy, **which (A)** has **been studying (B)** for hours, **must be (C)** very **smart (D)**.\"",
+      "context": "Identifying errors in advanced structures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Which\" is for things, but \"boy\" is a person. It should be \"who\"."
+        },
+        {
+          "letter": "B",
+          "text": "been studying",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct continuous form."
+        },
+        {
+          "letter": "C",
+          "text": "must be",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct deduction."
+        },
+        {
+          "letter": "D",
+          "text": "smart",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se evalúa la atención al referente (persona vs cosa) en oraciones complejas que usan tiempos continuos y modales.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v11",
+      "statement": "Choose the best response to this situation:\r\nYour friend didn't come to school, and she usually has perfect attendance.",
+      "context": "Evaluating certainty and tone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is at home.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too certain without proof."
+        },
+        {
+          "letter": "B",
+          "text": "She might be sick, or perhaps she missed the bus.",
+          "is_correct": true,
+          "feedback": "Correct! Uses \"might\" for a reasonable deduction of possibility."
+        },
+        {
+          "letter": "C",
+          "text": "She must be on Mars.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical."
+        },
+        {
+          "letter": "D",
+          "text": "She was at home yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En B1, las deducciones deben ser lógicamente consistentes con la realidad y usar el grado de certeza adecuado (might/may).\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-v12",
+      "statement": "\"The book, which was written in 1920, has been being read by millions of people since then. It will be translated into more languages soon.\"\r\nWhat is the core message?",
+      "context": "Selecting the best summary of a process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An old literary work continues to be popular and will expand its reach in the future.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes the past, continuous popularity and future plans."
+        },
+        {
+          "letter": "B",
+          "text": "Nobody likes the book because it was written in 1920.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "The book will only be available in one language.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Millions of people wrote the book together.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la cronología en oraciones que mezclan voz pasiva, tiempos continuos y pronombres relativos es fundamental para el éxito en el nivel B1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W25-review-p5-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

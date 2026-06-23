@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.018Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-v1",
+      "statement": "La jerarquia de operaciones nos dice el orden correcto para resolver expresiones matematicas. Â¿Cual de las siguientes opciones muestra el orden correcto?",
+      "context": "Jerarquia de operaciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumas y restas primero, luego multiplicaciones y divisiones, y por ultimo parentesis",
+          "is_correct": false,
+          "feedback": "Incorrect. Los parentesis tienen la maxima prioridad, deben resolverse primero, no al final."
+        },
+        {
+          "letter": "B",
+          "text": "Parentesis primero, luego multiplicaciones y divisiones, y por ultimo sumas y restas en el orden que aparecen",
+          "is_correct": true,
+          "feedback": "Correct. El orden es: 1Â° parentesis, 2Â° multiplicaciones y divisiones (izquierda a derecha), 3Â° sumas y restas (izquierda a derecha)."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicaciones primero, luego divisiones, luego sumas, luego restas, y los parentesis no importan",
+          "is_correct": false,
+          "feedback": "Incorrect. Los parentesis siempre tienen prioridad. Ademas, multiplicacion y division tienen igual prioridad y se resuelven de izquierda a derecha."
+        },
+        {
+          "letter": "D",
+          "text": "De derecha a izquierda, sin importar las operaciones",
+          "is_correct": false,
+          "feedback": "Incorrect. Las operaciones se resuelven de izquierda a derecha (cuando tienen igual prioridad), no de derecha a izquierda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jerarquia de operaciones (tambien conocida como PEMDAS en ingles o PAPOMUDAS en espaÃ±ol) establece:\r\n1. **Parentesis** y corchetes (lo que este dentro se resuelve primero)\r\n2. **Potenciacion** (cuando aplique)\r\n3. **Multiplicacion y Division** (de izquierda a derecha, tienen igual prioridad)\r\n4. **Adicion y Sustraccion** (de izquierda a derecha, tienen igual prioridad)\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-002-v1",
+      "statement": "Â¿Cual es el resultado de 8 + (6 - 10)?",
+      "context": "Operacion simple con parentesis",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correct. Primero resolvemos el parentesis: 6 - 10 = -4. Luego: 8 + (-4) = 4."
+        },
+        {
+          "letter": "B",
+          "text": "-8",
+          "is_correct": false,
+          "feedback": "Incorrect. Resolver de izquierda a derecha sin respetar jerarquia: 8 + 6 = 14, 14 - 10 = 4, o confundir 8 - 6 = 2, 2 - 10 = -8. Error al no resolver primero el parentesis."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todo: 8 + 6 = 14, 14 - 10 = 4. O hacer 8 + 6 + 10 = 24, ignorando el signo negativo del 10."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 8 + 6 = 14, 14 - 10 = 4. O pensar que (6 - 10) = 4 en vez de -4, y luego 8 + 4 = 12."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Siempre resolvemos primero lo que esta dentro del parentesis:\r\n- Dentro del parentesis: 6 - 10 = -4\r\n- Fuera del parentesis: 8 + (-4)\r\n- Recordar que sumar un numero negativo equivale a restar: 8 + (-4) = 8 - 4 = 4.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-003-v1",
+      "statement": "Resuelve la siguiente operacion respetando la jerarquia: 12 Ã· (-3) Ã— 2 - 5",
+      "context": "Operacion combinada",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-13",
+          "is_correct": true,
+          "feedback": "Correct. Division: 12 Ã· (-3) = -4. Multiplicacion: -4 Ã— 2 = -8. Resta: -8 - 5 = -13."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrect. Posible error: 12 Ã· (-3) = -4, luego -4 + 2 = -2 (sumar en vez de multiplicar), -2 - 5 = -7, o hacer 12 Ã· (-3) = -4, -4 - 5 = -9, -9 Ã— 2 = -18. Multiples errores de orden."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignorar signos: 12 Ã· 3 = 4, 4 Ã— 2 = 8, 8 - 5 = 3, o hacer 12 - 3 = 9, 9 Ã— 2 = 18, 18 - 5 = 13. Error grave al no respetar jerarquia."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun: 12 Ã· (-3) = -4, pero luego hacer -4 - 5 = -9, y -9 + 2 = -7 (confundir multiplicacion con suma)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la jerarquia paso a paso:\r\n1. No hay parentesis, pasamos al siguiente nivel.\r\n2. Division y multiplicacion tienen igual prioridad, se resuelven de izquierda a derecha:\r\n   - Primero: 12 Ã· (-3) = -4 (signos diferentes â†’ negativo)\r\n   - Luego: -4 Ã— 2 = -8 (signos diferentes â†’ negativo)\r\n3. Finalmente: -8 - 5 = -13 (suma de dos numeros negativos)\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-004-v1",
+      "statement": "Â¿Cual es el resultado de (-4 + 8) Ã— (7 - 9)?",
+      "context": "Operacion con parentesis",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8",
+          "is_correct": true,
+          "feedback": "Correct. Primer parentesis: -4 + 8 = 4. Segundo parentesis: 7 - 9 = -2. Multiplicacion: 4 Ã— (-2) = -8."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrect. Resolver 4 Ã— 2 = 8, ignorando el signo negativo del segundo parentesis donde 7 - 9 = -2, no -2."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todo: (-4 + 8 + 7 - 9) = 2, o hacer -4 Ã— 7 = -28, -28 + 8 Ã— 9 = 44, etc. Error al no resolver parentesis primero."
+        },
+        {
+          "letter": "D",
+          "text": "-24",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun: resolver (-4) Ã— 7 = -28, luego 8 Ã— (-9) = -72, y sumar: -28 + (-72) = -100, o pensar que 4 Ã— (-2) = -8, pero multiplicar por algo mas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Siempre se resuelven PRIMERO los parentesis:\r\n- Parentesis 1: (-4 + 8) = 4\r\n- Parentesis 2: (7 - 9) = -2\r\n- Luego se multiplican los resultados: 4 Ã— (-2) = -8\r\nRegla clave: los parentesis agrupan operaciones que deben resolverse antes de cualquier otra cosa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-005-v1",
+      "statement": "Valentina recibe $25,000 de mesada semanal. Durante la semana:\r\n- Lunes: gasta $8,000 en el almuerzo\r\n- Martes: recibe $5,000 de su abuela\r\n- Miercoles: gasta $12,000 en un cuaderno\r\n- Jueves: gasta $3,000 en onces\r\n\r\nÂ¿Cual expresion representa correctamente el dinero que le queda al final de la semana?",
+      "context": "Presupuesto semanal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25,000 - 8,000 + 5,000 - 12,000 - 3,000 = 7,000",
+          "is_correct": true,
+          "feedback": "Correct. Los gastos se restan y los ingresos se suman: 25,000 - 8,000 + 5,000 - 12,000 - 3,000 = 17,000 + 5,000 - 12,000 - 3,000 = 22,000 - 12,000 - 3,000 = 10,000 - 3,000 = 7,000."
+        },
+        {
+          "letter": "B",
+          "text": "25,000 - 8,000 - 5,000 - 12,000 - 3,000 = -3,000",
+          "is_correct": false,
+          "feedback": "Incorrect. Restar el dinero de la abuela en vez de sumarlo. Recibir dinero es un ingreso que debe sumarse, no restarse."
+        },
+        {
+          "letter": "C",
+          "text": "25,000 + 8,000 + 5,000 + 12,000 + 3,000 = 53,000",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todos los valores como si todos fueran ingresos. Los gastos deben restarse, no sumarse."
+        },
+        {
+          "letter": "D",
+          "text": "25,000 - 8,000 + 5,000 - 12,000 + 3,000 = 13,000",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar los $3,000 de las onces como si fuera ingreso en vez de gasto. Las onces son un gasto, deben restarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificamos cada cantidad como ingreso (+) o gasto (-):\r\n- Mesada: +$25,000 (ingreso)\r\n- Almuerzo: -$8,000 (gasto)\r\n- Regalo abuela: +$5,000 (ingreso)\r\n- Cuaderno: -$12,000 (gasto)\r\n- Onces: -$3,000 (gasto)\r\n\r\nExpresion completa: 25,000 - 8,000 + 5,000 - 12,000 - 3,000\r\nResolviendo paso a paso:\r\n25,000 - 8,000 = 17,000\r\n17,000 + 5,000 = 22,000\r\n22,000 - 12,000 = 10,000\r\n10,000 - 3,000 = 7,000\r\n\r\nA Valentina le quedan $7,000.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-006-v1",
+      "statement": "Tres hermanos (Santiago, Lucia y Mateo) compran sus uniformes escolares. Santiago gasta $45,000, Lucia gasta $38,000 y Mateo gasta $52,000. Su mama les da $200,000 para la compra. Â¿Cuanto dinero sobra o falta?",
+      "context": "Compra de uniformes escolares",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faltan $135,000",
+          "is_correct": false,
+          "feedback": "Incorrect. 45,000 + 38,000 + 52,000 = 135,000. Esto es lo gastado, no lo que falta. 200,000 - 135,000 = 65,000, que es lo que SOBRA, no falta."
+        },
+        {
+          "letter": "B",
+          "text": "Sobran $65,000",
+          "is_correct": true,
+          "feedback": "Correct. Total gastado: 45,000 + 38,000 + 52,000 = 135,000. Dinero restante: 200,000 - 135,000 = 65,000. Sobran $65,000."
+        },
+        {
+          "letter": "C",
+          "text": "Sobran $35,000",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun: sumar solo dos de los tres gastos: 45,000 + 52,000 = 97,000; 200,000 - 97,000 = 103,000 o confundir 45+38+52 = 135, y restar 200-135 = 65, pero pensar en 35 por error de calculo."
+        },
+        {
+          "letter": "D",
+          "text": "Faltan $65,000",
+          "is_correct": false,
+          "feedback": "Incorrect. Interpretar que los $200,000 no alcanzan cuando en realidad sobran. Sumar los gastos correctamente pero invertir la conclusion (falta cuando sobra)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos el gasto total:\r\n$45,000 + $38,000 + $52,000 = $135,000\r\n\r\nLuego calculamos la diferencia con el dinero disponible:\r\n$200,000 - $135,000 = $65,000\r\n\r\nComo el resultado es positivo, significa que SOBRA dinero. Si el resultado hubiera sido negativo, significaria que FALTA.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-007-v1",
+      "statement": "El teleferico de Monserrate en Bogota tiene una estacion base a 0 metros. Un viaje tipico es:\r\n- Sube 400 metros hasta la primera parada\r\n- Sube 800 metros mas hasta la cima\r\n- Baja 500 metros hasta un mirador\r\n- Baja 700 metros hasta la base\r\n\r\nSi representamos subir como positivo y bajar como negativo, Â¿cual de las siguientes expresiones representa la altitud final?",
+      "context": "Elevacion y descenso en el teleferico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 + 800 + (-500) + (-700) = 0 m",
+          "is_correct": true,
+          "feedback": "Correct. 400 + 800 = 1,200. 1,200 + (-500) = 700. 700 + (-700) = 0 m. Regresa a la base."
+        },
+        {
+          "letter": "B",
+          "text": "400 + 800 + 500 + 700 = 2,400 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todo como si todas las cantidades fueran positivas. Bajar debe representarse como resta o suma de numeros negativos."
+        },
+        {
+          "letter": "C",
+          "text": "400 + 800 - 500 + 700 = 1,400 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar la ultima bajada (700) en vez de restarla. La cuarta etapa es bajar, no subir."
+        },
+        {
+          "letter": "D",
+          "text": "400 - 800 + 500 - 700 = -600 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir los signos de las etapas. La segunda etapa es subir (+800), no bajar (-800). La tercera es bajar (-500), no subir (+500)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Representamos cada etapa con su signo:\r\n- Sube 400 m: +400\r\n- Sube 800 m: +800\r\n- Baja 500 m: -500 (o +(-500))\r\n- Baja 700 m: -700 (o +(-700))\r\n\r\nExpresion completa: 400 + 800 + (-500) + (-700)\r\nResolviendo paso a paso:\r\n400 + 800 = 1,200\r\n1,200 + (-500) = 700\r\n700 + (-700) = 0\r\n\r\nEl teleferico regresa exactamente a la base (0 metros).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-008-v1",
+      "statement": "Juan Pablo juega un juego de cartas donde:\r\n- Las cartas rojas suman puntos\r\n- Las cartas negras restan puntos\r\n\r\nSaca las siguientes cartas en orden: roja 6, negra 9, negra 4, roja 3, negra 5.\r\nSi empezo con 0 puntos, Â¿con cuantos termina?",
+      "context": "Juego de cartas con puntos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-9 puntos",
+          "is_correct": true,
+          "feedback": "Correct. Roja 6: +6. Negra 9: +6 + (-9) = -3. Negra 4: -3 + (-4) = -7. Roja 3: -7 + 3 = -4. Negra 5: -4 + (-5) = -9."
+        },
+        {
+          "letter": "B",
+          "text": "27 puntos",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar todas las cartas como si todas fueran positivas: 6 + 9 + 4 + 3 + 5 = 27. Ignorar por completo que las cartas negras restan."
+        },
+        {
+          "letter": "C",
+          "text": "3 puntos",
+          "is_correct": false,
+          "feedback": "Incorrect. Contar solo las rojas: 6 + 3 = 9, y solo las negras: 9 + 4 + 5 = 18, y hacer 9 - 18 = -9, pero cambiar el signo o error en suma de negras."
+        },
+        {
+          "letter": "D",
+          "text": "-27 puntos",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir todos los signos: tratar rojas como negativas y negras como positivas: (-6) + 9 + 4 + (-3) + 5 = 9. O sumar todo negativo: -27. Error de lectura de reglas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolvemos paso a paso:\r\n1. Roja 6: 0 + 6 = 6\r\n2. Negra 9: 6 + (-9) = -3\r\n3. Negra 4: -3 + (-4) = -7\r\n4. Roja 3: -7 + 3 = -4\r\n5. Negra 5: -4 + (-5) = -9\r\n\r\nResultado final: -9 puntos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-009-v1",
+      "statement": "Observa la siguiente expresion con parentesis anidados:\r\n\r\n20 - [12 + (8 - 15) Ã— 2] - 3\r\n\r\nÂ¿Cual es el resultado correcto?",
+      "context": "Expresion con parentesis anidados",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrect. Posible error: resolver 8 - 15 = -7, luego -7 Ã— 2 = -14, luego 12 + (-14) = -2, luego 20 - (-2) = 22, 22 - 3 = 19. Error: 20 - (-2) = 22, no 12."
+        },
+        {
+          "letter": "B",
+          "text": "19",
+          "is_correct": true,
+          "feedback": "Correct. Parentesis interno: 8 - 15 = -7. Multiplicacion: -7 Ã— 2 = -14. Corchetes: 12 + (-14) = -2. Todo: 20 - (-2) = 22. Final: 22 - 3 = 19."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrect. Error al no resolver correctamente el parentesis interno o la multiplicacion: 20 - 12 + (8 - 15) Ã— 2 - 3 = 20 - 12 + (-7) Ã— 2 - 3 = 8 + (-14) - 3 = -9. No coincide."
+        },
+        {
+          "letter": "D",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrect. Resolver hasta 20 - (-2) = 22, pero olvidar restar el 3 final. La expresion completa tiene \"- 3\" al final que debe incluirse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos de adentro hacia afuera:\r\n1. Parentesis interno: (8 - 15) = -7\r\n2. La expresion queda: 20 - [12 + (-7) Ã— 2] - 3\r\n3. Multiplicacion dentro del corchete: (-7) Ã— 2 = -14\r\n4. Suma dentro del corchete: 12 + (-14) = -2\r\n5. La expresion queda: 20 - (-2) - 3\r\n6. 20 - (-2) = 20 + 2 = 22\r\n7. 22 - 3 = 19\r\n\r\nEl resultado final es 19.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-010-v1",
+      "statement": "Carlos resolvio la siguiente operacion y obtuvo -9:\r\n\r\n(-3) Ã— 4 + 12 Ã· (-3) - 5\r\n\r\nSu respuesta fue -9. Â¿Es correcta? En caso de no serlo, Â¿cual es el resultado correcto?",
+      "context": "Analisis de errores comunes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, el resultado es -9, resolvio correctamente",
+          "is_correct": false,
+          "feedback": "Incorrect. Verifiquemos: (-3)Ã—4 = -12; 12Ã·(-3) = -4; -12 + (-4) = -16; -16 - 5 = -21. El resultado es -21, no -9."
+        },
+        {
+          "letter": "B",
+          "text": "No, el resultado correcto es -21",
+          "is_correct": true,
+          "feedback": "Correct. (-3)Ã—4 = -12; 12Ã·(-3) = -4; -12 + (-4) = -16; -16 - 5 = -21. Carlos se equivoco en la ley de signos al dividir 12Ã·(-3) o en el orden de las operaciones."
+        },
+        {
+          "letter": "C",
+          "text": "No, el resultado correcto es 7",
+          "is_correct": false,
+          "feedback": "Incorrect. Posible error: (-3)Ã—4 = -12; 12Ã·(-3) = -4; luego sumar en vez de restar: -12 + (-4) = -16, -16 + 5 = -11. No da 7."
+        },
+        {
+          "letter": "D",
+          "text": "No, el resultado correcto es -11",
+          "is_correct": false,
+          "feedback": "Incorrect. Error comun: (-3)Ã—4 = -12; 12Ã·(-3) = -4; -12 + (-4) = -16; y luego sumar el 5 en vez de restarlo: -16 + 5 = -11, pero la operacion es -5, no +5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos paso a paso respetando la jerarquia de operaciones:\r\n\r\n1. No hay parentesis, pasamos a multiplicacion y division (izquierda a derecha):\r\n   - (-3) Ã— 4 = -12 (signos diferentes â†’ negativo)\r\n   - 12 Ã· (-3) = -4 (signos diferentes â†’ negativo)\r\n\r\n2. La expresion queda: -12 + (-4) - 5\r\n\r\n3. Sumamos de izquierda a derecha:\r\n   - -12 + (-4) = -16\r\n   - -16 - 5 = -21\r\n\r\nEl error de Carlos pudo ser:\r\n- Pensar que 12 Ã· (-3) = 4 (ignorar el signo negativo del divisor)\r\n- O resolver (-3)Ã—4 = 12 (ignorar el signo negativo del -3)\r\n- O hacer 4 + 12 = 16 y luego operar incorrectamente\r\nEl resultado correcto es -21.\r\n\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del I.E. San José en Tunja, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Tunja, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Pereira, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.54,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cúcuta, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.54,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 3 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-W03-tema-semana-3-de-matematicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

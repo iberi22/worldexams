@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Mathematics & Statistics",
+    "country": "newzealand",
+    "pack_id": "newzealand-week-8-grade-11-subject-mathematics__statistics",
+    "generated_at": "2026-06-22T05:46:18.553Z"
+  },
+  "questions": [
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v01",
+      "statement": "**Stem:** Expand and simplify: 5(7x + 13)",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 35x + 65",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 35x + 13",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 35x - 65",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x + 13\r\n  \r\n\r\n**Explanation:** Apply distributive property: 5(7x + 13) = 5×7x + 5×13 = 35x + 65. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v02",
+      "statement": "**Stem:** A linear function passes through points (3, 3) and (10, 7). What is its gradient?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v03",
+      "statement": "**Stem:** A triangle has sides of 7 cm, 8 cm, and 9 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (7, 8, 9 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v04",
+      "statement": "**Stem:** If a bag contains 4 red marbles and 12 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4/16",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 12/16",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 4/12",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/16\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 4 / (4 + 12) = 4/16. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v05",
+      "statement": "**Stem:** Solve for x: 8x + 11 = 51",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 11 from both sides: 8x = 40. Then divide by 8: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v06",
+      "statement": "**Stem:** Expand and simplify: 4(10x + 46)",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 184",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 46",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 40x - 184",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 14x + 46\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(10x + 46) = 4×10x + 4×46 = 40x + 184. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v07",
+      "statement": "**Stem:** A linear function passes through points (2, 3) and (10, 13). What is its gradient?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v08",
+      "statement": "**Stem:** A triangle has sides of 6 cm, 7 cm, and 8 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (6, 7, 8 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v09",
+      "statement": "**Stem:** If a bag contains 4 red marbles and 5 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4/9",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 5/9",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 4/5",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/9\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 4 / (4 + 5) = 4/9. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v10",
+      "statement": "**Stem:** Solve for x: 2x + 5 = 15",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 5 from both sides: 2x = 10. Then divide by 2: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v11",
+      "statement": "**Stem:** Expand and simplify: 4(3x + 42)",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12x + 168",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 12x + 42",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x - 168",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 7x + 42\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(3x + 42) = 4×3x + 4×42 = 12x + 168. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v12",
+      "statement": "**Stem:** A linear function passes through points (4, 1) and (6, 8). What is its gradient?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v13",
+      "statement": "**Stem:** A triangle has sides of 3 cm, 4 cm, and 5 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (3, 4, 5 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v14",
+      "statement": "**Stem:** If a bag contains 5 red marbles and 12 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5/17",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 12/17",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5/12",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/17\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 5 / (5 + 12) = 5/17. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v15",
+      "statement": "**Stem:** Solve for x: 7x + 4 = 39",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 4 from both sides: 7x = 35. Then divide by 7: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v16",
+      "statement": "**Stem:** Expand and simplify: 6(9x + 24)",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 54x + 144",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 54x + 24",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 54x - 144",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 15x + 24\r\n  \r\n\r\n**Explanation:** Apply distributive property: 6(9x + 24) = 6×9x + 6×24 = 54x + 144. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v17",
+      "statement": "**Stem:** A linear function passes through points (4, 4) and (6, 11). What is its gradient?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Gradient = (change in y)/(change in x). Calculate rise over run between the two points. NCEA Level 1 Algebra standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v18",
+      "statement": "**Stem:** A triangle has sides of 6 cm, 7 cm, and 8 cm. Which classification is correct?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Scalene",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** Equilateral",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** Isosceles",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** Right-angled\r\n  \r\n\r\n**Explanation:** A scalene triangle has all sides of different lengths (6, 7, 8 cm are all different). NCEA Level 1 Geometry.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v19",
+      "statement": "**Stem:** If a bag contains 8 red marbles and 11 blue marbles, what is the probability of drawing a red marble?",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8/19",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "B",
+          "text": "** 11/19",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 8/11",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1/19\r\n  \r\n\r\n**Explanation:** P(red) = number of favourable outcomes / total outcomes = 8 / (8 + 11) = 8/19. NCEA Level 1 Probability standard.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    },
+    {
+      "id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY-v20",
+      "statement": "**Stem:** Solve for x: 3x + 3 = 18",
+      "context": "A New Zealand student is studying statistics data for NCEA Level 1 Mathematics & Statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct! ✓ Well done."
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 3 from both sides: 3x = 15. Then divide by 3: x = 5. This is a key NCEA Level 1 algebraic skill.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the NCEA Level 1 concept and try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "NZ-MAT-11-2026-W08-statistics-data-001-MASTERY",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics & Statistics",
+      "grade": 11,
+      "country": "newzealand"
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.985Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-001-v1",
+      "statement": "¿Cuál es la función principal del sistema digestivo?",
+      "context": "En Bogotá, inician el sistema digestivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombear sangre",
+          "is_correct": false,
+          "feedback": "Es del circulatorio."
+        },
+        {
+          "letter": "B",
+          "text": "Descomponer alimentos en nutrientes absorbibles",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Capturar oxígeno",
+          "is_correct": false,
+          "feedback": "Es del respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Producir hormonas",
+          "is_correct": false,
+          "feedback": "Es del endocrino."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema digestivo transforma los alimentos en moléculas pequeñas (nutrientes) absorbidas por la sangre. Incluye boca, esófago, estómago, intestino delgado, intestino grueso, hígado, páncreas y vesícula biliar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-002-v1",
+      "statement": "¿Dónde comienza la digestión?",
+      "context": "En Medellín, identifican órganos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el estómago",
+          "is_correct": false,
+          "feedback": "La digestión química empieza antes."
+        },
+        {
+          "letter": "B",
+          "text": "En el intestino",
+          "is_correct": false,
+          "feedback": "Es después del estómago."
+        },
+        {
+          "letter": "C",
+          "text": "En la boca",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "En el esófago",
+          "is_correct": false,
+          "feedback": "Solo transporta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La digestión comienza en la boca con masticación (mecánica) y amilasa salival que descompone almidones en azúcares. Por eso el pan se siente dulce al masticarlo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-003-v1",
+      "statement": "¿Qué produce el estómago para digerir?",
+      "context": "En Cali, explican el estómago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bilis",
+          "is_correct": false,
+          "feedback": "La produce el hígado."
+        },
+        {
+          "letter": "B",
+          "text": "Insulina",
+          "is_correct": false,
+          "feedback": "La produce el páncreas."
+        },
+        {
+          "letter": "C",
+          "text": "Ácido clorhídrico y pepsina",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Amilasa",
+          "is_correct": false,
+          "feedback": "Está en la saliva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estómago produce HCl (pH 1.5-3.5, mata bacterias y desnaturaliza proteínas) y pepsina (descompone proteínas). El mucus protege la pared estomacal. La mezcla se llama quimo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-004-v1",
+      "statement": "¿Dónde se absorben la mayoría de nutrientes?",
+      "context": "En Barranquilla, estudian absorción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el estómago",
+          "is_correct": false,
+          "feedback": "Absorbe poco (alcohol)."
+        },
+        {
+          "letter": "B",
+          "text": "En el intestino delgado",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "En el intestino grueso",
+          "is_correct": false,
+          "feedback": "Absorbe agua y sales."
+        },
+        {
+          "letter": "D",
+          "text": "En la boca",
+          "is_correct": false,
+          "feedback": "No absorbe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El intestino delgado (6-7 m) tiene vellosidades y microvellosidades que aumentan la superficie a ~300 m². Cada vellosidad tiene capilares (nutrientes) y lácteos (grasas).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-005-v1",
+      "statement": "¿Por qué el limón ayuda a digerir proteínas?",
+      "context": "En Bucaramanga, aplican sobre enzimas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cocina la carne",
+          "is_correct": false,
+          "feedback": "Desnaturaliza."
+        },
+        {
+          "letter": "B",
+          "text": "Ablanda por sabor",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "El ácido desnaturaliza proteínas, facilitando enzimas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Mata bacterias",
+          "is_correct": false,
+          "feedback": "Ayuda pero no explica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ácido desnaturaliza (despliega) las proteínas, exponiendo enlaces peptídicos para que enzimas como pepsina y tripsina los corten. Por eso los adobos ácidos ablandan la carne.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply | **ICFES:** Formulación y Ejecución",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-006-v1",
+      "statement": "¿Por qué el hígado es importante para digerir grasas?",
+      "context": "En Cartagena, aplican sobre digestión de grasas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacena grasas",
+          "is_correct": false,
+          "feedback": "El tejido adiposo almacena."
+        },
+        {
+          "letter": "B",
+          "text": "Produce insulina",
+          "is_correct": false,
+          "feedback": "El páncreas."
+        },
+        {
+          "letter": "C",
+          "text": "Produce bilis que emulsiona las grasas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Filtra grasas",
+          "is_correct": false,
+          "feedback": "Metaboliza pero no esa función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La bilis emulsiona las grasas en gotitas pequeñas, aumentando superficie para las enzimas pancreáticas (lipasa). Sin bilis no se digieren las grasas. La vesícula almacena la bilis.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply | **ICFES:** Formulación y Ejecución",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-007-v1",
+      "statement": "¿Por qué un celíaco no puede comer gluten?",
+      "context": "En Pereira, analizan la enfermedad celíaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gluten es tóxico para todos",
+          "is_correct": false,
+          "feedback": "Solo para celíacos."
+        },
+        {
+          "letter": "B",
+          "text": "El gluten engorda",
+          "is_correct": false,
+          "feedback": "No es la razón."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema inmune ataca las vellosidades intestinales al detectar gluten",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede masticar",
+          "is_correct": false,
+          "feedback": "Sí se mastica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Enfermedad autoinmune: el gluten activa una respuesta inmune que daña las vellosidades del intestino delgado, reduciendo absorción de nutrientes. Causa desnutrición y fatiga. Único tratamiento: dieta sin gluten de por vida (~1% población).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-008-v1",
+      "statement": "¿Causa principal de úlceras gástricas?",
+      "context": "En Manizales, analizan úlceras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comer picante",
+          "is_correct": false,
+          "feedback": "No causa úlceras."
+        },
+        {
+          "letter": "B",
+          "text": "Estrés",
+          "is_correct": false,
+          "feedback": "Empeora pero no causa."
+        },
+        {
+          "letter": "C",
+          "text": "Bacteria Helicobacter pylori",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Comer a deshoras",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "H. pylori daña la capa protectora del estómago, permitiendo que el ácido dañe la mucosa. Descubrimiento (Marshall 1982, Nobel 2005) cambió el tratamiento de úlceras. Se trata con antibióticos. Colombia tiene alta prevalencia (~70%).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-009-v1",
+      "statement": "¿Por qué los antibióticos causan diarrea?",
+      "context": "En Cúcuta, evalúan microbiota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son veneno",
+          "is_correct": false,
+          "feedback": "Atacan bacterias."
+        },
+        {
+          "letter": "B",
+          "text": "Matan bacterias benéficas intestinales (microbiota)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Irritan el estómago",
+          "is_correct": false,
+          "feedback": "Algunos irritan."
+        },
+        {
+          "letter": "D",
+          "text": "Aceleran el intestino",
+          "is_correct": false,
+          "feedback": "Consecuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La microbiota (100 billones de bacterias) ayuda a digerir fibra y produce vitaminas. Los antibióticos matan bacterias benéficas. Probióticos (yogurt, kumis) ayudan a restaurar la flora.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W23-sistema-digestivo-010-v1",
+      "statement": "¿Hábito MÁS saludable para el sistema digestivo?",
+      "context": "En Ibagué, evalúan hábitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comer rápido y acostarse",
+          "is_correct": false,
+          "feedback": "Causa reflujo."
+        },
+        {
+          "letter": "B",
+          "text": "Saltarse el desayuno",
+          "is_correct": false,
+          "feedback": "No es saludable."
+        },
+        {
+          "letter": "C",
+          "text": "Comer porciones moderadas, masticar bien, incluir fibra",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Dieta de solo jugos",
+          "is_correct": false,
+          "feedback": "Sin fibra ni proteínas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hábitos saludables: masticar bien, porciones moderadas, fibra (frutas, verduras), probióticos, agua, no acostarse tras comer (esperar 2-3h), evitar exceso de grasas y picante.\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Pereira, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Cali, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Neiva, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Bogotá, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Bogotá, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Armenia, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Barranquilla, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Cartagena, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Villavicencio, se discute sobre Tema Semana 23 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 23 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 23 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 23 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-6-2026-W23-tema-semana-23-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

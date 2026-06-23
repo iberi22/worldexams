@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-11-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v1",
+      "statement": "What is **\"Cabeza\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head",
+          "is_correct": true,
+          "feedback": "Correct! Head is cabeza."
+        },
+        {
+          "letter": "B",
+          "text": "Hand",
+          "is_correct": false,
+          "feedback": "Incorrect. Hand is mano."
+        },
+        {
+          "letter": "C",
+          "text": "Foot",
+          "is_correct": false,
+          "feedback": "Incorrect. Foot is pie."
+        },
+        {
+          "letter": "D",
+          "text": "Arm",
+          "is_correct": false,
+          "feedback": "Incorrect. Arm is brazo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cabeza se dice \"head\" en inglés. Es la parte superior del cuerpo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v2",
+      "statement": "How many **arms** (brazos) do you have?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Two",
+          "is_correct": true,
+          "feedback": "Correct! You have two arms."
+        },
+        {
+          "letter": "C",
+          "text": "Ten",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Arm\" significa brazo. La mayoría de las personas tenemos dos (two) brazos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v3",
+      "statement": "What is **\"Mano\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foot",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Head",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Hand",
+          "is_correct": true,
+          "feedback": "Correct! Hand is mano."
+        },
+        {
+          "letter": "D",
+          "text": "Leg",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mano se dice \"hand\". Al final de cada brazo tenemos una mano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v4",
+      "statement": "What is **\"Pierna\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arm",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Leg",
+          "is_correct": true,
+          "feedback": "Correct! Leg is pierna."
+        },
+        {
+          "letter": "C",
+          "text": "Shoulder",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Knee",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pierna se dice \"leg\". Usamos las piernas para caminar y correr.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v5",
+      "statement": "What is **\"Pie\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foot",
+          "is_correct": true,
+          "feedback": "Correct! Foot is pie."
+        },
+        {
+          "letter": "B",
+          "text": "Hand",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Head",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Leg",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un pie se dice \"foot\". Si son los dos, decimos \"feet\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v6",
+      "statement": "You wear a hat on your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head",
+          "is_correct": true,
+          "feedback": "Correct! You wear hats on your head."
+        },
+        {
+          "letter": "B",
+          "text": "Foot",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Hand",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Arm",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sombrero (hat) se usa en la cabeza (head).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v7",
+      "statement": "You wear shoes on your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hands",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Arms",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Feet",
+          "is_correct": true,
+          "feedback": "Correct! Shoes go on your feet."
+        },
+        {
+          "letter": "D",
+          "text": "Head",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los zapatos (shoes) se usan en los pies (feet).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v8",
+      "statement": "Which part of the body is **\"Hombro\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Knee",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Shoulder",
+          "is_correct": true,
+          "feedback": "Correct! Shoulder is hombro."
+        },
+        {
+          "letter": "C",
+          "text": "Elbow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Toe",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hombro se dice \"shoulder\". Recuerda la canción: \"Head, shoulders, knees and toes\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v9",
+      "statement": "What are **\"Rodillas\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shoulders",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Toes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Knees",
+          "is_correct": true,
+          "feedback": "Correct! Knees are rodillas."
+        },
+        {
+          "letter": "D",
+          "text": "Fingers",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las rodillas se dicen \"knees\". La \"k\" al principio es muda, no suena.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v10",
+      "statement": "Where are your **fingers**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On your feet",
+          "is_correct": false,
+          "feedback": "Incorrect. Those are toes."
+        },
+        {
+          "letter": "B",
+          "text": "On your hands",
+          "is_correct": true,
+          "feedback": "Correct! You have fingers on your hands."
+        },
+        {
+          "letter": "C",
+          "text": "On your head",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "On your legs",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dedos de las manos se llaman \"fingers\". Los dedos de los pies se llaman \"toes\".\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-36-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.589Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v1",
+      "statement": "\"____ the news about the concert, the fans rushed to buy tickets online.\"",
+      "context": "Describing a fan's reaction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hear",
+          "is_correct": false,
+          "feedback": "Incorrect form."
+        },
+        {
+          "letter": "B",
+          "text": "Hearing",
+          "is_correct": true,
+          "feedback": "Correct present participle clause (Hearing = After they heard)."
+        },
+        {
+          "letter": "C",
+          "text": "Heard",
+          "is_correct": false,
+          "feedback": "Past participle suggests a passive meaning."
+        },
+        {
+          "letter": "D",
+          "text": "To hear",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present participle clauses (-ing) are used to describe actions that happen at the same time or immediately after the main action.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v2",
+      "statement": "\"____ by a true story, the film has touched the hearts of millions of viewers.\"",
+      "context": "Describing a movie's reception.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inspiring",
+          "is_correct": false,
+          "feedback": "Present participle implies the film is doing the inspiring (active)."
+        },
+        {
+          "letter": "B",
+          "text": "Inspired",
+          "is_correct": true,
+          "feedback": "Correct past participle clause (Inspired = Because it was inspired)."
+        },
+        {
+          "letter": "C",
+          "text": "Inspire",
+          "is_correct": false,
+          "feedback": "Incorrect form."
+        },
+        {
+          "letter": "D",
+          "text": "Having inspired",
+          "is_correct": false,
+          "feedback": "Active perfect participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past participle clauses (-ed) are used with a passive meaning, often to show the reason or cause for the main action.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v3",
+      "statement": "\"____ many hours practicing his lines, the actor felt confident before the audition.\"",
+      "context": "Discussing an actor's preparation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Having spent",
+          "is_correct": true,
+          "feedback": "Correct perfect participle clause (Having spent = After he had spent)."
+        },
+        {
+          "letter": "C",
+          "text": "Spending",
+          "is_correct": false,
+          "feedback": "Correct but B shows the sequence better."
+        },
+        {
+          "letter": "D",
+          "text": "To spend",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perfect participle clauses (Having + past participle) are used to show that one action was completed before another.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v4",
+      "statement": "\"Streaming platforms, ____ personalized recommendations, have changed our viewing habits.\"",
+      "context": "An article about streaming services.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offered",
+          "is_correct": false,
+          "feedback": "Passive meaning (incorrect here)."
+        },
+        {
+          "letter": "B",
+          "text": "offering",
+          "is_correct": true,
+          "feedback": "Correct present participle clause (offering = which offer)."
+        },
+        {
+          "letter": "C",
+          "text": "having offered",
+          "is_correct": false,
+          "feedback": "Suggests the offering happened earlier and stopped."
+        },
+        {
+          "letter": "D",
+          "text": "to offer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using present participle clauses as a more concise alternative to relative clauses (platforms which offer -> platforms offering).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v5",
+      "statement": "\"____ by a wall of high mountains, the village in the movie seemed completely isolated.\"",
+      "context": "Discussing a movie's plot.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surrounding",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "B",
+          "text": "Surrounded",
+          "is_correct": true,
+          "feedback": "Correct past participle clause (passive state)."
+        },
+        {
+          "letter": "C",
+          "text": "Having surrounded",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Being surround",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past participle clauses can describe a state or situation that is the result of a past action.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v6",
+      "statement": "\"____ that the budget was too high, the producers decided to cancel the project.\"",
+      "context": "A summary of an industry debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noted",
+          "is_correct": false,
+          "feedback": "Passive meaning."
+        },
+        {
+          "letter": "B",
+          "text": "Realizing",
+          "is_correct": true,
+          "feedback": "Correct present participle clause showing the reason."
+        },
+        {
+          "letter": "C",
+          "text": "To realize",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Having realized",
+          "is_correct": false,
+          "feedback": "Also correct, emphasizing the completion of the realization."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using participle clauses to express cause or reason in a professional context.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v7",
+      "statement": "\"The director, ____ for his experimental techniques, won several awards this year.\"",
+      "context": "Describing a director's style.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "knowing",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "B",
+          "text": "known",
+          "is_correct": true,
+          "feedback": "Correct past participle clause (known = who is known)."
+        },
+        {
+          "letter": "C",
+          "text": "has known",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "to be known",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past participle clauses can serve as non-defining descriptive clauses (known for... = who is known for...).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v8",
+      "statement": "\"____ through viral videos, the young singer achieved global fame in just a few weeks.\"",
+      "context": "A text about social media and music.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discovered",
+          "is_correct": false,
+          "feedback": "Possible, but B is more active. Wait, B is 'Discovering'."
+        },
+        {
+          "letter": "B",
+          "text": "Having been discovered",
+          "is_correct": true,
+          "feedback": "Correct perfect passive participle (Having been discovered = After she had been discovered)."
+        },
+        {
+          "letter": "C",
+          "text": "Discovering",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "D",
+          "text": "To be discovered",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perfect passive participle clauses (Having been + past participle) are used for completed passive actions.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v9",
+      "statement": "\"____ the potential for lost revenue, studios are investing more in cybersecurity.\"",
+      "context": "Discussing the impact of piracy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Seeing",
+          "is_correct": true,
+          "feedback": "Correct present participle clause (Seeing = Since they see)."
+        },
+        {
+          "letter": "C",
+          "text": "By seeing",
+          "is_correct": false,
+          "feedback": "'By' usually shows method, not just reason."
+        },
+        {
+          "letter": "D",
+          "text": "Having seen",
+          "is_correct": false,
+          "feedback": "Also possible, but B is standard for a current situation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using participle clauses to link observation to action in an industry report.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v10",
+      "statement": "\"____ in specialized vaults, the original film reels are protected from humidity.\"",
+      "context": "A formal discussion on film preservation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stored",
+          "is_correct": true,
+          "feedback": "Correct past participle clause (Stored = Because they are stored)."
+        },
+        {
+          "letter": "B",
+          "text": "Storing",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Having stored",
+          "is_correct": false,
+          "feedback": "Active perfect participle."
+        },
+        {
+          "letter": "D",
+          "text": "To store",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Starting a formal sentence with a past participle clause to show condition or reason.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v11",
+      "statement": "\"____ several times, the script was finally ready for production.\"",
+      "context": "Critique of a script.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Writing",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "B",
+          "text": "Written",
+          "is_correct": false,
+          "feedback": "Correct but B is more sequential."
+        },
+        {
+          "letter": "C",
+          "text": "Having been rewritten",
+          "is_correct": true,
+          "feedback": "Correct perfect passive participle."
+        },
+        {
+          "letter": "D",
+          "text": "To be rewritten",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the perfect passive participle to describe a long process of revision before a final outcome.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-v12",
+      "statement": "\"____ from a distance, the special effects look realistic, but ____ closely, they appear artificial.\"",
+      "context": "A complex aesthetic observation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viewed / examined",
+          "is_correct": true,
+          "feedback": "Correct dual past participle clauses."
+        },
+        {
+          "letter": "B",
+          "text": "Viewing / examining",
+          "is_correct": false,
+          "feedback": "Active meaning."
+        },
+        {
+          "letter": "C",
+          "text": "To view / to examine",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Having viewed / having examined",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for this context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using parallel past participle clauses to compare two different conditions and their results.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W36-entertainment-industry-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

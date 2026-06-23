@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.031Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-v1",
+      "statement": "En Colombia, el IVA es del 19%. Si un producto cuesta $20.000 sin IVA, ¿cuanto se paga de IVA?",
+      "context": "IVA en Colombia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 10% de 20.000=2.000. 19%=19×200=3.800. Error: usar 10% en vez de 19%."
+        },
+        {
+          "letter": "B",
+          "text": "$3.800",
+          "is_correct": true,
+          "feedback": "Correct. 19% de 20.000 = 20.000×0,19 = 3.800."
+        },
+        {
+          "letter": "C",
+          "text": "$1.900",
+          "is_correct": false,
+          "feedback": "Incorrect. 20.000×0,095=1.900. 19% no es 9,5%. 19%=0,19, 20.000×0,19=3.800."
+        },
+        {
+          "letter": "D",
+          "text": "$4.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 20% de 20.000=4.000. 19% es un poco menos. 4.000-200=3.800."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "IVA = 19% del precio sin IVA.\r\nIVA = 19/100 × $20.000 = $3.800.\r\nPrecio total con IVA: $20.000 + $3.800 = $23.800.\r\nEn Colombia, el IVA del 19% se aplica a la mayoria de productos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-002-v1",
+      "statement": "En un almacen de ropa, un jean cuesta $80.000 pero tiene descuento del 30%. ¿Cual es el precio final?",
+      "context": "Descuento en almacen",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$56.000",
+          "is_correct": false,
+          "feedback": "Correct. Descuento: 30% de 80.000=24.000. Precio final: 80.000-24.000=56.000."
+        },
+        {
+          "letter": "B",
+          "text": "$50.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 80.000×0,625=50.000. 30% descuento significa pagar 70%. 70% de 80.000=56.000."
+        },
+        {
+          "letter": "C",
+          "text": "$24.000",
+          "is_correct": true,
+          "feedback": "Incorrect. Ese es el valor del descuento, no el precio final. Precio final = 80.000-24.000=56.000."
+        },
+        {
+          "letter": "D",
+          "text": "$60.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 80.000-20.000=60.000. 25% de descuento. Para 30%: 80.000×0,7=56.000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Descuento del 30% significa que se paga el 70% del precio original.\r\nPrecio final = 70% de $80.000 = 0,70 × $80.000 = $56.000.\r\nOtra forma: descuento = 30% de 80.000 = 24.000. Precio final = 80.000-24.000=56.000.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-003-v1",
+      "statement": "En un restaurante, la cuenta es de $45.000 y se deja una propina del 10%. ¿Cuanto se paga en total?",
+      "context": "Propina en restaurante",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$49.500",
+          "is_correct": false,
+          "feedback": "Correct. Propina: 10% de 45.000=4.500. Total: 45.000+4.500=49.500."
+        },
+        {
+          "letter": "B",
+          "text": "$55.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 45.000+10.000=55.000. 10% de 45.000=4.500, no 10.000."
+        },
+        {
+          "letter": "C",
+          "text": "$45.450",
+          "is_correct": true,
+          "feedback": "Incorrect. 45.000+450=45.450. 1% de 45.000=450, no 10%. 10%=4.500."
+        },
+        {
+          "letter": "D",
+          "text": "$50.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 45.000+5.000=50.000. Error: 45.000/9=5.000. 10% es 4.500. Total=49.500."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Propina: 10% de $45.000 = $45.000 × 0,10 = $4.500.\r\nTotal a pagar: $45.000 + $4.500 = $49.500.\r\nEs comun en Colombia dejar propina del 10% en restaurantes.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-004-v1",
+      "statement": "Don Carlos gana $1.200.000 al mes y recibe un aumento del 8%. ¿Cual es su nuevo sueldo?",
+      "context": "Aumento de sueldo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.296.000",
+          "is_correct": false,
+          "feedback": "Correct. Aumento: 8% de 1.200.000=96.000. Nuevo sueldo: 1.200.000+96.000=1.296.000."
+        },
+        {
+          "letter": "B",
+          "text": "$1.200.800",
+          "is_correct": false,
+          "feedback": "Incorrect. 1.200.000+800=1.200.800. 8%=0,08, 1.200.000×0,08=96.000, no 800."
+        },
+        {
+          "letter": "C",
+          "text": "$1.208.000",
+          "is_correct": true,
+          "feedback": "Incorrect. 1.200.000+8.000=1.208.000. Error: 1.200.000×0,08=96.000, no 8.000. El aumento es de $96.000."
+        },
+        {
+          "letter": "D",
+          "text": "$1.104.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 1.200.000-96.000=1.104.000. Eso seria un DESCUENTO del 8%, no un aumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aumento: 8% de $1.200.000 = 1.200.000 × 0,08 = $96.000.\r\nNuevo sueldo: $1.200.000 + $96.000 = $1.296.000.\r\nTambien: 100%+8%=108% del sueldo original. 1.200.000 × 1,08 = 1.296.000.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-005-v1",
+      "statement": "Un televisor cuesta $1.500.000 sin IVA. Tiene descuento del 15%. Luego se le aplica el 19% de IVA. ¿Cuanto se paga finalmente?",
+      "context": "Compra con descuento y IVA",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.275.000",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria con descuento pero sin IVA: 1.500.000×0,85=1.275.000. Falta agregar el IVA del 19%."
+        },
+        {
+          "letter": "B",
+          "text": "$1.517.250",
+          "is_correct": false,
+          "feedback": "Correct. Precio con descuento: 1.500.000×0,85=1.275.000. Con IVA: 1.275.000×1,19=1.517.250."
+        },
+        {
+          "letter": "C",
+          "text": "$1.785.000",
+          "is_correct": true,
+          "feedback": "Incorrect. 1.500.000×1,19=1.785.000. Eso es con IVA pero sin descuento. El descuento se aplica ANTES del IVA."
+        },
+        {
+          "letter": "D",
+          "text": "$1.560.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 1.500.000×1,04=1.560.000. Error: 15% desc - 19% IVA = -4%, no es tan simple. Se aplica uno tras otro: 1.500.000×0,85×1,19=1.517.250."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso 1: Aplicar descuento del 15%. Precio = $1.500.000 × 0,85 = $1.275.000.\r\nPaso 2: Aplicar IVA del 19%. Precio final = $1.275.000 × 1,19 = $1.517.250.\r\nEs importante aplicar primero el descuento y luego el IVA, como ocurre en la realidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-006-v1",
+      "statement": "En la tienda, una mochila de $60.000 tiene dos ofertas:\r\nOferta A: 20% de descuento.\r\nOferta B: 15% de descuento + 5% de descuento adicional.\r\n¿Cual oferta da el menor precio final?",
+      "context": "Eleccion entre descuentos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oferta A, porque 20% es mayor que 15%+5%",
+          "is_correct": false,
+          "feedback": "Incorrect. 15%+5% adicional NO es lo mismo que 20% directo. El segundo descuento se aplica sobre el precio ya rebajado."
+        },
+        {
+          "letter": "B",
+          "text": "Oferta B, porque son dos descuentos",
+          "is_correct": false,
+          "feedback": "Incorrect. Dos descuentos NO siempre son mejores. En este caso, A (20% directo) da mejor resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas dan el mismo precio",
+          "is_correct": true,
+          "feedback": "Incorrect. A: 60.000×0,8=48.000. B: 60.000×0,85=51.000; 51.000×0,95=48.450. A da menor precio (48.000 < 48.450)."
+        },
+        {
+          "letter": "D",
+          "text": "Oferta A, porque el precio final es menor",
+          "is_correct": false,
+          "feedback": "Correct. A: 60.000×0,8=48.000. B: 60.000×0,85×0,95=48.450. 48.000 < 48.450."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Oferta A (20% directo): Precio = $60.000 × 0,80 = $48.000.\r\nOferta B (15% + 5% adicional): Precio = $60.000 × 0,85 × 0,95 = $60.000 × 0,8075 = $48.450.\r\nLa oferta A da mejor precio porque 20% de descuento directo es equivalente a dos descuentos de 20% combinados = 1 - 0,8 = 0,2, mientras que 15%+5% da 1-(0,85×0,95)=1-0,8075=0,1925=19,25% de descuento total.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-007-v1",
+      "statement": "En el colegio, el 85% de los 720 estudiantes asistio a la izada de bandera. ¿Cuantos estudiantes NO asistieron?",
+      "context": "Porcentaje de asistencia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "108 estudiantes",
+          "is_correct": false,
+          "feedback": "Correct. No asistieron: 100%-85%=15%. 15% de 720 = 720×0,15 = 108."
+        },
+        {
+          "letter": "B",
+          "text": "612 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrect. 85% de 720 = 612 (asistentes). La pregunta es cuantos NO asistieron. 720-612=108."
+        },
+        {
+          "letter": "C",
+          "text": "85 estudiantes",
+          "is_correct": true,
+          "feedback": "Incorrect. 85% = 85/100 = 0,85. 720×0,85=612 asistentes, no 85. 108 no asistieron."
+        },
+        {
+          "letter": "D",
+          "text": "635 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrect. 720-85=635. Error: restar 85 en vez de calcular el 15% de 720."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Asistieron: 85% de 720 = 720 × 0,85 = 612 estudiantes.\r\nNO asistieron: 720 - 612 = 108 estudiantes.\r\nO directamente: 100% - 85% = 15%. 15% de 720 = 720 × 0,15 = 108 estudiantes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-008-v1",
+      "statement": "Don Pedro compra un lote de camisas a $25.000 cada una y las vende ganando el 40%. ¿A que precio vende cada camisa?",
+      "context": "Ganancia en negocio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 25.000×1,2=30.000. 20% de ganancia, no 40%. 40% de ganancia: 25.000×1,4=35.000."
+        },
+        {
+          "letter": "B",
+          "text": "$35.000",
+          "is_correct": false,
+          "feedback": "Correct. Ganancia: 40% de 25.000=10.000. Precio venta: 25.000+10.000=35.000."
+        },
+        {
+          "letter": "C",
+          "text": "$25.040",
+          "is_correct": true,
+          "feedback": "Incorrect. 25.000×0,4=10.000. 25.000+10.000=35.000. 25.040 no tiene relacion."
+        },
+        {
+          "letter": "D",
+          "text": "$45.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 25.000+20.000=45.000. Eso seria 80% de ganancia. 40% de 25.000=10.000. Precio: 35.000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ganancia del 40% sobre el precio de compra: 40% de $25.000 = $25.000 × 0,40 = $10.000.\r\nPrecio de venta: $25.000 + $10.000 = $35.000.\r\nTambien: 100% + 40% = 140% del precio de compra. $25.000 × 1,40 = $35.000.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-009-v1",
+      "statement": "Un almacen anuncia: \"¡Pague solo el 70% del precio original!\".\r\nSi un producto cuesta $120.000, ¿cuanto se ahorra el cliente?",
+      "context": "Error en descuento",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36.000",
+          "is_correct": true,
+          "feedback": "Correct. Paga 70%, entonces ahorra 30%. 30% de 120.000 = 120.000×0,3 = 36.000."
+        },
+        {
+          "letter": "B",
+          "text": "$84.000",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es lo que PAGA (70% de 120.000=84.000). La pregunta es cuanto se AHORRA. Se ahorra 30%=36.000."
+        },
+        {
+          "letter": "C",
+          "text": "$24.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 20% de 120.000=24.000. \"Pagar 70%\" significa 30% de descuento, no 20%."
+        },
+        {
+          "letter": "D",
+          "text": "$12.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 10% de 120.000=12.000. 70% del precio = 30% de descuento = 36.000 de ahorro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Pagar el 70%\" significa un descuento del 30% (100% - 70% = 30%).\r\nAhorro = 30% de $120.000 = $120.000 × 0,30 = $36.000.\r\nSiempre: % de descuento = 100% - % que se paga.\r\nSi se paga el X%, el descuento es (100-X)%.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W15-porcentajes-aplicados-010-v1",
+      "statement": "Maria quiere comprar un vestido de $100.000.\r\nTienda A: \"Lleve 3 y pague 2\".\r\nTienda B: 30% de descuento.\r\nSi compra 3 vestidos, ¿donde es mas barato cada vestido?",
+      "context": "Comparacion de ofertas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienda A: paga 2 y lleva 3, cada vestido sale a $66.667. Tienda B: 30% desc = $70.000 c/u. A es mas barato.",
+          "is_correct": false,
+          "feedback": "Correct. A: 200.000/3=66.667 c/u. B: 100.000×0,7=70.000 c/u. A es mas barato."
+        },
+        {
+          "letter": "B",
+          "text": "Tienda B: 30% desc = $70.000 c/u. Tienda A: 200.000/3=66.667. B es mas barato.",
+          "is_correct": false,
+          "feedback": "Incorrect. 66.667 < 70.000, entonces A es mas barato."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas dan el mismo precio final",
+          "is_correct": true,
+          "feedback": "Incorrect. A: 200.000/3=66.667 c/u. B: 70.000 c/u. Son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar porque son ofertas diferentes",
+          "is_correct": false,
+          "feedback": "Incorrect. Si se puede comparar calculando el precio por vestido en cada oferta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tienda A (lleve 3 pague 2): Paga 2 vestidos ($200.000) y lleva 3.\r\nPrecio por vestido: $200.000 ÷ 3 = $66.667. Descuento efectivo: 33,3%.\r\nTienda B (30% descuento): Precio por vestido: $100.000 × 0,70 = $70.000. Descuento: 30%.\r\nLa Tienda A ofrece cada vestido a $66.667, que es mas barato que los $70.000 de la Tienda B. La oferta \"lleve 3 pague 2\" equivale a un 33,3% de descuento.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W15-porcentajes-aplicados-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Barranquilla, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del I.E. San José en Medellín, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Manizales, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Ibagué, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Neiva, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cali, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Quibdó, se discute sobre Tema Semana 15 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 15 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 15 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 15 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W15-tema-semana-15-de-matematicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,835 +1,891 @@
 {
   "metadata": {
     "grade": 11,
-    "subject": "ciencias-naturales",
+    "subject": "Ciencias Naturales",
     "country": "cl",
     "pack_id": "cl-week-1-grade-11-subject-ciencias_naturales",
     "generated_at": "2026-06-18T23:59:05.790Z"
   },
   "questions": [
     {
-      "id": "q-0",
-      "statement": "**Bloom Level:** Remember\r\n**ICFES Competency:** Identificación de conceptos fundamentales en química\r\n\n**Statement:** ¿Cuál de las siguientes sustancias corresponde a un compuesto químico?",
-      "context": "En un laboratorio del Liceo Técnico de Valdivia, estudiantes clasifican muestras recolectadas en la costa.",
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v1",
+      "statement": "Simplifique: (5)(6x + 47)",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
       "options": [
         {
           "letter": "A",
-          "text": "Oxígeno (O₂)",
-          "is_correct": false,
-          "feedback": ""
+          "text": "** 30x + 235",
+          "is_correct": true,
+          "feedback": "Correcto!"
         },
         {
           "letter": "B",
-          "text": "Dióxido de carbono (CO₂)",
-          "is_correct": true,
-          "feedback": ""
+          "text": "** 30x + 47",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Nitrógeno (N₂)",
+          "text": "** 11x + 235",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Hierro (Fe)\r\n\r\n**Pedagogical Explanation:** Un compuesto químico está formado por dos o más elementos diferentes en proporción fija. El CO₂ combina carbono y oxígeno, por lo que es un compuesto. O₂, N₂ y Fe son sustancias formadas por un solo tipo de elemento (sustancias elementales). Los estudiantes suelen confundir moléculas diatómicas como O₂ con compuestos porque poseen enlace coovalente, pero no todo enlace implica composición multi-elemental.\r\n\r\n---",
+          "text": "** 30x - 235\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (5)(6x + 47) = 30x + 235.\r\n\r\n---",
           "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-1",
-      "statement": "**Bloom Level:** Remember\r\n**ICFES Competency:** Comprensión de modelos atómicos y estructura de la materia\r\n\n**Statement:** Según el modelo atómico actual, ¿cuál es la ubicación correcta de los protones en un átomo?",
-      "context": "Durante una visita al Museo Interactivo de Ciencia y Tecnología en Santiago, un grupo observa una representación del modelo atómico actual.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En la nube electrónica alrededor del núcleo",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "En el núcleo junto con los neutrones",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "En las órbitas específicas del átomo",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Distribuidos uniformemente en todo el átomo\r\n\r\n**Pedagogical Explanation:** En el modelo atómico actual (modelo de nube electrónica cuántica), los protones y neutrones se ubican en el núcleo, mientras que los electrones se distribuyen en orbitales alrededor de este. La opción A confunde protones con electrones; la C remite al modelo de Bohr; la D se asemeja al modelo de Thomson (\"pudín de pasas\").\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-2",
-      "statement": "**Bloom Level:** Understand\r\n**ICFES Competency:** Interpretación de la tabla periódica y propiedades de los elementos\r\n\n**Statement:** ¿Por qué el cobre (Cu) es un buen conductor eléctrico a nivel atómico?",
-      "context": "En una feria científica del Liceo 1 de Concepción, estudiantes analizan elementos de la tabla periódica relevantes para la minería chilena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque tiene un solo electrón en su capa más externa",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Porque sus electrones de valencia pueden moverse con facilidad entre átomos",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Porque posee más protones que electrones en su núcleo",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Porque todos los metales son igualmente conductores\r\n\r\n**Pedagogical Explanation:** La conductividad eléctrica de los metales como el cobre se debe a la movilidad de sus electrones de valencia, que forman un \"mar de electrones\" deslocalizados. La opción A es incorrecta porque el Cu tiene un electrón 4s pero también tiene la configuración 3d¹⁰4s¹; la C confunde estructura nuclear con conductividad; la D es una generalización falsa ya que la conductividad varía entre metales.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-3",
-      "statement": "**Bloom Level:** Understand\r\n**ICFES Competency:** Comprensión de la nomenclatura química inorgánica\r\n\n**Statement:** La fórmula H₂SO₄ corresponde al ácido sulfúrico. ¿Qué indica el subíndice 4 en esta fórmula?",
-      "context": "En una empresa minera de Antofagasta, los técnicos deben identificar correctamente los reactivos utilizados en la lixiviación del cobre.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que hay 4 moléculas de ácido sulfúrico",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Que hay 4 átomos de oxígeno en cada molécula",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Que el oxígeno tiene número de oxidación 4",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Que el azufre tiene 4 enlaces posibles\r\n\r\n**Pedagogical Explanation:** En una fórmula química, los subíndices indican el número de átomos de cada elemento en una unidad de la sustancia. El \"4\" señala que hay 4 átomos de O por molécula. La opción A confunde subíndice con coeficiente; la C confunde subíndice con estado de oxidación; la D confunde subíndice con valencia, aunque en este caso coinciden numéricamente, el significado es distinto.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-4",
-      "statement": "**Bloom Level:** Apply\r\n**ICFES Competency:** Aplicación de conceptos de enlace químico a situaciones concretas\r\n\n**Statement:** El cloruro de sodio (NaCl) y el cloruro de hidrógeno (HCl) contienen ambos cloro. ¿Por qué el NaCl tiene un punto de fusión mucho más alto que el HCl?",
-      "context": "En la industria salitrera de Tarapacá, se utilizan diversas sustancias iónicas y covalentes en los procesos de extracción.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque el NaCl tiene mayor masa molar que el HCl",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Porque el NaCl forma una red iónica con fuerzas electrostáticas fuertes entre iones",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Porque el enlace Na–Cl es más largo que el enlace H–Cl",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Porque el cloro en NaCl tiene mayor electronegatividad que en HCl\r\n\r\n**Pedagogical Explanation:** El NaCl es un compuesto iónico que forma una red cristalina tridimensional donde cada ion está rodeado por iones de carga opuesta, generando fuerzas electrostáticas intensas que requieren mucha energía para romper. El HCl es molecular (covalente) con fuerzas intermoleculares débiles (dipolo-dipolo). La masa molar (A) no determina puntos de fusión; la longitud de enlace (C) no explica la diferencia macroscópica; la electronegatividad del cloro (D) es la misma en ambos compuestos.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-5",
-      "statement": "**Bloom Level:** Apply\r\n**ICFES Competency:** Balanceo de ecuaciones químicas y conservación de la masa\r\n\n**Statement:** ¿Cuáles son los coeficientes estequiométricos correctos para balancear la reacción Cl₂ + H₂O → HCl + HClO?",
-      "context": "En una planta de tratamiento de aguas en Valparaíso, se agrega cloro gaseoso para desinfectar el agua potable según la reacción: Cl₂ + H₂O → HCl + HClO.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "1, 1, 1, 1",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "1, 1, 1, 1 (ya está balanceada)",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "2, 2, 2, 2",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "1, 2, 1, 1\r\n\r\n**Pedagogical Explanation:** La reacción Cl₂ + H₂O → HCl + HClO ya está balanceada con coeficientes 1:1:1:1, ya que hay 2 Cl, 2 H y 1 O en ambos lados. La opción C duplica innecesariamente los coeficientes (aunque técnicamente está balanceada, no son los mínimos enteros); la D desbalancea el O (2 O en reactivos vs 1 en productos). Los estudiantes suelen pensar que toda ecuación debe tener coeficientes mayores a 1.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-6",
-      "statement": "**Bloom Level:** Apply\r\n**ICFES Competency:** Cálculos estequiométricos con mol y número de Avogadro\r\n\n**Statement:** ¿Cuántas moléculas de CO₂ están presentes en 0.5 moles de esta sustancia?",
-      "context": "En un análisis de calidad del aire en Santiago, se detectan 0.5 moles de CO₂ emitidos por un motor de combustión.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "6.022 × 10²³ moléculas",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "3.011 × 10²³ moléculas",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "1.204 × 10²³ moléculas",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "6.022 × 10²⁰ moléculas\r\n\r\n**Pedagogical Explanation:** Un mol contiene 6.022 × 10²³ partículas (número de Avogadro). Para 0.5 moles: 0.5 × 6.022 × 10²³ = 3.011 × 10²³ moléculas. La opción A corresponde a 1 mol; la C corresponde a 0.2 moles; la D tiene el exponente incorrecto (10²⁰ en vez de 10²³). Estos errores son comunes cuando los estudiantes olvidan multiplicar por el número de moles o confunden potencias de 10.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-7",
-      "statement": "**Bloom Level:** Understand\r\n**ICFES Competency:** Comprensión de soluciones, concentración y solubilidad\r\n\n**Statement:** Si se disuelven 20 g de azúcar (C₁₂H₂₂O₁₁) en 180 g de agua, ¿cuál es la concentración porcentual en masa de la solución?",
-      "context": "En la producción de vino en la Región del Maule, los enólogos controlan la concentración de alcohol y azúcar en la solución.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "20%",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "10%",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "11.1%",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "180%\r\n\r\n**Pedagogical Explanation:** El porcentaje en masa = (masa soluto / masa solución) × 100. Masa solución = 20 g + 180 g = 200 g. Porcentaje = (20/200) × 100 = 10%. La opción A usa solo la masa del soluto sin dividir por la masa total; la C divide 20/180 (confunde masa de solución con masa de solvente); la D es un error de cálculo grosero. La confusión entre masa de solución y masa de solvente es uno de los errores más frecuentes.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-8",
-      "statement": "**Bloom Level:** Apply\r\n**ICFES Competency:** Aplicación de leyes de los gases a situaciones reales\r\n\n**Statement:** Si el globo asciende y la presión disminuye a 0.5 atm manteniendo constante la temperatura, ¿qué ocurre con el volumen del gas según la ley de Boyle?",
-      "context": "Un globo meteorológico lanzado desde la base antártica chilena contiene helio a presión de 1.0 atm y temperatura de 300 K en superficie.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El volumen se reduce a la mitad",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "El volumen se duplica",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "El volumen permanece constante",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "El volumen se cuadruplica\r\n\r\n**Pedagogical Explanation:** La ley de Boyle establece que P₁V₁ = P₂V₂ a temperatura constante. Si P₂ = P₁/2, entonces V₂ = 2V₁. La presión y el volumen son inversamente proporcionales. La opción A invierte la relación; la C ignora la dependencia entre P y V; la D exagera el efecto. Los estudiantes frecuentemente confunden proporcionalidad directa con inversa.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-9",
-      "statement": "**Bloom Level:** Understand\r\n**ICFES Competency:** Identificación de ácidos y bases según teoría de Brønsted-Lowry\r\n\n**Statement:** Según la teoría de Brønsted-Lowry, en la reacción NH₃ + H₂O → NH₄⁺ + OH⁻, ¿qué especie actúa como ácido?",
-      "context": "En el laboratorio de una empresa salmonera en Puerto Montt, se regulan el pH del agua para el cultivo de salmónidos usando ácidos y bases débiles.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "NH₃",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "H₂O",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "NH₄⁺",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "OH⁻\r\n\r\n**Pedagogical Explanation:** Según Brønsted-Lowry, un ácido dona un protón (H⁺) y una base lo acepta. En la reacción, H₂O dona un H⁺ a NH₃, por lo tanto H₂O es el ácido y NH₃ es la base. NH₄⁺ es el ácido conjugado (producto) y OH⁻ es la base conjugada (producto). Los estudiantes suelen confundir el ácido con el ácido conjugado (C) o creen que NH₃ es el ácido (A) porque la solución resulta básica.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-10",
-      "statement": "**Bloom Level:** Analyze\r\n**ICFES Competency:** Análisis de reacciones redox y cálculo de estados de oxidación\r\n\n**Statement:** En la reacción Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag, ¿cuál es la especie que se reduce?",
-      "context": "En la minería del cobre en Chile, la lixiviación implica reacciones de oxidación-reducción. Una reacción simplificada es: Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cu",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Ag⁺",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Cu²⁺",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "NO₃⁻\r\n\r\n**Pedagogical Explanation:** La reducción implica ganancia de electrones (disminución del estado de oxidación). El Cu pasa de 0 a +2 (se oxida, pierde electrones). El Ag⁺ pasa de +1 a 0 (se reduce, gana electrones). La opción A es la especie que se oxida; la C es el producto de oxidación; la D es ion espectador. Un error común es confundir la especie que se oxida con la que se reduce o confundir reactivo con producto.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-11",
-      "statement": "**Bloom Level:** Analyze\r\n**ICFES Competency:** Análisis de termoquímica y cálculos energéticos\r\n\n**Statement:** Si se queman 24 g de carbón (C), ¿cuánta energía se libera? (Masa molar del C = 12 g/mol)",
-      "context": "En la combustión de carbón en centrales termoeléctricas de la Región del Biobío, se libera energía calórica según: C(s) + O₂(g) → CO₂(g) ΔH = −393.5 kJ/mol.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "393.5 kJ",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "787.0 kJ",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "196.75 kJ",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "4722.0 kJ\r\n\r\n**Pedagogical Explanation:** Se queman 24 g de C, lo que equivale a 24/12 = 2 moles. La energía liberada = 2 mol × 393.5 kJ/mol = 787.0 kJ. La opción A asume 1 mol (ignora que son 2 moles); la C divide entre 2; la D multiplica por 12 (masa molar) en vez de dividir. La confusión entre gramos y moles es un error sistemático frecuente.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-12",
-      "statement": "**Bloom Level:** Analyze\r\n**ICFES Competency:** Aplicación del principio de Le Chatelier al equilibrio químico\r\n\n**Statement:** Si se aumenta la presión sobre el sistema en equilibrio, ¿qué ocurre según el principio de Le Chatelier?",
-      "context": "En la industria de fertilizantes en Chile, se produce amoníaco mediante: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = −92 kJ/mol.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El equilibrio se desplaza hacia los reactivos",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "El equilibrio se desplaza hacia la formación de NH₃",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "No hay cambio en el equilibrio",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Se produce más N₂ y H₂\r\n\r\n**Pedagogical Explanation:** Según Le Chatelier, un aumento de presión desplaza el equilibrio hacia el lado con menor número de moles gaseosos. Hay 4 moles de gas en reactivos (1 N₂ + 3 H₂) y 2 moles en productos (2 NH₃), por lo tanto el equilibrio se desplaza hacia NH₃. La opción A invierte el desplazamiento; la C ignora el efecto de la presión; la D contradice el principio.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-13",
-      "statement": "**Bloom Level:** Apply\r\n**ICFES Competency:** Cálculos de reactivo limitante y rendimiento",
-      "context": "En la producción de ácido sulfúrico en una planta de Chuquicamata, se hace reaccionar azufre con oxígeno: S + O₂ → SO₂. Si se tienen 64 g de S y 48 g de O₂, ¿cuál es el reactivo limitante? (Masas molares: S = 32 g/mol, O₂ = 32 g/mol)",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El azufre (S)",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "El oxígeno (O₂)",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Ambos se consumen completamente",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "No se puede determinar con los datos\r\n\r\n**Pedagogical Explanation:** 64 g de S = 2 mol de S; 48 g de O₂ = 1.5 mol de O₂. La relación estequiométrica es 1:1, por lo que se necesitan 2 mol de O₂ para 2 mol de S, pero solo hay 1.5 mol de O₂. El O₂ es el reactivo limitante. La opción A ignora la estequiometría; la C asume relación 1:1 con moles iguales sin verificar; la D evade el cálculo. Los estudiantes frecuentemente eligen el reactivo con menor masa en gramos sin convertir a moles.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-14",
-      "statement": "**Bloom Level:** Analyze\r\n**ICFES Competency:** Análisis de cinética química y factores que afectan la velocidad de reacción\r\n\n**Statement:** ¿Por qué la leche refrigerada a 4 °C se conserva más tiempo que la leche a temperatura ambiente (25 °C)?",
-      "context": "En la industria alimentaria chilena, la conservación de alimentos depende de controlar la velocidad de reacciones de descomposición.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque el frío destruye las bacterias del aire",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Porque la menor temperatura reduce la energía cinética de las moléculas, disminuyendo las colisiones efectivas",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Porque la refrigeración altera la composición química de la leche",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Porque las bacterias no pueden sobrevivir a cualquier temperatura bajo 10 °C\r\n\r\n**Pedagogical Explanation:** La temperatura afecta la velocidad de reacción: al disminuir, las moléculas tienen menor energía cinética, se mueven más lento y las colisiones efectivas (con energía suficiente y orientación adecuada) disminuyen, retardando las reacciones de descomposición. La opción A es incorrecta porque el frío no destruye bacterias, solo inhibe su metabolismo; la C es falsa porque no hay cambio composicional; la D es errónea porque muchas bacterias sobreviven bajo 10 °C (psicrófilas).\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-15",
-      "statement": "**Bloom Level:** Analyze\r\n**ICFES Competency:** Identificación de grupos funcionales en compuestos orgánicos\r\n\n**Statement:** La conversión de etanol (CH₃CH₂OH) a ácido acético (CH₃COOH) durante la fermentación acética implica el cambio de un grupo funcional. ¿Qué grupos funcionales están involucrados?",
-      "context": "En la industria vitivinícola chilena del Valle Central, se producen compuestos orgánicos como etanol y ácido acético durante la fermentación.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Alqueno a ácido carboxílico",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Alcohol a ácido carboxílico",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Aldehído a cetona",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Alcohol a aldehído\r\n\r\n**Pedagogical Explanation:** El etanol contiene el grupo hidroxilo (–OH), característico de los alcoholes. El ácido acético contiene el grupo carboxilo (–COOH), característico de los ácidos carboxílicos. La oxidación convierte –CH₂OH en –COOH. La opción A menciona alqueno (doble enlace C=C); la C confunde aldehído con alcohol y cetona con ácido; la D describe solo una oxidación parcial.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-16",
-      "statement": "**Bloom Level:** Evaluate\r\n**ICFES Competency:** Evaluación de sistemas electroquímicos y cálculos de potencial de celda\r\n\n**Statement:** ¿Cuál es el potencial estándar de la celda y qué especie actúa como agente reductor?",
-      "context": "En una empresa de energía renovable en Santiago, se desarrollan celdas de combustible. Se construye una celda galvánica con los pares: Zn²⁺/Zn (E° = −0.76 V) y Cu²⁺/Cu (E° = +0.34 V).",
-      "options": [
-        {
-          "letter": "A",
-          "text": "E°celda = 1.10 V y Cu²⁺ es el agente reductor",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "E°celda = 1.10 V y Zn es el agente reductor",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "E°celda = 0.42 V y Zn²⁺ es el agente reductor",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "E°celda = −0.42 V y Cu es el agente reductor\r\n\r\n**Pedagogical Explanation:** E°celda = E°cátodo − E°ánodo = 0.34 − (−0.76) = 1.10 V. El Zn se oxida (actúa como ánodo y agente reductor) y el Cu²⁺ se reduce (actúa como cátodo y agente oxidante). La opción A confunde el agente reductor; la C calcula mal el potencial (0.34 − (−0.76) ≠ 0.42); la D invierte el signo y confunde las especies. Los estudiantes frecuentemente confunden agente reductor (el que se oxida) con agente oxidante (el que se reduce).\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-17",
-      "statement": "**Bloom Level:** Evaluate\r\n**ICFES Competency:** Cálculo de pH en soluciones buffer y evaluación de sistemas amortiguadores\r\n\n**Statement:** ¿Cuál es el pH aproximado de esta solución buffer?",
-      "context": "En un laboratorio de la Universidad de Chile, se prepara una solución buffer con ácido acético 0.20 M y acetato de sodio 0.30 M. (Ka del ácido acético = 1.8 × 10⁻⁵).",
-      "options": [
-        {
-          "letter": "A",
-          "text": "pH ≈ 4.44",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "pH ≈ 4.92",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "pH ≈ 5.30",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "pH ≈ 3.70\r\n\r\n**Pedagogical Explanation:** Usando la ecuación de Henderson-Hasselbalch: pH = pKa + log([A⁻]/[HA]) = −log(1.8 × 10⁻⁵) + log(0.30/0.20) = 4.74 + log(1.5) = 4.74 + 0.18 = 4.92. La opción A usa log(0.20/0.30) invirtiendo la relación; la C suma en vez de usar logaritmo; la D resta en vez de sumar. Los errores más comunes son invertir la relación [base]/[ácido] o calcular mal el pKa.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "q-18",
-      "statement": "**Bloom Level:** Evaluate\r\n**ICFES Competency:** Aplicación avanzada del equilibrio químico, constante de equilibrio y principio de Le Chatelier\r\n\n**Statement:** ¿Hacia qué dirección evolucionará el sistema para alcanzar el equilibrio?",
-      "context": "En la síntesis de metanol industrial en Chile: CO(g) + 2H₂(g) ⇌ CH₃OH(g) ΔH = −90.8 kJ/mol. A 500 K, la Kc = 2.5 × 10⁻³. Se analiza un sistema con [CO] = 0.10 M, [H₂] = 0.20 M, [CH₃OH] = 0.01 M.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hacia la izquierda, porque Qc > Kc",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Hacia la derecha, porque Qc < Kc",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Hacia la izquierda, porque Qc < Kc",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Hacia la derecha, porque Qc > Kc\r\n\r\n**Pedagogical Explanation:** Qc = [CH₃OH]/([CO][H₂]²) = 0.01/(0.10 × 0.20²) = 0.01/0.004 = 2.5. Como Qc (2.5) > Kc (0.0025), el sistema evolucionará hacia la izquierda para consumir productos y formar reactivos. CORRECCIÓN: La respuesta correcta es A, no B. Qc = 2.5 y Kc = 0.0025, por lo tanto Qc > Kc y el sistema se desplaza a la izquierda. Reasignando: la opción A es la correcta.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Hacia la izquierda, porque Qc > Kc",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Hacia la derecha, porque Qc < Kc",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Hacia la izquierda, porque Qc < Kc",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Hacia la derecha, porque Qc > Kc\r\n\r\n**Pedagogical Explanation (corregida):** Qc = [CH₃OH]/([CO][H₂]²) = 0.01/(0.10 × 0.04) = 0.01/0.004 = 2.5. Kc = 2.5 × 10⁻³ = 0.0025. Como Qc (2.5) > Kc (0.0025), el cociente supera la constante, hay exceso de productos y el sistema evoluciona hacia la izquierda (hacia reactivos). La opción B invierte la comparación; la C tiene dirección correcta pero razón equivocada; la D tiene razón y dirección invertidas.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
       "correct_answer": "A",
       "explanation": "",
-      "difficulty": "10",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "q-19",
-      "statement": "**Bloom Level:** Evaluate\r\n**ICFES Competency:** Integración de conceptos de termodinámica, cinética y equilibrio para evaluar viabilidad de procesos\r\n\n**Statement:** ¿Qué combinación de condiciones operacionales maximizaría la producción de H₂ por electrólisis del agua?",
-      "context": "Una empresa energética chilena evalúa producir hidrógeno verde mediante electrólisis del agua: 2H₂O(l) → 2H₂(g) + O₂(g) ΔH = +572 kJ/mol, Ea = 460 kJ/mol. Se busca maximizar el rendimiento a escala industrial.",
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
       "options": [
         {
           "letter": "A",
-          "text": "Alta temperatura, baja presión, sin catalizador",
-          "is_correct": false,
-          "feedback": ""
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
         },
         {
           "letter": "B",
-          "text": "Alta temperatura, baja presión, con catalizador",
-          "is_correct": true,
-          "feedback": ""
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "C",
-          "text": "Baja temperatura, alta presión, sin catalizador",
+          "text": "** 8",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Revisa el concepto."
         },
         {
           "letter": "D",
-          "text": "Baja temperatura, alta presión, con catalizador\r\n\r\n**Pedagogical Explanation:** La reacción es endotérmica (ΔH > 0), por lo que alta temperatura favorece la formación de productos (Le Chatelier). Como hay 3 moles de gas en productos vs 0 en reactivos, baja presión favorece los productos. El catalizador reduce la energía de activación, aumentando la velocidad sin alterar el equilibrio, pero permitiendo alcanzarlo más rápido. La opción A omite el catalizador; la C usa baja temperatura (desfavorable) y alta presión (desfavorable); la D usa baja temperatura y alta presión, ambas desfavorables termodinámicamente. La integración de los tres factores es clave para la comprensión profunda.",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "",
-      "difficulty": "10",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "chile-ciencias-naturales-11-P1-quimica-1-MASTERY-bundle",
+      "bloom": "Understand",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v3",
+      "statement": "Maria compro 5 cuadernos a $5.2 c/u en Copiapo. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $25.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $10.2\r\n  \r\n\r\n**Explicacion:** Total = 5 x 5 = $25.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v4",
+      "statement": "Un estudiante de Liceo Manuel Montt en Puerto Montt grafica f(x) = 2x + 7. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v5",
+      "statement": "En Osorno, un estudiante del Liceo Eleuterio Ramirez resuelve: 8x + 11 = 51. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v6",
+      "statement": "Simplifique: (8)(5x + 30)",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 240",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 240",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 40x - 240\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(5x + 30) = 40x + 240.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v8",
+      "statement": "Maria compro 7 cuadernos a $7.3 c/u en Santiago. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $49.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $7.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $14.3\r\n  \r\n\r\n**Explicacion:** Total = 7 x 7 = $49.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v9",
+      "statement": "Un estudiante de Liceo Narciso Tondreau en Chillan grafica f(x) = 4x + 11. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v10",
+      "statement": "En Punta Arenas, un estudiante del Liceo Luis Alberto Barrera resuelve: 5x + 7 = 32. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 7 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v11",
+      "statement": "Simplifique: (6)(3x + 36)",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 18x + 216",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18x + 36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9x + 216",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 18x - 216\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(3x + 36) = 18x + 216.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v13",
+      "statement": "Maria compro 8 cuadernos a $5.2 c/u en Osorno. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $8.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.2\r\n  \r\n\r\n**Explicacion:** Total = 8 x 5 = $40.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v14",
+      "statement": "Un estudiante de Liceo Bernardo O'Higgins en Iquique grafica f(x) = 3x + 3. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v15",
+      "statement": "En Punta Arenas, un estudiante del Liceo Luis Alberto Barrera resuelve: 8x + 1 = 41. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Se resta 1 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v16",
+      "statement": "Simplifique: (6)(8x + 46)",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 48x + 276",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 48x + 46",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 276",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 48x - 276\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(8x + 46) = 48x + 276.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v18",
+      "statement": "Maria compro 2 cuadernos a $2.3 c/u en Temuco. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $4.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $4.3\r\n  \r\n\r\n**Explicacion:** Total = 2 x 2 = $4.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v19",
+      "statement": "Un estudiante de Liceo Jose Antonio Carvajal en Copiapo grafica f(x) = 5x + 7. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-v20",
+      "statement": "En Arica, un estudiante del Liceo Domingo Santa Maria resuelve: 6x + 7 = 37. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando metodo cientifico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 7 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-CIE-11-2026-W01-metodo-cientifico-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

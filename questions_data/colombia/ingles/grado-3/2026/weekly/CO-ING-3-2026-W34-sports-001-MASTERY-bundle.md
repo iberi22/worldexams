@@ -1,237 +1,205 @@
 ---
-id: "CO-ING-3-2026-W34-sports-001-MASTERY"
+id: "CO-ING-3-2026-W34-sports-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "sports"
 periodo: "weekly"
-semana: 34
+week: "W34"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.85
-rubric_baseline: "Identification of common sports and equipment in English (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Sports (W34)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W34: Sports (A1)
-
-This bundle focuses on identifying common sports and the equipment used for them in English, aligned with CEFR A1.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Playing with a ball and feet.
-
-### Enunciado
-In which sport do you **kick** a ball into a **goal** (arco)? ⚽
-
-### Options
-- [ ] A) Basketball <!-- feedback: Incorrect. You use your hands in basketball. -->
-- [x] B) Soccer <!-- feedback: Correct! Soccer is the most popular sport in Colombia. -->
-- [ ] C) Tennis <!-- feedback: Incorrect. -->
-- [ ] D) Swimming <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Soccer" (fútbol) es el deporte donde se patea un balón para anotar goles.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Sport in a pool.
-
-### Enunciado
-What sport do you do in a **swimming pool**? 🏊‍♂️
-
-### Options
-- [x] A) Swimming <!-- feedback: Correct! Swimming is the sport of moving through water. -->
-- [ ] B) Baseball <!-- feedback: Incorrect. Baseball is played on a field. -->
-- [ ] C) Cycling <!-- feedback: Incorrect. -->
-- [ ] D) Soccer <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Swimming" significa natación. Es la actividad física que se realiza en el agua.
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Using hands and a hoop.
-
-### Enunciado
-In this sport, you **throw** the ball into a high **hoop** (aro). 🏀
-
-### Options
-- [ ] A) Soccer <!-- feedback: Incorrect. -->
-- [x] B) Basketball <!-- feedback: Correct! Basketball involves throwing the ball into a hoop. -->
-- [ ] C) Tennis <!-- feedback: Incorrect. -->
-- [ ] D) Running <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Basketball" (baloncesto) se juega encestando el balón en un aro elevado.
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Cycling in Colombia.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What sport uses a **bicycle** and is very famous in Colombia? 🚲
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Skating <!-- feedback: Incorrect. -->
-- [x] B) Cycling <!-- feedback: Correct! Cycling is very popular in Colombia. -->
-- [ ] C) Golf <!-- feedback: Incorrect. -->
-- [ ] D) Volleyball <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Cycling" (ciclismo) es el deporte de montar en bicicleta, muy importante en la cultura deportiva colombiana.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Using a racket.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-To play **Tennis**, you need a ball and a... 🎾
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Bat <!-- feedback: Incorrect. Baseball uses a bat. -->
-- [x] B) Racket <!-- feedback: Correct! You hit the ball with a racket in tennis. -->
-- [ ] C) Helmet <!-- feedback: Incorrect. -->
-- [ ] D) Goal <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Racket" significa raqueta. Es el implemento necesario para golpear la pelota en el tenis.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Safety equipment.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-When you go **cycling** or **skating**, what do you wear on your **head** for safety? 🪖
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [x] A) A helmet <!-- feedback: Correct! A helmet protects your head. -->
-- [ ] B) A hat <!-- feedback: Incorrect. A hat doesn't protect from falls. -->
-- [ ] C) A cap <!-- feedback: Incorrect. -->
-- [ ] D) A glove <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Helmet" significa casco. Es un elemento de seguridad vital para deportes de velocidad o impacto.
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Identifying sport by action.
-
-### Enunciado
-You are at the **track**. You are moving very fast on your **feet**. You are... 🏃‍♀️
-
-### Options
-- [ ] A) Swimming <!-- feedback: Incorrect. -->
-- [ ] B) Jumping <!-- feedback: Incorrect. Jumping is up and down. -->
-- [x] C) Running <!-- feedback: Correct! Running is moving fast on foot. -->
-- [ ] D) Playing chess <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Running" (correr o atletismo) consiste en desplazarse velozmente a pie.
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Grouping sports by equipment.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which group of sports **always** uses a **ball**?
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [x] A) Soccer, Basketball, Tennis <!-- feedback: Correct! All three need a ball. -->
-- [ ] B) Swimming, Running, Cycling <!-- feedback: Incorrect. These don't need a ball. -->
-- [ ] C) Skating, Dancing, Jumping <!-- feedback: Incorrect. -->
-- [ ] D) Karate, Boxing, Running <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar los elementos necesarios para cada deporte. El fútbol, baloncesto y tenis son deportes de pelota (ball games).
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Identifying sport by shoes.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-You have **wheels** on the bottom of your **shoes**. You are practicing... ⛸️
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) Soccer <!-- feedback: Incorrect. -->
-- [x] B) Skating <!-- feedback: Correct! Skating uses shoes with wheels (skates). -->
-- [ ] C) Cycling <!-- feedback: Incorrect. You are on a bike, not wheels on shoes. -->
-- [ ] D) Basketball <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar el equipo especializado. El patinaje (Skating) se realiza con patines, que son calzado con ruedas.
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Understanding teamwork.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-In **Soccer**, you play with **11 people** on your team. Is it an **individual** or a **team** sport?
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [ ] A) Individual sport <!-- feedback: Incorrect. You need many people. -->
-- [x] B) Team sport <!-- feedback: Correct! Working with other people makes it a team sport. -->
-- [ ] C) Solo sport <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar la naturaleza social del deporte. Los deportes que se juegan en grupo se denominan "Team sports" (deportes de equipo).
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
-alignment: "DBA MEN Colombia 2026"
-cefr_level: "A2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Weekly Pack W16 — Prepositions of Place: Advanced
 
 **Grade:** 6° | **Periodo:** 2 | **Semana:** W16 | **Year:** 2026 | **CEFR:** A2

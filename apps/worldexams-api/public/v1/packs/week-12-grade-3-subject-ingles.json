@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-12-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v1",
+      "statement": "What are these: 👀 ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": true,
+          "feedback": "Correct! These are eyes."
+        },
+        {
+          "letter": "B",
+          "text": "Ears",
+          "is_correct": false,
+          "feedback": "Incorrect. Ears are for hearing."
+        },
+        {
+          "letter": "C",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ojos se dicen \"eyes\" en inglés. Usamos los ojos para ver.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v2",
+      "statement": "What is **\"Nariz\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Nose",
+          "is_correct": true,
+          "feedback": "Correct! Nose is nariz."
+        },
+        {
+          "letter": "C",
+          "text": "Eye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La nariz se dice \"nose\". La usamos para oler.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v3",
+      "statement": "What is **\"Boca\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Teeth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Mouth",
+          "is_correct": true,
+          "feedback": "Correct! Mouth is boca."
+        },
+        {
+          "letter": "D",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La boca se dice \"mouth\". La usamos para hablar y comer.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v4",
+      "statement": "What are **\"Orejas\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ears",
+          "is_correct": true,
+          "feedback": "Correct! Ears are orejas."
+        },
+        {
+          "letter": "B",
+          "text": "Eyes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las orejas o oídos se dicen \"ears\". Las usamos para escuchar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v5",
+      "statement": "What is **\"Cabello\"** or **\"Pelo\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head",
+          "is_correct": false,
+          "feedback": "Incorrect. Head is the whole part."
+        },
+        {
+          "letter": "B",
+          "text": "Hair",
+          "is_correct": true,
+          "feedback": "Correct! Hair is cabello."
+        },
+        {
+          "letter": "C",
+          "text": "Face",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Eye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pelo o cabello se dice \"hair\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v6",
+      "statement": "You listen to music with your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Ears",
+          "is_correct": true,
+          "feedback": "Correct! You listen with your ears."
+        },
+        {
+          "letter": "D",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escuchamos música con los oídos (ears).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v7",
+      "statement": "You eat an apple with your:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Mouth",
+          "is_correct": true,
+          "feedback": "Correct! You eat with your mouth."
+        },
+        {
+          "letter": "C",
+          "text": "Ears",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comemos (eat) con la boca (mouth).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v8",
+      "statement": "What are inside your mouth? (Blancos y duros).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Teeth",
+          "is_correct": true,
+          "feedback": "Correct! Teeth are inside your mouth."
+        },
+        {
+          "letter": "C",
+          "text": "Hair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dientes se dicen \"teeth\". Un solo diente es \"tooth\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v9",
+      "statement": "Which word is **\"Cara\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Face",
+          "is_correct": true,
+          "feedback": "Correct! Face is cara."
+        },
+        {
+          "letter": "C",
+          "text": "Body",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hand",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda la parte delantera de la cabeza donde están los ojos y la boca se llama \"face\" (cara).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W12-my-face-001-MASTERY-v10",
+      "statement": "Complete: **\"I see with my _______.\"**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Ears",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vemos (see) con los ojos (eyes).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

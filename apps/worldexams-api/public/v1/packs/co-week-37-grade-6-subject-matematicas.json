@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.056Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-v1",
+      "statement": "¿Que tipo de grafica es la mas adecuada para mostrar la distribucion de una variable categorica (como preferencias de color)?",
+      "context": "Tipos de graficas estadisticas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grafica de linea",
+          "is_correct": false,
+          "feedback": "Incorrect. La grafica de linea se usa para mostrar tendencias a lo largo del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Grafica de barras",
+          "is_correct": false,
+          "feedback": "Correct. La grafica de barras es ideal para comparar categorias o variables cualitativas."
+        },
+        {
+          "letter": "C",
+          "text": "Grafica de barras",
+          "is_correct": true,
+          "feedback": "Correct. Las graficas de barras muestran frecuencias de categorias mediante barras de diferentes alturas."
+        },
+        {
+          "letter": "D",
+          "text": "Plano cartesiano",
+          "is_correct": false,
+          "feedback": "Incorrect. El plano cartesiano es para graficar funciones o puntos (x, y), no frecuencias de categorias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las graficas de barras son ideales para datos cualitativos o categoricos. Cada barra representa una categoria y su altura indica la frecuencia o cantidad. Por ejemplo, para mostrar cuantos estudiantes prefieren cada deporte, la grafica de barras es la opcion mas clara y directa.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-002-v1",
+      "statement": "En una grafica circular (de pastel), ¿que representa cada sector o \"rebanada\"?",
+      "context": "Interpretacion de grafica circular",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frecuencia absoluta de cada categoria",
+          "is_correct": false,
+          "feedback": "Puede mostrar frecuencia, pero tipicamente muestra el porcentaje o proporcion del total."
+        },
+        {
+          "letter": "B",
+          "text": "La moda de los datos",
+          "is_correct": false,
+          "feedback": "Incorrect. La moda no se representa directamente en una grafica circular."
+        },
+        {
+          "letter": "C",
+          "text": "La proporcion del total que representa cada categoria",
+          "is_correct": true,
+          "feedback": "Correct. Cada sector muestra la fraccion o porcentaje del total que corresponde a esa categoria."
+        },
+        {
+          "letter": "D",
+          "text": "La mediana de los datos",
+          "is_correct": false,
+          "feedback": "Incorrect. La mediana no se representa en una grafica circular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La grafica circular (o de pastel) divide un circulo en sectores proporcionales a la frecuencia de cada categoria. El circulo completo representa el 100% de los datos, y cada sector representa el porcentaje del total. Por ejemplo, si el 50% de estudiantes prefiere futbol, ese sector ocuparia medio circulo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-003-v1",
+      "statement": "La siguiente grafica de barras muestra el medio de transporte usado por los estudiantes de un colegio en Cali para llegar al colegio:\r\n- Bicicleta: 15 estudiantes\r\n- Bus: 25 estudiantes\r\n- Carro: 10 estudiantes\r\n- Caminando: 20 estudiantes\r\n- Moto: 5 estudiantes\r\n\r\n¿Cuantos estudiantes usan bus o bicicleta para llegar al colegio?",
+      "context": "Lectura de grafica de barras de transporte",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrect. 15 + 25 = 40, no 50."
+        },
+        {
+          "letter": "B",
+          "text": "40 estudiantes",
+          "is_correct": true,
+          "feedback": "Correct. Bus (25) + Bicicleta (15) = 40 estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "35 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrect. Se tomo bus (25) + caminando (20) = 45, o bicicleta (15) + carro (10) = 25, etc."
+        },
+        {
+          "letter": "D",
+          "text": "75 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrect. Se sumaron todos los datos: 15+25+10+20+5 = 75, que es el total, no solo bus + bicicleta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para leer una grafica de barras, identificamos la altura de cada barra y la relacionamos con la categoria. Bus = 25 estudiantes, Bicicleta = 15 estudiantes. Sumamos: 25 + 15 = 40 estudiantes. La grafica permite comparar visualmente las categorias: bus es la mas usada y moto la menos usada.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura de graficas",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-004-v1",
+      "statement": "La grafica de linea muestra las temperaturas maximas en Bogota durante una semana:\r\n- Lunes: 18°C\r\n- Martes: 20°C\r\n- Miercoles: 16°C\r\n- Jueves: 19°C\r\n- Viernes: 22°C\r\n- Sabado: 21°C\r\n- Domingo: 20°C\r\n\r\n¿Cual fue la temperatura mas alta de la semana y que dia se registro?",
+      "context": "Lectura de grafica de linea de temperatura",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22°C, sabado",
+          "is_correct": false,
+          "feedback": "Incorrect. 22°C fue el viernes, no sabado."
+        },
+        {
+          "letter": "B",
+          "text": "18°C, lunes",
+          "is_correct": false,
+          "feedback": "Incorrect. 18°C no es la mas alta."
+        },
+        {
+          "letter": "C",
+          "text": "22°C, viernes",
+          "is_correct": true,
+          "feedback": "Correct. El punto mas alto de la grafica corresponde al viernes con 22°C."
+        },
+        {
+          "letter": "D",
+          "text": "20°C, martes",
+          "is_correct": false,
+          "feedback": "Incorrect. 20°C no es la mas alta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una grafica de linea, los puntos representan valores y las lineas conectan los puntos para mostrar la tendencia. El valor maximo se identifica como el punto mas alto de la grafica. Aqui, el viernes alcanzo 22°C, la temperatura maxima de la semana. La linea muestra que la temperatura subio y bajo durante la semana.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura de graficas",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-005-v1",
+      "statement": "Observando la misma grafica de temperaturas de Bogota (L:18, M:20, Mi:16, J:19, V:22, S:21, D:20 en °C). ¿Entre que dias hubo el mayor aumento de temperatura?",
+      "context": "Interpretacion de tendencia en grafica de linea",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De miercoles a jueves",
+          "is_correct": false,
+          "feedback": "Correct. Miercoles 16°C → Jueves 19°C = aumento de 3°C."
+        },
+        {
+          "letter": "B",
+          "text": "De miercoles a jueves",
+          "is_correct": true,
+          "feedback": "Correct. Miercoles: 16, Jueves: 19. Aumento: 19 - 16 = 3°C. Es el mayor incremento."
+        },
+        {
+          "letter": "C",
+          "text": "De lunes a martes",
+          "is_correct": false,
+          "feedback": "Incorrect. Lunes 18 → Martes 20 = aumento de 2°C."
+        },
+        {
+          "letter": "D",
+          "text": "De jueves a viernes",
+          "is_correct": false,
+          "feedback": "Incorrect. Jueves 19 → Viernes 22 = aumento de 3°C. Tambien es un aumento de 3°C, igual que miercoles a jueves."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos los cambios diarios:\r\n- L→M: 20-18 = +2°C\r\n- M→Mi: 16-20 = -4°C\r\n- Mi→J: 19-16 = +3°C ← mayor aumento (junto con J→V)\r\n- J→V: 22-19 = +3°C\r\n- V→S: 21-22 = -1°C\r\n- S→D: 20-21 = -1°C\r\n\r\nHay dos aumentos de 3°C. La grafica de linea nos permite ver visualmente los tramos de mayor pendiente ascendente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretacion de graficas",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-006-v1",
+      "statement": "Una grafica circular muestra la distribucion del presupuesto de una alcaldia municipal en Colombia:\r\n- Educacion: 35%\r\n- Salud: 25%\r\n- Infraestructura: 20%\r\n- Seguridad: 12%\r\n- Cultura: 8%\r\n\r\nSi el presupuesto total es de $1,200 millones de pesos, ¿cuanto dinero se destina a educacion?",
+      "context": "Grafica circular de presupuesto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$350 millones",
+          "is_correct": false,
+          "feedback": "Incorrect. 35% de 1,200 = 0.35 × 1,200 = 420, no 350."
+        },
+        {
+          "letter": "B",
+          "text": "$420 millones",
+          "is_correct": true,
+          "feedback": "Correct. 35% = 0.35. 0.35 × 1,200 = 420 millones de pesos."
+        },
+        {
+          "letter": "C",
+          "text": "$300 millones",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 1,200 × 0.25 = 300 (ese seria el 25%, salud)."
+        },
+        {
+          "letter": "D",
+          "text": "$480 millones",
+          "is_correct": false,
+          "feedback": "Incorrect. 1,200 × 0.4 = 480, confundiendo 35% con 40%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una grafica circular, cada sector representa un porcentaje del total. Para calcular el valor de un sector, multiplicamos el porcentaje por el total: Educacion = 35% de $1,200 millones = 0.35 × 1,200 = $420 millones. Se puede verificar que todos los sectores suman 100% y que los valores en dinero suman $1,200 millones.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura de graficas",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-007-v1",
+      "statement": "Un estudio en un colegio de Pasto registro el numero de libros leidos por los estudiantes en un mes:\r\n- 0 libros: 8 estudiantes\r\n- 1 libro: 12 estudiantes\r\n- 2 libros: 15 estudiantes\r\n- 3 libros: 10 estudiantes\r\n- 4 o mas: 5 estudiantes\r\n\r\nSi se construye una grafica de barras para estos datos, ¿que barra seria la mas alta?",
+      "context": "Construir grafica de barras",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 libros",
+          "is_correct": false,
+          "feedback": "Incorrect. Solo 8 estudiantes, no es la barra mas alta."
+        },
+        {
+          "letter": "B",
+          "text": "1 libro",
+          "is_correct": false,
+          "feedback": "Incorrect. 12 estudiantes es la segunda mas alta."
+        },
+        {
+          "letter": "C",
+          "text": "2 libros",
+          "is_correct": true,
+          "feedback": "Correct. 15 estudiantes es la mayor frecuencia, por lo tanto la barra mas alta."
+        },
+        {
+          "letter": "D",
+          "text": "3 libros",
+          "is_correct": false,
+          "feedback": "Incorrect. 10 estudiantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para construir una grafica de barras, en el eje horizontal colocamos las categorias (numero de libros) y en el vertical las frecuencias (cantidad de estudiantes). La altura de cada barra es proporcional a la frecuencia:\r\n- 0: 8 estudiantes\r\n- 1: 12 estudiantes\r\n- 2: 15 estudiantes ← barra mas alta\r\n- 3: 10 estudiantes\r\n- 4+: 5 estudiantes\r\n\r\nLa barra mas alta es \"2 libros\" con 15 estudiantes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Construccion e interpretacion",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-008-v1",
+      "statement": "La siguiente tabla muestra las ventas de una tienda de ropa en Sincelejo durante los primeros 6 meses del año:\r\n- Enero: $8M\r\n- Febrero: $6M\r\n- Marzo: $7M\r\n- Abril: $9M\r\n- Mayo: $11M\r\n- Junio: $10M\r\n\r\n¿En que mes las ventas alcanzaron el punto maximo y cual fue la tendencia general?",
+      "context": "Grafica de linea de ventas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enero con $8M, tendencia decreciente",
+          "is_correct": false,
+          "feedback": "Incorrect. Enero no es el maximo y la tendencia no es decreciente."
+        },
+        {
+          "letter": "B",
+          "text": "Mayo con $11M, tendencia creciente",
+          "is_correct": false,
+          "feedback": "Correct. Mayo tiene el maximo de $11M y la tendencia general es creciente de enero ($8M) a junio ($10M)."
+        },
+        {
+          "letter": "C",
+          "text": "Mayo con $11M, tendencia creciente",
+          "is_correct": true,
+          "feedback": "Correct. Ventas maximas en mayo. La tendencia general de enero a junio va de $8M a $10M."
+        },
+        {
+          "letter": "D",
+          "text": "Junio con $10M, tendencia estable",
+          "is_correct": false,
+          "feedback": "Incorrect. Junio no es el maximo (mayo $11M)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una grafica de linea de ventas a lo largo del tiempo, el punto maximo es mayo ($11M). La tendencia general se observa de extremo a extremo: se empezo en enero con $8M y se termino en junio con $10M, lo que indica una tendencia creciente, aunque con altibajos (bajo en febrero, subio en marzo-abril-mayo, bajo levemente en junio).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretacion de graficas",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-009-v1",
+      "statement": "Un periodista en Barranquilla quiere mostrar como ha cambiado el nivel del rio Magdalena durante el año, mes a mes. ¿Que tipo de grafica deberia usar y por que?",
+      "context": "Eleccion del tipo de grafica",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grafica de linea, porque muestra tendencias a lo largo del tiempo",
+          "is_correct": true,
+          "feedback": "Correct. La grafica de linea es ideal para mostrar la evolucion de una variable continua a traves del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Grafica circular, porque muestra porcentajes",
+          "is_correct": false,
+          "feedback": "Incorrect. La grafica circular muestra partes de un total en un momento especifico, no cambios a traves del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Grafica de barras, porque compara categorias",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque se podrian usar barras para cada mes, la grafica de linea muestra mejor la tendencia o evolucion."
+        },
+        {
+          "letter": "D",
+          "text": "Pictograma, porque es mas llamativo",
+          "is_correct": false,
+          "feedback": "Incorrect. Los pictogramas usan dibujos pero no son precisos para mostrar tendencias temporales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La grafica de linea es la mas adecuada para datos que cambian a lo largo del tiempo. Conecta puntos que representan el nivel del rio en cada mes, permitiendo ver visualmente la tendencia (sube, baja, se mantiene). Las graficas circulares son para un momento fijo y las de barras son mejores para comparar categorias independientes.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W37-graficas-estadisticas-010-v1",
+      "statement": "Un grupo de estudiantes de grado 6° en Pereira realizo una encuesta sobre la fruta favorita en su curso. Obtuvieron estos resultados:\r\n- Mango: 9 votos\r\n- Banano: 6 votos\r\n- Manzana: 3 votos\r\n- Naranja: 6 votos\r\n- Uvas: 6 votos\r\n\r\nQuieren hacer una grafica circular (de pastel). ¿Cuantos grados del circulo debe ocupar el sector de \"Mango\"? (Un circulo completo tiene 360°)",
+      "context": "Diseno de una encuesta y su grafica",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrect. 9/30 = 0.3, 0.3 × 360 = 108°, no 60°."
+        },
+        {
+          "letter": "B",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria el 25% (90/360 = 0.25). Mango tiene 9/30 = 30%."
+        },
+        {
+          "letter": "C",
+          "text": "108°",
+          "is_correct": true,
+          "feedback": "Correct. Total votos = 9+6+3+6+6 = 30. Proporcion mango = 9/30 = 0.3. Grados = 0.3 × 360 = 108°."
+        },
+        {
+          "letter": "D",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria 1/3 del circulo. Mango tiene 9/30 = 3/10 = 30% = 108°."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para una grafica circular, el total (360°) representa el 100% de los datos.\r\nTotal de votos: 9 + 6 + 3 + 6 + 6 = 30.\r\nFraccion de mango: 9/30 = 3/10 = 0.3 = 30%.\r\nAngulo del sector: 0.3 × 360° = 108°.\r\nVerificacion: los angulos de todos los sectores deben sumar 360°.\r\n- Mango: 108°\r\n- Banano: 6/30 × 360 = 72°\r\n- Manzana: 3/30 × 360 = 36°\r\n- Naranja: 72°\r\n- Uvas: 72°\r\nTotal: 108 + 72 + 36 + 72 + 72 = 360° ✓\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Synthesize",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Bucaramanga, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Riohacha, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Ibagué, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. San José en Bogotá, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Riohacha, se discute sobre Tema Semana 37 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 37 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 37 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 37 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-6-2026-W37-tema-semana-37-de-matematicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

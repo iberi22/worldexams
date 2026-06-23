@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W10: Review Period 2 (B1)
 
 This bundle provides a comprehensive review of the topics covered in weeks 6 to 9: Advice, Life Experiences, Conditionals, and Relative Clauses. Aligned with CEFR B1 level.
