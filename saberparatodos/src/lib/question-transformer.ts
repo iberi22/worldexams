@@ -198,6 +198,7 @@ export interface AppQuestion {
   };
   protocol_version?: string;
   cefr_level?: string;
+  country?: string;
 }
 
 /**
@@ -266,6 +267,7 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     period: apiQuestion.period || apiQuestion.periodo || undefined,
     periodo: apiQuestion.periodo || apiQuestion.period || undefined,
     cefr_level: apiQuestion.cefr_level || apiQuestion.target_cefr || undefined,
-    protocol_version: apiQuestion.protocol_version || undefined
+    protocol_version: apiQuestion.protocol_version || undefined,
+    country: apiQuestion.country || undefined
   };
 }

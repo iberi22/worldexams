@@ -97,9 +97,10 @@ export async function prepareSoloExamQuestions(
   }
 
   let filtered = filterBySubject(pool, request.subject);
+  filtered = filterByGradeAndDiagnostic(filtered, request.grade, Boolean(request.useDiagnostic), Boolean(request.englishDiagnostic));
 
   // 🆕 For English, if current pool has insufficient questions of the selected CEFR level, load multi-grade level-aware pool
-  if (subjectsMatch(request.subject, 'ingles')) {
+  if (subjectsMatch(request.subject, 'ingles') && (request.useDiagnostic || request.englishDiagnostic)) {
     const matchingCount = filterByCefrLevel(filtered, request.minCefrLevel).length;
     if (matchingCount < request.count) {
       const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
