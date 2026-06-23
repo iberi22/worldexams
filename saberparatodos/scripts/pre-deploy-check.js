@@ -110,7 +110,14 @@ async function getExpectedPacks() {
           .replace(/[^a-z0-9]/g, '');
 
         const isEnglish = cleanSubject === 'ingles' || cleanSubject === 'english';
-        const safeSubject = isEnglish ? 'ingles' : subject.replace(/[\/\s-]/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+        const safeSubject = isEnglish
+          ? 'ingles'
+          : subject
+              .toLowerCase()
+              .normalize('NFD')
+              .replace(/[\u0300-\u036f]/g, '')
+              .replace(/[\/\s-]/g, '_')
+              .replace(/[^a-z0-9_]/g, '');
 
         if (isEnglish) {
           countryCode = '';
