@@ -36,6 +36,8 @@ export interface APIQuestion {
   context_tags?: string[];
   protocol_version?: string;
   cefr_level?: string;
+  country?: string;
+  subject?: string;
 }
 
 export interface AppQuestion {
@@ -67,6 +69,7 @@ export interface AppQuestion {
   };
   protocol_version?: string;
   cefr_level?: string;
+  country?: string;
   meta?: {
     cefr_level?: string;
     cefrLevel?: string;
