@@ -1,6 +1,6 @@
 ---
 id: "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle"
-country: "costarica"
+country: "costa-rica"
 grado: 11
 asignatura: "ingles"
 tema: "repaso-p3"
@@ -11,16 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
-alignment: "MEP Costa Rica Bachillerato 2026"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-rubric_baseline: "Repaso P3 - Grado 11 - Ingles"
+alignment: "Curriculo de Ingles"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-cefr_level: "C1+"
 ---
-
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,

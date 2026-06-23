@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W37: Who, Whom, That - Object Relative Pronouns (B1)
 
 This bundle focuses on relative pronouns when they function as the object of the relative clause, including the formal use of "whom" and the rules for omitting pronouns. Aligned with CEFR B1.

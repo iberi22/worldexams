@@ -8,6 +8,558 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v1",
+      "statement": "¿Cuáles son los tres grandes géneros literarios clásicos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terror, Comedia y Acción",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Épico, Lírico y Dramático",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Novela, Cuento y Ensayo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Radio, TV y Prensa",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aristóteles estableció esta división fundamental.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v2",
+      "statement": "El género lírico se caracteriza por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representar conflictos ante un público",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Expresar sentimientos y subjetividad a través del verso",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Contar hazañas de héroes",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Dar instrucciones",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Su foco es la interioridad del autor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v3",
+      "statement": "Una obra escrita para ser representada por actores es del género:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Dramático",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Didáctico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Lírico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género dramático vive a través de la representación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v4",
+      "statement": "¿Qué diferencia al cuento de la novela?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento es siempre para niños",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La extensión y la complejidad de la trama y personajes",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "La novela no tiene personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "El cuento no tiene final",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela permite mayor profundidad y tramas paralelas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v5",
+      "statement": "El género narrativo tiene como elemento esencial:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rima",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Un narrador que cuenta una historia",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "El escenario de un teatro",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Las notas musicales",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin narrador no hay género narrativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v6",
+      "statement": "¿Qué es un microcuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento aburrido",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Una narración extremadamente breve que sugiere mucho",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un cuento sin palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Destaca por su concisión y capacidad de impacto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v7",
+      "statement": "La tragedia y la comedia pertenecen al género:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Épico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Dramático",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Lírico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Periodístico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Son subgéneros fundamentales del drama.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v8",
+      "statement": "La epopeya es un subgénero de la narrativa que trata sobre:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentimientos amorosos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Hazañas legendarias de héroes y pueblos",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Recetas médicas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Chistes",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es la forma antigua del género narrativo (épica).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v9",
+      "statement": "El ensayo se considera un género híbrido porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene dibujos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Combina la exposición de ideas con un estilo literario",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Lo escriben dos personas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Es mitad poema, mitad noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Une el pensamiento riguroso con la belleza expresiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v10",
+      "statement": "¿Qué es la hibridación genérica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir mal",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La mezcla de rasgos de diferentes géneros en una sola obra",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "No usar géneros",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Copiar un libro",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es común en la literatura contemporánea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v11",
+      "statement": "El género epistolar se basa en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escritura de cartas",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "B",
+          "text": "El uso de espadas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "C",
+          "text": "Cantar ópera",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Hacer mapas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usa la correspondencia como forma narrativa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-v12",
+      "statement": "¿Qué es la autoficción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un carro que vuela",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Mezcla de autobiografía y elementos ficticios",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Instrucciones para arreglar un motor",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Un cuento sobre robots",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor aparece como personaje en una trama ficticia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.3,
+      "bundle_id": "CO-LEN-8-2026-W21-generos-literarios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v1",
       "statement": "¿Quién escribió 'Cien años de soledad'?",
       "context": "",
@@ -48,7 +600,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v2",
@@ -91,7 +646,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v3",
@@ -134,7 +692,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v4",
@@ -177,7 +738,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v5",
@@ -220,7 +784,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v6",
@@ -263,7 +830,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v7",
@@ -306,7 +876,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v8",
@@ -349,7 +922,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v9",
@@ -392,7 +968,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v10",
@@ -435,7 +1014,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v11",
@@ -478,7 +1060,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-v12",
@@ -521,7 +1106,10 @@
       "bundle_id": "CO-LEN-8-2026-W21-modernismo-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     }
   ]
 }

@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "ICFES Saber 11 / CEFR B2"
-cefr_level: "B2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Bundle Mastery: Animal Rights - Grade 10
 
 This bundle explores ethical issues surrounding animal welfare using B2-level grammar, focusing on the Passive Voice with Reporting Verbs (It is said that...).

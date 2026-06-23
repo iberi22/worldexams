@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-27-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v1",
+      "statement": "What season is very **hot** and people go to the beach? ☀️🏖️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Summer",
+          "is_correct": true,
+          "feedback": "Correct! Summer is verano."
+        },
+        {
+          "letter": "C",
+          "text": "Fall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verano se dice \"summer\". Es la estación más calurosa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v2",
+      "statement": "What season is very **cold** and has snow? ❄️☃️",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winter",
+          "is_correct": true,
+          "feedback": "Correct! Winter is invierno."
+        },
+        {
+          "letter": "B",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Fall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El invierno se dice \"winter\". Es la estación más fría.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v3",
+      "statement": "In what season do **flowers** grow? 🌸🌻",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Fall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Spring",
+          "is_correct": true,
+          "feedback": "Correct! Spring is primavera."
+        },
+        {
+          "letter": "D",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La primavera se dice \"spring\". Es cuando las flores crecen.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v4",
+      "statement": "In what season do **leaves** (hojas) fall from trees? 🍂",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Fall",
+          "is_correct": true,
+          "feedback": "Correct! Fall (or Autumn) is otoño."
+        },
+        {
+          "letter": "D",
+          "text": "Winter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El otoño se dice \"fall\" (en Estados Unidos) o \"autumn\" (en el Reino Unido). \"Fall\" también significa caer, como caen las hojas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v5",
+      "statement": "How many seasons are there?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Four",
+          "is_correct": true,
+          "feedback": "Correct! Spring, Summer, Fall, Winter."
+        },
+        {
+          "letter": "D",
+          "text": "Twelve",
+          "is_correct": false,
+          "feedback": "Incorrect. That's months."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hay cuatro (four) estaciones en muchos países.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v6",
+      "statement": "What is another name for **\"Fall\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autumn",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Winter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "August",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Autumn\" es la forma británica de decir otoño.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v7",
+      "statement": "In **Summer**, the weather is usually:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cold and snowy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Hot and sunny",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Rainy and cool",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Windy and dark",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En verano el clima suele ser caluroso y soleado.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v8",
+      "statement": "In **Winter**, you wear:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A swimsuit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Shorts and T-shirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "A heavy jacket and gloves",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Sunglasses and sandals",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En invierno necesitamos ropa abrigada como una chaqueta pesada y guantes.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v9",
+      "statement": "Choose the correct season: **\"It is very cold. I make a snowman.\"**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Winter",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Fall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hacemos muñecos de nieve en invierno (winter).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v10",
+      "statement": "In Colombia, we don't have four seasons, but we have:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dry and rainy seasons",
+          "is_correct": true,
+          "feedback": "Correct! Estaciones seca y lluviosa."
+        },
+        {
+          "letter": "B",
+          "text": "Only winter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Only summer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Snow every day",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En Colombia, por estar en el trópico, tenemos temporada seca (dry season) y temporada de lluvias (rainy season).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

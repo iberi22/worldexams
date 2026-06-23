@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W28-days-week-001-MASTERY"
+id: "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "days-week"
 periodo: "weekly"
-semana: 28
+week: "W28"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Vocabulary for the seven days of the week and basic time concepts like today and tomorrow."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Days Week (W28)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W28: Days of the Week (A1)
-
-Este bundle evalúa el vocabulario de los días de la semana en inglés.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-What is the **first** day of the week?
-
-### Options
-- [x] A) Monday <!-- feedback: Correct! Monday is lunes. -->
-- [ ] B) Friday <!-- feedback: Incorrect. -->
-- [ ] C) Sunday <!-- feedback: Incorrect. -->
-- [ ] D) Tuesday <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El lunes se dice "Monday". Es el primer día de la semana laboral y escolar.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-What is **"Sábado"** in English?
-
-### Options
-- [ ] A) Sunday <!-- feedback: Incorrect. Sunday is domingo. -->
-- [x] B) Saturday <!-- feedback: Correct! Saturday is sábado. -->
-- [ ] C) Thursday <!-- feedback: Incorrect. -->
-- [ ] D) Friday <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El sábado se dice "Saturday".
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What day comes after **Tuesday**?
-
-### Options
-- [ ] A) Monday <!-- feedback: Incorrect. -->
-- [ ] B) Thursday <!-- feedback: Incorrect. -->
-- [x] C) Wednesday <!-- feedback: Correct! Tuesday -> Wednesday. -->
-- [ ] D) Friday <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El miércoles se dice "Wednesday". Va después del martes (Tuesday).
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What day is **"Viernes"**?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [x] A) Friday <!-- feedback: Correct! Friday is viernes. -->
-- [ ] B) Thursday <!-- feedback: Incorrect. -->
-- [ ] C) Saturday <!-- feedback: Incorrect. -->
-- [ ] D) Monday <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El viernes se dice "Friday". Es el último día de clases de la semana.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-How many days are in a **week**?
-
-### Options
-- [ ] A) Five <!-- feedback: Incorrect. -->
-- [ ] B) Six <!-- feedback: Incorrect. -->
-- [x] C) Seven <!-- feedback: Correct! -->
-- [ ] D) Ten <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Hay siete (seven) días en una semana.
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v6`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What days are the **weekend**?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Monday and Tuesday <!-- feedback: Incorrect. -->
-- [ ] B) Wednesday and Thursday <!-- feedback: Incorrect. -->
-- [x] C) Saturday and Sunday <!-- feedback: Correct! -->
-- [ ] D) Friday and Saturday <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El fin de semana (weekend) está compuesto por el sábado (Saturday) y el domingo (Sunday).
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-What does **"Tomorrow"** mean?
-
-### Options
-- [ ] A) Hoy <!-- feedback: Incorrect. Hoy is today. -->
-- [x] B) Mañana <!-- feedback: Correct! Tomorrow means the next day. -->
-- [ ] C) Ayer <!-- feedback: Incorrect. Ayer is yesterday. -->
-- [ ] D) Siempre <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Tomorrow" significa mañana (el día siguiente).
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v8`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-If today is **Wednesday**, tomorrow is:
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Tuesday <!-- feedback: Incorrect. -->
-- [x] B) Thursday <!-- feedback: Correct! -->
-- [ ] C) Friday <!-- feedback: Incorrect. -->
-- [ ] D) Monday <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Si hoy es miércoles (Wednesday), mañana es jueves (Thursday).
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v9`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-If today is **Monday**, yesterday was:
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Tuesday <!-- feedback: Incorrect. -->
-- [ ] B) Saturday <!-- feedback: Incorrect. -->
-- [x] C) Sunday <!-- feedback: Correct! -->
-- [ ] D) Friday <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Si hoy es lunes (Monday), ayer (yesterday) fue domingo (Sunday).
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-I go to school on:
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [x] A) Monday to Friday <!-- feedback: Correct! Weekdays. -->
-- [ ] B) Saturday and Sunday <!-- feedback: Incorrect. No school on weekends. -->
-- [ ] C) Only Sunday <!-- feedback: Incorrect. -->
-- [ ] D) Only Saturday <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Normalmente vamos al colegio de lunes (Monday) a viernes (Friday).
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

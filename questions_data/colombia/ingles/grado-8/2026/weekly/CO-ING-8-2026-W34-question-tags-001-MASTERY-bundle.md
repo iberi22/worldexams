@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W34: Don't You? - Question Tags (B1)
 
 This bundle focuses on Question Tags, the short questions at the end of sentences used to check information or ask for agreement. Aligned with CEFR B1.

@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.646Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v1",
+      "statement": "What is **\"Siéntate\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand up",
+          "is_correct": false,
+          "feedback": "Incorrect. That is ponerse de pie."
+        },
+        {
+          "letter": "B",
+          "text": "Sit down",
+          "is_correct": true,
+          "feedback": "Correct! \"Sit down\" is siéntate."
+        },
+        {
+          "letter": "C",
+          "text": "Listen",
+          "is_correct": false,
+          "feedback": "Incorrect. That is escucha."
+        },
+        {
+          "letter": "D",
+          "text": "Look",
+          "is_correct": false,
+          "feedback": "Incorrect. That is mira."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Sit down\" es la instrucción para sentarse.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v2",
+      "statement": "What is **\"Levántate\"** or **\"Ponte de pie\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand up",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Sit down",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Silence",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Open",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Stand up\" es la instrucción para ponerse de pie.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v3",
+      "statement": "The teacher says: **\"Silence, please\"**. What should you do?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talk to a friend",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Shout",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Stop talking",
+          "is_correct": true,
+          "feedback": "Correct! Silence means no talking."
+        },
+        {
+          "letter": "D",
+          "text": "Run",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Silence, please\" (Silencio, por favor) significa que debemos dejar de hablar y estar en calma.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v4",
+      "statement": "What is **\"Abre tu libro\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Close your book",
+          "is_correct": false,
+          "feedback": "Incorrect. That is cierra tu libro."
+        },
+        {
+          "letter": "B",
+          "text": "Open your book",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Read your book",
+          "is_correct": false,
+          "feedback": "Incorrect. That is lee tu libro."
+        },
+        {
+          "letter": "D",
+          "text": "Look at your book",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos \"Open\" para abrir y \"Close\" para cerrar. \"Open your book\" es abre tu libro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v5",
+      "statement": "What is **\"Escucha\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look",
+          "is_correct": false,
+          "feedback": "Incorrect. That is mirar."
+        },
+        {
+          "letter": "B",
+          "text": "Listen",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Speak",
+          "is_correct": false,
+          "feedback": "Incorrect. That is hablar."
+        },
+        {
+          "letter": "D",
+          "text": "Write",
+          "is_correct": false,
+          "feedback": "Incorrect. That is escribir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Listen\" es la instrucción para prestar atención con los oídos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v6",
+      "statement": "What is **\"Escribe tu nombre\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Read your name",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Say your name",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Write your name",
+          "is_correct": true,
+          "feedback": "Correct! \"Write\" means escribir."
+        },
+        {
+          "letter": "D",
+          "text": "Spell your name",
+          "is_correct": false,
+          "feedback": "Incorrect. Spell means deletrear."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Write your name\" es una instrucción muy común en exámenes y trabajos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v7",
+      "statement": "If the teacher says **\"Look at the board\"**, what do you do?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Listen to the board",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Watch the board with your eyes",
+          "is_correct": true,
+          "feedback": "Correct! \"Look\" is mirar."
+        },
+        {
+          "letter": "C",
+          "text": "Clean the board",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Write on the board",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Look at the board\" significa \"mira el tablero\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v8",
+      "statement": "What is **\"Por favor\"** and **\"Gracias\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hello and Bye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Please and Thank you",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Sorry and Okay",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Open and Close",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Please\" (por favor) y \"Thank you\" (gracias) son las \"palabras mágicas\" de cortesía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v9",
+      "statement": "How do you say **\"Cierra la puerta\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Open the door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Close the door",
+          "is_correct": true,
+          "feedback": "Correct! \"Close\" is cerrar."
+        },
+        {
+          "letter": "C",
+          "text": "Look at the door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Go to the door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Close the door\" significa cerrar la puerta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-v10",
+      "statement": "The teacher says: **\"Raise your hand\"**. Why?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To ask a question or speak",
+          "is_correct": true,
+          "feedback": "Correct! Levantar la mano es para pedir la palabra."
+        },
+        {
+          "letter": "B",
+          "text": "To go to sleep",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "To say goodbye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "To clean the table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Raise your hand\" significa levantar la mano. Se hace para pedir permiso para hablar en clase.\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

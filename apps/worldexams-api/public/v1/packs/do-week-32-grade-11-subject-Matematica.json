@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Matematica",
+    "country": "do",
+    "pack_id": "do-week-32-grade-11-subject-matematica",
+    "generated_at": "2026-06-22T05:46:17.732Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v1",
+      "statement": "**Stem:** Simplifica: 7(5x + 24)",
+      "context": "Estudiantes en Bonao practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 35x + 168",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 35x + 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x + 168",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 35x - 168\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 7(5x + 24) = 7×5x + 7×24 = 35x + 168.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v2",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 3x + 11",
+      "context": "Estudiantes en Barahona practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v3",
+      "statement": "**Stem:** María compra 8 libros a $12.1 c/u y 12 cuadernos a $8.1 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Santo Domingo practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $192.1",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $96.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $96.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $260\r\n  \r\n\r\n**Explanation:** Total = 8×12 + 12×8 = 192.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v4",
+      "statement": "**Stem:** Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes en Bonao practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** 2(x + 3) = 12 → x + 3 = 6 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v5",
+      "statement": "**Stem:** Resuelve: 5x + 12 = 37",
+      "context": "Estudiantes en San Pedro de Macorís practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Resta 12 de ambos lados: 5x = 25. Divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v6",
+      "statement": "**Stem:** Simplifica: 5(11x + 50)",
+      "context": "Estudiantes en San Francisco de Macorís practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 55x + 250",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 55x + 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16x + 250",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 55x - 250\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 5(11x + 50) = 5×11x + 5×50 = 55x + 250.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v7",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 4x + 9",
+      "context": "Estudiantes en Santo Domingo practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v8",
+      "statement": "**Stem:** María compra 5 libros a $4.1 c/u y 4 cuadernos a $5.1 c/u. ¿Gasto total?",
+      "context": "Estudiantes en San Pedro de Macorís practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.1",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $20.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $20.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $45\r\n  \r\n\r\n**Explanation:** Total = 5×4 + 4×5 = 40.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v9",
+      "statement": "**Stem:** Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes en Bonao practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explanation:** 2(x + 6) = 18 → x + 6 = 9 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v10",
+      "statement": "**Stem:** Resuelve: 6x + 9 = 39",
+      "context": "Estudiantes en San Cristóbal practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Resta 9 de ambos lados: 6x = 30. Divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v11",
+      "statement": "**Stem:** Simplifica: 4(10x + 27)",
+      "context": "Estudiantes en Barahona practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 108",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 108",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 40x - 108\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 4(10x + 27) = 4×10x + 4×27 = 40x + 108.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v12",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 2x + 9",
+      "context": "Estudiantes en La Vega practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v13",
+      "statement": "**Stem:** María compra 4 libros a $1.4 c/u y 1 cuadernos a $4.4 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Nagua practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $8.4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $4.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $25\r\n  \r\n\r\n**Explanation:** Total = 4×1 + 1×4 = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v14",
+      "statement": "**Stem:** Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes en Higüey practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** 2(x + 3) = 12 → x + 3 = 6 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v15",
+      "statement": "**Stem:** Resuelve: 7x + 5 = 40",
+      "context": "Estudiantes en Nagua practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Resta 5 de ambos lados: 7x = 35. Divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v16",
+      "statement": "**Stem:** Simplifica: 3(1x + 34)",
+      "context": "Estudiantes en Barahona practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3x + 102",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3x + 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4x + 102",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3x - 102\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 3(1x + 34) = 3×1x + 3×34 = 3x + 102.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v17",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 6x + 3",
+      "context": "Estudiantes en La Romana practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v18",
+      "statement": "**Stem:** María compra 8 libros a $3.1 c/u y 3 cuadernos a $8.1 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Higüey practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $48.1",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $24.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $24.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $44\r\n  \r\n\r\n**Explanation:** Total = 8×3 + 3×8 = 48.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v19",
+      "statement": "**Stem:** Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes en San Juan de la Maguana practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explanation:** 2(x + 5) = 16 → x + 5 = 8 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY-v20",
+      "statement": "**Stem:** Resuelve: 3x + 10 = 25",
+      "context": "Estudiantes en Baní practicando permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Resta 10 de ambos lados: 3x = 15. Divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W32-permutaciones-001-MASTERY",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "Matemática",
+    "country": "pe",
+    "pack_id": "pe-week-1-grade-5-subject-matematica",
+    "generated_at": "2026-06-23T16:16:38.047Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-05-fracciones-001-v1",
+      "statement": "En una pastelería de **Lima**, se divide una torta circular en 8 partes iguales. Si un cliente compra 3 de esas partes, ¿qué fracción de la torta se llevó el cliente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/8",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "8/3",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "5/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "3/5",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción representa una parte de un todo dividido en partes iguales. El denominador (8) indica el total de partes y el numerador (3) indica las partes tomadas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v2",
+      "statement": "En un mercado de **Arequipa**, un agricultor divide su terreno en 10 parcelas iguales para sembrar diferentes vegetales. Si siembra cebollas en 7 de ellas, ¿cuál es la fracción que representa la parte sembrada con cebollas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7/10",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "10/7",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "3/10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "7/17",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción se forma poniendo las partes seleccionadas (7) sobre el total de partes iguales (10).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v3",
+      "statement": "La señora Rosa compró un chocolate que viene dividido en 12 cuadraditos iguales. Si le dio 4 cuadraditos a su hijo Luis y se quedó con el resto, ¿qué fracción del chocolate le queda a Rosa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8/12",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "4/12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "12/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "4/8",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero restamos las partes dadas del total: 12 - 4 = 8. La fracción que queda es 8 partes de las 12 originales.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v4",
+      "statement": "En un salón de 5to grado en **Cusco**, hay 30 estudiantes. Si 1/3 de los estudiantes son varones, ¿cuántos estudiantes son varones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la fracción de un número, dividimos el total entre el denominador: 30 ÷ 3 = 10. Luego multiplicamos por el numerador: 10 × 1 = 10.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v5",
+      "statement": "Mateo tiene **S/ 60**. Si gasta 2/5 de su dinero en comprar una camiseta de la selección peruana, ¿cuánto dinero le queda a Mateo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 36",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "S/ 24",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "S/ 40",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "S/ 48",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Calculamos cuánto gastó. (60 ÷ 5) × 2 = 12 × 2 = 24.\n**Paso 2:** Restamos el gasto del total. 60 - 24 = 36.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v6",
+      "statement": "Una jarra de refresco de maracuyá tiene una capacidad de 2 litros. Si está llena hasta sus 3/4 partes, ¿cuántos mililitros de refresco hay en la jarra? (Recuerda que 1 litro = 1000 ml).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1500 ml",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "750 ml",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1250 ml",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1750 ml",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Convertimos litros a mililitros. 2 × 1000 = 2000 ml.\n**Paso 2:** Calculamos los 3/4 de 2000. (2000 ÷ 4) × 3 = 500 × 3 = 1500 ml.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v7",
+      "statement": "En una competencia escolar, Lucía recorrió 1/4 del camino, Sofía recorrió 2/5 y Valentina recorrió el resto. ¿Qué fracción del camino recorrió Valentina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7/20",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "13/20",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "3/9",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "11/20",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Sumamos lo recorrido por Lucía y Sofía. 1/4 + 2/5 = (5 + 8) / 20 = 13/20.\n**Paso 2:** Restamos de la unidad (el camino completo). 1 - 13/20 = 20/20 - 13/20 = 7/20.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v8",
+      "statement": "Un tanque de agua está lleno hasta sus 5/8. Si se consumen 150 litros de agua, el tanque queda a la mitad (1/2) de su capacidad. ¿Cuál es la capacidad total del tanque?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1200 litros",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "600 litros",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "900 litros",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1500 litros",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Identificamos la fracción que representan los 150 litros. 5/8 - 1/2 = 5/8 - 4/8 = 1/8.\n**Paso 2:** Si 1/8 de la capacidad es 150 litros, la capacidad total es 150 × 8 = 1200 litros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v9",
+      "statement": "Tres amigos se reparten una herencia de S/ 120,000. Al primero le corresponde 1/3, al segundo los 3/8 del resto, y al tercero lo que queda. ¿Cuánto dinero recibe el tercer amigo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 50,000",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "S/ 40,000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "S/ 30,000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "S/ 45,000",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** El primer amigo recibe 1/3 de 120,000 = S/ 40,000. Quedan 80,000.\n**Paso 2:** El segundo recibe 3/8 de 80,000 = (80,000 ÷ 8) × 3 = 10,000 × 3 = S/ 30,000.\n**Paso 3:** El tercero recibe 120,000 - 40,000 - 30,000 = S/ 50,000.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-05-fracciones-001-v10",
+      "statement": "Un comerciante vende 2/3 de su mercadería y luego 1/4 de lo que le quedaba. Si aún le quedan 15 artículos, ¿cuántos artículos tenía al inicio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "80",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "120",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Después de vender 2/3, le queda 1/3.\n**Paso 2:** Vende 1/4 de 1/3 = 1/12.\n**Paso 3:** Lo que le queda es 1/3 - 1/12 = 4/12 - 1/12 = 3/12 = 1/4.\n**Paso 4:** Si 1/4 del total es 15, el total es 15 × 4 = 60 artículos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemática",
+      "grade": 5,
+      "country": "pe"
+    }
+  ]
+}

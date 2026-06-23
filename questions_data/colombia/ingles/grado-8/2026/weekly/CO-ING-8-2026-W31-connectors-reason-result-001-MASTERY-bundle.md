@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W31: Reason and Result Connectors (B1)
 
 This bundle focuses on connectors that explain why things happen (reason) and what happens as a consequence (result), such as "because", "due to", "therefore", and "as a result". Aligned with CEFR B1.

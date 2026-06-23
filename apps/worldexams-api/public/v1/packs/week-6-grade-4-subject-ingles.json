@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v1",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v1",
+      "statement": "My mother's husband is my ________.",
+      "context": "Learning about family members in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "father",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "brother",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "uncle",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "explanation": "This question evaluates remember skills regarding family members at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v2",
+      "statement": "My father's sister is my ________.",
+      "context": "Learning about family members in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "sister",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "aunt",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "mother",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "grandmother",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding family members at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v3",
+      "statement": "My parents' son is my ________.",
+      "context": "Learning about family members in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "uncle",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "nephew",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
+          "text": "brother",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "daughter",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding family members at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v7",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v4",
+      "statement": "My mother's mother is my ________.",
+      "context": "Learning about family members in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "grandfather",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "aunt",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "grandmother",
+          "is_correct": true,
+          "feedback": "Correct!"
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding family members at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v5",
+      "statement": "I am my parents' ________.",
+      "context": "Learning about family members in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "child",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "parent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "grandparent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "sibling",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "This question evaluates evaluate skills regarding family members at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v6",
+      "statement": "My uncle's son is my ________.",
+      "context": "Learning about family members in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grandfather",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "cousin",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "brother",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "father",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding family members at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-4-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v7",
+      "statement": "A girl sibling is a ________.",
+      "context": "Learning about family members in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mother",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "aunt",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "sister",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "brother",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding family members at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W06-family-members-001-MASTERY-v8",
+      "statement": "Who is the father of your father?",
+      "context": "Learning about family members in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandmother",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Uncle",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Nephew",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Grandfather",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding family members at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W06-family-members-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     }
   ]
 }

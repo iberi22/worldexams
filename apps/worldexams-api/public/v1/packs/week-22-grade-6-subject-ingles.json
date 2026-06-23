@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v1",
-      "statement": "\"Alto\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-v1",
+      "statement": "Juan ________ his homework every afternoon.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "tall",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "short",
-          "is_correct": false,
-          "feedback": "Incorrecto. Short = bajo."
-        },
-        {
-          "letter": "C",
-          "text": "fat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fat = gordo."
-        },
-        {
-          "letter": "D",
-          "text": "thin",
-          "is_correct": false,
-          "feedback": "Incorrecto. Thin = delgado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Height: tall (alto), short (bajo), medium height (estatura media).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v2",
-      "statement": "\"Cabello rubio\" in English is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "blonde hair",
+          "text": "does",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "brown hair",
-          "is_correct": false,
-          "feedback": "Incorrecto. Brown hair = cabello castaño."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "black hair",
+          "text": "doing",
           "is_correct": false,
-          "feedback": "Incorrecto. Black hair = cabello negro."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "red hair",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrecto. Red hair = cabello rojo."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Hair color: blonde (rubio), brown (castaño), black (negro), red (rojo), gray (gris/plata).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v3",
-      "statement": "\"She has long, curly ___.\" (cabello)",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "hair",
-          "is_correct": true,
-          "feedback": "Correcto. Hair = cabello."
-        },
-        {
-          "letter": "B",
-          "text": "hairs",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hair es incontable."
-        },
-        {
-          "letter": "C",
-          "text": "hairy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hairy = peludo."
-        },
-        {
-          "letter": "D",
-          "text": "head",
-          "is_correct": false,
-          "feedback": "Incorrecto. Head = cabeza."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Hair types: long (largo), short (corto), curly (rizado), straight (liso), wavy (ondulado).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v4",
-      "statement": "\"He is tall and ___.\" (delgado)",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "thin/slim",
-          "is_correct": true,
-          "feedback": "Correcto. Thin/slim = delgado."
-        },
-        {
-          "letter": "B",
-          "text": "fat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Fat = gordo."
-        },
-        {
-          "letter": "C",
-          "text": "short",
-          "is_correct": false,
-          "feedback": "Incorrecto. Short = bajo."
-        },
-        {
-          "letter": "D",
-          "text": "heavy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Heavy = pesado, pero heavy = gordo en descripción."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Body type: thin/slim (delgado), fat/heavy (gordo), muscular (musculoso), medium build (contextura media).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v5",
-      "statement": "\"What does she look like?\" \"She has ___ eyes.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "brown",
-          "is_correct": true,
-          "feedback": "Correcto. Brown eyes = ojos marrones."
-        },
-        {
-          "letter": "B",
-          "text": "bored",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bored = aburrido."
-        },
-        {
-          "letter": "C",
-          "text": "boring",
-          "is_correct": false,
-          "feedback": "Incorrecto. Boring = aburridor."
-        },
-        {
-          "letter": "D",
-          "text": "bow",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Eye color: brown (marrones), blue (azules), green (verdes), hazel (avellana), gray (grises).\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v6",
-      "statement": "\"My best friend ___ long black hair.\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-002-v1",
+      "statement": "I ________ to school at 7:00 AM.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "has",
+          "text": "go",
           "is_correct": true,
-          "feedback": "Correcto. Has = tiene."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "have",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrecto. Third person: has."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-003-v1",
+      "statement": "They ________ like to eat vegetables.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "don't",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "no",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-004-v1",
+      "statement": "________ your sister play soccer?",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Does",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-005-v1",
+      "statement": "I ________ my teeth after breakfast.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brushes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "brushed",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "brushing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-006-v1",
+      "statement": "What time ________ you wake up?",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Have/has + hair description. 'He has short blonde hair.' 'She has long black hair.'\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v7",
-      "statement": "\"She ___ tall and thin.\"",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-007-v1",
+      "statement": "She ________ TV in the evening.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "is",
+          "text": "watches",
           "is_correct": true,
-          "feedback": "Correcto. Is + adjective."
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "watching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-008-v1",
+      "statement": "We ________ dinner at 7:30 PM.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrecto. Has para características físicas."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
           "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Descriptions with be: subject + is/are + adjective. 'She is tall.' 'They are thin.'\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v8",
-      "statement": "\"Describe: He has short curly hair and brown eyes.\" What type of hair does he have?",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Short and curly",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Long and straight",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "Short and straight",
-          "is_correct": false,
-          "feedback": "Incorrecto. Curly = rizado."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Long and curly",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: identify hair type. Short (corto), curly (rizado). Brown eyes (ojos marrones).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v9",
-      "statement": "\"María is short and has long straight hair. Ana is tall and has short curly hair.\" Who is short?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "María",
-          "is_correct": true,
-          "feedback": "Correcto. María is short."
-        },
-        {
-          "letter": "B",
-          "text": "Ana",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ana is tall."
-        },
-        {
-          "letter": "C",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Compare two people: identify characteristics of each. María = short + long straight hair. Ana = tall + short curly hair.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-v10",
-      "statement": "\"A person who is very tall and very thin is ___.\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "lanky / very slim",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "short and heavy",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "average height",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "muscular",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Vocabulary for body types: lanky (larguirucho/a), slim (delgado/a), stocky (rechoncho/a), muscular.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W22-describing-appearance-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At I.E. La Salle de Ibagué, teacher introduces passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + verb + object",
-          "is_correct": false,
-          "feedback": "Es activa."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have + past participle",
-          "is_correct": false,
-          "feedback": "Es present perfect."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Colegio INEM de Ibagué, passive use is explained.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To emphasize the subject.",
-          "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
-        },
-        {
-          "letter": "B",
-          "text": "When the action is more important than who did it.",
-          "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
-        },
-        {
-          "letter": "C",
-          "text": "Only in questions.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Only in present tense.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio Tolimense de Santa Marta, students practice present passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is visiting",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        },
-        {
-          "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
-        },
-        {
-          "letter": "C",
-          "text": "was visited",
-          "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
-        },
-        {
-          "letter": "D",
-          "text": "is visit",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In I.E. María Inmaculada de Cúcuta, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Cambridge de Cartagena convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Gimnasio Los Pinares de Santa Marta, passive questions are practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "did invite",
-          "is_correct": false,
-          "feedback": "Activo."
-        },
-        {
-          "letter": "B",
-          "text": "was invited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "is invite",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "D",
-          "text": "invited",
-          "is_correct": false,
-          "feedback": "Activo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio Tolimense de Cúcuta, students analyze passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The agent is important.",
-          "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
-        },
-        {
-          "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The agent cannot be known.",
-          "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
-        },
-        {
-          "letter": "D",
-          "text": "It is always required.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Ciudad Perdida:",
-      "context": "In Colegio Tolimense de Bucaramanga, evaluate passive usage.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Workers built the museum in colonial times.",
-          "is_correct": false,
-          "feedback": "Activa."
-        },
-        {
-          "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
-        },
-        {
-          "letter": "C",
-          "text": "The museum is built by workers.",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "D",
-          "text": "The colonial period built the museum.",
-          "is_correct": false,
-          "feedback": "Ilógico."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Liceo de la Sabana de Ibagué, find passive errors.",
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-009-v1",
+      "statement": "My father ________ to work by bus.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
+          "text": "gone",
           "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
-          "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
-          "is_correct": false,
-          "feedback": "Correcta."
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about Catedral de Sal:",
-      "context": "At Colegio Fontán de Bogotá, create passive sentence.",
+      "id": "CO-ING-6-2026-W22-present-simple-3rd-person-010-v1",
+      "statement": "They ________ play video games on weekdays.",
+      "context": "Scenario about present-simple-3rd-person in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Tourists visit the museum every year.",
+          "text": "always",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
+          "text": "sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum was visit by tourists.",
-          "is_correct": false,
-          "feedback": "Past participle incorrecto."
+          "text": "never",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Tourists are visited the museum.",
+          "text": "usually",
           "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Present Simple: Third Person Singular at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W22-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W22-present-simple-3rd-person-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

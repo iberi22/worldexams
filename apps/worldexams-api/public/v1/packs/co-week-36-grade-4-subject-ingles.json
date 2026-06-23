@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-36-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.692Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v1",
+      "statement": "It is raining. It is ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rainy",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "sunny",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "dry",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "clear",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v2",
+      "statement": "I am very happy! I have a big ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shout",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "smile",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "frown",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "cry",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v3",
+      "statement": "I like to ________ books in the library.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "swim",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "cook",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "read",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "dance",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v4",
+      "statement": "My favorite sport is ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eating",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "sleeping",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "reading",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "football",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v5",
+      "statement": "I am ________ because I didn't sleep.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tired",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "happy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "energetic",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v6",
+      "statement": "It is very hot in ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the fridge",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "summer",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "winter",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "night",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v7",
+      "statement": "I play video ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "books",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "pens",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "games",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "balls",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-v8",
+      "statement": "I draw with ________.",
+      "context": "Learning about review period 7 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "water",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "food",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "shoes",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "crayons",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding review period 7 at the CEFR A1 level.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

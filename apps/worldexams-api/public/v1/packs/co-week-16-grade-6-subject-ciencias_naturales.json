@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.977Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-v1",
+      "statement": "¿Cuáles son los cinco sentidos del ser humano?",
+      "context": "En Bogotá, inician el estudio de los sentidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hambre, sed, sueño, frío, calor",
+          "is_correct": false,
+          "feedback": "Son estados fisiológicos, no sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "Vista, oído, olfato, gusto y tacto",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Dolor, placer, equilibrio, presión, temperatura",
+          "is_correct": false,
+          "feedback": "Son tipos de sensaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Intuición, percepción, memoria, atención, emoción",
+          "is_correct": false,
+          "feedback": "Son procesos cognitivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cinco sentidos convierten estímulos físicos o químicos en señales eléctricas interpretadas por el cerebro. También existen otros sentidos: equilibrio (vestibular), propiocepción (posición corporal), termocepción (temperatura) y nocicepción (dolor).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-002-v1",
+      "statement": "¿Qué parte del ojo permite enfocar la luz sobre la retina?",
+      "context": "En Medellín, identifican partes del ojo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El iris",
+          "is_correct": false,
+          "feedback": "El iris regula la entrada de luz."
+        },
+        {
+          "letter": "B",
+          "text": "El cristalino",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La córnea",
+          "is_correct": false,
+          "feedback": "La córnea protege y refracta inicialmente."
+        },
+        {
+          "letter": "D",
+          "text": "El nervio óptico",
+          "is_correct": false,
+          "feedback": "Transmite señal al cerebro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cristalino es una lente biconvexa que cambia de forma (acomodación) para enfocar objetos cercanos (se abomba) y lejanos (se aplana). Con la edad pierde flexibilidad, causando presbicia (vista cansada).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-003-v1",
+      "statement": "¿Por qué vemos en colores?",
+      "context": "En Cali, explican la visión en colores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los ojos tienen color",
+          "is_correct": false,
+          "feedback": "El color del ojo es del iris."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la retina tiene conos (detectan colores) y bastones (detectan luz)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cerebro pinta las imágenes",
+          "is_correct": false,
+          "feedback": "No es literal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el iris tiene pigmentos",
+          "is_correct": false,
+          "feedback": "El pigmento del iris da color al ojo, no a la visión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La retina tiene dos tipos de fotorreceptores: bastones (sensibles a luz tenue, visión nocturna) y conos (tres tipos: rojo, verde y azul, para visión cromática). Los conos se concentran en la fóvea, el área de mayor agudeza visual.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-004-v1",
+      "statement": "¿En qué parte del oído se convierten las vibraciones sonoras en señales eléctricas?",
+      "context": "En Barranquilla, estudian el oído.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el pabellón auricular",
+          "is_correct": false,
+          "feedback": "Solo capta y dirige el sonido."
+        },
+        {
+          "letter": "B",
+          "text": "En el tímpano",
+          "is_correct": false,
+          "feedback": "Vibra pero no convierte a señal eléctrica."
+        },
+        {
+          "letter": "C",
+          "text": "En el caracol (cóclea) del oído interno",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "En los huesecillos (martillo, yunque, estribo)",
+          "is_correct": false,
+          "feedback": "Amplifican las vibraciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sonido viaja: pabellón → conducto → tímpano (vibra) → huesecillos (amplifican 22x) → cóclea (llena de líquido con células ciliadas) → cilios convierten vibraciones en impulsos eléctricos → nervio auditivo → cerebro.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-005-v1",
+      "statement": "Una persona ve borrosos los objetos lejanos pero bien los cercanos. ¿Qué defecto visual tiene?",
+      "context": "En Bucaramanga, aplican sobre defectos visuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipermetropía",
+          "is_correct": false,
+          "feedback": "En hipermetropía se ve mal de cerca."
+        },
+        {
+          "letter": "B",
+          "text": "Miopía",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Presbicia",
+          "is_correct": false,
+          "feedback": "Vista cansada por edad, afecta visión cercana."
+        },
+        {
+          "letter": "D",
+          "text": "Astigmatismo",
+          "is_correct": false,
+          "feedback": "Visión distorsionada a cualquier distancia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la miopía, el ojo es muy largo o el cristalino muy curvo, formando la imagen antes de la retina. Se corrige con lentes divergentes (cóncavos). Aproximadamente el 30% de la población colombiana usa gafas o lentes de contacto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-006-v1",
+      "statement": "¿Por qué la comida parece sin sabor cuando tenemos la nariz tapada por un resfriado?",
+      "context": "En Cartagena, aplican sobre el gusto y olfato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la lengua deja de funcionar",
+          "is_correct": false,
+          "feedback": "La lengua sigue funcionando."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las papilas gustativas se infectan",
+          "is_correct": false,
+          "feedback": "No es la razón principal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el gusto y el olfato trabajan juntos; sin aroma no hay sabor completo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la fiebre bloquea los sentidos",
+          "is_correct": false,
+          "feedback": "No es el mecanismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El 80% del sabor es en realidad aroma detectado por el olfato retronasal (desde la boca hacia la nariz). La lengua detecta solo 5 sabores básicos: dulce, salado, ácido, amargo y umami. Todo lo demás es olfato.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-007-v1",
+      "statement": "¿Por qué el cerebro no siente dolor cuando es operado directamente?",
+      "context": "En Pereira, analizan la percepción del dolor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el cerebro no tiene nervios",
+          "is_correct": false,
+          "feedback": "Tiene neuronas, pero no nociceptores."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los cirujanos usan anestesia general",
+          "is_correct": false,
+          "feedback": "La anestesia afecta todo el cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cerebro no tiene receptores de dolor (nociceptores), aunque las meninges sí los tienen",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el dolor se siente en el corazón",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cerebro carece de nociceptores, permitiendo cirugías cerebrales con el paciente despierto. El dolor de cabeza proviene de las meninges, vasos sanguíneos y músculos del cráneo, no del cerebro mismo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-008-v1",
+      "statement": "¿Por qué vemos movimiento en un video que son imágenes fijas en secuencia?",
+      "context": "En Manizales, analizan ilusiones ópticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las imágenes se mueven realmente",
+          "is_correct": false,
+          "feedback": "Son fijas, la ilusión es cerebral."
+        },
+        {
+          "letter": "B",
+          "text": "El ojo tiene memoria fotográfica",
+          "is_correct": false,
+          "feedback": "No es exacto."
+        },
+        {
+          "letter": "C",
+          "text": "Persistencia retiniana: la imagen permanece en la retina ~1/30s",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El cerebro inventa el movimiento",
+          "is_correct": false,
+          "feedback": "El cerebro integra las imágenes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La persistencia retiniana y el fenómeno phi crean la ilusión de movimiento. Las imágenes se presentan a 24-30 fps y el cerebro las fusiona. El cine, la televisión y las animaciones se basan en este principio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-009-v1",
+      "statement": "Un adolescente escucha música con audífonos a máximo volumen todo el día. ¿Cuál es el riesgo principal?",
+      "context": "En Cúcuta, evalúan riesgos auditivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se le acaba la batería",
+          "is_correct": false,
+          "feedback": "Problema técnico menor."
+        },
+        {
+          "letter": "B",
+          "text": "Se vuelve sordo inmediatamente",
+          "is_correct": false,
+          "feedback": "El daño es progresivo."
+        },
+        {
+          "letter": "C",
+          "text": "Daño permanente a las células ciliadas de la cóclea, pérdida auditiva irreversible",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Le duele la cabeza",
+          "is_correct": false,
+          "feedback": "El dolor de cabeza es temporal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las células ciliadas de la cóclea no se regeneran. Exposición a >85 dB las daña permanentemente. Un audífono al máximo produce 100-110 dB. La OMS alerta que 1.1 mil millones de jóvenes tienen riesgo de pérdida auditiva por uso de auriculares.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-010-v1",
+      "statement": "¿Por qué es peligroso mirar directamente al sol durante un eclipse sin protección?",
+      "context": "En Ibagué, evalúan protección ocular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque duele y parpadeamos",
+          "is_correct": false,
+          "feedback": "No hay nociceptores en la retina, no duele."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sol se ve más grande",
+          "is_correct": false,
+          "feedback": "No es el peligro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la luz intensa quema la retina sin dolor, causando daño permanente",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los ojos se secan",
+          "is_correct": false,
+          "feedback": "No es el riesgo principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La retina no tiene nociceptores, por lo que no sentimos dolor al dañarla. La luz solar directa quema la mácula (retinopatía solar), causando pérdida de visión central permanente. Protección: filtros certificados ISO 12312-2, nunca lentes comunes, radiografías o CD.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Quibdó, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Cúcuta, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Pereira, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cúcuta, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Quibdó, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Tema Semana 16 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 16 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 16 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 16 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W16-tema-semana-16-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v1",
-      "statement": "\"Nadar\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W31-food-drinks-001-v1",
+      "statement": "I would like a glass of ________.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "swim",
-          "is_correct": true,
-          "feedback": "Correcto. Swim = nadar."
+          "text": "bread",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "run",
-          "is_correct": false,
-          "feedback": "Incorrecto. Run = correr."
-        },
-        {
-          "letter": "C",
-          "text": "dance",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dance = bailar."
-        },
-        {
-          "letter": "D",
-          "text": "sing",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sing = cantar."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Free time activities: swim (nadar), run (correr), dance (bailar), sing (cantar), read (leer), draw (dibujar).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v2",
-      "statement": "\"I like to play ___.\" (fútbol)",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "soccer",
+          "text": "water",
           "is_correct": true,
-          "feedback": "Correcto. Soccer = fútbol."
-        },
-        {
-          "letter": "B",
-          "text": "basketball",
-          "is_correct": false,
-          "feedback": "Incorrecto. Basketball = baloncesto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "volleyball",
+          "text": "chicken",
           "is_correct": false,
-          "feedback": "Incorrecto. Volleyball = voleibol."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "tennis",
+          "text": "pizza",
           "is_correct": false,
-          "feedback": "Incorrecto. Tennis = tenis."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Sports: soccer/football (fútbol), basketball (baloncesto), volleyball (voleibol), tennis (tenis), cycling (ciclismo).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v3",
-      "statement": "\"Can you swim?\" \"Yes, I ___.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. Yes, I can."
-        },
-        {
-          "letter": "B",
-          "text": "do",
-          "is_correct": false,
-          "feedback": "Incorrecto. Can pregunta."
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Short answer with can: Yes, I can. / No, I can't. Can = poder/saber hacer.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v4",
-      "statement": "\"She ___ play the guitar.\" (sabe)",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. She can play."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can + verb: I can swim, she can dance, they can sing. Can always uses the base verb.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v5",
-      "statement": "\"I can't ___ a bicycle.\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "ride",
-          "is_correct": true,
-          "feedback": "Correcto. Ride a bike = montar bicicleta."
-        },
-        {
-          "letter": "B",
-          "text": "riding",
-          "is_correct": false,
-          "feedback": "Incorrecto. After can't, use base verb."
-        },
-        {
-          "letter": "C",
-          "text": "rode",
-          "is_correct": false,
-          "feedback": "Incorrecto. Past tense."
-        },
-        {
-          "letter": "D",
-          "text": "rides",
-          "is_correct": false,
-          "feedback": "Incorrecto. Third person."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can't + base verb: I can't ride, she can't swim, they can't dance.\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v6",
-      "statement": "\"___ you play chess?\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W31-food-drinks-002-v1",
+      "statement": "Is an apple a fruit or a vegetable?",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Can",
-          "is_correct": true,
-          "feedback": "Correcto. Can you play?"
+          "text": "It's meat.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Do",
+          "text": "It's a drink.",
           "is_correct": false,
-          "feedback": "Posible pero can pregunta por habilidad."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "It's a fruit.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Is",
+          "text": "It's a vegetable.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Can you...? = ¿Puedes/Sabes...? \"Can you play chess?\" = ¿Sabes jugar ajedrez?\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to remember the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v7",
-      "statement": "\"In my free time, I like ___ books.\"",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W31-food-drinks-003-v1",
+      "statement": "Do you like ________ coffee?",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "reading",
+          "text": "drinking",
           "is_correct": true,
-          "feedback": "Correcto. Like + verb-ing."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
           "text": "read",
           "is_correct": false,
-          "feedback": "Incorrecto. Like + read no es correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "reads",
+          "text": "play",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "to read",
+          "text": "eat",
           "is_correct": false,
-          "feedback": "También correcto (like to read) pero -ing es más común."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Like + -ing: I like reading, I like swimming. Also: like + to + verb: I like to read.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v8",
-      "statement": "\"He can ___ very fast.\"",
-      "context": "In Manizales.",
+      "id": "CO-ING-6-2026-W31-food-drinks-004-v1",
+      "statement": "Rice and beans is a common ________ in Colombia.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "run",
-          "is_correct": true,
-          "feedback": "Correcto. Can + base verb."
+          "text": "dessert",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "runs",
+          "text": "snack",
           "is_correct": false,
-          "feedback": "Incorrecto. No -s after can."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "running",
-          "is_correct": false,
-          "feedback": "Incorrecto. No -ing after can."
-        },
-        {
-          "letter": "D",
-          "text": "ran",
-          "is_correct": false,
-          "feedback": "Incorrecto. No past after can."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "After can, always use base verb: I can run, he can run, they can run.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v9",
-      "statement": "\"I can swim but I can't play soccer.\" What can't he do?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Play soccer",
+          "text": "dish",
           "is_correct": true,
-          "feedback": "Correcto. Can't play soccer."
-        },
-        {
-          "letter": "B",
-          "text": "Swim",
-          "is_correct": false,
-          "feedback": "Incorrecto. He can swim."
-        },
-        {
-          "letter": "C",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Neither",
+          "text": "fruit",
           "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can = sí sabe/puede. Can't = no sabe/puede. Identify what he can't do.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v10",
-      "statement": "\"You need a ball to play ___.\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "soccer",
-          "is_correct": true,
-          "feedback": "Correcto. Soccer needs a ball."
-        },
-        {
-          "letter": "B",
-          "text": "swimming",
-          "is_correct": false,
-          "feedback": "Incorrecto. No ball needed."
-        },
-        {
-          "letter": "C",
-          "text": "reading",
-          "is_correct": false,
-          "feedback": "Incorrecto. Reading needs a book."
-        },
-        {
-          "letter": "D",
-          "text": "singing",
-          "is_correct": false,
-          "feedback": "Incorrecto. No ball needed."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sports equipment: soccer → ball, swimming → pool, reading → book, singing → voice.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v1",
-      "statement": "Which question word asks about TIME?",
-      "context": "At Liceo de la Sabana de Barranquilla, teacher reviews question words.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Where",
-          "is_correct": false,
-          "feedback": "Pregunta por lugar."
-        },
-        {
-          "letter": "B",
-          "text": "Why",
-          "is_correct": false,
-          "feedback": "Pregunta por razón."
-        },
-        {
-          "letter": "C",
-          "text": "When",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Pregunta por persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Question words: What, Where, When, Why, Who, How, Which.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v2",
-      "statement": "Form a yes/no question with \"she\":",
-      "context": "In Liceo de la Sabana de Medellín, yes/no questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Does she studies?",
-          "is_correct": false,
-          "feedback": "Después de does el verbo va en base."
-        },
-        {
-          "letter": "B",
-          "text": "Does she study?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Is she study?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "She studies?",
-          "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Yes/No: Do/Does/Did + sujeto + verbo base. \"Does she study?\" NO \"Does she studies?\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v3",
-      "statement": "Complete: \"Where is the Gold Museum?\" \"It is in Bogotá.\"",
-      "context": "At I.E. María Inmaculada de Santa Marta, WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Where",
-          "is_correct": true,
-          "feedback": "Pregunta por lugar."
-        },
-        {
-          "letter": "B",
-          "text": "What",
-          "is_correct": false,
-          "feedback": "Qué/cosa."
-        },
-        {
-          "letter": "C",
-          "text": "When",
-          "is_correct": false,
-          "feedback": "Cuándo/tiempo."
-        },
-        {
-          "letter": "D",
-          "text": "Who",
-          "is_correct": false,
-          "feedback": "Quién/persona."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"Where\" pregunta por ubicación.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v4",
-      "statement": "A subject question: who/what is the ___ of the sentence.",
-      "context": "In Colegio Tolimense de Villavicencio, subject vs object questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "object",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "subject",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "verb",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "adverb",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Subject: who/what realiza la acción, NO auxiliary. Object: who/what recibe la acción, CON auxiliary.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v5",
-      "statement": "Form a question: \"you / like / bandeja paisa / why?\"",
-      "context": "At I.E. La Salle de Neiva, form WH-questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Why you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta auxiliar."
-        },
-        {
-          "letter": "B",
-          "text": "Why do you like bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "Why are you like bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Like you bandeja paisa why?",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "WH-questions: WH + auxiliary + subject + base verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v6",
-      "statement": "Ask about object: \"She visited the museum.\"",
-      "context": "In Colegio San José de Santa Marta, object questions.",
+      "id": "CO-ING-6-2026-W31-food-drinks-005-v1",
+      "statement": "What do you use to cut meat?",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Who visited the museum?",
-          "is_correct": false,
-          "feedback": "Pregunta por sujeto."
+          "text": "A knife.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "What did she visit?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "A plate.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Where she visited?",
+          "text": "A glass.",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Did she visit?",
+          "text": "A spoon.",
           "is_correct": false,
-          "feedback": "No pregunta por objeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Object questions: WH + auxiliary + subject + verb. \"What did she visit?\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v7",
-      "statement": "Difference: \"Who called?\" vs \"Who did you call?\"",
-      "context": "At Colegio Simón Bolívar de Barranquilla, analyze question types.",
+      "id": "CO-ING-6-2026-W31-food-drinks-006-v1",
+      "statement": "Milk and juice are ________.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "drinks",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "First = subject Q. Second = object Q.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "sports",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "First present, second past.",
+          "text": "foods",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "First incorrect.",
+          "text": "colors",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject Q: \"Who called?\" (no auxiliary). Object Q: \"Who did you call?\" (with auxiliary).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v8",
-      "statement": "Which question is CORRECT?",
-      "context": "At Colegio Fontán de Villavicencio, evaluate correctness.",
+      "id": "CO-ING-6-2026-W31-food-drinks-007-v1",
+      "statement": "I eat ________ for breakfast.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Why she is studying?",
+          "text": "a chair",
           "is_correct": false,
-          "feedback": "Auxiliar antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "How long you have been here?",
+          "text": "shampoo",
           "is_correct": false,
-          "feedback": "Falta auxiliar."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "What time does the museum open?",
+          "text": "eggs",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Where lives your grandmother?",
+          "text": "dinner",
           "is_correct": false,
-          "feedback": "Verbo antes de sujeto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "WH-questions: WH + auxiliary + subject + verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W31-food-drinks-008-v1",
+      "statement": "Sugar is ________.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sweet",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "sour",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "bitter",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "salty",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v9",
-      "statement": "What type: \"Who wants ice cream?\"",
-      "context": "In Colegio Tolimense de Tunja, identify type.",
+      "id": "CO-ING-6-2026-W31-food-drinks-009-v1",
+      "statement": "Chicken and beef are types of ________.",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes/No question",
+          "text": "fruits",
           "is_correct": false,
-          "feedback": "No es yes/no."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Subject question",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "bread",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Object question",
+          "text": "vegetables",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tag question",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "meat",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Subject questions: who/what = sujeto, NO auxiliary.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v10",
-      "statement": "Tag question: \"They have studied, haven't they?\"",
-      "context": "At Colegio Champagnat de Santa Marta, create tag question.",
+      "id": "CO-ING-6-2026-W31-food-drinks-010-v1",
+      "statement": "Where can you buy food?",
+      "context": "Scenario about food-drinks in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "don't they",
+          "text": "At the bank.",
           "is_correct": false,
-          "feedback": "Auxiliar incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "haven't they",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "At the park.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "have they",
-          "is_correct": false,
-          "feedback": "Negativo cuando afirmación positiva."
+          "text": "At the supermarket.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "didn't they",
+          "text": "At the hospital.",
           "is_correct": false,
-          "feedback": "Past simple, no PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Tag questions: positivo -> tag negativo. El auxiliar del tag debe coincidir.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Food and Drinks at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W31-food-drinks-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.682Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v1",
+      "statement": "An ________ is red and round.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "apple",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "banana",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "carrot",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "potato",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v2",
+      "statement": "A ________ is orange and long.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pear",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "carrot",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "grape",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "lemon",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v3",
+      "statement": "________ are small and purple or green.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pineapples",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Onions",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Grapes",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Strawberries",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v4",
+      "statement": "A ________ is yellow and sour.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watermelon",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "tomato",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "broccoli",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "lemon",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v5",
+      "statement": "A ________ is big, green outside and red inside.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watermelon",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "cherry",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "peach",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "cucumber",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v6",
+      "statement": "A ________ is red and we use it in salads.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "coconut",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "tomato",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "plum",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "mango",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v7",
+      "statement": "A ________ is white and brown, and we use it to make French fries.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lettuce",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "garlic",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "potato",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "kiwi",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-v8",
+      "statement": "An ________ is orange and gives us juice.",
+      "context": "Learning about fruits and vegetables in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "apple",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "banana",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "pear",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "orange",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding fruits and vegetables at the CEFR A1 level.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

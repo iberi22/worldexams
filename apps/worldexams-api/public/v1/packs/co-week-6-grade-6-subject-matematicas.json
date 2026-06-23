@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.021Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-v1",
+      "statement": "En una receta de pandebono se necesitan 1/4 de taza de queso por cada tanda. Si Don Pedro prepara 3 tandas, ¿cuantas tazas de queso necesita en total?",
+      "context": "Multiplicacion de fraccion por entero",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/12 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar numerador y denominador por 3: 1×3=3, 4×3=12 → 3/12. Pero 3/12 = 1/4, que es lo mismo que una tanda. Debe ser 3 × 1/4 = 3/4. Solo se multiplica el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "3/4 de taza",
+          "is_correct": true,
+          "feedback": "Correct. 3 × 1/4 = (3×1)/4 = 3/4 de taza. Para multiplicar una fraccion por un entero, se multiplica solo el numerador y se mantiene el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "1/12 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Dividir en vez de multiplicar: 1/(4×3) = 1/12. La operacion es multiplicacion, no division. 3 tandas × 1/4 = 3/4."
+        },
+        {
+          "letter": "D",
+          "text": "1 taza exacta",
+          "is_correct": false,
+          "feedback": "Incorrect. 3 × 1/4 = 0.75 tazas = 3/4, no 1 taza. Solo si fueran 4 tandas se necesitaria 1 taza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para multiplicar una fraccion por un numero entero, solo se multiplica el numerador por ese numero. El denominador se mantiene igual:\r\n3 × 1/4 = (3×1)/4 = 3/4.\r\nDon Pedro necesita 3/4 de taza de queso para 3 tandas de pandebono.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-002-v1",
+      "statement": "En la tienda del barrio, Don Carlos vende 2/3 de kilo de papa y 1/4 de kilo de cebolla. ¿Cuantos kilos de papa y cebolla compro en total?",
+      "context": "Producto de dos fracciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/7 de kilo",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar numeradores y denominadores: 2+1=3 y 3+4=7. Este no es el procedimiento correcto ni para suma ni para multiplicacion."
+        },
+        {
+          "letter": "B",
+          "text": "1/6 de kilo",
+          "is_correct": true,
+          "feedback": "Correct. 2/3 × 1/4 = (2×1)/(3×4) = 2/12 = 1/6 de kilo. Multiplicamos numeradores entre si y denominadores entre si, luego simplificamos."
+        },
+        {
+          "letter": "C",
+          "text": "2/7 de kilo",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar numeradores (2×1=2) y sumar denominadores (3+4=7). El procedimiento correcto es multiplicar numerador × numerador y denominador × denominador."
+        },
+        {
+          "letter": "D",
+          "text": "2/12 de kilo",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto pero sin simplificar. 2/12 = 1/6. Siempre debemos simplificar las fracciones a su minima expresion. 2/12 se simplifica dividiendo entre 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para multiplicar dos fracciones: numerador × numerador y denominador × denominador.\r\n2/3 × 1/4 = (2×1)/(3×4) = 2/12.\r\nSimplificamos: 2/12 = 1/6 (dividiendo ambos entre 2).\r\nDon Carlos compro 1/6 de kilo (papa y cebolla combinados segun la operacion planteada).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-003-v1",
+      "statement": "Tienes 3/4 de una pizza y la quieres repartir en partes iguales entre 3 amigos. ¿Que fraccion de la pizza le corresponde a cada amigo?",
+      "context": "Division de fraccion entre entero",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4 de pizza",
+          "is_correct": true,
+          "feedback": "Correct. 3/4 ÷ 3 = 3/4 × 1/3 = (3×1)/(4×3) = 3/12 = 1/4. Cada amigo recibe 1/4 de la pizza original."
+        },
+        {
+          "letter": "B",
+          "text": "9/4 de pizza",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar en vez de dividir: 3/4 × 3 = 9/4 = 2 1/4. Eso seria mas pizza de la que hay. Al dividir, el resultado debe ser menor que la cantidad original."
+        },
+        {
+          "letter": "C",
+          "text": "3/12 de pizza",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto pero sin simplificar. 3/12 = 1/4. Siempre simplificar las fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "1/3 de pizza",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir 3/4 ÷ 3 con 1/3. El procedimiento correcto: (3/4) × (1/3) = 3/12 = 1/4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para dividir una fraccion entre un entero:\r\n1. Convertimos el entero a fraccion: 3 = 3/1.\r\n2. Invertimos la segunda fraccion y multiplicamos: 3/4 ÷ 3/1 = 3/4 × 1/3.\r\n3. Multiplicamos numeradores y denominadores: (3×1)/(4×3) = 3/12 = 1/4.\r\nCada amigo recibe 1/4 de la pizza original.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-004-v1",
+      "statement": "¿Cuantas porciones de 1/6 de metro de tela se pueden obtener de un rollo que tiene 2/3 de metro?",
+      "context": "Division de fraccion entre fraccion",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 porciones",
+          "is_correct": false,
+          "feedback": "Incorrect. 2/3 ÷ 1/6 = 2/3 × 6/1 = 12/3 = 4. Error al hacer la operacion: posiblemente olvidar invertir la segunda fraccion."
+        },
+        {
+          "letter": "B",
+          "text": "6 porciones",
+          "is_correct": false,
+          "feedback": "Incorrect. 2/3 ÷ 1/6. Error: invertir la fraccion incorrecta (invertir 2/3 en vez de 1/6): 3/2 × 1/6 = 3/12 = 1/4. La fraccion a invertir es la segunda, no la primera."
+        },
+        {
+          "letter": "C",
+          "text": "3 porciones",
+          "is_correct": false,
+          "feedback": "Incorrect. Error al calcular: 2/3 ÷ 1/6 = 2/3 × 6/1 = 12/3 = 4, no 3. Revisar la multiplicacion."
+        },
+        {
+          "letter": "D",
+          "text": "4 porciones",
+          "is_correct": true,
+          "feedback": "Correct. 2/3 ÷ 1/6 = 2/3 × 6/1 = (2×6)/(3×1) = 12/3 = 4. Se obtienen 4 porciones de 1/6 de metro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para dividir fracciones: se multiplica la primera por el inverso multiplicativo de la segunda.\r\n2/3 ÷ 1/6 = 2/3 × 6/1 = (2×6)/(3×1) = 12/3 = 4.\r\nSe pueden obtener exactamente 4 porciones de 1/6 de metro del rollo de 2/3 de metro.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-005-v1",
+      "statement": "Sofia tiene 5/8 de una tableta de chocolate. Regala a su hermano la mitad de lo que tiene. ¿Que fraccion de la tableta original recibe el hermano?",
+      "context": "Operaciones combinadas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/16",
+          "is_correct": false,
+          "feedback": "Correct. La mitad de 5/8 es 5/8 ÷ 2 = 5/8 × 1/2 = 5/16 de la tableta."
+        },
+        {
+          "letter": "B",
+          "text": "5/4",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar 5/8 × 2 = 10/8 = 5/4. La mitad se obtiene dividiendo entre 2, no multiplicando."
+        },
+        {
+          "letter": "C",
+          "text": "10/8",
+          "is_correct": false,
+          "feedback": "Incorrect. 5/8 + 5/8 = 10/8. Sumar en vez de dividir entre 2. La mitad de 5/8 es 5/16."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Incorrect. Pensar que la mitad de 5/8 es 1/4 porque la mitad de 5 es 2.5 y de 8 es 4. No se divide cada termino por separado. La operacion correcta es 5/8 × 1/2 = 5/16."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "\"La mitad de\" significa dividir entre 2. En fracciones, dividir entre 2 es equivalente a multiplicar por 1/2.\r\n5/8 ÷ 2 = 5/8 × 1/2 = (5×1)/(8×2) = 5/16.\r\nEl hermano de Sofia recibe 5/16 de la tableta original de chocolate.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-006-v1",
+      "statement": "La familia Vargas tiene un terreno de 3/4 de hectarea. Deciden dividirlo en 5 parcelas iguales para sus hijos. ¿Que fraccion de hectarea recibe cada hijo?",
+      "context": "Reparticion de terreno familiar",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/20 de hectarea",
+          "is_correct": true,
+          "feedback": "Correct. 3/4 ÷ 5 = 3/4 × 1/5 = (3×1)/(4×5) = 3/20 de hectarea."
+        },
+        {
+          "letter": "B",
+          "text": "15/4 de hectarea",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar en vez de dividir: 3/4 × 5 = 15/4 = 3.75 hectareas. Eso seria mas terreno del que hay."
+        },
+        {
+          "letter": "C",
+          "text": "3/9 de hectarea",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar denominadores: 4+5=9. Error: dividir fraccion entre entero usa la regla de invertir y multiplicar, no sumar denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "4/15 de hectarea",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir la fraccion: 4/3 × 1/5 = 4/15. Se invierte 3/4 en vez de 5/1. La regla es: 3/4 ÷ 5/1 = 3/4 × 1/5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repartir 3/4 de hectarea entre 5 partes iguales:\r\n3/4 ÷ 5 = 3/4 ÷ 5/1 = 3/4 × 1/5 = 3/20.\r\nCada hijo recibe 3/20 de hectarea. Verificacion: 3/20 × 5 = 15/20 = 3/4 ✓\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-007-v1",
+      "statement": "El taxi de Don Roberto consume 3/5 de galon de gasolina por cada 5/6 de hora de recorrido. ¿Cuantos galones consume en 1 hora?",
+      "context": "Rendimiento de combustible",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18/25 de galon",
+          "is_correct": false,
+          "feedback": "Correct. 3/5 ÷ 5/6 = 3/5 × 6/5 = 18/25 de galon por hora."
+        },
+        {
+          "letter": "B",
+          "text": "1/2 de galon",
+          "is_correct": true,
+          "feedback": "Incorrect. Error al invertir y multiplicar: 3/5 × 5/6 = 15/30 = 1/2. Pero la division es 3/5 ÷ 5/6, que es 3/5 × 6/5 = 18/25, no 3/5 × 5/6."
+        },
+        {
+          "letter": "C",
+          "text": "15/30 de galon",
+          "is_correct": false,
+          "feedback": "Incorrect. 3/5 × 5/6 = 15/30 = 1/2. Se esta multiplicando en vez de dividir. La operacion es 3/5 ÷ 5/6 = 3/5 × 6/5."
+        },
+        {
+          "letter": "D",
+          "text": "3/6 de galon",
+          "is_correct": false,
+          "feedback": "Incorrect. Simplificacion incorrecta: pensar que 3/5 ÷ 5/6 = (3÷5)/(5÷6) = 0.6/0.833. El procedimiento es multiplicar por el inverso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar el consumo por hora: (3/5 galon) ÷ (5/6 hora) = galones por hora.\r\n3/5 ÷ 5/6 = 3/5 × 6/5 = (3×6)/(5×5) = 18/25.\r\nDon Roberto consume 18/25 de galon por hora.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-008-v1",
+      "statement": "La receta de ajiaco de la abuela de Lucia usa 2/3 de taza de crema de leche para 4 personas. Si en la reunion familiar van a comer 10 personas, ¿cuantas tazas de crema de leche necesita?",
+      "context": "Receta de cocina — ampliacion",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20/3 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. 10 ÷ 4 = 2.5, y 2/3 × 2.5 = 5/3, no 20/3. Multiplicar 2/3 × 10 = 20/3 es incorrecto porque la receta es para 4 personas, no para 1."
+        },
+        {
+          "letter": "B",
+          "text": "8/30 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir los factores: 4/10 × 2/3 = 8/30 = 4/15. Se debe multiplicar la cantidad por el factor de ampliacion (10/4), no al reves."
+        },
+        {
+          "letter": "C",
+          "text": "5/3 de taza",
+          "is_correct": true,
+          "feedback": "Correct. Factor de ampliacion: 10/4 = 5/2. Cantidad: 2/3 × 5/2 = 10/6 = 5/3 = 1 2/3 tazas."
+        },
+        {
+          "letter": "D",
+          "text": "2/15 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. 2/3 × 4/10 = 8/30 = 4/15. Se esta usando la relacion invertida (4/10 en vez de 10/4)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "1. Factor de ampliacion: 10 personas ÷ 4 personas = 10/4 = 5/2.\r\n2. Multiplicamos la cantidad original por el factor: 2/3 × 5/2 = (2×5)/(3×2) = 10/6 = 5/3.\r\n5/3 = 1 2/3 tazas de crema de leche. La abuela necesita 1 taza y 2/3 adicionales.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-009-v1",
+      "statement": "Valentina dice que para calcular 2/5 ÷ 7/3 debe hacer 2/5 × 3/7. Camilo dice que debe hacer 5/2 × 7/3. ¿Quien tiene la razon?",
+      "context": "Comparacion de metodos de resolucion",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valentina, porque se invierte solo la segunda fraccion y se multiplica",
+          "is_correct": false,
+          "feedback": "Correct. La regla de division de fracciones es: a/b ÷ c/d = a/b × d/c. Solo se invierte la segunda fraccion (el divisor)."
+        },
+        {
+          "letter": "B",
+          "text": "Camilo, porque se invierte la primera fraccion y se multiplica por la segunda sin invertir",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir la primera fraccion en vez de la segunda. La regla es: a/b ÷ c/d = a/b × d/c. Se invierte la segunda, no la primera."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos estan equivocados porque la regla es sumar los numeradores",
+          "is_correct": true,
+          "feedback": "Incorrect. La suma no tiene nada que ver con esta operacion. La division de fracciones sigue la regla de invertir y multiplicar la segunda fraccion."
+        },
+        {
+          "letter": "D",
+          "text": "Valentina tiene la razon solo si las fracciones tienen el mismo denominador",
+          "is_correct": false,
+          "feedback": "Incorrect. La regla de invertir y multiplicar funciona siempre, sin importar los denominadores. El denominador comun solo se usa en suma y resta de fracciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla general para dividir dos fracciones es:\r\na/b ÷ c/d = a/b × d/c (se invierte solo la segunda fraccion y se convierte en multiplicacion).\r\nPara 2/5 ÷ 7/3:\r\n2/5 × 3/7 = (2×3)/(5×7) = 6/35.\r\nValentina tiene la razon. Camilo confunde la regla al invertir la primera fraccion.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-010-v1",
+      "statement": "En un examen, cuatro estudiantes resolvieron el mismo problema: calcular 3/4 × 2/5 y luego dividir el resultado entre 1/2. Sus respuestas fueron:\r\n- Ana: 3/10\r\n- Carlos: 3/5\r\n- Maria: 6/9\r\n- Juan: 3/20\r\n¿Quien respondio correctamente?",
+      "context": "Verificacion de operaciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana, porque 3/4 × 2/5 = 6/20 = 3/10, y luego 3/10 ÷ 1/2 = 3/5",
+          "is_correct": false,
+          "feedback": "Correct. Primero: 3/4 × 2/5 = 6/20 = 3/10. Segundo: 3/10 ÷ 1/2 = 3/10 × 2/1 = 6/10 = 3/5."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos, porque 3/4 × 2/5 = 3/10 y eso es el resultado final",
+          "is_correct": false,
+          "feedback": "Incorrect. Carlos solo hizo la multiplicacion, pero el problema pide continuar dividiendo el resultado entre 1/2. Hecho completo: 3/10 ÷ 1/2 = 3/10 × 2/1 = 6/10 = 3/5."
+        },
+        {
+          "letter": "C",
+          "text": "Maria, porque 3/4 × 2/5 = 6/9",
+          "is_correct": true,
+          "feedback": "Incorrect. 3/4 × 2/5 = (3×2)/(4×5) = 6/20, no 6/9. Maria sumo denominadores (4+5=9) en vez de multiplicarlos. Esto es un error grave de procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Juan, porque 3/4 × 2/5 = 3/20 y luego 3/20 ÷ 1/2 = 3/10",
+          "is_correct": false,
+          "feedback": "Incorrect. Juan multiplico bien 3/4 × 2/5 = 6/20 = 3/10, no 3/20 (error: 3×2=6, no 3). Luego 3/10 ÷ 1/2 = 3/10 × 2/1 = 6/10 = 3/5, no 3/10. Dos errores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolvamos paso a paso:\r\nPaso 1: Multiplicacion: 3/4 × 2/5 = (3×2)/(4×5) = 6/20 = 3/10.\r\nPaso 2: Division: 3/10 ÷ 1/2 = 3/10 × 2/1 = (3×2)/(10×1) = 6/10 = 3/5.\r\nAna hizo correctamente ambos pasos ✓. Carlos solo hizo la multiplicacion. Maria sumo denominadores. Juan calculo mal la multiplicacion y luego la division.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cali, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Cali, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Pereira, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Manizales, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. San José en Bucaramanga, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. San José en Tunja, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cartagena, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Villavicencio, se discute sobre Tema Semana 6 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 6 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 6 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 6 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-6-2026-W06-tema-semana-6-de-matematicas-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,238 +1,205 @@
 ---
-id: "CO-ING-3-2026-W31-telling-time-001-MASTERY"
+id: "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "telling-time"
 periodo: "weekly"
-semana: 31
+week: "W31"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Telling the time (o'clock and half past) in English (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Telling Time (W31)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W31: Telling Time (A1)
-
-This bundle focuses on telling the time (specifically "o'clock" and "half past") in English, aligned with CEFR A1.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Looking at a clock.
-
-### Enunciado
-What word do we use for the exact hour (e.g., **7:00**)? 🕒
-
-### Options
-- [ ] A) Half past <!-- feedback: Incorrect. This is for 30 minutes. -->
-- [x] B) O'clock <!-- feedback: Correct! "O'clock" is used for the top of the hour. -->
-- [ ] C) Minutes <!-- feedback: Incorrect. -->
-- [ ] D) Second <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"O'clock" se usa para indicar las horas en punto. Por ejemplo, "It is seven o'clock" (Son las siete en punto).
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Identifying time on a digital clock.
-
-### Enunciado
-The clock shows **8:00**. How do you say it?
-
-### Options
-- [ ] A) It is eight half past <!-- feedback: Incorrect. -->
-- [x] B) It is eight o'clock <!-- feedback: Correct! 8:00 is eight o'clock. -->
-- [ ] C) It is eight time <!-- feedback: Incorrect. -->
-- [ ] D) It is eight o'clock past <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-En inglés, para decir la hora exacta, decimos el número seguido de "o'clock".
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Talking about 30 minutes.
-
-### Enunciado
-What does **"Half past"** mean? 🕝
-
-### Options
-- [ ] A) The exact hour <!-- feedback: Incorrect. That is o'clock. -->
-- [x] B) 30 minutes after the hour <!-- feedback: Correct! Half past means 30 minutes. -->
-- [ ] C) 15 minutes before the hour <!-- feedback: Incorrect. -->
-- [ ] D) 10 minutes past <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Half past" significa "y media". Indica que han pasado 30 minutos (la mitad de una hora) después de la hora mencionada.
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Digital to verbal time.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-The clock says **10:30**. How do you say it using "half past"?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) It is half past eleven <!-- feedback: Incorrect. 10:30 is half past ten. -->
-- [x] B) It is half past ten <!-- feedback: Correct! Half past ten means 10:30. -->
-- [ ] C) It is ten o'clock <!-- feedback: Incorrect. -->
-- [ ] D) It is half ten <!-- feedback: Incorrect. While used in some places, "half past ten" is the full standard form. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Para decir las "y media", usamos "half past" seguido de la hora actual. 10:30 es "half past ten".
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Asking for the time.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the correct question to ask for the time? ⌚
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) What time it is? <!-- feedback: Incorrect. The order is wrong. -->
-- [x] B) What time is it? <!-- feedback: Correct! This is the standard way to ask the time. -->
-- [ ] C) Who time is it? <!-- feedback: Incorrect. -->
-- [ ] D) Where time is it? <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"What time is it?" es la pregunta gramaticalmente correcta para saber la hora.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Time of a specific activity.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Lunch is at **one o'clock**. Which clock shows the correct time for lunch?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) 1:30 <!-- feedback: Incorrect. This is half past one. -->
-- [x] B) 1:00 <!-- feedback: Correct! 1:00 is one o'clock. -->
-- [ ] C) 12:00 <!-- feedback: Incorrect. -->
-- [ ] D) 2:00 <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Relacionar la hora escrita con la digital. "One o'clock" corresponde exactamente a la 1:00.
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Time progression.
-
-### Enunciado
-It is **3:00**. In **30 minutes**, it will be...
-
-### Options
-- [ ] A) Four o'clock <!-- feedback: Incorrect. -->
-- [x] B) Half past three <!-- feedback: Correct! 3:00 + 30 minutes = 3:30 (half past three). -->
-- [ ] C) Half past four <!-- feedback: Incorrect. -->
-- [ ] D) Three o'clock <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Aplicar el concepto de tiempo. Si son las 3:00, en 30 minutos serán las 3:30, lo que se dice "half past three".
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Identifying parts of a clock.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-On an analog clock, if the **long hand** (la manecilla larga) points to **6**, what time is it? 🕕
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) It is o'clock <!-- feedback: Incorrect. Long hand on 12 is o'clock. -->
-- [x] B) It is half past <!-- feedback: Correct! When the long hand is on 6, it is 30 minutes past. -->
-- [ ] C) It is morning <!-- feedback: Incorrect. -->
-- [ ] D) It is noon <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar el funcionamiento del reloj analógico. El número 6 representa 30 minutos, por lo tanto usamos "half past".
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Morning vs Night.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-**7:00 AM** is seven o'clock in the **morning**. What is **7:00 PM**? 🌙
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) Seven o'clock in the afternoon <!-- feedback: Incorrect. 7:00 PM is later. -->
-- [x] B) Seven o'clock in the evening <!-- feedback: Correct! 7:00 PM is evening/night. -->
-- [ ] C) Seven o'clock in the morning <!-- feedback: Incorrect. That is AM. -->
-- [ ] D) Noon <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Diferenciar entre AM (morning) y PM (afternoon/evening). Las 7:00 PM se consideran parte del "evening".
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Choosing the right time for an action.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-You need to go to sleep early for school tomorrow. Which time is the **best** choice to go to bed? 😴
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [x] A) Eight o'clock (8:00 PM) <!-- feedback: Correct! This is a healthy time for a child. -->
-- [ ] B) Half past eleven (11:30 PM) <!-- feedback: Incorrect. It is too late. -->
-- [ ] C) One o'clock in the morning (1:00 AM) <!-- feedback: Incorrect. Definitely too late. -->
-- [ ] D) One o'clock in the afternoon (1:00 PM) <!-- feedback: Incorrect. That is for lunch! -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar las opciones según el contexto de vida saludable y rutina escolar. Dormir a las 8:00 PM es lo más adecuado para un niño de grado 3.
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

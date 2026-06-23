@@ -1,243 +1,205 @@
 ---
-id: "CO-ING-3-2026-W39-verb-to-be-001-MASTERY"
+id: "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "verb-to-be"
 periodo: "weekly"
-semana: 39
+week: "W39"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Basic usage of the Verb To Be (am, is, are) in English (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Verb To Be (W39)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W39: Verb To Be (A1)
-
-This bundle focuses on the basic conjugation and usage of the Verb To Be (am, is, are) in English, aligned with CEFR A1.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Talking about oneself.
-
-### Enunciado
-Complete the sentence: **"I ________ a student."** 👦
-
-### Options
-- [x] A) am <!-- feedback: Correct! "I am" is the correct conjugation. -->
-- [ ] B) is <!-- feedback: Incorrect. "Is" is for he, she, it. -->
-- [ ] C) are <!-- feedback: Incorrect. "Are" is for you, we, they. -->
-- [ ] D) be <!-- feedback: Incorrect. We must conjugate the verb. -->
-
-### Explicación Pedagógica
-En inglés, el pronombre "I" (yo) siempre se acompaña de la forma "am" del verbo to be.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Talking about a girl.
-
-### Enunciado
-Complete: **"She ________ my sister."** 👧
-
-### Options
-- [ ] A) am <!-- feedback: Incorrect. -->
-- [x] B) is <!-- feedback: Correct! "She is" is the correct form. -->
-- [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Para la tercera persona del singular (he, she, it), usamos la forma "is".
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Talking about a group.
-
-### Enunciado
-Complete: **"We ________ friends."** 👬👭
-
-### Options
-- [ ] A) is <!-- feedback: Incorrect. -->
-- [ ] B) am <!-- feedback: Incorrect. -->
-- [x] C) are <!-- feedback: Correct! "We are" is for plural. -->
-- [ ] D) is not <!-- feedback: Incorrect grammar for we. -->
-
-### Explicación Pedagógica
-Para los pronombres plurales (we, they) y "you", usamos la forma "are".
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Describing an animal.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Complete: **"The dog ________ brown."** 🐕
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) am <!-- feedback: Incorrect. -->
-- [x] B) is <!-- feedback: Correct! The dog (it) uses "is". -->
-- [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Cuando hablamos de un animal o un objeto en singular, usamos "is" (equivalente a "it is").
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Describing a feeling.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-**Question:** "Are you happy?"
-**Answer:** "Yes, I ________." 😊
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [x] A) am <!-- feedback: Correct! "I am" matches the answer. -->
-- [ ] B) is <!-- feedback: Incorrect. -->
-- [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) do <!-- feedback: Incorrect. Use to be for state/feelings. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-En respuestas cortas afirmativas, mantenemos la concordancia: "I am".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Plural subjects.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-**"The apples ________ red and sweet."** 🍎🍎
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) is <!-- feedback: Incorrect. There are many apples. -->
-- [x] B) are <!-- feedback: Correct! Plural subjects use "are". -->
-- [ ] C) am <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Cuando el sujeto es plural (the apples = they), debemos usar "are".
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Negative form.
-
-### Enunciado
-How do you say **"Él no es un doctor"**? 👨‍⚕️✖️
-
-### Options
-- [ ] A) He is a doctor <!-- feedback: Incorrect. This is affirmative. -->
-- [x] B) He is not a doctor <!-- feedback: Correct! We add "not" after the verb. -->
-- [ ] C) He no is a doctor <!-- feedback: Incorrect grammar. -->
-- [ ] D) He not is doctor <!-- feedback: Incorrect grammar. -->
-
-### Explicación Pedagógica
-Para negar con el verbo to be, simplemente añadimos la palabra "not" después del verbo (is not).
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Identifying the correct pronoun/verb pair.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which sentence is **grammatically correct**?
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) You is a good boy. <!-- feedback: Incorrect. Should be "You are". -->
-- [ ] B) They am at school. <!-- feedback: Incorrect. Should be "They are". -->
-- [x] C) It is a sunny day. <!-- feedback: Correct! "It is" is the right conjugation. -->
-- [ ] D) I are happy. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar la concordancia sujeto-verbo. La única opción correcta es "It is a sunny day".
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Interrogative form logic.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-To make a **question**, we change the order.
-**Statement:** "You are a teacher."
-**Question:** "________ a teacher?" 👩‍🏫
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) Are you <!-- feedback: Correct! In questions, the verb comes first. -->
-- [x] A) Are you <!-- feedback: Wait, let me check the labels. -->
-- [x] A) Are you <!-- feedback: Yes, A is correct. -->
-- [ ] B) You are <!-- feedback: Incorrect. This is the statement order. -->
-- [ ] C) Is you <!-- feedback: Incorrect conjugation. -->
-- [ ] D) Am you <!-- feedback: Incorrect conjugation. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar la estructura interrogativa. Para preguntar, invertimos el sujeto y el verbo: "Are you...?".
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Choosing the right introduction.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-You are presenting your **mother and father** to your friends. What do you say?
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [ ] A) They is my parents. <!-- feedback: Incorrect grammar. -->
-- [x] B) They are my parents. <!-- feedback: Correct! Using plural "They" with "are". -->
-- [ ] C) He are my parents. <!-- feedback: Incorrect pronoun. -->
-- [ ] D) She am my parents. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar el uso correcto de pronombres plurales. Al referirse a ambos padres, el pronombre es "They" y el verbo es "are".
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

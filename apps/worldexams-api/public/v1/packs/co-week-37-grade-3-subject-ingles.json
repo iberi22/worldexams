@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-37-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.668Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v1",
+      "statement": "A basketball player is usually very **_________**. 🏀",
+      "context": "Describing height.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Short",
+          "is_correct": false,
+          "feedback": "Incorrect. Short is for small height."
+        },
+        {
+          "letter": "B",
+          "text": "Tall",
+          "is_correct": true,
+          "feedback": "Correct! Basketball players need to be tall."
+        },
+        {
+          "letter": "C",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a color."
+        },
+        {
+          "letter": "D",
+          "text": "Small",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Tall\" significa alto. Es un adjetivo de apariencia física para la estatura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v2",
+      "statement": "When you smile and laugh, you are **_________**. 😊",
+      "context": "Expressing happiness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy",
+          "is_correct": true,
+          "feedback": "Correct! Smiling indicates happiness."
+        },
+        {
+          "letter": "B",
+          "text": "Sad",
+          "is_correct": false,
+          "feedback": "Incorrect. Sad is the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Angry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sleepy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Happy\" significa feliz o alegre. Describe un estado emocional positivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v3",
+      "statement": "The opposite of **\"Happy\"** is... ☹️",
+      "context": "Identifying opposites.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sad",
+          "is_correct": true,
+          "feedback": "Correct! Sad is the antonym of Happy."
+        },
+        {
+          "letter": "C",
+          "text": "Tall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar antónimos es clave. \"Sad\" significa triste, lo opuesto de \"Happy\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v4",
+      "statement": "Your **grandfather** is **old**. You are a child, you are **_________**. 👴👦",
+      "context": "Describing age.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Old",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Young",
+          "is_correct": true,
+          "feedback": "Correct! Young is for people at the beginning of their life."
+        },
+        {
+          "letter": "C",
+          "text": "Tall",
+          "is_correct": false,
+          "feedback": "Incorrect. While you might be, \"young\" is the direct contrast to \"old\"."
+        },
+        {
+          "letter": "D",
+          "text": "Fat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Young\" significa joven. Es el adjetivo que describe la etapa de la vida de los niños y adolescentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v5",
+      "statement": "Ana has hair that reaches her back. Her hair is **_________**. 💇‍♀️",
+      "context": "Describing hair.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Short",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Long",
+          "is_correct": true,
+          "feedback": "Correct! Hair that reaches the back is long."
+        },
+        {
+          "letter": "C",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Fast",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Long\" significa largo. Se usa para describir la longitud del cabello u otros objetos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v6",
+      "statement": "A person who **exercises a lot** and is strong might be described as... 💪",
+      "context": "Describing build.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weak",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the opposite of strong."
+        },
+        {
+          "letter": "B",
+          "text": "Strong",
+          "is_correct": true,
+          "feedback": "Correct! Exercise helps you be strong."
+        },
+        {
+          "letter": "C",
+          "text": "Thin",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, \"strong\" matches the description better."
+        },
+        {
+          "letter": "D",
+          "text": "Sad",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Strong\" significa fuerte. Describe a alguien con capacidad física o muscular.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v7",
+      "statement": "She has a very pretty face and a nice smile. She is **_________**. ✨",
+      "context": "Describing beauty.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beautiful",
+          "is_correct": true,
+          "feedback": "Correct! Beautiful means very pretty."
+        },
+        {
+          "letter": "B",
+          "text": "Ugly",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Tall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Old",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Beautiful\" significa hermoso o bello. Se usa para expresar agrado estético.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v8",
+      "statement": "Which group shows **height** (estatura) descriptors?",
+      "context": "Identifying the correct adjective pair.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big and Small",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for size."
+        },
+        {
+          "letter": "B",
+          "text": "Tall and Short",
+          "is_correct": true,
+          "feedback": "Correct! These describe how tall a person is."
+        },
+        {
+          "letter": "C",
+          "text": "Young and Old",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for age."
+        },
+        {
+          "letter": "D",
+          "text": "Happy and Sad",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for emotions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar y clasificar los adjetivos. \"Tall\" (alto) y \"Short\" (bajo) son las palabras para la estatura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v9",
+      "statement": "\"My brother is not tall. He is 6 years old.\"\nHow is my brother?",
+      "context": "Analyzing a description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is tall and old.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "He is short and old.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "He is short and young.",
+          "is_correct": true,
+          "feedback": "Correct! Not tall = short; 6 years old = young."
+        },
+        {
+          "letter": "D",
+          "text": "He is big and angry.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar las premisas de la descripción. Ser \"no alto\" implica ser \"short\", y tener 6 años implica ser \"young\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-v10",
+      "statement": "How would you describe your best friend to someone who doesn't know them?",
+      "context": "Choosing the most respectful description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My friend is ugly.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not nice or respectful."
+        },
+        {
+          "letter": "B",
+          "text": "My friend is very intelligent and kind.",
+          "is_correct": true,
+          "feedback": "Correct! These are positive and descriptive traits."
+        },
+        {
+          "letter": "C",
+          "text": "My friend is just a person.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not very descriptive."
+        },
+        {
+          "letter": "D",
+          "text": "I don't know.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el uso del lenguaje positivo y descriptivo. \"Intelligent\" (inteligente) y \"Kind\" (amable) son excelentes adjetivos de personalidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

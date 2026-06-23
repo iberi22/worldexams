@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencia y Tecnologia",
+    "country": "pe",
+    "pack_id": "pe-week-34-grade-11-subject-ciencia_y_tecnologia",
+    "generated_at": "2026-06-22T05:46:18.627Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v1",
+      "statement": "Simplifique: (2)(2x + 44)",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4x + 88",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4x + 44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4x + 88",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4x - 88\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(2x + 44) = 4x + 88.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v3",
+      "statement": "Maria compro 7 cuadernos a $1.1 c/u en Trujillo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $7.1",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $1.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $8.1\r\n  \r\n\r\n**Explicacion:** Total = 7 x 1 = $7.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Simbolos Patrios en Moquegua grafica f(x) = 6x + 7. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v5",
+      "statement": "En Chiclayo, un estudiante del Colegio Nacional San Jose resuelve: 8x + 2 = 42. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 2 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v6",
+      "statement": "Simplifique: (3)(3x + 31)",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 9x + 93",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9x + 31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6x + 93",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9x - 93\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(3x + 31) = 9x + 93.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v8",
+      "statement": "Maria compro 7 cuadernos a $1.3 c/u en Huancayo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $7.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $1.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $8.3\r\n  \r\n\r\n**Explicacion:** Total = 7 x 1 = $7.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional San Juan en Trujillo grafica f(x) = 4x + 7. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v10",
+      "statement": "En Lima, un estudiante del Colegio Nacional Nuestra Senora de Guadalupe resuelve: 4x + 4 = 24. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v11",
+      "statement": "Simplifique: (6)(7x + 37)",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 42x + 222",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 42x + 37",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 222",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 42x - 222\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(7x + 37) = 42x + 222.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v13",
+      "statement": "Maria compro 2 cuadernos a $9.2 c/u en Huancayo. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $18.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $9.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $11.2\r\n  \r\n\r\n**Explicacion:** Total = 2 x 9 = $18.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 2x + 8. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v15",
+      "statement": "En Callao, un estudiante del Colegio Nacional Dos de Mayo resuelve: 3x + 1 = 16. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Se resta 1 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v16",
+      "statement": "Simplifique: (6)(8x + 41)",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 48x + 246",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 48x + 41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 246",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 48x - 246\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(8x + 41) = 48x + 246.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v18",
+      "statement": "Maria compro 6 cuadernos a $6.2 c/u en Huaraz. Cuanto gasto?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $36.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $6.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $6.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $12.2\r\n  \r\n\r\n**Explicacion:** Total = 6 x 6 = $36.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional San Miguel en Piura grafica f(x) = 5x + 4. Cual es la pendiente?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-v20",
+      "statement": "En Tacna, un estudiante del Colegio Nacional Coronel Bolognesi resuelve: 5x + 11 = 36. Cual es el valor de x?",
+      "context": "Estudiantes de PE practicando sistema reproductor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-CIE-11-2026-W34-sistema-reproductor-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencia y Tecnologia",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

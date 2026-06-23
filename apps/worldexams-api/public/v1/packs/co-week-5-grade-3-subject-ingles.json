@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-5-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.645Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v1",
+      "statement": "How do you say **\"Buenas tardes\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good morning",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the morning."
+        },
+        {
+          "letter": "B",
+          "text": "Good afternoon",
+          "is_correct": true,
+          "feedback": "Correct! \"Afternoon\" is for the time after 12:00 PM."
+        },
+        {
+          "letter": "C",
+          "text": "Good night",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the night."
+        },
+        {
+          "letter": "D",
+          "text": "Hello",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just \"hola\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Good afternoon\" es el saludo adecuado para la tarde en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v2",
+      "statement": "What is the letter after **B**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "is_correct": false,
+          "feedback": "Incorrect. A is before B."
+        },
+        {
+          "letter": "B",
+          "text": "C",
+          "is_correct": true,
+          "feedback": "Correct! A, B, C..."
+        },
+        {
+          "letter": "C",
+          "text": "D",
+          "is_correct": false,
+          "feedback": "Incorrect. D is after C."
+        },
+        {
+          "letter": "D",
+          "text": "E",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la secuencia del abecedario, la letra C sigue a la letra B.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v3",
+      "statement": "What number is **\"TWELVE\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrect. 2 is \"two\"."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrect. 10 is \"ten\"."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrect. 11 is \"eleven\"."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correct! 12 is \"twelve\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El número 12 se escribe \"twelve\" en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v4",
+      "statement": "What color is a **banana**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yellow",
+          "is_correct": true,
+          "feedback": "Correct! Bananas are yellow."
+        },
+        {
+          "letter": "B",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El color amarillo en inglés se dice \"yellow\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v5",
+      "statement": "Spell the word **\"RED\"**:",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R - E - D",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "R - A - D",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "B - E - D",
+          "is_correct": false,
+          "feedback": "Incorrect. That spells bed."
+        },
+        {
+          "letter": "D",
+          "text": "R - E - T",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El color rojo se escribe R-E-D.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v6",
+      "statement": "How many is **seven + four**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ten",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Eleven",
+          "is_correct": true,
+          "feedback": "Correct! 7 + 4 = 11."
+        },
+        {
+          "letter": "C",
+          "text": "Twelve",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Nine",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Siete (seven) más cuatro (four) son once (eleven).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v7",
+      "statement": "What do you say when you **leave** a place?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hello",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Goodbye",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Good morning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "How are you?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al irnos de un lugar, usamos la despedida \"Goodbye\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v8",
+      "statement": "Which color is **\"Verde\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Yellow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Green",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verde en inglés se dice \"green\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

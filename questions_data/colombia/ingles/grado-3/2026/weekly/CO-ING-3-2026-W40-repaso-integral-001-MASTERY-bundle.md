@@ -1,238 +1,205 @@
 ---
-id: "CO-ING-3-2026-W40-repaso-integral-001-MASTERY"
+id: "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-integral"
 periodo: "weekly"
-semana: 40
+week: "W40"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Comprehensive review of all Grade 3 English topics (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Repaso Integral (W40)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W40: Repaso Integral (A1)
-
-This final bundle is a comprehensive review of the most important topics covered during the Grade 3 English school year in Colombia.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Greetings review.
-
-### Enunciado
-What do you say to say **"Hola"** in English?
-
-### Options
-- [x] A) Hello <!-- feedback: Correct! -->
-- [ ] B) Goodbye <!-- feedback: Incorrect. -->
-- [ ] C) Thank you <!-- feedback: Incorrect. -->
-- [ ] D) Please <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Hello" es el saludo básico para decir hola.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Numbers review.
-
-### Enunciado
-What number is **"TWENTY"**?
-
-### Options
-- [ ] A) 10 <!-- feedback: Incorrect. -->
-- [ ] B) 12 <!-- feedback: Incorrect. -->
-- [x] C) 20 <!-- feedback: Correct! -->
-- [ ] D) 2 <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El número 20 se escribe "Twenty" en inglés.
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Colors review.
-
-### Enunciado
-The flag of Colombia has **Yellow, Blue,** and... 🇨🇴
-
-### Options
-- [ ] A) Green <!-- feedback: Incorrect. -->
-- [x] B) Red <!-- feedback: Correct! -->
-- [ ] C) White <!-- feedback: Incorrect. -->
-- [ ] D) Black <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Los colores de la bandera son amarillo, azul y rojo (Red).
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Family review.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Your mother's **sister** is your...
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [x] A) Aunt <!-- feedback: Correct! -->
-- [ ] B) Uncle <!-- feedback: Incorrect. -->
-- [ ] C) Cousin <!-- feedback: Incorrect. -->
-- [ ] D) Grandmother <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La hermana de tu madre es tu tía (Aunt).
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** School subjects review.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-In which class do you use **numbers** and **add** 5 + 5?
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Art <!-- feedback: Incorrect. -->
-- [x] B) Math <!-- feedback: Correct! -->
-- [ ] C) English <!-- feedback: Incorrect. -->
-- [ ] D) Science <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Las operaciones matemáticas se realizan en la clase de Math.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Body parts review.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What do you use to **listen** to music? 👂
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Eyes <!-- feedback: Incorrect. -->
-- [x] B) Ears <!-- feedback: Correct! -->
-- [ ] C) Nose <!-- feedback: Incorrect. -->
-- [ ] D) Mouth <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Usamos los oídos (Ears) para escuchar.
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Animals review.
-
-### Enunciado
-Which animal is very **big** and has a **long trunk**? 🐘
-
-### Options
-- [ ] A) Lion <!-- feedback: Incorrect. -->
-- [x] B) Elephant <!-- feedback: Correct! -->
-- [ ] C) Monkey <!-- feedback: Incorrect. -->
-- [ ] D) Snake <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El elefante (Elephant) se reconoce por su gran tamaño y su trompa.
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Time review.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-If the clock shows **10:30**, you say it is...
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) Ten o'clock <!-- feedback: Incorrect. -->
-- [x] B) Half past ten <!-- feedback: Correct! -->
-- [ ] C) Ten past half <!-- feedback: Incorrect. -->
-- [ ] D) Half ten <!-- feedback: Incorrect (standard is half past ten). -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-10:30 se dice "half past ten".
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Describing review.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-"The mouse is **small**. The elephant is **_________**."
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) Short <!-- feedback: Incorrect. -->
-- [x] B) Big <!-- feedback: Correct! It is the opposite of small in this context. -->
-- [ ] C) Light <!-- feedback: Incorrect. -->
-- [ ] D) New <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El antónimo de pequeño (small) es grande (big).
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Logic of routine.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Choose the **incorrect** sequence of a daily routine:
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [ ] A) Wake up → Have breakfast <!-- feedback: Incorrect. This sequence is correct. -->
-- [ ] B) Go to school → Have lunch <!-- feedback: Incorrect. This sequence is correct. -->
-- [x] C) Go to sleep → Go to school <!-- feedback: Correct! You cannot go to school while sleeping; this sequence is wrong. -->
-- [ ] D) Do homework → Have dinner <!-- feedback: Incorrect. This sequence is correct. -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar el orden lógico de las acciones. No se puede ir a dormir y luego ir a la escuela inmediatamente sin despertar primero.
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

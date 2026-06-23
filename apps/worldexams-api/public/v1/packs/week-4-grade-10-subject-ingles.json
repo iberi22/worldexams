@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v1",
+      "statement": "\"I ____ at the local animal shelter for six months, and I love seeing the progress the pets make.\"",
+      "context": "Discussing a long-term project.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "volunteered",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "am volunteering",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
+          "text": "have been volunteering",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Present Perfect Continuous shows an action that started in the past and continues."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "have volunteered",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possible, but less idiomatic for ongoing actions with duration."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "C",
+      "explanation": "Present Perfect Continuous is used for actions that started in the past and are still happening.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v3",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v2",
+      "statement": "\"You look exhausted!\" \"Yes, I ____ trees in the park all morning.\"",
+      "context": "A tired volunteer explaining why they need a break.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "planted",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "have been planting",
+          "is_correct": true,
+          "feedback": "Correct. Describes a recent activity that explains a present state."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "am planting",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "had been planting",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Present Perfect Continuous can be used for actions that have recently stopped but have a result in the present.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v3",
+      "statement": "\"She ____ funds for the new library since last year, and they are almost at their goal.\"",
+      "context": "Describing a community leader.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "has been raising",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Correct. Ongoing activity starting at a specific point."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "has been rising",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect vocabulary."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "raised",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "is raising",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "explanation": "Distinguishing between \"raise\" and \"rise\" in the context of the Present Perfect Continuous.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v4",
+      "statement": "\"The NGO ____ food and water to the remote villages, but the bad weather is making it difficult.\"",
+      "context": "A report on international aid.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "delivered",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
+          "text": "has been providing",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Correct tense for an ongoing effort."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "provides",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "have been providing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect agreement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v11",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Subject-verb agreement and lexical choice in the Present Perfect Continuous.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v5",
+      "statement": "\"How long ____ for the charity marathon?\" \"Only for two weeks, I need to train harder.\"",
+      "context": "A conversation between two students.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "are you training",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "have you trained",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
+          "text": "have you been training",
+          "is_correct": true,
+          "feedback": "Correct. Standard question for duration of current activity."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "did you train",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Forming questions in the Present Perfect Continuous to ask about duration.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v14",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W04-achievements-001-MASTERY-v15",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W04-achievements-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v6",
+      "statement": "\"Lately, I ____ more about tropical diseases than I ever did in medical school.\"",
+      "context": "A journal entry of a medical volunteer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "learned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have been learning",
+          "is_correct": true,
+          "feedback": "Correct. \"Lately\" is a common time marker for this tense."
+        },
+        {
+          "letter": "C",
+          "text": "am learning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have been learned",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using \"lately\" with the Present Perfect Continuous.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v7",
+      "statement": "\"The community ____ from the literacy program, as seen in the increased employment rates.\"",
+      "context": "Analyzing the impact of a social program.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "benefited",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "has been benefiting",
+          "is_correct": true,
+          "feedback": "Correct. Shows the ongoing nature of the benefits."
+        },
+        {
+          "letter": "C",
+          "text": "has been benefited",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "benefits",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Present Perfect Continuous with abstract verbs like 'benefit'.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v8",
+      "statement": "\"While we ____ the beach, we noticed that most of the waste comes from single-use plastics.\"",
+      "context": "A blog about environmental activism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have been cleaning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were cleaning",
+          "is_correct": true,
+          "feedback": "Correct. Past Continuous for background action."
+        },
+        {
+          "letter": "C",
+          "text": "have cleaned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are cleaning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguishing between Present Perfect Continuous and Past Continuous.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v9",
+      "statement": "\"It is clear that many people ____ their time not just for altruism, but to gain professional experience.\"",
+      "context": "Discussing the motives of volunteers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have given",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have been donating",
+          "is_correct": true,
+          "feedback": "Correct. B2 vocabulary and correct tense."
+        },
+        {
+          "letter": "C",
+          "text": "are donating",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "donated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Present Perfect Continuous to describe a collective trend.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.54,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v10",
+      "statement": "\"Rarely ____ such a dedicated group of students ____ so hard to improve their neighborhood.\"",
+      "context": "A complex discussion on social responsibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / been working",
+          "is_correct": true,
+          "feedback": "Correct. Negative inversion with the Present Perfect Continuous."
+        },
+        {
+          "letter": "B",
+          "text": "has / been working",
+          "is_correct": false,
+          "feedback": "Incorrect agreement."
+        },
+        {
+          "letter": "C",
+          "text": "did / work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "were / working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with negative adverbials in the Present Perfect Continuous.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.48,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v11",
+      "statement": "\"Critics argue that the program ____ more on publicity than on actual community needs lately.\"",
+      "context": "A critique of a government-led volunteer initiative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "focused",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "has focused",
+          "is_correct": false,
+          "feedback": "Possible, but less descriptive of ongoing trend."
+        },
+        {
+          "letter": "C",
+          "text": "has been focusing",
+          "is_correct": true,
+          "feedback": "Correct. Emphasizes the ongoing nature of the problem."
+        },
+        {
+          "letter": "D",
+          "text": "was focusing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the Present Perfect Continuous to express criticism about an ongoing situation.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.42,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-v12",
+      "statement": "\"By the time the new policy is implemented, we ____ for a change in the legislation for over five years.\"",
+      "context": "Speculating on the future of volunteering.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have been worked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been advocating",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect Continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "will advocate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have been advocating",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Future Perfect Continuous to describe duration up to a point in the future.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W04-volunteer-work-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

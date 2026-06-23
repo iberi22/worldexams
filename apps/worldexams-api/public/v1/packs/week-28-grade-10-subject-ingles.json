@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v1",
+      "statement": "\"Never ____ the students ____ so much autonomy in choosing their own research projects.\"",
+      "context": "Discussing traditional teaching methods.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "did / had",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
+          "text": "have / had",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct inversion. Have (auxiliary) + subject + had (past participle)."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "have / have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect tense."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "had / did",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "When a sentence begins with a negative adverbial like 'Never', the auxiliary verb comes before the subject (Inversion).\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v3",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v2",
+      "statement": "\"Only in this school ____ students ____ allowed to use tablets during the exams.\"",
+      "context": "Restricting an action to a specific condition.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "are",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct. Only + prepositional phrase + are (verb) + subject."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "do",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect auxiliary."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect auxiliary."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect auxiliary for this state."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "explanation": "'Only in/at...' phrases at the beginning of a sentence trigger inversion of the verb 'to be' or the auxiliary.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v3",
+      "statement": "\"Rarely ____ a teacher ____ such a profound impact on their students' lives.\"",
+      "context": "Describing a rare educational achievement.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "does / has",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs base form after 'does'."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
+          "text": "does / have",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct inversion. Does + subject + base verb."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "has / have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "did / has",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for present or past simple verbs.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v4",
+      "statement": "\"Not until the new law was passed ____ the local authorities ____ enough funding for rural schools.\"",
+      "context": "An article about educational reform.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "did / received",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
+          "text": "did / receive",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct inversion with 'Not until'."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "had / received",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also possible, but B is standard for a point in time."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "has / received",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v11",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Not until' at the beginning of a sentence triggers inversion in the main clause.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v5",
+      "statement": "\"Little ____ the students ____ that the curriculum was about to change completely.\"",
+      "context": "Discussing a student's lack of awareness.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "they knew",
+          "is_correct": false,
+          "feedback": "No inversion."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "did they know",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Little'."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "they did know",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "had they known",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possible, but B is common for unawareness."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Little' is used as a negative adverbial at the beginning of a sentence to mean 'not at all' or 'not much', triggering inversion.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v14",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-v15",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W28-formal-debate-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v6",
+      "statement": "\"No sooner ____ the bells ____ than the students rushed out of the classrooms.\"",
+      "context": "Describing two simultaneous events.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "did / rang",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had / rung",
+          "is_correct": true,
+          "feedback": "Correct 'No sooner... than' structure with Past Perfect inversion."
+        },
+        {
+          "letter": "C",
+          "text": "have / rung",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "were / ringing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'No sooner... than' is used to show that one action happened immediately after another. It requires Past Perfect inversion.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v7",
+      "statement": "\"Only by working together ____ the community ____ to build the new library.\"",
+      "context": "Restricting a solution to a specific condition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could / managed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "did / manage",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Only by'."
+        },
+        {
+          "letter": "C",
+          "text": "they / managed",
+          "is_correct": false,
+          "feedback": "No inversion."
+        },
+        {
+          "letter": "D",
+          "text": "had / manage",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Only by' + gerund at the start of a sentence triggers inversion in the main clause.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v8",
+      "statement": "\"Under no circumstances ____ students ____ to share their passwords with anyone.\"",
+      "context": "An essay on academic integrity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are / -",
+          "is_correct": false,
+          "feedback": "Possible, but B is more complete."
+        },
+        {
+          "letter": "B",
+          "text": "should / be allowed",
+          "is_correct": true,
+          "feedback": "Correct. Modal inversion with 'Under no circumstances'."
+        },
+        {
+          "letter": "C",
+          "text": "they should / be",
+          "is_correct": false,
+          "feedback": "No inversion."
+        },
+        {
+          "letter": "D",
+          "text": "must / -",
+          "is_correct": false,
+          "feedback": "Incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Under no circumstances' is a strong negative adverbial phrase that requires inversion, often used with modals like 'should' or 'must'.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v9",
+      "statement": "\"Not only ____ the new system improve grades, but it ____ increases student engagement.\"",
+      "context": "Comparing two different educational models.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is / also",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for 'improve'."
+        },
+        {
+          "letter": "B",
+          "text": "does / also",
+          "is_correct": true,
+          "feedback": "Correct 'Not only... but also' inversion with Present Simple."
+        },
+        {
+          "letter": "C",
+          "text": "did / also",
+          "is_correct": false,
+          "feedback": "Possible, but B is general."
+        },
+        {
+          "letter": "D",
+          "text": "has / also",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'Not only' at the beginning of a sentence requires inversion in the first clause.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v10",
+      "statement": "\"Hardly ____ the new principal ____ when she began implementing radical changes.\"",
+      "context": "A sophisticated observation on institutional change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had / arrived",
+          "is_correct": true,
+          "feedback": "Correct 'Hardly... when' structure with Past Perfect inversion."
+        },
+        {
+          "letter": "B",
+          "text": "did / arrive",
+          "is_correct": false,
+          "feedback": "Possible, but A is standard for immediate sequence."
+        },
+        {
+          "letter": "C",
+          "text": "was / arriving",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has / arrived",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Hardly/Scarcely... when' are used similarly to 'No sooner' and require Past Perfect inversion.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v11",
+      "statement": "\"Seldom ____ such a complex issue ____ addressed with such a simplistic solution.\"",
+      "context": "Critique of an outdated education policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is / being",
+          "is_correct": false,
+          "feedback": "Possible, but B is more likely for general truth."
+        },
+        {
+          "letter": "B",
+          "text": "has / been",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Seldom' in the Present Perfect Passive."
+        },
+        {
+          "letter": "C",
+          "text": "did / be",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "D",
+          "text": "was / be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combining 'Seldom' with the passive voice and Present Perfect to emphasize the rarity of an event.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-v12",
+      "statement": "\"Only if we redefine the purpose of school ____ we ____ hope to prepare students for the 21st century.\"",
+      "context": "A complex theoretical conclusion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can / -",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Only if'."
+        },
+        {
+          "letter": "B",
+          "text": "we / can",
+          "is_correct": false,
+          "feedback": "No inversion."
+        },
+        {
+          "letter": "C",
+          "text": "will / be",
+          "is_correct": false,
+          "feedback": "Possible, but A is more about ability/logic."
+        },
+        {
+          "letter": "D",
+          "text": "did / -",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Correctly applying inversion in the main clause after a complex 'Only if' conditional clause.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W28-education-systems-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

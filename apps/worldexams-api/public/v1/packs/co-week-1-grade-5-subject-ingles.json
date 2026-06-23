@@ -1,0 +1,4011 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-5-subject-ingles",
+    "generated_at": "2026-06-22T23:32:16.451Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-05-body-parts-109-v1",
+      "statement": "**You use your _______ to see things.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ears",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Eyes",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Nose",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hands",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** We have two eyes for vision.\r\n*Español: Tenemos dos ojos para la visión.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Head | Cabeza |\r\n| Shoulders | Hombros |\r\n| Knees | Rodillas |\r\n| Toes | Dedos del pie |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v2",
+      "statement": "**I (1)_______ two arms and two (2)_______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) have, (2) legs",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) has, (2) leg",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) have, (2) leg",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) am, (2) legs",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"I\" takes \"have.\" Use the plural \"legs\" for \"two.\"\r\n*Español: \"I\" (yo) lleva \"have\". Usa el plural \"legs\" para el número dos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v3",
+      "statement": "**How many arms does the monster have?**",
+      "context": "**Text:** \"This is a monster. It has one big eye, three arms, and four short legs. It is purple and very friendly.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Two.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Three.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Four.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text explicitly says \"It has... three arms.\"\r\n*Español: El texto dice explícitamente \"Tiene... tres brazos\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v4",
+      "statement": "**You use your _______ to smell flowers.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mouth",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nose",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Feet",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hair",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The nose is the organ for the sense of smell.\r\n*Español: La nariz es el órgano del sentido del olfato.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v5",
+      "statement": "**Is Person B following the instruction?**",
+      "context": "**Person A:** \"Touch your head!\"\r\n**Person B:** (Touches their forehead)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "They are sleeping.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They are eating.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The forehead is part of the head.\r\n*Español: La frente es parte de la cabeza.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v6",
+      "statement": "**What parts of the body are mentioned or implied?**",
+      "context": "**Passage:** \"Luisa is wearing a hat. She is smiling and showing her white teeth.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feet and legs.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Head (hat), mouth (smiling), and teeth.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Only fingers.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Shoulders.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** A hat goes on the \"head,\" smiling involves the \"mouth,\" and \"teeth\" are explicitly named.\r\n*Español: Un sombrero va en la \"cabeza\", sonreír involucra la \"boca\" y los \"dientes\" se mencionan claramente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"What color are your eyes?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am happy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "They are brown.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I have two eyes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "My hat is blue.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B accurately describes the attribute requested (eye color).\r\n*Español: La opción B describe con precisión el atributo solicitado (color de ojos).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v8",
+      "statement": "**I have one (1)_______ and ten (2)_______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) mouth, (2) fingers",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) mouths, (2) finger",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) mouth, (2) fingeres",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) mouther, (2) fingers",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"Mouth\" is singular (one). \"Fingers\" is plural (ten).\r\n*Español: \"Mouth\" (boca) es singular. \"Fingers\" (dedos) es plural.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v9",
+      "statement": "**You use your _______ to listen to music.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ears",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Teeth",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Knees",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Ears are for the sense of hearing.\r\n*Español: Los oídos son para el sentido del oído.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-body-parts-109-v10",
+      "statement": "**In the famous children's song 'Head, Shoulders, Knees and Toes', we touch our body parts to learn their _______ in English.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "colors",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "names",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "numbers",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "food",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Songs are a great way to memorize vocabulary.\r\n*Español: Las canciones son una gran manera de memorizar el vocabulario.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-body-parts-109-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v1",
+      "statement": "**The first day of the week is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Friday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sunday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tuesday",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** In most contexts (like school), Monday is considered the first day.\r\n*Español: En la mayoría de los contextos (como la escuela), el lunes se considera el primer día.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Monday | Lunes |\r\n| Friday | Viernes |\r\n| January | Enero |\r\n| December | Diciembre |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v2",
+      "statement": "**The day after Friday is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thursday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sunday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Saturday",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Monday",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Saturday follows Friday in the weekly sequence.\r\n*Español: Sábado sigue a viernes en la secuencia semanal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v3",
+      "statement": "**There are _______ months in a year.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "seven",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "ten",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "twelve",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "thirty",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** A year has 12 months (January to December).\r\n*Español: Un año tiene 12 meses.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v4",
+      "statement": "**The last month of the year is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "January",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "November",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "December",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "October",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** December is the 12th and final month.\r\n*Español: Diciembre es el mes 12 y final.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v5",
+      "statement": "**My birthday is _______ March.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** We use \"in\" for months. (We use \"on\" for specific dates).\r\n*Español: Usamos \"in\" para meses (Usamos \"on\" para fechas específicas).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v6",
+      "statement": "**What day is July 20th?**",
+      "context": "**Text:** \"Next Tuesday is July 20th. It is a holiday in Colombia. We don't go to school on that day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tuesday.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wednesday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Friday.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The text says \"Next Tuesday is July 20th.\"\r\n*Español: El texto dice \"El próximo martes es 20 de julio\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"What is today's date?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is sunny.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It's October 15th.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I am happy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The month is big.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B gives the specific date requested.\r\n*Español: La opción B da la fecha específica solicitada.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v8",
+      "statement": "**The weekend is _______ and _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday / Tuesday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Saturday / Sunday",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wednesday / Thursday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Friday / Monday",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The weekend typically includes Saturday and Sunday.\r\n*Español: El fin de semana típicamente incluye sábado y domingo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v9",
+      "statement": "**What happened today?**",
+      "context": "**Passage:** \"Tomorrow is the first of January. People are celebrating and watching fireworks.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is New Year's Eve (December 31st).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It is my birthday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is a normal Monday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is June.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** If tomorrow is Jan 1st, today is the last day of the year.\r\n*Español: Si mañana es 1 de enero, hoy es el último día del año.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-days-months-103-v10",
+      "statement": "**In Colombia, _______ is the month when we celebrate 'Amor y Amistad'.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "February",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "May",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "September",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "December",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** In Colombia, Love and Friendship day is in September.\r\n*Español: En Colombia, el día del Amor y la Amistad es en septiembre.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-days-months-103-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v1",
+      "statement": "**A person who is very tall is the opposite of a person who is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Short",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Thin",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Tall\" and \"short\" are adjectives of height.\r\n*Español: \"Tall\" (alto) y \"short\" (bajo) son adjetivos de estatura.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Beautiful | Hermoso/a |\r\n| New | Nuevo/a |\r\n| Old | Viejo/a |\r\n| Strong | Fuerte |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v2",
+      "statement": "**My sister (1)_______ long hair and (2)_______ very smart.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) has, (2) is",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) is, (2) has",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) have, (2) am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) am, (2) is",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Use \"has\" for possessions (hair) and \"is\" for characteristics (smart).\r\n*Español: Usa \"has\" para posesiones (cabello) e \"is\" para características (inteligente).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v3",
+      "statement": "**What color is Toby?**",
+      "context": "**Text:** \"My dog, Toby, is small and white. He has big ears and a short tail. He is a very happy dog.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Black.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Brown.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "White.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Grey.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text says \"Toby is... white.\"\r\n*Español: El texto dice \"Toby es... blanco\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v4",
+      "statement": "**An object that is not heavy is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dark",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Light",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Heavy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hard",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Light\" is the opposite of \"heavy\" when talking about weight.\r\n*Español: \"Light\" (liviano) es lo opuesto a \"heavy\" (pesado) cuando hablamos de peso.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v5",
+      "statement": "**What is Person B describing?**",
+      "context": "**Person A:** \"What is your best friend like?\"\r\n**Person B:** \"She is very kind and funny. We always laugh together.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Her friend's physical appearance.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Her friend's personality.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Her friend's house.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Her friend's age.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Adjectives like \"kind\" and \"funny\" describe personality traits.\r\n*Español: Los adjetivos como \"kind\" (amable) y \"funny\" (divertido) describen rasgos de personalidad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v6",
+      "statement": "**What can you infer about the object inside?**",
+      "context": "**Passage:** \"The box is very big and heavy. Two men are trying to carry it, but it is difficult for them.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a small toy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It is something large and many things are probably inside.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The box is empty.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is made of paper.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** If two men find it \"difficult\" and it is \"heavy,\" the contents must have significant weight.\r\n*Español: Si dos hombres lo encuentran \"difícil\" y es \"pesado\", el contenido debe tener un peso significativo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"Is your new car fast?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a car.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, it is very fast and efficient.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, I am not.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The color is red.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B answers the yes/no question with a detailed confirmation.\r\n*Español: La opción B responde a la pregunta de sí/no con una confirmación detallada.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v8",
+      "statement": "**I have a (1)_______ (2)_______ (3)_______ bag.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) beautiful, (2) small, (3) blue",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) blue, (2) small, (3) beautiful",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) small, (2) blue, (3) beautiful",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) blue, (2) beautiful, (3) small",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** General opinion comes before size, which comes before color.\r\n*Español: La opinión general va antes del tamaño, que va antes del color.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v9",
+      "statement": "**The opposite of a 'new' smartphone is an _______ one.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Young",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Old",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Easy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cheap",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Old\" is used for things that have existed for a long time.\r\n*Español: \"Old\" se utiliza para cosas que han existido por mucho tiempo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-descriptions-110-v10",
+      "statement": "**Colombia is a 'diverso' (diverse) country. This means it has many different _______ and types of people.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cars",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "cultures",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "computers",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "pencils",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Diversity refers to the variety of cultures and backgrounds.\r\n*Español: La diversidad se refiere a la variedad de culturas y orígenes.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-descriptions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v1",
+      "statement": "**The animal that gives us milk is the _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cow",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Duck",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Cows are large animals that live on farms.\r\n*Español: Las vacas son animales grandes que viven en las granjas.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Farm | Granja |\r\n| Farmer | Granjero |\r\n| Tail | Cola |\r\n| Wings | Alas |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v2",
+      "statement": "**The sheep (1)_______ white, and the horse (2)_______ brown.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is, (2) is",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) are, (2) am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) is, (2) are",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) be, (2) be",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Use \"is\" for singular third-person subjects.\r\n*Español: Usa \"is\" (es) para sujetos singulares de tercera persona.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v3",
+      "statement": "**What do the chickens do?**",
+      "context": "**Text:** \"Our farm has many animals. We have three pigs, five chickens, and one big dog. The chickens lay eggs every morning.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They bark.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "They run fast.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "They lay eggs.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They swim in the pond.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text explicitly says \"the chickens lay eggs.\"\r\n*Español: El texto dice explícitamente \"las gallinas ponen huevos\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v4",
+      "statement": "**An animal that can fly and has feathers is a _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pig",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bird / Chicken",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Elephant",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Birds have wings to fly.\r\n*Español: Los pájaros tienen alas para volar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v5",
+      "statement": "**What is the child feeling?**",
+      "context": "**Child:** \"Look at the baby horse! It's so cute!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sadness.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Excitement and admiration.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Anger.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hunger.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Using \"look at\" with an exclamation mark and \"so cute\" shows excitement.\r\n*Español: Usar \"mira a\" con un signo de exclamación y \"tan lindo\" muestra emoción.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v6",
+      "statement": "**What animal is it?**",
+      "context": "**Passage:** \"The animal says 'Oink oink'. It is pink and likes to play in the mud.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cow.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pig.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Duck.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sheep.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Oink\" and playing in the mud are classic characteristics of pigs.\r\n*Español: El \"oink\" y jugar en el lodo son características clásicas de los cerdos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"Which animal do you like best?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am a student.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "I like horses because they are strong and fast.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I do.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "In the farm.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B answers the \"Which...\" question with a preference and a reason.\r\n*Español: La opción B responde a la pregunta de preferencia con una razón.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v8",
+      "statement": "**On the farm, there are many (1)_______ and (2)_______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) cows, (2) sheep",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) cowes, (2) sheeps",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) cows, (2) sheeps",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) cow, (2) sheep",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"Cows\" is a regular plural, but \"sheep\" is an irregular plural (same as singular).\r\n*Español: \"Cows\" es un plural regular, pero \"sheep\" es un plural irregular (igual al singular).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v9",
+      "statement": "**The person who works on a farm and takes care of animals is a _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doctor",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Farmer",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pilot",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Teacher",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Farmers grow food and raise animals.\r\n*Español: Los granjeros (\"farmers\") cultivan alimentos y crían animales.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-farm-animals-108-v10",
+      "statement": "**In Colombia, 'el campo' (the countryside) is where many people have farms with coffee and _______ (donkeys).**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tigers",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "burros",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "lions",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "sharks",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Donkeys are traditional animals for transport in rural Colombia.\r\n*Español: Los burros son animales tradicionales para el transporte en la Colombia rural.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-farm-animals-108-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v1",
+      "statement": "**You should _______ your teeth three times a day.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Brush",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Comb",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Break",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Brush\" is specifically used for teeth and hair.\r\n*Español: \"Brush\" (cepillar) se utiliza específicamente para los dientes y el cabello.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Soap | Jabón |\r\n| Towel | Toalla |\r\n| Water | Agua |\r\n| Sleep | Dormir |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v2",
+      "statement": "**I (1)_______ fruits and vegetables every day because they (2)_______ healthy.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) eat, (2) are",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) eats, (2) is",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) eat, (2) is",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) drinks, (2) are",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"I\" takes the base form \"eat.\" Plural subjects (fruits and vegetables) take \"are.\"\r\n*Español: \"I\" (yo) lleva la forma base \"eat\". Los sujetos en plural llevan \"are\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v3",
+      "statement": "**What should you drink after exercising?**",
+      "context": "**Text:** \"Exercise is good for your heart. You can run, swim, or play sports. You should drink a lot of water after exercising to stay hydrated.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soda.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Coffee.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Juice.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text states you should \"drink a lot of water.\"\r\n*Español: El texto afirma que debes \"beber mucha agua\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v4",
+      "statement": "**Drinking _______ is very important for your health.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pizza",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Milk / Water",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Candy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cake",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Milk and water are healthy liquids for children.\r\n*Español: La leche y el agua son líquidos saludables para los niños.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v5",
+      "statement": "**What is the child doing?**",
+      "context": "**Doctor:** \"How many hours do you sleep at night?\"\r\n**Child:** \"I sleep about nine hours, from 9:00 PM to 6:00 AM.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complaining.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Answering a question about their routine.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Asking for a gift.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Saying goodbye.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The child provides specific details in response to the doctor's query.\r\n*Español: El niño proporciona detalles específicos en respuesta a la consulta del doctor.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v6",
+      "statement": "**Why is Leo washing his hands?**",
+      "context": "**Passage:** \"Leo is washing his hands with soap. He is going to eat his lunch now. He always washes his hands before eating.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He likes water.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To be clean and healthy before eating.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Because he is angry.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "To play with the soap.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Washing hands before meals is a key hygiene habit to prevent getting sick.\r\n*Español: Lavarse las manos antes de las comidas es un hábito de higiene clave para evitar enfermarse.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Friend:** \"Do you like sports?\"\r\n**You:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I am.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I love swimming and playing basketball.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I have a blue bike.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "My favorite color is red.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B confirms the interest and provides examples.\r\n*Español: La opción B confirma el interés y proporciona ejemplos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v8",
+      "statement": "**You (1)_______ eat too much candy, but you (2)_______ eat fruit.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) shouldn't, (2) should",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) should, (2) shouldn't",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) can, (2) shouldn't",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) shouldn't, (2) can't",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Use \"should\" for good advice and \"shouldn't\" for bad habits.\r\n*Español: Usa \"should\" para buenos consejos y \"shouldn't\" para malos hábitos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v9",
+      "statement": "**The place where you go to run and play with your friends is the _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Library",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Playground / Park",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Kitchen",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Bank",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Outdoor activity is essential for a healthy lifestyle.\r\n*Español: La actividad al aire libre es esencial para un estilo de vida saludable.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-healthy-habits-106-v10",
+      "statement": "**In Colombia, many families have 'jugos naturales' (fresh fruit juices) with lunch. They are very _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expensive",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "healthy / delicious",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "bad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "blue",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Natural juices are a traditional and healthy part of the Colombian diet.\r\n*Español: Los jugos naturales son una parte tradicional y saludable de la dieta colombiana.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-healthy-habits-106-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v1",
+      "statement": "**We use our _______ to see.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ears",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "eyes",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "nose",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "mouth",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Eyes\" are the organs of vision.\r\n*Español: Los ojos (\"eyes\") son los órganos de la visión.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Eyes | Ojos |\r\n| Ears | Orejas / Oídos |\r\n| Nose | Nariz |\r\n| Mouth | Boca |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v2",
+      "statement": "**We use our _______ to listen to music.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eyes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "ears",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "hands",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "legs",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Ears\" are used for hearing.\r\n*Español: Los oídos (\"ears\") se usan para oír.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v3",
+      "statement": "**I have _______ hands.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "two",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "five",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "ten",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Human beings typically have two hands.\r\n*Español: Los seres humanos típicamente tienen dos manos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v4",
+      "statement": "**We use our _______ to walk to school.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "arms",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "legs",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "fingers",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "hair",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Legs\" are for walking and running.\r\n*Español: Las piernas (\"legs\") son para caminar y correr.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v5",
+      "statement": "**What should you do if you want to ask something?**",
+      "context": "**Teacher:** \"Please raise your hand if you have a question.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand up.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lift your hand in the air.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Close your eyes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Shout loudly.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Raising your hand is a polite way to signal you want to speak.\r\n*Español: Levantar la mano es una forma cortés de indicar que quieres hablar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v6",
+      "statement": "**What color is Carlos's hair?**",
+      "context": "**Text:** \"My name is Carlos. I am tall. I have brown eyes and black hair. My arms are strong because I play basketball.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brown.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Black.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Blond.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Red.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The text says he has \"black hair.\"\r\n*Español: El texto dice que tiene \"cabello negro\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v7",
+      "statement": "**We have five _______ on each hand.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fingers",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "toes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "shoulders",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "knees",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** We have \"fingers\" on our hands and \"toes\" on our feet.\r\n*Español: Tenemos dedos (\"fingers\") en las manos y dedos (\"toes\") en los pies.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v8",
+      "statement": "**Why is Luisa wearing a hat?**",
+      "context": "**Passage:** \"Luisa is wearing a hat. Her hair is very long and it is getting in her face.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is cold.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To keep her hair out of her face.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "She likes the sun.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is raining.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The text suggests she uses the hat to manage her long hair.\r\n*Español: El texto sugiere que usa el sombrero para controlar su cabello largo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v9",
+      "statement": "**We use our _______ to smell flowers.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mouth",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "nose",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "hands",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "feet",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The \"nose\" is the organ for smelling.\r\n*Español: La nariz (\"nose\") es el órgano para oler.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-body-102-v10",
+      "statement": "**You should wash your _______ before eating.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hair",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "hands",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "knees",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "shoes",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Washing hands is a basic hygiene rule.\r\n*Español: Lavarse las manos es una regla básica de higiene.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-body-102-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v1",
+      "statement": "**A small animal that says \"meow\" is a _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dog",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "cat",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "bird",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "fish",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Meow\" is the sound a \"cat\" makes.\r\n*Español: \"Meow\" (miau) es el sonido que hace un \"gato\".*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Cat | Gato |\r\n| Dog | Perro |\r\n| Bird | Pájaro / Ave |\r\n| Fish | Pez |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v2",
+      "statement": "**I _______ a big dog named Rocky.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** We use \"have\" for the subject \"I.\"\r\n*Español: Usamos \"have\" para el sujeto \"I\" (yo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v3",
+      "statement": "**My _______ lives in a bowl of water.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rabbit",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "hamster",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "fish",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "horse",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** A \"fish\" lives in water (like a fishbowl).\r\n*Español: Un \"pez\" vive en el agua (como una pecera).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v4",
+      "statement": "**She _______ two cats.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "having",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "am",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** We use \"has\" for the subjects \"He/She/It.\"\r\n*Español: Usamos \"has\" para los sujetos \"He/She/It\" (Él, Ella, Eso).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v5",
+      "statement": "**A _______ is a pet that can fly and sing.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "turtle",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "bird",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "snake",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** \"Birds\" are animals with wings that can fly.\r\n*Español: Los \"pájaros\" son animales con alas que pueden volar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v6",
+      "statement": "**What color is the rabbit?**",
+      "context": "**Text:** \"My name is Ana. I have a small rabbit. His name is Bunny. He is white and has long ears. He loves eating carrots.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Black.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "White.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Brown.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Grey.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The text says \"He is white.\"\r\n*Español: El texto dice \"Él es blanco\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Friend:** \"Do you have any pets?\"\r\n**You:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like pizza.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I have a golden retriever.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "My house is blue.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "I am ten.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B answers the question about having pets.\r\n*Español: La opción B responde a la pregunta sobre tener mascotas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v8",
+      "statement": "**Dogs like to eat _______ and play with balls.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bones",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "grass",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "carrots",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "seeds",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"Bones\" are a traditional favorite treat/toy for dogs.\r\n*Español: Los huesos (\"bones\") son un premio/juguete tradicional favorito para los perros.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v9",
+      "statement": "**How does the cat feel?**",
+      "context": "**Passage:** \"My cat is hiding under the bed. There is a lot of thunder and lightning outside.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hungry.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Scared.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sleepy.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Hiding from a storm indicates the cat is \"scared.\"\r\n*Español: Esconderse de una tormenta indica que el gato tiene miedo (\"scared\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-pets-101-v10",
+      "statement": "**In Colombia, some people have a _______ as a pet, but it's better to let them live in the wild.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lion",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "parrot",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "penguin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "polar bear",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Parrots (loros) are common in tropical areas like Colombia.\r\n*Español: Los loros (\"parrots\") son comunes en áreas tropicales como Colombia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-pets-101-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v1",
+      "statement": "**A round object that we kick and play soccer with is a _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doll",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "car",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "ball",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "robot",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** We use a \"ball\" to play soccer, basketball, etc.\r\n*Español: Usamos una \"ball\" (pelota/balón) para jugar fútbol, baloncesto, etc.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Ball | Pelota / Balón |\r\n| Doll | Muñeca |\r\n| Action figure | Figura de acción |\r\n| Puzzle | Rompecabezas |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v2",
+      "statement": "**Girls and boys often play with _______ and pretend they are real people.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dolls",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "balls",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "puzzles",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "kites",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"Dolls\" look like small people.\r\n*Español: Las \"dolls\" (muñecas) se parecen a personas pequeñas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v3",
+      "statement": "**These are my _______ favorite toys.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brother",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "brother's",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "brothers",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "brother is",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** We use \"'s\" to show possession (The toys belong to my brother).\r\n*Español: Usamos \"'s\" para mostrar posesión (Los juguetes pertenecen a mi hermano).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v4",
+      "statement": "**A _______ is a toy that flies in the sky when it's windy.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "kite",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "teddy bear",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "train",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "blocks",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** We fly \"kites\" (cometas) in the wind.\r\n*Español: Volamos cometas (\"kites\") cuando hay viento.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v5",
+      "statement": "**Where are the cars?**",
+      "context": "**Text:** \"My brother has a big collection of cars. He has 20 small cars and a large blue truck. He keeps them on a shelf.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the floor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "In a box.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "On a shelf.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "In the garden.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text says \"He keeps them on a shelf.\"\r\n*Español: El texto dice \"Él los guarda en un estante\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v6",
+      "statement": "**What is your friend doing?**",
+      "context": "**Friend:** \"Can I borrow your toy car, please?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giving you a toy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Asking to use your toy for a while.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Breaking your toy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Selling you a toy.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Borrow\" means to use something and then return it.\r\n*Español: \"Borrow\" significa pedir prestado algo y luego devolverlo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v7",
+      "statement": "**I need to put the pieces together to finish this _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ball",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "puzzle",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "bike",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "doll",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** A \"puzzle\" has many pieces that fit together.\r\n*Español: Un \"puzzle\" (rompecabezas) tiene muchas piezas que encajan.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v8",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"What is your favorite toy?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My name is Luis.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "I love my remote-control car.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, thank you.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The toy is red.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B answers the question about a favorite toy.\r\n*Español: La opción B responde a la pregunta sobre un juguete favorito.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v9",
+      "statement": "**How does Leo feel?**",
+      "context": "**Passage:** \"Leo is crying because his favorite teddy bear is missing. He looked under the bed and in the closet, but he can't find it.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Angry.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hungry.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Crying over a lost toy indicates sadness.\r\n*Español: Llorar por un juguete perdido indica tristeza.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-my-toys-104-v10",
+      "statement": "**In Colombia, children love to play with a _______, which spins very fast on the ground.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "computer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "trompo (top)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "book",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "shoe",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The \"trompo\" is a traditional spinning top toy in Colombia.\r\n*Español: El trompo es un juguete tradicional en Colombia que gira.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-my-toys-104-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v1",
+      "statement": "**The first month of the year is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "December",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "January",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "March",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "August",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** January starts the new year.\r\n*Español: Enero comienza el nuevo año.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Month | Mes |\r\n| Year | Año |\r\n| Calendar | Calendario |\r\n| Holiday | Festivo / Vacaciones |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v2",
+      "statement": "**In Colombia, we have (1)_______ rainy season from April (2)_______ June.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) a, (2) to",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) an, (2) for",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) the, (2) in",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) a, (2) at",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"From... to...\" indicates a duration of time.\r\n*Español: \"From... to...\" (Desde... hasta...) indica una duración de tiempo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v3",
+      "statement": "**Which is the shortest month?**",
+      "context": "**Text:** \"There are twelve months in a year. My favorite month is December because we have Christmas and a long vacation. February is the shortest month.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "December.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "January.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "February.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "March.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text explicitly says \"February is the shortest month.\"\r\n*Español: El texto dice explícitamente \"Febrero es el mes más corto\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v4",
+      "statement": "**The season when it is very cold and sometimes snows is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Winter",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Spring",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Autumn",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Winter is the coldest season of the year.\r\n*Español: El invierno (\"winter\") es la estación más fría del año.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v5",
+      "statement": "**What information did the student give?**",
+      "context": "**Teacher:** \"When is your birthday?\"\r\n**Student:** \"It is on May 15th.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Their name.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Their age.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The date of their birthday.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Their favorite food.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Answering with a month and a day provides a specific date.\r\n*Español: Responder con un mes y un día proporciona una fecha específica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v6",
+      "statement": "**What season is it?**",
+      "context": "**Passage:** \"The leaves on the trees are turning yellow and brown. They are falling to the ground. The weather is getting cooler.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summer.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Spring.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Autumn / Fall.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Winter.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Falling leaves and yellow/brown colors are characteristic of Autumn.\r\n*Español: Las hojas que caen y los colores amarillos/marrones son característicos del otoño.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v7",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"What's the weather like in July?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It's a month.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It's usually sunny and dry, perfect for the beach.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "July is after June.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "I like pizza.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B describes the weather as requested.\r\n*Español: La opción B describe el clima como se solicitó.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v8",
+      "statement": "**My school starts (1)_______ February and ends (2)_______ November.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) in, (2) in",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1) on, (2) on",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1) at, (2) at",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "(1) in, (2) at",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Use the preposition \"in\" for months.\r\n*Español: Usa la preposición \"in\" para los meses.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v9",
+      "statement": "**August is the eighth _______ of the year.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Day",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Week",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Month",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hour",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** August follows July in the calendar.\r\n*Español: Agosto sigue a julio en el calendario.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-seasons-months-107-v10",
+      "statement": "**In Colombia, August is famous for the 'viento' (wind), so children play with _______ (kites).**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cars",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "cometas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "planes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "balls",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Kite flying is a traditional activity in Colombia during the windy month of August.\r\n*Español: Volar cometas es una actividad tradicional en Colombia durante el ventoso mes de agosto.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-seasons-months-107-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v1",
+      "statement": "**Colombia's most popular sport is _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "soccer",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "tennis",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "swimming",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "baseball",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** \"Soccer\" (fútbol) is extremely popular in Colombia.\r\n*Español: El fútbol (\"soccer\") es extremadamente popular en Colombia.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Soccer | Fútbol |\r\n| Swimming | Natación |\r\n| Cycling | Ciclismo |\r\n| Roller skating | Patinaje |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v2",
+      "statement": "**You need a racket and a ball to play _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "soccer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "tennis",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "basketball",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "running",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Tennis\" is played with rackets.\r\n*Español: El tenis se juega con raquetas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v3",
+      "statement": "**I _______ play basketball on Fridays.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "playing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "played",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Use the base form \"play\" for regular habits with \"I.\"\r\n*Español: Usa la forma base \"play\" para hábitos regulares con \"I\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v4",
+      "statement": "**Nairo Quintana is a famous Colombian _______.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "swimmer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "cyclist",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "singer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "doctor",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Nairo Quintana is one of Colombia's greatest cyclists.\r\n*Español: Nairo Quintana es uno de los mejores ciclistas de Colombia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v5",
+      "statement": "**We go to the _______ to swim.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "park",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "pool",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "library",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "cinema",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** A \"pool\" (piscina) is for swimming.\r\n*Español: Una \"pool\" (piscina) es para nadar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v6",
+      "statement": "**What is David's position in the team?**",
+      "context": "**Text:** \"David plays soccer every afternoon. He is the goalkeeper. He wears a green shirt and special gloves.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Striker.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Goalkeeper.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coach.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Referee.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** The text states \"He is the goalkeeper.\"\r\n*Español: El texto dice \"Él es el portero\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v7",
+      "statement": "**What is the coach doing?**",
+      "context": "**Coach:** \"Great job team! You worked hard today!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Being angry.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Praising and encouraging the team.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Asking for water.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ending the game.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Great job\" is a phrase used to praise people for their effort.\r\n*Español: \"Great job\" es una frase usada para elogiar el esfuerzo de las personas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v8",
+      "statement": "**You need a _______ to play basketball.**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "net",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "goal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "hoop / basket",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "pool",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** In basketball, you throw the ball into the \"hoop\" or \"basket.\"\r\n*Español: En el baloncesto, lanzas la pelota al aro o canasta (\"hoop\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v9",
+      "statement": "**What sport is Mariana practicing?**",
+      "context": "**Passage:** \"Mariana Pajón is wearing a helmet and riding her bike over jumps very fast.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tennis.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Soccer.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "BMX cycling.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Chess.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Helmets and bikes over jumps are characteristic of BMX.\r\n*Español: El casco y la bicicleta sobre saltos son característicos del BMX.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    },
+    {
+      "id": "CO-ENG-05-sports-play-105-v10",
+      "statement": "**Choose the best answer.**",
+      "context": "**Person A:** \"Do you want to play soccer with us?\"\r\n**Person B:** \"____________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am 11.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I'd love to!",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Soccer is a sport.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The ball is round.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Option B is a friendly acceptance of the invitation.\r\n*Español: La opción B es una aceptación amigable de la invitación.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-05-sports-play-105-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+"
+    }
+  ]
+}

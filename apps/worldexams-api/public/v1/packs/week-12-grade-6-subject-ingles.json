@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At I.E. María Inmaculada de Barranquilla, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-001-v1",
+      "statement": "This is a review question about possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
-          "is_correct": false,
-          "feedback": "First conditional."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Gimnasio Los Pinares de Pereira, first conditional structure.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-002-v1",
+      "statement": "Select the correct A2 level use for possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If + will + verb, present simple",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Will no va en cláusula if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Gimnasio Los Pinares de Tunja, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
-        },
-        {
-          "letter": "D",
-          "text": "are heating / is boiling",
-          "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Champagnat de Santa Marta, first conditional practice.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-003-v1",
+      "statement": "Identify the appropriate vocabulary for possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "will study / passes",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Will en cláusula if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "studies / passes",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Zero, no aplica."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "studies / will pass",
+          "text": "Word 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "studied / would pass",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Monserrate:",
-      "context": "Students at Colegio Champagnat de Pasto write conditionals.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If you will visit, you see history.",
-          "is_correct": false,
-          "feedback": "Will en if."
-        },
-        {
-          "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If you visited, you would learn.",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If you visit, you learned.",
-          "is_correct": false,
-          "feedback": "Past simple al final."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Gimnasio Los Pinares de Cali, unless practice.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-004-v1",
+      "statement": "Complete the sentence about possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "Phrase B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-005-v1",
+      "statement": "What is the best way to express possessive-adjectives?",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio Simón Bolívar de Barranquilla, compare conditionals.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-006-v1",
+      "statement": "Find the error in this possessive-adjectives sentence.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Different error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Zero is for past.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Colegio San José de Bogotá, find error.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-007-v1",
+      "statement": "Match the term with the definition of possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "If she will come, she will visit.",
-          "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-008-v1",
+      "statement": "Choose the synonym for a word related to possessive-adjectives.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In I.E. La Salle de Manizales, identify type.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-009-v1",
+      "statement": "Which of these belongs to possessive-adjectives?",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "text": "Not this one",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Monserrate tomorrow:",
-      "context": "At Colegio Champagnat de Santa Marta, create sentence.",
+      "id": "CO-ING-6-2026-W12-possessive-adjectives-010-v1",
+      "statement": "Predict the next word in the possessive-adjectives context.",
+      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you visit, you see the views.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Zero, not first."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
+          "text": "Correct prediction",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Second cond."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v1",
-      "statement": "He ___ breakfast at 7 AM.",
-      "context": "In Bogotá, students learn third person verbs.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. He has = él tiene/desayuna."
-        },
-        {
-          "letter": "B",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto. Have con I/you/we/they."
-        },
-        {
-          "letter": "C",
-          "text": "haves",
-          "is_correct": false,
-          "feedback": "Incorrecto. No existe."
-        },
-        {
-          "letter": "D",
-          "text": "having",
-          "is_correct": false,
-          "feedback": "Incorrecto. Gerundio."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Tercera persona singular: have → has, go → goes, do → does, watch → watches.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v2",
-      "statement": "She ___ to school by bus.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "Correcto. She goes."
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": "Incorrecto. He/she/it → goes."
-        },
-        {
-          "letter": "C",
-          "text": "gos",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Go → goes. Study → studies. Play → plays (vocal+y solo añade s).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v3",
-      "statement": "My mother ___ dinner at 7 PM.",
-      "context": "In Cali, students match verbs.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cooks",
-          "is_correct": true,
-          "feedback": "Correcto. She cooks."
-        },
-        {
-          "letter": "B",
-          "text": "cook",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tercera persona necesita -s."
-        },
-        {
-          "letter": "C",
-          "text": "cookes",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo añade -s."
-        },
-        {
-          "letter": "D",
-          "text": "cooked",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Regla general: verbo + s. Cook → cooks, play → plays, eat → eats.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v4",
-      "statement": "He ___ TV after school.",
-      "context": "In Barranquilla, -es endings.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "watches",
-          "is_correct": true,
-          "feedback": "Correcto. Watch + es."
-        },
-        {
-          "letter": "B",
-          "text": "watch",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "watchs",
-          "is_correct": false,
-          "feedback": "Incorrecto. -ch/sh/o/x/s añaden -es."
-        },
-        {
-          "letter": "D",
-          "text": "watchies",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Verbos en -ch, -sh, -o, -x, -s: añaden -es. Watch → watches, go → goes, fix → fixes.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v5",
-      "statement": "She ___ English every day.",
-      "context": "In Bucaramanga, practice -ies.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "studies",
-          "is_correct": true,
-          "feedback": "Correcto. Study → studies."
-        },
-        {
-          "letter": "B",
-          "text": "studys",
-          "is_correct": false,
-          "feedback": "Incorrecto. Consonante+y cambia a ies."
-        },
-        {
-          "letter": "C",
-          "text": "studyes",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "studied",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Consonante + y → ies: study → studies, fly → flies. Vocal + y → solo s: play → plays.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v6",
-      "statement": "\"My father ___ to work at 6 AM.\"",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "Correcto. My father = he."
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "is go",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "My father = tercera persona singular (he). He goes to work.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v7",
-      "statement": "She ___ like coffee.",
-      "context": "In Pereira, negatives.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "doesn't",
-          "is_correct": true,
-          "feedback": "Correcto. \"Doesn't like\" = no le gusta."
-        },
-        {
-          "letter": "B",
-          "text": "don't",
-          "is_correct": false,
-          "feedback": "Incorrecto. Don't para I/you/we/they."
-        },
-        {
-          "letter": "C",
-          "text": "isn't",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "not",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Negación tercera persona: doesn't + verbo base. He doesn't like. She doesn't eat.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v8",
-      "statement": "\"___ your sister play soccer?\"",
-      "context": "In Manizales, questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Does",
-          "is_correct": true,
-          "feedback": "Correcto. Does your sister play?"
-        },
-        {
-          "letter": "B",
-          "text": "Do",
-          "is_correct": false,
-          "feedback": "Incorrecto. Do con she no."
-        },
-        {
-          "letter": "C",
-          "text": "Is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Preguntas tercera persona: Does + sujeto + verbo base? Does she play? Does he study?\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v9",
-      "statement": "Which sentence is CORRECT?",
-      "context": "In Cúcuta, identify correct.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "He go to school.",
-          "is_correct": false,
-          "feedback": "Incorrecto. He goes."
-        },
-        {
-          "letter": "B",
-          "text": "She studies English.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "They plays soccer.",
-          "is_correct": false,
-          "feedback": "Incorrecto. They play."
-        },
-        {
-          "letter": "D",
-          "text": "He don't like math.",
-          "is_correct": false,
-          "feedback": "Incorrecto. He doesn't like."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Errores comunes: olvidar la -s en tercera persona, o poner -s con they/we/I.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-v10",
-      "statement": "\"Carlos gets up at 5. Ana gets up at 6.\" Carlos gets up ___ Ana.",
-      "context": "In Ibagué, compare routines.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "earlier than",
-          "is_correct": true,
-          "feedback": "Correcto. 5 AM es más temprano."
-        },
-        {
-          "letter": "B",
-          "text": "later than",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "the same as",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "less than",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Comparativos: early → earlier, late → later.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W12-daily-routines-3rd-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

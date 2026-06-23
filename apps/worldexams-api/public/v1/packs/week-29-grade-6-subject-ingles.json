@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At Colegio Fontán de Pasto, teacher introduces passive.",
+      "id": "CO-ING-6-2026-W29-review-routines-001-v1",
+      "statement": "Juan ________ his homework every afternoon.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "subject + verb + object",
+          "text": "doing",
           "is_correct": false,
-          "feedback": "Es activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "subject + have + past participle",
-          "is_correct": false,
-          "feedback": "Es present perfect."
+          "text": "does",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "subject + will + verb",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In I.E. La Salle de San Andrés, passive use is explained.",
+      "id": "CO-ING-6-2026-W29-review-routines-002-v1",
+      "statement": "I ________ to school at 7:00 AM.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "To emphasize the subject.",
+          "text": "going",
           "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "When the action is more important than who did it.",
+          "text": "go",
           "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Only in questions.",
+          "text": "goes",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Only in present tense.",
+          "text": "went",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio San José de Medellín, students practice present passive.",
+      "id": "CO-ING-6-2026-W29-review-routines-003-v1",
+      "statement": "They ________ like to eat vegetables.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "is visiting",
+          "text": "doesn't",
           "is_correct": false,
-          "feedback": "Activo, no pasivo."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "was visited",
+          "text": "no",
           "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "is visit",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In I.E. María Inmaculada de Manizales, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
+          "text": "don't",
           "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Tolimense de Cali convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Colegio Tolimense de Medellín, passive questions are practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "did invite",
-          "is_correct": false,
-          "feedback": "Activo."
-        },
-        {
-          "letter": "B",
-          "text": "was invited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "is invite",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "D",
-          "text": "invited",
-          "is_correct": false,
-          "feedback": "Activo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio San José de Manizales, students analyze passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The agent is important.",
-          "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
-        },
-        {
-          "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The agent cannot be known.",
-          "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
-        },
-        {
-          "letter": "D",
-          "text": "It is always required.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Ciudad Perdida:",
-      "context": "In Gimnasio Los Pinares de Bogotá, evaluate passive usage.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Workers built the museum in colonial times.",
-          "is_correct": false,
-          "feedback": "Activa."
-        },
-        {
-          "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
-        },
-        {
-          "letter": "C",
-          "text": "The museum is built by workers.",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "D",
-          "text": "The colonial period built the museum.",
-          "is_correct": false,
-          "feedback": "Ilógico."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Colegio Champagnat de Manizales, find passive errors.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The homework is done by the student.",
-          "is_correct": false,
-          "feedback": "Correcta."
-        },
-        {
-          "letter": "B",
-          "text": "The car was washed yesterday.",
-          "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
-        },
-        {
-          "letter": "C",
-          "text": "The cake was bake by my mom.",
-          "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
-        },
-        {
-          "letter": "D",
-          "text": "The letters are delivered every morning.",
-          "is_correct": false,
-          "feedback": "Correcta."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about San Agustín:",
-      "context": "At Colegio Champagnat de San Andrés, create passive sentence.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Tourists visit the museum every year.",
-          "is_correct": false,
-          "feedback": "Activa."
-        },
-        {
-          "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
-        },
-        {
-          "letter": "C",
-          "text": "The museum was visit by tourists.",
-          "is_correct": false,
-          "feedback": "Past participle incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Tourists are visited the museum.",
-          "is_correct": false,
-          "feedback": "Cambió el significado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v1",
-      "statement": "\"Soleado\" in English is ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sunny",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "cloudy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cloudy = nublado."
-        },
-        {
-          "letter": "C",
-          "text": "rainy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rainy = lluvioso."
-        },
-        {
-          "letter": "D",
-          "text": "windy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Windy = ventoso."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Weather: sunny (soleado), cloudy (nublado), rainy/raining (lluvioso), windy (ventoso).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v2",
-      "statement": "\"Frío\" in English is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cold",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "hot",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hot = caliente/calor."
-        },
-        {
-          "letter": "C",
-          "text": "warm",
-          "is_correct": false,
-          "feedback": "Incorrecto. Warm = cálido."
-        },
-        {
-          "letter": "D",
-          "text": "cool",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cool = fresco."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Temperature: cold (frío), hot (caliente), warm (cálido), cool (fresco), freezing (congelado).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v3",
-      "statement": "\"It is ___ in Bogotá today.\" (13°C)",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cold",
-          "is_correct": true,
-          "feedback": "Correcto. 13°C es frío."
-        },
-        {
-          "letter": "B",
-          "text": "hot",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hot = 30°C+."
-        },
-        {
-          "letter": "C",
-          "text": "warm",
-          "is_correct": false,
-          "feedback": "Incorrecto. Warm = 20-25°C."
-        },
-        {
-          "letter": "D",
-          "text": "sunny",
-          "is_correct": false,
-          "feedback": "Incorrecto. Describe condición, no temperatura."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Describe temperature: cold (frío), cool (fresco), warm (cálido), hot (caliente). Bogotá is usually cold (13-20°C).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v4",
-      "statement": "\"In Barranquilla, it is usually ___.\" (calor)",
-      "context": "In Barranquilla.",
+      "id": "CO-ING-6-2026-W29-review-routines-004-v1",
+      "statement": "________ your sister play soccer?",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "hot",
+          "text": "Does",
           "is_correct": true,
-          "feedback": "Correcto. Barranquilla is hot (30°C+)."
-        },
-        {
-          "letter": "B",
-          "text": "cold",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es frío."
-        },
-        {
-          "letter": "C",
-          "text": "freezing",
-          "is_correct": false,
-          "feedback": "Incorrecto. Freezing = congelado."
-        },
-        {
-          "letter": "D",
-          "text": "snowy",
-          "is_correct": false,
-          "feedback": "Incorrecto. Snowy = nevado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Barranquilla: hot and humid. Colombia has diverse climates: hot coast, cold mountains, mild interior.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v5",
-      "statement": "\"What's the weather like?\" \"It's ___.\" (lloviendo)",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "raining",
-          "is_correct": true,
-          "feedback": "Correcto. Raining = lloviendo."
-        },
-        {
-          "letter": "B",
-          "text": "rainy",
-          "is_correct": false,
-          "feedback": "Posible pero \"raining\" es más común."
-        },
-        {
-          "letter": "C",
-          "text": "rain",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rain es sustantivo."
-        },
-        {
-          "letter": "D",
-          "text": "rained",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "It's + -ing: It's raining (está lloviendo), It's snowing (está nevando). It's + adjective: It's rainy (es lluvioso).\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v6",
-      "statement": "\"___ it raining outside?\"",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Is",
-          "is_correct": true,
-          "feedback": "Correcto. Is it raining?"
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
           "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrecto. It = singular."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Does",
+          "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Is it...? para tiempo. \"Is it raining?\" \"Is it sunny?\"\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-005-v1",
+      "statement": "I ________ my teeth after breakfast.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brushing",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "brushes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "brushed",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v7",
-      "statement": "\"In Colombia, there ___ two main seasons.\"",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W29-review-routines-006-v1",
+      "statement": "What time ________ you wake up?",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
           "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. Two seasons = plural."
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-007-v1",
+      "statement": "She ________ TV in the evening.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "watches",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-008-v1",
+      "statement": "We ________ dinner at 7:30 PM.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
           "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Colombia has two main seasons: dry (seca) and rainy (lluviosa), unlike the four seasons in many other countries.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v8",
-      "statement": "\"I need an umbrella. It's ___.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "raining",
           "is_correct": true,
-          "feedback": "Correcto. Raining = lloviendo."
-        },
-        {
-          "letter": "B",
-          "text": "sunny",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sunny = soleado."
-        },
-        {
-          "letter": "C",
-          "text": "cloudy",
-          "is_correct": false,
-          "feedback": "Posible pero no necesita paraguas."
-        },
-        {
-          "letter": "D",
-          "text": "windy",
-          "is_correct": false,
-          "feedback": "Incorrecto. No necesita paraguas."
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Umbrella = paraguas. \"It's raining\" = está lloviendo.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v9",
-      "statement": "\"Bogotá is cold. Cali is warm. Barranquilla is hot.\" Which city is the WARMEST?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Barranquilla",
-          "is_correct": true,
-          "feedback": "Correcto. Hot > warm > cold."
-        },
-        {
-          "letter": "B",
-          "text": "Bogotá",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bogotá is cold."
-        },
-        {
-          "letter": "C",
-          "text": "Cali",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cali is warm."
-        },
-        {
-          "letter": "D",
-          "text": "All",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Compare: hot (más caliente) > warm (cálido) > cold (frío). Barranquilla is the hottest.\r\n\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v10",
-      "statement": "\"It's cold and rainy. You should wear ___.\"",
-      "context": "In Ibagué.",
+      "id": "CO-ING-6-2026-W29-review-routines-009-v1",
+      "statement": "My father ________ to work by bus.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "a coat and boots",
+          "text": "goes",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "a T-shirt and shorts",
+          "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrecto. For hot weather."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "a swimsuit",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "sandals",
+          "text": "go",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Weather-appropriate clothing: cold+rainy → coat + boots + umbrella. Hot+sunny → T-shirt + shorts.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W29-review-routines-010-v1",
+      "statement": "They ________ play video games on weekdays.",
+      "context": "Scenario about review-routines in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "usually",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "never",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W29-review-routines-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

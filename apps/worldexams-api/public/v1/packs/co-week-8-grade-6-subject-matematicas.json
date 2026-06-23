@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.023Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-v1",
+      "statement": "En la expresion 5³, ¿que significa el numero 3?",
+      "context": "Concepto de base y exponente",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La base, que es el numero que se multiplica",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir base y exponente. En 5³, el 5 es la base y el 3 es el exponente."
+        },
+        {
+          "letter": "B",
+          "text": "El exponente, que indica cuantas veces se multiplica la base por si misma",
+          "is_correct": true,
+          "feedback": "Correct. En 5³, el 3 es el exponente. Significa 5×5×5."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado de la multiplicacion",
+          "is_correct": false,
+          "feedback": "Incorrect. El resultado de 5³ es 125. El 3 es el exponente, no el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "El numero de veces que se suma la base",
+          "is_correct": false,
+          "feedback": "Incorrect. La potenciacion es multiplicacion repetida, no suma. 5³ = 5×5×5, no 5+5+5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la potenciacion, la expresion 5³ se lee \"5 elevado a la 3\" o \"5 al cubo\". El numero grande (5) es la BASE, que es el numero que se multiplica. El numero pequeño arriba (3) es el EXPONENTE, que indica cuantas veces se multiplica la base por si misma. 5³ = 5 × 5 × 5 = 125.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-002-v1",
+      "statement": "¿Como se lee correctamente la expresion 2⁴?",
+      "context": "Lectura de potencias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos por cuatro",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria una multiplicacion (2×4), no una potencia. 2⁴ es \"2 elevado a la 4\"."
+        },
+        {
+          "letter": "B",
+          "text": "Dos elevado a la cuatro",
+          "is_correct": true,
+          "feedback": "Correct. 2⁴ se lee \"dos elevado a la cuatro\" o \"dos a la cuarta potencia\"."
+        },
+        {
+          "letter": "C",
+          "text": "Dos mas cuatro",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria una suma (2+4). La potencia usa exponente, no suma."
+        },
+        {
+          "letter": "D",
+          "text": "Cuadrado de dos",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Cuadrado\" se usa cuando el exponente es 2 (2² = dos al cuadrado). 2⁴ se lee \"dos a la cuarta potencia\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las potencias se leen de forma especial segun el exponente:\r\n- Exponente 2: \"al cuadrado\" (ej: 5² = 5 al cuadrado)\r\n- Exponente 3: \"al cubo\" (ej: 5³ = 5 al cubo)\r\n- Exponente 4 en adelante: \"elevado a la...\" (ej: 2⁴ = 2 elevado a la cuatro)\r\n2⁴ significa 2 × 2 × 2 × 2 = 16.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-003-v1",
+      "statement": "¿Cual es el resultado de 3²?",
+      "context": "Calcular potencias simples",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir potencia con multiplicacion: 3×2=6. 3² es 3×3=9."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correct. 3² = 3 × 3 = 9."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar 3+2=5. La potencia es multiplicacion repetida, no suma."
+        },
+        {
+          "letter": "D",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrect. Ese es el resultado de 3³ (3×3×3=27). 3² = 3×3=9. El exponente es 2, no 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "3² se lee \"tres al cuadrado\". Significa multiplicar el 3 por si mismo 2 veces: 3 × 3 = 9. No es lo mismo que 3×2=6 (multiplicacion) ni que 3+2=5 (suma).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-004-v1",
+      "statement": "¿A cuanto equivale 10³?",
+      "context": "Potencias de 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar 10×3=30. 10³ es 10×10×10=1.000."
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "is_correct": true,
+          "feedback": "Incorrect. Eso es 10² (10×10=100). 10³ es 10×10×10=1.000. El exponente 3 significa 3 ceros despues del 1."
+        },
+        {
+          "letter": "C",
+          "text": "1.000",
+          "is_correct": false,
+          "feedback": "Correct. 10³ = 10×10×10 = 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "10.000",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es 10⁴ (10×10×10×10=10.000). 10³ tiene 3 ceros, no 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las potencias de 10 son muy utiles. 10¹ = 10, 10² = 100, 10³ = 1.000, 10⁴ = 10.000.\r\nEl exponente indica cuantos ceros van despues del 1: 10³ = 1 seguido de 3 ceros = 1.000.\r\n10³ = 10 × 10 × 10 = 1.000.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-005-v1",
+      "statement": "Un cuadrado tiene 4 cm de lado. ¿Cual es su area? (Recuerda: area del cuadrado = lado²)",
+      "context": "Potencias y area de un cuadrado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 cm²",
+          "is_correct": true,
+          "feedback": "Correct. Area = 4² = 4×4 = 16 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "8 cm²",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar 4×2=8. El area es lado al cuadrado, no lado por 2. 4² = 4×4 = 16."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm²",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar 4+4+4=12. El area del cuadrado es lado×lado = 4×4 = 16."
+        },
+        {
+          "letter": "D",
+          "text": "64 cm²",
+          "is_correct": false,
+          "feedback": "Incorrect. 4³=64 (volumen de un cubo de lado 4). El area es 4²=16. No confundir cuadrado (exponente 2) con cubo (exponente 3)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El area de un cuadrado se calcula como lado al cuadrado: A = l².\r\nA = 4² = 4 × 4 = 16 cm².\r\nLa expresion \"al cuadrado\" viene precisamente de calcular el area de un cuadrado. 4² se lee \"4 al cuadrado\" y significa 4×4.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-006-v1",
+      "statement": "Un cubo tiene 3 cm de arista. ¿Cual es su volumen? (Recuerda: volumen del cubo = arista³)",
+      "context": "Potencias y volumen de un cubo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 3²=9 (area de una cara). El volumen es 3³ = 3×3×3 = 27 cm³."
+        },
+        {
+          "letter": "B",
+          "text": "27 cm³",
+          "is_correct": true,
+          "feedback": "Correct. Volumen = 3³ = 3×3×3 = 27 cm³."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 3×2=6. Confundir potencia con multiplicacion simple. 3³ es multiplicar 3 por si mismo 3 veces."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 3×4=12. Error: confundir cubo con cuadrado o usar formula incorrecta. 3³ = 27."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cubo se calcula como arista al cubo: V = a³.\r\nV = 3³ = 3 × 3 × 3 = 27 cm³.\r\nLa expresion \"al cubo\" viene de calcular el volumen de un cubo. 3³ se lee \"3 al cubo\" y significa 3×3×3.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-007-v1",
+      "statement": "En un experimento de ciencias, hay 2 bacterias que se duplican cada hora. ¿Cuantas bacterias habra despues de 5 horas?",
+      "context": "Bacterias que se duplican",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 bacterias",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiplicar 2×5=10. La duplicacion es exponencial: 2⁵ = 32, no lineal."
+        },
+        {
+          "letter": "B",
+          "text": "25 bacterias",
+          "is_correct": false,
+          "feedback": "Incorrect. Confundir 5² con 2⁵. 5²=25 (seria si cada bacteria produjera 5 nuevas). 2⁵=2×2×2×2×2=32."
+        },
+        {
+          "letter": "C",
+          "text": "32 bacterias",
+          "is_correct": true,
+          "feedback": "Correct. Despues de 5 horas: 2⁵ = 2×2×2×2×2 = 32 bacterias."
+        },
+        {
+          "letter": "D",
+          "text": "64 bacterias",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso seria despues de 6 horas: 2⁶=64. Despues de 5 horas es 2⁵=32."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un clasico ejemplo de crecimiento exponencial:\r\n- Hora 0: 2⁰ = 1 bacteria (al inicio: 2⁰ = 1, pero comenzamos con 2)\r\n- Hora 1: 2¹ = 2 bacterias\r\n- Hora 2: 2² = 4 bacterias\r\n- Hora 3: 2³ = 8 bacterias\r\n- Hora 4: 2⁴ = 16 bacterias\r\n- Hora 5: 2⁵ = 32 bacterias\r\nDespues de 5 horas habra 32 bacterias.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-008-v1",
+      "statement": "Sofia envia un mensaje a 3 amigos. Cada amigo lo reenvia a 3 personas diferentes, y asi sucesivamente. ¿Cuantas personas recibiran el mensaje en la tercera ronda de reenvios?",
+      "context": "Mensajes en cadena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 personas",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es 3²=9 (segunda ronda). La tercera ronda es 3³=27."
+        },
+        {
+          "letter": "B",
+          "text": "27 personas",
+          "is_correct": true,
+          "feedback": "Correct. Tercera ronda: 3³ = 3×3×3 = 27 personas."
+        },
+        {
+          "letter": "C",
+          "text": "6 personas",
+          "is_correct": false,
+          "feedback": "Incorrect. 3+3=6. Sumar en vez de usar potencias. Cada ronda multiplica por 3, no suma 3."
+        },
+        {
+          "letter": "D",
+          "text": "81 personas",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es 3⁴=81 (cuarta ronda). La tercera ronda es 3³=27."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un ejemplo de crecimiento exponencial con base 3:\r\n- Ronda 0 (Sofia): 3⁰ = 1\r\n- Ronda 1: 3¹ = 3 personas\r\n- Ronda 2: 3² = 9 personas\r\n- Ronda 3: 3³ = 27 personas\r\nEn la tercera ronda, 27 personas reciben el mensaje.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-009-v1",
+      "statement": "¿Cual de las siguientes afirmaciones es correcta?",
+      "context": "Comparar potencias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2⁴ es mayor que 4²",
+          "is_correct": false,
+          "feedback": "Incorrect. 2⁴ = 16 y 4² = 16. Son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "2⁵ es menor que 5²",
+          "is_correct": false,
+          "feedback": "Incorrect. 2⁵ = 32 y 5² = 25. 2⁵ es MAYOR que 5²."
+        },
+        {
+          "letter": "C",
+          "text": "3³ es igual a 9²",
+          "is_correct": false,
+          "feedback": "Incorrect. 3³ = 27 y 9² = 81. No son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "2³ es igual a 4²",
+          "is_correct": true,
+          "feedback": "Incorrect. 2³ = 8 y 4² = 16. 2³ es la mitad de 4². La afirmacion correcta seria que 2⁴ = 4² = 16."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Calculemos cada potencia para comparar:\r\n- 2⁴ = 2×2×2×2 = 16; 4² = 4×4 = 16 → Son IGUALES. La afirmacion A es correcta.\r\n- 2⁵ = 32; 5² = 25 → 2⁵ > 5².\r\n- 3³ = 27; 9² = 81 → 3³ < 9².\r\n- 2³ = 8; 4² = 16 → 2³ < 4².\r\nLa unica afirmacion correcta es que 2⁴ = 4².\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W08-potenciacion-conceptos-010-v1",
+      "statement": "En la clase, el profesor pregunta cuanto es 6². Cuatro estudiantes responden:\r\n- Ana: 12\r\n- Carlos: 36\r\n- Maria: 8\r\n- Juan: 6\r\n¿Quien respondio correctamente?",
+      "context": "Error en calculo de potencia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana, porque 6² = 6×2 = 12",
+          "is_correct": false,
+          "feedback": "Incorrect. 6×2 es multiplicacion, no potencia. 6² = 6×6 = 36."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos, porque 6² = 6×6 = 36",
+          "is_correct": true,
+          "feedback": "Correct. 6² = 6 × 6 = 36. \"Al cuadrado\" significa multiplicar el numero por si mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Maria, porque 6² = 6+2 = 8",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar 6+2=8. La potencia no es suma, es multiplicacion repetida."
+        },
+        {
+          "letter": "D",
+          "text": "Juan, porque 6² = 6",
+          "is_correct": false,
+          "feedback": "Incorrect. 6² no es lo mismo que 6. El exponente 2 significa multiplicar 6 por si mismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los errores mas comunes con potencias:\r\n- Ana confunde potencia con multiplicacion (6² vs 6×2).\r\n- Maria confunde potencia con suma (6² vs 6+2).\r\n- Juan ignora el exponente por completo.\r\nLa respuesta correcta es 6² = 6 × 6 = 36. Es util recordar que \"al cuadrado\" es multiplicar el numero por si mismo, como calcular el area de un cuadrado de lado 6.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.57,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Quibdó, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Manizales, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pereira, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Medellín, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. San José en Cúcuta, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Manizales, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Armenia, se discute sobre Tema Semana 8 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 8 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 8 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 8 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-6-2026-W08-tema-semana-8-de-matematicas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

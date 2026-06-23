@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-10-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.573Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v1",
+      "statement": "\"I ____ stay up late, but since the new job, I ____ to waking up early.\"",
+      "context": "Comparing past and present habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would / used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "used to / have got used",
+          "is_correct": true,
+          "feedback": "Correct. 'Used to' for past habit, and 'have got used to' for present result."
+        },
+        {
+          "letter": "C",
+          "text": "am used to / get used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would / was used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of 'used to' and 'get used to'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v2",
+      "statement": "\"He told me that the reports ____ by the time the manager ____.\"",
+      "context": "Reporting a completed action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are finished / left",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had been finished / left",
+          "is_correct": true,
+          "feedback": "Correct. Reported speech with Past Perfect Passive."
+        },
+        {
+          "letter": "C",
+          "text": "were finishing / leaves",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have been finished / left",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Reported Speech and Past Perfect Passive.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v3",
+      "statement": "\"Why are you so sweaty?\" \"Because I ____ for the marathon ____ 7 o'clock.\"",
+      "context": "Discussing recent activities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trained / since",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have been training / since",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect Continuous for ongoing activity."
+        },
+        {
+          "letter": "C",
+          "text": "was training / for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had been training / since",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Present Perfect Continuous with 'since'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v4",
+      "statement": "\"The program ____ to be successful, even though critics ____ that it lacked funding.\"",
+      "context": "An academic text on progress.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was proved / said",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "has proved / had argued",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect for result, Past Perfect for prior criticism."
+        },
+        {
+          "letter": "C",
+          "text": "proves / were arguing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was proving / have argued",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of tense sequencing: Present Perfect and Past Perfect.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v5",
+      "statement": "\"I didn't expect ____ so much trouble ____ my way around.\"",
+      "context": "Dealing with unexpected situations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to have / to find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to have / finding",
+          "is_correct": true,
+          "feedback": "Correct. 'Expect + infinitive' and 'trouble + -ing'."
+        },
+        {
+          "letter": "C",
+          "text": "having / find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "to having / finding",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Gerunds and Infinitives.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v6",
+      "statement": "\"The artifacts ____ by a local farmer while he ____ a new well.\"",
+      "context": "A description of a historical discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "found / was digging",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were found / was digging",
+          "is_correct": true,
+          "feedback": "Correct. Past Passive and Past Continuous."
+        },
+        {
+          "letter": "C",
+          "text": "have been found / dug",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "were being found / dug",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Passive Voice and Past Continuous.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v7",
+      "statement": "\"By the time he was thirty, he ____ in ____ three companies.\"",
+      "context": "Describing a career achievement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "succeeded / start",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had succeeded / starting",
+          "is_correct": true,
+          "feedback": "Correct. 'Succeed in' + gerund, and Past Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "has succeeded / starting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "succeeded / starting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of achievement verbs and the Past Perfect.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v8",
+      "statement": "\"The board announced that the project ____ postponed until notice.\"",
+      "context": "Reporting a decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was being",
+          "is_correct": true,
+          "feedback": "Correct. Backshift of present continuous passive."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Also possible, but B is standard for status update."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Reported Speech and Passive Voice.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v9",
+      "statement": "\"It is thought that ____ new skills is essential for ____ sharp.\"",
+      "context": "Discussing lifelong learning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to learn / stay",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "learning / staying",
+          "is_correct": true,
+          "feedback": "Correct. Gerund as subject and after preposition."
+        },
+        {
+          "letter": "C",
+          "text": "learn / staying",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "learning / to stay",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of Gerunds as subjects and after prepositions.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v10",
+      "statement": "\"Only lately ____ the council ____ the impact of the regulations.\"",
+      "context": "A sophisticated observation on urban change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / been considering",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Only lately'."
+        },
+        {
+          "letter": "B",
+          "text": "did / consider",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "is / considering",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have / been considering",
+          "is_correct": false,
+          "feedback": "Incorrect agreement."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Review of Inversion with 'Only lately' and Present Perfect Continuous.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v11",
+      "statement": "\"I regret ____ you that we ____ your application earlier than intended.\"",
+      "context": "Reflecting on a mistake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "informing / processed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to inform / have processed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "to inform / had processed",
+          "is_correct": true,
+          "feedback": "Correct. 'Regret to inform' and Past Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "informing / had processed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Review of 'Regret' patterns and Past Perfect.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-v12",
+      "statement": "\"Scarcely ____ we ____ our destination when we realized the event ____.\"",
+      "context": "Speculating about a missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had / reached / had finished",
+          "is_correct": true,
+          "feedback": "Correct. Inversion and Past Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "did / reach / finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "were / reaching / had finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had / reached / is finishing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Inversion and multiple Past Perfect actions.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W10-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

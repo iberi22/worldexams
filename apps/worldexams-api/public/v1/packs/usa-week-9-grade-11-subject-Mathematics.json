@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Mathematics",
+    "country": "usa",
+    "pack_id": "usa-week-9-grade-11-subject-mathematics",
+    "generated_at": "2026-06-22T05:46:19.063Z"
+  },
+  "questions": [
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v1",
+      "statement": "**Stem:** Simplify: 4(5x + 23)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 92",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 23",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 20x - 92",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 9x + 23\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(5x + 23) = 4×5x + 4×23 = 20x + 92.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v2",
+      "statement": "**Stem:** Find the slope between points (2, 1) and (6, 7)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v3",
+      "statement": "**Stem:** Solve for x: 4x + 4 = 24",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 4 from both sides: 4x = 20. Then divide by 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v4",
+      "statement": "**Stem:** Simplify: 4(5x + 22)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 88",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 22",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 20x - 88",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 9x + 22\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(5x + 22) = 4×5x + 4×22 = 20x + 88.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v5",
+      "statement": "**Stem:** Find the slope between points (5, 5) and (6, 6)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v6",
+      "statement": "**Stem:** Solve for x: 4x + 9 = 29",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 9 from both sides: 4x = 20. Then divide by 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v7",
+      "statement": "**Stem:** Simplify: 5(8x + 24)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 120",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 24",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 40x - 120",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 13x + 24\r\n  \r\n\r\n**Explanation:** Apply distributive property: 5(8x + 24) = 5×8x + 5×24 = 40x + 120.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v8",
+      "statement": "**Stem:** Find the slope between points (1, 3) and (7, 8)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v9",
+      "statement": "**Stem:** Solve for x: 5x + 4 = 29",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Subtract 4 from both sides: 5x = 25. Then divide by 5: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v10",
+      "statement": "**Stem:** Simplify: 3(12x + 22)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 36x + 66",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 36x + 22",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 36x - 66",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 15x + 22\r\n  \r\n\r\n**Explanation:** Apply distributive property: 3(12x + 22) = 3×12x + 3×22 = 36x + 66.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v11",
+      "statement": "**Stem:** Find the slope between points (3, 5) and (6, 8)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v12",
+      "statement": "**Stem:** Solve for x: 7x + 3 = 38",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** Subtract 3 from both sides: 7x = 35. Then divide by 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v13",
+      "statement": "**Stem:** Simplify: 8(10x + 35)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 80x + 280",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 80x + 35",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 80x - 280",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 18x + 35\r\n  \r\n\r\n**Explanation:** Apply distributive property: 8(10x + 35) = 8×10x + 8×35 = 80x + 280.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v14",
+      "statement": "**Stem:** Find the slope between points (1, 5) and (7, 11)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v15",
+      "statement": "**Stem:** Solve for x: 2x + 2 = 12",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Subtract 2 from both sides: 2x = 10. Then divide by 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v16",
+      "statement": "**Stem:** Simplify: 4(9x + 33)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 36x + 132",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 36x + 33",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 36x - 132",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 13x + 33\r\n  \r\n\r\n**Explanation:** Apply distributive property: 4(9x + 33) = 4×9x + 4×33 = 36x + 132.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v17",
+      "statement": "**Stem:** Find the slope between points (3, 2) and (7, 11)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v18",
+      "statement": "**Stem:** Solve for x: 4x + 1 = 21",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 1 from both sides: 4x = 20. Then divide by 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v19",
+      "statement": "**Stem:** Simplify: 5(4x + 15)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 20x + 75",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 20x + 15",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 20x - 75",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 9x + 15\r\n  \r\n\r\n**Explanation:** Apply distributive property: 5(4x + 15) = 5×4x + 5×15 = 20x + 75.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY-v20",
+      "statement": "**Stem:** Find the slope between points (2, 3) and (7, 11)",
+      "context": "A US student is practicing percentages change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W09-percentages-change-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    }
+  ]
+}

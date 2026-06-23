@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-34-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.751Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v1",
+      "statement": "You are a student at this school, ________?",
+      "context": "Question tag for \"to be\" (affirmative).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are you",
+          "is_correct": false,
+          "feedback": "Incorrect. If the sentence is positive, the tag must be negative."
+        },
+        {
+          "letter": "B",
+          "text": "aren't you",
+          "is_correct": true,
+          "feedback": "Correct! Negative tag for a positive \"to be\" sentence."
+        },
+        {
+          "letter": "C",
+          "text": "don't you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "you aren't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las \"Question Tags\" funcionan como espejos opuestos: si la oración es afirmativa, la pregunta final debe ser negativa. Con el verbo \"to be\", repetimos el mismo verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v2",
+      "statement": "He isn't from Medellín, ________?",
+      "context": "Question tag for \"to be\" (negative).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isn't he",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is he",
+          "is_correct": true,
+          "feedback": "Correct! Positive tag for a negative sentence."
+        },
+        {
+          "letter": "C",
+          "text": "does he",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is not he",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si la oración ya contiene una negación (isn't), la coletilla final debe ser afirmativa (is he?).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v3",
+      "statement": "You like playing soccer, ________?",
+      "context": "Question tag for other verbs in Present Simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aren't you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "like you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "don't you",
+          "is_correct": true,
+          "feedback": "Correct! We use the auxiliary \"do/does\" for verbs in Present Simple."
+        },
+        {
+          "letter": "D",
+          "text": "doesn't you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando la oración usa un verbo de acción (no \"to be\"), la question tag debe usar el auxiliar correspondiente al tiempo verbal (do/don't, does/doesn't).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v4",
+      "statement": "She finished the project yesterday, ________?",
+      "context": "Question tag for Past Simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't she",
+          "is_correct": true,
+          "feedback": "Correct! Auxiliary for past simple."
+        },
+        {
+          "letter": "B",
+          "text": "doesn't she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "wasn't she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para oraciones en pasado, la question tag utiliza el auxiliar \"didn't\" (si la oración es afirmativa) o \"did\" (si es negativa).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v5",
+      "statement": "We will see you tomorrow, ________?",
+      "context": "Question tag for Future (will).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won't we",
+          "is_correct": true,
+          "feedback": "Correct! \"Won't\" is the negative tag for \"will\"."
+        },
+        {
+          "letter": "B",
+          "text": "will we",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "don't we",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shall we",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El futuro con \"will\" requiere la coletilla \"won't + sujeto\" en oraciones afirmativas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v6",
+      "statement": "Ajiaco is a traditional soup from Bogotá, ________?",
+      "context": "Checking information about Colombian culture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isn't it",
+          "is_correct": true,
+          "feedback": "Correct! Correct use of \"it\" for an object (soup)."
+        },
+        {
+          "letter": "B",
+          "text": "aren't they",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't it",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ajiaco is\" uses verb to be."
+        },
+        {
+          "letter": "D",
+          "text": "is it",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las question tags son muy útiles en conversaciones para confirmar hechos culturales o sociales que creemos conocer.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v7",
+      "statement": "I am your best friend, ________?",
+      "context": "Irregular question tag for \"I am\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am not I",
+          "is_correct": false,
+          "feedback": "Incorrect. This is extremely rare/formal."
+        },
+        {
+          "letter": "B",
+          "text": "aren't I",
+          "is_correct": true,
+          "feedback": "Correct! This is the standard irregular tag for \"I am\"."
+        },
+        {
+          "letter": "C",
+          "text": "don't I",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are I",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una de las excepciones más famosas en inglés es la coletilla para \"I am\", que siempre es \"aren't I?\" en el lenguaje estándar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v8",
+      "statement": "\"You haven't seen my keys, **have you**?\"\nWhat is the speaker's main intention?",
+      "context": "Understanding the purpose of a tag.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To state a fact.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "To ask for information or confirmation.",
+          "is_correct": true,
+          "feedback": "Correct! Tags are used to check if someone knows something."
+        },
+        {
+          "letter": "C",
+          "text": "To demand the keys immediately.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "To say that the keys are lost forever.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pragmáticamente, las question tags se usan para suavizar una pregunta o para invitar al interlocutor a confirmar una sospecha.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v9",
+      "statement": "They can't swim very well, ________?",
+      "context": "Tags with modals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can they",
+          "is_correct": true,
+          "feedback": "Correct! The modal \"can\" is used in the tag."
+        },
+        {
+          "letter": "B",
+          "text": "can't they",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "do they",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are they",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la oración usa un verbo modal (can, should, must), el mismo modal se utiliza para formar la coletilla final.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"You **have (A)** been **to (B)** London **twice (C)**, **don't you (D)**?\"",
+      "context": "Identifying errors in complex tags.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "twice",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "don't you",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The correct tag should be \"haven't you?\" for Present Perfect."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se evalúa la consistencia entre el tiempo verbal de la oración (Presente Perfecto) y el auxiliar usado en la coletilla.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v11",
+      "statement": "In which situation would you use a **falling** intonation (your voice goes down) on the question tag?",
+      "context": "Evaluating tone and intonation (falling vs rising).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When you really don't know the answer and are asking a genuine question.",
+          "is_correct": false,
+          "feedback": "Incorrect. This uses rising intonation."
+        },
+        {
+          "letter": "B",
+          "text": "When you are 100% sure and just want the other person to agree with you.",
+          "is_correct": true,
+          "feedback": "Correct! Falling intonation in tags means \"I know I'm right, just say yes\"."
+        },
+        {
+          "letter": "C",
+          "text": "When you are confused.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "When you are shouting.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En B1, se empieza a estudiar cómo la entonación de las tags cambia su significado pragmático (pregunta real vs. confirmación de lo obvio).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-v12",
+      "statement": "Choose the most natural dialogue:",
+      "context": "Selecting the best dialogue with tags.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"It's a beautiful day, isn't it?\" - \"Yes, it's lovely!\"",
+          "is_correct": true,
+          "feedback": "Correct! Perfect use of tag for social interaction."
+        },
+        {
+          "letter": "B",
+          "text": "\"You didn't do it, didn't you?\" - \"No.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Double negative in the tag."
+        },
+        {
+          "letter": "C",
+          "text": "\"They are coming, do they?\" - \"Maybe.\"",
+          "is_correct": false,
+          "feedback": "Incorrect auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "\"I am late, am I not?\" - \"Yes.\"",
+          "is_correct": false,
+          "feedback": "Technically correct but very unnatural for B1 communication."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de las question tags en la conversación social (small talk) es una habilidad clave para sonar más natural y fluido en inglés.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W34-question-tags-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

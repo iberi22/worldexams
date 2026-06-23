@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.446Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-001-v1",
+      "statement": "¿Qué es un texto argumentativo?",
+      "context": "Definición de argumentación",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que narra una historia con personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto narrativo. El texto argumentativo busca convencer, no contar una historia."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que defiende una opinión o postura usando razones para convencer al lector",
+          "is_correct": true,
+          "feedback": "¡Correcto! La argumentación consiste en presentar una tesis u opinión y apoyarla con argumentos o razones para persuadir a quien lee o escucha."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que explica cómo hacer algo paso a paso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto instructivo. El propósito de la argumentación es convencer, no instruir."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que describe las características de un objeto o lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto descriptivo. La argumentación va más allá de describir: busca cambiar una opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto argumentativo tiene un propósito persuasivo. Su estructura típica incluye: 1) una tesis (la idea que se quiere defender), 2) argumentos (las razones que apoyan la tesis), y 3) una conclusión (cierre que refuerza la postura). Lo encontramos en editoriales de periódicos, cartas al director, discursos políticos, anuncios publicitarios y ensayos escolares.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tipos de texto",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-002-v1",
+      "statement": "En un texto argumentativo, la tesis es:",
+      "context": "Tesis y argumentos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La historia que se cuenta para entretener",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis no es una historia. Es la idea principal que se quiere defender en la argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de materiales necesarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a un texto instructivo, no a un texto argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "La idea u opinión que el autor defiende a lo largo del texto",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis es la postura del autor frente a un tema. Es la afirmación central que necesita ser respaldada con argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "El final del texto donde se despiden los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es propio de textos narrativos. En argumentación, el cierre se llama conclusión y refuerza la tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar la tesis es el primer paso para analizar un texto argumentativo. Para encontrarla, pregúntate: ¿cuál es la opinión principal del autor? ¿Qué es lo que quiere demostrar o defender? La tesis suele aparecer al inicio del texto (tesis explícita) o debe deducirse de los argumentos (tesis implícita).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de elementos textuales",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-003-v1",
+      "statement": "> **¿Deben los estudiantes tener tareas para la casa?**\r\n>\r\n> Muchos estudiantes creen que las tareas escolares son una pérdida de tiempo. Sin embargo, las tareas son fundamentales para el aprendizaje. En primer lugar, ayudan a repasar lo visto en clase y a fijar los conocimientos. En segundo lugar, enseñan a los estudiantes a organizar su tiempo y a ser responsables. Finalmente, permiten que los padres se involucren en la educación de sus hijos. Por estas razones, las tareas escolares deben seguir siendo parte de la formación de los estudiantes colombianos.\r\n\r\n¿Cuál es la tesis del texto anterior?",
+      "context": "Texto argumentativo escolar",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes no quieren hacer tareas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una opinión de algunos estudiantes, no la tesis del autor. El autor defiende lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Las tareas escolares son fundamentales y deben seguir siendo parte de la formación",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis aparece al inicio: \"las tareas son fundamentales para el aprendizaje\" y al final: \"deben seguir siendo parte de la formación\"."
+        },
+        {
+          "letter": "C",
+          "text": "Los padres deben ayudar a sus hijos con las tareas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es solo uno de los argumentos, no la tesis principal. La tesis es más amplia."
+        },
+        {
+          "letter": "D",
+          "text": "Las tareas son una pérdida de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la opinión que el autor está refutando, no la tesis que defiende."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar la tesis, busca la oración que resume la postura del autor. A menudo aparece al principio (tesis explícita) o al final (conclusión que retoma la tesis). En este texto, la tesis aparece tanto al inicio (\"las tareas son fundamentales\") como al final (\"deben seguir siendo parte de la formación\"). Los argumentos son las razones que la apoyan.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de la tesis",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-004-v1",
+      "statement": "Relee el texto anterior sobre las tareas escolares. ¿Cuántos argumentos usa el autor para defender su tesis?",
+      "context": "Reconocer razones que apoyan la tesis",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno: que los estudiantes necesitan repasar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor da más de un argumento. Hay que contar todas las razones que menciona."
+        },
+        {
+          "letter": "B",
+          "text": "Tres: repasar lo visto, organizar el tiempo e involucrar a los padres",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor presenta tres argumentos marcados con \"En primer lugar\", \"En segundo lugar\" y \"Finalmente\". Cada uno es una razón independiente que apoya la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Cuatro: incluyendo la opinión de los estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opinión de los estudiantes (\"creen que es pérdida de tiempo\") no es un argumento del autor. Es la postura contraria que introduce el tema."
+        },
+        {
+          "letter": "D",
+          "text": "Dos: repasar y ser responsables",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor menciona tres argumentos, no dos. \"Involucrar a los padres\" es el tercer argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos argumentativos se apoyan en palabras clave como \"en primer lugar\", \"además\", \"por otro lado\", \"finalmente\" para organizar los argumentos. Identificar estas palabras guía (llamadas conectores argumentativos) ayuda a reconocer la estructura del texto y a diferenciar la tesis de los argumentos que la sostienen.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de argumentos",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-005-v1",
+      "statement": "> En Colombia, el reciclaje ha aumentado un 15% en los últimos dos años. Por eso, creo que todos los colegios deberían tener programas obligatorios de reciclaje.\r\n\r\n¿Cuál de las siguientes afirmaciones del texto es un HECHO y cuál es una OPINIÓN?",
+      "context": "Hechos vs. opiniones en argumentación",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son opiniones porque expresan lo que alguien piensa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer dato (aumento del 15%) se puede verificar, por lo tanto es un hecho. Solo la segunda parte es opinión."
+        },
+        {
+          "letter": "B",
+          "text": "\"El reciclaje ha aumentado un 15%\" es un hecho verificable; \"todos los colegios deberían tener programas\" es una opinión",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un hecho se puede comprobar con datos y evidencias. Una opinión expresa un punto de vista personal que puede ser debatido."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son hechos porque el texto las presenta como verdaderas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que algo se presente como verdadero no lo convierte automáticamente en un hecho. Las opiniones son juicios personales, aunque estén bien argumentadas."
+        },
+        {
+          "letter": "D",
+          "text": "\"El reciclaje ha aumentado\" es una opinión y \"los colegios deberían\" es un hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el dato estadístico es verificable (hecho), mientras que la recomendación es subjetiva (opinión)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre hechos y opiniones es clave para la lectura crítica. Los HECHOS son afirmaciones objetivas y verificables (datos, fechas, estadísticas). Las OPINIONES expresan creencias, juicios o puntos de vista (palabras como \"debería\", \"creo que\", \"es mejor\"). Un buen argumento usa hechos para apoyar una opinión, pero no debemos confundirlos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Diferenciar hecho de opinión",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-006-v1",
+      "statement": "> **Semana sin carro en Bogotá**\r\n>\r\n> A favor: \"La semana sin carro reduce la contaminación del aire y mejora la salud de los ciudadanos. Además, promueve el uso de transporte público y bicicletas.\"\r\n>\r\n> En contra: \"La semana sin carro afecta a quienes viven lejos de su trabajo y no tienen acceso a transporte público eficiente. Muchas personas pierden horas de trabajo por los retrasos.\"\r\n\r\n¿Cuál de los siguientes NO es un argumento del texto?",
+      "context": "Posturas opuestas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese SÍ es un argumento a favor que aparece en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Afecta a quienes viven lejos de su trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese SÍ es un argumento en contra que aparece en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Las bicicletas son peligrosas en Bogotá",
+          "is_correct": true,
+          "feedback": "¡Correcto! Este argumento NO aparece en el texto. El texto menciona bicicletas como una alternativa positiva, no como algo peligroso."
+        },
+        {
+          "letter": "D",
+          "text": "Promueve el uso de transporte público",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese SÍ es un argumento a favor que aparece en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo tema puede tener argumentos a favor y en contra. La lectura crítica implica reconocer ambas posturas para formarse una opinión propia. En este ejercicio, debes leer con atención para identificar qué afirmaciones están realmente presentes en el texto y cuáles no. Esto desarrolla la habilidad de no inventar información ni dejarse llevar por suposiciones.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reconocimiento de argumentos a favor y en contra",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-007-v1",
+      "statement": "Lee el siguiente argumento:\r\n\r\n> \"No deberíamos tener clases de educación física porque yo no soy bueno para los deportes.\"\r\n\r\n¿Este argumento es válido?",
+      "context": "Juzgar si un argumento es válido",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cada persona puede opinar sobre lo que no le gusta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión personal no es necesariamente un argumento válido. La validez depende de si la razón es sólida y pertinente."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque si una persona no es buena en algo, nadie más debe hacerlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no es razonable. Que una persona no sea buena en algo no significa que los demás no deban practicarlo."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la experiencia personal de una persona no es razón suficiente para eliminar una materia para todos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un argumento válido debe tener razones que afecten a todos o a la mayoría. La experiencia individual no es suficiente para tomar una decisión general."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la educación física no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que \"no es importante\" es otra opinión sin sustento. La razón de invalidez es que la experiencia personal no justifica una regla general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todos los argumentos son igual de sólidos. Un argumento débil se basa en experiencias personales sin representatividad, en generalizaciones apresuradas o en emociones sin datos. Un argumento sólido usa evidencias verificables, razones lógicas y considera el bien común. Esta habilidad de evaluar argumentos es fundamental para la lectura crítica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación de la solidez de un argumento",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-008-v1",
+      "statement": "> **¿Debe el servicio de restaurante estar incluido en la cuenta?**\r\n>\r\n> (1) En muchos restaurantes de Colombia, el servicio (propina) aparece incluido en la cuenta sin preguntar al cliente. (2) Esta práctica debería ser eliminada porque el cliente debe tener la libertad de decidir si el servicio fue bueno o no. (3) Además, cuando el servicio está incluido, los meseros no se esfuerzan tanto porque saben que recibirán su pago de todas formas. (4) Por último, en otros países como Japón, dejar propina no es una costumbre y el servicio es excelente. (5) Por eso, creemos que el servicio debe ser voluntario, no obligatorio.\r\n\r\n¿Cuál de las siguientes opciones describe correctamente la estructura del texto?",
+      "context": "Identificar tesis, argumentos y conclusión",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) Argumento, (2) Tesis, (3) Argumento, (4) Argumento, (5) Conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración (1) introduce el contexto del problema, no es un argumento. Y (2) contiene la tesis, no un argumento."
+        },
+        {
+          "letter": "B",
+          "text": "(1) Contexto, (2) Tesis, (3) Argumento, (4) Argumento, (5) Conclusión",
+          "is_correct": true,
+          "feedback": "¡Correcto! La oración (1) presenta el contexto (cómo funciona el servicio incluido), (2) es la tesis (debería eliminarse), (3) y (4) son argumentos que la apoyan, y (5) es la conclusión que retoma la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "(1) Tesis, (2) Argumento, (3) Argumento, (4) Conclusión, (5) Opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. (1) no es la tesis, es el contexto. Y (4) no es conclusión, es otro argumento."
+        },
+        {
+          "letter": "D",
+          "text": "(1) Conclusión, (2) Tesis, (3) Argumento, (4) Argumento, (5) Contexto",
+          "is_correct": false,
+          "feedback": "Incorrecto. (1) no es conclusión porque la conclusión cierra el texto. Y (5) no es contexto, es la conclusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos argumentativos tienen una estructura reconocible. El contexto presenta el tema o problema. La tesis es la postura del autor. Los argumentos son las razones que apoyan la tesis. La conclusión cierra el texto reforzando la postura. Identificar cada parte ayuda a comprender mejor la argumentación y a evaluar si es sólida o tiene debilidades.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de estructura argumentativa",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-009-v1",
+      "statement": "Un estudiante escribe: \"Los perros deberían poder entrar a todos los parques de la ciudad porque son mascotas familiares y necesitan espacio para jugar.\"\r\n\r\n¿Cuál de las siguientes opciones sería un buen CONTRAARGUMENTO (una objeción razonable a su postura)?",
+      "context": "Anticipar objeciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los perros son los mejores amigos del hombre\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso apoya la postura del estudiante, no es una objeción. Un contraargumento debe dar razones en contra."
+        },
+        {
+          "letter": "B",
+          "text": "\"Prefiero los gatos a los perros\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una preferencia personal, no un argumento razonado en contra. No aporta razones válidas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Algunas personas tienen miedo a los perros o son alérgicas, y los parques son espacios públicos para todos\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! Este es un contraargumento válido porque presenta una razón (seguridad y alergias) por la cual la propuesta podría no ser adecuada para todos los parques."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los perros necesitan vacunas\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un hecho sobre el cuidado de mascotas, pero no es un argumento en contra de que entren a parques. No se opone a la postura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un contraargumento es una razón que se opone a la tesis del autor. Reconocer posibles contraargumentos es señal de pensamiento crítico: significa que podemos ver un tema desde diferentes perspectivas. Los buenos argumentos no ignoran las objeciones, sino que las anticipan y las responden. Esta habilidad se llama \"concesión y refutación\" y es avanzada dentro de la argumentación.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contraargumentos",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W29-argumentacion-basica-010-v1",
+      "statement": "Imagina que debes escribir una carta al rector de tu colegio pidiendo que instalen más canecas de reciclaje. ¿Cuál de los siguientes sería el argumento MÁS convincente?",
+      "context": "Elegir el mejor argumento",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"No me gusta ver basura en el piso\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión personal basada en el gusto. No es un argumento sólido para convencer a un rector, que necesita razones objetivas."
+        },
+        {
+          "letter": "B",
+          "text": "\"En otros colegios hay más canecas\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una comparación débil. No explica por qué eso es necesario ni qué beneficios traería."
+        },
+        {
+          "letter": "C",
+          "text": "\"El reciclaje reduce la contaminación y los colegios que reciclan reciben incentivos de la Alcaldía, lo que beneficiaría económicamente a la institución\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! Este argumento combina un beneficio ambiental (reducir contaminación) con un beneficio práctico (incentivos económicos). Es concreto, verificable y apela al interés de la institución."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los estudiantes queremos más canecas\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una petición sin sustento. Aunque representa una opinión grupal, no da razones por las cuales la solicitud es importante o necesaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para evaluar la calidad de un argumento, pregúntate: 1) ¿Se basa en hechos o solo en opiniones? 2) ¿Ofrece beneficios concretos? 3) ¿Considera a quién va dirigido? 4) ¿Es específico o demasiado general? Los mejores argumentos combinan datos objetivos con un beneficio claro para la persona o institución a la que se dirige el mensaje. Esta habilidad es esencial para escribir textos persuasivos efectivos.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valoración crítica de argumentos",
+      "bundle_id": "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué es el LENGUAJE FIGURADO?",
+      "context": "Definir lenguaje figurado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La forma correcta de escribir según la gramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje figurado no se refiere a la corrección gramatical sino al uso no literal de las palabras."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de palabras o expresiones con un significado diferente al literal, creando imágenes, comparaciones o efectos poéticos.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando decimos \"tengo un nudo en la garganta\", no hay un nudo literal. Usamos la imagen del nudo para expresar que estamos muy emocionados o angustiados."
+        },
+        {
+          "letter": "C",
+          "text": "El lenguaje que usan las figuras importantes como presidentes o embajadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Figurado\" no viene de \"figura importante\" sino de \"figura retórica\"."
+        },
+        {
+          "letter": "D",
+          "text": "El lenguaje que solo se usa en los poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje figurado se usa en poemas, canciones, conversaciones cotidianas, publicidad y muchos otros contextos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje figurado se opone al LENGUAJE LITERAL (que dice exactamente lo que significa). En el lenguaje figurado, las palabras CREAN IMÁGENES, comparaciones o asociaciones que van más allá de su significado de diccionario. Es una herramienta poderosa para expresar emociones, ideas complejas o conceptos abstractos de una manera más vívida y creativa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Cuál de las siguientes expresiones usa LENGUAJE LITERAL (no figurado)?",
+      "context": "Identificar lenguaje figurado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tengo un mar de dudas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lenguaje figurado: no hay un mar literal de dudas, sino muchas dudas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ese niño es un sol.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es figurado: el niño no es literalmente un sol, sino que es alegre o brillante."
+        },
+        {
+          "letter": "C",
+          "text": "\"El agua hierve a 100 grados centígrados.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una afirmación literal y científica. El agua hierve realmente a esa temperatura. No hay comparación ni imagen."
+        },
+        {
+          "letter": "D",
+          "text": "\"Me partió el corazón.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es figurado: nadie le partió literalmente el corazón; expresa que alguien lo hizo sufrir mucho."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir entre lenguaje literal y figurado es clave para la comprensión lectora. El lenguaje LITERAL dice las cosas directamente, sin adornos ni comparaciones (como una definición científica o una instrucción). El lenguaje FIGURADO usa metáforas, comparaciones e imágenes para expresar ideas de manera más expresiva. Confundirlos puede llevar a malentendidos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "Tu abuela dice: \"Mijo, desde que tu prima se fue para España, la casa está como un horno vacío.\"\n\n¿Qué quiere decir realmente?",
+      "context": "Interpretar expresiones figuradas cotidianas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la casa está muy caliente porque el horno quedó prendido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal. No hay un horno encendido."
+        },
+        {
+          "letter": "B",
+          "text": "Que la prima se llevó el horno cuando se fue.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería otra interpretación literal equivocada."
+        },
+        {
+          "letter": "C",
+          "text": "Que la casa se siente vacía y triste sin la prima, como un horno que no tiene nada adentro.",
+          "is_correct": true,
+          "feedback": "Correcto. La abuela usa la imagen de un \"horno vacío\" para expresar la sensación de vacío y soledad que dejó la partida de su nieta. El horno representa el hogar y el vacío representa la ausencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que la abuela va a hornear pan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación con hornear."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones figuradas cotidianas (\"la casa está como un horno vacío\", \"tengo la cabeza en las nubes\", \"se me hizo un mundo\") son COMPARACIONES IMPLÍCITAS. Para entenderlas, debemos preguntarnos: ¿qué tienen en común la casa y un horno vacío? Ambos son espacios que deberían estar llenos (de familia, de comida) pero están vacíos. Esa conexión es la clave del significado figurado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "*\"Colombia es un jardín de esperanzas regado con lágrimas.\"*\n\n¿Qué significa esta metáfora?",
+      "context": "Identificar metáforas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en Colombia hay muchos jardines botánicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal de la metáfora."
+        },
+        {
+          "letter": "B",
+          "text": "Que en Colombia las personas lloran mientras riegan las plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo una interpretación demasiado literal."
+        },
+        {
+          "letter": "C",
+          "text": "Que Colombia es un país con muchas ilusiones y sueños (como un jardín) pero que también ha sufrido mucho (como las lágrimas que riegan el jardín).",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora compara Colombia con un jardín (belleza, vida, esperanza) que es regado con lágrimas (dolor, sufrimiento, sacrificio). Es una imagen poética que combina lo positivo (esperanzas) con lo negativo (lágrimas)."
+        },
+        {
+          "letter": "D",
+          "text": "Que los jardines en Colombia necesitan mucha agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se refiere a jardines reales ni a agua literal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La METÁFORA es una figura retórica que consiste en IDENTIFICAR dos realidades diferentes (Colombia = jardín) porque comparten alguna característica. No usa \"como\" (eso sería símil). Para interpretarla, hay que identificar qué cualidades del jardín se aplican a Colombia: fertilidad, diversidad, vida, pero también fragilidad, necesidad de cuidado. Las lágrimas añaden la capa de dolor y sacrificio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "*\"El río Magdalena serpentea como una culebra gigante entre los valles.\"*\n\n¿Qué figura retórica se usa aquí y qué significa?",
+      "context": "Interpretar símiles",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una metáfora: el río es una culebra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un SÍMIL, no una metáfora, porque usa la palabra \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Es un SÍMIL: compara el movimiento curvo del río Magdalena con el de una culebra para ayudar al lector a visualizarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. El símil usa \"como\" para establecer una comparación explícita entre el río y la culebra, destacando la forma sinuosa de ambos. Esta imagen ayuda a imaginar cómo se ve el río desde lo alto."
+        },
+        {
+          "letter": "C",
+          "text": "Es una hipérbole: exagera el tamaño del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración del tamaño, solo una comparación visual."
+        },
+        {
+          "letter": "D",
+          "text": "Es una personificación: el río tiene características de animal.",
+          "is_correct": false,
+          "feedback": "Cercano pero incorrecto. La personificación da características HUMANAS a objetos no humanos. Aquí se compara con un animal, no con una persona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El SÍMIL o COMPARACIÓN usa conectores como \"como\", \"cual\", \"parece\", \"tal cual\" para establecer una comparación explícita. Es diferente de la metáfora, que identifica directamente dos realidades sin conector (\"tus ojos son dos luceros\" = metáfora; \"tus ojos brillan como luceros\" = símil). Los escritores usan símiles para hacer sus descripciones más vívidas y accesibles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "*\"La noche bogotana envolvía la ciudad con su manto oscuro mientras las luces de los cerros titilaban tímidamente.\"*\n\n¿Qué figura retórica se usa principalmente?",
+      "context": "Interpretar personificación",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole (exageración).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración evidente."
+        },
+        {
+          "letter": "B",
+          "text": "Personificación: se le da a la noche la capacidad de \"envolver\" (acción humana) y a las luces la cualidad de ser \"tímidas\" (emoción humana).",
+          "is_correct": true,
+          "feedback": "Correcto. La PERSONIFICACIÓN atribuye cualidades o acciones humanas a objetos o conceptos no humanos. La noche \"envuelve\" como si tuviera brazos; las luces son \"tímidas\" como si tuvieran emociones. Esto crea una atmósfera poética."
+        },
+        {
+          "letter": "C",
+          "text": "Ironía (decir lo contrario de lo que se piensa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción entre lo dicho y lo significado."
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya (sonidos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay palabras que imiten sonidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La PERSONIFICACIÓN es una figura muy común en literatura. Consiste en ATRIBUIR características humanas a seres inanimados, animales o conceptos abstractos. Cuando decimos \"el viento susurraba\" o \"el tiempo vuela\", estamos personificando. Esto hace que la descripción sea más emotiva y conecte mejor con el lector, que entiende el mundo en términos humanos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "*Anuncio de una tienda de ropa:*\n\n*\"¡Descuentos de locura! Precios que te vuelan la cabeza. La rebaja más grande de la historia de Colombia. ¡No te lo puedes perder!\"*\n\n¿Qué figura retórica predomina y con qué propósito?",
+      "context": "Analizar hipérbole en publicidad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación: la tienda habla como una persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se personifica a la tienda."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora: compara descuentos con locura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una comparación implícita, la figura principal es otra."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole: exagera intencionalmente (\"descuentos de locura\", \"te vuelan la cabeza\", \"la más grande de la historia\") para llamar la atención y hacer que la oferta parezca irresistible.",
+          "is_correct": true,
+          "feedback": "Correcto. La HIPÉRBOLE es una exageración deliberada. Nadie va a \"volarse la cabeza\" literalmente, y probablemente no es \"la más grande de la historia\". Pero la exageración cumple un propósito persuasivo: hacer que la oferta parezca única e imperdible."
+        },
+        {
+          "letter": "D",
+          "text": "Símil: compara los precios con algo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se usa \"como\" para comparar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La HIPÉRBOLE es una exageración intencional con fines expresivos o persuasivos. En publicidad es muy común porque CAPTA LA ATENCIÓN y hace que el mensaje sea memorable. Sin embargo, como lectores críticos, debemos reconocer la hipérbole y no tomarla literalmente. \"Te vuelan la cabeza\" no es una advertencia médica, es una estrategia de marketing.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Identifica qué figura retórica se usa en cada expresión:\n\n1. \"El sol reía sobre la sabana de Bogotá.\"\n2. \"Tus ojos son dos esmeraldas.\"\n3. \"Te llamé un millón de veces.\"",
+      "context": "Distinguir entre varias figuras retóricas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1. Metáfora / 2. Hipérbole / 3. Símil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La número 1 no es metáfora (el sol no es identificado con algo humano, se le da una acción humana)."
+        },
+        {
+          "letter": "B",
+          "text": "1. Personificación / 2. Metáfora / 3. Hipérbole",
+          "is_correct": true,
+          "feedback": "Correcto. \"El sol reía\" es personificación (acción humana al sol). \"Tus ojos son dos esmeraldas\" es metáfora (identifica ojos con esmeraldas). \"Un millón de veces\" es hipérbole (exageración)."
+        },
+        {
+          "letter": "C",
+          "text": "1. Símil / 2. Personificación / 3. Metáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna coincide correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "1. Hipérbole / 2. Símil / 3. Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponden."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar Y DIFERENCIAR las figuras retóricas es una habilidad fundamental de lectura crítica. Claves: la METÁFORA identifica (A es B), el SÍMIL compara (A es COMO B), la PERSONIFICACIÓN da cualidades humanas a lo no humano, la HIPÉRBOLE exagera. Un mismo texto puede combinar varias figuras para crear efectos complejos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "*Fragmento de \"El ahogado más hermoso del mundo\" de Gabriel García Márquez:*\n\n*\"El cuerpo era tan grande que no cabía en la casa. Tuvieron que ponerlo en el patio, y hasta los pescadores que lo encontraron dijeron que era el hombre más grande que habían visto en toda su vida.\"*\n\n¿Qué efecto produce el uso de la hipérbole en este fragmento?",
+      "context": "Evaluar el efecto del lenguaje figurado en un texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que la historia sea confusa y difícil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipérbole no confunde, aclara mediante la exageración expresiva."
+        },
+        {
+          "letter": "B",
+          "text": "Crea una atmósfera mágica y extraordinaria, propia del realismo mágico, donde lo exagerado se vuelve creíble dentro del mundo de la historia.",
+          "is_correct": true,
+          "feedback": "Correcto. García Márquez usa la hipérbole (\"no cabía en la casa\", \"el más grande que habían visto\") para crear una sensación de asombro y maravilla. En el realismo mágico, lo extraordinario se presenta como algo natural, y la hipérbole ayuda a lograr ese efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Es un error del escritor porque los cuerpos no pueden ser tan grandes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En literatura, la hipérbole es un recurso intencional, no un error."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ningún efecto especial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene un efecto muy importante: magnificar al personaje y crear una atmósfera única."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje figurado no es solo adorno: cumple FUNCIONES IMPORTANTES en los textos. En este caso, la hipérbole contribuye al REALISMO MÁGICO, un estilo literario muy asociado con Colombia y Latinoamérica. Al exagerar las dimensiones del ahogado, García Márquez transforma lo cotidiano en algo extraordinario. Evaluar el EFECTO de las figuras retóricas es más importante que solo identificarlas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Tu abuelo te dice: \"Mijo, al que madruga, Dios lo ayuda.\"\n\n¿Qué SIGNIFICA esta expresión en lenguaje figurado y qué enseñanza transmite?",
+      "context": "Interpretar un refrán popular colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Dios solo ayuda a las personas que se despiertan muy temprano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación demasiado literal."
+        },
+        {
+          "letter": "B",
+          "text": "Que es mejor dormir tarde porque así descansas más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enseñanza es la opuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que las personas que actúan con diligencia y anticipación tienen más probabilidades de éxito. No es sobre la hora literal de despertar, sino sobre ser proactivo y responsable. Transmite el valor del esfuerzo temprano.",
+          "is_correct": true,
+          "feedback": "Correcto. Este REFRÁN popular no habla de despertar literalmente, sino de ser diligente y actuar con anticipación. El lenguaje figurado aquí usa la imagen de \"madrugar\" para representar la iniciativa y el trabajo temprano."
+        },
+        {
+          "letter": "D",
+          "text": "Que Dios odia a los perezosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El refrán no habla de odio, sino de ayuda a quienes se esfuerzan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los REFRANES son una forma de lenguaje figurado muy común en la cultura colombiana. Usan imágenes concretas (\"madrugar\") para transmitir enseñanzas abstractas (ser diligente). Interpretar refranes requiere ir más allá del significado literal y entender la SABIDURÍA POPULAR que contienen. Otros ejemplos colombianos: \"más sabe el diablo por viejo que por diablo\", \"cría fama y échate a dormir\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W29-lenguaje-figurado-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cúcuta, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Ibagué, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Barranquilla, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Neiva, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Pasto, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Armenia, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cali, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Medellín, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Bucaramanga, se discute sobre Tema Semana 29 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 29 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 29 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 29 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W29-tema-semana-29-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

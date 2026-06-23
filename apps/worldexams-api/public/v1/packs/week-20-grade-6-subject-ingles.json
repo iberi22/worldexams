@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Gimnasio Los Pinares de Manizales, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-001-v1",
+      "statement": "This is a review question about p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "First conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Colegio San José de Pereira, first conditional structure.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-002-v1",
+      "statement": "Select the correct A2 level use for p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio Fontán de Neiva, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Cambridge de Cali, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting San Agustín:",
-      "context": "Students at Colegio Cambridge de Villavicencio write conditionals.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-003-v1",
+      "statement": "Identify the appropriate vocabulary for p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Past simple al final."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Colegio INEM de Cúcuta, unless practice.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-004-v1",
+      "statement": "Complete the sentence about p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If not",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W20-p2-final-review-005-v1",
+      "statement": "What is the best way to express p2-final-review?",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio Tolimense de Neiva, compare conditionals.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-006-v1",
+      "statement": "Find the error in this p2-final-review sentence.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Different error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Colegio San José de Barranquilla, find error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W20-p2-final-review-007-v1",
+      "statement": "Match the term with the definition of p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Non-matching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W20-p2-final-review-008-v1",
+      "statement": "Choose the synonym for a word related to p2-final-review.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Colegio Cambridge de Bucaramanga, identify type.",
+      "id": "CO-ING-6-2026-W20-p2-final-review-009-v1",
+      "statement": "Which of these belongs to p2-final-review?",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "text": "Not this one",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First conditional",
-          "is_correct": false,
-          "feedback": "No will."
-        },
-        {
-          "letter": "C",
-          "text": "Second conditional",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Third conditional",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Museo del Oro tomorrow:",
-      "context": "At Liceo de la Sabana de Pasto, create sentence.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If you visit, you see the views.",
-          "is_correct": false,
-          "feedback": "Zero, not first."
-        },
-        {
-          "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
+          "text": "This one (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "Second cond."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W20-p2-final-review-010-v1",
+      "statement": "Predict the next word in the p2-final-review context.",
+      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maybe",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Impossible",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v1",
-      "statement": "\"Bandeja paisa\" is a typical dish from ___.",
-      "context": "In Bogotá, review food.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Colombia",
-          "is_correct": true,
-          "feedback": "Correcto. Bandeja paisa es colombiano."
-        },
-        {
-          "letter": "B",
-          "text": "Mexico",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es de Colombia."
-        },
-        {
-          "letter": "C",
-          "text": "Peru",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ceviche es peruano."
-        },
-        {
-          "letter": "D",
-          "text": "Argentina",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Bandeja paisa: typical Colombian dish from Antioquia region: rice, beans, meat, avocado, plantain, egg, arepa.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v2",
-      "statement": "\"Lunch\" in Spanish is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "almuerzo",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "desayuno",
-          "is_correct": false,
-          "feedback": "Incorrecto. Desayuno = breakfast."
-        },
-        {
-          "letter": "C",
-          "text": "cena",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cena = dinner."
-        },
-        {
-          "letter": "D",
-          "text": "merienda",
-          "is_correct": false,
-          "feedback": "Incorrecto. Merienda = snack."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Meals: breakfast (desayuno), lunch (almuerzo), dinner (cena).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v3",
-      "statement": "\"He likes chicken ___ he doesn't like fish.\"",
-      "context": "In Cali, like/don't like.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "but",
-          "is_correct": true,
-          "feedback": "Correcto. But = pero (contraste)."
-        },
-        {
-          "letter": "B",
-          "text": "and",
-          "is_correct": false,
-          "feedback": "Incorrecto. And = y."
-        },
-        {
-          "letter": "C",
-          "text": "or",
-          "is_correct": false,
-          "feedback": "Incorrecto. Or = o."
-        },
-        {
-          "letter": "D",
-          "text": "so",
-          "is_correct": false,
-          "feedback": "Incorrecto. So = entonces."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "But for contrast: \"He likes chicken but he doesn't like fish.\"\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v4",
-      "statement": "\"Would you like ___ water?\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "some",
-          "is_correct": true,
-          "feedback": "Correcto. Some en ofrecimientos."
-        },
-        {
-          "letter": "B",
-          "text": "any",
-          "is_correct": false,
-          "feedback": "Posible pero some es más cortés."
-        },
-        {
-          "letter": "C",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. Water incontable."
-        },
-        {
-          "letter": "D",
-          "text": "many",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Some en ofrecimientos y solicitudes: \"Would you like some water?\" \"Can I have some water?\"\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v5",
-      "statement": "\"I like ___.\" (nadar)",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "swimming",
-          "is_correct": true,
-          "feedback": "Correcto. Like + verb-ing."
-        },
-        {
-          "letter": "B",
-          "text": "swim",
-          "is_correct": false,
-          "feedback": "Incorrecto. Like swim no."
-        },
-        {
-          "letter": "C",
-          "text": "swims",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "swam",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Like + -ing: I like swimming, I like reading, I like cooking.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v6",
-      "statement": "\"___ your favorite food?\" \"Pizza.\"",
-      "context": "In Cartagena, preferences.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "What's",
-          "is_correct": true,
-          "feedback": "Correcto. What's your favorite food?"
-        },
-        {
-          "letter": "B",
-          "text": "Who's",
-          "is_correct": false,
-          "feedback": "Incorrecto. Who's = quien es."
-        },
-        {
-          "letter": "C",
-          "text": "How's",
-          "is_correct": false,
-          "feedback": "Incorrecto. How's = cómo está."
-        },
-        {
-          "letter": "D",
-          "text": "Where's",
-          "is_correct": false,
-          "feedback": "Incorrecto. Where's = dónde está."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"What's your favorite food?\" = ¿Cuál es tu comida favorita?\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v7",
-      "statement": "\"For lunch, my mother ___ fish with rice.\"",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "cooks",
-          "is_correct": true,
-          "feedback": "Correcto. She cooks = ella cocina."
-        },
-        {
-          "letter": "B",
-          "text": "cook",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tercera persona."
-        },
-        {
-          "letter": "C",
-          "text": "is cooking",
-          "is_correct": false,
-          "feedback": "Posible pero no presente simple."
-        },
-        {
-          "letter": "D",
-          "text": "cooked",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pasado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Daily routines: My mother cooks lunch. My father prepares dinner.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v8",
-      "statement": "\"There ___ some apples on the table.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. Apples = plural → are."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. There is + singular."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There is + singular/uncountable: there is some milk. There are + plural: there are some apples.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v9",
-      "statement": "\"I like fruit, vegetables and water. I don't like soda or candy.\" What is TRUE?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "He likes healthy food.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "He likes candy.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No le gusta."
-        },
-        {
-          "letter": "C",
-          "text": "He doesn't like fruit.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "He likes soda.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: identify what the person likes and dislikes.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v10",
-      "statement": "\"For a healthy breakfast, you should eat ___.\"",
-      "context": "In Ibagué, meal planning.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "fruit and cereal",
-          "is_correct": true,
-          "feedback": "Correcto. Healthy breakfast."
-        },
-        {
-          "letter": "B",
-          "text": "candy and soda",
-          "is_correct": false,
-          "feedback": "Incorrecto. No saludable."
-        },
-        {
-          "letter": "C",
-          "text": "only coffee",
-          "is_correct": false,
-          "feedback": "Incorrecto. Un solo alimento."
-        },
-        {
-          "letter": "D",
-          "text": "chips",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es saludable."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Healthy breakfast: fruit, cereal, eggs, milk, bread. Avoid: candy, soda, chips.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

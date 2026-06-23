@@ -82,7 +82,11 @@ assertNoForbiddenContentArtifacts(files);
 const bundleFiles = existingMarkdown(files);
 if (bundleFiles.length) {
   console.log(`Validating ${bundleFiles.length} weekly bundle file(s)...`);
-  run("node", ["scripts/validate-bundles-v52.mjs", ...bundleFiles], { stdio: "inherit" });
+  const chunkSize = 50;
+  for (let i = 0; i < bundleFiles.length; i += chunkSize) {
+    const chunk = bundleFiles.slice(i, i + chunkSize);
+    run("node", ["scripts/validate-bundles-v52.mjs", ...chunk], { stdio: "inherit" });
+  }
 } else {
   console.log("No changed weekly bundle markdown files to validate.");
 }

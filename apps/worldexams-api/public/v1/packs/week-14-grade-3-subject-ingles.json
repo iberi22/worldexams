@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-14-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v1",
+      "statement": "What is **\"Cama\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bed",
+          "is_correct": true,
+          "feedback": "Correct! Bed is cama."
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Chair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sofa",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cama se dice \"bed\". Dormimos sobre ella.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v2",
+      "statement": "Where do you sit in the **living room**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "On the sofa",
+          "is_correct": true,
+          "feedback": "Correct! You sit on the sofa."
+        },
+        {
+          "letter": "C",
+          "text": "On the bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "On the lamp",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sofá se dice igual en inglés: \"sofa\" (o también \"couch\").\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v3",
+      "statement": "What is **\"Mesa\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "is_correct": true,
+          "feedback": "Correct! Table is mesa."
+        },
+        {
+          "letter": "C",
+          "text": "Desk",
+          "is_correct": false,
+          "feedback": "Incorrect. Desk is escritorio."
+        },
+        {
+          "letter": "D",
+          "text": "Window",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mesa se dice \"table\". Usamos la mesa para comer o trabajar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v4",
+      "statement": "What gives you **light** (luz) at night?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A lamp",
+          "is_correct": true,
+          "feedback": "Correct! A lamp gives light."
+        },
+        {
+          "letter": "B",
+          "text": "A chair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "A door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "A table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lámpara se dice \"lamp\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v5",
+      "statement": "Where do you put your **clothes**? (El armario).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the fridge",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "In the closet",
+          "is_correct": true,
+          "feedback": "Correct! Closet is armario."
+        },
+        {
+          "letter": "C",
+          "text": "In the sink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "On the lamp",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El armario o clóset se dice \"closet\" (o \"wardrobe\" en UK).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v6",
+      "statement": "Where is the **milk**? (La nevera).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "In the fridge",
+          "is_correct": true,
+          "feedback": "Correct! Fridge is nevera."
+        },
+        {
+          "letter": "C",
+          "text": "In the sofa",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "In the garden",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La nevera se dice \"fridge\" (forma corta de 'refrigerator').\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v7",
+      "statement": "What is **\"Silla\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Chair",
+          "is_correct": true,
+          "feedback": "Correct! Chair is silla."
+        },
+        {
+          "letter": "C",
+          "text": "Bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Sofa",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ya lo vimos en el salón de clase, pero en la casa también tenemos \"chairs\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v8",
+      "statement": "How do you say **\"Puerta\"** and **\"Ventana\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wall and Floor",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Door and Window",
+          "is_correct": true,
+          "feedback": "Correct! Door is puerta, window is ventana."
+        },
+        {
+          "letter": "C",
+          "text": "Roof and Garden",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Bed and Sofa",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Door\" es la puerta y \"window\" es la ventana. Son partes esenciales de la casa.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v9",
+      "statement": "Complete: **\"The family eats at the _______.\"**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "is_correct": true,
+          "feedback": "Correct! Families eat at the table."
+        },
+        {
+          "letter": "B",
+          "text": "Bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Fridge",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Closet",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comemos en la mesa (table).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-v10",
+      "statement": "Which one is in the **kitchen**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sofa",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Stove",
+          "is_correct": true,
+          "feedback": "Correct! The stove (estufa) is in the kitchen."
+        },
+        {
+          "letter": "D",
+          "text": "Bath tub",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estufa (stove) es un elemento que encontramos en la cocina (kitchen).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

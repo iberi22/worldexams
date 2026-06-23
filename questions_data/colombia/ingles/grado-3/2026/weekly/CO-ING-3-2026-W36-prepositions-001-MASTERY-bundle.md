@@ -1,240 +1,205 @@
 ---
-id: "CO-ING-3-2026-W36-prepositions-001-MASTERY"
+id: "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "prepositions"
 periodo: "weekly"
-semana: 36
+week: "W36"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.85
-rubric_baseline: "Identification and usage of basic prepositions of place in English (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Prepositions (W36)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W36: Prepositions (A1)
-
-This bundle focuses on identifying and using basic prepositions of place (in, on, under, next to) in English, aligned with CEFR A1.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Placing an object on a surface.
-
-### Enunciado
-The book is **_________** the table. 📖➡️table
-
-### Options
-- [ ] A) in <!-- feedback: Incorrect. "In" means inside. -->
-- [x] B) on <!-- feedback: Correct! "On" is used for objects on a surface. -->
-- [ ] C) under <!-- feedback: Incorrect. -->
-- [ ] D) behind <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"On" significa sobre o encima de una superficie (haciendo contacto).
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Placing an object inside a container.
-
-### Enunciado
-The pencils are **_________** the pencil case. ✏️➡️👝
-
-### Options
-- [x] A) in <!-- feedback: Correct! "In" means inside a container or space. -->
-- [ ] B) on <!-- feedback: Incorrect. -->
-- [ ] C) next to <!-- feedback: Incorrect. -->
-- [ ] D) under <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"In" significa en o dentro de un espacio cerrado o contenedor.
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Below an object.
-
-### Enunciado
-The cat is hiding **_________** the chair. 🐈➡️🪑(bottom)
-
-### Options
-- [ ] A) on <!-- feedback: Incorrect. -->
-- [ ] B) in <!-- feedback: Incorrect. -->
-- [x] C) under <!-- feedback: Correct! "Under" means below or beneath. -->
-- [ ] D) between <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Under" significa debajo de algo.
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Beside another object.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-My house is **_________** the park. It is very close. 🏠🌳
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) under <!-- feedback: Incorrect. -->
-- [x] B) next to <!-- feedback: Correct! "Next to" means beside or to the side of. -->
-- [ ] C) in <!-- feedback: Incorrect. -->
-- [ ] D) on <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Next to" significa al lado de o junto a.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Position of a student.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Complete: **"I sit ________ my best friend in class."** 👦👧
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) in <!-- feedback: Incorrect. -->
-- [ ] B) on <!-- feedback: Incorrect. -->
-- [x] C) next to <!-- feedback: Correct! You sit beside or next to your friend. -->
-- [ ] D) under <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Usamos "next to" para indicar que dos personas u objetos están uno al lado del otro.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Identifying position by image description.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-There is a **lamp** on the desk. Where is the **desk**?
-The desk is **_________** the lamp.
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) on <!-- feedback: Incorrect. The lamp is on the desk. -->
-- [x] B) under <!-- feedback: Correct! If the lamp is on the desk, the desk is under the lamp. -->
-- [ ] C) in <!-- feedback: Incorrect. -->
-- [ ] D) next to <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Entender la relación espacial inversa. Si A está sobre B, entonces B está debajo de A.
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Finding a toy.
-
-### Enunciado
-Where is my **teddy bear**?
-It is **_________** the box. Open the box to see it! 📦
-
-### Options
-- [x] A) in <!-- feedback: Correct! If you have to open the box, the bear is inside (in). -->
-- [ ] B) under <!-- feedback: Incorrect. -->
-- [ ] C) on <!-- feedback: Incorrect. -->
-- [ ] D) next to <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La instrucción "abrir la caja" confirma que el objeto está en el interior (in).
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Comparing positions.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which sentence is **correct** for the picture of a **bird on a tree branch**? 🐦🌿
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) The bird is under the branch. <!-- feedback: Incorrect. -->
-- [x] B) The bird is on the branch. <!-- feedback: Correct! Birds stand on branches. -->
-- [ ] C) The bird is in the branch. <!-- feedback: Incorrect. -->
-- [ ] D) The branch is on the bird. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar la posición física. Los pájaros se posan sobre (on) las ramas.
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Opposite prepositions.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which two prepositions are **opposites**?
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) In and Next to <!-- feedback: Incorrect. -->
-- [x] B) On and Under <!-- feedback: Correct! Over/On and Under/Below are opposites. -->
-- [ ] C) In and On <!-- feedback: Incorrect. -->
-- [ ] D) Next to and Behind <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar las relaciones espaciales. "On" (encima) y "Under" (debajo) representan posiciones opuestas en el eje vertical.
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Choosing the best preposition to describe a scene.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-You see a **dog** inside a **doghouse**. How do you describe it? 🐕🏠
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [ ] A) The dog is on the house. <!-- feedback: Incorrect. That would be on the roof. -->
-- [x] B) The dog is in the house. <!-- feedback: Correct! Inside a small building is "in". -->
-- [ ] C) The dog is under the house. <!-- feedback: Incorrect. -->
-- [ ] D) The dog is next to the house. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar la escena. Estar protegido por las paredes de la casa significa estar "in".
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

@@ -1,0 +1,1731 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-22T05:46:17.275Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v1",
+      "statement": "Para conocer la historia de nuestra familia, podemos recurrir a fuentes como:",
+      "context": "En la clase de sociales de la I.E. San José de Pitalito, la profesora pregunta cómo podemos conocer la historia de nuestra familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libros de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia ficción no cuenta la historia de nuestra familia."
+        },
+        {
+          "letter": "B",
+          "text": "Películas de superhéroes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las películas de superheroes no son fuentes históricas familiares."
+        },
+        {
+          "letter": "C",
+          "text": "Los testimonios de nuestros abuelos, las fotografías familiares antiguas, los álbumes de recuerdos y los documentos como actas de nacimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuentes orales (testimonios de familiares mayores), visuales (fotografías) y documentales (registros civiles) son fundamentales para reconstruir la historia familiar."
+        },
+        {
+          "letter": "D",
+          "text": "Los anuncios publicitarios de televisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anuncios no cuentan la historia de tu familia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de las fuentes para la historia familiar. La respuesta correcta enumera fuentes históricas válidas. El error común es confundir entretenimiento con fuentes históricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v2",
+      "statement": "El árbol genealógico de una familia muestra:",
+      "context": "En la clase de sociales de la I.E. Normal de Facatativá, el profesor explica qué es la genealogía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tipos de árboles que crecen en el jardín de la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El árbol genealógico no tiene que ver con árboles botánicos."
+        },
+        {
+          "letter": "B",
+          "text": "Las relaciones de parentesco entre los miembros de una familia a través de varias generaciones: abuelos, padres, hijos, tíos, primos.",
+          "is_correct": true,
+          "feedback": "Correcto. El árbol genealógico es un diagrama que representa gráficamente la historia de una familia, mostrando quiénes son los antepasados y cómo se relacionan entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Los nombres de las mascotas de la familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mascotas no hacen parte del árbol genealógico humano."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de compras del mercado semanal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mercado no es información genealógica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del concepto de árbol genealógico. La respuesta correcta lo describe como representación de parentesco. El error común es tomar literalmente la palabra \"árbol\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v3",
+      "statement": "Las historias que cuentan los abuelos sobre su infancia son importantes porque:",
+      "context": "En la clase de sociales de la I.E. Técnica de Soacha, la profesora pregunta por qué es importante entrevistar a los abuelos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son entretenidas pero no tienen valor histórico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los testimonios orales tienen gran valor histórico."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirven para pasar el rato cuando no hay internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su valor va más allá del entretenimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Nos permiten conocer cómo era la vida antes, qué ha cambiado y mantener viva la memoria de nuestra familia y nuestra comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La historia oral transmitida por los abuelos es una fuente valiosa para entender los cambios en la sociedad, las costumbres y la vida cotidiana a través del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Son historias inventadas que no debemos creer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la memoria puede ser subjetiva, las historias de los abuelos contienen información histórica real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del valor de la historia oral. La respuesta correcta destaca la transmisión de memoria y cambios. El error común es subestimar el valor de los testimonios orales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v4",
+      "statement": "Si comparamos fotos de nuestro barrio de hace 30 años con fotos actuales, podemos observar:",
+      "context": "En la clase de sociales de la I.E. San Bartolomé de Bucaramanga, los estudiantes comparan fotos de su barrio de antes y de ahora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el barrio siempre ha sido exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los barrios cambian con el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Que nada ha cambiado, ni siquiera las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siempre hay cambios con el paso del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Cambios en las construcciones, las calles, el transporte, los negocios y las formas de vestir de las personas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los barrios se transforman: pueden aparecer nuevas construcciones, cambiar las vías, modernizarse el transporte, abrir nuevos comercios y cambiar las costumbres de la gente."
+        },
+        {
+          "letter": "D",
+          "text": "Que las fotografías a color siempre son más antiguas que las de blanco y negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fotos en blanco y negro suelen ser más antiguas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del cambio histórico a nivel local. La respuesta correcta describe los cambios observables. El error común es pensar que los lugares no cambian.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v5",
+      "statement": "Para organizar la historia de nuestra familia en orden cronológico, podemos usar:",
+      "context": "En la clase de sociales de la I.E. Débora Arango de Envigado, la profesora pide hacer una línea de tiempo de la historia familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de compras del supermercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las compras no ordenan la historia familiar."
+        },
+        {
+          "letter": "B",
+          "text": "Un mapa de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mapa muestra ubicaciones, no el paso del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Una línea de tiempo que coloque los eventos importantes en orden: el nacimiento de los abuelos, el matrimonio de los padres, el nacimiento de los hijos, etc.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea de tiempo es una herramienta que organiza eventos en orden cronológico, permitiendo visualizar la secuencia de la historia familiar."
+        },
+        {
+          "letter": "D",
+          "text": "Un libro de cuentos infantiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuentos no son una herramienta de organización cronológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar herramientas de organización histórica. La respuesta correcta identifica la línea de tiempo. El error común es confundir herramientas de organización temporal con otros tipos de listas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v6",
+      "statement": "El nombre de un barrio o vereda puede tener origen en:",
+      "context": "En la clase de sociales de la I.E. La Presentación de Rionegro, un estudiante pregunta por qué su barrio se llama así.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La marca de un refresco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es común que los barrios se nombren por marcas comerciales."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de un programa de televisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los barrios no suelen nombrarse por programas de TV."
+        },
+        {
+          "letter": "C",
+          "text": "La historia del lugar, el nombre de una persona importante que vivió allí, una característica geográfica (El Cerro, La Loma) o una tradición local.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres de barrios reflejan la historia y cultura local: pueden venir de nombres de fundadores, de accidentes geográficos, de santos, de plantas típicas o de hechos históricos."
+        },
+        {
+          "letter": "D",
+          "text": "Un concurso de internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de barrios no se eligen por concurso de internet."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del origen de los nombres locales. La respuesta correcta identifica fuentes históricas y culturales. El error común es pensar que los nombres son arbitrarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v7",
+      "statement": "Para investigar la historia de nuestro barrio o vereda, podemos:",
+      "context": "En la clase de sociales de la I.E. Rural de San Vicente de Chucurí, los estudiantes investigan cómo era su vereda antes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar solo en videos de YouTube de otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los videos de otros países no cuentan la historia de tu barrio."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar a personas que recién llegaron al barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recién llegados no conocen la historia antigua del lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Entrevistar a los vecinos más antiguos, buscar fotografías viejas en las casas, consultar archivos de la alcaldía o la parroquia y visitar la biblioteca municipal.",
+          "is_correct": true,
+          "feedback": "Correcto. La investigación histórica local combina fuentes orales (vecinos antiguos), visuales (fotos) y documentales (archivos municipales, eclesiásticos, notariales)."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntarle a un programa de inteligencia artificial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La IA no tiene información específica de cada barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar métodos de investigación histórica local. La respuesta correcta enumera fuentes accesibles. El error común es no saber qué fuentes consultar para la historia local.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v8",
+      "statement": "Antes, los niños solían jugar en la calle con juegos como el trompo, las canicas y la golosa. Hoy en día, muchos niños juegan más con videojuegos y dispositivos electrónicos. Esto muestra:",
+      "context": "En clase de sociales de la I.E. INEM de Popayán, los estudiantes analizan cómo ha cambiado la forma de jugar de los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que antes los niños no se divertían.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los juegos tradicionales también divertían."
+        },
+        {
+          "letter": "B",
+          "text": "Que los juegos de antes eran mejores que los de ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de mejor o peor, sino de diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Que las formas de diversión cambian con el tiempo, reflejando los cambios tecnológicos y sociales de cada época.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cambios en los juegos infantiles reflejan transformaciones más amplias en la sociedad: la urbanización, la tecnología, la seguridad y las nuevas dinámicas familiares."
+        },
+        {
+          "letter": "D",
+          "text": "Que los niños de ahora no saben jugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños de ahora juegan de formas diferentes, no \"no saben jugar\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar el cambio social a través de la vida cotidiana. La respuesta correcta relaciona los cambios en el juego con cambios sociales. El error común es hacer juicios de valor sobre el pasado o el presente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v9",
+      "statement": "Guardar fotografías antiguas, cartas y objetos de nuestros familiares es importante porque:",
+      "context": "En la clase de sociales de la I.E. Normal de Medellín, la profesora pregunta por qué es importante conservar fotos y objetos antiguos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocupan espacio innecesariamente en la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ocupan espacio, su valor va más allá."
+        },
+        {
+          "letter": "B",
+          "text": "Sirven solo para decorar las paredes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función no es solo decorativa."
+        },
+        {
+          "letter": "C",
+          "text": "Son testimonios materiales de la historia familiar que nos permiten recordar, conocer nuestras raíces y transmitir la memoria a las futuras generaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Los objetos y documentos familiares son patrimonio histórico que conserva la memoria de las personas, sus vivencias y la evolución de la familia a través del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Pueden venderse para ganar dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque algunos objetos tengan valor económico, su principal valor es histórico y sentimental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar la importancia de la conservación de la memoria familiar. La respuesta correcta destaca el valor patrimonial y de transmisión. El error común es ver los objetos familiares solo como cosas materiales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v10",
+      "statement": "La historia de nuestro barrio o vereda está conectada con la historia del país porque:",
+      "context": "En la clase de formación ciudadana de la I.E. José Celestino Mutis de Bogotá, la profesora pregunta cómo la historia del barrio se conecta con la historia del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay conexión, la historia local es independiente de la nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia nacional se construye a partir de las historias locales."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la historia de Bogotá importa para entender el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las regiones aportan a la historia nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Los cambios que ocurren en el país (migraciones del campo a la ciudad, construcción de carreteras, conflictos armados) se reflejan en la historia de cada barrio y cada familia.",
+          "is_correct": true,
+          "feedback": "Correcto. La historia nacional se vive a nivel local: la violencia de los años 50 transformó los barrios, las migraciones cambiaron la composición de las comunidades, y las políticas de vivienda dieron origen a nuevos sectores."
+        },
+        {
+          "letter": "D",
+          "text": "La historia nacional solo afecta a los presidentes y políticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia nacional afecta a todas las personas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de conectar la historia local con la nacional. La respuesta correcta muestra la relación entre ambos niveles. El error común es pensar que la historia nacional y local son independientes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v1",
+      "statement": "La Independencia de Colombia comenzó el 20 de julio de 1810 con un evento que ocurrió en:",
+      "context": "En clase de sociales en Bogotá, los estudiantes se preparan para la celebración del 20 de julio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Cartagena también se independizó en 1811, el grito inicial fue en Bogotá."
+        },
+        {
+          "letter": "B",
+          "text": "Santafé de Bogotá.",
+          "is_correct": true,
+          "feedback": "Correcto. El 20 de julio de 1810, en la Plaza Mayor de Santafé (hoy Bogotá), un incidente con un florero desencadenó la firma del Acta de Independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín no fue el lugar del grito de independencia; la capital del virreinato era Santafé."
+        },
+        {
+          "letter": "D",
+          "text": "Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cali tuvo su propio movimiento independentista, pero el primer grito fue en Santafé."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del evento fundacional de la independencia colombiana. La respuesta correcta ubica geográficamente el 20 de julio. El error común es asociar la independencia con otras ciudades importantes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v2",
+      "statement": "¿Cuál fue el objeto que provocó el famoso incidente del 20 de julio de 1810 en Santafé?",
+      "context": "En clase de sociales en un colegio de Tunja, la profesora narra cómo empezó la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una corona real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue una corona; el incidente fue por un asunto menos majestuoso."
+        },
+        {
+          "letter": "B",
+          "text": "Una bandera de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bandera de Colombia no existía en 1810, se creó después."
+        },
+        {
+          "letter": "C",
+          "text": "Un florero (el Florero de Llorente).",
+          "is_correct": true,
+          "feedback": "Correcto. José González Llorente se negó a prestar un florero para adornar la mesa de un banquete, lo que provocó una discusión que desencadenó el grito de independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Un sombrero de Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El florero de Llorente es el objeto histórico relacionado con el 20 de julio, no un sombrero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del hecho histórico conocido como \"El Florero de Llorente\". La respuesta correcta identifica el florero. El error común es modificar los detalles del hecho histórico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v3",
+      "statement": "Una de las causas más importantes de la independencia de Colombia fue:",
+      "context": "Los estudiantes de la I.E. San Simón de Ibagué investigan las causas de la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los colombianos querían hablar inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lengua no fue una causa de la independencia."
+        },
+        {
+          "letter": "B",
+          "text": "El descontento de los criollos porque no podían ocupar altos cargos del gobierno.",
+          "is_correct": true,
+          "feedback": "Correcto. Los criollos, aunque eran ricos y educados, estaban excluidos de los cargos más importantes, que eran ocupados por españoles peninsulares. Esto generó gran inconformidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el rey de España prohibió las fiestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque había restricciones, las fiestas no fueron la causa principal del descontento."
+        },
+        {
+          "letter": "D",
+          "text": "Que no había suficientes colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de colegios no fue una causa directa de la independencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la comprensión de las causas de la independencia. La respuesta correcta identifica el descontento criollo. El error común es no distinguir las causas reales de motivaciones superficiales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v4",
+      "statement": "Además de Simón Bolívar, ¿quién fue otro personaje muy importante en la independencia de Colombia?",
+      "context": "En la clase de sociales del colegio Sagrado Corazón de Pasto, el profesor explica quiénes fueron los próceres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pablo Escobar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pablo Escobar fue un narcotraficante del siglo XX, no un prócer de la independencia."
+        },
+        {
+          "letter": "B",
+          "text": "Francisco de Paula Santander.",
+          "is_correct": true,
+          "feedback": "Correcto. Santander fue un militar y político clave en la independencia, conocido como \"El Hombre de las Leyes\", y luego presidente de la Nueva Granada."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. García Márquez fue un escritor del siglo XX, no un prócer de la independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Carlos Vives.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carlos Vives es un cantante contemporáneo, no un personaje histórico de la independencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de los personajes de la independencia. La respuesta correcta identifica a Santander. El error común es confundir personajes históricos de diferentes épocas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v5",
+      "statement": "Después de varios años de lucha, la independencia definitiva de Colombia se logró con una batalla clave en 1819. ¿Cuál fue?",
+      "context": "En clase de sociales en Cúcuta, los estudiantes recorren los lugares históricos de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Batalla de Boyacá.",
+          "is_correct": true,
+          "feedback": "Correcto. La Batalla de Boyacá, el 7 de agosto de 1819, fue la victoria definitiva de las tropas independentistas sobre el ejército español, asegurando la independencia del territorio de la Nueva Granada."
+        },
+        {
+          "letter": "B",
+          "text": "Batalla de Cartagena de Indias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cartagena tuvo su independencia en 1811 pero fue retomada por los españoles; no fue la batalla definitiva."
+        },
+        {
+          "letter": "C",
+          "text": "Batalla de las Flores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Batalla de las Flores es un desfile en Barranquilla, no una batalla independentista."
+        },
+        {
+          "letter": "D",
+          "text": "Batalla de la Tablaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una batalla con ese nombre en la independencia colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se evalúa el conocimiento de la batalla definitiva de la independencia. ¡ATENCIÓN! La opción A dice \"Batalla de Boyacá\" y es la respuesta correcta, pero se marcó como correcta pero no se puso [x]. Necesito corregir esto. La Batalla de Boyacá el 7 de agosto de 1819 selló la independencia del territorio colombiano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v6",
+      "statement": "Simón Bolívar lideró la Campaña Libertadora desde Venezuela hasta la Nueva Granada. ¿Por dónde cruzó los Andes para llegar a Colombia?",
+      "context": "En el Museo de la Independencia en Bogotá, los estudiantes leen sobre la Campaña Libertadora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el desierto de la Tatacoa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar no cruzó por el desierto; tomó una ruta de páramos y montañas."
+        },
+        {
+          "letter": "B",
+          "text": "Por el Páramo de Pisba (Boyacá/Casanare).",
+          "is_correct": true,
+          "feedback": "Correcto. La travesía por el Páramo de Pisba fue una hazaña militar: el ejército cruzó a más de 3.000 metros de altura con frío extremo para sorprender a los españoles."
+        },
+        {
+          "letter": "C",
+          "text": "Por el río Amazonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Amazonía no fue la ruta de la Campaña Libertadora."
+        },
+        {
+          "letter": "D",
+          "text": "Por la Sierra Nevada de Santa Marta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar murió en Santa Marta, pero no cruzó los Andes por allí durante la campaña."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de la geografía de la Campaña Libertadora. La respuesta correcta identifica el páramo de Pisba. El error común es no ubicar correctamente la ruta de la campaña.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v7",
+      "statement": "Antes de la independencia de 1810, hubo una rebelión importante en 1781 en la que los campesinos y criollos se levantaron contra los impuestos españoles. ¿Cómo se llamó?",
+      "context": "En clase de sociales en Socorro, Santander, la profesora habla sobre la Revolución de los Comuneros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Rebelión de las Alcabalas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre correcto de la rebelión es otro."
+        },
+        {
+          "letter": "B",
+          "text": "La Revolución de los Comuneros.",
+          "is_correct": true,
+          "feedback": "Correcto. En 1781, liderados por José Antonio Galán, los comuneros se levantaron en el Socorro contra los altos impuestos y el monopolio del tabaco y el aguardiente."
+        },
+        {
+          "letter": "C",
+          "text": "La Guerra de los Mil Días.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Guerra de los Mil Días fue un conflicto civil de finales del siglo XIX, no una rebelión contra España."
+        },
+        {
+          "letter": "D",
+          "text": "El Bogotazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Bogotazo fue un levantamiento popular en 1948 tras el asesinato de Jorge Eliécer Gaitán."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de los antecedentes de la independencia. La respuesta correcta identifica la Revolución de los Comuneros. Los errores comunes confunden eventos históricos de diferentes períodos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v8",
+      "statement": "Después de la independencia, ¿quiénes fueron los que realmente tomaron el control del gobierno?",
+      "context": "En clase de sociales en la I.E. Nuestra Señora del Rosario de Girón, discuten si la independencia benefició a todos los colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas siguieron marginados del poder después de la independencia."
+        },
+        {
+          "letter": "B",
+          "text": "Los esclavos liberados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esclavitud no se abolió inmediatamente después de la independencia; continuó hasta 1851."
+        },
+        {
+          "letter": "C",
+          "text": "Los criollos ricos y educados.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la independencia eliminó el dominio español, el poder pasó a manos de los criollos de clase alta, no a la mayoría de la población (indígenas, mestizos, negros)."
+        },
+        {
+          "letter": "D",
+          "text": "Los españoles que se quedaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los españoles peninsulares perdieron el poder después de la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar críticamente los resultados de la independencia. La respuesta correcta reconoce que los criollos reemplazaron a los españoles en el poder. El error común es pensar que la independencia trajo igualdad para todos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v9",
+      "statement": "El 20 de julio se celebra en Colombia como el Día de la Independencia. ¿Qué representa principalmente esta fecha?",
+      "context": "En un foro escolar en Sincelejo, los estudiantes debaten sobre el significado del 20 de julio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cumpleaños de Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar nació el 24 de julio de 1783 en Caracas, no es el 20 de julio."
+        },
+        {
+          "letter": "B",
+          "text": "La firma de un tratado de paz con España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 20 de julio no fue la firma de un tratado; fue el inicio del proceso independentista."
+        },
+        {
+          "letter": "C",
+          "text": "El inicio del proceso que llevó a la creación de la república independiente de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. El 20 de julio de 1810 marcó el primer paso hacia la independencia, aunque esta solo se consolidó definitivamente 9 años después con la Batalla de Boyacá."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición de la esclavitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esclavitud se abolió en 1851, mucho después del 20 de julio de 1810."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de interpretar el significado de las fechas patrias. La respuesta correcta entiende el 20 de julio como inicio del proceso independentista. El error común es asociar la fecha con eventos que ocurrieron antes o después.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v10",
+      "statement": "Después de lograr la independencia de España, el territorio de la actual Colombia formó parte de una unión de países llamada:",
+      "context": "En la clase de sociales de Santa Marta, el profesor pregunta qué pasó después de la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Unión Europea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Unión Europea es europea y del siglo XX, no tiene relación con la independencia colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Las Provincias Unidas de la Nueva Granada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque existió, no fue la unión más importante que lideró Bolívar."
+        },
+        {
+          "letter": "C",
+          "text": "La Gran Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La Gran Colombia fue la república creada por Simón Bolívar en 1821 que unió los actuales Colombia, Venezuela, Ecuador y Panamá. Duró hasta 1830."
+        },
+        {
+          "letter": "D",
+          "text": "El Imperio Inca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Imperio Inca existió antes de la llegada de los españoles, no después de la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del período posterior a la independencia. La respuesta correcta identifica la Gran Colombia. El error común es confundirla con otras uniones políticas de la historia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v1",
+      "statement": "La principal diferencia entre un oficio y una profesión es:",
+      "context": "En la clase de sociales de la I.E. Normal Superior de Sincelejo, la profesora pregunta la diferencia entre oficio y profesión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oficio se paga mejor que la profesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago depende del campo, no de si es oficio o profesión."
+        },
+        {
+          "letter": "B",
+          "text": "El oficio se aprende en la práctica o en formación técnica corta, mientras que la profesión requiere estudios universitarios largos y un título profesional.",
+          "is_correct": true,
+          "feedback": "Correcto. Los oficios (como panadero, carpintero, electricista) se aprenden con la práctica o formación técnica; las profesiones (como médico, ingeniero, abogado) requieren un título universitario."
+        },
+        {
+          "letter": "C",
+          "text": "La profesión se aprende en un día y el oficio en años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés; las profesiones generalmente requieren más años de estudio."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, son lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay diferencias en la formación requerida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de la diferencia entre oficio y profesión. La respuesta correcta distingue por el tipo de formación. El error común es pensar que oficio y profesión son sinónimos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v2",
+      "statement": "Son ejemplos de oficios:",
+      "context": "En la clase de sociales de la I.E. Jorge Eliécer Gaitán de Villavicencio, el profesor pide ejemplos de oficios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Médico, ingeniero, abogado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos requieren título universitario, son profesiones."
+        },
+        {
+          "letter": "B",
+          "text": "Panadero, carpintero, electricista, albañil, mecánico.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos son oficios que se aprenden mediante la práctica, la formación técnica o el aprendizaje con un maestro."
+        },
+        {
+          "letter": "C",
+          "text": "Astronauta, neurocirujano, juez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son profesiones que requieren formación universitaria avanzada."
+        },
+        {
+          "letter": "D",
+          "text": "Presidente, ministro, senador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son cargos políticos de elección popular, no oficios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el reconocimiento de ejemplos de oficios. La respuesta correcta enumera oficios tradicionales. El error común es confundir oficios con profesiones o cargos políticos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v3",
+      "statement": "Los agricultores y campesinos cumplen una función esencial para la sociedad porque:",
+      "context": "En la clase de sociales de la I.E. Técnica de Fusagasugá, un estudiante pregunta por qué es importante el trabajo de los campesinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los únicos que pueden usar tractores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar tractores no es su función esencial."
+        },
+        {
+          "letter": "B",
+          "text": "Construyen edificios y carreteras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir edificios es labor de los constructores."
+        },
+        {
+          "letter": "C",
+          "text": "Producen los alimentos que llegan a nuestras mesas, como verduras, frutas, café, arroz y maíz.",
+          "is_correct": true,
+          "feedback": "Correcto. Los agricultores cultivan la tierra para producir los alimentos básicos que consume la población. Sin su trabajo, no tendríamos qué comer."
+        },
+        {
+          "letter": "D",
+          "text": "Venden ropa importada en las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender ropa importada es labor de comerciantes, no de campesinos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del rol de los agricultores en la sociedad. La respuesta correcta destaca la producción de alimentos. El error común es no valorar la importancia del trabajo agrícola.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v4",
+      "statement": "En Colombia, todos los trabajadores, sin importar si tienen un oficio o una profesión, tienen derecho a:",
+      "context": "En la clase de formación ciudadana de la I.E. La Salle de Sincelejo, los estudiantes hablan sobre los derechos de los trabajadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajar sin límite de horas todos los días.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jornada laboral tiene límites legales."
+        },
+        {
+          "letter": "B",
+          "text": "No pagar impuestos por su trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los trabajadores deben tributar según la ley."
+        },
+        {
+          "letter": "C",
+          "text": "Un salario justo, descanso semanal, vacaciones, seguridad social y un ambiente de trabajo seguro y digno.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución y el Código Sustantivo del Trabajo garantizan derechos laborales como salario mínimo, prestaciones sociales, vacaciones y afiliación a salud y pensión."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que les paguen en dólares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago debe hacerse en pesos colombianos, la moneda oficial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de los derechos laborales básicos. La respuesta correcta enumera derechos fundamentales del trabajador. El error común es desconocer los derechos que protegen a los trabajadores.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v5",
+      "statement": "Un profesor que trabaja en un colegio pertenece al sector:",
+      "context": "En la clase de sociales de la I.E. Ciudad de Armenia, la profesora pregunta a qué sector económico pertenecen diferentes trabajos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primario (extracción de recursos naturales).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sector primario incluye agricultura, minería, pesca."
+        },
+        {
+          "letter": "B",
+          "text": "Secundario (transformación de materias primas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sector secundario incluye industria y construcción."
+        },
+        {
+          "letter": "C",
+          "text": "Terciario (servicios).",
+          "is_correct": true,
+          "feedback": "Correcto. El sector terciario agrupa los servicios, como educación, salud, comercio, transporte y turismo. El profesor ofrece el servicio de educación."
+        },
+        {
+          "letter": "D",
+          "text": "Cuaternario (tecnología de punta).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la educación puede usar tecnología, el profesor pertenece al sector servicios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de clasificar las ocupaciones por sectores económicos. La respuesta correcta ubica al profesor en el sector servicios. El error común es confundir los sectores económicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v6",
+      "statement": "¿Por qué es importante valorar todos los oficios y profesiones por igual?",
+      "context": "En la clase de sociales de la I.E. Inem de Pasto, el profesor explica por qué todos los trabajos son importantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque algunos trabajos son más importantes que otros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los trabajos contribuyen al funcionamiento de la sociedad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los trabajos mejor pagados son los únicos necesarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del trabajo no depende del salario."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todos los trabajos contribuyen al bienestar de la comunidad, y una sociedad no funcionaría sin el trabajo de personas en diferentes oficios y profesiones.",
+          "is_correct": true,
+          "feedback": "Correcto. Todos los trabajos son interdependientes: el médico necesita al agricultor, el agricultor necesita al transportador, el transportador necesita al mecánico, etc."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los oficios manuales no requieren esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los trabajos requieren esfuerzo y dedicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la interdependencia de los trabajos. La respuesta correcta destaca la contribución de cada trabajo al conjunto social. El error común es jerarquizar los trabajos según el prestigio o el salario.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v7",
+      "statement": "En un barrio típico colombiano encontramos diferentes trabajos. Relaciona cada trabajo con su función:",
+      "context": "En la clase de sociales de la I.E. San Agustín de Neiva, los estudiantes hacen una lista de trabajos que hay en su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carpintero vende medicinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carpintero trabaja la madera, no vende medicinas."
+        },
+        {
+          "letter": "B",
+          "text": "El tendero construye casas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tendero atiende una tienda de barrio, no construye casas."
+        },
+        {
+          "letter": "C",
+          "text": "El panadero hornea pan, el barbero corta el pelo, el carnicero vende carne, el transportador lleva personas y productos.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada oficio en el barrio cumple una función específica que satisface necesidades de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los oficios hacen exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada oficio tiene una especialidad diferente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de relacionar oficios con sus funciones. La respuesta correcta asigna cada oficio a su labor específica. El error común es no conocer las funciones de los oficios cotidianos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v8",
+      "statement": "En Colombia, el desempleo es un problema que afecta a muchas personas. Una de las causas del desempleo puede ser:",
+      "context": "En un debate escolar en la I.E. Normal de Zipaquirá, los estudiantes discuten por qué hay personas que no tienen trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todas las personas tienen asegurado un trabajo desde que nacen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El empleo no está asegurado desde el nacimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que las personas no quieren trabajar porque son perezosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una generalización injusta; el desempleo tiene causas estructurales."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de oportunidades en ciertas regiones, la poca oferta de empleos formales, la falta de capacitación y los problemas económicos del país.",
+          "is_correct": true,
+          "feedback": "Correcto. El desempleo es un problema complejo causado por factores como la falta de inversión, la desigualdad regional, el desajuste entre la formación y las necesidades del mercado, y las crisis económicas."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay demasiados trabajos y pocas personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En realidad hay más personas buscando trabajo que ofertas disponibles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar las causas del desempleo. La respuesta correcta identifica factores estructurales. El error común es atribuir el desempleo a razones simplistas o prejuiciosas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v9",
+      "statement": "Estudiar y prepararse es importante para el futuro laboral porque:",
+      "context": "En la clase de sociales de la I.E. Técnica de Pamplona, la profesora pregunta por qué estudiar es importante para el futuro laboral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es necesario, cualquiera puede hacer cualquier trabajo sin preparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría de trabajos requieren algún tipo de preparación."
+        },
+        {
+          "letter": "B",
+          "text": "Estudiar garantiza que nunca vas a tener problemas en la vida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estudiar ayuda pero no elimina todos los problemas."
+        },
+        {
+          "letter": "C",
+          "text": "Permite adquirir conocimientos y habilidades que abren más oportunidades de trabajo, ayudan a desempeñarse mejor y a tener mayores ingresos.",
+          "is_correct": true,
+          "feedback": "Correcto. La educación amplía las posibilidades laborales y es clave para el desarrollo personal y profesional."
+        },
+        {
+          "letter": "D",
+          "text": "Estudiar hace que las personas sean más ricas inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estudiar no garantiza riqueza inmediata."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar la relación entre educación y trabajo. La respuesta correcta destaca la ampliación de oportunidades. El error común es sobreestimar o subestimar el valor de la educación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-v10",
+      "statement": "El trabajo de todas las personas, en sus distintos oficios y profesiones, contribuye al desarrollo del país porque:",
+      "context": "En la clase de formación ciudadana de la I.E. San Carlos de Medellín, la profesora pregunta cómo contribuyen los trabajadores al desarrollo del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los profesionales aportan al desarrollo del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los trabajadores contribuyen."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo del país depende únicamente del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo es un esfuerzo colectivo."
+        },
+        {
+          "letter": "C",
+          "text": "Cada trabajador, desde el agricultor hasta el médico, produce bienes y servicios que satisfacen necesidades, generan riqueza y mejoran la calidad de vida de la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo del país es el resultado del trabajo de todos: los campesinos producen alimentos, los maestros educan, los médicos cuidan la salud, los constructores edifican viviendas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los trabajos que generan dinero en el exterior sirven para el desarrollo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los trabajos, incluso los que no exportan, son importantes para la economía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de reflexionar sobre la contribución del trabajo al desarrollo nacional. La respuesta correcta reconoce la interdependencia de todos los trabajos. El error común es pensar que solo ciertos trabajos contribuyen al desarrollo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-oficios-profesiones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v1",
+      "statement": "La bandera de Colombia tiene tres colores dispuestos en franjas horizontales. ¿Cuál es el orden correcto de arriba hacia abajo?",
+      "context": "En la clase de sociales del colegio Francisco de Paula Santander de Bucaramanga, los estudiantes izaron la bandera en el acto cívico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo, azul y amarillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el orden de la bandera de Venezuela."
+        },
+        {
+          "letter": "B",
+          "text": "Amarillo, azul y rojo.",
+          "is_correct": true,
+          "feedback": "Correcto. La bandera de Colombia tiene el amarillo arriba (mitad del ancho), el azul en el medio y el rojo abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Azul, rojo y amarillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese no es el orden de ninguna bandera de la región."
+        },
+        {
+          "letter": "D",
+          "text": "Verde, blanco y rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los colores de la bandera de México, no de Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento básico de los colores de la bandera colombiana. La respuesta correcta describe la disposición correcta. Los errores comunes confunden la bandera de Colombia con la de otros países.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v2",
+      "statement": "El himno nacional de Colombia se llama oficialmente:",
+      "context": "En clase de sociales en la I.E. José Celestino Mutis de Medellín, la profesora pregunta por el significado del himno nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Himno de la Alegría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Himno de la Alegría es una composición de Beethoven de origen europeo."
+        },
+        {
+          "letter": "B",
+          "text": "Himno Nacional de la República de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. Su título oficial es \"Himno Nacional de la República de Colombia\", aunque coloquialmente se conoce como el himno nacional."
+        },
+        {
+          "letter": "C",
+          "text": "La Inconformidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un himno con ese nombre."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia Tierra Querida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el título de un pasillo instrumental de Lucho Bermúdez, no el himno nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del nombre oficial del himno nacional. La respuesta correcta identifica su denominación oficial. El error común es confundir el himno con otras canciones patrióticas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v3",
+      "statement": "En el escudo de Colombia aparece un cóndor posado sobre un escudo con tres franjas. La fruta que aparece en la franja inferior del escudo es:",
+      "context": "En clase de sociales en Bogotá, los estudiantes interpretan el significado de los elementos del escudo nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una manzana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La manzana no aparece en el escudo nacional colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Una fresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fresa no es parte del escudo colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Una granada.",
+          "is_correct": true,
+          "feedback": "Correcto. La granada aparece en la parte inferior del escudo, representando el nombre histórico \"Nueva Granada\" que tuvo el país."
+        },
+        {
+          "letter": "D",
+          "text": "Una naranja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La naranja no es el fruto que aparece en el escudo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de los elementos del escudo nacional. La respuesta correcta identifica la granada. El error común es no conocer los elementos específicos del escudo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v4",
+      "statement": "Según la historia oficial, el color amarillo de la bandera de Colombia representa:",
+      "context": "En la clase de sociales de Sincelejo, la profesora pregunta qué representan los colores de la bandera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sangre derramada por los héroes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sangre está representada por el color rojo, no por el amarillo."
+        },
+        {
+          "letter": "B",
+          "text": "El cielo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cielo está representado por el azul."
+        },
+        {
+          "letter": "C",
+          "text": "La riqueza del suelo colombiano, especialmente el oro.",
+          "is_correct": true,
+          "feedback": "Correcto. El amarillo simboliza las riquezas naturales del territorio, particularmente el oro que abundaba en la época de la independencia."
+        },
+        {
+          "letter": "D",
+          "text": "La paz de la nación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color amarillo no representa la paz en el simbolismo de la bandera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del simbolismo de los colores patrios. La respuesta correcta asocia el amarillo con la riqueza. Los errores comunes confunden el significado de los diferentes colores.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v5",
+      "statement": "Cuando se está entonando el himno nacional en un acto cívico, los estudiantes deben:",
+      "context": "En la izada de bandera del colegio, el personero estudiantil recuerda a todos cómo debe comportarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguir hablando con sus compañeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El himno merece respeto y atención, no se debe hablar mientras se entona."
+        },
+        {
+          "letter": "B",
+          "text": "Sentarse y poner música en el celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aparatos electrónicos deben guardarse durante la interpretación del himno."
+        },
+        {
+          "letter": "C",
+          "text": "Permanecer de pie, en posición de respeto, con la mano derecha en el pecho, en silencio.",
+          "is_correct": true,
+          "feedback": "Correcto. La ley establece que durante el himno nacional se debe estar de pie, en posición de atención y guardando respeto."
+        },
+        {
+          "letter": "D",
+          "text": "Salir corriendo al descanso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salir durante la interpretación del himno es una falta de respeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la aplicación de las normas de protocolo con los símbolos patrios. La respuesta correcta describe el comportamiento adecuado. El error común es no saber cómo comportarse en los actos cívicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v6",
+      "statement": "El himno nacional de Colombia fue escrito por un poeta y la música fue compuesta por un músico. ¿Quién escribió la letra del himno?",
+      "context": "En la clase de sociales, la profesora de la I.E. Técnica de Tunja muestra la letra del himno nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar fue el Libertador, pero no escribió la letra del himno nacional de Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Rafael Núñez.",
+          "is_correct": true,
+          "feedback": "Correcto. Rafael Núñez, presidente de Colombia en varias ocasiones, escribió la letra del himno nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. García Márquez fue un novelista del siglo XX, mucho después de la creación del himno."
+        },
+        {
+          "letter": "D",
+          "text": "José Asunción Silva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silva fue un poeta colombiano, pero no el autor de la letra del himno nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de los autores del himno nacional. La respuesta correcta identifica a Rafael Núñez. El error común es atribuir la autoría a personajes históricos famosos pero equivocados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v7",
+      "statement": "En la parte superior del escudo de Colombia aparece un ave. ¿Qué ave es y qué simboliza?",
+      "context": "En una exposición escolar en Popayán, los estudiantes muestran dibujos del escudo de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un colibrí — simboliza la velocidad de los colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colibrí no es el ave del escudo nacional."
+        },
+        {
+          "letter": "B",
+          "text": "El cóndor de los Andes — simboliza la libertad y el poder de la nación.",
+          "is_correct": true,
+          "feedback": "Correcto. El cóndor posado sobre el escudo representa la libertad, la soberanía y la grandeza de Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Una paloma — simboliza la paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paloma de la paz no es parte del escudo nacional de Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Un loro — simboliza la alegría del pueblo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El loro no aparece en el escudo nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del escudo nacional. La respuesta correcta identifica el cóndor y su simbolismo. El error común es no conocer los elementos del escudo o su significado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v8",
+      "statement": "¿Por qué los símbolos patrios (bandera, escudo e himno) merecen respeto por parte de todos los ciudadanos?",
+      "context": "En la clase de sociales de la I.E. Liceo Nacional de Barranquilla, el profesor pregunta por qué es importante respetar los símbolos patrios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son objetos valiosos que cuestan mucho dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su valor no es económico; es simbólico e histórico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque están pintados de colores bonitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La belleza estética no es la razón de su importancia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque representan la historia, la identidad y la unidad de la nación colombiana.",
+          "is_correct": true,
+          "feedback": "Correcto. Los símbolos patrios son importantes porque simbolizan la historia compartida, los valores de la nación y la unión de todos los colombianos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el presidente así lo ordenó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El respeto a los símbolos no se basa en órdenes presidenciales sino en lo que representan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del significado de los símbolos patrios. La respuesta correcta destaca su valor histórico y de identidad nacional. El error común es pensar que el respeto se basa en razones superficiales o autoritarias.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v9",
+      "statement": "La bandera de Colombia fue adoptada oficialmente en su diseño actual con los colores dispuestos como los conocemos desde:",
+      "context": "En una clase de sociales en Pereira, la profesora muestra la bandera de Colombia y pregunta cuándo fue adoptada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1492, año del descubrimiento de América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1492 no existía la bandera de Colombia; ese año llegaron los españoles."
+        },
+        {
+          "letter": "B",
+          "text": "1810, el año del grito de independencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la bandera tricolor se usó desde la independencia, su diseño se estandarizó después."
+        },
+        {
+          "letter": "C",
+          "text": "1819, después de la independencia, adoptando los colores de la bandera de la Gran Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La bandera tricolor amarillo, azul y rojo fue creada por Francisco de Miranda para la Gran Colombia y adoptada oficialmente después de 1819."
+        },
+        {
+          "letter": "D",
+          "text": "1900, a principios del siglo XX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para 1900 la bandera ya existía desde hacía casi un siglo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del origen histórico de la bandera. La respuesta correcta la sitúa en el contexto de la Gran Colombia. El error común es no ubicar temporalmente el origen de los símbolos patrios.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v10",
+      "statement": "Además de la bandera, el escudo y el himno nacional, Colombia tiene otros símbolos patrios declarados por ley. ¿Cuál de los siguientes es otro símbolo patrio de Colombia?",
+      "context": "En el colegio de la I.E. La Salle de Buga, hay un concurso de preguntas sobre los símbolos patrios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palma de cera del Quindío (árbol nacional).",
+          "is_correct": true,
+          "feedback": "Correcto. La palma de cera del Quindío es el árbol nacional de Colombia, declarado símbolo patrio por su majestuosidad y por estar en peligro de extinción."
+        },
+        {
+          "letter": "B",
+          "text": "El café colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un producto insignia de Colombia, el café no es un símbolo patrio oficial."
+        },
+        {
+          "letter": "C",
+          "text": "La selección de fútbol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección nacional no es un símbolo patrio oficial, aunque represente al país."
+        },
+        {
+          "letter": "D",
+          "text": "El sombrero vueltiao.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sombrero vueltiao es un símbolo cultural de la región Caribe, pero no es un símbolo patrio oficial de Colombia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se evalúa el conocimiento de los símbolos patrios adicionales. La respuesta correcta identifica el árbol nacional. Los errores comunes confunden símbolos culturales o populares con símbolos patrios oficiales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -48,7 +48,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v10",
@@ -435,7 +462,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v11",
@@ -478,7 +508,10 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-v12",
@@ -521,7 +554,562 @@
       "bundle_id": "CO-LEN-8-2026-W17-literatura-novohispana-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v1",
+      "statement": "¿Qué buscaban principalmente las vanguardias literarias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservar las tradiciones",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Ruptura y experimentación",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Imitar a los clásicos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Seguir reglas métricas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las vanguardias se caracterizan por su espíritu de ruptura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v2",
+      "statement": "El caligrama es propio de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Cubismo literario",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Romanticismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Naturalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cubismo introdujo el caligrama.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Análisis literario",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v3",
+      "statement": "Si un poema exalta la velocidad y las máquinas, pertenece al:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surrealismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Futurismo",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Dadaísmo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Creacionismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El futurismo idolatraba la tecnología.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v4",
+      "statement": "¿Qué caracteriza al Dadaísmo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "El absurdo y la rebeldía",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "La métrica perfecta",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "El sentimiento amoroso",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dadaísmo surge como reacción contra la lógica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v5",
+      "statement": "El surrealismo se basa en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La realidad objetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "El inconsciente y los sueños",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "La historia antigua",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "La ciencia ficción",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "André Breton lo definió mediante el automatismo psíquico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis literario",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v6",
+      "statement": "Un manifiesto vanguardista sirve para:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir permiso",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Proclamar principios estéticos",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Escribir cuentos",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Hacer rimas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los manifiestos sentaban las bases del movimiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v7",
+      "statement": "¿Cómo influyó la I Guerra Mundial en las vanguardias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trajo optimismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Generó desencanto y crisis",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "No influyó",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Fomentó el realismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crisis bélica impulsó la ruptura artística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v8",
+      "statement": "La técnica del 'cadáver exquisito' es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un plato típico",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Un juego de creación colectiva",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de rima",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Una forma de novela",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una técnica surrealista de creación en grupo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis literario",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v9",
+      "statement": "El ultraísmo español buscaba:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La anécdota sentimental",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "La primacía de la metáfora",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "El realismo social",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "La épica nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ultraísmo eliminó lo ornamental por la imagen.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v10",
+      "statement": "Vicente Huidobro lideró el:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surrealismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Creacionismo",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Futurismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Dadaísmo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Él propuso que el poeta es un 'pequeño Dios'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v11",
+      "statement": "¿Qué significa 'épater le bourgeois'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saludar al vecino",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "B",
+          "text": "Escandalizar al burgués",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "C",
+          "text": "Vender cuadros",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "Escribir cartas",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Era un lema vanguardista contra la moral tradicional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-v12",
+      "statement": "La vanguardia en Colombia se vio reflejada en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Nuevos",
+          "is_correct": true,
+          "feedback": "Correcto"
+        },
+        {
+          "letter": "B",
+          "text": "La Colonia",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "C",
+          "text": "El Modernismo",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        },
+        {
+          "letter": "D",
+          "text": "La Independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los Nuevos fueron renovadores en la literatura colombiana.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.3,
+      "bundle_id": "CO-LEN-8-2026-W17-vanguardias-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
     }
   ]
 }

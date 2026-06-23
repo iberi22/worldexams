@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-6-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.571Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v1",
+      "statement": "\"When I started high school, I ____ speak any English, but now I ____ communicate fluently.\"",
+      "context": "A student talking about their language skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't / could",
+          "is_correct": false,
+          "feedback": "Incorrect tenses."
+        },
+        {
+          "letter": "B",
+          "text": "couldn't / can",
+          "is_correct": true,
+          "feedback": "Correct. 'Couldn't' for past, 'can' for present."
+        },
+        {
+          "letter": "C",
+          "text": "won't / am able to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "couldn't / couldn't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Could/couldn't' is used for general ability in the past. 'Can/can't' for the present.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v2",
+      "statement": "\"The math problem was very complex, but eventually, I ____ solve it.\"",
+      "context": "Discussing a specific difficult task.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Could' is for general ability."
+        },
+        {
+          "letter": "B",
+          "text": "managed to",
+          "is_correct": true,
+          "feedback": "Correct. Specific success in a difficult situation."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "am able to",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Managed to' is used to describe achieving something difficult on a specific occasion.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v3",
+      "statement": "\"After I finish this course, I ____ apply for the scholarship.\"",
+      "context": "Looking forward to graduation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Possible, but B is standard for future."
+        },
+        {
+          "letter": "B",
+          "text": "will be able to",
+          "is_correct": true,
+          "feedback": "Correct. Standard way to express future ability."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was able to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Will be able to' is used to express future ability or possibility.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v4",
+      "statement": "\"The student ____ in completing the project despite the lack of resources.\"",
+      "context": "A formal letter about performance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "managed",
+          "is_correct": false,
+          "feedback": "Needs 'to complete'."
+        },
+        {
+          "letter": "B",
+          "text": "succeeded",
+          "is_correct": true,
+          "feedback": "Correct. 'Succeeded in' + gerund."
+        },
+        {
+          "letter": "C",
+          "text": "was able",
+          "is_correct": false,
+          "feedback": "Needs 'to complete'."
+        },
+        {
+          "letter": "D",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Different patterns for verbs of achievement (succeed in doing vs manage to do).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v5",
+      "statement": "\"To enter this university, you ____ show proof of your language proficiency.\"",
+      "context": "Discussing university requirements.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Too weak."
+        },
+        {
+          "letter": "B",
+          "text": "must be able to",
+          "is_correct": true,
+          "feedback": "Correct. Combines obligation and ability."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "succeeded in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combining modal verbs with 'be able to' to express a required ability.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v6",
+      "statement": "\"He ____ read scientific journals in three languages by the time he was twenty.\"",
+      "context": "A retrospective of a scientist's education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct. General ability in the past."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "managed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was able",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using 'could' for general cognitive abilities in the past.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v7",
+      "statement": "\"With the software, students ____ access a vast library of research from home.\"",
+      "context": "A debate on digital education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "are able to",
+          "is_correct": true,
+          "feedback": "Correct. Expresses a present fact or possibility."
+        },
+        {
+          "letter": "C",
+          "text": "were able to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "manage",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Be able to' is often more formal or precise when describing technical possibilities.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v8",
+      "statement": "\"Despite her dyslexia, she ____ to graduate with honors through persistence.\"",
+      "context": "A text about learning difficulties.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect for specific achievement."
+        },
+        {
+          "letter": "B",
+          "text": "was able",
+          "is_correct": true,
+          "feedback": "Correct. Followed by 'to graduate'."
+        },
+        {
+          "letter": "C",
+          "text": "succeeded",
+          "is_correct": false,
+          "feedback": "Needs 'in graduating'."
+        },
+        {
+          "letter": "D",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Testing the syntax of achievement verbs (was able/managed + to).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v9",
+      "statement": "\"I hope that by next year, I ____ my thesis and start my career.\"",
+      "context": "Future outlook for a student.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can finish",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been able to finish",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect form of 'be able to'."
+        },
+        {
+          "letter": "C",
+          "text": "will manage to finish",
+          "is_correct": false,
+          "feedback": "Possible, but B is more precise."
+        },
+        {
+          "letter": "D",
+          "text": "finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using 'be able to' in the Future Perfect tense.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v10",
+      "statement": "\"Rarely ____ students ____ such high proficiency without support.\"",
+      "context": "A formal report on reform.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / been able to reach",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Rarely'."
+        },
+        {
+          "letter": "B",
+          "text": "did / manage to reach",
+          "is_correct": false,
+          "feedback": "Possible, but A is more formal."
+        },
+        {
+          "letter": "C",
+          "text": "can / succeed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "were / being able",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with negative adverbials and 'be able to'.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v11",
+      "statement": "\"The researcher ____ in proving his hypothesis, which ____ have implications.\"",
+      "context": "Critique of an academic paper.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "managed / can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "succeeded / could",
+          "is_correct": true,
+          "feedback": "Correct. 'Succeeded in' + 'could'."
+        },
+        {
+          "letter": "C",
+          "text": "was able / will",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "could / might",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using success verbs and modals of possibility in an academic context.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-v12",
+      "statement": "\"Had the library been open later, I ____ to finish my research sooner.\"",
+      "context": "Speculating about a student's potential.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect for third conditional."
+        },
+        {
+          "letter": "B",
+          "text": "would have been able",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional form of 'be able to'."
+        },
+        {
+          "letter": "C",
+          "text": "was able",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will be able",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Combining 'be able to' with the Third Conditional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W06-academic-achievements-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

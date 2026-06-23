@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-11-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.736Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v1",
+      "statement": "Coffee ________ in many regions of Colombia.",
+      "context": "Identifying a present passive action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grows",
+          "is_correct": false,
+          "feedback": "Incorrect. Coffee doesn't grow itself; it is grown by people."
+        },
+        {
+          "letter": "B",
+          "text": "is grown",
+          "is_correct": true,
+          "feedback": "Correct! Present passive: am/is/are + past participle."
+        },
+        {
+          "letter": "C",
+          "text": "are grown",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Coffee\" is uncountable and takes \"is\"."
+        },
+        {
+          "letter": "D",
+          "text": "is grow",
+          "is_correct": false,
+          "feedback": "Incorrect. We need the past participle \"grown\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La voz pasiva se usa cuando el objeto (el café) es más importante que quien realiza la acción. La estructura es: verbo \"to be\" + participio pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v2",
+      "statement": "The beautiful cathedral in Zipaquirá ________ out of salt.",
+      "context": "Identifying a past passive action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "built",
+          "is_correct": false,
+          "feedback": "Incorrect. This is active voice past simple."
+        },
+        {
+          "letter": "B",
+          "text": "was build",
+          "is_correct": false,
+          "feedback": "Incorrect. We need the past participle \"built\"."
+        },
+        {
+          "letter": "C",
+          "text": "was built",
+          "is_correct": true,
+          "feedback": "Correct! Past passive: was/were + past participle."
+        },
+        {
+          "letter": "D",
+          "text": "were built",
+          "is_correct": false,
+          "feedback": "Incorrect. \"The cathedral\" is singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para la voz pasiva en pasado, usamos \"was\" o \"were\" seguido del participio pasado del verbo principal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v3",
+      "statement": "The novel *One Hundred Years of Solitude* was written ________ Gabriel García Márquez.",
+      "context": "Identifying the \"by\" agent.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "from",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "is_correct": true,
+          "feedback": "Correct! We use \"by\" to introduce the person who performed the action in passive voice."
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando queremos mencionar quién realizó la acción en una oración pasiva (el agente), usamos la preposición \"by\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v4",
+      "statement": "Every smartphone ________ of many different materials like glass, plastic, and metal.",
+      "context": "Passive voice in manufacturing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "are made",
+          "is_correct": false,
+          "feedback": "Incorrect. Smartphone is singular."
+        },
+        {
+          "letter": "C",
+          "text": "is made",
+          "is_correct": true,
+          "feedback": "Correct! Present passive for a general fact about an object."
+        },
+        {
+          "letter": "D",
+          "text": "made",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para procesos de fabricación o descripciones de objetos, el presente pasivo es muy común porque el fabricante no suele ser el foco de la oración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v5",
+      "statement": "**Active:** \"They clean the windows every morning.\"\n**Passive:** \"The windows ________ every morning.\"",
+      "context": "Changing active to passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is cleaned",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Windows\" is plural."
+        },
+        {
+          "letter": "B",
+          "text": "are cleaned",
+          "is_correct": true,
+          "feedback": "Correct! Plural subject in present passive."
+        },
+        {
+          "letter": "C",
+          "text": "were cleaned",
+          "is_correct": false,
+          "feedback": "Incorrect. The original sentence is in present."
+        },
+        {
+          "letter": "D",
+          "text": "clean",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al pasar de activa a pasiva, el objeto de la activa se convierte en el sujeto de la pasiva y el verbo \"to be\" debe concordar con este nuevo sujeto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v6",
+      "statement": "America ________ by Christopher Columbus in 1492, according to traditional history.",
+      "context": "Historical discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice would need a subject like \"Columbus discovered America\"."
+        },
+        {
+          "letter": "B",
+          "text": "was discovered",
+          "is_correct": true,
+          "feedback": "Correct! Past passive for a historical event."
+        },
+        {
+          "letter": "C",
+          "text": "is discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. It happened in the past."
+        },
+        {
+          "letter": "D",
+          "text": "were discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. America is singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los hechos históricos se narran frecuentemente en pasado pasivo cuando el foco está en el territorio o el evento, más que en la persona.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v7",
+      "statement": "These old documents ________ to the public yet.",
+      "context": "Negative passive voice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aren't show",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs past participle."
+        },
+        {
+          "letter": "B",
+          "text": "weren't shown",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Yet\" implies present perfect or present relevance."
+        },
+        {
+          "letter": "C",
+          "text": "are not shown",
+          "is_correct": true,
+          "feedback": "Correct! Present passive negative."
+        },
+        {
+          "letter": "D",
+          "text": "don't shown",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive needs \"to be\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma negativa de la voz pasiva se crea agregando \"not\" después del verbo \"to be\" (is not / are not / was not / were not).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v8",
+      "statement": "Why do we use the passive voice in this sentence?\n\"My bike **was stolen** last night!\"",
+      "context": "Understanding the use of passive voice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because the bike is the person doing the action.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Because we don't know who performed the action.",
+          "is_correct": true,
+          "feedback": "Correct! Passive voice is useful when the agent is unknown."
+        },
+        {
+          "letter": "C",
+          "text": "To make the sentence sound more polite.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Because it's a happy event.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uno de los usos principales de la voz pasiva es cuando desconocemos la identidad de quien realizó la acción o cuando esta identidad no es importante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v9",
+      "statement": "________ this movie ________ in Hollywood or in Europe?",
+      "context": "Questions in passive voice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did / filmed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active structure."
+        },
+        {
+          "letter": "B",
+          "text": "Was / filmed",
+          "is_correct": true,
+          "feedback": "Correct! Question structure: Was/Were + subject + past participle."
+        },
+        {
+          "letter": "C",
+          "text": "Were / film",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Is / filming",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hacer preguntas en voz pasiva, invertimos el orden del verbo \"to be\" y el sujeto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v10",
+      "statement": "Identify the error in this report:\n\"The results of the study **were analyzed (A)** by the team. Then, a final report **was wrote (B)** and **it was presented (C)** to the director **last Tuesday (D)**.\"",
+      "context": "Identifying errors in a complex passive text.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were analyzed",
+          "is_correct": false,
+          "feedback": "Incorrect. Plural subject, correct participle."
+        },
+        {
+          "letter": "B",
+          "text": "was wrote",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The past participle of \"write\" is \"written\", not \"wrote\"."
+        },
+        {
+          "letter": "C",
+          "text": "it was presented",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct passive form."
+        },
+        {
+          "letter": "D",
+          "text": "last Tuesday",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conocimiento de los participios pasados irregulares es fundamental para usar correctamente la voz pasiva en nivel B1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v11",
+      "statement": "Which sentence is more appropriate for a formal news report?",
+      "context": "Formal vs. Informal report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Someone robbed the local bank this morning.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too direct and focuses on an unknown \"someone\"."
+        },
+        {
+          "letter": "B",
+          "text": "The local bank was robbed early this morning; the suspects are still at large.",
+          "is_correct": true,
+          "feedback": "Correct! Passive voice provides a more formal and objective tone."
+        },
+        {
+          "letter": "C",
+          "text": "A bank was being broken by some guys.",
+          "is_correct": false,
+          "feedback": "Incorrect. Awkward grammar."
+        },
+        {
+          "letter": "D",
+          "text": "The bank has been gone by thieves.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En contextos formales (como noticias o ciencia), la voz pasiva se prefiere porque otorga objetividad y enfoca la atención en el evento mismo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-v12",
+      "statement": "\"Plastic pollution is a global crisis. Every year, millions of tons of plastic are thrown into the ocean. This waste is eaten by marine animals, causing death and disease.\"\nWhat is the most accurate summary?",
+      "context": "Selecting the best summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Human actions result in significant harm to marine life through plastic waste.",
+          "is_correct": true,
+          "feedback": "Correct! It captures the cause and effect described in the passive voice sentences."
+        },
+        {
+          "letter": "B",
+          "text": "Animals are throwing plastic to the humans.",
+          "is_correct": false,
+          "feedback": "Incorrect. Misinterprets the passive agent."
+        },
+        {
+          "letter": "C",
+          "text": "Plastic is a healthy food for many ocean species.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the text."
+        },
+        {
+          "letter": "D",
+          "text": "Scientists are not interested in the ocean anymore.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un texto en voz pasiva implica identificar correctamente quién recibe la acción y quién la realiza (aunque no sea el sujeto gramatical).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W11-passive-voice-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

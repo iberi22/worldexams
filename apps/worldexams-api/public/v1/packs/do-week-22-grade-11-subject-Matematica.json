@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Matematica",
+    "country": "do",
+    "pack_id": "do-week-22-grade-11-subject-matematica",
+    "generated_at": "2026-06-22T05:46:17.726Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v1",
+      "statement": "**Stem:** Simplifica: 5(7x + 49)",
+      "context": "Estudiantes en San Pedro de Macorís practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 35x + 245",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 35x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x + 245",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 35x - 245\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 5(7x + 49) = 5×7x + 5×49 = 35x + 245.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v2",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 7x + 1",
+      "context": "Estudiantes en Santiago practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v3",
+      "statement": "**Stem:** María compra 4 libros a $7.2 c/u y 7 cuadernos a $4.2 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Moca practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $56.2",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $28.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $28.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $99\r\n  \r\n\r\n**Explanation:** Total = 4×7 + 7×4 = 56.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v4",
+      "statement": "**Stem:** Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes en Higüey practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explanation:** 2(x + 7) = 20 → x + 7 = 10 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v5",
+      "statement": "**Stem:** Resuelve: 3x + 2 = 17",
+      "context": "Estudiantes en Puerto Plata practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explanation:** Resta 2 de ambos lados: 3x = 15. Divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v6",
+      "statement": "**Stem:** Simplifica: 2(8x + 10)",
+      "context": "Estudiantes en San Cristóbal practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 16x + 20",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 16x + 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10x + 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 16x - 20\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 2(8x + 10) = 2×8x + 2×10 = 16x + 20.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v7",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 4x + 1",
+      "context": "Estudiantes en Baní practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v8",
+      "statement": "**Stem:** María compra 4 libros a $11.3 c/u y 11 cuadernos a $4.3 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Moca practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $88.3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $44.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $44.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $210\r\n  \r\n\r\n**Explanation:** Total = 4×11 + 11×4 = 88.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v9",
+      "statement": "**Stem:** Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes en Higüey practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** 2(x + 8) = 22 → x + 8 = 11 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v10",
+      "statement": "**Stem:** Resuelve: 4x + 7 = 27",
+      "context": "Estudiantes en San Pedro de Macorís practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Resta 7 de ambos lados: 4x = 20. Divide por 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v11",
+      "statement": "**Stem:** Simplifica: 2(4x + 49)",
+      "context": "Estudiantes en Moca practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8x + 98",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6x + 98",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8x - 98\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 2(4x + 49) = 2×4x + 2×49 = 8x + 98.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v12",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 7x + 9",
+      "context": "Estudiantes en Puerto Plata practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v13",
+      "statement": "**Stem:** María compra 8 libros a $10.3 c/u y 10 cuadernos a $8.3 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Moca practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $160.3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $80.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $80.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $234\r\n  \r\n\r\n**Explanation:** Total = 8×10 + 10×8 = 160.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v14",
+      "statement": "**Stem:** Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes en Puerto Plata practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explanation:** 2(x + 4) = 14 → x + 4 = 7 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v15",
+      "statement": "**Stem:** Resuelve: 7x + 8 = 43",
+      "context": "Estudiantes en Bonao practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Resta 8 de ambos lados: 7x = 35. Divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v16",
+      "statement": "**Stem:** Simplifica: 2(1x + 43)",
+      "context": "Estudiantes en San Cristóbal practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2x + 86",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2x + 43",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 3x + 86",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2x - 86\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 2(1x + 43) = 2×1x + 2×43 = 2x + 86.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v17",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 4x + 3",
+      "context": "Estudiantes en La Vega practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v18",
+      "statement": "**Stem:** María compra 5 libros a $2.1 c/u y 2 cuadernos a $5.1 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Santiago practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $20.1",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $10.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $21\r\n  \r\n\r\n**Explanation:** Total = 5×2 + 2×5 = 20.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v19",
+      "statement": "**Stem:** Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes en Baní practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** 2(x + 3) = 12 → x + 3 = 6 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY-v20",
+      "statement": "**Stem:** Resuelve: 6x + 12 = 42",
+      "context": "Estudiantes en Puerto Plata practicando trigonometria basica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Resta 12 de ambos lados: 6x = 30. Divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W22-trigonometria-basica-001-MASTERY",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

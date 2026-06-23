@@ -1,504 +1,481 @@
 ---
-id: "HN-ING-11-2026-W32-reading-inference-001-MASTERY"
+id: "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle"
 country: "honduras"
 grado: 11
 asignatura: "ingles"
 tema: "reading-inference"
-semana: "W32"
-protocol_version: "5.2"
+periodo: "weekly"
+week: "W32"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
 bundle_size: 20
-alignment: "CNB Honduras – Bachillerato en Ciencias y Letras, Eje de Lengua Extranjera (Ingles)"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-rubric_baseline: "Reading Inference - Grado 11 - Ingles"
+alignment: "Curriculo de Ingles"
 license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
-
-# Bundle MASTERY: Reading Inference - Grado 11
-
-Este bundle contiene 20 preguntas sobre **reading inference** para grado 11,
-alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026.
+# MASTERY Bundle - Ingles: Reading Inference (W32)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+## Question 1 [D3]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Pregunta 1 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v1`
+### Enunciado
+What is the English word for: "A place where you live or stay on holiday."
+
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+---
+## Question 2 [D4]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D3]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place to which someone or something is going or being sent."
+
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+---
+## Question 4 [D4]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D5]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D6]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v6
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D5]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.92
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-In Ocotepeque, Laura visits the market. Tense:
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) Present Simple
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Ocotepeque, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Present Simple. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Present Simple. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Present Simple. -->
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Ocotepeque, Yoro, Honduras.
-
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
 ---
-
-## Pregunta 2 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v2`
-**Bloom:** Remember
-**Competencia:** Comprension Auditiva
-**Expected_Success:** 0.89
+## Question 8 [D6]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-'Carlos said: I live in Puerto Lempira'. Reported:
+What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) he lived in city
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: he lived in city. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: he lived in city. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: he lived in city. -->
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Valle, Honduras.
-
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
 ---
+## Question 9 [D5]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Pregunta 3 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v3`
+### Enunciado
+What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+
+### Opciones
+- [x] A) souvenir
+  <!-- feedback: Correct! 'souvenir' matches the definition. -->
+- [ ] B) gift
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) award
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) prize
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+---
+## Question 10 [D6]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A period of time by which something is late or postponed."
+
+### Opciones
+- [x] A) delay
+  <!-- feedback: Correct! 'delay' matches the definition. -->
+- [ ] B) cancellation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) arrival
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+---
+## Question 11 [D7]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+
+### Opciones
+- [x] A) check-in
+  <!-- feedback: Correct! 'check-in' matches the definition. -->
+- [ ] B) check-out
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) booking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+---
+## Question 12 [D8]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A period of rest or waiting before a further stage in a journey."
+
+### Opciones
+- [x] A) layover
+  <!-- feedback: Correct! 'layover' matches the definition. -->
+- [ ] B) stopover
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) transfer
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) transit
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+---
+## Question 13 [D7]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.86
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Word 'conservation' means:
+What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) Biodiversity
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Gracias, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Biodiversity. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Biodiversity. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Biodiversity. -->
+- [x] A) currency
+  <!-- feedback: Correct! 'currency' matches the definition. -->
+- [ ] B) coin
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) banknote
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) cash
+  <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Gracias, Santa Barbara, Honduras.
-
+The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
 ---
-
-## Pregunta 4 [D4]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v4`
-**Bloom:** Remember
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.83
-
-### Enunciado
-If Manuel studies hard, she passes:
-
-### Opciones
-- [x] A) she passes
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: she passes. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: she passes. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: she passes. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Valle, Honduras.
-
----
-
-## Pregunta 5 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v5`
-**Bloom:** Evaluate
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.8
-
-### Enunciado
-'Carlos cleans the room' - passive voice:
-
-### Opciones
-- [x] A) is cleaned
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Comayagua, El Paraiso, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: is cleaned. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: is cleaned. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: is cleaned. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Comayagua, El Paraiso, Honduras.
-
----
-
-## Pregunta 6 [D5]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v6`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.77
-
-### Enunciado
-You ____ bring passport (obligation):
-
-### Opciones
-- [x] A) Must
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Intibuca, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Must. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Must. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Must. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Intibuca, Cortes, Honduras.
-
----
-
-## Pregunta 7 [D1]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v7`
+## Question 14 [D8]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**Competencia:** Comprension Auditiva
-**Expected_Success:** 0.74
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Opposite of 'arrive':
+What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) Export
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Danli, Lempira, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Export. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Export. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Export. -->
+- [x] A) guidebook
+  <!-- feedback: Correct! 'guidebook' matches the definition. -->
+- [ ] B) map
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) dictionary
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) encyclopedia
+  <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Danli, Lempira, Honduras.
-
+The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
 ---
-
-## Pregunta 8 [D3]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v8`
-**Bloom:** Understand
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.71
-
-### Enunciado
-Reading: Tourism in Roatan grows. Main idea:
-
-### Opciones
-- [x] A) Tourism growth in Roatan
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de San Pedro Sula, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tourism growth in Roatan. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tourism growth in Roatan. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tourism growth in Roatan. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de San Pedro Sula, Yoro, Honduras.
-
----
-
-## Pregunta 9 [D1]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v9`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.68
-
-### Enunciado
-'However' shows contrast:
-
-### Opciones
-- [x] A) However
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de La Esperanza, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: However. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: However. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: However. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de La Esperanza, Intibuca, Honduras.
-
----
-
-## Pregunta 10 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v10`
-**Bloom:** Remember
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.65
-
-### Enunciado
-'Pedro has lived here ____ 2020':
-
-### Opciones
-- [x] A) Since
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Santa Barbara, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Since. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Since. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Since. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Santa Barbara, La Paz, Honduras.
-
----
-
-## Pregunta 11 [D3]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v11`
-**Bloom:** Evaluate
-**Competencia:** Comprension Auditiva
-**Expected_Success:** 0.62
-
-### Enunciado
-Baleadas are eaten in Honduras. This is:
-
-### Opciones
-- [x] A) Passive voice construction
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Intibuca, Atlantida, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Passive voice construction. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Passive voice construction. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Passive voice construction. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Intibuca, Atlantida, Honduras.
-
----
-
-## Pregunta 12 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v12`
-**Bloom:** Remember
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.59
-
-### Enunciado
-'Elena said: Will you help me?' Reported: he asked if I:
-
-### Opciones
-- [x] A) would help
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Danli, Copan, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: would help. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: would help. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: would help. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Danli, Copan, Honduras.
-
----
-
-## Pregunta 13 [D5]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v13`
-**Bloom:** Evaluate
-**Competencia:** Comprension Auditiva
-**Expected_Success:** 0.56
-
-### Enunciado
-Prefix 'pre-' in 'pre-Columbian' means:
-
-### Opciones
-- [x] A) Before
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de La Ceiba, El Paraiso, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Before. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Before. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Before. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de La Ceiba, El Paraiso, Honduras.
-
----
-
-## Pregunta 14 [D3]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v14`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.53
-
-### Enunciado
-'player' is noun from verb + -er:
-
-### Opciones
-- [x] A) teacher
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Juticalpa, Choluteca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: teacher. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: teacher. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: teacher. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Juticalpa, Choluteca, Honduras.
-
----
-
-## Pregunta 15 [D5]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v15`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.5
-
-### Enunciado
-Conditional: If it rains, the class ____ cancelled:
-
-### Opciones
-- [x] A) is
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Catacamas, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: is. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: is. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: is. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Catacamas, Colon, Honduras.
-
----
-
-## Pregunta 16 [D1]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v16`
-**Bloom:** Remember
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.47
-
-### Enunciado
-Comparative of 'good':
-
-### Opciones
-- [x] A) better
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Santa Rosa de Copan, Olancho, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: better. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: better. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: better. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Santa Rosa de Copan, Olancho, Honduras.
-
----
-
-## Pregunta 17 [D4]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v17`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.44
-
-### Enunciado
-'take off' is phrasal verb:
-
-### Opciones
-- [x] A) phrasal verb
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Tegucigalpa, Comayagua, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: phrasal verb. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: phrasal verb. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: phrasal verb. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Tegucigalpa, Comayagua, Honduras.
-
----
-
-## Pregunta 18 [D2]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v18`
-**Bloom:** Evaluate
-**Competencia:** Comprension Lectora
-**Expected_Success:** 0.41
-
-### Enunciado
-Connector showing cause: Puerto Lempira is popular ______ it has nice beaches:
-
-### Opciones
-- [x] A) because
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: because. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: because. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: because. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Puerto Lempira, Cortes, Honduras.
-
----
-
-## Pregunta 19 [D4]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v19`
-**Bloom:** Understand
-**Competencia:** Produccion Escrita
-**Expected_Success:** 0.38
-
-### Enunciado
-Future: Carlos ____ visit Ocotepeque next year:
-
-### Opciones
-- [x] A) will
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Ocotepeque, Comayagua, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: will. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: will. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: will. -->
-
-### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Ocotepeque, Comayagua, Honduras.
-
----
-
-## Pregunta 20 [D4]
-**ID:** `HN-ING-11-2026-W32-reading-inference-001-MASTERY-v20`
+## Question 15 [D7]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**Competencia:** Comprension Auditiva
-**Expected_Success:** 0.35
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Superlative of 'important':
+What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
 
 ### Opciones
-- [x] A) most important
-  <!-- feedback: Correcto. Explicacion pedagogica sobre reading inference en el contexto de Roatan, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: most important. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: most important. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: most important. -->
+- [x] A) backpack
+  <!-- feedback: Correct! 'backpack' matches the definition. -->
+- [ ] B) suitcase
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) briefcase
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) handbag
+  <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
-Explicacion pedagogica sobre reading inference en el contexto de Roatan, Valle, Honduras.
-
+The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
 ---
+## Question 16 [D8]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "In or to a foreign country, especially one across the sea."
+
+### Opciones
+- [x] A) overseas
+  <!-- feedback: Correct! 'overseas' matches the definition. -->
+- [ ] B) domestic
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) local
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) national
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+---
+## Question 17 [D9]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "An estimate of income and expenditure for a set period of time."
+
+### Opciones
+- [x] A) budget
+  <!-- feedback: Correct! 'budget' matches the definition. -->
+- [ ] B) expense
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) cost
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) price
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+---
+## Question 18 [D10]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+
+### Opciones
+- [x] A) insurance
+  <!-- feedback: Correct! 'insurance' matches the definition. -->
+- [ ] B) warranty
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) guarantee
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) policy
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+---
+## Question 19 [D9]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+
+### Opciones
+- [x] A) vaccination
+  <!-- feedback: Correct! 'vaccination' matches the definition. -->
+- [ ] B) medication
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) prescription
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) infection
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+---
+## Question 20 [D10]
+**ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+
+### Opciones
+- [x] A) jet lag
+  <!-- feedback: Correct! 'jet lag' matches the definition. -->
+- [ ] B) fatigue
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) exhaustion
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) insomnia
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

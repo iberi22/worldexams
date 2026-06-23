@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.646Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v1",
+      "statement": "What is this object: ✏️ ?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pencil",
+          "is_correct": true,
+          "feedback": "Correct! That is a pencil."
+        },
+        {
+          "letter": "B",
+          "text": "Pen",
+          "is_correct": false,
+          "feedback": "Incorrect. A pen uses ink."
+        },
+        {
+          "letter": "C",
+          "text": "Eraser",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Ruler",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lápiz se dice \"pencil\" en inglés. Es una de las palabras más importantes en el colegio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v2",
+      "statement": "You use it to read: 📖. What is it?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Notebook",
+          "is_correct": false,
+          "feedback": "Incorrect. A notebook is for writing."
+        },
+        {
+          "letter": "B",
+          "text": "Book",
+          "is_correct": true,
+          "feedback": "Correct! This is a book."
+        },
+        {
+          "letter": "C",
+          "text": "Desk",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Chair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un libro se dice \"book\" en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v3",
+      "statement": "What is **\"Borrador\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pencil",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Eraser",
+          "is_correct": true,
+          "feedback": "Correct! \"Eraser\" is borrador."
+        },
+        {
+          "letter": "C",
+          "text": "Sharpener",
+          "is_correct": false,
+          "feedback": "Incorrect. That is sacapuntas."
+        },
+        {
+          "letter": "D",
+          "text": "Case",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para borrar lo que escribimos con el lápiz usamos el \"eraser\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v4",
+      "statement": "Where do you sit in class?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desk",
+          "is_correct": false,
+          "feedback": "Incorrect. You sit AT the desk, but ON the chair."
+        },
+        {
+          "letter": "B",
+          "text": "Chair",
+          "is_correct": true,
+          "feedback": "Correct! You sit on a chair."
+        },
+        {
+          "letter": "C",
+          "text": "Board",
+          "is_correct": false,
+          "feedback": "Incorrect. The board is for writing."
+        },
+        {
+          "letter": "D",
+          "text": "Floor",
+          "is_correct": false,
+          "feedback": "Incorrect. Not usually in the classroom."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La silla se dice \"chair\" en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v5",
+      "statement": "What is the teacher writing on?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Window",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Door",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Board",
+          "is_correct": true,
+          "feedback": "Correct! The teacher writes on the board."
+        },
+        {
+          "letter": "D",
+          "text": "Table",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tablero o la pizarra se llama \"board\" en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v6",
+      "statement": "What is **\"Cuaderno\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Notebook",
+          "is_correct": true,
+          "feedback": "Correct! Notebook is cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "Book",
+          "is_correct": false,
+          "feedback": "Incorrect. Book is libro."
+        },
+        {
+          "letter": "C",
+          "text": "Paper",
+          "is_correct": false,
+          "feedback": "Incorrect. Paper is papel."
+        },
+        {
+          "letter": "D",
+          "text": "Pencil",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cuaderno, donde tomamos notas, se dice \"notebook\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v7",
+      "statement": "You use it to draw straight lines:",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Eraser",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Ruler",
+          "is_correct": true,
+          "feedback": "Correct! A ruler is used for lines."
+        },
+        {
+          "letter": "D",
+          "text": "Backpack",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla se dice \"ruler\". Sirve para medir y hacer líneas rectas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v8",
+      "statement": "What is **\"Maleta\"** or **\"Morral\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Case",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Box",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Backpack",
+          "is_correct": true,
+          "feedback": "Correct! Backpack is maleta."
+        },
+        {
+          "letter": "D",
+          "text": "Bag",
+          "is_correct": false,
+          "feedback": "Incorrect. Bag is more general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El morral o maleta escolar donde llevamos los útiles se dice \"backpack\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v9",
+      "statement": "Where do you put your pens and pencils?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Book",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pencil case",
+          "is_correct": true,
+          "feedback": "Correct! This is for pencils."
+        },
+        {
+          "letter": "C",
+          "text": "Chair",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Window",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cartuchera se dice \"pencil case\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v10",
+      "statement": "What is **\"Sacapuntas\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharpener",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Ruler",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Eraser",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pencil",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sacapuntas se dice \"sharpener\" (viene de 'sharp', que significa afilado).\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}
