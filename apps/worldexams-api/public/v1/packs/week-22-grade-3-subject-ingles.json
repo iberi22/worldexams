@@ -8,134 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v1",
-      "statement": "How do you say **\"Me gusta\"**?",
-      "context": "",
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "I like",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! I like is me gusta."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "I don't like",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. This is no me gusta."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "I am",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "I have",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para expresar que algo nos gusta, usamos \"I like\".\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v2",
-      "statement": "How do you say **\"No me gusta\"**?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I like",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "I don't like",
-          "is_correct": true,
-          "feedback": "Correct! I don't like is no me gusta."
-        },
-        {
-          "letter": "C",
-          "text": "I am not",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "I like not",
-          "is_correct": false,
-          "feedback": "Incorrect structure."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para expresar que algo no nos gusta, usamos \"I don't like\".\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v3",
-      "statement": "How do you ask someone: **\"¿Te gusta la pizza?\"**",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "You like pizza?",
-          "is_correct": false,
-          "feedback": "Incorrect structure for a question."
-        },
-        {
-          "letter": "B",
-          "text": "Do you like pizza?",
-          "is_correct": true,
-          "feedback": "Correct! This is the standard question form."
-        },
-        {
-          "letter": "C",
-          "text": "Like you pizza?",
-          "is_correct": false,
-          "feedback": "Incorrect structure."
-        },
-        {
-          "letter": "D",
-          "text": "Are you like pizza?",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para hacer preguntas sobre gustos, usamos \"Do you like...?\".\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
@@ -146,43 +54,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v4",
-      "statement": "If you like apples, you say:",
-      "context": "",
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "I like apples",
+          "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "I like apple",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect. We usually use plural for general likes."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "I don't like apples",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect. This says you don't like them."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "I am apple",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"I like apples\" significa \"Me gustan las manzanas\".\r\n\r\n---",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -192,43 +100,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2022-W22-likes-dislikes-001-MASTERY-v5",
-      "statement": "Answer the question: **\"Do you like milk?\"** (Respuesta afirmativa).",
-      "context": "",
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes, I do",
+          "text": "destination",
           "is_correct": true,
-          "feedback": "Correct! Standard short answer."
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Yes, I like",
+          "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect. In short answers we use the auxiliary \"do\"."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "No, I don't",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. This is negative."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Yes, I am",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Al responder una pregunta que empieza con \"Do\", usamos \"Yes, I do\" para sí, o \"No, I don't\" para no.\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -238,227 +146,227 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v6",
-      "statement": "Answer the question: **\"Do you like spiders?\"** 🕷️ (Respuesta negativa).",
-      "context": "",
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Yes, I do",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "No, I don't",
-          "is_correct": true,
-          "feedback": "Correct! Standard negative short answer."
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "No, I like not",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "I don't like",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect as a short answer to a Do-question."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"No, I don't\" es la forma corta y correcta de decir que algo no te gusta ante una pregunta.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v7",
-      "statement": "What does **\"I love chocolate\"** mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "No me gusta el chocolate",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Me gusta el chocolate",
-          "is_correct": false,
-          "feedback": "Incorrect. Love is stronger than like."
-        },
-        {
-          "letter": "C",
-          "text": "Me encanta el chocolate",
-          "is_correct": true,
-          "feedback": "Correct! Love means encantar or amar."
-        },
-        {
-          "letter": "D",
-          "text": "No quiero chocolate",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"I love\" es una forma más fuerte de \"I like\", significa \"me encanta\".\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v8",
-      "statement": "Complete: **\"I _______ like onions. They are yucky!\"**",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "do",
-          "is_correct": false,
-          "feedback": "Incorrect. Yucky means it's bad."
-        },
-        {
-          "letter": "B",
-          "text": "don't",
-          "is_correct": true,
-          "feedback": "Correct! If it's yucky, you don't like it."
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "not",
-          "is_correct": false,
-          "feedback": "Incorrect without \"do\"."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Yucky\" significa asqueroso o desagradable. Por eso usamos \"I don't like\".\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v9",
-      "statement": "Complete the dialogue:\r\n**Tom:** \"Do you like soccer?\"\r\n**Lila:** \"Yes, ______.\"",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I like",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "I do",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "C",
-          "text": "I am",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "you do",
-          "is_correct": false,
-          "feedback": "Incorrect. Lila is talking about herself."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta corta correcta es \"Yes, I do\".\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
-      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v10",
-      "statement": "Which sentence is correct?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I like bananas",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "B",
-          "text": "I like a bananas",
-          "is_correct": false,
-          "feedback": "Incorrect. No \"a\" before plural."
-        },
-        {
-          "letter": "C",
-          "text": "I don't likes bananas",
-          "is_correct": false,
-          "feedback": "Incorrect. No \"s\" in the verb with \"I\"."
-        },
-        {
-          "letter": "D",
-          "text": "I not like bananas",
-          "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"I like bananas\" es la estructura correcta. Con el sujeto \"I\", el verbo \"like\" no lleva \"s\".\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.45,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
