@@ -434,6 +434,9 @@ for (const file of allFiles) {
         periodo: period,
         protocol_version: String(protocol),
         cefr_level: data.cefr_level || null,
+        subject: packs[packKey].metadata.subject,
+        grade: packs[packKey].metadata.grade,
+        country: packs[packKey].metadata.country,
       });
     });
   } catch (e) {

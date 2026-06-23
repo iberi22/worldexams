@@ -21,6 +21,7 @@ export interface StoredPack {
   packId: string;
   grade: number;
   subject: string;
+  country: string;
   questions: APIQuestion[];
   downloadedAt: number;
   questionCount: number;
@@ -192,7 +193,12 @@ export function getQuestionPool(grade: number): APIQuestion[] {
       // Avoid duplicates (same question might be in multiple packs)
       if (!seenIds.has(question.id)) {
         seenIds.add(question.id);
-        allQuestions.push(question);
+        allQuestions.push({
+          ...question,
+          subject: question.subject || pack.subject,
+          grade: question.grade || pack.grade,
+          country: (question as any).country || pack.country
+        });
       }
     }
   }
@@ -224,7 +230,12 @@ export function getQuestionPoolBySubject(grade: number, subject: string): APIQue
     for (const question of pack.questions) {
       if (!seenIds.has(question.id)) {
         seenIds.add(question.id);
-        allQuestions.push(question);
+        allQuestions.push({
+          ...question,
+          subject: question.subject || pack.subject,
+          grade: question.grade || pack.grade,
+          country: (question as any).country || pack.country
+        });
       }
     }
   }
