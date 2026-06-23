@@ -83,7 +83,8 @@ if ($questionsMx.StatusCode -ge 400) {
 }
 
 if ($localBuildInfo) {
-  $buildInfoRemote = Invoke-Check -Url "$BaseUrl/build-info.json"
+  $cb = Get-Random
+  $buildInfoRemote = Invoke-Check -Url "$BaseUrl/build-info.json?cb=$cb"
   $buildInfoJson = $buildInfoRemote.Body | ConvertFrom-Json
   if ($buildInfoJson.commit -ne $localBuildInfo.commit) {
     throw "[verify] Live build-info commit ($($buildInfoJson.commit)) does not match local commit ($($localBuildInfo.commit))."
