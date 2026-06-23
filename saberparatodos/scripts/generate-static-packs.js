@@ -404,7 +404,12 @@ for (const file of allFiles) {
     const isEnglish = cleanSubject === "ingles" || cleanSubject === "english";
     const safeSubject = isEnglish
       ? "ingles"
-      : subject.replace(/[\/\s-]/g, "_").replace(/[^a-zA-Z0-9_]/g, "");
+      : subject
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .replace(/[\/\s-]/g, "_")
+          .replace(/[^a-z0-9_]/g, "");
 
     // Force English (ingles/english) to be global so all countries share the complete pool!
     if (isEnglish) {
