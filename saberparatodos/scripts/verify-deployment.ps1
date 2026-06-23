@@ -83,11 +83,35 @@ if ($questionsMx.StatusCode -ge 400) {
 }
 
 if ($localBuildInfo) {
-  $cb = Get-Random
-  $buildInfoRemote = Invoke-Check -Url "$BaseUrl/build-info.json?cb=$cb"
-  $buildInfoJson = $buildInfoRemote.Body | ConvertFrom-Json
-  if ($buildInfoJson.commit -ne $localBuildInfo.commit) {
-    throw "[verify] Live build-info commit ($($buildInfoJson.commit)) does not match local commit ($($localBuildInfo.commit))."
+  $maxAttempts = 6
+  $attempt = 1
+  $matched = $false
+  $lastRemoteCommit = "unknown"
+  
+  while ($attempt -le $maxAttempts -and -not $matched) {
+    if ($attempt -gt 1) {
+      Write-Host "[verify] Commit mismatch, waiting 5 seconds for Cloudflare propagation... (Attempt $attempt of $maxAttempts)" -ForegroundColor Yellow
+      Start-Sleep -Seconds 5
+    }
+    
+    $cb = Get-Random
+    try {
+      $buildInfoRemote = Invoke-Check -Url "$BaseUrl/build-info.json?cb=$cb"
+      $buildInfoJson = $buildInfoRemote.Body | ConvertFrom-Json
+      if ($buildInfoJson.commit -eq $localBuildInfo.commit) {
+        $matched = $true
+      } else {
+        $lastRemoteCommit = $buildInfoJson.commit
+      }
+    } catch {
+      Write-Host "[verify] Error checking build-info: $_" -ForegroundColor Red
+    }
+    
+    $attempt++
+  }
+  
+  if (-not $matched) {
+    throw "[verify] Live build-info commit ($lastRemoteCommit) does not match local commit ($($localBuildInfo.commit)) after $maxAttempts attempts."
   }
 }
 
