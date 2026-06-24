@@ -411,10 +411,7 @@ for (const file of allFiles) {
           .replace(/[\/\s-]/g, "_")
           .replace(/[^a-z0-9_]/g, "");
 
-    // Force English (ingles/english) to be global so all countries share the complete pool!
-    if (isEnglish) {
-      countryCode = "";
-    }
+    // Allow English to remain country-specific so contexts don't bleed.
 
     const prefix = countryCode ? `${countryCode}-` : "";
     const packKey = `${prefix}${packId}-grade-${grade}-subject-${safeSubject}`;
