@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v1",
-      "statement": "What do you do with your **notebooks** and **books** after school to practice your lessons? 📚",
-      "context": "After school task.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Go to sleep",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Do homework",
-          "is_correct": true,
-          "feedback": "Correct! Students do homework to practice."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Take a shower",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Have breakfast",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Do homework\" significa hacer la tarea. Es la actividad académica que se realiza después de la jornada escolar.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v2",
-      "statement": "What do you do in front of the **television**? 📺",
-      "context": "Relaxing at home.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Watch TV",
-          "is_correct": true,
-          "feedback": "Correct! We watch television for entertainment."
-        },
-        {
-          "letter": "B",
-          "text": "Play soccer",
-          "is_correct": false,
-          "feedback": "Incorrect. Soccer is played on a field."
-        },
-        {
-          "letter": "C",
-          "text": "Brush my teeth",
-          "is_correct": false,
-          "feedback": "Incorrect. This is done in the bathroom."
-        },
-        {
-          "letter": "D",
-          "text": "Wake up",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Watch TV\" significa ver televisión. Es una actividad de ocio común en la tarde.\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v3",
-      "statement": "What is the name of the meal you eat at **night** with your family? 🌃",
-      "context": "Night meal.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Breakfast",
-          "is_correct": false,
-          "feedback": "Incorrect. Breakfast is in the morning."
-        },
-        {
-          "letter": "B",
-          "text": "Lunch",
-          "is_correct": false,
-          "feedback": "Incorrect. Lunch is in the afternoon."
-        },
-        {
-          "letter": "C",
-          "text": "Dinner",
-          "is_correct": true,
-          "feedback": "Correct! Dinner is the last big meal of the day."
-        },
-        {
-          "letter": "D",
-          "text": "Snack",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Dinner\" significa cena. Es la comida que compartimos por la noche.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v4",
-      "statement": "When you are **tired** and it is **night**, you go to your bedroom to... 😴",
-      "context": "Ending the day.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Go to sleep",
-          "is_correct": true,
-          "feedback": "Correct! Sleeping is how we rest at night."
-        },
-        {
-          "letter": "B",
-          "text": "Go to school",
-          "is_correct": false,
-          "feedback": "Incorrect. School is in the morning."
-        },
-        {
-          "letter": "C",
-          "text": "Eat lunch",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Play with blocks",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"Go to sleep\" significa ir a dormir. Es la acción final de la rutina diaria.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v5",
-      "statement": "After dinner, you help your parents. You **wash** the... 🍽️",
-      "context": "Helping at home.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Bed",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Dishes",
-          "is_correct": true,
-          "feedback": "Correct! We wash the dishes (plates and cups) after eating."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Shoes",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Homework",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Wash the dishes\" significa lavar los platos. Es una forma común de ayudar en las tareas del hogar.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "arrival",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "journey",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "reservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v6",
-      "statement": "Complete the sequence:\n**I arrive home → I have a snack → I ________.**",
-      "context": "Routine sequence.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Wake up",
-          "is_correct": false,
-          "feedback": "Incorrect. This was the first thing in the morning."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Do my homework",
-          "is_correct": true,
-          "feedback": "Correct! Doing homework usually follows arriving home."
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Have breakfast",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Get dressed",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Entender el orden lógico de las actividades de la tarde. Después de llegar y merendar, lo habitual es hacer las tareas escolares.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v7",
-      "statement": "Before I go to sleep, I put on my **pajamas**. I... 🛌",
-      "context": "Evening hygiene.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Get ready for bed",
-          "is_correct": true,
-          "feedback": "Correct! Putting on pajamas is part of getting ready to sleep."
-        },
-        {
-          "letter": "B",
-          "text": "Get ready for school",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Go to the park",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Watch the sun rise",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Get ready for bed\" significa prepararse para ir a dormir. Incluye ponerse la pijama (pajamas) y otras rutinas nocturnas.\n\n---",
-      "difficulty": "8",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v8",
-      "statement": "Which of these is a **night** activity?",
-      "context": "Grouping actions by time of day.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Have breakfast",
-          "is_correct": false,
-          "feedback": "Incorrect. Morning."
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Go to school",
+          "text": "security",
           "is_correct": false,
-          "feedback": "Incorrect. Morning."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Listen to a bedtime story",
-          "is_correct": true,
-          "feedback": "Correct! Bedtime stories are for the night."
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Have lunch",
+          "text": "gate",
           "is_correct": false,
-          "feedback": "Incorrect. Afternoon."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Analizar el momento adecuado para cada actividad. Los cuentos antes de dormir (bedtime stories) son exclusivos de la noche.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v9",
-      "statement": "Which action is **NOT** part of an **afternoon** routine?",
-      "context": "Routine logic.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Play with friends",
-          "is_correct": false,
-          "feedback": "Incorrect. Common in the afternoon."
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Wake up",
-          "is_correct": true,
-          "feedback": "Correct! Waking up is for the morning, not the afternoon."
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Do homework",
+          "text": "receipt",
           "is_correct": false,
-          "feedback": "Incorrect. Common in the afternoon."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Have a snack",
+          "text": "brochure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Analizar las categorías temporales. Despertarse (Wake up) no pertenece a la rutina de la tarde.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v10",
-      "statement": "It is **night**. You are very tired. What is the **best** thing for your body to do?",
-      "context": "Choosing the most important routine for health.",
+      "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Watch three movies",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Go to sleep and rest",
-          "is_correct": true,
-          "feedback": "Correct! Sleep is essential for health and energy."
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Do more homework",
+          "text": "hiking",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Eat a very big cake",
+          "text": "camping",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Evaluar las necesidades del cuerpo. El descanso (sleep) es la actividad más importante durante la noche para recuperar energías.",
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v1",
-      "statement": "**Direct Speech:** \"I like coffee,\" said Maria.\n**Reported Speech:** Maria said that she ________ coffee.",
+      "statement": "**Direct Speech:** \"I like coffee,\" said Maria.\r\n**Reported Speech:** Maria said that she ________ coffee.",
       "context": "Reporting a present simple statement.",
       "options": [
         {
@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "En el estilo indirecto (Reported Speech), cuando el verbo introductorio está en pasado (said), los tiempos verbales dentro de la oración suelen \"retroceder\" un paso en el tiempo. El presente simple cambia a pasado simple.\n\n---",
+      "explanation": "En el estilo indirecto (Reported Speech), cuando el verbo introductorio está en pasado (said), los tiempos verbales dentro de la oración suelen \"retroceder\" un paso en el tiempo. El presente simple cambia a pasado simple.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -48,11 +48,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v2",
-      "statement": "**Direct Speech:** \"I am happy,\" said Juan.\n**Reported Speech:** Juan said that ________ was happy.",
+      "statement": "**Direct Speech:** \"I am happy,\" said Juan.\r\n**Reported Speech:** Juan said that ________ was happy.",
       "context": "Changing pronouns in reported speech.",
       "options": [
         {
@@ -81,7 +84,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Al reportar lo que alguien dijo, debemos ajustar los pronombres personales para que tengan sentido desde la perspectiva de quien está contando la historia.\n\n---",
+      "explanation": "Al reportar lo que alguien dijo, debemos ajustar los pronombres personales para que tengan sentido desde la perspectiva de quien está contando la historia.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -91,11 +94,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v3",
-      "statement": "**Direct Speech:** \"I will help you,\" promised the teacher.\n**Reported Speech:** The teacher promised that she ________ help me.",
+      "statement": "**Direct Speech:** \"I will help you,\" promised the teacher.\r\n**Reported Speech:** The teacher promised that she ________ help me.",
       "context": "Reporting \"will\" as \"would\".",
       "options": [
         {
@@ -124,7 +130,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Los verbos modales también cambian en el estilo indirecto. \"Will\" se convierte en \"would\" cuando reportamos una promesa o intención futura.\n\n---",
+      "explanation": "Los verbos modales también cambian en el estilo indirecto. \"Will\" se convierte en \"would\" cuando reportamos una promesa o intención futura.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -134,11 +140,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v4",
-      "statement": "**Direct Speech:** \"We are playing soccer,\" they said.\n**Reported Speech:** They said that they ________ soccer.",
+      "statement": "**Direct Speech:** \"We are playing soccer,\" they said.\r\n**Reported Speech:** They said that they ________ soccer.",
       "context": "Reporting present continuous.",
       "options": [
         {
@@ -167,7 +176,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "El presente continuo (am/is/are + -ing) cambia a pasado continuo (was/were + -ing) en el estilo indirecto.\n\n---",
+      "explanation": "El presente continuo (am/is/are + -ing) cambia a pasado continuo (was/were + -ing) en el estilo indirecto.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -177,7 +186,10 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v5",
@@ -210,7 +222,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "En inglés, \"tell\" requiere un objeto personal (contarle a alguien), mientras que \"say\" no lo requiere o usa la preposición \"to\" (decir algo a alguien).\n\n---",
+      "explanation": "En inglés, \"tell\" requiere un objeto personal (contarle a alguien), mientras que \"say\" no lo requiere o usa la preposición \"to\" (decir algo a alguien).\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -220,11 +232,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v6",
-      "statement": "Your friend Carlos says: \"I can't go to the party tonight.\"\nYou tell your mom: \"Carlos said that he ________ go to the party.\"",
+      "statement": "Your friend Carlos says: \"I can't go to the party tonight.\"\r\nYou tell your mom: \"Carlos said that he ________ go to the party.\"",
       "context": "Reporting a message from a friend.",
       "options": [
         {
@@ -253,7 +268,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "El verbo modal \"can\" cambia a \"could\" cuando reportamos lo que alguien dijo en el pasado.\n\n---",
+      "explanation": "El verbo modal \"can\" cambia a \"could\" cuando reportamos lo que alguien dijo en el pasado.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -263,11 +278,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v7",
-      "statement": "**Direct Speech:** \"I am busy **now**,\" said the principal.\n**Reported Speech:** The principal said that he was busy ________.",
+      "statement": "**Direct Speech:** \"I am busy **now**,\" said the principal.\r\n**Reported Speech:** The principal said that he was busy ________.",
       "context": "Time expressions in reported speech.",
       "options": [
         {
@@ -296,7 +314,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las expresiones de tiempo también se ajustan en el estilo indirecto para reflejar que el momento del habla original ya pasó. \"Now\" se convierte en \"then\".\n\n---",
+      "explanation": "Las expresiones de tiempo también se ajustan en el estilo indirecto para reflejar que el momento del habla original ya pasó. \"Now\" se convierte en \"then\".\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -306,11 +324,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v8",
-      "statement": "If someone says \"I will do it **tomorrow**\" on Tuesday, and you report it on Wednesday, you should say:\n\"He said he would do it ________.\"",
+      "statement": "If someone says \"I will do it **tomorrow**\" on Tuesday, and you report it on Wednesday, you should say:\r\n\"He said he would do it ________.\"",
       "context": "Reporting \"today\" and \"tomorrow\".",
       "options": [
         {
@@ -339,7 +360,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Reportar requiere lógica temporal. \"Tomorrow\" se convierte en \"the next day\" o, si el tiempo ha avanzado, en el día real que corresponde (en este caso, \"today\").\n\n---",
+      "explanation": "Reportar requiere lógica temporal. \"Tomorrow\" se convierte en \"the next day\" o, si el tiempo ha avanzado, en el día real que corresponde (en este caso, \"today\").\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -349,11 +370,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v9",
-      "statement": "**Direct Speech:** \"Put the books **here**,\" the librarian said.\n**Reported Speech:** The librarian told us to put the books ________.",
+      "statement": "**Direct Speech:** \"Put the books **here**,\" the librarian said.\r\n**Reported Speech:** The librarian told us to put the books ________.",
       "context": "Reporting \"here\" as \"there\".",
       "options": [
         {
@@ -382,7 +406,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Al igual que el tiempo, el lugar también cambia en el estilo indirecto. \"Here\" (aquí) se convierte en \"there\" (allá) porque el hablante ya no está en el mismo sitio exacto.\n\n---",
+      "explanation": "Al igual que el tiempo, el lugar también cambia en el estilo indirecto. \"Here\" (aquí) se convierte en \"there\" (allá) porque el hablante ya no está en el mismo sitio exacto.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -392,11 +416,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v10",
-      "statement": "Identify the error in this report:\n\"Last night, Luis **told (A)** that he **was (B)** going to visit us **the following (C)** week, but he **doesn't (D)** know the exact day.\"",
+      "statement": "Identify the error in this report:\r\n\"Last night, Luis **told (A)** that he **was (B)** going to visit us **the following (C)** week, but he **doesn't (D)** know the exact day.\"",
       "context": "Identifying errors in complex reporting.",
       "options": [
         {
@@ -425,7 +452,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El uso de \"say\" vs \"tell\" es un error común. \"Tell\" siempre necesita a quién se le dice la información (un objeto indirecto).\n\n---",
+      "explanation": "El uso de \"say\" vs \"tell\" es un error común. \"Tell\" siempre necesita a quién se le dice la información (un objeto indirecto).\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -435,11 +462,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v11",
-      "statement": "Which report is most accurate for a formal meeting summary?\n**Speaker:** \"We have to reduce our expenses immediately.\"",
+      "statement": "Which report is most accurate for a formal meeting summary?\r\n**Speaker:** \"We have to reduce our expenses immediately.\"",
       "context": "Determining the correct tone in reporting.",
       "options": [
         {
@@ -468,7 +498,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "En el nivel B1, se debe saber elegir verbos introductorios más precisos que \"say\" (como \"state\", \"claim\", \"explain\") para contextos formales.\n\n---",
+      "explanation": "En el nivel B1, se debe saber elegir verbos introductorios más precisos que \"say\" (como \"state\", \"claim\", \"explain\") para contextos formales.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -478,11 +508,14 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v12",
-      "statement": "**Contexto:** During a news broadcast, the scientist said: \"We have discovered a new species of frog in the Chocó region. This is a significant find for biodiversity.\"\nWhich is the best summary of her words?",
+      "statement": "**Contexto:** During a news broadcast, the scientist said: \"We have discovered a new species of frog in the Chocó region. This is a significant find for biodiversity.\"\r\nWhich is the best summary of her words?",
       "context": "Summarizing reported information.",
       "options": [
         {
@@ -521,7 +554,10 @@
       "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     }
   ]
 }
