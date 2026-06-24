@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v1",
-      "statement": "What season is very **hot** and people go to the beach? ☀️🏖️",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Winter",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Summer",
-          "is_correct": true,
-          "feedback": "Correct! Summer is verano."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Fall",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Spring",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El verano se dice \"summer\". Es la estación más calurosa.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v2",
-      "statement": "What season is very **cold** and has snow? ❄️☃️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Winter",
-          "is_correct": true,
-          "feedback": "Correct! Winter is invierno."
-        },
-        {
-          "letter": "B",
-          "text": "Summer",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Spring",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Fall",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El invierno se dice \"winter\". Es la estación más fría.\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v3",
-      "statement": "In what season do **flowers** grow? 🌸🌻",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Winter",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Fall",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Spring",
-          "is_correct": true,
-          "feedback": "Correct! Spring is primavera."
-        },
-        {
-          "letter": "D",
-          "text": "Summer",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La primavera se dice \"spring\". Es cuando las flores crecen.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v4",
-      "statement": "In what season do **leaves** (hojas) fall from trees? 🍂",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Spring",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Summer",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Fall",
-          "is_correct": true,
-          "feedback": "Correct! Fall (or Autumn) is otoño."
-        },
-        {
-          "letter": "D",
-          "text": "Winter",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El otoño se dice \"fall\" (en Estados Unidos) o \"autumn\" (en el Reino Unido). \"Fall\" también significa caer, como caen las hojas.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v5",
-      "statement": "How many seasons are there?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Two",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Three",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Four",
-          "is_correct": true,
-          "feedback": "Correct! Spring, Summer, Fall, Winter."
+          "text": "destination",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Twelve",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect. That's months."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Hay cuatro (four) estaciones en muchos países.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v6",
-      "statement": "What is another name for **\"Fall\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Autumn",
+          "text": "destination",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Spring",
+          "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Winter",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "August",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Autumn\" es la forma británica de decir otoño.\n\n---",
-      "difficulty": "6",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v7",
-      "statement": "In **Summer**, the weather is usually:",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Cold and snowy",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Hot and sunny",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Rainy and cool",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Windy and dark",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En verano el clima suele ser caluroso y soleado.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v8",
-      "statement": "In **Winter**, you wear:",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A swimsuit",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Shorts and T-shirt",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "A heavy jacket and gloves",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "D",
-          "text": "Sunglasses and sandals",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "En invierno necesitamos ropa abrigada como una chaqueta pesada y guantes.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v9",
-      "statement": "Choose the correct season: **\"It is very cold. I make a snowman.\"**",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Summer",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Spring",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Winter",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "D",
-          "text": "Fall",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Hacemos muñecos de nieve en invierno (winter).\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-v10",
-      "statement": "In Colombia, we don't have four seasons, but we have:",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Dry and rainy seasons",
+          "text": "passenger",
           "is_correct": true,
-          "feedback": "Correct! Estaciones seca y lluviosa."
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Only winter",
+          "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Only summer",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Snow every day",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En Colombia, por estar en el trópico, tenemos temporada seca (dry season) y temporada de lluvias (rainy season).\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "6",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

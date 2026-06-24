@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v1",
-      "statement": "What is the number **\"ONE\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "1",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! \"One\" is the number 1."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "10",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. 10 is \"ten\"."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "11",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. 11 is \"eleven\"."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "2",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. 2 is \"two\"."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El número 1 se escribe \"one\" en inglés. Es el primer número cardinal.\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v2",
-      "statement": "How do you say **\"Cinco\"** in English?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Four",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Four\" is 4."
-        },
-        {
-          "letter": "B",
-          "text": "Five",
-          "is_correct": true,
-          "feedback": "Correct! \"Five\" is 5."
-        },
-        {
-          "letter": "C",
-          "text": "Six",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Six\" is 6."
-        },
-        {
-          "letter": "D",
-          "text": "Fifty",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Fifty\" is 50."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El número 5 se dice y se escribe \"five\". ¡No lo confundas con fifty!\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v3",
-      "statement": "Count the stars: ⭐ ⭐ ⭐ ⭐ ⭐ ⭐\nHow many are there?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Five",
-          "is_correct": false,
-          "feedback": "Incorrect. There is one more."
-        },
-        {
-          "letter": "B",
-          "text": "Six",
-          "is_correct": true,
-          "feedback": "Correct! There are 6 stars."
-        },
-        {
-          "letter": "C",
-          "text": "Seven",
-          "is_correct": false,
-          "feedback": "Incorrect. There are fewer than 7."
-        },
-        {
-          "letter": "D",
-          "text": "Eight",
-          "is_correct": false,
-          "feedback": "Incorrect. There are fewer than 8."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Al contar las estrellas una a una, llegamos al número 6, que en inglés es \"six\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v4",
-      "statement": "What number comes after **nine**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Eight",
-          "is_correct": false,
-          "feedback": "Incorrect. Eight comes before nine."
-        },
-        {
-          "letter": "B",
-          "text": "Ten",
-          "is_correct": true,
-          "feedback": "Correct! Ten follows nine."
-        },
-        {
-          "letter": "C",
-          "text": "Eleven",
-          "is_correct": false,
-          "feedback": "Incorrect. Eleven follows ten."
-        },
-        {
-          "letter": "D",
-          "text": "Twelve",
-          "is_correct": false,
-          "feedback": "Incorrect. Twelve follows eleven."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En la secuencia numérica: 8 (eight), 9 (nine), **10 (ten)**. El número 10 es \"ten\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v5",
-      "statement": "What is **\"Once\"** (11) in English?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "One-one",
-          "is_correct": false,
-          "feedback": "Incorrect. We don't say numbers digit by digit like this."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Ten-one",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect. This is not a word."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Eleven",
-          "is_correct": true,
-          "feedback": "Correct! 11 is \"eleven\"."
+          "text": "destination",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Twelve",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect. 12 is \"twelve\"."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Los números 11 y 12 son especiales en inglés porque no siguen la regla de terminar en \"-teen\". 11 es \"eleven\".\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v6",
-      "statement": "Which number is **\"FIFTEEN\"**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "5",
-          "is_correct": false,
-          "feedback": "Incorrect. 5 is \"five\"."
-        },
-        {
-          "letter": "B",
-          "text": "50",
-          "is_correct": false,
-          "feedback": "Incorrect. 50 is \"fifty\"."
-        },
-        {
-          "letter": "C",
-          "text": "15",
-          "is_correct": true,
-          "feedback": "Correct! 15 is \"fifteen\"."
-        },
-        {
-          "letter": "D",
-          "text": "12",
-          "is_correct": false,
-          "feedback": "Incorrect. 12 is \"twelve\"."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Para los números del 13 al 19, solemos usar la terminación \"-teen\". En el caso del 5, cambia un poco a \"fifteen\" (15).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v7",
-      "statement": "What is **7 + 3** in English?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Seven",
-          "is_correct": false,
-          "feedback": "Incorrect. 7+3 is more than 7."
-        },
-        {
-          "letter": "B",
-          "text": "Nine",
-          "is_correct": false,
-          "feedback": "Incorrect. 7+3 is one more."
-        },
-        {
-          "letter": "C",
-          "text": "Ten",
-          "is_correct": true,
-          "feedback": "Correct! 7 + 3 = 10 (ten)."
-        },
-        {
-          "letter": "D",
-          "text": "Eleven",
-          "is_correct": false,
-          "feedback": "Incorrect. 7+3 is not 11."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Al sumar siete (seven) más tres (three), obtenemos diez (ten). Es una suma básica expresada en inglés.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v8",
-      "statement": "How many fingers do you have on **two** hands?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Five",
-          "is_correct": false,
-          "feedback": "Incorrect. That's only one hand."
-        },
-        {
-          "letter": "B",
-          "text": "Ten",
-          "is_correct": true,
-          "feedback": "Correct! 5 + 5 = 10."
-        },
-        {
-          "letter": "C",
-          "text": "Twenty",
-          "is_correct": false,
-          "feedback": "Incorrect. Unless you count toes too! But hands only have 10."
-        },
-        {
-          "letter": "D",
-          "text": "Two",
-          "is_correct": false,
-          "feedback": "Incorrect. You have two hands, but more fingers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Cada mano tiene 5 dedos (fingers). Dos manos tienen 10 dedos, que en inglés se dice \"ten\".\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v9",
-      "statement": "Choose the correct spelling for **20**:",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Twente",
-          "is_correct": false,
-          "feedback": "Incorrect spelling."
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Twenty",
-          "is_correct": true,
-          "feedback": "Correct! 20 is \"twenty\"."
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Twenti",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. Ends with \"y\", not \"i\"."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Tuenti",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect. This is how it sounds, but not how it is written."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El número 20 se escribe \"twenty\". Es importante recordar que termina en \"-y\".\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "reservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v10",
-      "statement": "What is **10 + 8**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Seventeen",
-          "is_correct": false,
-          "feedback": "Incorrect. 10 + 8 = 18."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Eighteen",
-          "is_correct": true,
-          "feedback": "Correct! 18 is \"eighteen\"."
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Nineteen",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect. 10 + 9 = 19."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Eighty",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect. 80 is \"eighty\"."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Diez (ten) más ocho (eight) es dieciocho. En inglés, combinamos \"eight\" con \"-teen\" para formar \"eighteen\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v1",
-      "statement": "Which animal is the **\"King of the Jungle\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Lion",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! The lion is the king."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Monkey",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Snake",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Giraffe",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El león se dice \"lion\". Es conocido como el rey de la selva.\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v2",
-      "statement": "What animal is very big and has a **trunk** (trompa)?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Lion",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Elephant",
-          "is_correct": true,
-          "feedback": "Correct! Elephants have trunks."
-        },
-        {
-          "letter": "C",
-          "text": "Tiger",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Giraffe",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El elefante se dice \"elephant\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v3",
-      "statement": "What animal has a very **long neck**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Elephant",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Lion",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Giraffe",
-          "is_correct": true,
-          "feedback": "Correct! Giraffes have long necks."
-        },
-        {
-          "letter": "D",
-          "text": "Monkey",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La jirafa se dice \"giraffe\". Usan su cuello largo para comer hojas de árboles altos.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v4",
-      "statement": "What animal likes **bananas** and climbs trees?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Tiger",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Monkey",
-          "is_correct": true,
-          "feedback": "Correct! Monkeys love bananas."
-        },
-        {
-          "letter": "C",
-          "text": "Snake",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Elephant",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El mono se dice \"monkey\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v5",
-      "statement": "What animal has **stripes** (rayas) and is orange?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Lion",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Tiger",
-          "is_correct": true,
-          "feedback": "Correct! Tigers have stripes."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Zebra",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect. Zebras are black and white."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Bear",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El tigre se dice \"tiger\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v6",
-      "statement": "What animal is black and white with **stripes**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Zebra",
-          "is_correct": true,
-          "feedback": "Correct! Zebras are striped."
-        },
-        {
-          "letter": "B",
-          "text": "Horse",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Tiger",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Lion",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La cebra se dice \"zebra\".\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v7",
-      "statement": "Which animal lives in the **water** and is very big?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Lion",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Whale",
-          "is_correct": true,
-          "feedback": "Correct! Whales live in the ocean."
-        },
-        {
-          "letter": "C",
-          "text": "Giraffe",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Monkey",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La ballena se dice \"whale\". Vive en el mar.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v8",
-      "statement": "Which animal has **no legs** (no tiene piernas)?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Monkey",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Tiger",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Snake",
-          "is_correct": true,
-          "feedback": "Correct! Snakes crawl."
-        },
-        {
-          "letter": "D",
-          "text": "Bear",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La serpiente se dice \"snake\".\n\n---",
-      "difficulty": "6",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v9",
-      "statement": "What is **\"Oso\"** in English?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Beer",
-          "is_correct": false,
-          "feedback": "Incorrect. That is cerveza!"
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Bear",
-          "is_correct": true,
-          "feedback": "Correct! Bear is oso."
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Bird",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Bee",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El oso se dice \"bear\". ¡No confundir con la bebida \"beer\"!\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-v10",
-      "statement": "Where do wild animals live?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "In a house",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "In the jungle or forest",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "In a school",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "In a bathroom",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Los animales salvajes (wild animals) viven en la naturaleza, como la selva (jungle) o el bosque (forest).\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

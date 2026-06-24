@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v1",
-      "statement": "When the **sun** is out, the weather is: ☀️",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Sunny",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! Sun -> Sunny."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Rainy",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Snowy",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Cloudy",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Soleado se dice \"sunny\". Viene de la palabra \"sun\" (sol).\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v2",
-      "statement": "When **water** falls from the sky, it is: 🌧️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sunny",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Rainy",
-          "is_correct": true,
-          "feedback": "Correct! Rain -> Rainy."
-        },
-        {
-          "letter": "C",
-          "text": "Windy",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Hot",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Lluvioso se dice \"rainy\". Viene de \"rain\" (lluvia).\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v3",
-      "statement": "When there are many **clouds** in the sky: ☁️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sunny",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Rainy",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Cloudy",
-          "is_correct": true,
-          "feedback": "Correct! Cloud -> Cloudy."
-        },
-        {
-          "letter": "D",
-          "text": "Clear",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Nublado se dice \"cloudy\". Viene de \"cloud\" (nube).\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v4",
-      "statement": "What is **\"Frío\"** in English? ❄️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hot",
-          "is_correct": false,
-          "feedback": "Incorrect. Hot is calor."
-        },
-        {
-          "letter": "B",
-          "text": "Cold",
-          "is_correct": true,
-          "feedback": "Correct! Cold is frío."
-        },
-        {
-          "letter": "C",
-          "text": "Warm",
-          "is_correct": false,
-          "feedback": "Incorrect. Warm is tibio/cálido."
-        },
-        {
-          "letter": "D",
-          "text": "Cool",
-          "is_correct": false,
-          "feedback": "Incorrect. Cool is fresco."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El frío se dice \"cold\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v5",
-      "statement": "What is **\"Calor\"** in English? 🌡️",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Hot",
+          "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct! Hot is calor/caliente."
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Cold",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Rainy",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Snowy",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El calor se dice \"hot\".\n\n---",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v6",
-      "statement": "What is **\"Nieve\"** or **\"Nevando\"**? ❄️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Rainy",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Snowy",
-          "is_correct": true,
-          "feedback": "Correct! Snow -> Snowy."
-        },
-        {
-          "letter": "C",
-          "text": "Sunny",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Cloudy",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Nevado o cuando nieva se dice \"snowy\". Viene de \"snow\" (nieve).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v7",
-      "statement": "What do you use when it is **rainy**? ☂️",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sunglasses",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "An umbrella",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "C",
-          "text": "A hat",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Sunscreen",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Usamos una sombrilla (umbrella) cuando está lluvioso (rainy).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v8",
-      "statement": "When there is a lot of **wind**: 💨",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Windy",
+          "text": "destination",
           "is_correct": true,
-          "feedback": "Correct! Wind -> Windy."
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Sunny",
+          "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Rainy",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Hot",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Cuando hace mucho viento, decimos que está \"windy\".\n\n---",
-      "difficulty": "6",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v9",
-      "statement": "Complete: **\"It is _______ today. I want an ice cream!\"** 🍦",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "cold",
-          "is_correct": false,
-          "feedback": "Incorrect. You want ice cream when it's hot."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "hot",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "snowy",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "rainy",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Queremos helado cuando hace calor (hot).\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-v10",
-      "statement": "How do you ask about the weather?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "How are you?",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "How is the weather?",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "What is your name?",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Where are you?",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La pregunta para saber cómo está el clima es \"¿How is the weather?\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W26-weather-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }
