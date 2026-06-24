@@ -169,8 +169,36 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
       const apiResponse = await fetch(`${apiBaseUrl}/questions?${query.toString()}`);
       if (apiResponse.ok) {
         const payload = await apiResponse.json();
-        const rawQuestions = Array.isArray(payload?.questions) ? payload.questions : [];
+        let rawQuestions = Array.isArray(payload?.questions) ? payload.questions : [];
         if (rawQuestions.length > 0) {
+          // 🆕 Enrich API questions with context from static packs if needed
+          const needsEnrichment = rawQuestions.some((q: any) => !q.context);
+          if (needsEnrichment) {
+            try {
+              const staticResponse = await tryStaticPackCandidates();
+              if (staticResponse) {
+                const staticPackData = await staticResponse.json();
+                if (Array.isArray(staticPackData?.questions)) {
+                  const contextMap = new Map<string, string>();
+                  staticPackData.questions.forEach((sq: any) => {
+                    if (sq.id && sq.context) {
+                      contextMap.set(sq.id, sq.context);
+                    }
+                  });
+
+                  rawQuestions = rawQuestions.map((q: any) => {
+                    if (!q.context && contextMap.has(q.id)) {
+                      return { ...q, context: contextMap.get(q.id) };
+                    }
+                    return q;
+                  });
+                }
+              }
+            } catch (enrichError) {
+              console.warn('[API] Context enrichment failed:', enrichError);
+            }
+          }
+
           if (normalizedSubject) {
             savePack({
               packId: String(payload?.meta?.pack_id || payload?.meta?.packId || `api-week-${currentWeek}`),
@@ -190,15 +218,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
             return transformQuestion(q, grade, qSubject);
           });
 
-          // 🆕 Check if API returned questions WITHOUT context.
-          // If so, fall back to static packs that may have context data.
-          const hasAnyContext = appQuestions.some((aq: AppQuestion) => (aq.context?.length ?? 0) > 0);
-          if (!hasAnyContext && rawQuestions.length > 0) {
-            console.warn(`[API] Returned ${rawQuestions.length} questions without context — trying static packs as fallback`);
-            // Don't return here — fall through to tryStaticPackCandidates()
-          } else {
-            return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
-          }
+          return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
         } else if (payload?.questions && payload.questions.length === 0) {
           console.warn(`[API] Returned 0 questions — trying static packs`);
         }
