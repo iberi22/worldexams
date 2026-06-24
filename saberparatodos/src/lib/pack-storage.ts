@@ -37,7 +37,7 @@ interface PackStorageData {
   version: number;
 }
 
-const STORAGE_VERSION = 1;
+const STORAGE_VERSION = 2;
 
 /**
  * Get default empty storage
