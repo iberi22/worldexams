@@ -8,434 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v1",
-      "statement": "What color is a **tomato**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Blue",
-          "is_correct": false,
-          "feedback": "Incorrect. Blue is the color of the sky."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Green",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. Green is the color of grass."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Red",
-          "is_correct": true,
-          "feedback": "Correct! Tomatoes are red."
+          "text": "entertainment",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Yellow",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. Bananas are yellow."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El color rojo en inglés se dice \"red\". Los tomates maduros son rojos.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v2",
-      "statement": "What color is the **sky** on a sunny day?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Blue",
-          "is_correct": true,
-          "feedback": "Correct! The sky is blue."
-        },
-        {
-          "letter": "B",
-          "text": "Black",
-          "is_correct": false,
-          "feedback": "Incorrect. The sky is black at night."
-        },
-        {
-          "letter": "C",
-          "text": "Pink",
-          "is_correct": false,
-          "feedback": "Incorrect. Pink is a different color."
-        },
-        {
-          "letter": "D",
-          "text": "Orange",
-          "is_correct": false,
-          "feedback": "Incorrect. Oranges are orange."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El color azul en inglés se dice \"blue\". Es el color característico del cielo despejado.\n\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v3",
-      "statement": "Which color is **\"Amarillo\"**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Red",
-          "is_correct": false,
-          "feedback": "Incorrect. Red is rojo."
-        },
-        {
-          "letter": "B",
-          "text": "Green",
-          "is_correct": false,
-          "feedback": "Incorrect. Green is verde."
-        },
-        {
-          "letter": "C",
-          "text": "Yellow",
-          "is_correct": true,
-          "feedback": "Correct! Yellow is amarillo."
-        },
-        {
-          "letter": "D",
-          "text": "White",
-          "is_correct": false,
-          "feedback": "Incorrect. White is blanco."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El color amarillo se dice \"yellow\". ¡Recuerda que se escribe con doble 'l'!\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v4",
-      "statement": "What color do you get if you mix **Blue and Yellow**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Red",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Green",
-          "is_correct": true,
-          "feedback": "Correct! Blue + Yellow = Green."
-        },
-        {
-          "letter": "C",
-          "text": "Purple",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Orange",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Al mezclar azul (blue) y amarillo (yellow), obtenemos el color verde, que en inglés es \"green\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v5",
-      "statement": "What color is an **elephant**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Pink",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "White",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Grey",
-          "is_correct": true,
-          "feedback": "Correct! Elephants are grey."
+          "text": "destination",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Black",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El color gris en inglés se puede escribir \"grey\" (UK) o \"gray\" (USA). Los elefantes son de este color.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v6",
-      "statement": "What color is **\"Naranja\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Purple",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Orange",
-          "is_correct": true,
-          "feedback": "Correct! Orange is both the fruit and the color."
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Pink",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Brown",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En inglés, la palabra \"orange\" sirve tanto para la fruta (naranja) como para el color.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v7",
-      "statement": "What color is **chocolate**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Red",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Black",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Brown",
-          "is_correct": true,
-          "feedback": "Correct! Chocolate is brown."
-        },
-        {
-          "letter": "D",
-          "text": "Yellow",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El color café o marrón se dice \"brown\" en inglés.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v8",
-      "statement": "What color are **clouds** before it rains?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "White",
-          "is_correct": false,
-          "feedback": "Incorrect. White clouds are for sunny days."
-        },
-        {
-          "letter": "B",
-          "text": "Dark grey",
-          "is_correct": true,
-          "feedback": "Correct! Storm clouds are dark grey."
-        },
-        {
-          "letter": "C",
-          "text": "Blue",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Yellow",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Cuando va a llover, las nubes se ponen de color gris oscuro (dark grey).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v9",
-      "statement": "Complete: **\"The grass is _______.\"**",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Green",
-          "is_correct": true,
-          "feedback": "Correct! Grass is green."
-        },
-        {
-          "letter": "B",
-          "text": "Blue",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Purple",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Red",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El pasto o la hierba es de color verde, que en inglés es \"green\".\n\n---",
-      "difficulty": "6",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-v10",
-      "statement": "Which color is **\"Morado\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Pink",
-          "is_correct": false,
-          "feedback": "Incorrect. Pink is rosado."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Purple",
-          "is_correct": true,
-          "feedback": "Correct! Purple is morado."
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Orange",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Blue",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El color morado o púrpura se dice \"purple\" en inglés.\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W04-colors-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

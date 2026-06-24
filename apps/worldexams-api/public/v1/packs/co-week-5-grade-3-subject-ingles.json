@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v1",
-      "statement": "How do you say **\"Buenas tardes\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrect. This is for the morning."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Good afternoon",
-          "is_correct": true,
-          "feedback": "Correct! \"Afternoon\" is for the time after 12:00 PM."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Good night",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. This is for the night."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Hello",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. This is just \"hola\"."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Good afternoon\" es el saludo adecuado para la tarde en inglés.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v2",
-      "statement": "What is the letter after **B**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A",
-          "is_correct": false,
-          "feedback": "Incorrect. A is before B."
-        },
-        {
-          "letter": "B",
-          "text": "C",
-          "is_correct": true,
-          "feedback": "Correct! A, B, C..."
-        },
-        {
-          "letter": "C",
-          "text": "D",
-          "is_correct": false,
-          "feedback": "Incorrect. D is after C."
-        },
-        {
-          "letter": "D",
-          "text": "E",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En la secuencia del abecedario, la letra C sigue a la letra B.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v3",
-      "statement": "What number is **\"TWELVE\"**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "2",
-          "is_correct": false,
-          "feedback": "Incorrect. 2 is \"two\"."
-        },
-        {
-          "letter": "B",
-          "text": "10",
-          "is_correct": false,
-          "feedback": "Incorrect. 10 is \"ten\"."
-        },
-        {
-          "letter": "C",
-          "text": "11",
-          "is_correct": false,
-          "feedback": "Incorrect. 11 is \"eleven\"."
-        },
-        {
-          "letter": "D",
-          "text": "12",
-          "is_correct": true,
-          "feedback": "Correct! 12 is \"twelve\"."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El número 12 se escribe \"twelve\" en inglés.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v4",
-      "statement": "What color is a **banana**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Yellow",
+          "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct! Bananas are yellow."
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Red",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Blue",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Green",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El color amarillo en inglés se dice \"yellow\".\n\n---",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v5",
-      "statement": "Spell the word **\"RED\"**:",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "R - E - D",
+          "text": "destination",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "R - A - D",
+          "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "B - E - D",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. That spells bed."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "R - E - T",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El color rojo se escribe R-E-D.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v6",
-      "statement": "How many is **seven + four**?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Ten",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Eleven",
-          "is_correct": true,
-          "feedback": "Correct! 7 + 4 = 11."
-        },
-        {
-          "letter": "C",
-          "text": "Twelve",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Nine",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Siete (seven) más cuatro (four) son once (eleven).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": "A1"
-    },
-    {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v7",
-      "statement": "What do you say when you **leave** a place?",
-      "context": "Contexto de la pregunta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hello",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Goodbye",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "C",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "How are you?",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Al irnos de un lugar, usamos la despedida \"Goodbye\".\n\n---",
-      "difficulty": "8",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     },
     {
-      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v8",
-      "statement": "Which color is **\"Verde\"**?",
-      "context": "Contexto de la pregunta.",
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Blue",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Yellow",
+          "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Green",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Orange",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Verde en inglés se dice \"green\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": "A1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

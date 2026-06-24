@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "El Presente Perfecto Continuo se usa para acciones que comenzaron en el pasado y continúan en el presente. La estructura es: have/has + been + verbo con -ing.\n\n---",
+      "explanation": "El Presente Perfecto Continuo se usa para acciones que comenzaron en el pasado y continúan en el presente. La estructura es: have/has + been + verbo con -ing.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -48,7 +48,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v2",
@@ -81,7 +84,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para preguntar por la duración de una acción que aún continúa, usamos la estructura interrogativa del Presente Perfecto Continuo.\n\n---",
+      "explanation": "Para preguntar por la duración de una acción que aún continúa, usamos la estructura interrogativa del Presente Perfecto Continuo.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -91,7 +94,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v3 Higgins",
@@ -124,7 +130,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Al igual que en el Presente Perfecto Simple, en el Continuo debemos usar \"has\" cuando el sujeto es he, she o it.\n\n---",
+      "explanation": "Al igual que en el Presente Perfecto Simple, en el Continuo debemos usar \"has\" cuando el sujeto es he, she o it.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -134,7 +140,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v4",
@@ -167,7 +176,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "El Presente Perfecto Continuo se usa a menudo para explicar un estado presente como resultado de una actividad que acaba de ocurrir (ojos rojos -> haber estado llorando).\n\n---",
+      "explanation": "El Presente Perfecto Continuo se usa a menudo para explicar un estado presente como resultado de una actividad que acaba de ocurrir (ojos rojos -> haber estado llorando).\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -177,7 +186,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v5",
@@ -210,7 +222,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Los verbos de estado (stative verbs) como \"know\", \"like\" o \"believe\" no se usan normalmente en tiempos continuos, ni siquiera en el Presente Perfecto Continuo.\n\n---",
+      "explanation": "Los verbos de estado (stative verbs) como \"know\", \"like\" o \"believe\" no se usan normalmente en tiempos continuos, ni siquiera en el Presente Perfecto Continuo.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -220,7 +232,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v6",
@@ -253,7 +268,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para procesos largos que aún no terminan, el Presente Perfecto Continuo es el tiempo más preciso porque conecta el inicio pasado con el progreso actual.\n\n---",
+      "explanation": "Para procesos largos que aún no terminan, el Presente Perfecto Continuo es el tiempo más preciso porque conecta el inicio pasado con el progreso actual.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -263,11 +278,14 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v7",
-      "statement": "**A:** \"I ________ five emails today.\" (Focus on the result/number).\n**B:** \"I ________ emails all morning.\" (Focus on the activity).",
+      "statement": "**A:** \"I ________ five emails today.\" (Focus on the result/number).\r\n**B:** \"I ________ emails all morning.\" (Focus on the activity).",
       "context": "Contrast with Present Perfect Simple.",
       "options": [
         {
@@ -296,7 +314,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Usamos el Presente Perfecto Simple cuando nos enfocamos en el resultado o la cantidad (cuántos). Usamos el Continuo cuando nos enfocamos en el proceso o la duración (cuánto tiempo).\n\n---",
+      "explanation": "Usamos el Presente Perfecto Simple cuando nos enfocamos en el resultado o la cantidad (cuántos). Usamos el Continuo cuando nos enfocamos en el proceso o la duración (cuánto tiempo).\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -306,11 +324,14 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v8",
-      "statement": "\"Someone has been using my computer without permission! All my files are moved.\"\nWhat is the tone of this sentence?",
+      "statement": "\"Someone has been using my computer without permission! All my files are moved.\"\r\nWhat is the tone of this sentence?",
       "context": "Expressing annoyance with continuous.",
       "options": [
         {
@@ -339,7 +360,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Al igual que el Presente Continuo, el Presente Perfecto Continuo se usa frecuentemente para quejarse de acciones repetitivas o recientes que nos resultan molestas.\n\n---",
+      "explanation": "Al igual que el Presente Continuo, el Presente Perfecto Continuo se usa frecuentemente para quejarse de acciones repetitivas o recientes que nos resultan molestas.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -349,7 +370,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v9",
@@ -382,7 +406,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las reglas para \"for\" y \"since\" son las mismas que en el Presente Perfecto Simple. \"Since\" para el momento de inicio, \"for\" para la duración.\n\n---",
+      "explanation": "Las reglas para \"for\" y \"since\" son las mismas que en el Presente Perfecto Simple. \"Since\" para el momento de inicio, \"for\" para la duración.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -392,11 +416,14 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v10",
-      "statement": "Identify the error:\n\"I **have (A)** been **waiting (B)** for you **since (C)** three **hours (D)**!\"",
+      "statement": "Identify the error:\r\n\"I **have (A)** been **waiting (B)** for you **since (C)** three **hours (D)**!\"",
       "context": "Identifying errors in complex sentences.",
       "options": [
         {
@@ -425,7 +452,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Diferenciar entre un punto en el tiempo (since) y un periodo (for) es una de las áreas donde los estudiantes de nivel B1 cometen más errores.\n\n---",
+      "explanation": "Diferenciar entre un punto en el tiempo (since) y un periodo (for) es una de las áreas donde los estudiantes de nivel B1 cometen más errores.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -435,7 +462,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v11",
@@ -468,7 +498,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "El Presente Perfecto Continuo es el tiempo ideal para justificar estados físicos presentes (cansancio, sudor, suciedad) basándose en la actividad inmediatamente anterior.\n\n---",
+      "explanation": "El Presente Perfecto Continuo es el tiempo ideal para justificar estados físicos presentes (cansancio, sudor, suciedad) basándose en la actividad inmediatamente anterior.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -478,11 +508,14 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     },
     {
       "id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-v12",
-      "statement": "\"In recent years, the average temperature in the world has been rising steadily. Scientists have been warning us about the consequences of climate change for decades, but many people are just starting to listen now.\"\nWhat is the best summary?",
+      "statement": "\"In recent years, the average temperature in the world has been rising steadily. Scientists have been warning us about the consequences of climate change for decades, but many people are just starting to listen now.\"\r\nWhat is the best summary?",
       "context": "Selecting the best summary of an ongoing trend.",
       "options": [
         {
@@ -521,7 +554,10 @@
       "bundle_id": "CO-ING-8-2026-W23-present-perfect-cont-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": "B1"
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
     }
   ]
 }

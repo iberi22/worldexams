@@ -9,863 +9,883 @@
   "questions": [
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v01",
-      "statement": "In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:\n\n- [x] A) Symbolism <!-- feedback: Correcto! Symbolism -->\n\n- [ ] B) Foreshadowing <!-- feedback: Incorrecto. Foreshadowing -->\n\n- [ ] C) Irony <!-- feedback: Incorrecto. Irony -->\n\n- [ ] D) Juxtaposition <!-- feedback: Incorrecto. Juxtaposition -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Symbolism",
+          "text": "** Symbolism",
           "is_correct": true,
-          "feedback": "Correcto! Symbolism"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Foreshadowing",
+          "text": "** Foreshadowing",
           "is_correct": false,
-          "feedback": "Incorrecto. Foreshadowing"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Irony",
+          "text": "** Irony",
           "is_correct": false,
-          "feedback": "Incorrecto. Irony"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Juxtaposition",
+          "text": "** Juxtaposition\r\n  \r\n\r\n**Explanation:** Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Juxtaposition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v02",
-      "statement": "Which sentence is correctly punctuated?\n\n- [x] A) After school, we went to the library to study. <!-- feedback: Correcto! After school, we went to the library to study. -->\n\n- [ ] B) After school we went to the library to study. <!-- feedback: Incorrecto. After school we went to the library to s -->\n\n- [ ] C) After school we went, to the library to study. <!-- feedback: Incorrecto. After school we went, to the library to  -->\n\n- [ ] D) After school, we went, to the library to study. <!-- feedback: Incorrecto. After school, we went, to the library to -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which sentence is correctly punctuated?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "After school, we went to the library to study.",
+          "text": "** After school, we went to the library to study.",
           "is_correct": true,
-          "feedback": "Correcto! After school, we went to the library to study."
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "After school we went to the library to study.",
+          "text": "** After school we went to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went to the library to s"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "After school we went, to the library to study.",
+          "text": "** After school we went, to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "After school, we went, to the library to study.",
+          "text": "** After school, we went, to the library to study.\r\n  \r\n\r\n**Explanation:** A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. After school, we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v03",
-      "statement": "Which language feature is used in the phrase 'The old house groaned under the weight of time'?\n\n- [x] A) Personification <!-- feedback: Correcto! Personification -->\n\n- [ ] B) Metaphor <!-- feedback: Incorrecto. Metaphor -->\n\n- [ ] C) Simile <!-- feedback: Incorrecto. Simile -->\n\n- [ ] D) Alliteration <!-- feedback: Incorrecto. Alliteration -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which language feature is used in the phrase 'The old house groaned under the weight of time'?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Personification",
+          "text": "** Personification",
           "is_correct": true,
-          "feedback": "Correcto! Personification"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Metaphor",
+          "text": "** Metaphor",
           "is_correct": false,
-          "feedback": "Incorrecto. Metaphor"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Simile",
+          "text": "** Simile",
           "is_correct": false,
-          "feedback": "Incorrecto. Simile"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Alliteration",
+          "text": "** Alliteration\r\n  \r\n\r\n**Explanation:** Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Alliteration"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\n\n---",
-      "difficulty": "5",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v04",
-      "statement": "What is the purpose of a topic sentence in a paragraph?\n\n- [x] A) To introduce the main idea of the paragraph <!-- feedback: Correcto! To introduce the main idea of the paragraph -->\n\n- [ ] B) To conclude the entire essay <!-- feedback: Incorrecto. To conclude the entire essay -->\n\n- [ ] C) To provide a dictionary definition <!-- feedback: Incorrecto. To provide a dictionary definition -->\n\n- [ ] D) To list all sources used <!-- feedback: Incorrecto. To list all sources used -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the purpose of a topic sentence in a paragraph?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "To introduce the main idea of the paragraph",
+          "text": "** To introduce the main idea of the paragraph",
           "is_correct": true,
-          "feedback": "Correcto! To introduce the main idea of the paragraph"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "To conclude the entire essay",
+          "text": "** To conclude the entire essay",
           "is_correct": false,
-          "feedback": "Incorrecto. To conclude the entire essay"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "To provide a dictionary definition",
+          "text": "** To provide a dictionary definition",
           "is_correct": false,
-          "feedback": "Incorrecto. To provide a dictionary definition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "To list all sources used",
+          "text": "** To list all sources used\r\n  \r\n\r\n**Explanation:** A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. To list all sources used"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v05",
-      "statement": "What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?\n\n- [x] A) Resilience and community support lead to success <!-- feedback: Correcto! Resilience and community support lead to success -->\n\n- [ ] B) Adversity always defeats people <!-- feedback: Incorrecto. Adversity always defeats people -->\n\n- [ ] C) Characters act alone without help <!-- feedback: Incorrecto. Characters act alone without help -->\n\n- [ ] D) Setting is more important than character <!-- feedback: Incorrecto. Setting is more important than character -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Resilience and community support lead to success",
+          "text": "** Resilience and community support lead to success",
           "is_correct": true,
-          "feedback": "Correcto! Resilience and community support lead to success"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Adversity always defeats people",
+          "text": "** Adversity always defeats people",
           "is_correct": false,
-          "feedback": "Incorrecto. Adversity always defeats people"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Characters act alone without help",
+          "text": "** Characters act alone without help",
           "is_correct": false,
-          "feedback": "Incorrecto. Characters act alone without help"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Setting is more important than character",
+          "text": "** Setting is more important than character\r\n  \r\n\r\n**Explanation:** The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Setting is more important than character"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v06",
-      "statement": "In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:\n\n- [x] A) Symbolism <!-- feedback: Correcto! Symbolism -->\n\n- [ ] B) Foreshadowing <!-- feedback: Incorrecto. Foreshadowing -->\n\n- [ ] C) Irony <!-- feedback: Incorrecto. Irony -->\n\n- [ ] D) Juxtaposition <!-- feedback: Incorrecto. Juxtaposition -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Symbolism",
+          "text": "** Symbolism",
           "is_correct": true,
-          "feedback": "Correcto! Symbolism"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Foreshadowing",
+          "text": "** Foreshadowing",
           "is_correct": false,
-          "feedback": "Incorrecto. Foreshadowing"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Irony",
+          "text": "** Irony",
           "is_correct": false,
-          "feedback": "Incorrecto. Irony"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Juxtaposition",
+          "text": "** Juxtaposition\r\n  \r\n\r\n**Explanation:** Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Juxtaposition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v07",
-      "statement": "Which sentence is correctly punctuated?\n\n- [x] A) After school, we went to the library to study. <!-- feedback: Correcto! After school, we went to the library to study. -->\n\n- [ ] B) After school we went to the library to study. <!-- feedback: Incorrecto. After school we went to the library to s -->\n\n- [ ] C) After school we went, to the library to study. <!-- feedback: Incorrecto. After school we went, to the library to  -->\n\n- [ ] D) After school, we went, to the library to study. <!-- feedback: Incorrecto. After school, we went, to the library to -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which sentence is correctly punctuated?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "After school, we went to the library to study.",
+          "text": "** After school, we went to the library to study.",
           "is_correct": true,
-          "feedback": "Correcto! After school, we went to the library to study."
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "After school we went to the library to study.",
+          "text": "** After school we went to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went to the library to s"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "After school we went, to the library to study.",
+          "text": "** After school we went, to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "After school, we went, to the library to study.",
+          "text": "** After school, we went, to the library to study.\r\n  \r\n\r\n**Explanation:** A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. After school, we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v08",
-      "statement": "Which language feature is used in the phrase 'The old house groaned under the weight of time'?\n\n- [x] A) Personification <!-- feedback: Correcto! Personification -->\n\n- [ ] B) Metaphor <!-- feedback: Incorrecto. Metaphor -->\n\n- [ ] C) Simile <!-- feedback: Incorrecto. Simile -->\n\n- [ ] D) Alliteration <!-- feedback: Incorrecto. Alliteration -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which language feature is used in the phrase 'The old house groaned under the weight of time'?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Personification",
+          "text": "** Personification",
           "is_correct": true,
-          "feedback": "Correcto! Personification"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Metaphor",
+          "text": "** Metaphor",
           "is_correct": false,
-          "feedback": "Incorrecto. Metaphor"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Simile",
+          "text": "** Simile",
           "is_correct": false,
-          "feedback": "Incorrecto. Simile"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Alliteration",
+          "text": "** Alliteration\r\n  \r\n\r\n**Explanation:** Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Alliteration"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\n\n---",
-      "difficulty": "5",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v09",
-      "statement": "What is the purpose of a topic sentence in a paragraph?\n\n- [x] A) To introduce the main idea of the paragraph <!-- feedback: Correcto! To introduce the main idea of the paragraph -->\n\n- [ ] B) To conclude the entire essay <!-- feedback: Incorrecto. To conclude the entire essay -->\n\n- [ ] C) To provide a dictionary definition <!-- feedback: Incorrecto. To provide a dictionary definition -->\n\n- [ ] D) To list all sources used <!-- feedback: Incorrecto. To list all sources used -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the purpose of a topic sentence in a paragraph?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "To introduce the main idea of the paragraph",
+          "text": "** To introduce the main idea of the paragraph",
           "is_correct": true,
-          "feedback": "Correcto! To introduce the main idea of the paragraph"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "To conclude the entire essay",
+          "text": "** To conclude the entire essay",
           "is_correct": false,
-          "feedback": "Incorrecto. To conclude the entire essay"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "To provide a dictionary definition",
+          "text": "** To provide a dictionary definition",
           "is_correct": false,
-          "feedback": "Incorrecto. To provide a dictionary definition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "To list all sources used",
+          "text": "** To list all sources used\r\n  \r\n\r\n**Explanation:** A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. To list all sources used"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v10",
-      "statement": "What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?\n\n- [x] A) Resilience and community support lead to success <!-- feedback: Correcto! Resilience and community support lead to success -->\n\n- [ ] B) Adversity always defeats people <!-- feedback: Incorrecto. Adversity always defeats people -->\n\n- [ ] C) Characters act alone without help <!-- feedback: Incorrecto. Characters act alone without help -->\n\n- [ ] D) Setting is more important than character <!-- feedback: Incorrecto. Setting is more important than character -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Resilience and community support lead to success",
+          "text": "** Resilience and community support lead to success",
           "is_correct": true,
-          "feedback": "Correcto! Resilience and community support lead to success"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Adversity always defeats people",
+          "text": "** Adversity always defeats people",
           "is_correct": false,
-          "feedback": "Incorrecto. Adversity always defeats people"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Characters act alone without help",
+          "text": "** Characters act alone without help",
           "is_correct": false,
-          "feedback": "Incorrecto. Characters act alone without help"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Setting is more important than character",
+          "text": "** Setting is more important than character\r\n  \r\n\r\n**Explanation:** The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Setting is more important than character"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v11",
-      "statement": "In a NZ short story, an author uses a 'storm' to represent hope. This is an example of:\n\n- [x] A) Symbolism <!-- feedback: Correcto! Symbolism -->\n\n- [ ] B) Foreshadowing <!-- feedback: Incorrecto. Foreshadowing -->\n\n- [ ] C) Irony <!-- feedback: Incorrecto. Irony -->\n\n- [ ] D) Juxtaposition <!-- feedback: Incorrecto. Juxtaposition -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** In a NZ short story, an author uses a 'storm' to represent hope. This is an example of:",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Symbolism",
+          "text": "** Symbolism",
           "is_correct": true,
-          "feedback": "Correcto! Symbolism"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Foreshadowing",
+          "text": "** Foreshadowing",
           "is_correct": false,
-          "feedback": "Incorrecto. Foreshadowing"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Irony",
+          "text": "** Irony",
           "is_correct": false,
-          "feedback": "Incorrecto. Irony"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Juxtaposition",
+          "text": "** Juxtaposition\r\n  \r\n\r\n**Explanation:** Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Juxtaposition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v12",
-      "statement": "Which sentence is correctly punctuated?\n\n- [x] A) After school, we went to the library to study. <!-- feedback: Correcto! After school, we went to the library to study. -->\n\n- [ ] B) After school we went to the library to study. <!-- feedback: Incorrecto. After school we went to the library to s -->\n\n- [ ] C) After school we went, to the library to study. <!-- feedback: Incorrecto. After school we went, to the library to  -->\n\n- [ ] D) After school, we went, to the library to study. <!-- feedback: Incorrecto. After school, we went, to the library to -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which sentence is correctly punctuated?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "After school, we went to the library to study.",
+          "text": "** After school, we went to the library to study.",
           "is_correct": true,
-          "feedback": "Correcto! After school, we went to the library to study."
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "After school we went to the library to study.",
+          "text": "** After school we went to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went to the library to s"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "After school we went, to the library to study.",
+          "text": "** After school we went, to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "After school, we went, to the library to study.",
+          "text": "** After school, we went, to the library to study.\r\n  \r\n\r\n**Explanation:** A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. After school, we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v13",
-      "statement": "Which language feature is used in the phrase 'The old house groaned under the weight of time'?\n\n- [x] A) Personification <!-- feedback: Correcto! Personification -->\n\n- [ ] B) Metaphor <!-- feedback: Incorrecto. Metaphor -->\n\n- [ ] C) Simile <!-- feedback: Incorrecto. Simile -->\n\n- [ ] D) Alliteration <!-- feedback: Incorrecto. Alliteration -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which language feature is used in the phrase 'The old house groaned under the weight of time'?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Personification",
+          "text": "** Personification",
           "is_correct": true,
-          "feedback": "Correcto! Personification"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Metaphor",
+          "text": "** Metaphor",
           "is_correct": false,
-          "feedback": "Incorrecto. Metaphor"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Simile",
+          "text": "** Simile",
           "is_correct": false,
-          "feedback": "Incorrecto. Simile"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Alliteration",
+          "text": "** Alliteration\r\n  \r\n\r\n**Explanation:** Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Alliteration"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\n\n---",
-      "difficulty": "5",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v14",
-      "statement": "What is the purpose of a topic sentence in a paragraph?\n\n- [x] A) To introduce the main idea of the paragraph <!-- feedback: Correcto! To introduce the main idea of the paragraph -->\n\n- [ ] B) To conclude the entire essay <!-- feedback: Incorrecto. To conclude the entire essay -->\n\n- [ ] C) To provide a dictionary definition <!-- feedback: Incorrecto. To provide a dictionary definition -->\n\n- [ ] D) To list all sources used <!-- feedback: Incorrecto. To list all sources used -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the purpose of a topic sentence in a paragraph?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "To introduce the main idea of the paragraph",
+          "text": "** To introduce the main idea of the paragraph",
           "is_correct": true,
-          "feedback": "Correcto! To introduce the main idea of the paragraph"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "To conclude the entire essay",
+          "text": "** To conclude the entire essay",
           "is_correct": false,
-          "feedback": "Incorrecto. To conclude the entire essay"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "To provide a dictionary definition",
+          "text": "** To provide a dictionary definition",
           "is_correct": false,
-          "feedback": "Incorrecto. To provide a dictionary definition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "To list all sources used",
+          "text": "** To list all sources used\r\n  \r\n\r\n**Explanation:** A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. To list all sources used"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v15",
-      "statement": "What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?\n\n- [x] A) Resilience and community support lead to success <!-- feedback: Correcto! Resilience and community support lead to success -->\n\n- [ ] B) Adversity always defeats people <!-- feedback: Incorrecto. Adversity always defeats people -->\n\n- [ ] C) Characters act alone without help <!-- feedback: Incorrecto. Characters act alone without help -->\n\n- [ ] D) Setting is more important than character <!-- feedback: Incorrecto. Setting is more important than character -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Resilience and community support lead to success",
+          "text": "** Resilience and community support lead to success",
           "is_correct": true,
-          "feedback": "Correcto! Resilience and community support lead to success"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Adversity always defeats people",
+          "text": "** Adversity always defeats people",
           "is_correct": false,
-          "feedback": "Incorrecto. Adversity always defeats people"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Characters act alone without help",
+          "text": "** Characters act alone without help",
           "is_correct": false,
-          "feedback": "Incorrecto. Characters act alone without help"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Setting is more important than character",
+          "text": "** Setting is more important than character\r\n  \r\n\r\n**Explanation:** The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Setting is more important than character"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v16",
-      "statement": "In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:\n\n- [x] A) Symbolism <!-- feedback: Correcto! Symbolism -->\n\n- [ ] B) Foreshadowing <!-- feedback: Incorrecto. Foreshadowing -->\n\n- [ ] C) Irony <!-- feedback: Incorrecto. Irony -->\n\n- [ ] D) Juxtaposition <!-- feedback: Incorrecto. Juxtaposition -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** In a NZ short story, an author uses a 'sunrise' to represent hope. This is an example of:",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Symbolism",
+          "text": "** Symbolism",
           "is_correct": true,
-          "feedback": "Correcto! Symbolism"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Foreshadowing",
+          "text": "** Foreshadowing",
           "is_correct": false,
-          "feedback": "Incorrecto. Foreshadowing"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Irony",
+          "text": "** Irony",
           "is_correct": false,
-          "feedback": "Incorrecto. Irony"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Juxtaposition",
+          "text": "** Juxtaposition\r\n  \r\n\r\n**Explanation:** Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Juxtaposition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Symbolism uses objects, settings or events to represent abstract ideas. A sunrise commonly symbolises hope or new beginnings.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v17",
-      "statement": "Which sentence is correctly punctuated?\n\n- [x] A) After school, we went to the library to study. <!-- feedback: Correcto! After school, we went to the library to study. -->\n\n- [ ] B) After school we went to the library to study. <!-- feedback: Incorrecto. After school we went to the library to s -->\n\n- [ ] C) After school we went, to the library to study. <!-- feedback: Incorrecto. After school we went, to the library to  -->\n\n- [ ] D) After school, we went, to the library to study. <!-- feedback: Incorrecto. After school, we went, to the library to -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which sentence is correctly punctuated?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "After school, we went to the library to study.",
+          "text": "** After school, we went to the library to study.",
           "is_correct": true,
-          "feedback": "Correcto! After school, we went to the library to study."
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "After school we went to the library to study.",
+          "text": "** After school we went to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went to the library to s"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "After school we went, to the library to study.",
+          "text": "** After school we went, to the library to study.",
           "is_correct": false,
-          "feedback": "Incorrecto. After school we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "After school, we went, to the library to study.",
+          "text": "** After school, we went, to the library to study.\r\n  \r\n\r\n**Explanation:** A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. After school, we went, to the library to"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A comma follows the introductory adverbial phrase 'After school' before the main clause. Correct punctuation is assessed in NCEA English writing standards.\n\n---",
-      "difficulty": "4",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v18",
-      "statement": "Which language feature is used in the phrase 'The waves whispered secrets to the shore'?\n\n- [x] A) Personification <!-- feedback: Correcto! Personification -->\n\n- [ ] B) Metaphor <!-- feedback: Incorrecto. Metaphor -->\n\n- [ ] C) Simile <!-- feedback: Incorrecto. Simile -->\n\n- [ ] D) Alliteration <!-- feedback: Incorrecto. Alliteration -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** Which language feature is used in the phrase 'The waves whispered secrets to the shore'?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Personification",
+          "text": "** Personification",
           "is_correct": true,
-          "feedback": "Correcto! Personification"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Metaphor",
+          "text": "** Metaphor",
           "is_correct": false,
-          "feedback": "Incorrecto. Metaphor"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Simile",
+          "text": "** Simile",
           "is_correct": false,
-          "feedback": "Incorrecto. Simile"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Alliteration",
+          "text": "** Alliteration\r\n  \r\n\r\n**Explanation:** Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Alliteration"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Personification gives human qualities to non-human things. Waves cannot literally whisper, and houses cannot groan — these are personified for effect.\n\n---",
-      "difficulty": "5",
+      "explanation": "",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v19",
-      "statement": "What is the purpose of a topic sentence in a paragraph?\n\n- [x] A) To introduce the main idea of the paragraph <!-- feedback: Correcto! To introduce the main idea of the paragraph -->\n\n- [ ] B) To conclude the entire essay <!-- feedback: Incorrecto. To conclude the entire essay -->\n\n- [ ] C) To provide a dictionary definition <!-- feedback: Incorrecto. To provide a dictionary definition -->\n\n- [ ] D) To list all sources used <!-- feedback: Incorrecto. To list all sources used -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the purpose of a topic sentence in a paragraph?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "To introduce the main idea of the paragraph",
+          "text": "** To introduce the main idea of the paragraph",
           "is_correct": true,
-          "feedback": "Correcto! To introduce the main idea of the paragraph"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "To conclude the entire essay",
+          "text": "** To conclude the entire essay",
           "is_correct": false,
-          "feedback": "Incorrecto. To conclude the entire essay"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "To provide a dictionary definition",
+          "text": "** To provide a dictionary definition",
           "is_correct": false,
-          "feedback": "Incorrecto. To provide a dictionary definition"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "To list all sources used",
+          "text": "** To list all sources used\r\n  \r\n\r\n**Explanation:** A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. To list all sources used"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A topic sentence states the main idea of a paragraph and helps organise writing coherently — a key skill for NCEA Level 1 English.\n\n---",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     },
     {
       "id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY-v20",
-      "statement": "What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?\n\n- [x] A) Resilience and community support lead to success <!-- feedback: Correcto! Resilience and community support lead to success -->\n\n- [ ] B) Adversity always defeats people <!-- feedback: Incorrecto. Adversity always defeats people -->\n\n- [ ] C) Characters act alone without help <!-- feedback: Incorrecto. Characters act alone without help -->\n\n- [ ] D) Setting is more important than character <!-- feedback: Incorrecto. Setting is more important than character -->",
-      "context": "A New Zealand student practising English for### Opciones\n NCEA Level 1, focusing on character theme.",
+      "statement": "**Stem:** What is the main idea of a text that shows a character overcoming adversity through resilience and support from whānau?",
+      "context": "A New Zealand student practising English for NCEA Level 1, focusing on character theme.",
       "options": [
         {
           "letter": "A",
-          "text": "Resilience and community support lead to success",
+          "text": "** Resilience and community support lead to success",
           "is_correct": true,
-          "feedback": "Correcto! Resilience and community support lead to success"
+          "feedback": "Correct! ✓ NCEA English skill."
         },
         {
           "letter": "B",
-          "text": "Adversity always defeats people",
+          "text": "** Adversity always defeats people",
           "is_correct": false,
-          "feedback": "Incorrecto. Adversity always defeats people"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "C",
-          "text": "Characters act alone without help",
+          "text": "** Characters act alone without help",
           "is_correct": false,
-          "feedback": "Incorrecto. Characters act alone without help"
+          "feedback": "Incorrect. Review this NCEA English concept."
         },
         {
           "letter": "D",
-          "text": "Setting is more important than character",
+          "text": "** Setting is more important than character\r\n  \r\n\r\n**Explanation:** The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.\r\n\r\n---",
           "is_correct": false,
-          "feedback": "Incorrecto. Setting is more important than character"
+          "feedback": "Incorrect. Review this NCEA English concept."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea centres on resilience and the value of whānau/community support, reflecting key NZ values in literature.",
+      "explanation": "",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Uso de conocimientos",
-      "expected_success": 0.75,
       "bundle_id": "NZ-ENG-11-2026-W02-character-theme-001-MASTERY",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "English",
+      "grade": 11,
+      "country": "newzealand"
     }
   ]
 }
