@@ -262,16 +262,17 @@ export function filterUnansweredQuestions<T extends { id: string }>(
     };
   }
 
-  // 🆕 Smart Recycle: If ALL questions have been answered, DO NOT WIPE MEMORY.
-  // Actually, the user WANTS the "contador" to reset when it's exhausted. We will clear the answered questions list.
+  let wasReset = false;
+
+  // 🆕 Smart Recycle: If ALL questions in this specific pool have been answered,
+  // we perform a PARTIAL wipe (only these questions) so the counter resets for this subject/grade
+  // without affecting progress in other subjects.
   if (unanswered.length === 0 && previouslyAnswered.length > 0) {
     console.log(
-      "🔄 All questions in pool exhausted - Wiping memory so counter resets",
+      `🔄 Current pool (${questions.length} questions) exhausted - Performing partial reset`,
     );
-    clearAnsweredQuestionsOnly(); // Restored because user wants counter to reset
-
-    // Now all previouslyAnswered are conceptually "unanswered" again.
-    // For this exact selection batch, we just treat them as fillers. Next time they'll be truly unanswered.
+    removeQuestionsFromMemory(questions.map((q) => q.id));
+    wasReset = true;
   }
 
   // Otherwise, fill with already answered questions
@@ -308,8 +309,49 @@ export function filterUnansweredQuestions<T extends { id: string }>(
   return {
     filtered: shuffleArray([...unanswered, ...fillers]), // Shuffle final mix
     hadToRepeat: fillers.length > 0,
-    wasReset: false,
+    wasReset,
   };
+}
+
+/**
+ * Remove specific questions from memory
+ */
+export function removeQuestionsFromMemory(ids: string[]): void {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
+    return;
+  }
+
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (!stored) return;
+
+    const data = JSON.parse(stored);
+    const idSet = new Set(ids);
+    let modified = false;
+
+    if (data.answeredTimestamps) {
+      for (const id of ids) {
+        if (data.answeredTimestamps[id]) {
+          delete data.answeredTimestamps[id];
+          modified = true;
+        }
+      }
+    }
+
+    if (data.answeredIds && Array.isArray(data.answeredIds)) {
+      const originalLength = data.answeredIds.length;
+      data.answeredIds = data.answeredIds.filter((id: string) => !idSet.has(id));
+      if (data.answeredIds.length !== originalLength) {
+        modified = true;
+      }
+    }
+
+    if (modified) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    }
+  } catch (e) {
+    console.error("Error removing questions from memory:", e);
+  }
 }
 
 /**
