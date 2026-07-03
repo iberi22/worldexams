@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-17-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.422Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v1",
+      "statement": "En una progresión aritmética (PA), ¿cómo se define el término general $a_n$?",
+      "context": "Un estudiante de 5to de secundaria en Lima identifica los elementos de una progresión aritmética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 \\cdot r^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para una progresión geométrica."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 + (n - 1)d$",
+          "is_correct": true,
+          "feedback": "Correcto. El término general de una PA se obtiene sumando al primer término la diferencia multiplicada por $(n-1)$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 + nd$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer término no se multiplica por la diferencia, se suma. Además, debe ser $(n-1)$."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = (a_1 + a_n) \\cdot n/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para la suma de los $n$ primeros términos, no para el término general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una progresión aritmética es una sucesión donde cada término se obtiene sumando una cantidad fija (diferencia $d$) al anterior. La fórmula general permite hallar cualquier término conociendo el primero y la diferencia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia $d$ de esta progresión y cuánto dinero se pondrá el décimo día?",
+      "context": "Un ahorro progresivo en una alcancía. El primer día se pone S/ 2, el segundo S/ 5, el tercero S/ 8, y así sucesivamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = 3$; S/ 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó mal el décimo término."
+        },
+        {
+          "letter": "B",
+          "text": "$d = 3$; S/ 29",
+          "is_correct": true,
+          "feedback": "Correcto. $d = 5 - 2 = 3$. $a_{10} = 2 + (9) \\cdot 3 = 2 + 27 = 29$."
+        },
+        {
+          "letter": "C",
+          "text": "$d = 2$; S/ 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre los días no es 2."
+        },
+        {
+          "letter": "D",
+          "text": "$d = 3$; S/ 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que la fórmula usa $(n-1)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos los valores: $a_1 = 2$, $d = 3$. Aplicamos la fórmula del término general para $n = 10$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v3",
+      "statement": "Dada la progresión geométrica: 3, 6, 12, 24, ... Determine el valor del octavo término.",
+      "context": "Una progresión geométrica (PG) que modela el crecimiento de una inversión en Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "192",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el séptimo término."
+        },
+        {
+          "letter": "B",
+          "text": "384",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1 = 3, r = 2$. $a_8 = 3 \\cdot 2^7 = 3 \\cdot 128 = 384$."
+        },
+        {
+          "letter": "C",
+          "text": "768",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se excedió en una potencia de 2."
+        },
+        {
+          "letter": "D",
+          "text": "96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor muy bajo para el octavo término."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una PG, cada término es el anterior multiplicado por la razón $r$. Aquí $r = 2$. Usamos la fórmula $a_n = a_1 \\cdot r^{n-1}$ con $n = 8$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la suma de los 20 primeros números pares positivos (2, 4, 6, ..., 40)?",
+      "context": "Suma de términos en una progresión aritmética en un examen de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20^2$ es la suma de los impares, no de los pares."
+        },
+        {
+          "letter": "B",
+          "text": "420",
+          "is_correct": true,
+          "feedback": "Correcto. $S_{20} = (2 + 40) \\cdot 20 / 2 = 42 \\cdot 10 = 420$."
+        },
+        {
+          "letter": "C",
+          "text": "840",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por 2 en la fórmula de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "210",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los valores en la fórmula de la serie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de la suma de una PA: $S_n = \\frac{(a_1 + a_n)n}{2}$. Aquí $a_1 = 2$, $a_{20} = 40$ y $n = 20$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v5",
+      "statement": "Dada la sucesión definida por $a_n = n^2 - n + 1$, determine la diferencia entre el quinto y el cuarto término ($a_5 - a_4$).",
+      "context": "Un estudiante en Cusco analiza una sucesión cuya regla de formación no es aritmética ni geométrica simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de los términos individuales."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = 25 - 5 + 1 = 21$. $a_4 = 16 - 4 + 1 = 13$. Diferencia: $21 - 13 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que no se deriva de la regla de formación."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise la resta final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluamos la regla de correspondencia para $n=5$ y $n=4$, y luego realizamos la sustracción de los resultados obtenidos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v6",
+      "statement": "Si entre los números 7 y 37 se interpolan 4 medios aritméticos, ¿cuál es la diferencia de la progresión resultante?",
+      "context": "Interpolación de términos en una progresión aritmética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la diferencia total entre 6 por error."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Tenemos $a_1=7$ y $a_6=37$. $37 = 7 + (6-1)d \\Rightarrow 30 = 5d \\Rightarrow d = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "7.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consideró erróneamente que había 5 intervalos en lugar de 5. No, un momento, si hay 4 medios, hay 5 espacios. $30/5 = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Diferencia insuficiente para cubrir el rango."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpolar $k$ medios aritméticos entre $a$ y $b$ significa crear una PA de $n = k + 2$ términos. Aquí $n = 6$. Aplicamos la fórmula del término general para hallar $d$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v7",
+      "statement": "Una pelota se deja caer desde una altura de 10 metros. En cada rebote alcanza las 3/4 partes de la altura anterior. ¿A qué altura llegará en el tercer rebote?",
+      "context": "Un fenómeno de rebote de una pelota en una competencia escolar en Huancayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la altura tras el primer rebote."
+        },
+        {
+          "letter": "B",
+          "text": "4.22 metros (aprox)",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1 = 10 \\cdot (3/4) = 7.5$ (1er rebote). $a_2 = 7.5 \\cdot (3/4) = 5.625$. $a_3 = 5.625 \\cdot (0.75) = 4.21875$."
+        },
+        {
+          "letter": "C",
+          "text": "5.63 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la altura tras el segundo rebote."
+        },
+        {
+          "letter": "D",
+          "text": "3.16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar el factor de reducción sucesivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se trata de una progresión geométrica donde la razón es 0.75. El término $a_n$ representa la altura tras el enésimo rebote.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos términos tiene la siguiente progresión aritmética: 12, 17, 22, ..., 157?",
+      "context": "Determinación del número de términos en una sucesión finita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29 términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar o dividir por la diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "30 términos",
+          "is_correct": true,
+          "feedback": "Correcto. $157 = 12 + (n-1)5 \\Rightarrow 145 = (n-1)5 \\Rightarrow 29 = n-1 \\Rightarrow n = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "31 términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó uno de más en el proceso final."
+        },
+        {
+          "letter": "D",
+          "text": "28 términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó considerar el primer término en el conteo total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula del término general despejando $n$: $n = \\frac{a_n - a_1}{d} + 1$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v9",
+      "statement": "Halle el valor de la suma de todos los términos de la progresión geométrica infinita: $1, 1/3, 1/9, 1/27, ...$",
+      "context": "Suma infinita de una progresión geométrica decreciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor debe ser mayor que el primer término."
+        },
+        {
+          "letter": "B",
+          "text": "3/2",
+          "is_correct": true,
+          "feedback": "Correcto. $S = a_1 / (1 - r) = 1 / (1 - 1/3) = 1 / (2/3) = 3/2$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el valor de la suma convergente."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene suma finita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser $|r| < 1$, la serie es convergente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una serie geométrica infinita con $|r| < 1$, la suma se calcula mediante la fórmula $S = \\frac{a_1}{1 - r}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v10",
+      "statement": "Las edades de 4 hermanos están en progresión aritmética. Si el menor tiene 12 años y la suma de todas las edades es 72, ¿cuántos años tiene el mayor?",
+      "context": "Problema de edades en una familia de Piura, frecuente en simulacros de examen de admisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la diferencia común."
+        },
+        {
+          "letter": "B",
+          "text": "20 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total con esta edad no coincidiría con 72."
+        },
+        {
+          "letter": "C",
+          "text": "24 años",
+          "is_correct": true,
+          "feedback": "Correcto. $72 = (12 + a_4) \\cdot 4 / 2 \\Rightarrow 72 = (12 + a_4) \\cdot 2 \\Rightarrow 36 = 12 + a_4 \\Rightarrow a_4 = 24$."
+        },
+        {
+          "letter": "D",
+          "text": "22 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise el cálculo en la fórmula de la suma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Conocemos $a_1=12$, $n=4$ y $S_4=72$. Usamos la fórmula de la suma para despejar directamente el último término $a_4$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v11",
+      "statement": "Dada la sucesión: 4, 7, 12, 19, 28, ... ¿Cuál es el término general $a_n$?",
+      "context": "Un problema de sucesiones de segundo orden (sucesiones cuadráticas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 3n + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una regla lineal y la sucesión no tiene diferencia constante."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = n^2 + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Probando: $1^2+3=4, 2^2+3=7, 3^2+3=12, 4^2+3=19$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = n^2 + n + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $n=1$ daría 4, pero para $n=2$ daría 8."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 2n^2 + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores crecen más rápido de lo que indica la sucesión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al observar las diferencias entre términos (3, 5, 7, 9), notamos que estas forman una PA. Esto indica que la sucesión original es de segundo grado. Verificamos la regla $n^2 + c$ y hallamos que se ajusta perfectamente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántos kilómetros totales habrá recorrido al finalizar la primera semana (7 días)? (Use $(1.1)^7 \\approx 1.95$).",
+      "context": "Un plan de entrenamiento físico en el Malecón de Miraflores. Una persona corre 2 km el primer día y cada día aumenta su recorrido en un 10% respecto al día anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14.5 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó como si el aumento fuera de 200 metros fijos (aritmética)."
+        },
+        {
+          "letter": "B",
+          "text": "19 km",
+          "is_correct": true,
+          "feedback": "Correcto. PG con $a_1=2, r=1.1, n=7$. $S_7 = 2(1.1^7 - 1)/(1.1 - 1) = 2(0.95)/0.1 = 19$."
+        },
+        {
+          "letter": "C",
+          "text": "21.2 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la fórmula de la suma geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "17.8 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el manejo de los decimales de la razón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aumento porcentual diario implica una progresión geométrica. Usamos la fórmula de la suma de los $n$ primeros términos de una PG: $S_n = \\frac{a_1(r^n - 1)}{r - 1}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v13",
+      "statement": "Si los números $x - 1, x + 3$ y $3x - 1$ están en progresión aritmética, ¿cuál es el valor de $x$?",
+      "context": "Propiedades de los términos consecutivos en progresiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos serían 1, 5, 5, que no forman una PA."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. En una PA: $2(x+3) = (x-1) + (3x-1) \\Rightarrow 2x+6 = 4x-2 \\Rightarrow 8 = 2x \\Rightarrow x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos serían 4, 8, 14, no es PA."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al plantear la igualdad de las diferencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En cualquier PA de tres términos $a, b, c$, se cumple que el término medio es el promedio aritmético de los extremos: $2b = a + c$. Resolvemos la ecuación resultante para $x$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v14",
+      "statement": "Halle el término de lugar 20 de la siguiente sucesión: 2, 6, 12, 20, 30, ...",
+      "context": "Un problema de lógica y sucesiones tipo examen de la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "380",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el término 19."
+        },
+        {
+          "letter": "B",
+          "text": "420",
+          "is_correct": true,
+          "feedback": "Correcto. La regla es $n(n+1)$ o $n^2+n$. Para $n=20: 20(21) = 420$."
+        },
+        {
+          "letter": "C",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo elevó al cuadrado sin sumar $n$."
+        },
+        {
+          "letter": "D",
+          "text": "440",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al identificar el patrón de crecimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos el patrón: $1 \\times 2, 2 \\times 3, 3 \\times 4, 4 \\times 5...$ Es la sucesión de los números oblongos, cuya regla general es $a_n = n(n + 1)$. Evaluamos para $n = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v15",
+      "statement": "Si los números 2, $x$, 6 forman una progresión armónica, ¿cuál es el valor de $x$?",
+      "context": "Progresiones armónicas y su relación con las aritméticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 es la media aritmética, no la armónica."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. En una progresión armónica, los recíprocos están en PA. $2/x = 1/2 + 1/6 \\Rightarrow 2/x = 4/6 = 2/3 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "3.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar con las fracciones de los recíprocos."
+        },
+        {
+          "letter": "D",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise la definición de media armónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una sucesión es armónica si los recíprocos de sus términos forman una progresión aritmética. Resolvemos para que $1/2, 1/x, 1/6$ sea una PA, o usamos la fórmula de la media armónica: $x = \\frac{2ab}{a+b}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v16",
+      "statement": "Si en la primera casilla de un tablero de ajedrez se pone 1 grano, en la segunda 2, en la tercera 4, y así sucesivamente. ¿Cuántos granos habrá en total en las primeras 10 casillas?",
+      "context": "La leyenda del tablero de ajedrez y los granos de trigo, un clásico de las progresiones geométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "512 granos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el contenido de la décima casilla, no la suma total."
+        },
+        {
+          "letter": "B",
+          "text": "1023 granos",
+          "is_correct": true,
+          "feedback": "Correcto. $S_{10} = 1(2^{10} - 1) / (2 - 1) = 1024 - 1 = 1023$."
+        },
+        {
+          "letter": "C",
+          "text": "1024 granos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el 1 inicial en la fórmula de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "2047 granos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una casilla de más."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se trata de la suma de los primeros 10 términos de una progresión geométrica con $a_1 = 1$ y $r = 2$. Aplicamos la fórmula $S_n = \\frac{a_1(r^n - 1)}{r - 1}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v17",
+      "statement": "Entre los números 1 y 100 se han interpolado $n$ medios aritméticos. Si la suma de todos los términos de la progresión resultante es 1010, halle el valor de $n$.",
+      "context": "Un problema complejo de interpolación y suma, nivel admisión UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el número total de términos, no los medios interpolados."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. $S = (1 + 100) \\cdot N / 2 = 1010 \\Rightarrow 101 \\cdot N = 2020 \\Rightarrow N = 20$. Como $N = n + 2$, entonces $n = 18$."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al relacionar el número de términos con el número de medios."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor insuficiente para alcanzar la suma total dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos el número total de términos $N$ usando la fórmula de la suma. Luego, restamos los dos extremos conocidos (1 y 100) para encontrar la cantidad de términos que fueron interpolados.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v18",
+      "statement": "Dada la sucesión: $a_1 = 1, a_2 = 1$ y $a_n = a_{n-1} + a_{n-2}$ para $n > 2$. Halle el valor de $a_6 + a_3$.",
+      "context": "Sucesiones definidas por recurrencia, como la famosa sucesión de Fibonacci.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al generar los términos de la secuencia de Fibonacci."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Términos: 1, 1, 2, 3, 5, 8. $a_6 = 8$ y $a_3 = 2$. Suma: $8 + 2 = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisé mal el sexto término."
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el séptimo término en lugar del sexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Generamos los términos de la sucesión de Fibonacci sumando los dos anteriores. Calculamos hasta el sexto término y sumamos los valores solicitados.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v19",
+      "statement": "Si los números $k-4, k, 2k+12$ forman una progresión geométrica de términos reales, halle la suma de los posibles valores de $k$.",
+      "context": "Una progresión mixta en la que los términos dependen de un parámetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el signo de la suma de raíces mediante Vieta."
+        },
+        {
+          "letter": "B",
+          "text": "-8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró que el producto de los extremos genera una ecuación cuadrática específica."
+        },
+        {
+          "letter": "C",
+          "text": "-4",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la propiedad del término medio de una PG ($k^2 = (k-4)(2k+12)$), obtenemos la ecuación $k^2 = 2k^2 + 4k - 48$, que simplifica a $k^2 + 4k - 48 = 0$. Por Vieta, la suma de las raíces es $-b/a = -4$."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por error en los signos de la factorización."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una PG de tres términos, el cuadrado del término central es igual al producto de los extremos. Esto genera una ecuación cuadrática para el parámetro $k$. La suma de los valores de $k$ se puede hallar rápidamente mediante las propiedades de Cardano-Vieta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v20",
+      "statement": "Calcule el valor de la suma: $S = \\frac{1}{2} + \\frac{2}{4} + \\frac{3}{8} + \\frac{4}{16} + ...$",
+      "context": "Un problema de límites y convergencia de series combinadas, nivel avanzado pre-UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es superior."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una serie aritmético-geométrica. Si $S = 1/2 + 2/4 + 3/8...$, entonces $S/2 = 1/4 + 2/8 + 3/16...$. Restando $S - S/2 = 1/2 + 1/4 + 1/8 + ...$ lo cual es una serie geométrica de suma 1. Entonces $S/2 = 1 \\Rightarrow S = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el límite de convergencia de la serie."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la suma de la parte geométrica resultante de la resta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se trata de una serie aritmético-geométrica. Para resolverla, multiplicamos la serie por la razón de la parte geométrica (1/2) y restamos ambas expresiones. El resultado de la resta es una serie geométrica pura cuya suma es conocida, lo que permite despejar el valor de $S$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

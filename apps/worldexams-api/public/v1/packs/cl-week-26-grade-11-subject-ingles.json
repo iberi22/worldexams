@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v1",
+      "statement": "Global citizenship is the idea that one's identity transcends geography or political borders.",
+      "context": "Defining the core concept.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "stays within",
+          "is_correct": false,
+          "feedback": "Incorrect. Global citizenship goes beyond borders."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "transcends",
+          "is_correct": true,
+          "feedback": "Correct. Transcends means to go beyond the range or limits of."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "obeys",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. While laws are obeyed, the 'identity' is what transcends."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "ignores",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It recognizes borders but places identity beyond them."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Transcends' is the appropriate verb for describing how an identity or idea goes beyond physical limits.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v2",
+      "statement": "Human rights are being protected by international treaties and organizations around the world.",
+      "context": "Discussing human rights.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "are protecting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are being protected",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing state."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "protected",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "have protected",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the ongoing, active protection of rights.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v3",
+      "statement": "If nations cooperated more effectively, many global crises would be resolved faster.",
+      "context": "Conditional about global cooperation.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "cooperate",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cooperated",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present change."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "have cooperated",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "would cooperate",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the likely result of an imaginary increase in global cooperation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v4",
+      "statement": "Cosmopolitanism is the ideology that all human beings belong to a single community, based on a shared morality.",
+      "context": "Article about \"cosmopolitanism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "morality",
+          "is_correct": true,
+          "feedback": "Correct. Morality refers to principles concerning the distinction between right and wrong."
+        },
+        {
+          "letter": "B",
+          "text": "currency",
+          "is_correct": false,
+          "feedback": "Incorrect. Not all share the same money."
+        },
+        {
+          "letter": "C",
+          "text": "language",
+          "is_correct": false,
+          "feedback": "Incorrect. There are many different languages."
+        },
+        {
+          "letter": "D",
+          "text": "location",
+          "is_correct": false,
+          "feedback": "Incorrect. Human beings are spread globally."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "explanation": "'Morality' (or shared ethics) is the foundation of the cosmopolitan idea of a single human community.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v5",
+      "statement": "Civic engagement involves individual and collective actions designed to identify and address issues of public concern.",
+      "context": "Discussion on \"civic engagement\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Focus is on 'public' concern."
+        },
+        {
+          "letter": "B",
+          "text": "public",
+          "is_correct": true,
+          "feedback": "Correct. Civic engagement is about the community and society."
+        },
+        {
+          "letter": "C",
+          "text": "secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually involves open participation."
+        },
+        {
+          "letter": "D",
+          "text": "trivial",
+          "is_correct": false,
+          "feedback": "Incorrect. Issues addressed are usually important."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Public' concern describes the shared social or political issues that civic engagement aims to improve.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v6",
+      "statement": "An NGO is a non-profit organization that operates independently of any government.",
+      "context": "Non-profit organizations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agency",
+          "is_correct": false,
+          "feedback": "Incorrect. Agencies are often government-run."
+        },
+        {
+          "letter": "B",
+          "text": "NGO",
+          "is_correct": true,
+          "feedback": "Correct. Non-Governmental Organization."
+        },
+        {
+          "letter": "C",
+          "text": "Corporation",
+          "is_correct": false,
+          "feedback": "Incorrect. A corporation is usually for-profit."
+        },
+        {
+          "letter": "D",
+          "text": "Embassy",
+          "is_correct": false,
+          "feedback": "Incorrect. An embassy is a government office abroad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'NGO' is the acronym for organizations that work on social or environmental issues without government control.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
       "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v7",
+      "statement": "It is recommended that students learn about different cultures to foster global understanding.",
+      "context": "Recommendation for global awareness.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "learn",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct. Subjunctive base form after 'recommended'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "learns",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third person singular not used in formal subjunctive."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "to learn",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Doesn't fit 'that' clause."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "learning",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Gerund."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "explanation": "The base form 'learn' is used in the subjunctive mood to express a recommendation.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v8",
+      "statement": "Advocacy is any action that speaks, writes, or acts on behalf of a particular cause or policy.",
+      "context": "Text on \"advocacy\".",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "Silence",
+          "is_correct": false,
+          "feedback": "Incorrect. Advocacy is active."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Advocacy",
+          "is_correct": true,
+          "feedback": "Correct. The act of supporting or recommending a cause."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Denial",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Rejecting something."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Indifference",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Not caring."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Advocacy' is the specific term for active support and promotion of a cause.\n\n---",
       "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v9",
+      "statement": "He had been volunteering for the Red Cross for two years before he was hired as a full-time staff member.",
+      "context": "Describing a past volunteer experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was volunteering",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous doesn't emphasize duration as well here."
+        },
+        {
+          "letter": "B",
+          "text": "had been volunteering",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been volunteering",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "volunteered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes a continuous action (volunteering) leading up to a specific past event (being hired).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v10",
+      "statement": "Ethnocentrism is the tendency to view one's own culture as superior and to judge other cultures based on one's own standards.",
+      "context": "Critique of \"ethnocentrism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equality",
+          "is_correct": false,
+          "feedback": "Incorrect. Based on superiority."
+        },
+        {
+          "letter": "B",
+          "text": "superior",
+          "is_correct": true,
+          "feedback": "Correct. Superiority is the belief that one's culture is better than others."
+        },
+        {
+          "letter": "C",
+          "text": "inferior",
+          "is_correct": false,
+          "feedback": "Incorrect. Judge others as inferior, but view *one's own* as superior."
+        },
+        {
+          "letter": "D",
+          "text": "neutral",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a biased view."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Superior' correctly identifies the biased perspective that characterizes ethnocentrism.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v11",
+      "statement": "Empathy is a key component of global citizenship, as it allows us to understand the experiences of people from different backgrounds.",
+      "context": "Defining \"empathy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of interest."
+        },
+        {
+          "letter": "B",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Correct. Ability to understand others."
+        },
+        {
+          "letter": "C",
+          "text": "Envy",
+          "is_correct": false,
+          "feedback": "Incorrect. Jealousy."
+        },
+        {
+          "letter": "D",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Selfish desire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empathy' is fundamental for understanding and connecting with the global community.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v12",
+      "statement": "Migrants whose safety is at risk have the right to seek asylum in other countries.",
+      "context": "Passenger rights (adapted for global migrants).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject pronoun."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. Possessive relative pronoun for 'migrants' safety'."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is used to show possession, linking the migrants to the safety that is at risk.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v13",
+      "statement": "Social justice is the view that everyone deserves equal economic, political, and social rights and opportunities.",
+      "context": "Discussing \"social justice\".",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Money-focused."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "opportunities",
+          "is_correct": true,
+          "feedback": "Correct. Refers to chances for success."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "outcomes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Not the standard phrase."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "status",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Position."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Opportunities' is a core part of the definition of social justice, emphasizing fair chances for all.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v14",
+      "statement": "You shouldn't judge cultural practices unless you understand the context in which they developed.",
+      "context": "Advice on cross-cultural interaction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If you understand' would mean don't judge if you *do* understand."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast."
+        },
+        {
+          "letter": "D",
+          "text": "whether",
+          "is_correct": false,
+          "feedback": "Incorrect. Choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the condition that understanding context must happen before judgment can be fair.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v15",
+      "statement": "The author concludes that being an active citizen means taking responsibility for the well-being of the entire global community.",
+      "context": "Conclusion of an essay on \"active citizenship\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of active."
+        },
+        {
+          "letter": "B",
+          "text": "taking responsibility",
+          "is_correct": true,
+          "feedback": "Correct. Implies active care and effort."
+        },
+        {
+          "letter": "C",
+          "text": "avoiding",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "resenting",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative feeling."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Taking responsibility' is the proactive behavior that defines active global citizenship.\n\n---",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v16",
+      "statement": "A stereotype is a widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+      "context": "Intercultural terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fact",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "stereotype",
+          "is_correct": true,
+          "feedback": "Correct. Oversimplified and often biased idea."
+        },
+        {
+          "letter": "C",
+          "text": "news",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "slogan",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Stereotype' is the term for the reductive generalizations made about groups of people.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v17",
+      "statement": "I wish I had learned a second language when I was younger to better connect with people from other countries.",
+      "context": "Expressing a past regret about global awareness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "learned",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "B",
+          "text": "had learned",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "would learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past perfect' structure is used to express regret about a past lack of action or knowledge.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v18",
+      "statement": "Cultural diplomacy involves the exchange of ideas, information, and art to foster mutual understanding between nations.",
+      "context": "Text about \"cultural diplomacy\".",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. Diplomacy aims to reduce conflict."
         },
         {
           "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "mutual understanding",
+          "is_correct": true,
+          "feedback": "Correct. The goal of positive intercultural exchange."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "trade barriers",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Diplomacy often works to remove these."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Diplomacy is about connection."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Mutual understanding' is the primary positive outcome sought through cultural diplomacy.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v19",
+      "statement": "The activist said that everyone had a role to play in protecting the environment.",
+      "context": "Reporting a speaker's call to action.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'has' to 'had'."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Future."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "have had",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v20",
+      "statement": "Ultimately, our shared humanity is more significant than the national or cultural differences that divide us.",
+      "context": "Final thought on humanity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "humanity",
+          "is_correct": true,
+          "feedback": "Correct. The quality of being human."
+        },
+        {
+          "letter": "B",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the social point."
+        },
+        {
+          "letter": "C",
+          "text": "power",
+          "is_correct": false,
+          "feedback": "Incorrect. Power often divides."
+        },
+        {
+          "letter": "D",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Shared humanity' is the central concept in global citizenship that emphasizes commonality over division.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

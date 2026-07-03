@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v1",
+      "statement": "Inflation refers to the general increase in prices and the fall in the purchasing value of money.",
+      "context": "Basic economic terms.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Recession",
+          "is_correct": false,
+          "feedback": "Incorrect. A recession is a period of temporary economic decline."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Inflation",
+          "is_correct": true,
+          "feedback": "Correct. Inflation is the rise in prices over time."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Deflation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Deflation is a decrease in prices."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Interest",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Interest is the cost of borrowing money."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Inflation' is the standard economic term for the situation where the cost of living increases.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v2",
+      "statement": "The stock market has been fluctuating significantly due to recent political instability.",
+      "context": "Discussing market trends.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "fluctuates",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has been fluctuating",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an action that started in the past and is still ongoing."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "fluctuated",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "will fluctuate",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Simple future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous 'has been fluctuating' emphasizes the ongoing nature of the market's volatility.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v3",
+      "statement": "If the trade barriers were removed, the volume of international commerce would increase.",
+      "context": "Conditional about trade policy.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "will remove",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent with 'would'."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "were removed",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional passive for a hypothetical situation."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "are removed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "had been removed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "The second conditional passive 'if + were + past participle' is used to discuss a hypothetical change in policy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v4",
+      "statement": "Globalization has led to increased interdependence among nations, making local economies more susceptible to global shifts.",
+      "context": "Article about globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "independence",
+          "is_correct": false,
+          "feedback": "Incorrect. Interdependence is the opposite of independence."
+        },
+        {
+          "letter": "B",
+          "text": "interdependence",
+          "is_correct": true,
+          "feedback": "Correct. Interdependence means mutual reliance between countries."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Globalization reduces isolation."
+        },
+        {
+          "letter": "D",
+          "text": "self-sufficiency",
+          "is_correct": false,
+          "feedback": "Incorrect. Self-sufficiency means not needing others."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Interdependence' correctly identifies the mutual reliance that characterizes the modern global economy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v5",
+      "statement": "Critics of the current economic system argue that wealth is disproportionately concentrated in the hands of a small percentage of the population.",
+      "context": "Discussion on income inequality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equally",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it's concentrated in a 'small percentage'."
+        },
+        {
+          "letter": "B",
+          "text": "disproportionately",
+          "is_correct": true,
+          "feedback": "Correct. Disproportionately means in a way that is out of proportion."
+        },
+        {
+          "letter": "C",
+          "text": "fairly",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Concentrated' implies it is not fair."
+        },
+        {
+          "letter": "D",
+          "text": "minimally",
+          "is_correct": false,
+          "feedback": "Incorrect. If it's concentrated, it's not minimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Disproportionately' describes an unequal distribution that doesn't match the size of the groups.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v6",
+      "statement": "The World Bank provides financial and technical assistance to developing countries for development programs.",
+      "context": "International organizations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tax",
+          "is_correct": false,
+          "feedback": "Incorrect. Tax is money paid to the government."
+        },
+        {
+          "letter": "B",
+          "text": "assistance",
+          "is_correct": true,
+          "feedback": "Correct. Assistance means help or support."
+        },
+        {
+          "letter": "C",
+          "text": "competition",
+          "is_correct": false,
+          "feedback": "Incorrect. Competition is not the primary role of the World Bank."
+        },
+        {
+          "letter": "D",
+          "text": "debt",
+          "is_correct": false,
+          "feedback": "Incorrect. While it involves loans, the general term for the support is assistance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Assistance' is the appropriate term for the support provided by international organizations.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
       "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v7",
+      "statement": "Economists predict that interest rates will have risen by the end of the fiscal year.",
+      "context": "Prediction about interest rates.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "rise",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future needs 'will'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "will rise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Simple future."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "will have risen",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect for an action completed by a future point."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "rose",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "The future perfect 'will have risen' describes a state that will be a completed fact at a specific future deadline.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v8",
+      "statement": "Companies are under increasing pressure to operate sustainably and ethically.",
+      "context": "Text on corporate social responsibility.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "recklessly",
+          "is_correct": false,
+          "feedback": "Incorrect. Recklessly means without care."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
+          "text": "ethically",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Ethically means in a way that is morally right."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "secretly",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Transparency is usually required."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "aggressively",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. While they might compete aggressively, the pressure is for ethical behavior."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Ethically' refers to the moral principles that companies are expected to follow.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v9",
+      "statement": "The government had implemented several austerity measures before the economy began to recover.",
+      "context": "Describing a past economic crisis.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "implements",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "has implemented",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had implemented",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action before another past action."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "was implementing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past continuous."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had implemented' establishes the sequence of events during the crisis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v10",
+      "statement": "The author suggests that the relentless pursuit of economic growth may be incompatible with environmental preservation.",
+      "context": "Critique of consumerism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conducive",
+          "is_correct": false,
+          "feedback": "Incorrect. Conducive means helping to bring about."
+        },
+        {
+          "letter": "B",
+          "text": "incompatible",
+          "is_correct": true,
+          "feedback": "Correct. Incompatible means not able to exist or work together."
+        },
+        {
+          "letter": "C",
+          "text": "essential",
+          "is_correct": false,
+          "feedback": "Incorrect. Essential means absolutely necessary."
+        },
+        {
+          "letter": "D",
+          "text": "irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant means not connected."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Incompatible' correctly identifies the conflict described between growth and the environment.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v11",
+      "statement": "A budget is an estimate of income and expenditure for a set period of time.",
+      "context": "Definition of a budget.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "profit",
+          "is_correct": false,
+          "feedback": "Incorrect. Profit is income minus expenses."
         },
         {
           "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
           "text": "budget",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. A budget is a plan for money."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "asset",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. An asset is something valuable."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "liability",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A liability is a debt."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "'Budget' is the standard term for a financial plan.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v12",
+      "statement": "Thousands of jobs have been lost in the manufacturing sector over the last decade.",
+      "context": "Passive voice in an economic report.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "have lost",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been lost",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect passive for a process starting in the past."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "are losing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "lost",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The present perfect passive 'have been lost' describes the impact on employment over time.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v13",
+      "statement": "Emerging markets often offer higher potential returns but also involve greater risk for investors.",
+      "context": "Discussing emerging markets.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "Emerging",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct. Emerging markets are those of developing countries."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "Saturated",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Saturated markets are full."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "Stagnant",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Stagnant markets are not growing."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Monopolized",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Monopolized means controlled by one."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
+      "explanation": "'Emerging' is the standard term for economies that are in the process of rapid growth and industrialization.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v14",
+      "statement": "If the currency were devalued, exports would become cheaper for foreign buyers.",
+      "context": "Conditional about currency devaluation.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical situation."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' is used to discuss a hypothetical change in currency value.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v15",
+      "statement": "The author argues that fair trade initiatives help to alleviate poverty by ensuring producers receive a fair price for their goods.",
+      "context": "Conclusion of an essay on fair trade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aggravate",
+          "is_correct": false,
+          "feedback": "Incorrect. Aggravate means to make worse."
+        },
+        {
+          "letter": "B",
+          "text": "alleviate",
+          "is_correct": true,
+          "feedback": "Correct. To alleviate means to make a problem less severe."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Fair trade focuses on the problem."
+        },
+        {
+          "letter": "D",
+          "text": "maintain",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal is to reduce poverty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Alleviate' is the appropriate verb for reducing the severity of poverty.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W07-future-will-going-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v16",
+      "statement": "A multinational corporation is a company that operates in several countries.",
+      "context": "Business entities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "local",
+          "is_correct": false,
+          "feedback": "Incorrect. Local companies work in one area."
+        },
+        {
+          "letter": "B",
+          "text": "multinational",
+          "is_correct": true,
+          "feedback": "Correct. Multinational means in many nations."
+        },
+        {
+          "letter": "C",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private refers to ownership."
+        },
+        {
+          "letter": "D",
+          "text": "nonprofit",
+          "is_correct": false,
+          "feedback": "Incorrect. Nonprofit refers to the goal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Multinational' correctly describes the international scale of the corporation's operations.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v17",
+      "statement": "The citizens wish the government would control inflation more effectively.",
+      "context": "Expressing a hope for economic stability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "controls",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "to control",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "would control",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a desired change in behavior or situation."
+        },
+        {
+          "letter": "D",
+          "text": "had controlled",
+          "is_correct": false,
+          "feedback": "Incorrect. Wish about the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Wish + would' is used to express a desire for someone or something to change or act differently in the future.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v18",
+      "statement": "The gig economy is characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs.",
+      "context": "Text about the \"gig economy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stable",
+          "is_correct": false,
+          "feedback": "Incorrect. Gig work is often unstable."
+        },
+        {
+          "letter": "B",
+          "text": "gig",
+          "is_correct": true,
+          "feedback": "Correct. Gig economy is the term for this type of labor market."
+        },
+        {
+          "letter": "C",
+          "text": "traditional",
+          "is_correct": false,
+          "feedback": "Incorrect. Traditional jobs are usually permanent."
+        },
+        {
+          "letter": "D",
+          "text": "industrial",
+          "is_correct": false,
+          "feedback": "Incorrect. Industrial refers to factories."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Gig economy' is the modern term for a labor market dominated by short-term or freelance positions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v19",
+      "statement": "The analyst reported that the company's revenue had exceeded expectations last quarter.",
+      "context": "Reporting a financial forecast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exceeds",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has exceeded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had exceeded",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for backshifting in reported speech."
+        },
+        {
+          "letter": "D",
+          "text": "will exceed",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceeded' (present perfect) becomes 'had exceeded'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v20",
+      "statement": "A truly resilient economy must be built on the foundation of social justice and environmental stewardship.",
+      "context": "Final thought on economic ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resilient",
+          "is_correct": true,
+          "feedback": "Correct. Resilient means able to withstand or recover quickly from difficult conditions."
+        },
+        {
+          "letter": "B",
+          "text": "fragile",
+          "is_correct": false,
+          "feedback": "Incorrect. Fragile is the opposite of resilient."
+        },
+        {
+          "letter": "C",
+          "text": "stagnant",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnant means not growing."
+        },
+        {
+          "letter": "D",
+          "text": "volatile",
+          "is_correct": false,
+          "feedback": "Incorrect. Volatile means liable to change rapidly and unpredictably."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Resilient' describes an economy that can endure and recover from shocks.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-14-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.895Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-001-v1",
+      "statement": "Which auxiliary verb is used to form a negative sentence in the Past Simple?",
+      "context": "Identifying the auxiliary for past negatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "Does not",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Simple third person."
+        },
+        {
+          "letter": "C",
+          "text": "Did not",
+          "is_correct": true,
+          "feedback": "Correct! \"Did not\" (or \"didn't\") is the auxiliary for Past Simple."
+        },
+        {
+          "letter": "D",
+          "text": "Was not",
+          "is_correct": false,
+          "feedback": "Incorrect. This is only for the verb \"to be\" in the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the correct auxiliary for negative sentences in the Past Simple.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-002-v1",
+      "statement": "What is the correct structure for a Yes/No question in the Past Simple?",
+      "context": "Formation of questions in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did + Subject + Base Form of Verb + ?",
+          "is_correct": true,
+          "feedback": "Correct! This is the standard question structure."
+        },
+        {
+          "letter": "B",
+          "text": "Did + Subject + Past Form of Verb + ?",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"did\", we use the base form, not the past form."
+        },
+        {
+          "letter": "C",
+          "text": "Subject + Did + Verb + ?",
+          "is_correct": false,
+          "feedback": "Incorrect. The auxiliary must come first."
+        },
+        {
+          "letter": "D",
+          "text": "Do + Subject + Verb + ?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do\" is for present tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student remembers the structural components and verb form required for past tense questions.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-003-v1",
+      "statement": "Complete: \"I ________ my homework last night because I was very tired.\"",
+      "context": "A student explaining why they didn't do something.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't did",
+          "is_correct": false,
+          "feedback": "Incorrect. Use the base form \"do\" after \"didn't\"."
+        },
+        {
+          "letter": "B",
+          "text": "didn't do",
+          "is_correct": true,
+          "feedback": "Correct! \"Didn't\" + base form \"do\"."
+        },
+        {
+          "letter": "C",
+          "text": "not did",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "didn't done",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Done\" is a participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the need for the base form of a verb after the negative auxiliary in the past.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-004-v1",
+      "statement": "Did you like the Colombian coffee?",
+      "context": "Responding to a direct question about a past event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I like.",
+          "is_correct": false,
+          "feedback": "Incorrect. Short answers need the auxiliary \"did\"."
+        },
+        {
+          "letter": "B",
+          "text": "No, I don't.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question is in the past."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I did.",
+          "is_correct": true,
+          "feedback": "Correct! This is the correct short affirmative answer in the past."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I am.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question uses \"did\", not \"be\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands how to provide a correct short response to a Past Simple question.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-005-v1",
+      "statement": "\"Where ________ you go on your last vacation?\"",
+      "context": "Asking about someone's origin/trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Was\" is not used as an auxiliary for other verbs."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. The context is \"last vacation\" (past)."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! \"Did\" is the auxiliary for information questions in the past."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense and incorrect auxiliary for \"go\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies knowledge of the auxiliary \"did\" in the context of a Wh- question about the past.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-006-v1",
+      "statement": "What can we confirm about Camila?",
+      "context": "A short dialogue about a concert.\nAndrés: \"Did you go to the concert last night?\"\nCamila: \"No, I didn't. I stayed at home and studied for the biology exam.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She went to the concert.",
+          "is_correct": false,
+          "feedback": "Incorrect. She said \"No, I didn't\"."
+        },
+        {
+          "letter": "B",
+          "text": "She didn't go to the concert.",
+          "is_correct": true,
+          "feedback": "Correct! She used the negative auxiliary \"didn't\"."
+        },
+        {
+          "letter": "C",
+          "text": "She studied at the concert.",
+          "is_correct": false,
+          "feedback": "Incorrect. She was at home."
+        },
+        {
+          "letter": "D",
+          "text": "She didn't study for the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. She stayed home specifically to study."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to understand negative statements and confirmed actions in a past context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-007-v1",
+      "statement": "Choose the correct negative sentence.",
+      "context": "Correcting a sentence about a past preference.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They didn't visited the museum.",
+          "is_correct": false,
+          "feedback": "Incorrect. Use base form \"visit\" after \"didn't\"."
+        },
+        {
+          "letter": "B",
+          "text": "They didn't visits the museum.",
+          "is_correct": false,
+          "feedback": "Incorrect. No 's' after \"didn't\"."
+        },
+        {
+          "letter": "C",
+          "text": "They didn't visit the museum.",
+          "is_correct": true,
+          "feedback": "Correct! \"Didn't\" + base form \"visit\"."
+        },
+        {
+          "letter": "D",
+          "text": "They not visited the museum.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary \"did\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the rule of \"didn't + base form\" to identify the correct negative construction.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-008-v1",
+      "statement": "Which question is grammatically perfect?",
+      "context": "Analyzing the correct form of a question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did she saw the message?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Saw\" is past; should be \"see\"."
+        },
+        {
+          "letter": "B",
+          "text": "Did she see the message?",
+          "is_correct": true,
+          "feedback": "Correct! \"Did\" + subject + base form \"see\"."
+        },
+        {
+          "letter": "C",
+          "text": "Does she see the message?",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present tense, not appropriate if asking about a past event like a sent message."
+        },
+        {
+          "letter": "D",
+          "text": "Did she sees the message?",
+          "is_correct": false,
+          "feedback": "Incorrect. No 's' in the base form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes question structures to ensure the correct verb form is used with the auxiliary \"did\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-009-v1",
+      "statement": "What is true based on the son's answer?",
+      "context": "A dialogue between a mother and son.\nMom: \"Did you clean your room?\"\nSon: \"I cleaned the floor, but I didn't organize my desk.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He didn't clean the floor.",
+          "is_correct": false,
+          "feedback": "Incorrect. He says \"I cleaned the floor\"."
+        },
+        {
+          "letter": "B",
+          "text": "He organized his desk.",
+          "is_correct": false,
+          "feedback": "Incorrect. He says \"I didn't organize my desk\"."
+        },
+        {
+          "letter": "C",
+          "text": "His desk is still messy.",
+          "is_correct": true,
+          "feedback": "Correct! Since he didn't organize it, it remains as it was (likely messy)."
+        },
+        {
+          "letter": "D",
+          "text": "He didn't do anything.",
+          "is_correct": false,
+          "feedback": "Incorrect. He cleaned the floor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes affirmative and negative past statements to infer the current state of a situation.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W14-past-simple-q-neg-010-v1",
+      "statement": "Which evaluation of the situation is most accurate?",
+      "context": "Answering for someone else.\n\"A: Did Elena buy the bread? B: No, she forgot her money, so she didn't buy anything.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elena bought the bread but forgot her money.",
+          "is_correct": false,
+          "feedback": "Incorrect. She didn't buy it."
+        },
+        {
+          "letter": "B",
+          "text": "Elena's lack of money prevented her from completing the task.",
+          "is_correct": true,
+          "feedback": "Correct! Forgetting money is the cause, and not buying anything is the effect."
+        },
+        {
+          "letter": "C",
+          "text": "Elena bought some bread without money.",
+          "is_correct": false,
+          "feedback": "Incorrect. Impossible and contradicts the text."
+        },
+        {
+          "letter": "D",
+          "text": "Elena didn't want to buy bread.",
+          "is_correct": false,
+          "feedback": "Incorrect. The reason given is that she forgot her money, not that she didn't want to."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the cause-and-effect relationship in a short past narrative involving a negative action.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W14-past-simple-q-neg-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

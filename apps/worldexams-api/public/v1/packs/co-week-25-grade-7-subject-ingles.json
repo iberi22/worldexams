@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-25-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.900Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-001-v1",
+      "statement": "Which item is an example of a carbohydrate?",
+      "context": "Basic food groups.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect. This is protein."
+        },
+        {
+          "letter": "B",
+          "text": "Rice",
+          "is_correct": true,
+          "feedback": "Correct! Rice is a common carbohydrate."
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a liquid/mineral."
+        },
+        {
+          "letter": "D",
+          "text": "Spinach",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a vegetable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic food groups.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-002-v1",
+      "statement": "Complete the sentence: \"I eat ________ apple every morning.\"",
+      "context": "Using \"a/an\" correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Apple\" starts with a vowel sound."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": true,
+          "feedback": "Correct! \"An\" is used before words starting with a vowel sound."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible for plural, \"an\" is used for one specific apple."
+        },
+        {
+          "letter": "D",
+          "text": "the some",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the rule for indefinite articles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-003-v1",
+      "statement": "Which sentence is correct?",
+      "context": "Understanding countability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I drink much waters.",
+          "is_correct": false,
+          "feedback": "Incorrect. Water is uncountable and doesn't take 's'."
+        },
+        {
+          "letter": "B",
+          "text": "I drink many water.",
+          "is_correct": false,
+          "feedback": "Incorrect. Water is uncountable, needs \"much\"."
+        },
+        {
+          "letter": "C",
+          "text": "I drink a lot of water.",
+          "is_correct": true,
+          "feedback": "Correct! \"A lot of\" works with both countable and uncountable nouns."
+        },
+        {
+          "letter": "D",
+          "text": "I drink a water.",
+          "is_correct": false,
+          "feedback": "Incorrect. You need a container word like \"a glass of water\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the quantification of uncountable nouns.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-004-v1",
+      "statement": "If you want to have healthy teeth, you ________ eat too many sweets.",
+      "context": "Healthy lifestyle advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Eating sweets is bad for teeth."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" provides correct negative advice for this context."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be an obligation to do something bad."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the best modal for advice here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the pragmatic use of \"shouldn't\" for health advice.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-005-v1",
+      "statement": "\"We need to buy ________ milk and ________ eggs.\"",
+      "context": "Shopping for a party.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some / some",
+          "is_correct": true,
+          "feedback": "Correct! \"Some\" can be used for uncountable (milk) and plural countable (eggs)."
+        },
+        {
+          "letter": "B",
+          "text": "a / some",
+          "is_correct": false,
+          "feedback": "Incorrect. Milk is uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "an / an",
+          "is_correct": false,
+          "feedback": "Incorrect. Neither word works with \"an\"."
+        },
+        {
+          "letter": "D",
+          "text": "some / a",
+          "is_correct": false,
+          "feedback": "Incorrect. Eggs is plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the use of \"some\" to different noun types.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-006-v1",
+      "statement": "How often does Sara exercise?",
+      "context": "A paragraph about Sara's habits.\n\"Sara usually exercises on Mondays and Thursdays. She drinks very little soda and she always eats salad for lunch. She feels very healthy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Once a week.",
+          "is_correct": false,
+          "feedback": "Incorrect. She exercises on Mondays and Thursdays."
+        },
+        {
+          "letter": "B",
+          "text": "Twice a week.",
+          "is_correct": true,
+          "feedback": "Correct! Monday and Thursday make two times."
+        },
+        {
+          "letter": "C",
+          "text": "Every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. Only two specific days are mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "Never.",
+          "is_correct": false,
+          "feedback": "Incorrect. She does exercise."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to calculate frequency from specific data.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-007-v1",
+      "statement": "\"How ________ tomatoes do we need for the salad?\"",
+      "context": "Asking about a quantity of ingredients.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Incorrect. Tomatoes are countable."
+        },
+        {
+          "letter": "B",
+          "text": "many",
+          "is_correct": true,
+          "feedback": "Correct! \"Many\" is for countable nouns."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used with \"How\" for this question type."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used with \"How\" for this question type."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the correct interrogative quantifier for countable nouns.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-008-v1",
+      "statement": "\"I only have ________ money, so I can't buy the expensive organic fruit.\"",
+      "context": "Analyzing the correct quantifier for small amounts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a few",
+          "is_correct": false,
+          "feedback": "Incorrect. Money is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "a little",
+          "is_correct": true,
+          "feedback": "Correct! \"A little\" is for a small amount of an uncountable noun."
+        },
+        {
+          "letter": "C",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. Money is uncountable."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Any\" is for zero in negative/questions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the noun \"money\" as uncountable and selects the appropriate quantifier for a small amount.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-009-v1",
+      "statement": "What can you analyze about Juice A compared to Juice B?",
+      "context": "Comparing nutritional data.\n\"Juice A: 5g sugar, 20% Vitamin C. Juice B: 15g sugar, 10% Vitamin C.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juice A is less healthy than Juice B.",
+          "is_correct": false,
+          "feedback": "Incorrect. It has less sugar and more vitamins."
+        },
+        {
+          "letter": "B",
+          "text": "Juice A has more nutritional value and less sugar.",
+          "is_correct": true,
+          "feedback": "Correct! 20% vs 10% Vitamin C and 5g vs 15g sugar."
+        },
+        {
+          "letter": "C",
+          "text": "Juice B is the better option for a diet.",
+          "is_correct": false,
+          "feedback": "Incorrect. It has much more sugar."
+        },
+        {
+          "letter": "D",
+          "text": "They are exactly the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. The numbers are different."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and compares numeric data to determine the healthier option.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W25-review-p3-health-010-v1",
+      "statement": "Which statement best evaluates the student's changes?",
+      "context": "Evaluating a student's reflection on health.\n\"I used to drink soda every day, but now I drink water. I also started walking to school instead of taking the bus. I have more energy now and I am never bored in class.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The student's changes are only about food.",
+          "is_correct": false,
+          "feedback": "Incorrect. They also changed their transportation/exercise."
+        },
+        {
+          "letter": "B",
+          "text": "The student is lazy because they walk.",
+          "is_correct": false,
+          "feedback": "Incorrect. Walking is active and healthy."
+        },
+        {
+          "letter": "C",
+          "text": "Small changes in diet and activity led to improved physical and mental states.",
+          "is_correct": true,
+          "feedback": "Correct! Changing soda for water and walking led to more energy and focus."
+        },
+        {
+          "letter": "D",
+          "text": "Taking the bus was healthier.",
+          "is_correct": false,
+          "feedback": "Incorrect. Walking is generally healthier for energy levels."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates a set of behavioral changes to identify their overall impact on health and well-being.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W25-review-p3-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

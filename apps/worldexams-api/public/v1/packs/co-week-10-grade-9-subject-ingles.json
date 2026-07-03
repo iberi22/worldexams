@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-10-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.938Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v1",
+      "statement": "\"I can't find my passport!\"\n\"You ________ it in your suitcase. You were packing it this morning.\"",
+      "context": "Reviewing modals of deduction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't have left",
+          "is_correct": false,
+          "feedback": "Incorrect. If you were packing, it's very possible you left it there."
+        },
+        {
+          "letter": "B",
+          "text": "must have left",
+          "is_correct": true,
+          "feedback": "Correct! High probability deduction about a past action."
+        },
+        {
+          "letter": "C",
+          "text": "should leave",
+          "is_correct": false,
+          "feedback": "Incorrect. Not for deduction."
+        },
+        {
+          "letter": "D",
+          "text": "must leave",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *must have* seguido del participio pasado para hacer una deducción lógica fuerte sobre algo que ocurrió en el pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v2",
+      "statement": "The first radio broadcast in Colombia ________ in 1929.",
+      "context": "Reviewing passive voice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "made",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "was made",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple Passive for a finished historical event."
+        },
+        {
+          "letter": "C",
+          "text": "is made",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "has been made",
+          "is_correct": false,
+          "feedback": "Incorrect. Specific past year requires Past Simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hechos históricos donde el objeto (la transmisión) es el foco, usamos el Pasado Simple Pasivo (*was* + participio).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v3",
+      "statement": "If I ________ a world leader, I ________ laws to protect every citizen's digital privacy.",
+      "context": "Reviewing conditionals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am / will pass",
+          "is_correct": false,
+          "feedback": "Incorrect. Too unlikely for First Conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were / would pass",
+          "is_correct": true,
+          "feedback": "Correct! Second Conditional for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "was / will pass",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent tenses."
+        },
+        {
+          "letter": "D",
+          "text": "would be / passed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would\" doesn't go in the \"if\" clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Segundo Condicional (*were... would*) es el tiempo estándar para hablar de sueños o situaciones imaginarias en el presente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v4",
+      "statement": "Direct Speech: \"Where did you buy that traditional hat?\"\nReported Speech: He asked me where I ________ that traditional hat.",
+      "context": "Reviewing reported speech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bought",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing backshift."
+        },
+        {
+          "letter": "B",
+          "text": "had bought",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple shifts to Past Perfect in Reported Speech."
+        },
+        {
+          "letter": "C",
+          "text": "did buy",
+          "is_correct": false,
+          "feedback": "Incorrect. Auxiliaries are not used in reported questions."
+        },
+        {
+          "letter": "D",
+          "text": "have bought",
+          "is_correct": false,
+          "feedback": "Incorrect. Inappropriate tense shift."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al reportar una pregunta en pasado, el verbo retrocede al Pasado Perfecto (*had bought*) y el orden vuelve a ser el de una afirmación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v5",
+      "statement": "He ________ the manager. He is too young and he doesn't know how the system works.",
+      "context": "Reviewing modal deductions with negative evidence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't be",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Mustn't\" is for prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "can't be",
+          "is_correct": true,
+          "feedback": "Correct! Strong negative deduction based on evidence."
+        },
+        {
+          "letter": "C",
+          "text": "might not be",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for less certain possibility."
+        },
+        {
+          "letter": "D",
+          "text": "couldn't have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to the past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *can't* cuando estamos seguros de que algo no es posible en el presente basándonos en evidencias o lógica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v6",
+      "statement": "All historical sites ________ by visitors to ensure their preservation for future generations.",
+      "context": "Reviewing passive with modals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must respect",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "must be respected",
+          "is_correct": true,
+          "feedback": "Correct! Modal Passive (modal + be + past participle)."
+        },
+        {
+          "letter": "C",
+          "text": "must respected",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"be\"."
+        },
+        {
+          "letter": "D",
+          "text": "must being respected",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La voz pasiva con modales es esencial para expresar reglas, obligaciones o consejos de manera formal y general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses a **real possibility**?",
+      "context": "Distinguishing between conditional meanings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If we raise awareness, more people will join our cause.",
+          "is_correct": true,
+          "feedback": "Correct! First conditional is for real/likely future events."
+        },
+        {
+          "letter": "B",
+          "text": "If we raised awareness, more people would join our cause.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies we are not currently raising awareness."
+        },
+        {
+          "letter": "C",
+          "text": "If we had raised awareness, more people would have joined.",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a past regret."
+        },
+        {
+          "letter": "D",
+          "text": "We will raise awareness unless more people join.",
+          "is_correct": false,
+          "feedback": "Incorrect. This logic doesn't make sense in this context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A nivel B2, el estudiante debe diferenciar el grado de probabilidad entre el Primer Condicional (real) y el Segundo (hipotético).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v8",
+      "statement": "The activist ________ to support the new law.",
+      "context": "Reporting a request vs. a question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "asked if we can",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed direct and indirect speech."
+        },
+        {
+          "letter": "B",
+          "text": "urged us to support",
+          "is_correct": true,
+          "feedback": "Correct! \"Urge\" is a reporting verb for strong requests, followed by object + to + infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "said us to support",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Say\" cannot be used with an object + infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "told that we support",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing object and proper structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen diversos verbos de reporte (*urge*, *advise*, *encourage*) que siguen la estructura de peticiones/órdenes: objeto + *to* + infinitivo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v9",
+      "statement": "The ancient builders ________ very advanced tools, though we haven't found them yet.",
+      "context": "Complex deduction about a historical figure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must use",
+          "is_correct": false,
+          "feedback": "Incorrect. Present deduction."
+        },
+        {
+          "letter": "B",
+          "text": "must have used",
+          "is_correct": true,
+          "feedback": "Correct! Deduction about the past based on the results (the buildings)."
+        },
+        {
+          "letter": "C",
+          "text": "can't have used",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the achievement."
+        },
+        {
+          "letter": "D",
+          "text": "should have used",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for unfulfilled obligations."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para explicar logros del pasado cuya metodología exacta desconocemos, el *must have* permite proponer la explicación más lógica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Social media **is used** (A) by billions. Experts say that if we **would spend** (B) less time online, we **would be** (C) happier. They also told us **to find** (D) more offline hobbies.\"",
+      "context": "Identifying an error in a summary of cultural trends.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is used",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct Present Passive."
+        },
+        {
+          "letter": "B",
+          "text": "would spend",
+          "is_correct": true,
+          "feedback": "Correct! In the \"if\" clause of a conditional, we use past simple (*spent*), not *would*."
+        },
+        {
+          "letter": "C",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of *would* in the result clause."
+        },
+        {
+          "letter": "D",
+          "text": "to find",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct reported request structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar que nunca se coloca *would* inmediatamente después de *if* es una de las reglas de oro de los condicionales en el nivel B2.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v11",
+      "statement": "Which of these reported questions sounds the most **polite and formal**?",
+      "context": "Judging the most polite reported question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He asked what was my name.",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect word order for reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "He inquired whether I was interested in the position.",
+          "is_correct": true,
+          "feedback": "Correct! \"Inquire\" and \"whether\" are more formal than \"ask\" and \"if\"."
+        },
+        {
+          "letter": "C",
+          "text": "He asked if I liked the job.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct but less formal than B."
+        },
+        {
+          "letter": "D",
+          "text": "He wanted to know why did I come.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Did\" should not be in a reported question."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de verbos de reporte más sofisticados (*inquire*) y el conector *whether* eleva el registro del lenguaje, algo esperado en estudiantes de nivel B2.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v12",
+      "statement": "Choose the most coherent summary:\n\"If cultures ________ more, stereotypes ________. That's why the teacher ________ us to learn about other traditions.\"",
+      "context": "Choosing the best integration of multiple structures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "interacted / will disappear / said",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed conditional and poor reporting."
+        },
+        {
+          "letter": "B",
+          "text": "interacted / would disappear / urged",
+          "is_correct": true,
+          "feedback": "Correct! Second conditional for a desired state and proper reporting verb."
+        },
+        {
+          "letter": "C",
+          "text": "had interacted / would disappear / told",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional doesn't fit the general advice."
+        },
+        {
+          "letter": "D",
+          "text": "interact / disappear / asked",
+          "is_correct": false,
+          "feedback": "Incorrect. Zero conditional is too simplistic here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final integra el pensamiento hipotético (*Second Conditional*) con el reporte de una recomendación (*Reported Request*) en un contexto cultural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

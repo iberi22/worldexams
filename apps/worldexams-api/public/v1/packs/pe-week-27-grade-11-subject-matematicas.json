@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-27-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.432Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición necesaria para que un ángulo esté en \"posición normal\" en el plano cartesiano?",
+      "context": "Un estudiante en Lima repasa la definición de un ángulo en posición normal en el plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su lado final debe estar en el primer cuadrante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado final puede ubicarse en cualquier cuadrante o sobre un eje coordenado."
+        },
+        {
+          "letter": "B",
+          "text": "Su vértice debe estar en el origen y su lado inicial sobre el eje Y positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado inicial debe coincidir con el semieje X positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Su vértice debe estar en el origen y su lado inicial sobre el eje X positivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Por convención, un ángulo en posición normal (o estándar) nace en el semieje positivo de las abscisas y tiene su vértice en el punto (0,0)."
+        },
+        {
+          "letter": "D",
+          "text": "Debe medirse siempre en sentido antihorario.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ángulo se encuentra en posición normal cuando su vértice se ubica en el origen de coordenadas $(0,0)$ y su lado inicial coincide con el semieje positivo de las abscisas (eje X). Su medida puede ser positiva o negativa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v2",
+      "statement": "¿En qué cuadrantes la razón trigonométrica \"Seno\" toma valores positivos?",
+      "context": "Análisis del signo de las razones trigonométricas en los cuadrantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I y II cuadrante",
+          "is_correct": true,
+          "feedback": "Correcto. El seno se asocia con la ordenada (y). El eje Y es positivo por encima del eje X, lo que corresponde a los cuadrantes superiores."
+        },
+        {
+          "letter": "B",
+          "text": "I y III cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III cuadrante el seno es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "II y III cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "I y IV cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el sistema de coordenadas, el seno de un ángulo $\\theta$ se define como $y/r$. Como el radio vector $r$ es siempre positivo, el signo del seno depende de la ordenada $y$. Esta es positiva en los cuadrantes I y II.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v3",
+      "statement": "Si el punto $P(-3, 4)$ pertenece al lado final de un ángulo $\\alpha$ en posición normal, calcule el valor de $\\sin(\\alpha)$.",
+      "context": "Un punto en el plano cartesiano pertenece al lado final de un ángulo $\\alpha$ en posición normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del coseno ($x/r$)."
+        },
+        {
+          "letter": "B",
+          "text": "4/5",
+          "is_correct": true,
+          "feedback": "Correcto. Radio vector $r = \\sqrt{(-3)^2 + 4^2} = 5$. Sin = $y/r = 4/5$."
+        },
+        {
+          "letter": "C",
+          "text": "-4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos primero el radio vector $r = \\sqrt{x^2 + y^2} = \\sqrt{(-3)^2 + 4^2} = 5$. Por definición, el seno es el cociente de la ordenada entre el radio vector: $\\sin\\alpha = 4/5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor del radio de la Circunferencia Trigonométrica (C.T.)?",
+      "context": "Estudio de la circunferencia trigonométrica (C.T.) en Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. La C.T. se define como una circunferencia de radio unitario con centro en el origen de coordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "180",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Circunferencia Trigonométrica es una herramienta geométrica donde el radio es igual a 1 unidad. Esto permite que las coordenadas de los puntos sobre ella coincidan con los valores del coseno y el seno del ángulo respectivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v5",
+      "statement": "Calcule el valor numérico de la expresión: $M = \\sin(270^\\circ) + \\cos(180^\\circ)$.",
+      "context": "Cálculo de razones trigonométricas para ángulos cuadrantales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": true,
+          "feedback": "Correcto. \\sin(270) = -1 y \\cos(180) = -1. La suma es -2."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ángulos cuadrantales son múltiplos de 90°. En la C.T., el punto para 270° es $(0, -1)$, por lo que $\\sin(270^\\circ) = -1$. El punto para 180° es $(-1, 0)$, por lo que $\\cos(180^\\circ) = -1$. La suma es $-1 + (-1) = -2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v6",
+      "statement": "Si un arco $\\alpha$ pertenece al segundo cuadrante, determine el intervalo de variación para $\\sin(\\alpha)$.",
+      "context": "Variación del seno en el segundo cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-1, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\langle 0, 1 \\rangle$",
+          "is_correct": true,
+          "feedback": "Correcto. En el II cuadrante, la ordenada varía desde 1 (en 90°) hasta 0 (en 180°), sin tocar los ejes."
+        },
+        {
+          "letter": "C",
+          "text": "$\\langle -1, 0 \\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los extremos del cuadrante (90 y 180) no pertenecen al cuadrante propiamente dicho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el segundo cuadrante ($90^\\circ < \\alpha < 180^\\circ$), el seno es positivo. Comienza con un valor cercano a 1 y decrece hasta acercarse a 0. Como el intervalo del cuadrante es abierto, el rango del seno también es abierto: $\\langle 0, 1 \\rangle$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v7",
+      "statement": "Dos ángulos son coterminales. Si uno de ellos mide 400°, ¿cuál podría ser la medida del otro ángulo?",
+      "context": "Un problema sobre ángulos coterminales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no es un múltiplo de 360°."
+        },
+        {
+          "letter": "B",
+          "text": "40°",
+          "is_correct": true,
+          "feedback": "Correcto. Dos ángulos son coterminales si su diferencia es un múltiplo entero de 360°. 400 - 40 = 360."
+        },
+        {
+          "letter": "C",
+          "text": "140°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "220°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos ángulos están en posición normal y son coterminales si comparten el mismo lado final. Esto ocurre si su diferencia es un número entero de vueltas completas ($360^\\circ \\cdot k$). Como $400^\\circ - 40^\\circ = 360^\\circ$, son coterminales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v8",
+      "statement": "Si $\\sin(\\alpha) = -1/2$ y $\\alpha$ pertenece al III Cuadrante, calcule el valor de $\\tan(\\alpha)$.",
+      "context": "Cálculo de la tangente en el tercer cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}/3$",
+          "is_correct": true,
+          "feedback": "Correcto. En el III cuadrante x e y son negativos. r=2, y=-1 \\Rightarrow x=-\\sqrt{3}. Tan = y/x = -1/-\\sqrt{3} = \\sqrt{3}/3."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\sqrt{3}/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III cuadrante la tangente es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el tercer cuadrante, la ordenada $y$ y la abscisa $x$ son negativas. Con $\\sin\\alpha = -1/2$, asignamos $y = -1$ y $r = 2$. Hallamos $x = -\\sqrt{2^2 - (-1)^2} = -\\sqrt{3}$. La tangente es $y/x = (-1) / (-\\sqrt{3}) = 1/\\sqrt{3} = \\sqrt{3}/3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v9",
+      "statement": "Determine el área del triángulo formado por el origen (0,0), el punto del arco $\\theta$ en el segundo cuadrante, y su proyección sobre el eje X.",
+      "context": "Área sombreada en la circunferencia trigonométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\sin\\theta \\cos\\theta) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el II cuadrante el coseno es negativo, el área debe ser positiva."
+        },
+        {
+          "letter": "B",
+          "text": "$-(\\sin\\theta \\cos\\theta) / 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Altura = sin\\theta (positivo). Base = |cos\\theta| = -cos\\theta (ya que cos < 0). Area = (1/2)*Base*Altura."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\sin\\theta) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-(\\cos\\theta) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El triángulo tiene vértices en $(0,0)$, $(\\cos\\theta, \\sin\\theta)$ y $(\\cos\\theta, 0)$. Su base es el valor absoluto de la abscisa $|\\cos\\theta|$ y su altura es la ordenada $\\sin\\theta$. En el II cuadrante, $\\cos\\theta$ es negativo, por lo que su magnitud es $-\\cos\\theta$. El área es $(1/2) \\cdot (-\\cos\\theta) \\cdot \\sin\\theta$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes comparaciones es correcta?",
+      "context": "Comparación de valores trigonométricos en la C.T.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(10^\\circ) > \\sin(80^\\circ)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno es creciente en el primer cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(10^\\circ) > \\cos(80^\\circ)$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno es decreciente en el primer cuadrante."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin(200^\\circ) > \\sin(100^\\circ)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negativo vs Positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos(100^\\circ) > 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno es negativo en el II cuadrante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el primer cuadrante, a medida que el ángulo aumenta de 0 a 90°, el valor del coseno disminuye desde 1 hasta 0. Por lo tanto, un ángulo menor tiene un coseno mayor: $\\cos 10^\\circ > \\cos 80^\\circ$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v11",
+      "statement": "Si $\\alpha \\in II$ Cuadrante y $\\beta \\in III$ Cuadrante, determine el signo de la expresión: $E = \\sin(\\alpha) \\cdot \\cos(\\beta)$.",
+      "context": "Signo de expresiones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positivo (+)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Negativo (-)",
+          "is_correct": true,
+          "feedback": "Correcto. \\sin(II) es (+) y \\cos(III) es (-). El producto es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Cero (0)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de los valores exactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos en los cuadrantes son fijos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluamos el signo de cada factor por su ubicación cuadrantal: en el segundo cuadrante el seno es positivo (+). En el tercer cuadrante el coseno es negativo (-). El producto de un número positivo por uno negativo es siempre negativo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v12",
+      "statement": "Calcule el valor exacto de $\\cos(300^\\circ)$.",
+      "context": "Reducción al primer cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "-1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. \\cos(300) = \\cos(360-60) = \\cos(60) = 1/2. El signo es positivo por estar en el IV cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para ángulos en el cuarto cuadrante, usamos la relación $\\cos(360^\\circ - \\theta) = \\cos\\theta$. Así, $\\cos 300^\\circ = \\cos(360^\\circ - 60^\\circ) = \\cos 60^\\circ$. El valor de $\\cos 60^\\circ$ es $1/2$. Como el coseno es positivo en el cuarto cuadrante, el resultado es $+1/2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v13",
+      "statement": "En la C.T., se tiene el punto del arco $\\alpha$ en el primer cuadrante. Calcule el cuadrado de la distancia de dicho punto al punto $(1, 0)$.",
+      "context": "Distancia entre puntos en la C.T.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 - \\cos^2\\alpha$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$2 - 2\\cos\\alpha$",
+          "is_correct": true,
+          "feedback": "Correcto. d^2 = (cos\\alpha-1)^2 + (sin\\alpha-0)^2 = cos^2\\alpha - 2cos\\alpha + 1 + sin^2\\alpha = 2 - 2cos\\alpha."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin^2\\alpha$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$2 + 2\\cos\\alpha$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de distancia entre puntos $(x_1, y_1)$ y $(x_2, y_2)$ elevada al cuadrado: $d^2 = (x_2 - x_1)^2 + (y_2 - y_1)^2$. Para los puntos $(\\cos\\alpha, \\sin\\alpha)$ y $(1, 0)$, obtenemos $d^2 = (\\cos\\alpha - 1)^2 + \\sin^2\\alpha$. Al expandir y usar la identidad $\\sin^2\\alpha + \\cos^2\\alpha = 1$, la expresión se reduce a $2 - 2\\cos\\alpha$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v14",
+      "statement": "Determine el rango de la función $f(\\theta) = 2\\cos\\theta + 1$ si $\\theta \\in [60^\\circ, 180^\\circ]$.",
+      "context": "Rango de una función trigonométrica en un intervalo restringido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-1, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$[-1, 2]$",
+          "is_correct": true,
+          "feedback": "Correcto. En el intervalo, cos\\theta varía de 0.5 a -1. Entonces 2cos varía de 1 a -2. Al sumar 1, el rango es [-1, 2]."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$[-1, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el intervalo dado, el coseno decrece continuamente. En $60^\\circ$, $\\cos = 0.5$ y en $180^\\circ$, $\\cos = -1$. Por lo tanto, $-1 \\le \\cos\\theta \\le 0.5$. Multiplicando por 2: $-2 \\le 2\\cos\\theta \\le 1$. Sumando 1: $-1 \\le 2\\cos\\theta + 1 \\le 2$. El rango es el intervalo $[-1, 2]$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v15",
+      "statement": "Simplifique la expresión: $E = \\frac{\\sin(-30^\\circ) + \\cos(300^\\circ)}{\\tan(225^\\circ)}$.",
+      "context": "Simplificación con reducción al primer cuadrante y ángulos negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. \\sin(-30) = -1/2. \\cos(300) = 1/2. Numerador = 0. \\tan(225) = 1. Resultado = 0."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reducimos cada término: 1) $\\sin(-30^\\circ) = -\\sin(30^\\circ) = -1/2$. 2) $\\cos(300^\\circ) = \\cos(60^\\circ) = 1/2$. 3) $\\tan(225^\\circ) = \\tan(180^\\circ + 45^\\circ) = \\tan(45^\\circ) = 1$. La expresión es $(-1/2 + 1/2) / 1 = 0 / 1 = 0$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v16",
+      "statement": "En la C.T., se traza una recta tangente en el punto $(1, 0)$. Si un arco $\\theta$ termina en el cuarto cuadrante, ¿qué representa la ordenada del punto de intersección del lado final con dicha recta?",
+      "context": "Representación de la tangente en la circunferencia trigonométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El seno de $\\theta$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El coseno de $\\theta$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "La tangente de $\\theta$.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea de las tangentes es la recta x=1. La ordenada de intersección con el lado final prolongado define la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "La secante de $\\theta$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tangente de un ángulo $\\theta$ en la C.T. se representa geométricamente sobre la recta vertical tangente a la circunferencia en el origen de arcos $(1, 0)$. El valor de la tangente es la ordenada del punto donde el lado final del ángulo corta a esta recta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v17",
+      "statement": "Determine el área del triángulo cuyos vértices son el origen $(0,0)$, el punto $(\\cos\\alpha, \\sin\\alpha)$ de la C.T. en el primer cuadrante, y el punto $(0, \\sin\\alpha)$.",
+      "context": "Desafío sobre el área de una región limitada por líneas trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\sin\\alpha \\cos\\alpha) / 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es un triángulo rectángulo con base \\cos\\alpha y altura \\sin\\alpha. Area = (1/2)*Base*Altura."
+        },
+        {
+          "letter": "B",
+          "text": "$(\\sin\\alpha + \\cos\\alpha) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\sin\\alpha) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$(\\cos\\alpha) / 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El triángulo descrito es un triángulo rectángulo cuyos catetos se ubican sobre el eje Y (altura $\\sin\\alpha$) y una línea horizontal paralela al eje X (base $\\cos\\alpha$). Aplicando la fórmula del área del triángulo: $A = (\\text{base} \\cdot \\text{altura}) / 2 = (\\cos\\alpha \\cdot \\sin\\alpha) / 2$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v18",
+      "statement": "Si $f(x) = \\sin(x) + 3$, determine el valor de $f(x + 2\\pi)$.",
+      "context": "Periodicidad de las funciones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) + 2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. La función seno tiene periodo 2\\pi, por lo que \\sin(x+2\\pi) = \\sin(x). Entonces f(x+2\\pi) = \\sin(x)+3 = f(x)."
+        },
+        {
+          "letter": "C",
+          "text": "$-f(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función seno es periódica con un periodo fundamental de $2\\pi$. Esto implica que para cualquier valor de $x$, se cumple $\\sin(x + 2\\pi) = \\sin(x)$. Al sumar una constante a la función, la periodicidad se mantiene idéntica. Por lo tanto, $f(x + 2\\pi) = f(x)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v19",
+      "statement": "Determine para qué valores de $k$ tiene solución la ecuación $\\cos(\\theta) = (2k - 1) / 3$.",
+      "context": "Análisis de una ecuación trigonométrica con parámetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k \\in [0, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$k \\in [-1, 2]$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno varía en [-1, 1]. Entonces -1 \\le (2k-1)/3 \\le 1 \\Rightarrow -3 \\le 2k-1 \\le 3 \\Rightarrow -2 \\le 2k \\le 4 \\Rightarrow -1 \\le k \\le 2."
+        },
+        {
+          "letter": "C",
+          "text": "$k \\in [-1, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$k \\in [1, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función coseno está acotada entre $-1$ y $1$. Para que la ecuación tenga solución en los reales, la expresión en términos de $k$ debe pertenecer a ese intervalo: $-1 \\le \\frac{2k - 1}{3} \\le 1$. Multiplicamos por 3: $-3 \\le 2k - 1 \\le 3$. Sumamos 1: $-2 \\le 2k \\le 4$. Dividimos entre 2: $-1 \\le k \\le 2$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v20",
+      "statement": "Una recta pasa por los puntos $(0, 0)$ y $(1, \\sqrt{3})$. ¿Cuál es la medida del ángulo en posición normal que forma dicha recta con el eje X positivo?",
+      "context": "Geometría analítica y tangentes de ángulos de inclinación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente m = (\\sqrt{3} - 0) / (1 - 0) = \\sqrt{3}. Como \\tan\\theta = \\sqrt{3}, entonces \\theta = 60^\\circ."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En geometría analítica, la tangente del ángulo de inclinación $\\theta$ de una recta es igual a su pendiente $m$. Calculamos la pendiente: $m = \\frac{\\Delta y}{\\Delta x} = \\frac{\\sqrt{3} - 0}{1 - 0} = \\sqrt{3}$. Buscamos el ángulo cuya tangente sea $\\sqrt{3}$, el cual es $60^\\circ$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

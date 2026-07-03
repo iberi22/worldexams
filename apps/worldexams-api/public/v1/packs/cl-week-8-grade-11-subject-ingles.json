@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v1",
+      "statement": "An itinerary is a detailed plan or route of a journey.",
+      "context": "Planning a trip.",
       "options": [
         {
           "letter": "A",
           "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "is_correct": false,
+          "feedback": "Incorrect. Accommodation refers to where you stay."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
           "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. An itinerary outlines the schedule and locations of a trip."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "souvenir",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A souvenir is a memento."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "customs",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Customs refers to border control."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Itinerary' is the standard travel term for a planned route or schedule.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v2",
+      "statement": "The landscape was so breathtaking that I couldn't stop taking pictures.",
+      "context": "Describing a beautiful destination.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "breathless",
+          "is_correct": false,
+          "feedback": "Incorrect. Breathless means unable to breathe easily."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "breathtaking",
+          "is_correct": true,
+          "feedback": "Correct. Breathtaking means astonishing or magnificent."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "breathed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past tense of breathe."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "breathing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The act of inhaling/exhaling."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Breathtaking' is a common adjective used to describe impressive scenery.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v3",
+      "statement": "Never before had I seen such a stunning sunset as the one in the Atacama Desert.",
+      "context": "Using advanced emphasis (Inversion).",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "I had seen",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'Never before', we use inversion (had I seen)."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
+          "text": "had I seen",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Negative adverbials at the start of a sentence trigger inversion."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "I saw",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Doesn't follow the inversion rule."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "did I see",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple inversion is less common with 'before'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "Negative adverbials like 'Never' or 'Seldom' require inversion (verb before subject) when placed at the beginning of a sentence.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v4",
+      "statement": "Ecotourism aims to minimize the impact of visitors on the environment and support local communities.",
+      "context": "Article about sustainable travel.",
       "options": [
         {
           "letter": "A",
+          "text": "Ecotourism",
+          "is_correct": true,
+          "feedback": "Correct. Ecotourism focuses on ecological preservation."
+        },
+        {
+          "letter": "B",
+          "text": "Mass tourism",
+          "is_correct": false,
+          "feedback": "Incorrect. Mass tourism often has a high environmental impact."
+        },
+        {
+          "letter": "C",
+          "text": "Business travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on work, not environment."
+        },
+        {
+          "letter": "D",
+          "text": "Luxury travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on comfort and high cost."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Ecotourism' is the specific term for travel that prioritizes environmental and cultural conservation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v5",
+      "statement": "Travelers often seek \"off-the-beaten-path\" destinations to avoid crowded tourist areas and find genuine local culture.",
+      "context": "Discussion on the \"authentic\" travel experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mainstream",
+          "is_correct": false,
+          "feedback": "Incorrect. Mainstream refers to popular, common choices."
+        },
+        {
+          "letter": "B",
+          "text": "off-the-beaten-path",
+          "is_correct": true,
+          "feedback": "Correct. This idiom refers to places that are not frequently visited."
+        },
+        {
+          "letter": "C",
+          "text": "metropolitan",
+          "is_correct": false,
+          "feedback": "Incorrect. Metropolitan refers to large cities."
+        },
+        {
+          "letter": "D",
+          "text": "commercialized",
+          "is_correct": false,
+          "feedback": "Incorrect. Commercialized places are often the most crowded."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Off-the-beaten-path' is an idiomatic expression for remote or less popular locations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v6",
+      "statement": "You must check in your luggage at least two hours before your flight departs.",
+      "context": "Airport procedures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "check out",
+          "is_correct": false,
+          "feedback": "Incorrect. Check out is for leaving a hotel."
+        },
+        {
+          "letter": "B",
+          "text": "check in",
+          "is_correct": true,
+          "feedback": "Correct. To register and hand over luggage at an airport."
+        },
+        {
+          "letter": "C",
+          "text": "check up",
+          "is_correct": false,
+          "feedback": "Incorrect. A medical examination."
+        },
+        {
+          "letter": "D",
+          "text": "check through",
+          "is_correct": false,
+          "feedback": "Incorrect. Less common in this specific context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Check in' is the standard phrasal verb for registering for a flight or hotel.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v7",
+      "statement": "If I had brought my camera, I would have taken a picture of the penguin colony.",
+      "context": "Talking about a missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brought",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had brought",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "bring",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "would bring",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) is used for hypothetical situations in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v8",
+      "statement": "The hotel offers a wide range of amenities, such as a swimming pool, a gym, and free Wi-Fi.",
+      "context": "Describing a hotel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "necessities",
+          "is_correct": false,
+          "feedback": "Incorrect. Amenities are extra comforts, not just basics."
+        },
+        {
+          "letter": "B",
+          "text": "amenities",
+          "is_correct": true,
+          "feedback": "Correct. Amenities are useful or desirable features of a place."
+        },
+        {
+          "letter": "C",
+          "text": "obstacles",
+          "is_correct": false,
+          "feedback": "Incorrect. Obstacles are things that block your way."
+        },
+        {
+          "letter": "D",
+          "text": "chores",
+          "is_correct": false,
+          "feedback": "Incorrect. Chores are routine tasks."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Amenities' is the professional term for features that increase the comfort of a hotel or apartment.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v9",
+      "statement": "More and more people are choosing to travel solo to gain independence and self-confidence.",
+      "context": "Describing an ongoing travel trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lonely",
+          "is_correct": false,
+          "feedback": "Incorrect. Lonely is a feeling."
+        },
+        {
+          "letter": "B",
+          "text": "solo",
+          "is_correct": true,
+          "feedback": "Correct. Solo means alone or unaccompanied."
+        },
+        {
+          "letter": "C",
+          "text": "unique",
+          "is_correct": false,
+          "feedback": "Incorrect. Unique means one of a kind."
+        },
+        {
+          "letter": "D",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. Isolated implies being cut off, often negatively."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Solo travel' is the accepted term for traveling alone.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v10",
+      "statement": "The text suggests that overtourism can erode the very qualities that made a destination attractive in the first place.",
+      "context": "Critique of \"overtourism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "enhance",
+          "is_correct": false,
+          "feedback": "Incorrect. Overtourism usually damages qualities."
+        },
+        {
+          "letter": "B",
+          "text": "erode",
+          "is_correct": true,
+          "feedback": "Correct. Erode means to gradually wear away or destroy."
+        },
+        {
+          "letter": "C",
+          "text": "preserve",
+          "is_correct": false,
+          "feedback": "Incorrect. Preservation is the opposite of erosion."
+        },
+        {
+          "letter": "D",
+          "text": "simplify",
+          "is_correct": false,
+          "feedback": "Incorrect. It makes management more complex."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Erode' metaphorically describes the gradual destruction of a location's appeal due to too many visitors.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11",
+      "statement": "A hostel is an inexpensive lodging place for travelers, often with dormitory-style rooms.",
+      "context": "Lodging types.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resort",
+          "is_correct": false,
+          "feedback": "Incorrect. A resort is usually expensive and luxury."
+        },
+        {
+          "letter": "B",
+          "text": "hostel",
+          "is_correct": true,
+          "feedback": "Correct. Hostels are budget-friendly and often communal."
+        },
+        {
+          "letter": "C",
+          "text": "villa",
+          "is_correct": false,
+          "feedback": "Incorrect. A villa is a large, private house."
+        },
+        {
+          "letter": "D",
+          "text": "penthouse",
+          "is_correct": false,
+          "feedback": "Incorrect. A penthouse is a luxury apartment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Hostel' is the specific term for budget, communal traveler accommodation.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v12",
+      "statement": "Passengers whose flights are cancelled are entitled to a full refund or rebooking.",
+      "context": "Passenger rights.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Who' refers to the subject, but we need possession (their flights)."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. 'Whose' is the possessive relative pronoun."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to things."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. Relative pronoun, but doesn't show possession."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is used to show that the flights belong to the passengers.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v13",
+      "statement": "The mountain village was so secluded that it felt like a different world.",
+      "context": "Describing a remote place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "secluded",
+          "is_correct": true,
+          "feedback": "Correct. Secluded means hidden from view or not frequented by many people."
+        },
+        {
+          "letter": "B",
+          "text": "public",
+          "is_correct": false,
+          "feedback": "Incorrect. Public means open to everyone."
+        },
+        {
+          "letter": "C",
+          "text": "urban",
+          "is_correct": false,
+          "feedback": "Incorrect. Urban refers to cities."
+        },
+        {
+          "letter": "D",
+          "text": "accessible",
+          "is_correct": false,
+          "feedback": "Incorrect. Accessible means easy to reach."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Secluded' is the perfect adjective for a place that is quiet, private, and far from others.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v14",
+      "statement": "You should always take out travel insurance in case of medical emergencies or lost luggage.",
+      "context": "Advice on travel insurance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get on",
+          "is_correct": false,
+          "feedback": "Incorrect. To board a vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "take out",
+          "is_correct": true,
+          "feedback": "Correct. To 'take out' insurance means to obtain it."
+        },
+        {
+          "letter": "C",
+          "text": "set off",
+          "is_correct": false,
+          "feedback": "Incorrect. To begin a journey."
+        },
+        {
+          "letter": "D",
+          "text": "put up",
+          "is_correct": false,
+          "feedback": "Incorrect. To stay somewhere."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Take out' is the standard phrasal verb for obtaining an insurance policy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v15",
+      "statement": "While tourism can bring economic benefits, it can also lead to the commodification of local traditions.",
+      "context": "Impact of tourism on culture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "preservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Preservation keeps things as they are."
+        },
+        {
+          "letter": "B",
+          "text": "commodification",
+          "is_correct": true,
+          "feedback": "Correct. Making something into an object for trade or profit."
+        },
+        {
+          "letter": "C",
+          "text": "appreciation",
+          "is_correct": false,
+          "feedback": "Incorrect. Appreciation is positive."
+        },
+        {
+          "letter": "D",
+          "text": "elimination",
+          "is_correct": false,
+          "feedback": "Incorrect. The traditions usually remain but change their meaning for profit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Commodification' refers to turning cultural elements into products for sale, often losing their original meaning.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11",
+      "statement": "We spent the whole afternoon sightseeing around the historic center of the city.",
+      "context": "Exploring a new city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "commuting",
+          "is_correct": false,
+          "feedback": "Incorrect. Commuting is traveling to work."
+        },
+        {
+          "letter": "B",
           "text": "sightseeing",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Visiting interesting places."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "migrating",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Moving to a new place to live."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "navigating",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Finding the way."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Sightseeing' is the standard term for visiting tourist attractions.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v17",
+      "statement": "By the time we reached the summit, it had been snowing for three hours.",
+      "context": "Describing a past trip.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "was snowing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
         },
         {
           "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had been snowing",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for a duration before a past point."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "has been snowing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect continuous."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "snowed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes an action that was ongoing up to a certain point in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v18",
+      "statement": "Our guide was incredibly knowledgeable and shared many fascinating stories about the ruins.",
+      "context": "Describing a local guide.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignorant",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignorant means not knowing."
+        },
+        {
+          "letter": "B",
+          "text": "knowledgeable",
+          "is_correct": true,
+          "feedback": "Correct. Knowledgeable means intelligent and well-informed."
+        },
+        {
+          "letter": "C",
+          "text": "suspicious",
+          "is_correct": false,
+          "feedback": "Incorrect. Suspicious means showing distrust."
+        },
+        {
+          "letter": "D",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Terminal refers to an end point."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Knowledgeable' is a positive adjective for someone who has a lot of information.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v19",
+      "statement": "The travel agent recommended that we book our flights well in advance.",
+      "context": "Reporting travel advice.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "booked",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the 'that' clause."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "book",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive form after 'recommended'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "to book",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Infinitive doesn't fit the 'that' clause."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "booking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Gerund doesn't fit here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verbs of recommendation like 'recommend' take the subjunctive (base form) in a 'that' clause.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v20",
+      "statement": "Ultimately, travel should be a means of broadening one's horizons and fostering mutual understanding.",
+      "context": "Conclusion on the impact of travel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "broadening",
+          "is_correct": true,
+          "feedback": "Correct. To broaden one's horizons means to expand one's experience or knowledge."
+        },
+        {
+          "letter": "B",
+          "text": "narrowing",
+          "is_correct": false,
+          "feedback": "Incorrect. Narrowing means making smaller."
+        },
+        {
+          "letter": "C",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Travel involves paying attention to new things."
+        },
+        {
+          "letter": "D",
+          "text": "restricting",
+          "is_correct": false,
+          "feedback": "Incorrect. Restricting means limiting."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Broadening one's horizons' is a common idiom for expanding one's worldview through travel or learning.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W08-future-continuous-perfect-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-9-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.892Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-001-v1",
+      "statement": "Which two elements are necessary to form the Present Continuous?",
+      "context": "Identifying the structure of the Present Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verb \"to do\" and verb with -s.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "Verb \"to be\" and verb with -ing.",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous requires the auxiliary \"be\" and the principal verb in the -ing form."
+        },
+        {
+          "letter": "C",
+          "text": "Verb \"to have\" and verb with -ed.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "Only a verb with -ing.",
+          "is_correct": false,
+          "feedback": "Incorrect. Without the verb \"to be\", the sentence is incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic components of the Present Continuous tense.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-002-v1",
+      "statement": "Complete the sentence: \"Mateo ________ a sandwich right now.\"",
+      "context": "Describing a current action of a friend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is eat",
+          "is_correct": false,
+          "feedback": "Incorrect. The second verb must have -ing."
+        },
+        {
+          "letter": "B",
+          "text": "is eating",
+          "is_correct": true,
+          "feedback": "Correct! \"Is\" for Mateo (he) and \"eating\" for the current action."
+        },
+        {
+          "letter": "C",
+          "text": "am eating",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is only for \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "are eating",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is for plural subjects or \"you\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the correct conjugation of the verb \"to be\" and the -ing form in a simple sentence.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-003-v1",
+      "statement": "\"Listen! The music teacher ________ the piano.\"",
+      "context": "A conversation between two students during a break.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a habit, but \"Listen!\" implies it is happening now."
+        },
+        {
+          "letter": "B",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Present Simple."
+        },
+        {
+          "letter": "C",
+          "text": "is playing",
+          "is_correct": true,
+          "feedback": "Correct! The context \"Listen!\" signals an action in progress."
+        },
+        {
+          "letter": "D",
+          "text": "are playing",
+          "is_correct": false,
+          "feedback": "Incorrect. The teacher is singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands that time markers like \"Listen!\" indicate the need for the Present Continuous.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-004-v1",
+      "statement": "Choose the correct question to ask about someone's current activity.",
+      "context": "Asking what someone is doing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What you are doing?",
+          "is_correct": false,
+          "feedback": "Incorrect. The auxiliary \"are\" must come before the subject."
+        },
+        {
+          "letter": "B",
+          "text": "What are you doing?",
+          "is_correct": true,
+          "feedback": "Correct! Standard question structure in Present Continuous."
+        },
+        {
+          "letter": "C",
+          "text": "What do you doing?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do\" is for Present Simple."
+        },
+        {
+          "letter": "D",
+          "text": "Are you do what?",
+          "is_correct": false,
+          "feedback": "Incorrect. This word order is not correct."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the correct word order for questions in the Present Continuous.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-005-v1",
+      "statement": "\"Look! Many people ________ in the park.\"",
+      "context": "Describing multiple people's actions in a park in Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is walking",
+          "is_correct": false,
+          "feedback": "Incorrect. \"People\" is a plural noun."
+        },
+        {
+          "letter": "B",
+          "text": "are walking",
+          "is_correct": true,
+          "feedback": "Correct! \"Are\" for the plural subject \"people\" and \"walking\" for the current action."
+        },
+        {
+          "letter": "C",
+          "text": "walk",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Look!\" indicates a current action, not a habit."
+        },
+        {
+          "letter": "D",
+          "text": "am walking",
+          "is_correct": false,
+          "feedback": "Incorrect. Only for \"I\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the rule for plural subjects in the Present Continuous.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-006-v1",
+      "statement": "What are the brothers doing?",
+      "context": "A description of a family at home.\n\"It is 7:00 PM. My dad is cooking dinner. My mom is reading a book, and my brothers are playing video games. I am writing in my diary.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are reading a book.",
+          "is_correct": false,
+          "feedback": "Incorrect. The mom is reading."
+        },
+        {
+          "letter": "B",
+          "text": "They are cooking dinner.",
+          "is_correct": false,
+          "feedback": "Incorrect. The dad is cooking."
+        },
+        {
+          "letter": "C",
+          "text": "They are playing video games.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly mentions this activity for the brothers."
+        },
+        {
+          "letter": "D",
+          "text": "They are writing in a diary.",
+          "is_correct": false,
+          "feedback": "Incorrect. The writer is doing that."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies reading strategies to identify specific current actions in a text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-007-v1",
+      "statement": "Complete the sentence: \"Shhh! The baby ________.\" (Verb: sleep)",
+      "context": "Spelling rules for -ing verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is sleeping",
+          "is_correct": true,
+          "feedback": "Correct! Base verb + ing."
+        },
+        {
+          "letter": "B",
+          "text": "is sleepin",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error; must end in 'g'."
+        },
+        {
+          "letter": "C",
+          "text": "is sleepying",
+          "is_correct": false,
+          "feedback": "Incorrect. No need to add 'y' to \"sleep\"."
+        },
+        {
+          "letter": "D",
+          "text": "is slepping",
+          "is_correct": false,
+          "feedback": "Incorrect. No need to double the 'p' because it has two vowels before it."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies basic spelling rules for the -ing form.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-008-v1",
+      "statement": "Which sentence describes an action happening RIGHT NOW?",
+      "context": "Distinguishing between Present Simple and Present Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I study English on Tuesdays.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a habit."
+        },
+        {
+          "letter": "B",
+          "text": "He usually plays soccer.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a habit."
+        },
+        {
+          "letter": "C",
+          "text": "They are studying for the test.",
+          "is_correct": true,
+          "feedback": "Correct! The structure \"are studying\" indicates an action in progress."
+        },
+        {
+          "letter": "D",
+          "text": "My mother is a doctor.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a permanent state."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes and distinguishes between habits (Simple) and actions in progress (Continuous).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-009-v1",
+      "statement": "Choose the sentence with the correct spelling for the verb \"run\".",
+      "context": "Analyzing spelling rules for -ing (consonant-vowel-consonant).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The dog is runing in the garden.",
+          "is_correct": false,
+          "feedback": "Incorrect. For C-V-C verbs, the last consonant must be doubled."
+        },
+        {
+          "letter": "B",
+          "text": "The dog is running in the garden.",
+          "is_correct": true,
+          "feedback": "Correct! Double 'n' before adding -ing for \"run\"."
+        },
+        {
+          "letter": "C",
+          "text": "The dog is runneing in the garden.",
+          "is_correct": false,
+          "feedback": "Incorrect. You don't need to add an 'e' before 'ing'."
+        },
+        {
+          "letter": "D",
+          "text": "The dog is runs in the garden.",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot use the present simple 's' form with \"is\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the CVC rule (consonant-vowel-consonant) for doubling consonants in the -ing form.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W09-present-continuous-now-010-v1",
+      "statement": "Based on B's response, why can't they talk?",
+      "context": "Answering a phone call during a busy situation.\nA: \"Can you talk now?\"\nB: \"No, sorry. I am carrying many bags and my phone is ringing in my pocket. I'm also crossing the street!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because they are sleeping.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are busy walking and carrying things."
+        },
+        {
+          "letter": "B",
+          "text": "Because they don't have a phone.",
+          "is_correct": false,
+          "feedback": "Incorrect. The phone is ringing."
+        },
+        {
+          "letter": "C",
+          "text": "Because they are performing multiple actions that require their attention and hands.",
+          "is_correct": true,
+          "feedback": "Correct! Carrying bags, crossing the street, and handling the phone are simultaneous actions."
+        },
+        {
+          "letter": "D",
+          "text": "Because they are in an English class.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not mentioned in the text."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the situation described using multiple Present Continuous verbs to determine the most logical explanation.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W09-present-continuous-now-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
