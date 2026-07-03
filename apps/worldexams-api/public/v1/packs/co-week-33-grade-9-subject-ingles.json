@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-33-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.951Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v1",
+      "statement": "Scientists ________ consider the potential social impact of their research before publishing.",
+      "context": "Discussing a general ethical recommendation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the past."
+        },
+        {
+          "letter": "B",
+          "text": "ought to",
+          "is_correct": true,
+          "feedback": "Correct! \"Ought to\" is a semi-modal synonym for \"should\", often used for moral obligations."
+        },
+        {
+          "letter": "C",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Ought to* se utiliza para dar consejos o expresar lo que es moralmente correcto hacer, siendo un poco más formal que *should*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v2",
+      "statement": "The company ________ tested the chemicals more thoroughly; now the water is polluted.",
+      "context": "Speculating about a past ethical failure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they probably did it."
+        },
+        {
+          "letter": "B",
+          "text": "should have",
+          "is_correct": true,
+          "feedback": "Correct! \"Should have + past participle\" expresses regret or criticism about a past action that didn't happen."
+        },
+        {
+          "letter": "C",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizamos *should have* para indicar que una acción era necesaria o recomendable en el pasado, pero lamentablemente no se realizó.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v3",
+      "statement": "The experiment was successful! They ________ followed all the safety protocols strictly.",
+      "context": "Deducing the reason for a scientific success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Correct! \"Must have\" for a logical deduction about a past event with clear evidence."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ought to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Must have* se emplea para hacer una deducción fuerte basada en los resultados que estamos observando.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v4",
+      "statement": "\"Why did the lab lose its funding?\"\n\"I'm not sure. They ________ spent the budget on unrelated projects.\"",
+      "context": "Considering a possible but uncertain cause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect. The speaker is \"not sure\"."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": true,
+          "feedback": "Correct! \"Might have\" or \"Could have\" are used for past possibilities when we lack certainty."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando especulamos sobre las causas de un evento pasado pero no tenemos pruebas suficientes, el modal adecuado es *might have*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v5",
+      "statement": "Governments ________ implement stricter laws on AI before it's too late.",
+      "context": "Giving a strong ethical warning about the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to the past."
+        },
+        {
+          "letter": "B",
+          "text": "had better",
+          "is_correct": true,
+          "feedback": "Correct! \"Had better\" is used for strong advice or warnings about specific future consequences."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Had better* es una estructura de consejo fuerte que implica que habrá consecuencias negativas si no se sigue la recomendación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v6",
+      "statement": "If the researchers had been more transparent, they ________ avoided the public scandal.",
+      "context": "Discussing an alternative past possibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": true,
+          "feedback": "Correct! Used to talk about a past ability or possibility that was dependent on a condition."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Could have* se usa con frecuencia en el tercer condicional para expresar que algo era posible si se hubieran cumplido otras circunstancias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that an action is **not necessary** but possible?",
+      "context": "Distinguishing between lack of obligation and prohibition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Scientists mustn't share their raw data.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "Scientists don't have to share their raw data, but many do for transparency.",
+          "is_correct": true,
+          "feedback": "Correct! \"Don't have to\" expresses lack of necessity."
+        },
+        {
+          "letter": "C",
+          "text": "Scientists shouldn't share their raw data.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is advice against doing it."
+        },
+        {
+          "letter": "D",
+          "text": "Scientists can't share their raw data.",
+          "is_correct": false,
+          "feedback": "Incorrect. Implies lack of ability or permission."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre *mustn't* (prohibición) y *don't have to* (falta de necesidad) es una competencia clave del nivel B2 para la precisión comunicativa.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v8",
+      "statement": "\"The report says the data was manipulated.\"\n\"That ________! Professor Gomez is the most honest person I know.\"",
+      "context": "Identifying a certain negative deduction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't be true",
+          "is_correct": true,
+          "feedback": "Correct! \"Can't\" expresses a strong present deduction of impossibility."
+        },
+        {
+          "letter": "C",
+          "text": "mustn't be true",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might not be true",
+          "is_correct": false,
+          "feedback": "Incorrect. Not strong enough."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *can't* para expresar que, según nuestra lógica o conocimiento, algo es imposible que sea cierto en el presente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v9",
+      "statement": "The committee ________ informed the public about the risks earlier.",
+      "context": "Discussing past moral obligation with \"ought to have\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ought to",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to the present."
+        },
+        {
+          "letter": "B",
+          "text": "ought to have",
+          "is_correct": true,
+          "feedback": "Correct! \"Ought to have + past participle\" is the formal equivalent of \"should have\"."
+        },
+        {
+          "letter": "C",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had better have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Ought to have* se utiliza en registros formales para señalar una obligación moral del pasado que no se cumplió.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Scientific ethics is complex. We **should to consider** (A) every angle. Some researchers **might have ignored** (B) the rules in the past. They **should have been** (C) more careful. Today, we **had better follow** (D) the guidelines strictly.\"",
+      "context": "Identifying an error in an ethics essay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should to consider",
+          "is_correct": true,
+          "feedback": "Correct! The modal \"should\" is followed by the base verb without \"to\". It should be \"should consider\"."
+        },
+        {
+          "letter": "B",
+          "text": "might have ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of past possibility."
+        },
+        {
+          "letter": "C",
+          "text": "should have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of past criticism."
+        },
+        {
+          "letter": "D",
+          "text": "had better follow",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of strong advice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es un error básico pero común: los verbos modales (*should, must, might, could*) nunca llevan *to* antes del verbo principal (excepto *ought to*).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v11",
+      "statement": "Which sentence best expresses that someone is **speculating** about a past event without any proof?",
+      "context": "Choosing the best way to express past uncertainty.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The scientist must have known the truth.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a strong deduction."
+        },
+        {
+          "letter": "B",
+          "text": "The scientist should have known the truth.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a criticism."
+        },
+        {
+          "letter": "C",
+          "text": "The scientist could have known the truth, but we will never be sure.",
+          "is_correct": true,
+          "feedback": "Correct! \"Could have\" expresses possibility and the second clause confirms the uncertainty."
+        },
+        {
+          "letter": "D",
+          "text": "The scientist can't have known the truth.",
+          "is_correct": false,
+          "feedback": "Incorrect. Strong negative deduction."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A nivel B2, el estudiante debe ser capaz de seleccionar el modal que se ajusta exactamente al grado de certeza o intención del hablante.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"In conclusion, the team ________ more transparent from the start. Although they ________ encountered difficulties, they ________ disregarded the safety of the participants.\"",
+      "context": "Completing a complex ethical conclusion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must be / should have / could have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "should have been / may have / shouldn't have",
+          "is_correct": true,
+          "feedback": "Correct! Accurate use of modals for regret, possibility, and negative criticism in the past."
+        },
+        {
+          "letter": "C",
+          "text": "ought to be / must have / can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "could have been / might have / wouldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de integrar diversos modales de pasado para construir un juicio ético complejo y coherente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W33-scientific-ethics-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

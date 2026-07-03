@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-17-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.155Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula fundamental de la integración por partes?",
+      "context": "Un estudiante en la Escuela Politécnica Nacional (EPN) revisa las técnicas para integrar productos de funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int u \\, dv = uv + \\int v \\, du$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del segundo término debe ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int u \\, dv = uv - \\int v \\, du$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta fórmula se deriva de la regla del producto para derivadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int u \\, dv = u'v - uv'$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con la regla del cociente para derivadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int u \\, dv = \\frac{u}{v} - \\int \\frac{du}{dv}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de fórmula totalmente errónea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración por partes es una técnica basada en la inversión de la regla del producto, permitiendo resolver integrales donde el integrando es un producto de dos funciones de distinta naturaleza.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v2",
+      "statement": "En la regla mnemotécnica \"LIATE\" para elegir $u$, ¿qué representa la letra \"A\"?",
+      "context": "Elección de variables en integración por partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciones Arcos (Trigonométricas inversas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "Funciones Algebráicas (Polinomios).",
+          "is_correct": true,
+          "feedback": "Correcto. Los polinomios suelen elegirse como $u$ para que su grado disminuya al derivar."
+        },
+        {
+          "letter": "C",
+          "text": "Funciones Angulares (Seno, Coseno).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la \"T\"."
+        },
+        {
+          "letter": "D",
+          "text": "Funciones Analíticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una categoría estándar en la regla LIATE."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla LIATE (Logarítmicas, Inversas, Algebráicas, Trigonométricas, Exponenciales) ayuda a jerarquizar qué función es más conveniente derivar ($u$) y cuál integrar ($dv$).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v3",
+      "statement": "Calcule $\\int x e^x \\, dx$.",
+      "context": "Integración de un producto simple de un polinomio y una exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x e^x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el término negativo resultante de la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$x e^x - e^x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $u=x, dv=e^x dx \\Rightarrow du=dx, v=e^x$. Entonces $uv - \\int v du = x e^x - \\int e^x dx = x e^x - e^x$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}x^2 e^x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de integrar ambos términos por separado, lo cual es inválido."
+        },
+        {
+          "letter": "D",
+          "text": "$e^x(x + 1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la factorización final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación básica de la integración por partes donde un factor polinómico se reduce a una constante tras la primera derivación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v4",
+      "statement": "Halle $\\int \\ln(x) \\, dx$ utilizando integración por partes con $u = \\ln(x)$ y $dv = dx$.",
+      "context": "Integral del logaritmo natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada del logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ln(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar la integral de $v du$."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ln(x) - x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $u=\\ln x, dv=dx \\Rightarrow du=1/x dx, v=x$. $uv - \\int v du = x \\ln x - \\int x(1/x) dx = x \\ln x - x$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{(\\ln x)^2}{2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la integral de $\\ln(x)/x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de la integración por partes para encontrar la antiderivada de funciones cuya integral no es inmediata pero cuya derivada es sencilla.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué tipo de funciones es más útil el método de descomposición en fracciones parciales?",
+      "context": "Un ingeniero ambiental en el Parque Nacional Yasuní analiza la degradación de un compuesto químico mediante fracciones parciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para productos de funciones exponenciales y trigonométricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa integración por partes."
+        },
+        {
+          "letter": "B",
+          "text": "Para funciones racionales donde el denominador puede factorizarse en factores lineales o cuadráticos.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite separar una fracción compleja en una suma de fracciones más simples de integrar."
+        },
+        {
+          "letter": "C",
+          "text": "Para funciones que contienen raíces cuadradas de sumas de cuadrados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa sustitución trigonométrica."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente para polinomios de grado impar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplica a cualquier función racional propia (grado numerador < grado denominador)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El método de fracciones parciales es una técnica algebraica que simplifica la integración de funciones racionales complejas convirtiéndolas en sumas de logaritmos o funciones racionales simples.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la forma de la descomposición en fracciones parciales de $\\frac{1}{(x-2)(x+3)}$?",
+      "context": "Descomposición básica de factores lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{A}{(x-2)^2} + \\frac{B}{(x+3)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se usan cuadrados si los factores están repetidos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{A}{x-2} + \\frac{B}{x+3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Para factores lineales distintos, se asigna una constante a cada uno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{Ax+B}{(x-2)(x+3)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma original, no una descomposición."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{A}{x-2} \\cdot \\frac{B}{x+3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descomposición debe ser una suma, no un producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la estructura de la suma de fracciones parciales para denominadores con factores lineales no repetidos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v7",
+      "statement": "Para integrar $\\int \\sqrt{9 - x^2} \\, dx$, ¿cuál es la sustitución trigonométrica más adecuada?",
+      "context": "Integral por sustitución trigonométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3 \\tan(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se usaría para $9 + x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3 \\sin(\\theta)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aprovecha la identidad $1 - \\sin^2 = \\cos^2$, lo cual elimina la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3 \\sec(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se usaría para $x^2 - 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9 \\sin(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente debe ser la raíz cuadrada de la constante 9."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Selección del cambio de variable trigonométrico correcto basado en la estructura del radical presente en el integrando.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v8",
+      "statement": "Simplifique e integre $\\int \\frac{x+1}{x^2-1} \\, dx$.",
+      "context": "Un sensor de flujo en una central hidroeléctrica en los Andes ecuatorianos mide una tasa dada por $f(x) = \\frac{x+1}{x^2-1}$ para $x > 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(x^2 - 1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó simplificar la expresión racional primero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\ln|x - 1| + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{x+1}{(x-1)(x+1)} = \\frac{1}{x-1}$. La integral es $\\ln|x-1|$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2} \\ln|x^2 - 1| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó una sustitución directa ignorando la simplificación posible."
+        },
+        {
+          "letter": "D",
+          "text": "$\\ln|x + 1| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $(x+1)$ se cancela, quedando el denominador $(x-1)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Importancia de la simplificación algebraica previa a la aplicación de métodos de integración complejos para evitar trabajo innecesario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v9",
+      "statement": "Al integrar $\\int x^2 \\cos(x) \\, dx$, ¿qué sucede con el término polinómico tras dos aplicaciones de integración por partes?",
+      "context": "Integración por partes aplicada dos veces (proceso cíclico o de reducción).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grado aumenta a $x^4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivación reduce el grado de los polinomios."
+        },
+        {
+          "letter": "B",
+          "text": "Se convierte en una constante, permitiendo una integración inmediata.",
+          "is_correct": true,
+          "feedback": "Correcto. Primera derivada: $2x$. Segunda derivada: $2$. Esto simplifica el integrando final."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparece completamente de la expresión final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permanece en los términos $uv$ ya calculados."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en un logaritmo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polinomios no se transforman en logaritmos al derivar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del proceso de reducción de orden en la integración por partes para integrandos con factores polinómicos de grado superior.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor método para resolver $\\int \\frac{x}{x^2 + 4} \\, dx$?",
+      "context": "Identificación del método correcto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución simple con $u = x^2 + 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como el numerador es (casi) la derivada del denominador, es el método más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "Sustitución trigonométrica con $x = 2 \\tan(\\theta)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque funciona, es mucho más largo que la sustitución simple."
+        },
+        {
+          "letter": "C",
+          "text": "Fracciones parciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador $x^2+4$ es irreducible en los reales."
+        },
+        {
+          "letter": "D",
+          "text": "Integración por partes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una técnica eficiente para esta estructura de cociente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Jerarquización de métodos: siempre se debe buscar una sustitución simple antes de recurrir a técnicas más avanzadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v11",
+      "statement": "Calcule $\\int \\frac{1}{x^2 - 1} \\, dx$ usando fracciones parciales.",
+      "context": "Un arquitecto en Quito diseña una cúpula cuya curva lateral sigue la función que resulta de integrar $f(x) = \\frac{1}{x^2 - 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln|x^2 - 1| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la descomposición del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} \\ln\\left|\\frac{x-1}{x+1}\\right| + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{(x-1)(x+1)} = \\frac{1/2}{x-1} - \\frac{1/2}{x+1}$. Al integrar: $\\frac{1}{2}(\\ln|x-1| - \\ln|x+1|)$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\arctan(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con $x^2+1$ en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2} \\ln|x^2 - 1| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la integral de $x/(x^2-1)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de fracciones parciales para integrar funciones con denominadores cuadráticos factorizables.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el primer paso recomendado para resolver $\\int \\sin^3(x) \\, dx$?",
+      "context": "Integración de potencias impares de seno y coseno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar la identidad de ángulo doble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mejor para potencias pares."
+        },
+        {
+          "letter": "B",
+          "text": "Separar un factor $\\sin(x)$ y convertir el resto usando $\\sin^2(x) = 1 - \\cos^2(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Esto permite usar la sustitución $u = \\cos x$."
+        },
+        {
+          "letter": "C",
+          "text": "Integración por partes con $u = \\sin^2(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Proceso más tedioso que la sustitución trigonométrica."
+        },
+        {
+          "letter": "D",
+          "text": "Usar sustitución trigonométrica con $x = \\arcsin(u)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Método circular que no simplifica el problema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de identidades pitagóricas para preparar integrandos trigonométricos de potencia impar para una sustitución simple.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v13",
+      "statement": "Al integrar $\\int e^x \\sin(x) \\, dx$ por partes dos veces, se vuelve a obtener la integral original multiplicada por una constante. ¿Qué técnica se usa para finalizar el cálculo?",
+      "context": "Integral de producto de funciones cíclicas (Exponencial x Trigonométrica).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se descarta el resultado por ser circular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circularidad es precisamente lo que permite resolverla."
+        },
+        {
+          "letter": "B",
+          "text": "Se despeja la integral de la ecuación resultante como si fuera una incógnita algebraica.",
+          "is_correct": true,
+          "feedback": "Correcto. Si $I = \\text{bloque} - I$, entonces $2I = \\text{bloque} \\Rightarrow I = \\text{bloque}/2$."
+        },
+        {
+          "letter": "C",
+          "text": "Se utiliza una tabla de integrales directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es conocer el procedimiento analítico."
+        },
+        {
+          "letter": "D",
+          "text": "Se cambia a coordenadas polares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplifica este tipo de integral de una variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de integrales \"recurrentes\" mediante el despeje algebraico del término integral tras aplicaciones sucesivas de integración por partes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v14",
+      "statement": "Halle la forma de la descomposición de $\\frac{x}{(x-1)^2(x+2)}$.",
+      "context": "Fracciones parciales con factores lineales repetidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{A}{x-1} + \\frac{B}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta considerar la repetición del factor $(x-1)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{C}{x+2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por cada potencia del factor repetido se debe incluir un término en la suma."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{Ax+B}{(x-1)^2} + \\frac{C}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es posible, la forma estándar para integración usa solo constantes en el numerador para factores lineales."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{A}{(x-1)^2} + \\frac{B}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pierde información del término de primer grado $(x-1)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reglas de descomposición para factores del denominador que aparecen con multiplicidad mayor a uno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v15",
+      "statement": "¿Qué tipo de sustitución trigonométrica se requiere para integrar esta función?",
+      "context": "Un modelo de crecimiento de peces en una laguna en Esmeraldas sigue una tasa $R(t) = \\frac{100}{\\sqrt{t^2+1}}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = \\sin(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $1-t^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$t = \\tan(\\theta)$",
+          "is_correct": true,
+          "feedback": "Correcto. Usa la identidad $1 + \\tan^2 = \\sec^2$ para eliminar la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$t = \\cos(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una sustitución estándar para sumas de cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$t = \\sec(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $t^2-1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de sustituciones basadas en identidades trigonométricas fundamentales para resolver integrandos con formas irracionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la elección óptima de $u$ y $dv$ para $\\int x \\arctan(x) \\, dx$?",
+      "context": "Integración por partes con una función inversa y un polinomio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$u = x, dv = \\arctan(x) dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No conocemos la integral de arcotangente de forma inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "$u = \\arctan(x), dv = x dx$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de arcotangente es algebraica ($1/(1+x^2)$), lo que simplifica la segunda integral."
+        },
+        {
+          "letter": "C",
+          "text": "$u = x \\arctan(x), dv = dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $u$ se vuelve demasiado compleja."
+        },
+        {
+          "letter": "D",
+          "text": "Se debe usar fracciones parciales directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una función racional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Priorización de funciones trascendentes inversas como $u$ en la integración por partes para transformar el problema en una integral de funciones algebraicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v17",
+      "statement": "Determine $\\int \\frac{1}{x^2 + 2x + 5} \\, dx$. (Sugerencia: complete el cuadrado).",
+      "context": "Integración de una función racional con denominador cuadrático irreducible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(x^2 + 2x + 5) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador no es la derivada del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} \\arctan\\left(\\frac{x+1}{2}\\right) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2+2x+5 = (x+1)^2 + 4$. La integral de $\\frac{1}{u^2+a^2}$ es $\\frac{1}{a}\\arctan(u/a)$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\arctan(x+1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor $1/a = 1/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{x+1} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la forma de la antiderivada de funciones cuadráticas positivas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la técnica de completar el cuadrado para transformar integrandos cuadráticos en formas estándar de arcotangente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v18",
+      "statement": "¿A qué expresión equivale $\\sin(\\theta)$ en términos de $x$ tras realizar la sustitución?",
+      "context": "Sustitución trigonométrica con cambio de límites (o retorno a variable original). Al resolver $\\int \\frac{1}{x^2\\sqrt{x^2+4}} \\, dx$ con $x=2\\tan\\theta$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la tangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x}{\\sqrt{x^2+4}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\tan\\theta = x/2$, el cateto opuesto es $x$ y el adyacente es 2. La hipotenusa es $\\sqrt{x^2+4}$. Luego $\\sin\\theta = \\text{opuesto}/\\text{hipotenusa}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la cotangente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{\\sqrt{x^2+4}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el coseno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de triángulos rectángulos para retornar a la variable original $x$ tras aplicar sustituciones trigonométricas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v19",
+      "statement": "Halle $\\int \\frac{x^3}{x-1} \\, dx$.",
+      "context": "Integración de una función racional impropia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^4}{4(x-1)} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se integra el numerador y denominador por separado."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^3}{3} + \\frac{x^2}{2} + x + \\ln|x-1| + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Por división larga: $x^2+x+1 + \\frac{1}{x-1}$. Al integrar da el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + x + 1 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el residuo de la división."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^3}{3} + \\ln|x-1| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió términos intermedios de la división polinómica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Necesidad de realizar la división de polinomios cuando el grado del numerador es mayor o igual al del denominador antes de integrar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v20",
+      "statement": "¿Qué método o identidad se recomienda para resolver $\\int \\frac{1}{(x^2+1)^2} \\, dx$?",
+      "context": "Un problema de física teórica en la Politécnica Nacional sobre el trabajo realizado por una fuerza variable $F(x) = \\frac{1}{(x^2+1)^2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución simple $u = x^2+1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el factor $x$ en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "Sustitución trigonométrica $x = \\tan\\theta$ seguido de identidades de reducción.",
+          "is_correct": true,
+          "feedback": "Correcto. Transforma la integral en $\\int \\cos^2\\theta \\, d\\theta$, que es fácil de resolver."
+        },
+        {
+          "letter": "C",
+          "text": "Fracciones parciales directas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor es cuadrático irreducible y ya está en su forma más simple."
+        },
+        {
+          "letter": "D",
+          "text": "Integración por partes eligiendo $u = (x^2+1)^{-2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conduce a una integral más complicada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de potencias de factores cuadráticos irreducibles en el denominador mediante el uso de sustituciones trigonométricas avanzadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.15,
+      "bundle_id": "EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

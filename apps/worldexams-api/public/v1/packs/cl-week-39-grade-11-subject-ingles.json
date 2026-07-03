@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v1",
+      "statement": "Visionary leadership involves the ability to imagine and plan for a future that is better than the present.",
+      "context": "Introduction to leadership concepts.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Reactive",
+          "is_correct": false,
+          "feedback": "Incorrect. Reactive leadership waits for things to happen."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Visionary",
+          "is_correct": true,
+          "feedback": "Correct. Visionary means thinking about or planning the future with imagination."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Passive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Passive leadership is inactive."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Conventional",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Unimaginative."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Visionary' is the specific term for a leadership style focused on future possibilities and innovation.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v2",
+      "statement": "Many world leaders have been working together to address the urgent issue of climate change.",
+      "context": "Discussing leaders' actions.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "are working",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
+          "text": "have been working",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Present perfect continuous for an ongoing effort."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "worked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "will work",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous highlights the duration and current persistence of the collaborative effort.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v3",
+      "statement": "If those leaders had acted more decisively, the crisis could have been contained much earlier.",
+      "context": "Conditional about leadership decisions.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "acted",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had acted",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "have acted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "D",
+          "text": "would act",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to speculate about how a different past action would have changed an outcome.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v4",
+      "statement": "Servant leadership is a philosophy in which the main goal of the leader is to serve the needs of their team or community.",
+      "context": "Article about \"servant leadership\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "serve",
+          "is_correct": true,
+          "feedback": "Correct. The core function of a servant leader."
+        },
+        {
+          "letter": "B",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "control",
+          "is_correct": false,
+          "feedback": "Incorrect. Servant leadership is about support, not just control."
+        },
+        {
+          "letter": "D",
+          "text": "exploit",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Serve' is the defining verb for this specific leadership model, which prioritizes the well-being of others.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v5",
+      "statement": "Ethical leadership involves leading by example and maintaining high moral standards in all decision-making processes.",
+      "context": "Discussion on \"ethical leadership\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by accident",
+          "is_correct": false,
+          "feedback": "Incorrect. It should be intentional."
+        },
+        {
+          "letter": "B",
+          "text": "by example",
+          "is_correct": true,
+          "feedback": "Correct. Leading by example means showing others how to behave through your own actions."
+        },
+        {
+          "letter": "C",
+          "text": "by force",
+          "is_correct": false,
+          "feedback": "Incorrect. Ethical leadership is based on values, not coercion."
+        },
+        {
+          "letter": "D",
+          "text": "in secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Ethics usually requires transparency."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'By example' is the key phrase for describing the modeling of behavior that is central to ethical leadership.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v6",
+      "statement": "A diplomat is an official representing a country abroad, skilled in negotiation and international relations.",
+      "context": "Describing a diplomat.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pilot",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "diplomat",
+          "is_correct": true,
+          "feedback": "Correct. Formal term for a state representative."
+        },
+        {
+          "letter": "C",
           "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "refugee",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "'Diplomat' is the specific title for a professional who represents a nation in global leadership contexts.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v7",
+      "statement": "More inclusive leadership models are being adopted by organizations to improve diversity and innovation.",
+      "context": "Describing an ongoing reform in leadership.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are adopting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being adopted",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing organizational change."
+        },
+        {
+          "letter": "C",
+          "text": "adopted",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have adopted",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the active and current trend of shifting towards new leadership styles.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v8",
+      "statement": "Charismatic leaders possess an extraordinary ability to inspire and motivate others through their personality and communication.",
+      "context": "Text on \"charismatic leadership\".",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "boring",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Charismatic",
+          "is_correct": true,
+          "feedback": "Correct. Having a compelling charm that inspires devotion."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Passive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Indifferent",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Charismatic' is the term for leaders who use their personal appeal and charm to influence others.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v9",
+      "statement": "The leader announced that her team had reached a consensus on the new policy.",
+      "context": "Reporting a leader's commitment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has reached",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had reached",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "reach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will reach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense to show the achievement occurred before the announcement.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v10",
+      "statement": "Authoritarianism is a form of government characterized by strong central power and limited political freedoms.",
+      "context": "Critique of \"authoritarianism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Democracy",
+          "is_correct": false,
+          "feedback": "Incorrect. Characterized by freedom."
+        },
+        {
+          "letter": "B",
+          "text": "Authoritarianism",
+          "is_correct": true,
+          "feedback": "Correct. Characterized by central power and restricted freedom."
+        },
+        {
+          "letter": "C",
+          "text": "Liberalism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on individual freedom."
+        },
+        {
+          "letter": "D",
+          "text": "Anarchy",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of central power."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Authoritarianism' correctly identifies the restrictive and power-heavy leadership style described.\n\n---",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v11",
+      "statement": "Integrity is the quality of being honest and having strong moral principles, which is essential for effective leadership.",
+      "context": "Definition of \"integrity\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Integrity",
+          "is_correct": true,
+          "feedback": "Correct. Fundamental leadership value."
+        },
+        {
+          "letter": "C",
+          "text": "Wealth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Power",
+          "is_correct": false,
+          "feedback": "Incorrect. While related to leadership, 'integrity' is the moral quality described."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Integrity' is the core character trait that ensures a leader is trusted and respected.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v12",
+      "statement": "By the end of the year, a new global agreement will have been finalized by the participating nations.",
+      "context": "Describing a future summit outcome.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will finalize",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been finalized",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "is finalized",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "finalizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the agreement will be a finished achievement by the stated deadline.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v13",
+      "statement": "Effective global leadership requires a high degree of collaboration between nations with different interests.",
+      "context": "Discussing \"collaboration\".",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "collaboration",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. Collaboration means working together."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Opposite of leadership."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "competition",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. While competition exists, 'collaboration' is the requirement for *effective global* leadership discussed."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "secrecy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "explanation": "'Collaboration' is the essential process of working together that global leadership aims to facilitate.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v14",
+      "statement": "If more leaders showed empathy, many international tensions would be reduced.",
+      "context": "Conditional about empathy in leaders.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "show",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "showed",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "had shown",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "would show",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the likely result of a hypothetical change in leadership behavior.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v15",
+      "statement": "The author concludes that adaptive leadership is necessary for navigating the complex and unpredictable challenges of the 21st century.",
+      "context": "Conclusion of an essay on \"adaptive leadership\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adaptive",
+          "is_correct": true,
+          "feedback": "Correct. Adaptive means able to adjust to new conditions."
+        },
+        {
+          "letter": "B",
+          "text": "rigid",
+          "is_correct": false,
+          "feedback": "Incorrect. Authoritarian/unyielding."
+        },
+        {
+          "letter": "C",
+          "text": "simple",
+          "is_correct": false,
+          "feedback": "Incorrect. Challenges are complex."
+        },
+        {
+          "letter": "D",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Leadership should be intentional."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Adaptive' correctly identifies the flexible leadership style that the author evaluates as necessary for modern times.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v16",
+      "statement": "A mediator is a person who attempts to make people involved in a conflict come to an agreement; a go-between.",
+      "context": "Describing a \"mediator\".",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "Fighter",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Mediator",
+          "is_correct": true,
+          "feedback": "Correct. Neutral go-between."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Judge",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Judges make a decision; mediators help *others* agree."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Spy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Mediator' is the specific title for an individual who facilitates agreement between conflicting parties.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v17",
+      "statement": "I wish our leaders were more focused on long-term sustainability rather than short-term gains.",
+      "context": "Expressing a hope for better leadership.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + were' for a present hypothetical desire."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Were' preferred in formal speech."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past' structure expresses a desire for the current focus of leadership to change.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v18",
+      "statement": "Soft power relies on the attraction and persuasion of culture and values, rather than military or economic force.",
+      "context": "Text about \"soft power\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force",
+          "is_correct": false,
+          "feedback": "Incorrect. This is 'hard power'."
+        },
+        {
+          "letter": "B",
+          "text": "persuasion",
+          "is_correct": true,
+          "feedback": "Correct. To persuade is to convince someone to do something through reasoning or argument."
+        },
+        {
+          "letter": "C",
+          "text": "threats",
+          "is_correct": false,
+          "feedback": "Incorrect. Soft power avoids threats."
+        },
+        {
+          "letter": "D",
+          "text": "bribes",
+          "is_correct": false,
+          "feedback": "Incorrect. Unethical and usually hard power (economic)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Persuasion' correctly describes the mechanism through which 'soft power' influences others.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v19",
+      "statement": "The president promised that the government would prioritize education in the next budget.",
+      "context": "Reporting a leader's promise.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'will' to 'would' in reported speech."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Expresses advice."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will' to 'would' when reporting a promise made in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-v20",
+      "statement": "The future of our planet depends on the courage and wisdom of those in positions of global leadership.",
+      "context": "Final thought on global challenges.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wisdom",
+          "is_correct": true,
+          "feedback": "Correct. The quality of having experience, knowledge, and good judgment."
+        },
+        {
+          "letter": "B",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "C",
+          "text": "ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. While important, 'wisdom' is a deeper requirement for the planet's future."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Wisdom' correctly identifies the profound judgment and knowledge required of world leaders to manage global risks.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W39-global-leadership-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

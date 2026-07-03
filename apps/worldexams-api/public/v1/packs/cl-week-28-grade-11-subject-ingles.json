@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v1",
+      "statement": "Mediation is a process in which a neutral third party helps two or more groups reach an agreement.",
+      "context": "Introduction to negotiation terms.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Combat",
+          "is_correct": false,
+          "feedback": "Incorrect. Combat is fighting."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Mediation",
+          "is_correct": true,
+          "feedback": "Correct. Process involving a neutral third party."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Argument",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Arguments often cause the need for mediation."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Silence",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Mediation involves communication."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Mediation' is the formal term for the assisted negotiation process described.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v2",
+      "statement": "The peace talks have been ongoing for months, with both sides seeking a sustainable solution.",
+      "context": "Discussing peace processes.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "are ongoing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been ongoing",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an action starting in the past and continuing."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "were ongoing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past continuous."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "will be ongoing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous emphasizes the duration and current persistence of the talks.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v3",
+      "statement": "If both parties were more willing to compromise, the conflict would be resolved much faster.",
+      "context": "Conditional about a diplomatic outcome.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present change."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "would be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' describes how a hypothetical change in attitude would lead to a better result.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v4",
+      "statement": "Active listening is a technique used in conflict resolution to ensure that all parties feel heard and understood.",
+      "context": "Article about \"active listening\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "heard",
+          "is_correct": true,
+          "feedback": "Correct. The goal of active listening is to make the speaker feel heard."
+        },
+        {
+          "letter": "B",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of the goal."
+        },
+        {
+          "letter": "C",
+          "text": "judged",
+          "is_correct": false,
+          "feedback": "Incorrect. Active listening should be non-judgmental."
+        },
+        {
+          "letter": "D",
+          "text": "silenced",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of the goal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "explanation": "Being 'heard' is the fundamental psychological need that active listening aims to satisfy in a conflict.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v5",
+      "statement": "A \"win-win\" situation is one in which a compromise is reached that benefits all parties involved.",
+      "context": "Discussion on \"win-win\" outcomes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one-sided",
+          "is_correct": false,
+          "feedback": "Incorrect. Win-win is for everyone."
+        },
+        {
+          "letter": "B",
+          "text": "compromise",
+          "is_correct": true,
+          "feedback": "Correct. An agreement reached by each side making concessions."
+        },
+        {
+          "letter": "C",
+          "text": "victory",
+          "is_correct": false,
+          "feedback": "Incorrect. Victory often implies a winner and a loser."
+        },
+        {
+          "letter": "D",
+          "text": "stalemate",
+          "is_correct": false,
+          "feedback": "Incorrect. A stalemate is a situation where no progress can be made."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Compromise' is the mechanism through which mutually beneficial (win-win) outcomes are achieved.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v6",
+      "statement": "A treaty is a formally concluded and ratified agreement between countries.",
+      "context": "Formal agreements.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fight",
+          "is_correct": false,
+          "feedback": "Incorrect. Conflict."
+        },
+        {
+          "letter": "B",
+          "text": "treaty",
+          "is_correct": true,
+          "feedback": "Correct. Formal international agreement."
+        },
+        {
+          "letter": "C",
+          "text": "rumor",
+          "is_correct": false,
+          "feedback": "Incorrect. Informal."
+        },
+        {
+          "letter": "D",
+          "text": "protest",
+          "is_correct": false,
+          "feedback": "Incorrect. Expression of objection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Treaty' is the standard term for a formal agreement that ends or prevents conflict between nations.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
       "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v7",
+      "statement": "New terms for the agreement are being discussed by the legal teams this week.",
+      "context": "Describing an ongoing negotiation.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "are discussing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are being discussed",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing process."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "discussed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "have discussed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current status of the negotiation process.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v8",
+      "statement": "De-escalation involves reducing the intensity of a conflict or potentially violent situation.",
+      "context": "Text on \"de-escalation\".",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "Aggravation",
+          "is_correct": false,
+          "feedback": "Incorrect. Making things worse."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "De-escalation",
+          "is_correct": true,
+          "feedback": "Correct. The act of making something less intense or dangerous."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Promotion",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Making things grow."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Ignorance",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Not paying attention."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'De-escalation' is the specific term for techniques used to calm a tense situation.\n\n---",
       "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v9",
+      "statement": "The mediator reported that the two sides had finally reached a breakthrough in the negotiations.",
+      "context": "Reporting a past breakthrough.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have reached",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had reached",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "reach",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will reach",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it happened before the report.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v10",
+      "statement": "Zero-sum thinking is the belief that one side can only gain if the other side loses, which can hinder effective conflict resolution.",
+      "context": "Critique of \"zero-sum\" thinking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "promote",
+          "is_correct": false,
+          "feedback": "Incorrect. It makes it harder."
+        },
+        {
+          "letter": "B",
+          "text": "hinder",
+          "is_correct": true,
+          "feedback": "Correct. To hinder means to create difficulties for someone or something."
+        },
+        {
+          "letter": "C",
+          "text": "accelerate",
+          "is_correct": false,
+          "feedback": "Incorrect. It slows things down."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. It active prevents progress."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Hinder' correctly describes how competitive (zero-sum) mindsets prevent collaborative solutions.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v11",
+      "statement": "Empathy is a vital skill for mediators, as it allows them to understand the perspectives of all parties.",
+      "context": "Definition of empathy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hatred",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Correct. The ability to understand others' feelings."
+        },
+        {
+          "letter": "C",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empathy' is a key competency for professionals who help others resolve disputes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v12",
+      "statement": "By next year, it is hoped that a lasting peace will have been established in the region.",
+      "context": "Describing a future peace milestone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will establish",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been established",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "establishes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "establishing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive describes a desired goal as a finished fact at a specific future time.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v13",
+      "statement": "Reconciliation is the restoration of friendly relations after a conflict.",
+      "context": "Discussing \"reconciliation\".",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "Aggression",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Reconciliation",
+          "is_correct": true,
+          "feedback": "Correct. The process of healing relationships."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Separation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Often the opposite of reconciliation."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Competition",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Reconciliation' is the standard term for the process of repairing trust and connection after a dispute.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v14",
+      "statement": "If they had communicated more openly from the start, the conflict might have been avoided altogether.",
+      "context": "Conditional about past communication.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't communicate",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had communicated",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "communicate",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "were communicating",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional allows for the analysis of how past mistakes contributed to an outcome.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v15",
+      "statement": "The author concludes that forgiveness is often a necessary step for achieving true and lasting reconciliation.",
+      "context": "Conclusion of an essay on forgiveness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unnecessary",
+          "is_correct": false,
+          "feedback": "Incorrect. The author says it's necessary."
+        },
+        {
+          "letter": "B",
+          "text": "necessary",
+          "is_correct": true,
+          "feedback": "Correct. Essential for the result."
+        },
+        {
+          "letter": "C",
+          "text": "secondary",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a primary requirement."
+        },
+        {
+          "letter": "D",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a deliberate act."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Necessary' correctly identifies the author's argument about the essential nature of forgiveness.\n\n---",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v16",
+      "statement": "A neutral person is one who does not take sides in an argument or conflict.",
+      "context": "Describing a \"neutral\" party.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "biased",
+          "is_correct": false,
+          "feedback": "Incorrect. Taking a side."
+        },
+        {
+          "letter": "B",
+          "text": "neutral",
+          "is_correct": true,
+          "feedback": "Correct. Impartial."
+        },
+        {
+          "letter": "C",
+          "text": "hostile",
+          "is_correct": false,
+          "feedback": "Incorrect. Unfriendly."
+        },
+        {
+          "letter": "D",
+          "text": "active",
+          "is_correct": false,
+          "feedback": "Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Neutral' is the defining characteristic of an effective mediator or arbitrator.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v17",
+      "statement": "I wish the two countries would stop fighting and start talking.",
+      "context": "Expressing a hope for resolution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stop",
+          "is_correct": false,
+          "feedback": "Incorrect. Need 'would' for a desired change in others' behavior."
+        },
+        {
+          "letter": "B",
+          "text": "would stop",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a change in a situation or behavior."
+        },
+        {
+          "letter": "C",
+          "text": "stopped",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish + past' is for present state desires."
+        },
+        {
+          "letter": "D",
+          "text": "have stopped",
+          "is_correct": false,
+          "feedback": "Incorrect. Past regret."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Wish + would' is used to express a desire for an annoying or harmful situation to change.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v18",
+      "statement": "Arbitration is the use of an arbitrator to settle a dispute, and their decision is often legally binding.",
+      "context": "Text about \"arbitration\".",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "optional",
+          "is_correct": false,
+          "feedback": "Incorrect. Binding is the opposite of optional."
         },
         {
           "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "binding",
+          "is_correct": true,
+          "feedback": "Correct. Binding means that it must be obeyed."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "secret",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Usually formal and recorded."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "ignored",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. If it's binding, it can't be ignored without consequences."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Binding' is the legal term for a decision that carries the force of law and must be followed.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v19",
+      "statement": "The tension had been building for months before the final confrontation occurred.",
+      "context": "Describing a long-term tension.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "was building",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had been building",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past event."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "has been building",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect continuous."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "builds",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes a situation (tension) that was intensifying over time leading up to a specific past point.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v20",
+      "statement": "Dialogue is the most powerful tool we have for bridging divides and fostering lasting peace.",
+      "context": "Final thought on dialogue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bridging",
+          "is_correct": true,
+          "feedback": "Correct. To bridge a divide means to connect two different groups."
+        },
+        {
+          "letter": "B",
+          "text": "creating",
+          "is_correct": false,
+          "feedback": "Incorrect. We want to solve divides, not create them."
+        },
+        {
+          "letter": "C",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Dialogue requires engagement."
+        },
+        {
+          "letter": "D",
+          "text": "reinforcing",
+          "is_correct": false,
+          "feedback": "Incorrect. Reinforcing a divide makes it worse."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Bridging' is a common metaphorical verb for the act of bringing two conflicting sides together.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

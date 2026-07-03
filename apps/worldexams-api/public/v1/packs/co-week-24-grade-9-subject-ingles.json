@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-24-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.945Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v1",
+      "statement": "By this time next year, many schools ________ VR headsets to teach history.",
+      "context": "Describing a future ongoing activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect. This just states a future fact."
+        },
+        {
+          "letter": "B",
+          "text": "will be using",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous (will be + -ing) for actions that will be in progress at a specific future time."
+        },
+        {
+          "letter": "C",
+          "text": "will have used",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean the action is finished by then."
+        },
+        {
+          "letter": "D",
+          "text": "are using",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Futuro Continuo para visualizar una acción que estará ocurriendo en un momento determinado del futuro, resaltando la continuidad del proceso.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v2",
+      "statement": "By 2030, scientists ________ a way to make batteries last twice as long.",
+      "context": "Describing a completed future goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be finding",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will have found",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect (will have + past participle) for actions that will be completed before a certain time."
+        },
+        {
+          "letter": "D",
+          "text": "have found",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Futuro Perfecto se utiliza para indicar que una acción habrá terminado antes de un punto específico en el futuro (*By 2030*).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v3",
+      "statement": "In June, I ________ as a software developer for exactly ten years.",
+      "context": "Expressing duration in the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will have been working",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect Continuous shows the duration of an action up to a future point."
+        },
+        {
+          "letter": "D",
+          "text": "will have worked",
+          "is_correct": false,
+          "feedback": "Incorrect. (Possible, but C emphasizes the continuous nature better)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Futuro Perfecto Continuo (*will have been working*) se emplea para resaltar cuánto tiempo habrá durado una actividad al llegar a una fecha futura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v4",
+      "statement": "Don't call me at 10:00 PM tomorrow; I ________ a webinar about AI ethics.",
+      "context": "Predicting a future normal situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have watched",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be watching",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous for an action that will be in progress at a specific moment."
+        },
+        {
+          "letter": "C",
+          "text": "will watch",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "am going to watch",
+          "is_correct": false,
+          "feedback": "Incorrect. (Describes intention, but B describes the state of being busy)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Futuro Continuo es ideal para justificar por qué no estaremos disponibles en un momento dado del futuro, describiendo nuestra actividad en curso.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v5",
+      "statement": "By the end of the week, the team ________ the new app for any possible bugs.",
+      "context": "Describing a deadline for a tech project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will test",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be testing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will have tested",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect for an action completed by a deadline."
+        },
+        {
+          "letter": "D",
+          "text": "will have been testing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La preposición *By* seguida de una expresión de tiempo es una señal clara de que debemos usar el Futuro Perfecto para marcar la finalización de una tarea.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v6",
+      "statement": "In fifty years, people ________ in smart cities with zero emissions.",
+      "context": "Discussing future societal changes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have lived",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they stopped living there."
+        },
+        {
+          "letter": "B",
+          "text": "will be living",
+          "is_correct": true,
+          "feedback": "Correct! Describes a future state or lifestyle."
+        },
+        {
+          "letter": "C",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will have been living",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para proyecciones sobre cómo será la vida en el futuro, el Futuro Continuo es la forma más natural de describir el entorno y las actividades cotidianas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the tech project will be **finished** by Monday?",
+      "context": "Distinguishing between future forms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On Monday, we will be presenting the project.",
+          "is_correct": false,
+          "feedback": "Incorrect. Action in progress."
+        },
+        {
+          "letter": "B",
+          "text": "By Monday, we will have presented the project.",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect shows completion."
+        },
+        {
+          "letter": "C",
+          "text": "We are going to present the project on Monday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Intention."
+        },
+        {
+          "letter": "D",
+          "text": "We will present the project on Monday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A nivel B2, el estudiante debe identificar que el Futuro Perfecto (*will have presented*) se centra en el resultado y la conclusión de la acción antes de una fecha límite.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v8",
+      "statement": "\"Do you think people will still use smartphones in 2050?\"\n\"No, I think we ________ wearable devices by then.\"",
+      "context": "Predicting a continuous situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be using",
+          "is_correct": true,
+          "feedback": "Correct! Predicts a future standard situation or ongoing habit."
+        },
+        {
+          "letter": "C",
+          "text": "will have used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are going to use",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Futuro Continuo se usa a menudo para predecir situaciones que serán \"normales\" o habituales en un momento lejano del futuro.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v9",
+      "statement": "\"Why hasn't he answered the email?\"\n\"He probably ________ it yet. He's very busy today.\"",
+      "context": "Using Future Perfect for probability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won't see",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "won't be seeing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "won't have seen",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect can be used to make a guess about something that has (or hasn't) happened by now."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't seen",
+          "is_correct": false,
+          "feedback": "Incorrect. (Wait, this is possible, but C is the specific B2 target for speculation)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un uso avanzado del Futuro Perfecto es realizar suposiciones sobre el presente o el pasado reciente (*speculation about the past/present*).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"By the time you read this, I **will have already left** (A) for the tech conference. Tomorrow morning, I **will be attending** (B) several workshops. By the end of the day, I **will have been listening** (C) to five experts. I'm sure I **will be having** (D) a great time.\"",
+      "context": "Identifying an error in a future-oriented tech blog.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have already left",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct Future Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "will be attending",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct Future Continuous."
+        },
+        {
+          "letter": "C",
+          "text": "will have been listening",
+          "is_correct": true,
+          "feedback": "Correct! This should be Future Perfect (*will have listened*) because it refers to the number of experts heard by a deadline, not the duration of the activity itself."
+        },
+        {
+          "letter": "D",
+          "text": "will be having",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct Future Continuous for a state."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando contamos cuántas veces hemos hecho algo o cuántos elementos hemos completado ante una fecha límite, debemos usar el Futuro Perfecto Simple, no el Continuo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v11",
+      "statement": "Which statement best describes a **successful completion** of a long-term AI development goal?",
+      "context": "Judging the best future projection for an AI project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We will be developing the AI for five years in 2028.",
+          "is_correct": false,
+          "feedback": "Incorrect. Just describes the ongoing work."
+        },
+        {
+          "letter": "B",
+          "text": "We will develop the AI by 2028.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too vague."
+        },
+        {
+          "letter": "C",
+          "text": "By 2028, we will have successfully integrated the AI into our systems.",
+          "is_correct": true,
+          "feedback": "Correct! Emphasizes the successful result at a future point."
+        },
+        {
+          "letter": "D",
+          "text": "In 2028, the AI will have been working for a while.",
+          "is_correct": false,
+          "feedback": "Incorrect. Informal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para comunicar logros y éxitos proyectados en un contexto profesional, el Futuro Perfecto es la estructura más precisa y que transmite mayor seguridad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"The transition to a digital economy is fast. By next decade, most paper transactions ________. Instead, we ________ blockchain for almost everything.\"",
+      "context": "Completing a text about digital transformation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will disappear / will have used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have disappeared / will be using",
+          "is_correct": true,
+          "feedback": "Correct! Completion of a change and the following continuous state."
+        },
+        {
+          "letter": "C",
+          "text": "will be disappearing / will use",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "disappear / are using",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de secuenciar el futuro: un cambio que se completa (*will have disappeared*) y el nuevo estado permanente que le sigue (*will be using*).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W24-technology-trends-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

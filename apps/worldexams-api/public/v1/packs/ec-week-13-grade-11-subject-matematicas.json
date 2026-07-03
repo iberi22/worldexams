@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.151Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v1",
+      "statement": "¿Cuándo es necesario utilizar la Regla de la Cadena para encontrar la derivada de una función?",
+      "context": "Un estudiante de la Universidad de las Artes en Guayaquil estudia cómo se combinan diferentes ondas sonoras representadas por funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la función es un producto de dos variables independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa la Regla del Producto."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando la función es una composición de dos o más funciones ($f(g(x))$).",
+          "is_correct": true,
+          "feedback": "Correcto. La Regla de la Cadena permite derivar funciones compuestas multiplicando la derivada de la función externa por la de la interna."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando la función es un cociente de polinomios de igual grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa la Regla del Cociente."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente cuando la función contiene raíces cuadradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las raíces son composiciones, la regla se aplica a cualquier tipo de función compuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de la Cadena es la técnica fundamental para derivar funciones compuestas, permitiendo desglosar la tasa de cambio total en tasas de cambio parciales de sus componentes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v2",
+      "statement": "Calcule la derivada de $f(x) = (x^2 + 5)^3$.",
+      "context": "Derivada de una función potencia compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x^2 + 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la derivada de la función interna ($x^2 + 5$)."
+        },
+        {
+          "letter": "B",
+          "text": "$6x(x^2 + 5)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $3(x^2 + 5)^2 \\cdot (2x) = 6x(x^2 + 5)^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x(x^2 + 5)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicó correctamente la regla de la potencia externa."
+        },
+        {
+          "letter": "D",
+          "text": "$6x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede distribuir la derivada dentro de la potencia de esa forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la regla de la cadena en una función de la forma $u^n$, donde la derivada es $nu^{n-1} \\cdot u'$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la derivada de la función $f(x) = \\sin(x)$?",
+      "context": "Derivada de las funciones trigonométricas básicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del seno es positiva; la del coseno es negativa."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una de las derivadas trascendentes fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sec^2(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de la función tangente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función seno no es su propia derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la derivada de la función seno como la función coseno, esencial para el cálculo en física y trigonometría.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v4",
+      "statement": "Determine la derivada de $y = \\cos(4x)$.",
+      "context": "Derivada de una función trigonométrica con argumento compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\sin(4x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del argumento interno $4x$."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\sin(4x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del coseno es menos seno."
+        },
+        {
+          "letter": "C",
+          "text": "$-4\\sin(4x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de la externa ($-\\sin(4x)$) por la interna (4)."
+        },
+        {
+          "letter": "D",
+          "text": "$-4\\cos(4x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambió la función externa pero mantuvo el coseno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la regla de la cadena a funciones trigonométricas donde el ángulo es una función lineal de $x$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la derivada de la función exponencial natural $f(x) = e^x$?",
+      "context": "Un biólogo en las islas Galápagos modela el crecimiento de una población de bacterias usando funciones exponenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$xe^{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con la regla de la potencia para polinomios."
+        },
+        {
+          "letter": "B",
+          "text": "$e^x$",
+          "is_correct": true,
+          "feedback": "Correcto. La función $e^x$ es única porque su tasa de cambio es igual a su valor en cada punto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\ln(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función inversa, no la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$1/e^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error conceptual sobre el crecimiento exponencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función exponencial de base $e$ es invariante ante la operación de derivación, lo que la hace fundamental en modelos de crecimiento natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v6",
+      "statement": "Halle la derivada de $f(x) = \\ln(x^2 + 1)$.",
+      "context": "Derivada de la función logaritmo natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x^2 + 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento interno."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2x}{x^2 + 1}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{d}{dx}\\ln(u) = \\frac{1}{u} \\cdot u' = \\frac{1}{x^2+1} \\cdot 2x$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x \\ln(x^2 + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la regla de derivación para logaritmos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{x^2 + 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivó mal el argumento interno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para derivar el logaritmo de una función, se divide la derivada de dicha función por la función misma.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la tasa de cambio de la presión respecto al tiempo?",
+      "context": "Un sensor de presión en un pozo petrolero en la Amazonía ecuatoriana registra variaciones dadas por $P(t) = 100e^{-0.2t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100e^{-0.2t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la derivada del exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$20e^{-0.2t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el signo negativo de la tasa de decaimiento."
+        },
+        {
+          "letter": "C",
+          "text": "$-20e^{-0.2t}$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de $e^{ut}$ es $u e^{ut}$, entonces $100(-0.2)e^{-0.2t} = -20e^{-0.2t}$."
+        },
+        {
+          "letter": "D",
+          "text": "$-0.2e^{-0.2t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió el factor constante de 100."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo de la derivada de funciones exponenciales con exponentes compuestos, común en procesos de decaimiento o enfriamiento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v8",
+      "statement": "Determine la derivada de $f(x) = \\tan(x^2)$.",
+      "context": "Derivada de la función tangente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sec^2(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el argumento $x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x \\sec^2(x^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de la tangente ($\\sec^2$) evaluada en la interna ($x^2$) por la derivada de la interna ($2x$)."
+        },
+        {
+          "letter": "C",
+          "text": "$2x \\tan^2(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de la tangente no es la tangente al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sec^2(2x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la derivada interna dentro de la función externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la regla de la cadena integrando la derivada fundamental de la función tangente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de $f(x) = 5^x$?",
+      "context": "Un inversionista en la Bolsa de Valores de Quito analiza el crecimiento de un activo financiero modelado por $A(t) = 5^t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x 5^{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No confunda funciones exponenciales con funciones potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$5^x \\ln(5)$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $a^x$ es $a^x \\ln(a)$."
+        },
+        {
+          "letter": "C",
+          "text": "$5^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo es cierto si la base es $e$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5^x}{\\ln(5)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la integral de la función, no su derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciación entre la derivada de la función exponencial de base $e$ y funciones exponenciales con bases generales, que requieren el factor $\\ln(a)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v10",
+      "statement": "Halle $y'$ si $y = \\sqrt{\\sin(x)}$.",
+      "context": "Derivada de una función compuesta con raíz cuadrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\cos(x)}{\\sin(x)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería para un logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2\\sqrt{\\sin(x)}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada de la función interna seno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\cos(x)}{2\\sqrt{\\sin(x)}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $\\frac{1}{2}(\\sin x)^{-1/2} \\cdot \\cos x$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\cos(x)}{2\\sin(x)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el exponente de la raíz en el denominador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Combinación de la regla de la potencia (para la raíz) con la derivada de una función trigonométrica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v11",
+      "statement": "Utilice derivación implícita para encontrar $dy/dx$.",
+      "context": "Un ingeniero mecánico en una planta de ensamblaje en Manta estudia el movimiento de una pieza dado por $x^2 + y^2 = 25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-2x/2y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es técnicamente equivalente, la forma simplificada es preferible."
+        },
+        {
+          "letter": "B",
+          "text": "$-x/y$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivando ambos lados: $2x + 2y(y') = 0 \\Rightarrow 2y(y') = -2x \\Rightarrow y' = -x/y$."
+        },
+        {
+          "letter": "C",
+          "text": "$x/y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar."
+        },
+        {
+          "letter": "D",
+          "text": "$-2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó derivar el término $y^2$ respecto a $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivación implícita es necesaria cuando $y$ no está despejada en términos de $x$, tratando a $y$ como una función $y(x)$ y aplicando regla de la cadena.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v12",
+      "statement": "Calcule la derivada de $f(x) = \\ln(\\sin(3x))$.",
+      "context": "Derivada de una función compuesta por tres niveles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{\\sin(3x)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplicó el primer nivel de la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\cos(3x)}{\\ln(\\sin(3x))}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de la fórmula de logaritmo errónea."
+        },
+        {
+          "letter": "C",
+          "text": "$3 \\cot(3x)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{\\sin(3x)} \\cdot \\cos(3x) \\cdot 3 = 3 \\frac{\\cos(3x)}{\\sin(3x)} = 3\\cot(3x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cot(3x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del argumento más interno ($3x$)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación sucesiva de la regla de la cadena para funciones con múltiples capas de composición.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v13",
+      "statement": "Encuentre la pendiente de la recta tangente a la curva $xy = 12$ en el punto $(3, 4)$.",
+      "context": "Pendiente de una curva implícita en un punto dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo y relación de variables."
+        },
+        {
+          "letter": "B",
+          "text": "-4/3",
+          "is_correct": true,
+          "feedback": "Correcto. Por derivación implícita: $(1)y + x(y') = 0 \\Rightarrow y' = -y/x$. En $(3, 4)$, $y' = -4/3$."
+        },
+        {
+          "letter": "C",
+          "text": "-3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación de variables invertida."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor sin fundamento en la derivada de la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de pendientes en curvas no funcionales (relaciones) mediante derivación implícita y evaluación puntual.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la derivada de $y = x^x$? (Sugerencia: use $\\ln(y) = x \\ln(x)$).",
+      "context": "Uso de la derivación logarítmica para simplificar productos complejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\cdot x^{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la regla de la potencia de forma inválida (el exponente no es constante)."
+        },
+        {
+          "letter": "B",
+          "text": "$x^x \\ln(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la regla exponencial de forma inválida (la base no es constante)."
+        },
+        {
+          "letter": "C",
+          "text": "$x^x (1 + \\ln(x))$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{y} y' = (1)\\ln x + x(1/x) = \\ln x + 1$. Entonces $y' = y(1 + \\ln x) = x^x(1 + \\ln x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no es su propia derivada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La derivación logarítmica es la herramienta adecuada para funciones donde tanto la base como el exponente dependen de la variable independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v15",
+      "statement": "Determine la derivada de $f(x) = \\arcsin(x)$.",
+      "context": "Derivada de funciones trigonométricas inversas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{1 + x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de $\\arctan(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada fundamental de la función arcoseno."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\frac{1}{\\sqrt{1 - x^2}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de $\\arccos(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con la relación entre funciones trigonométricas directas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de las derivadas de funciones trigonométricas inversas, cruciales para resolver integrales por sustitución trigonométrica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la expresión para la tasa de cambio del volumen respecto al tiempo ($dV/dt$)?",
+      "context": "Un tanque cilíndrico en una refinería en Esmeraldas se está llenando de crudo. El volumen es $V = \\pi r^2 h$. Si el radio $r$ es constante y la altura $h$ varía con el tiempo $t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi r^2 \\frac{dh}{dt}$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\pi$ y $r$ son constantes, se sacan de la derivada y se deriva $h$ respecto a $t$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi r h \\frac{dr}{dt}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado especifica que el radio es constante."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la tasa de cambio de la altura respecto al tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi r \\frac{dh}{dt}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término $r^2$ no se convierte en $2r$ si el radio es constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modelado de problemas de tasas relacionadas utilizando la regla de la cadena para variables que dependen del tiempo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v17",
+      "statement": "Calcule la derivada de $f(x) = e^{e^x}$.",
+      "context": "Derivada de una función con potencias exponenciales anidadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^{e^x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor de la cadena de la función interna."
+        },
+        {
+          "letter": "B",
+          "text": "$e^{e^x} \\cdot e^x$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de la externa ($e^{e^x}$) por la derivada del exponente ($e^x$). Se puede escribir como $e^{e^x + x}$."
+        },
+        {
+          "letter": "C",
+          "text": "$e^{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en las propiedades de las potencias y derivadas."
+        },
+        {
+          "letter": "D",
+          "text": "$e^{x^e}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de función totalmente distinta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Manejo de funciones exponenciales compuestas donde la base de la potencia externa es el número de Euler.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v18",
+      "statement": "Halle la derivada de $y = \\log_2(x^3)$.",
+      "context": "Diferenciación de una función con logaritmo de base distinta a $e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor del logaritmo natural de la base."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{x^3 \\ln(2)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del argumento interno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{x \\ln(2)}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{x^3 \\ln 2} \\cdot 3x^2 = \\frac{3x^2}{x^3 \\ln 2} = \\frac{3}{x \\ln 2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3 \\ln(2)}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $\\ln(2)$ debe estar en el denominador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Generalización de la derivada del logaritmo para cualquier base positiva distinta de uno, incorporando la regla de la cadena.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v19",
+      "statement": "Sea $f(x) = x^3 + x$. Si $g$ es la función inversa de $f$, calcule $g'(2)$. (Nota: $f(1) = 2$).",
+      "context": "Un problema teórico sobre la derivada de la función inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de $f$ en 1, pero se busca la de la inversa."
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto. $g'(f(x)) = 1/f'(x)$. $f'(x) = 3x^2 + 1$. En $x=1$, $f'(1) = 4$. Entonces $g'(2) = 1/4$."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la derivada de $f$."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar sin la expresión de $g(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Teorema de la Función Inversa permite calcularlo conociendo solo la función original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del Teorema de la Función Inversa para calcular derivadas de funciones cuya expresión explícita es difícil o imposible de obtener.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v20",
+      "statement": "Dada la curva $x^2 + y^2 = 1$, encuentre la expresión para $d^2y/dx^2$ en términos de $y$.",
+      "context": "Segunda derivada de una función definida implícitamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1/y^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la regla del cociente a la primera derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/y^3$",
+          "is_correct": true,
+          "feedback": "Correcto. $y' = -x/y$. Entonces $y'' = -\\frac{(1)y - x(y')}{y^2} = -\\frac{y - x(-x/y)}{y^2} = -\\frac{y^2 + x^2}{y^3}$. Como $x^2 + y^2 = 1$, queda $-1/y^3$."
+        },
+        {
+          "letter": "C",
+          "text": "$-x^2/y^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificó usando la ecuación original del círculo."
+        },
+        {
+          "letter": "D",
+          "text": "$1/y^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la derivación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de derivadas de orden superior para funciones implícitas, integrando simplificaciones basadas en la identidad de la curva original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

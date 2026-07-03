@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-14-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.420Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v1",
+      "statement": "Dada la función cuadrática en su forma canónica $f(x) = a(x - h)^2 + k$, ¿qué representan las coordenadas $(h, k)$?",
+      "context": "Un estudiante en la ciudad de Lima repasa los elementos principales de la parábola, representación gráfica de la función cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los puntos de intersección con el eje $X$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los interceptos se hallan igualando la función a cero."
+        },
+        {
+          "letter": "B",
+          "text": "Los puntos de intersección con el eje $Y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto con el eje $Y$ se halla evaluando $f(0)$."
+        },
+        {
+          "letter": "C",
+          "text": "El vértice de la parábola.",
+          "is_correct": true,
+          "feedback": "Correcto. En la forma canónica, $h$ y $k$ son las coordenadas del punto máximo o mínimo de la función."
+        },
+        {
+          "letter": "D",
+          "text": "El foco de la parábola.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco es un punto interno cuya distancia al vértice depende del parámetro $a$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma canónica de una función cuadrática permite identificar directamente el vértice $(h, k)$. Si $a > 0$ es un mínimo, y si $a < 0$ es un máximo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la altura máxima que alcanza la entrada según el modelo dado?",
+      "context": "Un arquitecto en Arequipa diseña una entrada con forma parabólica definida por $f(x) = -(x - 3)^2 + 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es la coordenada $x$ del vértice."
+        },
+        {
+          "letter": "B",
+          "text": "4 metros",
+          "is_correct": true,
+          "feedback": "Correcto. En la función $f(x) = a(x - h)^2 + k$, el valor máximo (si $a < 0$) es $k$. Aquí $k = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "7 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros $h$ y $k$ sin justificación matemática."
+        },
+        {
+          "letter": "D",
+          "text": "0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la altura en los puntos de apoyo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos la función en su forma canónica. El signo negativo indica que la parábola abre hacia abajo, por lo que el vértice es un punto máximo. El valor de $y$ en el vértice es 4.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v3",
+      "statement": "Determine la coordenada $x$ del vértice de la función $f(x) = 2x^2 - 12x + 5$.",
+      "context": "Hallar el vértice de una función cuadrática expresada en su forma polinómica general.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por $2a$ en la fórmula del vértice."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $x_v = -b / (2a) = -(-12) / (2 \\times 2) = 12 / 4 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al aplicar la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró el valor de $b$ con signo cambiado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una función $ax^2 + bx + c$, la ubicación del eje de simetría y del vértice en el eje horizontal se calcula mediante la fórmula $x = -b / 2a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v4",
+      "statement": "¿Hacia dónde abre la parábola representada por la función $f(x) = 5 - 2x - x^2$ y por qué?",
+      "context": "Análisis de la concavidad de la parábola en un curso de matemáticas de 5to de secundaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia arriba, porque el término independiente es positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concavidad no depende del término independiente."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia abajo, porque el coeficiente del término cuadrático es negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. El coeficiente de $x^2$ es -1, lo que indica concavidad negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia arriba, porque el valor absoluto de $a$ es mayor que 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto siempre es mayor que 0 para una cuadrática; lo que importa es el signo."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la derecha, porque es una función de $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones cuadráticas de $x$ solo abren hacia arriba o abajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dirección de apertura (concavidad) de una función cuadrática depende exclusivamente del signo del coeficiente principal $a$. Si $a < 0$, la parábola abre hacia abajo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la altura máxima que alcanza el proyectil?",
+      "context": "Un proyectil es lanzado desde el suelo con una trayectoria descrita por $h(t) = -5t^2 + 40t$, donde $h$ es altura en metros y $t$ tiempo en segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el coeficiente lineal, no la altura máxima."
+        },
+        {
+          "letter": "B",
+          "text": "80 metros",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice ocurre en $t = -40 / (2 \\times -5) = 4$ segundos. Evaluando: $h(4) = -5(16) + 40(4) = -80 + 160 = 80$."
+        },
+        {
+          "letter": "C",
+          "text": "160 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la potencia en la función de altura."
+        },
+        {
+          "letter": "D",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 segundos es el tiempo para alcanzar la altura máxima, no la altura en sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos el tiempo en el vértice $t_v = -b / 2a = 4$. Luego sustituimos ese tiempo en la función original para obtener la coordenada $k$ (altura máxima).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v6",
+      "statement": "Determine los puntos de intersección con el eje $X$ de la función $f(x) = x^2 - 4x - 12$.",
+      "context": "Intersecciones con los ejes en un estudio de trayectorias en Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6, 0)$ y $(2, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos en la factorización deben ser opuestos."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, 0)$ y $(-2, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: $(x - 6)(x + 2) = 0$. Las raíces son 6 y -2."
+        },
+        {
+          "letter": "C",
+          "text": "$(-6, 0)$ y $(2, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de las raíces son inversos a los de los factores."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, -12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el intercepto con el eje $Y$, no con el eje $X$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los interceptos con el eje $X$ coinciden con las raíces de la función. Factorizamos el trinomio por aspa simple y hallamos los valores de $x$ que anulan la función.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v7",
+      "statement": "Si a la función $f(x) = x^2$ se le suma 3 unidades a la variable $x$ antes de elevar al cuadrado, y se le resta 5 unidades al resultado final, ¿cuál es la nueva ecuación?",
+      "context": "Un estudiante observa cómo cambia la gráfica de $f(x) = x^2$ al modificar sus parámetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = (x - 3)^2 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar a la variable desplaza a la derecha, sumar desplaza a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "$y = (x + 3)^2 - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar 3 a $x$ da $(x+3)^2$, y restar 5 al final da $-5$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x^2 + 3x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La instrucción indica sumar a la variable antes de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$y = (x + 3)^2 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar unidades al resultado final implica un signo negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las transformaciones de funciones indican que $f(x+h)$ desplaza horizontalmente y $f(x)+k$ desplaza verticalmente. La descripción corresponde a la forma canónica con $h = -3$ (desplazamiento a la izquierda) y $k = -5$ (desplazamiento hacia abajo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v8",
+      "statement": "¿A qué velocidad el costo de operación por kilómetro es mínimo?",
+      "context": "Una empresa de transporte en Piura estima que su costo de operación por cada kilómetro recorrido depende de la velocidad $v$ (en km/h) según $C(v) = 0.2v^2 - 20v + 600$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mínimo se encuentra a una velocidad mayor."
+        },
+        {
+          "letter": "B",
+          "text": "50 km/h",
+          "is_correct": true,
+          "feedback": "Correcto. Vértice $v = -(-20) / (2 \\times 0.2) = 20 / 0.4 = 50$."
+        },
+        {
+          "letter": "C",
+          "text": "60 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el punto de eficiencia mínima."
+        },
+        {
+          "letter": "D",
+          "text": "100 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del denominador de la fórmula del vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mínimo de una función cuadrática con $a > 0$ se encuentra en la coordenada $x$ de su vértice. Aplicamos $v = -b / 2a$ con los datos del problema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v9",
+      "statement": "Determine el rango de la función $f(x) = x^2 - 6x + 10$ definida para todos los números reales.",
+      "context": "Análisis del rango de una función cuadrática acotada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\langle-\\infty, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parábola abre hacia arriba, por lo que el rango debe tener un límite inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$[1, +\\infty\\rangle$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice está en $x = 3$. $f(3) = 9 - 18 + 10 = 1$. Como abre hacia arriba, el rango empieza en el valor mínimo 1."
+        },
+        {
+          "letter": "C",
+          "text": "$[3, +\\infty\\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es la coordenada $x$ del vértice, el rango se define por los valores de $y$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones cuadráticas no cubren todos los reales en su rango."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango de una función cuadrática $ax^2 + bx + c$ depende de la dirección de apertura y del valor de $y$ en el vértice ($k$). Si $a > 0$, el rango es $[k, +\\infty\\rangle$. Aquí $k = 1$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el área máxima que puede cercar con esa cantidad de malla?",
+      "context": "Un ganadero en Cajamarca dispone de 400 metros de malla para cercar un terreno rectangular aprovechando una pared de piedra ya existente para uno de los lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.000 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor si cercara los 4 lados."
+        },
+        {
+          "letter": "B",
+          "text": "20.000 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Malla = $2x + y = 400 \\Rightarrow y = 400 - 2x$. Área $A = x(400 - 2x) = -2x^2 + 400x$. Vértice en $x = 100$. Área máxima: $A(100) = 100(200) = 20.000$."
+        },
+        {
+          "letter": "C",
+          "text": "40.000 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor físicamente imposible con el perímetro dado."
+        },
+        {
+          "letter": "D",
+          "text": "15.000 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al punto máximo de la función de área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelamos el área como una función de una variable. Usando la restricción del perímetro (solo 3 lados), obtenemos una función cuadrática de área. Hallamos el vértice para determinar las dimensiones óptimas y el área máxima resultante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v11",
+      "statement": "La energía cinética $E$ de un objeto de 4 kg está dada por $E(v) = 2v^2$, donde $v$ es la velocidad. Si la velocidad aumenta de 2 m/s a 6 m/s, ¿en cuánto aumenta la energía cinética?",
+      "context": "Un problema de física sobre energía cinética que involucra funciones cuadráticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó las velocidades y luego elevó al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "32 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó solo el valor final."
+        },
+        {
+          "letter": "C",
+          "text": "64 Joules",
+          "is_correct": true,
+          "feedback": "Correcto. $E(6) = 2(36) = 72$. $E(2) = 2(4) = 8$. Variación: $72 - 8 = 64$."
+        },
+        {
+          "letter": "D",
+          "text": "72 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor final de la energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluamos la función cuadrática en los dos puntos indicados y calculamos la diferencia entre los resultados (la variación).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v12",
+      "statement": "Halle los puntos de intersección entre la parábola $y = x^2$ y la recta $y = 2x + 3$.",
+      "context": "Determinación de los puntos de intersección entre una recta y una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 9)$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta y una parábola suelen cortarse en dos puntos."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 9)$ y $(-1, 1)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Igualamos: $x^2 = 2x + 3 \\Rightarrow x^2 - 2x - 3 = 0$. Raíces: 3 y -1. Evaluando en $y=x^2$ obtenemos 9 y 1."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 6)$ y $(-1, -2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las coordenadas $y$ no coinciden con la función cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$ y $(3, 9)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen no es punto de intersección para este caso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la intersección de dos funciones, igualamos sus reglas de correspondencia. Esto genera una ecuación de segundo grado cuyas soluciones son las abscisas de los puntos de contacto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la ecuación de la parábola que tiene el mismo vértice que $y = (x - 2)^2 + 5$ pero que pasa por el punto $(0, 1)$?",
+      "context": "Un matemático en la ciudad del Cusco analiza la traslación de una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = (x - 2)^2 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pasa por el punto $(0, 1)$, ya que $f(0) = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -(x - 2)^2 + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Si el vértice es $(2, 5)$, la forma es $y = a(x-2)^2 + 5$. Usamos $(0, 1): 1 = a(0-2)^2 + 5 \\Rightarrow -4 = 4a \\Rightarrow a = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -2(x - 2)^2 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar en $x=0$ resultaría $y = -3$."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -(x + 2)^2 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo dentro del paréntesis indica un vértice en $x = -2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la forma canónica con el vértice conocido y dejamos el coeficiente $a$ como incógnita. Sustituimos el punto adicional $(0, 1)$ en la ecuación para despejar el valor exacto de $a$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v14",
+      "statement": "Dada la familia de funciones $f(x) = x^2 - kx + 9$. ¿Para qué valores de $k$ la gráfica de la función es tangente al eje $X$?",
+      "context": "Análisis de funciones cuadráticas con parámetros variables, nivel pre-universitario (UNI).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. También existe un valor negativo que cumple la condición."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice estaría en $(0, 9)$, sin tocar el eje $X$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 6$ o $k = -6$",
+          "is_correct": true,
+          "feedback": "Correcto. Tangente al eje $X$ significa una única raíz real ($\\Delta = 0$). $k^2 - 4(1)(9) = 0 \\Rightarrow k^2 = 36 \\Rightarrow k = \\pm 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$k > 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí habría dos puntos de intersección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Que la gráfica sea tangente al eje de las abscisas implica que la ecuación $f(x) = 0$ tiene una solución única (raíces reales e iguales). Esto ocurre cuando el discriminante $\\Delta$ es exactamente igual a cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v15",
+      "statement": "Un rectángulo tiene su base sobre el eje $X$ y sus dos vértices superiores sobre la parábola $y = 12 - x^2$. ¿Cuál es el área del rectángulo si su base mide 4 unidades?",
+      "context": "Determinar el área de una figura geométrica inscrita bajo una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar la base al cuadrado en la función de altura."
+        },
+        {
+          "letter": "B",
+          "text": "16 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación de la coordenada $x$ para los vértices."
+        },
+        {
+          "letter": "C",
+          "text": "32 u²",
+          "is_correct": true,
+          "feedback": "Correcto. Si la base es 4 y está centrada, los extremos son $x=2$ y $x=-2$. La altura es $y = 12 - (2)^2 = 8$. Área = $base \\times altura = 4 \\times 8 = 32$."
+        },
+        {
+          "letter": "D",
+          "text": "24 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise el cálculo de la altura del rectángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades se extiende desde $x = -2$ hasta $x = 2$. La altura del rectángulo está dada por el valor de la función en esos puntos extremos de la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál debe ser el aumento en el precio de la entrada para maximizar el ingreso total?",
+      "context": "Modelado de ingresos en un teatro de Lima. El precio actual de la entrada es S/ 50 y asisten 400 personas. Se estima que por cada S/ 5 de aumento en el precio, asisten 20 personas menos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de S/ 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ingreso máximo se alcanza con un aumento mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de S/ 25",
+          "is_correct": true,
+          "feedback": "Correcto. Sea $x$ el número de aumentos de S/ 5. Ingreso $I(x) = (50 + 5x)(400 - 20x) = 20000 - 1000x + 2000x - 100x^2 = -100x^2 + 1000x + 20000$. Vértice en $x = 5$. Aumento total = $5 \\times 5 = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento de S/ 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función de ingresos aún no alcanza su punto máximo."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de S/ 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el punto de equilibrio donde los ingresos empiezan a bajar drásticamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la función de ingresos como el producto de (Precio + aumento) por (Asistencia - disminución). Al resolver para el vértice de la función cuadrática resultante, hallamos el número de incrementos óptimos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v17",
+      "statement": "Una parábola tiene su vértice en $(1, -4)$ y corta al eje $Y$ en el punto $(0, -3)$. Determine su valor en $x = 5$.",
+      "context": "Determinación de la regla de correspondencia de una función cuadrática a partir de su gráfica en un examen tipo admisión UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó mal la función obtenida."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Forma: $y = a(x-1)^2 - 4$. Con $(0,-3): -3 = a(0-1)^2 - 4 \\Rightarrow 1 = a$. Función: $y = (x-1)^2 - 4$. Para $x=5: y = (4)^2 - 4 = 16 - 4 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular el coeficiente principal $a$."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el valor de $k$ del vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la forma canónica para establecer la estructura de la función con los datos del vértice. Luego, con el intercepto en $Y$, calculamos el valor de $a$. Finalmente, evaluamos la función completa en el punto solicitado.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v18",
+      "statement": "Se inscribe un rectángulo de base $b$ y altura $h$ dentro de un triángulo isósceles de base 12 y altura 8, de modo que la base del rectángulo descansa sobre la base del triángulo. ¿Cuál es el valor de $b$ que maximiza el área del rectángulo?",
+      "context": "Un problema de geometría que involucra la optimización de una figura inscrita, nivel competencia ONEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al punto medio de la base del triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza: $h/8 = (6 - b/2)/6 \\Rightarrow h = 8 - (4/3)b$. Área $A = b(8 - 4b/3) = -4b^2/3 + 8b$. Vértice en $b = -8 / (2 \\times -4/3) = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto haría que la altura del rectángulo fuera muy pequeña."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que no maximiza la función de área resultante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la semejanza de triángulos para relacionar la base y la altura del rectángulo. Esto nos permite expresar el área como una función cuadrática de una sola variable. El máximo se halla calculando el vértice de dicha función.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v19",
+      "statement": "Si $f(x) = x^2 - 4x + 1$, determine la suma de todas las soluciones de la ecuación $f(f(x)) = 1$.",
+      "context": "Análisis de la suma de raíces en una función cuadrática compuesta, nivel examen de excelencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró las soluciones de la función interna sin aplicar la composición."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. $f(u) = 1 \\Rightarrow u^2-4u+1=1 \\Rightarrow u(u-4)=0 \\Rightarrow u=0$ o $u=4$. Ahora resolvemos: 1) $f(x)=0 \\Rightarrow x^2-4x+1=0$ (Suma=4). 2) $f(x)=4 \\Rightarrow x^2-4x+1=4 \\Rightarrow x^2-4x-3=0$ (Suma=4). Suma total = $4 + 4 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó incorrectamente las raíces individuales."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente los resultados de la suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la ecuación exterior para encontrar los valores posibles de la función interna. Luego, resolvemos cada una de las ecuaciones cuadráticas resultantes. Por la propiedad de simetría de la parábola, cada una tiene una suma de raíces de 4.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v20",
+      "statement": "Determine el menor valor entero de $k$ para que la función $f(x) = x^2 - (k-2)x + k + 1$ sea positiva para todo valor real de $x$.",
+      "context": "Condición de positividad de una función cuadrática (teorema del trinomio positivo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la condición del discriminante negativo."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Necesitamos $\\Delta < 0 \\Rightarrow (k-2)^2 - 4(k+1) < 0 \\Rightarrow k^2-4k+4-4k-4 < 0 \\Rightarrow k^2-8k < 0$. Esto ocurre para $k \\in \\langle 0, 8 \\rangle$. El menor entero es 1."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Haría que el discriminante fuera positivo, permitiendo valores negativos de la función."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el límite superior del intervalo, donde la función toca el cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una cuadrática con $a > 0$ sea siempre positiva, no debe tener raíces reales, por lo que su discriminante debe ser menor que cero. Resolvemos la inecuación resultante para el parámetro $k$ e identificamos el menor valor entero solicitado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

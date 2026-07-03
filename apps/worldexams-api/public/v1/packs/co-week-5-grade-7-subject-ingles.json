@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.890Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-001-v1",
+      "statement": "What is the correct response to the question: \"How do you spell your name?\"",
+      "context": "Meeting a new student at a Colombian school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrect. This answers \"What is your name?\"."
+        },
+        {
+          "letter": "B",
+          "text": "C-A-R-L-O-S.",
+          "is_correct": true,
+          "feedback": "Correct! This is the spelling of the name."
+        },
+        {
+          "letter": "C",
+          "text": "It is a nice name.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is an opinion about the name."
+        },
+        {
+          "letter": "D",
+          "text": "My name is Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a full introduction, not spelling."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the communicative function of asking for spelling.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-002-v1",
+      "statement": "Complete the sentence: \"My sister ________ to the gym every morning.\"",
+      "context": "Describing a family member's daily routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the third person ending for \"my sister\"."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct! \"Goes\" is the correct third-person singular form."
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form."
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers and applies the third-person singular rule for the verb \"go\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-003-v1",
+      "statement": "Friend A: \"How often do you watch movies?\"\nFriend B: \"________________________\"",
+      "context": "A dialogue between two friends.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I sometimes watch movies on Fridays.",
+          "is_correct": true,
+          "feedback": "Correct! This uses a frequency adverb to answer \"How often\"."
+        },
+        {
+          "letter": "B",
+          "text": "I like horror movies.",
+          "is_correct": false,
+          "feedback": "Incorrect. This talks about preferences, not frequency."
+        },
+        {
+          "letter": "C",
+          "text": "I am watching a movie now.",
+          "is_correct": false,
+          "feedback": "Incorrect. This uses the present continuous to describe a current action."
+        },
+        {
+          "letter": "D",
+          "text": "At the cinema in the mall.",
+          "is_correct": false,
+          "feedback": "Incorrect. This answers \"Where?\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands how to express frequency in response to a direct question.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-004-v1",
+      "statement": "Which sentence follows the correct word order?",
+      "context": "Describing a state using the verb \"to be\" and an adverb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I never am tired.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adverbs go after \"to be\"."
+        },
+        {
+          "letter": "B",
+          "text": "Never I am tired.",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect word order."
+        },
+        {
+          "letter": "C",
+          "text": "I am never tired.",
+          "is_correct": true,
+          "feedback": "Correct! With the verb \"to be\", the adverb of frequency comes after."
+        },
+        {
+          "letter": "D",
+          "text": "I am tired never.",
+          "is_correct": false,
+          "feedback": "Incorrect. Less natural and standard than option C."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the placement of frequency adverbs with the verb \"to be\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-005-v1",
+      "statement": "\"We ________ in Bogotá, but our cousin ________ in Medellín.\"",
+      "context": "A conversation about living in different cities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live / lives",
+          "is_correct": true,
+          "feedback": "Correct! \"Live\" for \"we\" (plural) and \"lives\" for \"cousin\" (third person singular)."
+        },
+        {
+          "letter": "B",
+          "text": "lives / live",
+          "is_correct": false,
+          "feedback": "Incorrect. The conjugations are reversed."
+        },
+        {
+          "letter": "C",
+          "text": "living / lives",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Living\" requires \"are\" and implies a continuous action."
+        },
+        {
+          "letter": "D",
+          "text": "live / live",
+          "is_correct": false,
+          "feedback": "Incorrect. The second verb needs an 's' for the singular subject."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies knowledge of both plural and third-person singular conjugations in the Present Simple.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-006-v1",
+      "statement": "According to the text, what does Pablo do right after waking up?",
+      "context": "A text about Pablo's routine.\n\"Pablo is a 13-year-old student. He always wakes up at 5:00 AM. He brushes his teeth and then he studies for an hour before school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He goes to school.",
+          "is_correct": false,
+          "feedback": "Incorrect. He studies before school."
+        },
+        {
+          "letter": "B",
+          "text": "He brushes his teeth.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"He brushes his teeth\" after mentioning he wakes up."
+        },
+        {
+          "letter": "C",
+          "text": "He studies for an hour.",
+          "is_correct": false,
+          "feedback": "Incorrect. Studying happens after brushing his teeth."
+        },
+        {
+          "letter": "D",
+          "text": "He has breakfast.",
+          "is_correct": false,
+          "feedback": "Incorrect. Breakfast is not mentioned in this fragment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading comprehension skills to identify a sequence of actions in a routine.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-007-v1",
+      "statement": "Choose the correct negative sentence about a person's routine.",
+      "context": "Correcting a negative sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He don't play video games on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"He\" requires the auxiliary \"doesn't\"."
+        },
+        {
+          "letter": "B",
+          "text": "He doesn't play video games on Mondays.",
+          "is_correct": true,
+          "feedback": "Correct! \"Doesn't\" is the correct auxiliary for third person singular."
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't plays video games on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"doesn't\", the verb must be in its base form (no 's')."
+        },
+        {
+          "letter": "D",
+          "text": "He not play video games on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary verb \"do/does\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the rules for negative sentences in the third-person singular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-008-v1",
+      "statement": "Which sentence is completely correct?",
+      "context": "Identifying errors in a paragraph.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My teacher usually speak English in class.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Teacher\" is third person, so it needs \"speaks\"."
+        },
+        {
+          "letter": "B",
+          "text": "My teacher usually speaks English in class.",
+          "is_correct": true,
+          "feedback": "Correct! Subject-verb agreement and adverb placement are perfect."
+        },
+        {
+          "letter": "C",
+          "text": "My teacher speaks usually English in class.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adverb is in the wrong position."
+        },
+        {
+          "letter": "D",
+          "text": "My teacher usually speaking English in class.",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect verb form for a routine."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes sentence structure for both subject-verb agreement and adverb placement.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-009-v1",
+      "statement": "What can we analyze from their habits?",
+      "context": "Comparing two students' schedules.\n\"Ana: Studies 5 days a week / Plays sport 1 day a week / Reads every night.\"\n\"Luis: Studies 5 days a week / Plays sport 3 days a week / Never reads.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana plays sport more often than Luis.",
+          "is_correct": false,
+          "feedback": "Incorrect. Luis plays sport 3 days, Ana only 1."
+        },
+        {
+          "letter": "B",
+          "text": "Ana reads more frequently than Luis.",
+          "is_correct": true,
+          "feedback": "Correct! Ana reads every night, Luis never reads."
+        },
+        {
+          "letter": "C",
+          "text": "Luis studies more than Ana.",
+          "is_correct": false,
+          "feedback": "Incorrect. They both study the same amount (5 days)."
+        },
+        {
+          "letter": "D",
+          "text": "They have the same routine.",
+          "is_correct": false,
+          "feedback": "Incorrect. Their sport and reading habits are different."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and compares frequency data to identify a correct descriptive statement.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W05-review-p1-foundations-010-v1",
+      "statement": "Which conclusion is most valid based on Mateo's description?",
+      "context": "Evaluating a description of a person.\n\"Mateo is very athletic. He usually runs 10 kilometers before school, he always eats vegetables, and he never drinks soda. He is the captain of the soccer team.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mateo is the captain because he never drinks soda.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is only one part of his healthy habits, not the sole reason."
+        },
+        {
+          "letter": "B",
+          "text": "Mateo runs because he doesn't have time to sleep.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text doesn't mention his sleep habits."
+        },
+        {
+          "letter": "C",
+          "text": "Mateo's disciplined and healthy habits support his role as an athlete.",
+          "is_correct": true,
+          "feedback": "Correct! The combination of exercise and diet reflects his athletic nature and discipline."
+        },
+        {
+          "letter": "D",
+          "text": "Mateo always eats vegetables because he is the captain.",
+          "is_correct": false,
+          "feedback": "Incorrect. The relationship is likely the other way around: his habits make him a good candidate for captain."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates a set of behavioral facts to determine the most comprehensive and logical conclusion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W05-review-p1-foundations-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

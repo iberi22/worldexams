@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-14-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.152Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define un punto crítico de una función $f(x)$?",
+      "context": "Un analista de datos en Guayaquil estudia la tendencia de ventas de una aplicación móvil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es cualquier punto donde la función cruza el eje de las abscisas ($x$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una raíz o cero de la función."
+        },
+        {
+          "letter": "B",
+          "text": "Es un punto en el dominio de $f$ donde $f'(x) = 0$ o $f'(x)$ no existe.",
+          "is_correct": true,
+          "feedback": "Correcto. Los puntos críticos son los candidatos a ser extremos locales (máximos o mínimos)."
+        },
+        {
+          "letter": "C",
+          "text": "Es el punto más alto de toda la gráfica de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el máximo absoluto, que es un tipo de punto crítico, pero no la definición general."
+        },
+        {
+          "letter": "D",
+          "text": "Es el punto donde la función cambia de signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se relaciona con el Teorema del Valor Intermedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La identificación de puntos críticos es el primer paso para analizar el comportamiento local de una función utilizando herramientas del cálculo diferencial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v2",
+      "statement": "Si para todo $x$ en un intervalo $(a, b)$ se cumple que $f'(x) > 0$, ¿qué se puede afirmar sobre la función $f$ en ese intervalo?",
+      "context": "Criterio de la primera derivada para el crecimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función es estrictamente creciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Una derivada positiva indica que la pendiente es positiva, por lo que los valores de $y$ aumentan conforme aumenta $x$."
+        },
+        {
+          "letter": "B",
+          "text": "La función es estrictamente decreciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si la derivada fuera negativa."
+        },
+        {
+          "letter": "C",
+          "text": "La función tiene un valor máximo en ese intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una derivada estrictamente positiva impide la existencia de un extremo local dentro del intervalo abierto."
+        },
+        {
+          "letter": "D",
+          "text": "La función es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para que sea constante, la derivada debe ser cero en todo el intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relación directa entre el signo de la primera derivada y la monotonía (crecimiento/decrecimiento) de una función continua.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v3",
+      "statement": "Determine los puntos críticos de la función $f(x) = x^2 - 6x + 5$.",
+      "context": "Cálculo de puntos críticos en un polinomio simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=0$, $f'(0) = -6 \\neq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 2x - 6$. Igualando a cero: $2x - 6 = 0 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ y $x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son los ceros de la función, no los puntos críticos."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene puntos críticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser una parábola, tiene un vértice que es un punto crítico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del concepto de punto crítico igualando la primera derivada a cero para funciones polinómicas de segundo grado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v4",
+      "statement": "¿En qué valor de producción $x$ el costo marginal (derivada del costo) es igual a cero?",
+      "context": "Una microempresa en Cuenca modela su costo promedio mediante la función $C(x) = x + \\frac{4}{x}$ para $x > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al resolver la ecuación de la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $C'(x) = 1 - 4/x^2$. Igualando a cero: $4/x^2 = 1 \\Rightarrow x^2 = 4 \\Rightarrow x = 2$ (ya que $x > 0$)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo marginal en $x=1$ es $-3$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no está definida en $x=0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de niveles de actividad económica óptimos mediante la búsqueda de puntos donde la tasa de cambio es nula.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v5",
+      "statement": "Si $x = c$ es un punto crítico tal que $f'(c) = 0$ y $f''(c) > 0$, ¿qué tipo de extremo tiene la función en $c$?",
+      "context": "Clasificación de extremos usando el criterio de la segunda derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un máximo local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una segunda derivada positiva indica que la curva es cóncava hacia arriba, lo que corresponde a un \"valle\"."
+        },
+        {
+          "letter": "B",
+          "text": "Un mínimo local.",
+          "is_correct": true,
+          "feedback": "Correcto. Concavidad hacia arriba en un punto horizontal implica un mínimo."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto de inflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para que sea de inflexión, la segunda derivada suele ser cero o no existir, y debe haber cambio de signo."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la segunda derivada es concluyente cuando el valor es distinto de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la información de la curvatura (segunda derivada) para clasificar la naturaleza de los puntos críticos horizontales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v6",
+      "statement": "Determine el valor máximo absoluto de $f(x) = -x^2 + 4x + 1$ en el intervalo $[0, 3]$.",
+      "context": "Hallar el valor máximo de una función en un intervalo cerrado (Teorema del Valor Extremo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor en el extremo $x=0$."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor en el extremo $x=3$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Punto crítico: $f'(x)=-2x+4=0 \\Rightarrow x=2$. $f(2)=-4+8+1=5$. Como 5 es mayor que $f(0)=1$ y $f(3)=4$, es el máximo absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $x$ donde ocurre el máximo, no el valor máximo de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de candidatos a extremos absolutos comparando los valores de la función en los puntos críticos y en los extremos del intervalo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ocurre en un punto de inflexión de una función continua?",
+      "context": "Definición de concavidad y puntos de inflexión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función alcanza su valor más alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un máximo."
+        },
+        {
+          "letter": "B",
+          "text": "La pendiente de la tangente es igual a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso define un punto crítico horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "La función cambia su sentido de concavidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el punto donde la gráfica pasa de ser cóncava hacia arriba a cóncava hacia abajo, o viceversa."
+        },
+        {
+          "letter": "D",
+          "text": "La función deja de ser continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puntos de inflexión se analizan generalmente en funciones continuas y derivables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión del significado geométrico del cambio de signo en la segunda derivada como transición entre diferentes estados de curvatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v8",
+      "statement": "¿En qué tiempo $t$ el proyectil alcanza su altura máxima?",
+      "context": "Un ingeniero en Quito analiza la trayectoria de un proyectil cuya altura es $y(t) = -5t^2 + 20t + 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 4$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este tiempo el proyectil ya está descendiendo."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 2$ s",
+          "is_correct": true,
+          "feedback": "Correcto. $y'(t) = -10t + 20$. Igualando a cero: $-10t = -20 \\Rightarrow t = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 0$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el momento del lanzamiento."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 22$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la altura máxima con el tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del cálculo diferencial para resolver problemas de cinemática básica en una dimensión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v9",
+      "statement": "Halle el intervalo donde la función $f(x) = x^3 - 3x^2 + 4$ es cóncava hacia arriba.",
+      "context": "Determinar intervalos de concavidad para un polinomio de tercer grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este intervalo la función es cóncava hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 3x^2 - 6x$; $f''(x) = 6x - 6$. $f''(x) > 0 \\Rightarrow 6x > 6 \\Rightarrow x > 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son los puntos críticos de la primera derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concavidad de una función cúbica siempre cambia en su punto de inflexión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la segunda derivada para determinar la curvatura de la gráfica de una función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v10",
+      "statement": "Considere $f(x) = x^4$. En $x = 0$ se tiene $f'(0) = 0$ y $f''(0) = 0$. ¿Qué se puede concluir sobre el punto $(0,0)$ analizando la primera derivada a los lados?",
+      "context": "Clasificación de un punto crítico donde el criterio de la segunda derivada falla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un punto de inflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no cambia de concavidad, siempre es positiva o cero."
+        },
+        {
+          "letter": "B",
+          "text": "Es un máximo local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de la función aumentan a ambos lados de 0."
+        },
+        {
+          "letter": "C",
+          "text": "Es un mínimo local.",
+          "is_correct": true,
+          "feedback": "Correcto. Para $x < 0$, $f'(x) = 4x^3 < 0$ (decrece). Para $x > 0$, $f'(x) > 0$ (crece). Por tanto, es un mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una discontinuidad esencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función es continua y suave en todo su dominio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Importancia del criterio de la primera derivada cuando la segunda derivada es nula en un punto crítico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes condiciones NO es necesaria para aplicar el Teorema de Rolle en el intervalo $[a, b]$?",
+      "context": "El Teorema de Rolle en la planificación de rutas de transporte entre Quito y Ambato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x)$ es continua en $[a, b]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un requisito fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x)$ es derivable en $(a, b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un requisito fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "$f(a) = f(b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la condición específica que distingue a Rolle del Teorema del Valor Medio general."
+        },
+        {
+          "letter": "D",
+          "text": "$f(a) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los valores en los extremos deben ser iguales entre sí, pero no necesariamente iguales a cero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distinción de las hipótesis necesarias para garantizar la existencia de un punto con derivada nula según el Teorema de Rolle.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v12",
+      "statement": "Para $f(x) = x^2$ en el intervalo $[1, 3]$, encuentre el valor de $c$ que garantiza el Teorema del Valor Medio.",
+      "context": "Aplicación del Teorema del Valor Medio de la derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c = 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una estimación errónea."
+        },
+        {
+          "letter": "B",
+          "text": "$c = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente promedio: $\\frac{f(3)-f(1)}{3-1} = \\frac{9-1}{2} = 4$. Derivada $f'(c) = 2c$. Igualando: $2c = 4 \\Rightarrow c = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$c = 2.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Satisface el intervalo pero no la igualdad de pendientes."
+        },
+        {
+          "letter": "D",
+          "text": "$c = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de $c$ debe estar dentro del intervalo abierto $(1, 3)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo del punto donde la tasa de cambio instantánea iguala a la tasa de cambio promedio en un intervalo dado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v13",
+      "statement": "¿Cuántos puntos críticos tiene esta función y qué tipo son?",
+      "context": "Análisis de una función racional $f(x) = \\frac{x^2 - 1}{x^2 + 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene puntos críticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función cambia de dirección en el eje y."
+        },
+        {
+          "letter": "B",
+          "text": "Un solo punto crítico en $x=0$, que es un mínimo.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = \\frac{4x}{(x^2+1)^2}$. Solo se anula en $x=0$. Para $x<0, f'<0$; para $x>0, f'>0$."
+        },
+        {
+          "letter": "C",
+          "text": "Dos puntos críticos en $x=1$ y $x=-1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son los ceros de la función."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto crítico en $x=0$, que es un máximo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar cerca de 0, los valores de la función aumentan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estudio de la primera derivada en funciones racionales suaves para identificar extremos relativos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v14",
+      "statement": "Dada $f(x) = \\frac{2x^2}{x^2 - 4}$, determine los intervalos de decrecimiento.",
+      "context": "Identificación de asíntotas y comportamiento final en un modelo logístico de población en la Amazonía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función crece en algunas regiones."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 2)$ y $(2, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = \\frac{-16x}{(x^2-4)^2}$. La derivada es negativa cuando $x > 0$ (excluyendo la asíntota en $x=2$)."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -2)$ y $(-2, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos intervalos la derivada es positiva, por lo que la función crece."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, 2)$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó analizar el comportamiento más allá de las asíntotas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de la monotonía en funciones con discontinuidades infinitas (asíntotas verticales).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v15",
+      "statement": "Si la gráfica de la derivada $f'(x)$ es una recta horizontal $y = 3$, ¿qué se puede decir de la función original $f(x)$?",
+      "context": "Relación entre las gráficas de $f$ y $f'$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x)$ es una función constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f$ fuera constante, su derivada sería 0, no 3."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x)$ es una función lineal con pendiente 3.",
+          "is_correct": true,
+          "feedback": "Correcto. La única función cuya derivada es una constante no nula es una función lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x)$ es una parábola que se abre hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de una parábola es una recta inclinada."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x)$ tiene un valor máximo en $x=3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como $f'(x)$ nunca es cero, no hay puntos críticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Capacidad de inferir la forma y propiedades de una función a partir del comportamiento de su tasa de cambio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v16",
+      "statement": "Halle el punto de inflexión de la función $f(x) = e^{-x^2}$ (Campana de Gauss).",
+      "context": "Puntos de inflexión en funciones trascendentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=0$ hay un máximo absoluto, no un cambio de concavidad."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\pm \\frac{1}{\\sqrt{2}}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = -2xe^{-x^2}$; $f''(x) = (4x^2 - 2)e^{-x^2}$. Igualando a cero: $4x^2 = 2 \\Rightarrow x^2 = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene puntos de inflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva cambia de cóncava hacia abajo (centro) a cóncava hacia arriba (colas)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\pm 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resolución de la ecuación cuadrática resultante de la segunda derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Localización de cambios de curvatura en funciones exponenciales compuestas de gran importancia en estadística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v17",
+      "statement": "Determine el valor mínimo absoluto de esta función en su dominio.",
+      "context": "Un sensor sísmico en el volcán Cotopaxi registra una señal modelada por $f(t) = t \\ln(t)$ para $t > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el límite cuando $t \\to 0$, pero no el mínimo."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t=1, f(1)=0$, pero hay valores negativos antes."
+        },
+        {
+          "letter": "C",
+          "text": "$-1/e$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(t) = \\ln(t) + 1 = 0 \\Rightarrow \\ln(t) = -1 \\Rightarrow t = e^{-1} = 1/e$. El valor es $f(1/e) = (1/e)(-1) = -1/e$."
+        },
+        {
+          "letter": "D",
+          "text": "$-e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la función en el punto crítico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolución de problemas de optimización en funciones no polinómicas integrando propiedades de logaritmos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v18",
+      "statement": "Si en un punto $x=c$ se tiene $f''(c) = 0$ y $f'''(c) \\neq 0$, ¿qué garantiza generalmente esta condición?",
+      "context": "Análisis cualitativo de la tercera derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de un punto de inflexión en $c$.",
+          "is_correct": true,
+          "feedback": "Correcto. Si la tercera derivada es distinta de cero, la segunda derivada cambia de signo al cruzar por cero, asegurando el cambio de concavidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un máximo relativo en $c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere $f'(c)=0$ y $f''(c)<0$."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es una recta en ese punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta tiene todas las derivadas superiores iguales a cero."
+        },
+        {
+          "letter": "D",
+          "text": "Una discontinuidad de salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asume que la función es suficientemente derivable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uso de derivadas de orden superior para confirmar la naturaleza de los puntos donde fallan los criterios básicos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v19",
+      "statement": "Determine los coeficientes $a$ y $b$ de la función.",
+      "context": "Modelado de una montaña rusa en un parque de diversiones en Quito con la función $y(x) = ax^3 + bx^2 + cx + d$. Se desea que pase por $(0,0)$ con pendiente 0 y que tenga un máximo en $(2,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a=1, b=3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen las condiciones de derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$a=-1, b=3$",
+          "is_correct": true,
+          "feedback": "Correcto. $y(0)=0 \\Rightarrow d=0$. $y'(0)=0 \\Rightarrow c=0$. $y(2)=8a+4b=4 \\Rightarrow 2a+b=1$. $y'(2)=12a+4b=0 \\Rightarrow 3a+b=0$. Resolviendo: $a=-1, b=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$a=-2, b=6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Satisface la pendiente pero no el punto de altura 4."
+        },
+        {
+          "letter": "D",
+          "text": "$a=1, b=-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultaría en un mínimo, no un máximo en $x=2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de sistemas de ecuaciones lineales derivados de condiciones de contorno y extremos para determinar modelos polinómicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v20",
+      "statement": "Si $f(x)$ tiene una asíntota oblicua $y = 2x + 5$ cuando $x \\to \\infty$, ¿cuál es el valor de $\\lim_{x \\to \\infty} f'(x)$ (asumiendo que el límite de la derivada existe)?",
+      "context": "Un problema de geometría diferencial sobre la curvatura de una vía de tren en los Andes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría con una asíntota horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el término independiente de la asíntota."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Si la función se aproxima a una recta, su pendiente debe aproximarse a la pendiente de dicha recta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente se estabiliza, no crece sin límite."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Conexión entre el comportamiento asintótico de una función y el valor límite de su tasa de cambio instantánea.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v1",
+      "statement": "The plot is the sequence of events that make up a story.",
+      "context": "Introduction to narrative structure.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "character",
+          "is_correct": false,
+          "feedback": "Incorrect. Characters are the people in the story."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "plot",
+          "is_correct": true,
+          "feedback": "Correct. Plot is the sequence of events."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "setting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Setting is the place and time."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "theme",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Theme is the main idea or message."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Plot' is the fundamental literary term for the arrangement of events in a narrative.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v2",
+      "statement": "The Great Gatsby, which was written by F. Scott Fitzgerald, explores themes of wealth and social class.",
+      "context": "Discussing a classic novel.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "that was written",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Which' is preferred for non-defining relative clauses."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
+          "text": "which was written",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Non-defining relative clause providing extra information."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "who was written",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Who' refers to people."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "written",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Needs the verb 'to be' in this full relative clause structure."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The relative pronoun 'which' introduces extra information about the subject (the novel) in a non-defining clause.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v3",
+      "statement": "If I hadn't read that book, I wouldn't have understood the historical context of the period.",
+      "context": "Conditional about reading.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "didn't read",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
+          "text": "hadn't read",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "haven't read",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "wouldn't read",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "The third conditional allows us to reflect on the impact of a past experience (reading a book).\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v4",
+      "statement": "Magical realism is a genre that depicts the real world as having an undercurrent of magic or fantasy.",
+      "context": "Article about magical realism.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
+          "text": "Magical realism",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct. A major genre in Latin American and global literature."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Science fiction",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Focuses on future/technology."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Biography",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Non-fiction life story."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Mystery",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Focuses on solving a crime or puzzle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
+      "explanation": "'Magical realism' is the specific literary term for the blending of mundane reality with fantastic elements.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v5",
+      "statement": "The protagonist is the main character who drives the action and often undergoes a significant transformation.",
+      "context": "Discussion on the role of the protagonist.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "antagonist",
+          "is_correct": false,
+          "feedback": "Incorrect. The antagonist opposes the main character."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "protagonist",
+          "is_correct": true,
+          "feedback": "Correct. The leading character."
         },
         {
           "letter": "C",
+          "text": "narrator",
+          "is_correct": false,
+          "feedback": "Incorrect. The narrator tells the story but isn't always the protagonist."
+        },
+        {
+          "letter": "D",
+          "text": "villain",
+          "is_correct": false,
+          "feedback": "Incorrect. A type of antagonist."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Protagonist' is the technical term for the central figure in a literary work.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v6",
+      "statement": "A fable is a short story, typically with animals as characters, conveying a moral.",
+      "context": "Describing a type of story.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "novel",
+          "is_correct": false,
+          "feedback": "Incorrect. A novel is long."
+        },
+        {
+          "letter": "B",
+          "text": "fable",
+          "is_correct": true,
+          "feedback": "Correct. Specifically uses animals to teach a lesson."
+        },
+        {
+          "letter": "C",
+          "text": "essay",
+          "is_correct": false,
+          "feedback": "Incorrect. An essay is non-fiction."
+        },
+        {
+          "letter": "D",
+          "text": "journal",
+          "is_correct": false,
+          "feedback": "Incorrect. A journal is a daily record."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Fable' is the specific term for an allegorical short story, often featuring anthropomorphized animals.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v7",
+      "statement": "Graphic novels are increasingly being recognized as a serious form of literature.",
+      "context": "Describing an ongoing literary trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are recognizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being recognized",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing trend."
+        },
+        {
+          "letter": "C",
+          "text": "recognized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have recognized",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current process of shifting critical opinion.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v8",
+      "statement": "Foreshadowing is a literary device in which a writer gives an advance hint of what is to come later in the story.",
+      "context": "Text on \"literary devices\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flashback",
+          "is_correct": false,
+          "feedback": "Incorrect. A flashback shows the past."
+        },
+        {
+          "letter": "B",
+          "text": "Foreshadowing",
+          "is_correct": true,
+          "feedback": "Correct. Foreshadowing hints at the future."
+        },
+        {
+          "letter": "C",
+          "text": "Metaphor",
+          "is_correct": false,
+          "feedback": "Incorrect. A metaphor compares two things."
+        },
+        {
+          "letter": "D",
+          "text": "Irony",
+          "is_correct": false,
+          "feedback": "Incorrect. Irony involves contrast between expectation and reality."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Foreshadowing' is the technical term for the narrative technique of providing hints about future events.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v9",
+      "statement": "I used to read fairy tales every night when I was a child.",
+      "context": "Describing a reading habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means 'accustomed to' in the present."
+        },
+        {
+          "letter": "B",
+          "text": "used to",
+          "is_correct": true,
+          "feedback": "Correct. 'Used to' describes a past habit."
+        },
+        {
+          "letter": "C",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. While 'would' works for habits, 'used to' is the standard for contrasting past and present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Used to' is the standard way to describe actions that were habitual in the past but no longer occur.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v10",
+      "statement": "The author uses \"stream of consciousness\" to give readers a direct view into the character's internal thoughts and feelings.",
+      "context": "Critique of \"stream of consciousness\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dialogue",
+          "is_correct": false,
+          "feedback": "Incorrect. Dialogue is external conversation."
+        },
+        {
+          "letter": "B",
+          "text": "stream of consciousness",
+          "is_correct": true,
+          "feedback": "Correct. Literary technique for representing internal thought processes."
+        },
+        {
+          "letter": "C",
+          "text": "summary",
+          "is_correct": false,
+          "feedback": "Incorrect. A summary condenses events."
+        },
+        {
+          "letter": "D",
+          "text": "prologue",
+          "is_correct": false,
+          "feedback": "Incorrect. An introduction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Stream of consciousness' is the term for the narrative mode that mimics the continuous flow of human thought.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v11",
+      "statement": "A cliffhanger is a dramatic and exciting ending to an episode of a serial, leaving the audience in suspense.",
+      "context": "Story endings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resolution",
+          "is_correct": false,
+          "feedback": "Incorrect. A resolution solves the plot."
+        },
+        {
+          "letter": "B",
+          "text": "cliffhanger",
+          "is_correct": true,
+          "feedback": "Correct. Leaves the outcome uncertain."
+        },
+        {
+          "letter": "C",
+          "text": "epilogue",
+          "is_correct": false,
+          "feedback": "Incorrect. A section at the end that provides finality."
+        },
+        {
+          "letter": "D",
+          "text": "climax",
+          "is_correct": false,
+          "feedback": "Incorrect. The most intense point, but not necessarily a suspended ending."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Cliffhanger' is the informal but widely used term for a suspenseful, unresolved ending.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v12",
+      "statement": "By the time the author retired, he had written over fifty novels.",
+      "context": "Discussing an author's career.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wrote",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "B",
+          "text": "had written",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action completed before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has written",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "was writing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect 'had written' establishes the completion of the action before the author's retirement.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v13",
+      "statement": "The poet used vivid imagery to evoke a sense of nostalgia in the reader.",
+      "context": "Discussing poetry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Poetry aims to create a response."
+        },
+        {
+          "letter": "B",
+          "text": "evoke",
+          "is_correct": true,
+          "feedback": "Correct. To evoke means to bring or recall to the conscious mind."
+        },
+        {
+          "letter": "C",
+          "text": "erase",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite meaning."
+        },
+        {
+          "letter": "D",
+          "text": "simplify",
+          "is_correct": false,
+          "feedback": "Incorrect. Imagery often adds complexity/richness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Evoke' is the precise verb for describing how literature or art triggers an emotional response.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v14",
+      "statement": "If I had more discipline, I would write a poem every day.",
+      "context": "Conditional about writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a present hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "have had",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the imaginary result of a hypothetical personality trait.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v15",
+      "statement": "The author argues that stories are a fundamental human tool for making sense of the world.",
+      "context": "Conclusion of an essay on the power of stories.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unimportant",
+          "is_correct": false,
+          "feedback": "Incorrect. The author says they are fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "fundamental",
+          "is_correct": true,
+          "feedback": "Correct. Fundamental means forming a necessary base or core; of central importance."
+        },
+        {
+          "letter": "C",
+          "text": "secondary",
+          "is_correct": false,
+          "feedback": "Incorrect. Means less important."
+        },
+        {
+          "letter": "D",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Implies they are not intended or natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Fundamental' correctly identifies the author's perspective on the essential role of storytelling in human life.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v16",
+      "statement": "An anthology is a published collection of poems or other pieces of writing.",
+      "context": "Literary terminology.",
+      "options": [
+        {
+          "letter": "A",
           "text": "dictionary",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A reference for words."
+        },
+        {
+          "letter": "B",
+          "text": "anthology",
+          "is_correct": true,
+          "feedback": "Correct. A collection of selected writings."
+        },
+        {
+          "letter": "C",
+          "text": "manual",
+          "is_correct": false,
+          "feedback": "Incorrect. Instructions for a task."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "newspaper",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Periodic publication of news."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Anthology' is the specific term for a curated collection of literary works.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v17",
+      "statement": "I hope to have read all of Shakespeare's plays by the end of the year.",
+      "context": "Expressing a hope about a future book.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple infinitive."
+        },
+        {
+          "letter": "B",
+          "text": "to have read",
+          "is_correct": true,
+          "feedback": "Correct. Perfect infinitive for a completed action by a future point."
+        },
+        {
+          "letter": "C",
+          "text": "reading",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        },
+        {
+          "letter": "D",
+          "text": "have read",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs 'to'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The perfect infinitive 'to have read' indicates a goal that will be a finished achievement by a specific deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v18",
+      "statement": "Symbolism is the use of symbols to represent ideas or qualities.",
+      "context": "Text about \"symbolism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on depicting things as they are."
+        },
+        {
+          "letter": "B",
+          "text": "Symbolism",
+          "is_correct": true,
+          "feedback": "Correct. Using objects to stand for abstract ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Humor",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on being funny."
+        },
+        {
+          "letter": "D",
+          "text": "Brevity",
+          "is_correct": false,
+          "feedback": "Incorrect. Being short."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Symbolism' is the literary term for the representation of deeper meanings through objects or characters.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v19",
+      "statement": "The writer said that her latest story had been inspired by a dream.",
+      "context": "Reporting a writer's statement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was inspired",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible in informal speech, 'had been' is more precise backshifting from 'was inspired' or 'has been inspired'."
+        },
+        {
+          "letter": "B",
+          "text": "had been inspired",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from past simple or present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "is inspired",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will be inspired",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift tenses: the original 'My story was inspired...' becomes '...said that her story had been inspired...'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-v20",
+      "statement": "Universal themes like love, loss, and the search for identity transcend cultural and temporal boundaries.",
+      "context": "Final thought on universal themes.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
+          "text": "transcend",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "Correct. To transcend means to go beyond the range or limits of."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "obey",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. They go *beyond* limits, not follow them."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "ignore",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Transcending is about rising above, not just ignoring."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "stop",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. They continue to be relevant across boundaries."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
+      "explanation": "'Transcend' correctly describes how great literature remains relevant regardless of the reader's culture or time period.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W19-literature-stories-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

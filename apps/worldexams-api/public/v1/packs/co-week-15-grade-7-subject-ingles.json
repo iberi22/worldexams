@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-15-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.895Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-001-v1",
+      "statement": "Complete: \"I ________ very tired after the trip to the Amazonas.\"",
+      "context": "Past states of feelings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! \"Was\" is the past of \"to be\" for \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Were\" is for plural subjects."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is present tense."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Did\" is an auxiliary for other verbs, not for states."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student identifies the correct past form of the verb \"to be\" for the first person singular.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-002-v1",
+      "statement": "Which of these verbs is irregular in the Past Simple?",
+      "context": "Identifying an irregular past verb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Played",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Play\" is regular (+ed)."
+        },
+        {
+          "letter": "B",
+          "text": "Watched",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Watch\" is regular (+ed)."
+        },
+        {
+          "letter": "C",
+          "text": "Bought",
+          "is_correct": true,
+          "feedback": "Correct! \"Buy\" is irregular; its past is \"bought\"."
+        },
+        {
+          "letter": "D",
+          "text": "Visited",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Visit\" is regular (+ed)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student distinguishes between regular and irregular past verb forms.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-003-v1",
+      "statement": "\"Yesterday, we ________ (see) a movie and ________ (eat) popcorn.\"",
+      "context": "Describing a sequence of actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "see / eat",
+          "is_correct": false,
+          "feedback": "Incorrect. These are present tense."
+        },
+        {
+          "letter": "B",
+          "text": "seed / eated",
+          "is_correct": false,
+          "feedback": "Incorrect. Both verbs are irregular."
+        },
+        {
+          "letter": "C",
+          "text": "saw / ate",
+          "is_correct": true,
+          "feedback": "Correct! Irregular past forms of \"see\" and \"eat\"."
+        },
+        {
+          "letter": "D",
+          "text": "seen / eaten",
+          "is_correct": false,
+          "feedback": "Incorrect. These are past participles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands and applies multiple irregular past verb forms in a sentence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-004-v1",
+      "statement": "Andrés: \"________ did you eat for lunch?\"\nMateo: \"I ate a delicious 'Ajiaco' with my family.\"",
+      "context": "Asking for specific past information.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about time."
+        },
+        {
+          "letter": "B",
+          "text": "Where",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about place."
+        },
+        {
+          "letter": "C",
+          "text": "What",
+          "is_correct": true,
+          "feedback": "Correct! \"What\" asks about the object or thing (the food)."
+        },
+        {
+          "letter": "D",
+          "text": "Who",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about people."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the use of Wh- question words in the context of past information.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-005-v1",
+      "statement": "\"I ________ (not / go) to school yesterday because it was a holiday.\"",
+      "context": "Correcting a negative statement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not went",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary \"did\"."
+        },
+        {
+          "letter": "B",
+          "text": "didn't go",
+          "is_correct": true,
+          "feedback": "Correct! \"Didn't\" + base form."
+        },
+        {
+          "letter": "C",
+          "text": "didn't went",
+          "is_correct": false,
+          "feedback": "Incorrect. Don't use the past form after \"didn't\"."
+        },
+        {
+          "letter": "D",
+          "text": "wasn't go",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Wasn't\" is only for \"to be\" or continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the correct structure for negative sentences in the Past Simple.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-006-v1",
+      "statement": "Why didn't the friends have dinner at the mall?",
+      "context": "A description of a past event.\n\"Last Saturday, my friends were at the mall. They bought some clothes and then they went to the cinema. They didn't have dinner there because they were late.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because they didn't like the food.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        },
+        {
+          "letter": "B",
+          "text": "Because they were at the cinema.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was one of their activities, but not the reason they didn't eat."
+        },
+        {
+          "letter": "C",
+          "text": "Because they were late.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly states \"because they were late\"."
+        },
+        {
+          "letter": "D",
+          "text": "Because they didn't have money.",
+          "is_correct": false,
+          "feedback": "Incorrect. They bought clothes, so they likely had money."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies reading strategies to identify a cause-and-effect relationship in a past narrative.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-007-v1",
+      "statement": "\"I ________ (finish) my book and ________ (give) it to my sister yesterday.\"",
+      "context": "Combining regular and irregular verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finished / gave",
+          "is_correct": true,
+          "feedback": "Correct! \"Finished\" (regular) and \"gave\" (irregular)."
+        },
+        {
+          "letter": "B",
+          "text": "finish / give",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "C",
+          "text": "finished / gived",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Give\" is irregular."
+        },
+        {
+          "letter": "D",
+          "text": "finishs / gives",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense third person."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies knowledge of both regular and irregular past conjugations within the same context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-008-v1",
+      "statement": "Which question is grammatically correct?",
+      "context": "Identifying the correct question form.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you saw your teacher at the park?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Saw\" should be \"see\"."
+        },
+        {
+          "letter": "B",
+          "text": "Were you saw your teacher at the park?",
+          "is_correct": false,
+          "feedback": "Incorrect. Use \"Did\" for actions."
+        },
+        {
+          "letter": "C",
+          "text": "Did you see your teacher at the park?",
+          "is_correct": true,
+          "feedback": "Correct! \"Did\" + subject + base form."
+        },
+        {
+          "letter": "D",
+          "text": "Did your teacher saw you at the park?",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect verb form after \"did\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes question structures to ensure the auxiliary and verb form are correct.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-009-v1",
+      "statement": "What has changed since 2020?",
+      "context": "Comparing past and present using a short paragraph.\n\"In 2020, I was 11 years old. I lived in Bucaramanga and I didn't know English. Now, I am 13, I live in Bogotá, and I speak English very well.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The person still lives in Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Incorrect. They live in Bogotá now."
+        },
+        {
+          "letter": "B",
+          "text": "The person's city and English skills.",
+          "is_correct": true,
+          "feedback": "Correct! Both the location and language ability have changed."
+        },
+        {
+          "letter": "C",
+          "text": "The person's age is the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. Age went from 11 to 13."
+        },
+        {
+          "letter": "D",
+          "text": "Nothing has changed.",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiple changes are mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a text to identify multiple points of contrast between two time periods.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W15-review-p2-past-010-v1",
+      "statement": "Which evaluation best describes the sequence of the project?",
+      "context": "Evaluating a student's project report.\n\"We studied the planets last week. First, we read some articles. Then, we drew a map of the Solar System. Finally, we presented our project to the class. Everyone was very happy with the results.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They presented first, then they studied.",
+          "is_correct": false,
+          "feedback": "Incorrect. Presentation was the final step."
+        },
+        {
+          "letter": "B",
+          "text": "They only read articles.",
+          "is_correct": false,
+          "feedback": "Incorrect. They also drew and presented."
+        },
+        {
+          "letter": "C",
+          "text": "The project involved research, creative work, and a final presentation.",
+          "is_correct": true,
+          "feedback": "Correct! Reading (research), drawing (creative), and presenting (final step)."
+        },
+        {
+          "letter": "D",
+          "text": "The students were sad about the project.",
+          "is_correct": false,
+          "feedback": "Incorrect. They were \"very happy\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates a chronological sequence of actions and summarizes the process described in the past tense.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W15-review-p2-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

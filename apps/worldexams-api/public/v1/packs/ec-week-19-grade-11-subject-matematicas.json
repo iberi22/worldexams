@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-19-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.158Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las coordenadas estándar que representan la posición de un punto en el espacio R³?",
+      "context": "Un estudiante de física en la Universidad San Francisco de Quito identifica las componentes de un vector en el espacio tridimensional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x, y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son coordenadas para el plano bidimensional (R²)."
+        },
+        {
+          "letter": "B",
+          "text": "$(x, y, z)$",
+          "is_correct": true,
+          "feedback": "Correcto. En el espacio, se requiere una tercera coordenada para la profundidad o altura (eje z)."
+        },
+        {
+          "letter": "C",
+          "text": "$(r, \\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son coordenadas polares en el plano."
+        },
+        {
+          "letter": "D",
+          "text": "$(x, y, t)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se usa en física (espacio-tiempo), la representación puramente espacial es $(x, y, z)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El espacio tridimensional (R³) se describe mediante una terna ordenada de números reales correspondientes a tres ejes mutuamente perpendiculares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v2",
+      "statement": "Dados los vectores $\\vec{u} = (1, 2, 3)$ y $\\vec{v} = (4, -1, 0)$, calcule $\\vec{u} + \\vec{v}$.",
+      "context": "Suma de vectores en el espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, 1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de la tercera componente."
+        },
+        {
+          "letter": "B",
+          "text": "$(5, 1, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando componente a componente: $(1+4, 2-1, 3+0) = (5, 1, 3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 3, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los valores en lugar de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$(5, 3, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de la segunda componente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de vectores en R³ se realiza sumando de forma independiente las componentes correspondientes de cada eje.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v3",
+      "statement": "Determine la magnitud del vector $\\vec{w} = (2, 3, 6)$.",
+      "context": "Cálculo del módulo (magnitud) de un vector en el espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las componentes en lugar de sus cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. $|\\vec{w}| = \\sqrt{2^2 + 3^2 + 6^2} = \\sqrt{4 + 9 + 36} = \\sqrt{49} = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de los cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El módulo de un vector en R³ se calcula mediante la generalización del teorema de Pitágoras para tres dimensiones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la distancia total recorrida por el dron en línea recta?",
+      "context": "Un dron en Guayaquil se desplaza desde el origen hasta el punto $(3, 4, 12)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple suma de desplazamientos en los ejes."
+        },
+        {
+          "letter": "B",
+          "text": "12 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor de la componente más grande, no de la distancia total."
+        },
+        {
+          "letter": "C",
+          "text": "13 m",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia = $\\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
+        },
+        {
+          "letter": "D",
+          "text": "15 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo aritmético."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia entre el origen y un punto $(x, y, z)$ es equivalente a la magnitud del vector posición de dicho punto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v5",
+      "statement": "Calcule el producto escalar de $\\vec{a} = (2, -3, 1)$ y $\\vec{b} = (4, 1, -2)$.",
+      "context": "Producto punto o escalar de dos vectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el manejo de signos."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $\\vec{a} \\cdot \\vec{b} = (2)(4) + (-3)(1) + (1)(-2) = 8 - 3 - 2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, -3, -2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto escalar da como resultado un número (escalar), no un vector."
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó todos los valores absolutos de los productos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto escalar es una operación que combina dos vectores para obtener un número real, multiplicando y sumando sus componentes respectivas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la condición necesaria para que dos vectores no nulos sean perpendiculares (ortogonales)?",
+      "context": "Ortogonalidad de vectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su suma debe ser el vector nulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso significa que son vectores opuestos."
+        },
+        {
+          "letter": "B",
+          "text": "Su producto escalar debe ser igual a cero.",
+          "is_correct": true,
+          "feedback": "Correcto. Si $\\vec{u} \\cdot \\vec{v} = 0$, el ángulo entre ellos es de $90^\\circ$ ya que $\\cos(90^\\circ) = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "Sus magnitudes deben ser iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vectores de cualquier magnitud pueden ser perpendiculares."
+        },
+        {
+          "letter": "D",
+          "text": "Su producto vectorial debe ser igual a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre cuando los vectores son paralelos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto escalar es la herramienta principal para verificar la perpendicularidad entre vectores en cualquier dimensión.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v7",
+      "statement": "Si el producto escalar de dos vectores unitarios es $0.5$, ¿cuál es el ángulo entre ellos?",
+      "context": "Determinación del ángulo entre vectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(30^\\circ) = \\sqrt{3}/2 \\approx 0.866$."
+        },
+        {
+          "letter": "B",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(45^\\circ) = \\sqrt{2}/2 \\approx 0.707$."
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos \\theta = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}| |\\vec{v}|} = \\frac{0.5}{1 \\cdot 1} = 0.5 \\Rightarrow \\theta = 60^\\circ$."
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto escalar debería ser 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de la definición geométrica del producto escalar para calcular el ángulo de separación entre dos direcciones en el espacio.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor del coseno director respecto al eje $x$ (denotado como $\\cos \\alpha$) del vector $\\vec{v} = (3, 0, 4)$?",
+      "context": "Cosenos directores de un vector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el coseno respecto al eje $z$."
+        },
+        {
+          "letter": "B",
+          "text": "0.6",
+          "is_correct": true,
+          "feedback": "Correcto. Magnitud $|\\vec{v}| = \\sqrt{3^2 + 4^2} = 5$. $\\cos \\alpha = v_x / |\\vec{v}| = 3/5 = 0.6$."
+        },
+        {
+          "letter": "C",
+          "text": "0.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió por el cuadrado de la magnitud o cometió un error de escala."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo ocurriría si el vector estuviera alineado totalmente con el eje $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cosenos directores representan la orientación de un vector respecto a los ejes coordenados positivos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v9",
+      "statement": "Calcule el trabajo realizado por la fuerza ($W = \\vec{F} \\cdot \\vec{d}$).",
+      "context": "Un ingeniero civil en Cuenca aplica una fuerza $\\vec{F} = (10, 20, 0)$ Newtons para desplazar un objeto a lo largo del vector posición $\\vec{d} = (5, 2, 0)$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró el producto de las primeras componentes."
+        },
+        {
+          "letter": "B",
+          "text": "90 J",
+          "is_correct": true,
+          "feedback": "Correcto. $W = (10)(5) + (20)(2) + (0)(0) = 50 + 40 = 90$."
+        },
+        {
+          "letter": "C",
+          "text": "150 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de los productos."
+        },
+        {
+          "letter": "D",
+          "text": "30 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los productos en lugar de sumarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación física del producto escalar como el trabajo realizado por una fuerza constante a lo largo de un desplazamiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el vector unitario que tiene la misma dirección que $\\vec{v} = (1, 1, 1)$?",
+      "context": "Vector unitario en la misma dirección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su magnitud es $\\sqrt{3} \\neq 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$(\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}})$",
+          "is_correct": true,
+          "feedback": "Correcto. Se obtiene dividiendo cada componente por la magnitud del vector original."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\frac{1}{3}, \\frac{1}{3}, \\frac{1}{3})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió por el cuadrado de la magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el vector unitario del eje $z$, no tiene la misma dirección que $\\vec{v}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La normalización de un vector permite obtener un vector de magnitud uno conservando su orientación original.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el resultado de realizar el producto vectorial $\\vec{u} \\times \\vec{v}$ de dos vectores en R³?",
+      "context": "Concepto de producto vectorial (o producto cruz).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un número real escalar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el resultado del producto escalar."
+        },
+        {
+          "letter": "B",
+          "text": "Un vector que es perpendicular a ambos vectores originales.",
+          "is_correct": true,
+          "feedback": "Correcto. El producto vectorial genera un nuevo vector siguiendo la regla de la mano derecha."
+        },
+        {
+          "letter": "C",
+          "text": "El ángulo entre los dos vectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo es un escalar derivado de la magnitud del producto."
+        },
+        {
+          "letter": "D",
+          "text": "Un vector que apunta en la misma dirección que la suma de los vectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección es ortogonal al plano que forman."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto vectorial es una operación exclusiva de R³ que permite encontrar direcciones normales a un plano definido por dos vectores.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v12",
+      "statement": "Calcule $\\vec{i} \\times \\vec{j}$ (donde $\\vec{i}$ y $\\vec{j}$ son los vectores unitarios de los ejes $x$ e $y$).",
+      "context": "Cálculo del producto vectorial usando determinantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el producto escalar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\vec{k}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la mano derecha o el ciclo de vectores unitarios, el producto de $x$ con $y$ da el eje $z$ positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\vec{k}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el resultado de $\\vec{j} \\times \\vec{i}$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado debe ser un vector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocimiento de la base ortonormal de R³ y el comportamiento cíclico del producto vectorial entre sus componentes fundamentales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v13",
+      "statement": "Determine el área del paralelogramo formado por los vectores $\\vec{u} = (2, 0, 0)$ y $\\vec{v} = (0, 3, 0)$.",
+      "context": "Área de un paralelogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las magnitudes en lugar de multiplicarlas."
+        },
+        {
+          "letter": "B",
+          "text": "6 unidades²",
+          "is_correct": true,
+          "feedback": "Correcto. El área es la magnitud del producto vectorial. $\\vec{u} \\times \\vec{v} = (0, 0, 6)$. Magnitud = 6."
+        },
+        {
+          "letter": "C",
+          "text": "3 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió por dos, obteniendo el área de un triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "0 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores no son paralelos, por lo que encierran un área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación geométrica de la magnitud del producto vectorial como el área de la superficie plana definida por los dos vectores.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v14",
+      "statement": "¿Qué magnitud geométrica representa el valor absoluto del triple producto escalar $|\\vec{a} \\cdot (\\vec{b} \\times \\vec{c})|$?",
+      "context": "Triple producto escalar y volumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área de la base formada por $\\vec{b}$ y $\\vec{c}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo sería la magnitud del producto vectorial."
+        },
+        {
+          "letter": "B",
+          "text": "El volumen del paralelepípedo formado por los tres vectores.",
+          "is_correct": true,
+          "feedback": "Correcto. El triple producto escalar combina el área de la base con la altura proyectada del tercer vector."
+        },
+        {
+          "letter": "C",
+          "text": "El perímetro de la figura espacial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro no se calcula con productos de este tipo."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de los volúmenes de las pirámides internas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una representación estándar del triple producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre operaciones vectoriales y el cálculo de volúmenes de sólidos poliédricos en el espacio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el área de dicho panel triangular?",
+      "context": "Un arquitecto en Quito calcula el área de un panel solar triangular con vértices en $A(1,0,0)$, $B(0,1,0)$ y $C(0,0,1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 unidad²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la magnitud del producto vectorial."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}/2$ unidades²",
+          "is_correct": true,
+          "feedback": "Correcto. Vectores: $\\vec{AB} = (-1, 1, 0)$, $\\vec{AC} = (-1, 0, 1)$. Producto cruz: $(1, 1, 1)$. Magnitud: $\\sqrt{3}$. Área triángulo = Magnitud / 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}$ unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por 2 para el área del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$1/2$ unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la componente en el eje z resultante del producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de vectores de posición y productos vectoriales para hallar áreas de superficies triangulares en coordenadas 3D.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v16",
+      "statement": "¿Qué se puede concluir si el triple producto escalar de tres vectores es igual a cero?",
+      "context": "Dependencia lineal en el espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vectores son mutuamente perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso el producto sería máximo (el volumen de un cubo)."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres vectores son coplanares (están en el mismo plano).",
+          "is_correct": true,
+          "feedback": "Correcto. Si están en el mismo plano, no encierran volumen, por lo que el triple producto es cero."
+        },
+        {
+          "letter": "C",
+          "text": "Al menos dos de los vectores son unitarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magnitud de los vectores no determina la nulidad del producto si no son paralelos o coplanares."
+        },
+        {
+          "letter": "D",
+          "text": "Los vectores forman un sistema de coordenadas derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sistema derecho tiene un triple producto positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la coplanaridad como condición de degeneración volumétrica en el espacio tridimensional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes igualdades es CORRECTA respecto al producto vectorial?",
+      "context": "Propiedades del producto vectorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\vec{u} \\times \\vec{v} = \\vec{v} \\times \\vec{u}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto vectorial es anticonmutativo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\vec{u} \\times \\vec{v} = -(\\vec{v} \\times \\vec{u})$",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar el orden, la dirección del vector resultante se invierte según la regla de la mano derecha."
+        },
+        {
+          "letter": "C",
+          "text": "$\\vec{u} \\times \\vec{u} = |\\vec{u}|^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de un vector por sí mismo es el vector nulo (ángulo $0^\\circ$, seno $0$)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\vec{u} \\times (\\vec{v} + \\vec{w}) = \\vec{u} \\times \\vec{v} + \\vec{w}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó distribuir el producto vectorial al segundo término."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de las leyes algebraicas que rigen el comportamiento de los productos vectoriales, especialmente su naturaleza no conmutativa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v18",
+      "statement": "Si el satélite se mueve en un plano orbital, ¿hacia dónde apunta el vector de momento angular $\\vec{L}$?",
+      "context": "Un satélite sobre la línea ecuatorial tiene un vector de posición $\\vec{r}$ y una velocidad orbital $\\vec{v}$. El momento angular por unidad de masa está dado por $\\vec{L} = \\vec{r} \\times \\vec{v}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el centro de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la dirección de la fuerza gravitatoria."
+        },
+        {
+          "letter": "B",
+          "text": "En la dirección del movimiento del satélite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la dirección del vector velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular al plano de la órbita.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de producto vectorial, el resultado es normal al plano que contiene a los vectores originales."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene una dirección definida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un vector bien definido en R³."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de conceptos vectoriales a la física orbital y la descripción de magnitudes rotacionales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v19",
+      "statement": "Calcule el vector proyección de $\\vec{a} = (1, 2, 3)$ sobre $\\vec{b} = (0, 0, 1)$.",
+      "context": "Proyección de un vector sobre otro en 3D.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 2, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la componente ortogonal al eje z."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 0, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{proj}_b a = \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{b}|^2} \\vec{b} = \\frac{3}{1^2} (0, 0, 1) = (0, 0, 3)$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proyección vectorial debe ser un vector, no un escalar."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la dirección unitaria, pero no considera la magnitud de la proyección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de componentes vectoriales paralelas a una dirección dada utilizando la fórmula de proyección ortogonal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los siguientes vectores cumple ambas condiciones?",
+      "context": "Un problema de geometría avanzada. Encuentre un vector unitario que sea perpendicular a $\\vec{u} = (1, 1, 0)$ y que forme un ángulo de $45^\\circ$ con el eje $z$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, -1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forma un ángulo de $90^\\circ$ con el eje $z$."
+        },
+        {
+          "letter": "B",
+          "text": "$(\\frac{1}{2}, -\\frac{1}{2}, \\frac{1}{\\sqrt{2}})$",
+          "is_correct": true,
+          "feedback": "Correcto. Perpendicular a $\\vec{u}$: $(1/2) - (1/2) + 0 = 0$. Magnitud: $\\sqrt{1/4 + 1/4 + 1/2} = 1$. Ángulo con $z$: $\\cos\\theta = 1/\\sqrt{2} \\Rightarrow 45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es unitario, no es perpendicular a $\\vec{u}$."
+        },
+        {
+          "letter": "D",
+          "text": "$(1/ \\sqrt{2}, 1/ \\sqrt{2}, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es perpendicular a $\\vec{u}$, es paralelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de condiciones geométricas (ortogonalidad y ángulo) para determinar vectores específicos en el espacio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

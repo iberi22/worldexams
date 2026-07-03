@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-3-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.889Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-001-v1",
+      "statement": "Which verb form is correct for \"She\"?",
+      "context": "Talking about a sister's hobby.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She read books.",
+          "is_correct": false,
+          "feedback": "Incorrect. Third person singular requires an 's' in the affirmative."
+        },
+        {
+          "letter": "B",
+          "text": "She reads books.",
+          "is_correct": true,
+          "feedback": "Correct! \"Reads\" is the correct form for the subject \"She\"."
+        },
+        {
+          "letter": "C",
+          "text": "She reading books.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form, not present simple."
+        },
+        {
+          "letter": "D",
+          "text": "She reades books.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Read\" only needs a simple 's', not 'es'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic third-person singular rule for the Present Simple tense.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-002-v1",
+      "statement": "Complete the sentence: \"My cat ________ on the sofa all day.\"",
+      "context": "Describing a cat's behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sleep",
+          "is_correct": false,
+          "feedback": "Incorrect. \"My cat\" is \"it\", so it needs the third person 's'."
+        },
+        {
+          "letter": "B",
+          "text": "sleeps",
+          "is_correct": true,
+          "feedback": "Correct! This follows the standard third-person singular rule."
+        },
+        {
+          "letter": "C",
+          "text": "sleepes",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error; verbs ending in 'p' just add 's'."
+        },
+        {
+          "letter": "D",
+          "text": "sleeping",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the -ing form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers to apply the third-person singular 's' to a verb referring to an animal (it).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-003-v1",
+      "statement": "\"My mother ________ her emails at 8:00 AM.\" (Verb: finish)",
+      "context": "A student's mother working in an office in Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finish",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the third person ending."
+        },
+        {
+          "letter": "B",
+          "text": "finishs",
+          "is_correct": false,
+          "feedback": "Incorrect. Verbs ending in 'sh' need 'es'."
+        },
+        {
+          "letter": "C",
+          "text": "finishes",
+          "is_correct": true,
+          "feedback": "Correct! Verbs ending in -ch, -sh, -s, -x, or -z add -es."
+        },
+        {
+          "letter": "D",
+          "text": "finishing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands and applies the spelling rule for third-person verbs ending in \"sh\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-004-v1",
+      "statement": "Which sentence uses the correct spelling for the verb \"study\"?",
+      "context": "Talking about a brother's studies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He studys English.",
+          "is_correct": false,
+          "feedback": "Incorrect. When a verb ends in consonant + y, we change 'y' to 'i' and add 'es'."
+        },
+        {
+          "letter": "B",
+          "text": "He studies English.",
+          "is_correct": true,
+          "feedback": "Correct! This follows the consonant + y spelling rule."
+        },
+        {
+          "letter": "C",
+          "text": "He studyes English.",
+          "is_correct": false,
+          "feedback": "Incorrect. You must remove the 'y' before adding 'ies'."
+        },
+        {
+          "letter": "D",
+          "text": "He study English.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the third person ending."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the specific spelling transformation for verbs ending in consonant + \"y\" in the third person.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-005-v1",
+      "statement": "\"Samuel ________ to school by bus.\"",
+      "context": "Describing a friend's preference.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Samuel is \"he\", so the verb needs the -es ending."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct! \"Go\" and \"Do\" add -es in the third person."
+        },
+        {
+          "letter": "C",
+          "text": "gos",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error; \"go\" requires -es."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the present continuous form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the specific rule for the verb \"go\" in the third-person singular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-006-v1",
+      "statement": "\"Mariana ________ her hands before eating lunch.\" (Verb: wash)",
+      "context": "A teacher describing a student's habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wash",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the third person suffix."
+        },
+        {
+          "letter": "B",
+          "text": "washs",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error; -sh requires -es."
+        },
+        {
+          "letter": "C",
+          "text": "washes",
+          "is_correct": true,
+          "feedback": "Correct! \"Washes\" follows the rule for verbs ending in -sh."
+        },
+        {
+          "letter": "D",
+          "text": "is wash",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" cannot be followed by the base form of a verb."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the correct spelling rule for third-person verbs ending in \"sh\" in a communicative context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-007-v1",
+      "statement": "\"The doctor ________ many people every day.\" (Verb: help)",
+      "context": "Describing a professional routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "helps",
+          "is_correct": true,
+          "feedback": "Correct! Most verbs just add 's' in the third person."
+        },
+        {
+          "letter": "B",
+          "text": "helpes",
+          "is_correct": false,
+          "feedback": "Incorrect. Verbs ending in 'p' don't need 'es'."
+        },
+        {
+          "letter": "C",
+          "text": "helpies",
+          "is_correct": false,
+          "feedback": "Incorrect. This spelling only applies to verbs ending in consonant + y."
+        },
+        {
+          "letter": "D",
+          "text": "help",
+          "is_correct": false,
+          "feedback": "Incorrect. The subject \"The doctor\" (he/she) requires the third person ending."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student correctly applies the general third-person singular rule to a standard verb.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-008-v1",
+      "statement": "Choose the sentence that correctly uses third-person verbs.",
+      "context": "Comparing two people's actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My dad works in Bogotá and he watch movies.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Watch\" needs to be \"watches\"."
+        },
+        {
+          "letter": "B",
+          "text": "My dad work in Bogotá and he watches movies.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Work\" needs to be \"works\"."
+        },
+        {
+          "letter": "C",
+          "text": "My dad works in Bogotá and he watches movies.",
+          "is_correct": true,
+          "feedback": "Correct! Both verbs \"works\" and \"watches\" are correctly conjugated for \"he\"."
+        },
+        {
+          "letter": "D",
+          "text": "My dad work in Bogotá and he watch movies.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both verbs are missing the third person ending."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes a compound sentence to ensure both verbs follow the third-person singular rules.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-009-v1",
+      "statement": "Which option is grammatically correct for a machine?\n\"The computer ________ the information and ________ it on the screen.\"",
+      "context": "Describing a mechanical process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "process / display",
+          "is_correct": false,
+          "feedback": "Incorrect. Both verbs need third person endings for \"The computer\" (it)."
+        },
+        {
+          "letter": "B",
+          "text": "processs / displays",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Process\" ends in 's', so it needs 'es'."
+        },
+        {
+          "letter": "C",
+          "text": "processes / displays",
+          "is_correct": true,
+          "feedback": "Correct! \"Processes\" (ends in s) and \"displays\" (ends in vowel + y, so just add s)."
+        },
+        {
+          "letter": "D",
+          "text": "processes / displies",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Display\" ends in vowel + y, so you don't change 'y' to 'i'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes different verb endings (s and vowel + y) to apply the correct third-person spelling rules.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W03-present-simple-third-person-010-v1",
+      "statement": "What is the correct sequence of verbs to complete the text?",
+      "context": "A paragraph about a local farmer in Colombia.\n\"Pedro is a farmer in Boyacá. He ________ (grow) potatoes. Every morning, he ________ (fix) his tools and ________ (hurry) to the field.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grow / fixes / hurrys",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Grow\" needs an 's' and \"hurry\" has a spelling error."
+        },
+        {
+          "letter": "B",
+          "text": "grows / fixes / hurries",
+          "is_correct": true,
+          "feedback": "Correct! Grows (+s), Fixes (+es for -x), and Hurries (-y to -ies for consonant + y)."
+        },
+        {
+          "letter": "C",
+          "text": "grows / fixs / hurries",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Fix\" ends in 'x', so it needs 'es'."
+        },
+        {
+          "letter": "D",
+          "text": "grows / fixes / hurrys",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hurry\" ends in consonant + y, so it must change to \"hurries\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates multiple verb types and their specific third-person spelling rules to complete a coherent text.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W03-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

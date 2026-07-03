@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v1",
+      "statement": "Activism is the policy or action of using vigorous campaigning to bring about political or social change.",
+      "context": "Introduction to social activism.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Apathy means not caring."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Activism",
+          "is_correct": true,
+          "feedback": "Correct. The act of working for change."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Silence",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Activism is usually vocal."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Stagnation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Stagnation means no change."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Activism' is the standard term for the efforts made by individuals or groups to achieve social or political goals.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v2",
+      "statement": "The civil rights movement had been growing for years before the major legislation was finally passed.",
+      "context": "Discussing movement history.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "was growing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous doesn't show the duration as well as past perfect continuous here."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had been growing",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "has been growing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect continuous."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "grows",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous 'had been growing' emphasizes the long history of development preceding the movement's success.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v3",
+      "statement": "If people hadn't protested against injustice in the past, we wouldn't have the rights we enjoy today.",
+      "context": "Conditional about social change.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "didn't protest",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "hadn't protested",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past action."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "haven't protested",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "wouldn't protest",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional allows us to reflect on the historical importance of collective action.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v4",
+      "statement": "A grassroots movement is one that uses the people in a given district, region, or community as the basis for a political or economic movement.",
+      "context": "Article about \"grassroots\" movements.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grassroots",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for \"bottom-up\" organizing."
+        },
+        {
+          "letter": "B",
+          "text": "top-down",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of grassroots."
+        },
+        {
+          "letter": "C",
+          "text": "corporate",
+          "is_correct": false,
+          "feedback": "Incorrect. Run by businesses."
+        },
+        {
+          "letter": "D",
+          "text": "elite",
+          "is_correct": false,
+          "feedback": "Incorrect. Run by a powerful minority."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "explanation": "'Grassroots' is the specific term for movements that begin at the community level rather than with established leaders.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v5",
+      "statement": "Civil disobedience is the active, professed refusal of a citizen to obey certain laws, demands, orders, or commands of a government.",
+      "context": "Discussion on \"civil disobedience\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "violent",
+          "is_correct": false,
+          "feedback": "Incorrect. Civil disobedience is traditionally non-violent."
+        },
+        {
+          "letter": "B",
+          "text": "refusal",
+          "is_correct": true,
+          "feedback": "Correct. Refusal means an act of saying or showing that you will not do or accept something."
+        },
+        {
+          "letter": "C",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect. It is an act of disagreement."
+        },
+        {
+          "letter": "D",
+          "text": "accident",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a deliberate choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Refusal' correctly identifies the core action of civil disobedience: the choice to not comply with unjust rules.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v6",
+      "statement": "A boycott is a punitive ban that forbids relations with certain groups, cooperation with a policy, or the handling of goods.",
+      "context": "Protest methods.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Celebration",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Boycott",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for refusing to buy or participate as a form of protest."
+        },
+        {
+          "letter": "C",
+          "text": "Subsidy",
+          "is_correct": false,
+          "feedback": "Incorrect. Financial aid."
+        },
+        {
+          "letter": "D",
+          "text": "Dividend",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Boycott' is the standard term for collective economic or social refusal as a protest tactic.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
       "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v7",
+      "statement": "The importance of mental health awareness is being highlighted by activists across the globe.",
+      "context": "Describing an ongoing social campaign.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "is highlighting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "is being highlighted",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing awareness effort."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "highlighted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "have highlighted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current, active focus of the movement.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v8",
+      "statement": "Solidarity is unity or agreement of feeling or action, especially among individuals with a common interest.",
+      "context": "Text on \"solidarity\".",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "Isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of unity."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Solidarity",
+          "is_correct": true,
+          "feedback": "Correct. Core principle of social movements."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Conflict",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Solidarity aims for internal unity."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Solidarity' describes the collective strength and mutual support within a social movement.\n\n---",
       "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v9",
+      "statement": "The historian noted that the movement had achieved its primary objective within five years.",
+      "context": "Reporting on a past movement's success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has achieved",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had achieved",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from past simple or present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "achieves",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will achieve",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense to show the achievement occurred before the historian's observation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v10",
+      "statement": "\"Slacktivism\" is a pejorative term for \"feel-good\" measures in support of an issue or social cause that involve very little effort.",
+      "context": "Critique of \"slacktivism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Effective",
+          "is_correct": false,
+          "feedback": "Incorrect. The term is critical/pejorative."
+        },
+        {
+          "letter": "B",
+          "text": "pejorative",
+          "is_correct": true,
+          "feedback": "Correct. Pejorative means expressing contempt or disapproval."
+        },
+        {
+          "letter": "C",
+          "text": "positive",
+          "is_correct": false,
+          "feedback": "Incorrect. Slacktivism is usually criticized."
+        },
+        {
+          "letter": "D",
+          "text": "intensive",
+          "is_correct": false,
+          "feedback": "Incorrect. Slacktivism involves 'very little effort'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Pejorative' correctly identifies that 'slacktivism' is a critical, negative label for low-effort activism.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v11",
+      "statement": "A rally is a mass meeting of people making a political protest or showing support for a cause.",
+      "context": "Definition of a rally.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Party",
+          "is_correct": false,
+          "feedback": "Incorrect. While social, a rally has a political purpose."
+        },
+        {
+          "letter": "B",
+          "text": "Rally",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for a political mass meeting."
+        },
+        {
+          "letter": "C",
+          "text": "Lecture",
+          "is_correct": false,
+          "feedback": "Incorrect. A lecture is for teaching."
+        },
+        {
+          "letter": "D",
+          "text": "Auction",
+          "is_correct": false,
+          "feedback": "Incorrect. For selling goods."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Rally' is the standard term for a large public gathering in support of a movement.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v12",
+      "statement": "By the end of the decade, a new bill will have been signed to protect indigenous lands.",
+      "context": "Describing a future social goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will sign",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been signed",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "signing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the signing of the bill will be a finished achievement by the stated deadline.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v13",
+      "statement": "Effective advocacy requires clear communication and the ability to build broad coalitions.",
+      "context": "Discussing \"advocacy\".",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "coalitions",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct. A coalition is a temporary alliance for combined action."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "barriers",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Advocacy aims to break barriers."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "secrets",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Advocacy is public."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "divisions",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Coalitions bridge divisions."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Coalitions' is the specific political term for the alliances formed between different groups to achieve a common goal.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v14",
+      "statement": "If more people joined the cause, the movement would have a greater impact on policy makers.",
+      "context": "Conditional about collective action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "join",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "joined",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "had joined",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would join",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional describes the likely result of a hypothetical increase in participation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v15",
+      "statement": "The author concludes that systemic change is only possible when individual actions are amplified through collective effort.",
+      "context": "Conclusion of an essay on social change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "amplified",
+          "is_correct": true,
+          "feedback": "Correct. To amplify means to make larger, greater, or stronger."
+        },
+        {
+          "letter": "C",
+          "text": "restricted",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Amplified' correctly identifies how social movements increase the power of individual efforts through group action.\n\n---",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v16",
+      "statement": "An activist is a person who campaigns to bring about political or social change.",
+      "context": "Describing an \"activist\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bystander",
+          "is_correct": false,
+          "feedback": "Incorrect. Watches but doesn't act."
+        },
+        {
+          "letter": "B",
+          "text": "Activist",
+          "is_correct": true,
+          "feedback": "Correct. Active participant in change."
+        },
+        {
+          "letter": "C",
+          "text": "Critic",
+          "is_correct": false,
+          "feedback": "Incorrect. Evaluates but doesn't necessarily campaign."
+        },
+        {
+          "letter": "D",
+          "text": "Witness",
+          "is_correct": false,
+          "feedback": "Incorrect. Sees an event but doesn't necessarily act for change."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Activist' is the general term for someone who takes action to support a social or political cause.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v17",
+      "statement": "Many citizens wish there were more transparency in government decision-making.",
+      "context": "Expressing a hope for social progress.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + were' for a present hypothetical desire."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Were' is preferred in formal wishes about the present."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past' structure expresses a desire for the current situation to be different.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v18",
+      "statement": "Non-violent resistance is the practice of achieving goals through symbolic protests, civil disobedience, and other methods without using physical force.",
+      "context": "Text about \"non-violent resistance\".",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "Aggressive",
+          "is_correct": false,
+          "feedback": "Incorrect. Non-violent is the opposite of aggressive."
         },
         {
           "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Non-violent",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for peaceful resistance."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Secret",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Often very public."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Passive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Resistance is active, even if non-violent."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Non-violent resistance' is the philosophy of using peaceful means to achieve social change.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v19",
+      "statement": "The leader declared that the movement had reached a critical turning point.",
+      "context": "Reporting a leader's speech.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "has reached",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had reached",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from past simple or present perfect."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "reaches",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present tense."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "will reach",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-v20",
+      "statement": "History shows that the most enduring social changes are those rooted in broad-based social movements.",
+      "context": "Final thought on change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "enduring",
+          "is_correct": true,
+          "feedback": "Correct. Enduring means lasting over a period of time; durable."
+        },
+        {
+          "letter": "B",
+          "text": "temporary",
+          "is_correct": false,
+          "feedback": "Incorrect. Successful movements aim for lasting change."
+        },
+        {
+          "letter": "C",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Movements are intentional."
+        },
+        {
+          "letter": "D",
+          "text": "fragile",
+          "is_correct": false,
+          "feedback": "Incorrect. Rooted changes are usually strong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Enduring' describes the long-lasting and stable nature of the changes achieved by successful social movements.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W35-social-movements-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

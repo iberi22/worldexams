@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.420Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v1",
+      "statement": "En la función exponencial $f(x) = a^x$, donde $a > 0$ y $a \\ne 1$, ¿cuál es el punto por el que siempre pasa su gráfica, independientemente del valor de la base $a$?",
+      "context": "Un estudiante de 5to de secundaria en Lima identifica las características básicas de las funciones exponenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el intercepto común de las funciones logarítmicas."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier número real (distinto de cero) elevado a la potencia cero es igual a 1."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo pasaría por este punto si la base fuera 1, lo cual está excluido de la definición."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una función exponencial básica de la forma $a^x$ nunca toca el origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier base $a$, al evaluar $f(0) = a^0 = 1$. Por lo tanto, el punto $(0, 1)$ es la ordenada al origen universal de las funciones exponenciales básicas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v2",
+      "statement": "Si la población de bacterias se duplica cada hora, ¿qué tipo de función modela mejor este crecimiento?",
+      "context": "Un biólogo en Iquitos observa el crecimiento de una población de bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento lineal implica un aumento constante, no proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "Función cuadrática",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento cuadrático es acelerado pero no tan rápido como el duplicado sucesivo."
+        },
+        {
+          "letter": "C",
+          "text": "Función exponencial",
+          "is_correct": true,
+          "feedback": "Correcto. El duplicado implica un factor multiplicativo constante, característico de los modelos exponenciales."
+        },
+        {
+          "letter": "D",
+          "text": "Función constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población está cambiando en el tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando una magnitud aumenta o disminuye mediante un factor constante por unidad de tiempo (como duplicarse), se describe mediante una función exponencial de la forma $f(t) = C \\cdot k^t$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v3",
+      "statement": "Determine el valor de $f(3)$ para la función $f(x) = 2 \\cdot 3^x$.",
+      "context": "Evaluación de expresiones exponenciales en un examen de matemáticas en Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevó 3 al cuadrado en lugar de al cubo."
+        },
+        {
+          "letter": "B",
+          "text": "54",
+          "is_correct": true,
+          "feedback": "Correcto. $f(3) = 2 \\cdot 3^3 = 2 \\cdot 27 = 54$."
+        },
+        {
+          "letter": "C",
+          "text": "216",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó 2 por 3 antes de elevar a la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la potencia de 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Siguiendo la jerarquía de operaciones, primero resolvemos la potencia ($3^3 = 27$) y luego multiplicamos por el coeficiente exterior ($2 \\times 27 = 54$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué valores de la base $a$ la función exponencial $f(x) = a^x$ es decreciente en todo su dominio?",
+      "context": "Análisis del comportamiento de la función según su base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a > 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $a > 1$ la función es estrictamente creciente."
+        },
+        {
+          "letter": "B",
+          "text": "$0 < a < 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la base es una fracción propia, al aumentar $x$, el valor de $a^x$ disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "$a < 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base de una función exponencial real debe ser positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $a = 1$, la función es constante ($f(x) = 1$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función exponencial es creciente si $a > 1$ y decreciente si la base se encuentra entre 0 y 1.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función que representa el monto total $M$ después de $t$ años?",
+      "context": "Un capital de S/ 1000 se deposita en una cuenta de ahorros en Cusco que ofrece un interés del 10% anual capitalizable anualmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$M(t) = 1000 + 1.1t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un modelo lineal de interés simple erróneo."
+        },
+        {
+          "letter": "B",
+          "text": "$M(t) = 1000(1.1)^t$",
+          "is_correct": true,
+          "feedback": "Correcto. El factor de crecimiento anual es $1 + 0.10 = 1.1$. El capital inicial es 1000."
+        },
+        {
+          "letter": "C",
+          "text": "$M(t) = 1000(0.1)^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este modelo indicaría que el dinero disminuye drásticamente cada año."
+        },
+        {
+          "letter": "D",
+          "text": "$M(t) = 1000(10)^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa debe expresarse en decimales sumados a la unidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El interés compuesto se modela mediante la función $M = P(1 + r)^t$, donde $P$ es el principal, $r$ la tasa y $t$ el tiempo. Aquí $r = 0.10$, por lo que el factor es $1.1$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v6",
+      "statement": "Determine el rango de la función $f(x) = 3^x - 4$.",
+      "context": "Determinación del dominio y rango en funciones exponenciales transformadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\langle 0, +\\infty\\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el rango de la función $3^x$ sin desplazar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\langle -4, +\\infty\\rangle$",
+          "is_correct": true,
+          "feedback": "Correcto. La función $3^x$ es siempre mayor que 0. Al restarle 4, todos los valores son mayores que -4."
+        },
+        {
+          "letter": "C",
+          "text": "$[-4, +\\infty\\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función nunca llega a tocar el valor -4 (asíntota horizontal)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones exponenciales tienen el rango restringido por una asíntota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango de $a^x$ es $\\langle 0, +\\infty\\rangle$. Al aplicar una traslación vertical de $-4$ unidades, la asíntota horizontal se desplaza de $y = 0$ a $y = -4$. El rango se desplaza en la misma medida.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v7",
+      "statement": "Resuelva la ecuación: $2^{x+1} = 32$.",
+      "context": "Un estudiante en Trujillo resuelve una ecuación exponencial simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 es la potencia a la que debe elevarse 2, pero la expresión es $x+1$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $32 = 2^5$. Entonces $2^{x+1} = 2^5 \\Rightarrow x + 1 = 5 \\Rightarrow x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió 32 entre 2 en lugar de trabajar con potencias."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al igualar los exponentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expresamos ambos miembros con la misma base: $2^{x+1} = 2^5$. Por la propiedad de inyectividad de la función exponencial, igualamos los exponentes $x + 1 = 5$ y resolvemos para $x$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v8",
+      "statement": "La cantidad de una sustancia radiactiva disminuye a la mitad cada 10 años. Si inicialmente hay 80 gramos, ¿cuál es la función $C(t)$ que representa la cantidad restante después de $t$ años?",
+      "context": "Un técnico en radiología en una clínica de Lima estudia la desintegración de un isótopo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(t) = 80(0.5)^{10t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se reduciría a la mitad 10 veces cada año."
+        },
+        {
+          "letter": "B",
+          "text": "$C(t) = 80(0.5)^{t/10}$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente $t/10$ asegura que la base 0.5 se aplique una vez cada 10 años."
+        },
+        {
+          "letter": "C",
+          "text": "$C(t) = 80(0.5)^{t-10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modela correctamente el periodo de vida media."
+        },
+        {
+          "letter": "D",
+          "text": "$C(t) = 80 - 40t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un modelo lineal, no exponencial de desintegración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para modelos de vida media, la base es 0.5 y el exponente es el tiempo transcurrido dividido por el periodo de vida media: $(t/T)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v9",
+      "statement": "Halle el valor de $x$ que satisface: $9^x = 27^{x-1}$.",
+      "context": "Resolución de ecuaciones exponenciales con bases diferentes pero reducibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir, $9^1 = 9$ y $27^0 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9^2 = 81$ y $27^1 = 27$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(3^2)^x = (3^3)^{x-1} \\Rightarrow 3^{2x} = 3^{3x-3} \\Rightarrow 2x = 3x - 3 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el manejo de las potencias de base 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Llevamos ambas bases a una base común (3). $9 = 3^2$ y $27 = 3^3$. Aplicamos potencia de potencia e igualamos los exponentes resultantes para resolver la ecuación lineal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v10",
+      "statement": "Dada la función $f(x) = 2^x$. Si definimos $g(x) = -f(x+3)$, ¿cómo se obtiene la gráfica de $g$ a partir de la de $f$?",
+      "context": "Análisis de transformaciones gráficas complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazando 3 a la derecha y reflejando en el eje $X$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo $+$ dentro del paréntesis indica desplazamiento a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Desplazando 3 a la izquierda y reflejando en el eje $X$.",
+          "is_correct": true,
+          "feedback": "Correcto. $x+3$ desplaza a la izquierda y el signo negativo exterior refleja respecto al eje horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Desplazando 3 arriba y reflejando en el eje $Y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transformaciones indicadas son horizontal y de reflexión axial $X$."
+        },
+        {
+          "letter": "D",
+          "text": "Desplazando 3 a la izquierda y reflejando en el eje $Y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo está fuera de la función, por lo que afecta a las ordenadas ($y$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término $(x+3)$ produce una traslación horizontal de 3 unidades a la izquierda. El signo menos que antecede a la función completa produce una reflexión de la curva respecto al eje $X$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v11",
+      "statement": "La población de un pueblo crece según la función $P(t) = 5000 \\cdot e^{0.02t}$, donde $t$ es el tiempo en años. ¿Cuál es la tasa de crecimiento anual porcentual aproximada?",
+      "context": "Un problema de crecimiento poblacional en una provincia de Junín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.02%",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0.02 es la tasa en forma decimal, no porcentual."
+        },
+        {
+          "letter": "B",
+          "text": "2%",
+          "is_correct": true,
+          "feedback": "Correcto. En el modelo $e^{rt}$, el valor de $r$ representa la tasa de crecimiento continuo. $0.02 = 2/100 = 2\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por un factor de 10 erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "5000%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de la población inicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma estándar de crecimiento exponencial continuo $P = P_0 e^{rt}$, el coeficiente $r$ en el exponente indica la tasa de crecimiento instantánea o continua.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v12",
+      "statement": "Halle las soluciones reales de la ecuación: $4^x - 6 \\cdot 2^x + 8 = 0$.",
+      "context": "Resolución de ecuaciones exponenciales mediante cambio de variable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la otra solución de la ecuación cuadrática auxiliar."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$ y $x = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Sea $u = 2^x \\Rightarrow u^2 - 6u + 8 = 0$. Factorizando: $(u-4)(u-2)=0$. Entonces $2^x = 4 \\Rightarrow x=2$; $2^x = 2 \\Rightarrow x=1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$ y $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son los valores de la variable auxiliar $u$, no de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ y $x = 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir $x=0$, la expresión resulta $1-6+8 = 3 \\ne 0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Realizamos el cambio de variable $u = 2^x$, lo que transforma la ecuación exponencial en una cuadrática: $u^2 - 6u + 8 = 0$. Resolvemos para $u$ y luego regresamos a la variable original $x$ mediante logaritmos o igualando bases.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v13",
+      "statement": "Dadas las funciones $f(x) = 2^x$ y $g(x) = 3^x$. ¿Cuál de las siguientes afirmaciones es verdadera para $x < 0$?",
+      "context": "Comparación de funciones exponenciales con diferentes bases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) > g(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Para $x$ negativo, $2^x$ es $1/2^{|x|}$ y $3^x$ es $1/3^{|x|}$. Como el denominador de $g$ crece más rápido, su valor es menor. Por ejemplo, $2^{-1} = 0.5 > 3^{-1} = 0.33$."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) > f(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo es cierto para $x > 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = g(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo son iguales en $x = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son negativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones exponenciales básicas son siempre positivas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque $3^x$ crece más rápido que $2^x$ para valores positivos de $x$, para valores negativos ocurre lo contrario: $3^x$ se acerca a la asíntota $y=0$ más rápidamente, por lo que sus valores son menores que los de $2^x$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v14",
+      "statement": "Una maquinaria pesada cuesta S/ 200.000 y se deprecia anualmente un 15%. ¿Cuál será su valor aproximado después de 5 años? (Use $(0.85)^5 \\approx 0.4437$).",
+      "context": "Un problema de depreciación de activos en una empresa minera de Pasco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 50.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación demasiado baja."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 88.740",
+          "is_correct": true,
+          "feedback": "Correcto. $V = 200000 \\cdot (0.85)^5 \\approx 200000 \\cdot 0.4437 = 88740$."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 170.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor después de solo un año."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 111.260",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó el monto depreciado en lugar del valor residual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La depreciación es un crecimiento exponencial negativo. El factor de retención de valor es $1 - 0.15 = 0.85$. Aplicamos la función $V(t) = P \\cdot (0.85)^t$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v15",
+      "statement": "Determine la función de la forma $f(x) = C \\cdot a^x$ que pasa por los puntos $(1, 6)$ y $(3, 24)$. (Considere $a > 0$).",
+      "context": "Hallar la ecuación de una función exponencial a partir de dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 6 \\cdot 2^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=1$ daría 12, no 6."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 3 \\cdot 2^x$",
+          "is_correct": true,
+          "feedback": "Correcto. $6 = C \\cdot a^1$ y $24 = C \\cdot a^3$. Dividiendo: $4 = a^2 \\Rightarrow a = 2$. Luego $6 = C \\cdot 2 \\Rightarrow C = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 2 \\cdot 3^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores no satisfacen las coordenadas dadas."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 3 \\cdot 4^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de crecimiento entre los puntos es menor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos un sistema de dos ecuaciones con dos incógnitas ($C$ y $a$). Dividiendo las ecuaciones entre sí, eliminamos la constante $C$ y hallamos la base $a$. Luego sustituimos $a$ en cualquiera de las originales para hallar $C$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v16",
+      "statement": "Si $f(x) = 5^x$, ¿cuál es el valor de $f^{-1}(125)$?",
+      "context": "Relación entre funciones exponenciales y logarítmicas como inversas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^5 = 3125$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. La inversa es $\\log_5(x)$. Entonces $f^{-1}(125) = \\log_5(125) = 3$, ya que $5^3 = 125$."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de concepto sobre la función inversa."
+        },
+        {
+          "letter": "D",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió el resultado correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la función inversa en un punto $y$ equivale a buscar qué valor de $x$ en la función original produce ese $y$. Planteamos $5^x = 125$, lo que nos da $x = 3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v17",
+      "statement": "Determine la ecuación de la asíntota horizontal de la función $f(x) = \\frac{4^{x+1} + 12}{4^x - 2}$.",
+      "context": "Problema de nivel avanzado sobre límites y asíntotas, estilo UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos de mayor grado no se anulan al infinito."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Para $x$ muy grande, $f(x) \\approx \\frac{4 \\cdot 4^x}{4^x} = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor al que se acercaría si la base fuera una fracción propia."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntota horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser un cociente de expresiones exponenciales de igual base, sí posee asíntota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizamos el comportamiento de la función cuando $x \\to +\\infty$. Dividimos numerador y denominador por el término de mayor crecimiento ($4^x$). Los términos constantes divididos por $4^x$ tienden a cero, dejando el cociente de los coeficientes principales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v18",
+      "statement": "Resuelva el sistema y halle el valor de $x + y$:\n$\\begin{cases} 2^x + 3^y = 17 \\\\ 2^{x+1} - 3^y = 7 \\end{cases}$",
+      "context": "Resolución de sistemas de ecuaciones exponenciales, frecuente en exámenes de admisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al resolver para $x$ o $y$."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: $3 \\cdot 2^x = 24 \\Rightarrow 2^x = 8 \\Rightarrow x=3$. Sustituyendo: $8 + 3^y = 17 \\Rightarrow 3^y = 9 \\Rightarrow y=2$. Suma $3+2=5$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface las ecuaciones originales."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de $x$ e $y$ son mayores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el método de reducción sumando las dos ecuaciones para eliminar el término con $3^y$. Esto nos permite hallar el valor de $2^x$ y, por ende, de $x$. Luego sustituimos en cualquiera de las ecuaciones originales para hallar $y$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v19",
+      "statement": "Dada la función $f(x) = e^{x^2 - 4x + 5}$. ¿Cuál es el valor mínimo que alcanza esta función en el conjunto de los números reales?",
+      "context": "Análisis de la inyectividad y rango de funciones exponenciales compuestas, nivel competencia matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función exponencial $e^u$ siempre es positiva."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente es una cuadrática $x^2 - 4x + 5$. Su valor mínimo es $k = f(2) = 4 - 8 + 5 = 1$. Por lo tanto, el valor mínimo de la función es $e^1 = e$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el mínimo si el exponente pudiera valer cero."
+        },
+        {
+          "letter": "D",
+          "text": "$e^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el intercepto con el eje $Y$, no el valor mínimo global."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como la base $e$ es mayor que 1, la función $e^u$ es creciente respecto a $u$. Por lo tanto, el mínimo de la función compuesta se alcanza cuando el exponente $x^2 - 4x + 5$ es mínimo. Hallamos el vértice de la cuadrática del exponente y evaluamos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v20",
+      "statement": "Determine el número de soluciones reales de la ecuación: $2^x = x^2$.",
+      "context": "Desafío de ecuaciones exponenciales trascendentes, nivel Olimpiada Nacional de Matemática (ONEM).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una solución evidente ($x=2$) y otra negativa."
+        },
+        {
+          "letter": "B",
+          "text": "2 soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó una solución adicional entre 2 y 4... no, revisemos. $2^2=4, 2^4=16=4^2$. Hay 3 soluciones."
+        },
+        {
+          "letter": "C",
+          "text": "3 soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. Graficando: una solución negativa (cerca de -0.76), una en $x=2$ y otra en $x=4$."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las curvas solo se cruzan en puntos específicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mediante un análisis gráfico o numérico, se observa que la función exponencial $2^x$ y la parábola $x^2$ se intersecan en tres puntos: uno en el semi-eje negativo (donde la exponencial es pequeña y la parábola baja), y dos en el semi-eje positivo ($x=2$ y $x=4$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de regularidad, equivalencia y cambio",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

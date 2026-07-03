@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-6-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.890Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-001-v1",
+      "statement": "What word describes the feeling when you smile and have a good time?",
+      "context": "Identifying an emotion from a physical expression.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad",
+          "is_correct": false,
+          "feedback": "Incorrect. Sadness involves crying or feeling down."
+        },
+        {
+          "letter": "B",
+          "text": "Happy",
+          "is_correct": true,
+          "feedback": "Correct! Happiness is associated with smiling and feeling good."
+        },
+        {
+          "letter": "C",
+          "text": "Angry",
+          "is_correct": false,
+          "feedback": "Incorrect. Anger is associated with being upset or annoyed."
+        },
+        {
+          "letter": "D",
+          "text": "Tired",
+          "is_correct": false,
+          "feedback": "Incorrect. Being tired means you need to sleep."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic vocabulary for common emotions.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-002-v1",
+      "statement": "How do you feel after running a long marathon or studying for 5 hours?",
+      "context": "Describing a physical state after a lot of activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excited",
+          "is_correct": false,
+          "feedback": "Incorrect. You might be excited to win, but physically you feel something else."
+        },
+        {
+          "letter": "B",
+          "text": "Bored",
+          "is_correct": false,
+          "feedback": "Incorrect. Boredom comes from having nothing to do."
+        },
+        {
+          "letter": "C",
+          "text": "Tired",
+          "is_correct": true,
+          "feedback": "Correct! Physical or mental effort leads to feeling tired (exhausted)."
+        },
+        {
+          "letter": "D",
+          "text": "Surprised",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a reaction to something unexpected."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student associates a physical or mental state with the correct adjective.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-003-v1",
+      "statement": "\"I have a big English test tomorrow and I didn't study. I am ________.\"",
+      "context": "A reaction to a specific situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "nervous",
+          "is_correct": true,
+          "feedback": "Correct! Not being prepared for an important event usually causes nervousness."
+        },
+        {
+          "letter": "B",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the need for food."
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": false,
+          "feedback": "Incorrect. While you might be angry at yourself, \"nervous\" is the most direct feeling about the test."
+        },
+        {
+          "letter": "D",
+          "text": "happy",
+          "is_correct": false,
+          "feedback": "Incorrect. Most people don't feel happy about being unprepared for a test."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the logical emotional response to a stressful situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-004-v1",
+      "statement": "\"Maria is crying because her pet is sick. She looks ________.\"",
+      "context": "Describing how someone looks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirsty",
+          "is_correct": false,
+          "feedback": "Incorrect. Thirsty means you want water."
+        },
+        {
+          "letter": "B",
+          "text": "sad",
+          "is_correct": true,
+          "feedback": "Correct! Crying is a common sign of sadness."
+        },
+        {
+          "letter": "C",
+          "text": "bored",
+          "is_correct": false,
+          "feedback": "Incorrect. Boredom doesn't usually cause crying."
+        },
+        {
+          "letter": "D",
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a positive emotion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student connects an observation (crying) with the underlying emotion (sadness).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-005-v1",
+      "statement": "Choose the correct question to ask about someone's current emotional state.",
+      "context": "Asking someone about their feelings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How often are you happy?",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about frequency, not current state."
+        },
+        {
+          "letter": "B",
+          "text": "Why you are sad?",
+          "is_correct": false,
+          "feedback": "Incorrect. The word order for a question is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "How do you feel today?",
+          "is_correct": true,
+          "feedback": "Correct! This is the standard way to ask about someone's feelings."
+        },
+        {
+          "letter": "D",
+          "text": "What do you feel?",
+          "is_correct": false,
+          "feedback": "Incorrect. While understandable, \"How do you feel\" is more common and idiomatic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies grammatical knowledge to form a question about emotions correctly.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-006-v1",
+      "statement": "How did the writer feel when they got the bike?",
+      "context": "A diary entry from a student.\n\"Dear Diary, today was amazing! My parents gave me a new bike for my birthday. I was so surprised and happy. I want to ride it all day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad and tired",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says \"amazing\" and \"happy\"."
+        },
+        {
+          "letter": "B",
+          "text": "Surprised and happy",
+          "is_correct": true,
+          "feedback": "Correct! These specific emotions are mentioned in the text."
+        },
+        {
+          "letter": "C",
+          "text": "Nervous and angry",
+          "is_correct": false,
+          "feedback": "Incorrect. These are negative emotions not present in the context."
+        },
+        {
+          "letter": "D",
+          "text": "Bored and thirsty",
+          "is_correct": false,
+          "feedback": "Incorrect. These states don't fit the \"amazing\" day description."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies and extracts specific emotions from a short narrative text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-007-v1",
+      "statement": "\"I didn't drink water after my gym class. Now I am very ________.\"",
+      "context": "Describing a physical need.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "Incorrect. Hungry is for food."
+        },
+        {
+          "letter": "B",
+          "text": "thirsty",
+          "is_correct": true,
+          "feedback": "Correct! Lack of water causes thirst."
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": false,
+          "feedback": "Incorrect. While you could be angry, the physical consequence is being thirsty."
+        },
+        {
+          "letter": "D",
+          "text": "sleepy",
+          "is_correct": false,
+          "feedback": "Incorrect. Sleepy is for rest."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies vocabulary for physical states to a logical context (no water).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-008-v1",
+      "statement": "What is the most logical emotion for B to express in this situation?",
+      "context": "Analyzing a response in a conversation.\nA: \"My brother never shares his toys with me.\"\nB: \"I understand. That makes me feel ________ too.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excited",
+          "is_correct": false,
+          "feedback": "Incorrect. Not sharing toys is usually a negative experience."
+        },
+        {
+          "letter": "B",
+          "text": "Frustrated",
+          "is_correct": true,
+          "feedback": "Correct! Not being able to get what you want or dealing with unfairness often leads to frustration."
+        },
+        {
+          "letter": "C",
+          "text": "Scared",
+          "is_correct": false,
+          "feedback": "Incorrect. Fear is for danger, not for sharing issues."
+        },
+        {
+          "letter": "D",
+          "text": "Surprised",
+          "is_correct": false,
+          "feedback": "Incorrect. If it happens \"never\", it's a routine, not a surprise."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the social context to identify the most appropriate complex emotion.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Communicative Intent",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-009-v1",
+      "statement": "Choose the correct pair to complete the sentence:\n\"The movie was very ________, so the children felt ________.\"",
+      "context": "Distinguishing between similar-sounding or related adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bored / boring",
+          "is_correct": false,
+          "feedback": "Incorrect. The movie is \"boring\" and people feel \"bored\"."
+        },
+        {
+          "letter": "B",
+          "text": "boring / bored",
+          "is_correct": true,
+          "feedback": "Correct! -ing adjectives describe the thing, -ed adjectives describe the person's feeling."
+        },
+        {
+          "letter": "C",
+          "text": "happy / sad",
+          "is_correct": false,
+          "feedback": "Incorrect. This doesn't show a logical relationship."
+        },
+        {
+          "letter": "D",
+          "text": "excited / exciting",
+          "is_correct": false,
+          "feedback": "Incorrect. The movie is \"exciting\" and people feel \"excited\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the difference between adjectives ending in -ed (feelings) and -ing (causes of feelings).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W06-feelings-emotions-010-v1",
+      "statement": "What is the best description of Felipe's current emotional state?",
+      "context": "A complex emotional situation.\n\"Felipe moved to a new city. He likes his new house, but he misses his old friends. He feels a bit lonely sometimes, but he is also interested in meeting new people.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is completely sad and wants to go back home.",
+          "is_correct": false,
+          "feedback": "Incorrect. He also feels interested in new things."
+        },
+        {
+          "letter": "B",
+          "text": "He is very happy because he has a new house.",
+          "is_correct": false,
+          "feedback": "Incorrect. He also feels lonely."
+        },
+        {
+          "letter": "C",
+          "text": "He has mixed feelings: he is a bit sad but also curious about his new life.",
+          "is_correct": true,
+          "feedback": "Correct! The text mentions loneliness (missing friends) and interest (meeting new people)."
+        },
+        {
+          "letter": "D",
+          "text": "He is angry at his parents for moving.",
+          "is_correct": false,
+          "feedback": "Incorrect. Anger is not mentioned in the text."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates a text that describes conflicting or mixed emotions and selects the most balanced summary.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W06-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
