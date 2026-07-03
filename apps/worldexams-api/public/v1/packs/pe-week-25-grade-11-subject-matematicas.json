@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-25-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.430Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v1",
+      "statement": "¿Qué figura geométrica se genera al hacer girar un rectángulo sobre uno de sus lados?",
+      "context": "Un estudiante en Lima repasa los cuerpos de revolución para su examen de admisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cono se genera por la rotación de un triángulo rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Cilindro de revolución",
+          "is_correct": true,
+          "feedback": "Correcto. La rotación de un rectángulo alrededor de uno de sus lados genera un cilindro recto."
+        },
+        {
+          "letter": "C",
+          "text": "Esfera",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Tronco de cono",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuerpos de revolución se obtienen al girar una figura plana alrededor de un eje. En el caso del rectángulo, el lado sobre el que gira actúa como el eje y altura del cilindro, mientras que el otro lado actúa como el radio de la base.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula para calcular el volumen de un cilindro de radio $r$ y altura $h$?",
+      "context": "Un fabricante de envases en Trujillo diseña una lata de conservas cilíndrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = \\frac{1}{3}\\pi r^2 h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para el volumen de un cono."
+        },
+        {
+          "letter": "B",
+          "text": "$V = \\pi r^2 h$",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen de un cilindro es el área de su base circular por su altura."
+        },
+        {
+          "letter": "C",
+          "text": "$V = 2\\pi rh$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es el área lateral."
+        },
+        {
+          "letter": "D",
+          "text": "$V = \\frac{4}{3}\\pi r^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cilindro es el producto del área de la base por la altura. Como la base es un círculo de área $\\pi r^2$, el volumen es $V = \\pi r^2 h$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v3",
+      "statement": "Si un barquillo tiene un radio de 3 cm y una altura de 10 cm, ¿cuál es su volumen? (Use $\\pi \\approx 3$)",
+      "context": "Un heladero en Lima utiliza barquillos en forma de cono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor pi o el cuadrado del radio."
+        },
+        {
+          "letter": "B",
+          "text": "90 cm³",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{1}{3} \\cdot \\pi \\cdot r^2 \\cdot h = \\frac{1}{3} \\cdot 3 \\cdot 3^2 \\cdot 10 = 9 \\cdot 10 = 90$."
+        },
+        {
+          "letter": "C",
+          "text": "270 cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el factor $1/3$."
+        },
+        {
+          "letter": "D",
+          "text": "10 cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen del cono es un tercio del área de la base por la altura: $V = \\frac{1}{3}\\pi r^2 h$. Sustituyendo $r=3, h=10$ y $\\pi=3$, obtenemos $V = \\frac{1}{3} \\cdot 3 \\cdot 9 \\cdot 10 = 90$ cm³.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v4",
+      "statement": "Si una pelota tiene un radio de 10 cm, ¿cuál es el área de su superficie esférica? (Use $\\pi \\approx 3.14$)",
+      "context": "Se analiza el área de una pelota de fútbol de radio 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "314 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "628 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "1256 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = 4\\pi r^2 = 4 \\cdot 3.14 \\cdot 10^2 = 1256$."
+        },
+        {
+          "letter": "D",
+          "text": "4186 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el volumen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de la superficie esférica se calcula con la fórmula $A = 4\\pi r^2$. Con $r = 10$ cm, tenemos $A = 4 \\times 3.14 \\times 100 = 1256$ cm².\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la relación entre el radio ($r$) y la altura ($h$) de dicho tanque?",
+      "context": "Un ingeniero en Piura diseña un tanque cilíndrico donde el área lateral es igual a la suma del área de sus dos bases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$r = h$",
+          "is_correct": true,
+          "feedback": "Correcto. $2\\pi rh = 2\\pi r^2 \\Rightarrow h = r$."
+        },
+        {
+          "letter": "B",
+          "text": "$r = 2h$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$h = 2r$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$r = h/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos la igualdad: Área lateral = 2 $\\times$ Área base $\\Rightarrow 2\\pi rh = 2 \\cdot (\\pi r^2)$. Simplificando $2\\pi r$, obtenemos que la altura debe ser igual al radio.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v6",
+      "statement": "Un cono tiene un radio de 5 cm y una altura de 12 cm. ¿Cuál es la longitud de su generatriz?",
+      "context": "Un estudiante de la UNI calcula la generatriz de un cono de radio 5 cm y altura 12 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correcto. $g = \\sqrt{r^2 + h^2} = \\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{119}$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un cono recto, la generatriz ($g$), la altura ($h$) y el radio ($r$) forman un triángulo rectángulo. Por el teorema de Pitágoras: $g^2 = 5^2 + 12^2 = 169$, de donde $g = 13$ cm.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v7",
+      "statement": "Si el radio de una esfera se duplica, ¿en qué factor aumenta su volumen?",
+      "context": "Se analiza el volumen de una esfera metálica en el Callao.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el factor de área superficial."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen depende del cubo del radio: $(2r)^3 = 8r^3$."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de la esfera es proporcional al cubo de su radio ($V \\propto r^3$). Al multiplicar el radio por 2, el volumen se multiplica por $2^3 = 8$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área de la superficie curva de dicha cúpula? (Considere $\\pi \\approx 3.14$)",
+      "context": "Un arquitecto en Arequipa diseña una cúpula semiesférica de 12 m de diámetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "452.16 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área de una esfera completa."
+        },
+        {
+          "letter": "B",
+          "text": "226.08 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Radio = 6. Área curva semiesfera = $2\\pi r^2 = 2 \\cdot 3.14 \\cdot 36 = 226.08$."
+        },
+        {
+          "letter": "C",
+          "text": "113.04 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "904.32 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El radio es la mitad del diámetro ($r = 6$ m). El área de la superficie curva de una semiesfera es la mitad del área de una esfera completa: $A = 2\\pi r^2$. Sustituyendo los valores: $A = 2 \\times 3.14 \\times 36 = 226.08$ m².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v9",
+      "statement": "El desarrollo de la superficie lateral de un cilindro es un cuadrado de lado $8\\pi$ cm. Calcule el volumen del cilindro.",
+      "context": "Un problema sobre el desarrollo lateral de un cilindro en un examen de simulación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$64\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$128\\pi^2$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. Perímetro base $= 2\\pi r = 8\\pi \\Rightarrow r = 4$. Altura $h = 8\\pi$. Volumen $= \\pi r^2 h = \\pi \\cdot 16 \\cdot 8\\pi = 128\\pi^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$128\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$256\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el desarrollo de un cilindro, la longitud del rectángulo corresponde al perímetro de la base ($2\\pi r$) y el ancho a la altura ($h$). Si es un cuadrado, $2\\pi r = 8\\pi$ y $h = 8\\pi$. Esto nos da $r = 4$. El volumen es $V = \\pi r^2 h = \\pi (4^2) (8\\pi) = 128\\pi^2$ cm³.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v10",
+      "statement": "Un cono tiene un radio de 6 cm y una generatriz de 10 cm. Calcule su área total.",
+      "context": "Se calcula el área total de un cono de radio 6 cm y generatriz 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área lateral."
+        },
+        {
+          "letter": "B",
+          "text": "$36\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es el área de la base."
+        },
+        {
+          "letter": "C",
+          "text": "$96\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A_T = \\pi r^2 + \\pi rg = 36\\pi + 60\\pi = 96\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "$120\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área total del cono es la suma del área de la base circular ($\\pi r^2$) y el área de la superficie lateral ($\\pi rg$). Para $r=6$ y $g=10$: $A_T = 36\\pi + 60\\pi = 96\\pi$ cm².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v11",
+      "statement": "Se inscribe un cilindro en una esfera de radio 5 cm. Si la altura del cilindro es de 8 cm, ¿cuál es el volumen del cilindro?",
+      "context": "Un cilindro inscrito en una esfera de radio 5 cm, con altura de 8 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$200\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$72\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. En la sección, $r^2 + (h/2)^2 = R^2 \\Rightarrow r^2 + 16 = 25 \\Rightarrow r = 3$. $V = \\pi r^2 h = 9\\pi \\cdot 8 = 72\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$128\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$36\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por simetría, el radio de la esfera ($R$), el radio del cilindro ($r$) y la mitad de su altura ($h/2$) forman un triángulo rectángulo. $r^2 + 4^2 = 5^2 \\Rightarrow r^2 = 9 \\Rightarrow r = 3$ cm. El volumen del cilindro es $V = \\pi r^2 h = \\pi \\cdot 9 \\cdot 8 = 72\\pi$ cm³.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v12",
+      "statement": "Las bases de un tronco de cono tienen radios de 2 m y 5 m, y su altura es de 4 m. Calcule su volumen. (Use $\\pi \\approx 3$)",
+      "context": "Un depósito en Cusco tiene forma de tronco de cono con radios de 2 m y 5 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "112 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "156 m³",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{1}{3}\\pi h(R^2 + r^2 + Rr) = \\frac{1}{3} \\cdot 3 \\cdot 4 \\cdot (25 + 4 + 10) = 4 \\cdot 39 = 156$."
+        },
+        {
+          "letter": "C",
+          "text": "252 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "84 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un tronco de cono se halla con $V = \\frac{\\pi h}{3}(R^2 + r^2 + Rr)$. Sustituyendo $R=5, r=2, h=4$ y $\\pi=3$, resulta $V = \\frac{3 \\cdot 4}{3}(25 + 4 + 10) = 4 \\times 39 = 156$ m³.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v13",
+      "statement": "Se inscribe una esfera en un cilindro recto. ¿Cuál es la razón entre el volumen del cilindro y el volumen de la esfera?",
+      "context": "Se estudia el volumen de una esfera inscrita en un cilindro recto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 a 1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "3 a 2",
+          "is_correct": true,
+          "feedback": "Correcto. $V_{cil} = 2\\pi r^3$ y $V_{esf} = \\frac{4}{3}\\pi r^3$. La razón es $2 / (4/3) = 1.5$."
+        },
+        {
+          "letter": "C",
+          "text": "4 a 3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$ a 1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si la esfera está inscrita, el cilindro tiene radio $r$ y altura $h = 2r$. Su volumen es $2\\pi r^3$. El volumen de la esfera es $\\frac{4}{3}\\pi r^3$. Al dividir ambos volúmenes obtenemos $6/4$, que simplificado es $3/2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v14",
+      "statement": "Una esfera de radio 13 cm es cortada por un plano a una distancia de 5 cm de su centro. ¿Cuál es el área del círculo de la sección?",
+      "context": "Preparación para el examen UNI sobre la sección de una esfera por un plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$144\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Radio sección $r = \\sqrt{13^2 - 5^2} = 12$. Área $= \\pi \\cdot 12^2 = 144\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$169\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$64\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El radio del círculo de la sección se halla mediante el teorema de Pitágoras con el radio de la esfera y la distancia al centro. $r_{sec} = \\sqrt{13^2 - 5^2} = 12$ cm. El área del círculo es $\\pi r^2 = 144\\pi$ cm².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el ángulo del sector circular que se obtiene al desarrollar la superficie lateral de un cono de radio 5 cm y área lateral $65\\pi$ cm²?",
+      "context": "Desarrollo lateral de un cono de radio 5 cm y área lateral $65\\pi$ cm².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "138.46° aprox",
+          "is_correct": true,
+          "feedback": "Correcto. $A_L = \\pi rg = 65\\pi \\Rightarrow g = 13$. Ángulo $= (r/g) \\cdot 360^\\circ = (5/13) \\cdot 360^\\circ \\approx 138.46^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "150°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero determinamos la generatriz $g$ despejándola del área lateral: $g = 65\\pi / (5\\pi) = 13$ cm. En el desarrollo plano, el ángulo central $\\theta$ se calcula mediante la relación $\\theta = (r/g) \\times 360^\\circ$. Para este caso: $(5/13) \\times 360^\\circ \\approx 138.46^\\circ$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v16",
+      "statement": "Calcule el volumen de un cono equilátero ($g = 2r$) inscrito en una esfera de radio 6 cm.",
+      "context": "Se estudia la relación de volúmenes con un cono equilátero inscrito en una esfera de radio 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$81\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. En este caso $h = 9$ y $r = 3\\sqrt{3}$. Volumen $= \\frac{1}{3}\\pi (27) (9) = 81\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$36\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$108\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un cono equilátero inscrito en una esfera de radio $R$, la altura es $1.5R$ y el radio de la base es $R\\sqrt{3}/2$. Con $R=6$, tenemos $h=9$ y $r=3\\sqrt{3}$. El volumen es $V = \\frac{1}{3}\\pi (3\\sqrt{3})^2 \\cdot 9 = \\frac{1}{3}\\pi \\cdot 27 \\cdot 9 = 81\\pi$ cm³.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v17",
+      "statement": "Un triángulo rectángulo tiene catetos de 3 cm y 4 cm. Calcule el volumen del sólido generado al hacer girar este triángulo alrededor de su hipotenusa.",
+      "context": "Rotación de un triángulo rectángulo de catetos 3 y 4 cm alrededor de su hipotenusa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$9.6\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. Hipotenusa = 5. Radio de los conos generados (altura triángulo) = 2.4. Volumen total $= \\frac{1}{3}\\pi (2.4)^2 \\cdot 5 = 9.6\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$18\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al rotar sobre la hipotenusa, se forman dos conos con una base común. El radio de esta base es la altura relativa a la hipotenusa: $h = (3 \\times 4) / 5 = 2.4$ cm. El volumen total es la suma de los volúmenes de ambos conos: $V = \\frac{1}{3}\\pi r^2 (h_1 + h_2) = \\frac{1}{3}\\pi (2.4)^2 (5) = 9.6\\pi$ cm³.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v18",
+      "statement": "Determine el área de un huso esférico de 30° en una esfera cuya superficie total es de 360 cm².",
+      "context": "Un problema sobre el área de un huso esférico en una esfera de superficie total de 360 cm².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "30 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del huso es proporcional al ángulo: $360 \\cdot (30/360) = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "90 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un huso esférico de ángulo $\\alpha$ es una fracción de la superficie total de la esfera dada por $\\alpha / 360^\\circ$. Para un ángulo de 30°, el área es $360 \\times (30 / 360) = 30$ cm².\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v19",
+      "statement": "Un círculo de radio 2 cm gira alrededor de una recta situada a una distancia de 5 cm de su centro. Calcule el volumen del sólido generado (toro).",
+      "context": "Un reto sobre el teorema de Pappus-Guldin para volúmenes de revolución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\pi^2$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$40\\pi^2$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. Por el 2do Teorema de Pappus: $V = 2\\pi d A = 2\\pi(5)(\\pi \\cdot 2^2) = 40\\pi^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$80\\pi^2$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\pi^2$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos el segundo teorema de Pappus-Guldin: $V = 2\\pi d A$, donde $d$ es la distancia del centroide de la figura al eje de rotación y $A$ es el área de la figura plana. $V = 2\\pi(5)(\\pi \\cdot 2^2) = 40\\pi^2$ cm³.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la altura mínima que debe tener un cono circular recto circunscrito a una esfera de radio $R$ para que su volumen sea el menor posible?",
+      "context": "Optimización en un cono circunscrito a una esfera de radio R.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2R$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$3R$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$4R$",
+          "is_correct": true,
+          "feedback": "Correcto. Por cálculo de optimización, el volumen del cono es mínimo cuando $h = 4R$."
+        },
+        {
+          "letter": "D",
+          "text": "$R\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al expresar el volumen del cono en términos de su altura y el radio de la esfera, y aplicar derivadas para minimizar la función, se demuestra que el valor óptimo para la altura es exactamente cuatro veces el radio de la esfera inscrita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v1",
+      "statement": "Global governance refers to the way in which global affairs are managed through international cooperation and institutions.",
+      "context": "Introduction to global systems.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Anarchy",
+          "is_correct": false,
+          "feedback": "Incorrect. Global governance aims to prevent anarchy."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Global governance",
+          "is_correct": true,
+          "feedback": "Correct. The term for managing global issues through cooperation."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Dictatorship",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. This refers to absolute rule by one."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Isolationism",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The opposite of cooperation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Global governance' is the overarching term for the collaborative management of international problems.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v2",
+      "statement": "International laws are being developed to address emerging challenges like cybersecurity and space exploration.",
+      "context": "Discussing international laws.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "are developing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are being developed",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing legislative process."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "developed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Past simple."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "have developed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current and active process of creating new international rules.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v3",
+      "statement": "If the United Nations hadn't been founded, international cooperation might have been much more difficult to achieve.",
+      "context": "Conditional about the United Nations.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "wasn't founded",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "hadn't been founded",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past condition."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "isn't founded",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "wouldn't be founded",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to speculate about how the absence of a past historical event would have changed the present.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v4",
+      "statement": "The ICC has the jurisdiction to prosecute individuals for international crimes such as genocide and war crimes.",
+      "context": "Article about the \"International Criminal Court\" (ICC).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prosecute",
+          "is_correct": true,
+          "feedback": "Correct. To prosecute means to institute legal proceedings against a person."
+        },
+        {
+          "letter": "B",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. The ICC exists to take action."
+        },
+        {
+          "letter": "C",
+          "text": "support",
+          "is_correct": false,
+          "feedback": "Incorrect. The ICC aims to punish crimes, not support perpetrators."
+        },
+        {
+          "letter": "D",
+          "text": "celebrate",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the legal function."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "explanation": "'Prosecute' is the precise legal term for the act of bringing charges against someone in a court of law.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v5",
+      "statement": "Multilateralism involves multiple countries working together on a given issue, emphasizing collective action and mutual respect.",
+      "context": "Discussion on \"multilateralism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unilateralism",
+          "is_correct": false,
+          "feedback": "Incorrect. Unilateralism is one country acting alone."
+        },
+        {
+          "letter": "B",
+          "text": "Multilateralism",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for multi-country cooperation."
+        },
+        {
+          "letter": "C",
+          "text": "Bilateralism",
+          "is_correct": false,
+          "feedback": "Incorrect. Bilateralism involves only two countries."
+        },
+        {
+          "letter": "D",
+          "text": "Isolationism",
+          "is_correct": false,
+          "feedback": "Incorrect. Avoids international cooperation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Multilateralism' is the diplomatic term for the coordinated action of three or more nations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v6",
+      "statement": "The WHO (World Health Organization) is responsible for international public health and coordinating global responses to pandemics.",
+      "context": "International aid agencies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trade",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the WTO."
+        },
+        {
+          "letter": "B",
+          "text": "health",
+          "is_correct": true,
+          "feedback": "Correct. The core focus of the WHO."
+        },
+        {
+          "letter": "C",
+          "text": "climate",
+          "is_correct": false,
+          "feedback": "Incorrect. While related, health is the primary mandate."
+        },
+        {
+          "letter": "D",
+          "text": "education",
+          "is_correct": false,
+          "feedback": "Incorrect. This is usually UNESCO's role."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Health' is the specific sector of global governance that the WHO manages.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
       "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v7",
+      "statement": "It is suggested that the UN Security Council be reformed to better reflect the modern geopolitical reality.",
+      "context": "Describing a future reform.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "be reformed",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct. Subjunctive passive after 'suggested'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "is reformed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Subjunctive uses base form 'be'."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "to be reformed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Doesn't fit 'that' clause."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "being reformed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "explanation": "The subjunctive passive 'be + past participle' is used after verbs of suggestion like 'suggest'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v8",
+      "statement": "Reaching a consensus in international negotiations can be difficult, as it requires the agreement of all participating nations.",
+      "context": "Text on \"consensus\".",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. Negotiations aim to resolve conflict."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "consensus",
+          "is_correct": true,
+          "feedback": "Correct. A general agreement."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "division",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Consensus overcomes division."
         },
         {
           "letter": "D",
+          "text": "rumor",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Consensus' is the term for a broad agreement that is sought in international diplomatic meetings.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v9",
+      "statement": "Diplomats had been working on the treaty for months before they finally reached a breakthrough.",
+      "context": "Describing a long-term diplomatic effort.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were working",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been working",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration leading up to a past event."
+        },
+        {
+          "letter": "C",
+          "text": "have been working",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "work",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous highlights the extended and persistent effort preceding the final result.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v10",
+      "statement": "Critics argue that international institutions are often slowed down by excessive bureaucracy and complex decision-making processes.",
+      "context": "Critique of \"bureaucracy\" in global institutions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. Bureaucracy usually slows things down."
+        },
+        {
+          "letter": "B",
+          "text": "bureaucracy",
+          "is_correct": true,
+          "feedback": "Correct. A system of government in which most decisions are made by state officials rather than by elected representatives."
+        },
+        {
+          "letter": "C",
+          "text": "efficiency",
+          "is_correct": false,
+          "feedback": "Incorrect. Bureaucracy is often seen as the opposite of efficiency."
+        },
+        {
+          "letter": "D",
+          "text": "creativity",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Bureaucracy' describes the complex administrative systems that are often blamed for delays in institutional action.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v11",
+      "statement": "Sanctions are commercial and financial penalties applied by one or more countries against a self-governing state, group, or individual.",
+      "context": "Definition of \"sanctions\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gifts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sanctions",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for international penalties."
+        },
+        {
+          "letter": "C",
+          "text": "Awards",
+          "is_correct": false,
+          "feedback": "Incorrect. Sanctions are punishments."
+        },
+        {
+          "letter": "D",
+          "text": "Subsidies",
+          "is_correct": false,
+          "feedback": "Incorrect. Financial support."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sanctions' is the standard geopolitical term for economic or political penalties used to influence a state's behavior.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v12",
+      "statement": "By 2040, a more integrated system of global environmental governance will have been established.",
+      "context": "Describing a future global goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will establish",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been established",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "is established",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "D",
+          "text": "establishing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the development of the system will be a finished fact by the stated date.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v13",
+      "statement": "The legitimacy of international institutions depends on their ability to represent the interests of all nations fairly.",
+      "context": "Discussing \"legitimacy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "legitimacy",
+          "is_correct": true,
+          "feedback": "Correct. Legitimacy is the popular acceptance of an authority."
+        },
+        {
+          "letter": "B",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Authority is not just based on money."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative for institutions."
+        },
+        {
+          "letter": "D",
+          "text": "secrecy",
+          "is_correct": false,
+          "feedback": "Incorrect. Transparency usually increases legitimacy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Legitimacy' is the formal term for the perceived right to rule or exercise authority.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v14",
+      "statement": "If the pandemic hadn't been handled through international cooperation, the death toll would have been even higher.",
+      "context": "Conditional about global health.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't handled",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been handled",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional passive for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "hasn't been handled",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "isn't handled",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional passive allows for the evaluation of the effectiveness of a past collaborative effort.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v15",
+      "statement": "The author concludes that international norms can be as powerful as formal laws in influencing state behavior.",
+      "context": "Conclusion of an essay on the \"power of norms\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unimportant",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "norms",
+          "is_correct": true,
+          "feedback": "Correct. International norms are informal standard of behavior."
+        },
+        {
+          "letter": "C",
+          "text": "rumors",
+          "is_correct": false,
+          "feedback": "Incorrect. Informal but not standard."
+        },
+        {
+          "letter": "D",
+          "text": "slogans",
+          "is_correct": false,
+          "feedback": "Incorrect. Marketing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Norms' correctly identifies the informal but powerful expectations that guide state conduct in the international arena.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v16",
+      "statement": "A special envoy is a diplomatic representative who is sent by a government or organization on a specific mission.",
+      "context": "Describing an \"envoy\".",
+      "options": [
+        {
+          "letter": "A",
           "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "envoy",
+          "is_correct": true,
+          "feedback": "Correct. Formal term for a mission-specific representative."
+        },
+        {
+          "letter": "C",
+          "text": "spy",
+          "is_correct": false,
+          "feedback": "Incorrect. Secret."
+        },
+        {
+          "letter": "D",
+          "text": "refugee",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "'Envoy' is the specific diplomatic title for a representative sent for a particular task.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v17",
+      "statement": "I wish that the world's major powers would cooperate more on climate issues.",
+      "context": "Expressing a hope for global unity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cooperate",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish' for future change needs 'would'."
+        },
+        {
+          "letter": "B",
+          "text": "would cooperate",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a desired change in others' behavior."
+        },
+        {
+          "letter": "C",
+          "text": "cooperated",
+          "is_correct": false,
+          "feedback": "Incorrect. Present state desire."
+        },
+        {
+          "letter": "D",
+          "text": "have cooperated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past regret."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Wish + would' is used to express a desire for an improvement in how others act.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v18",
+      "statement": "Global public goods, such as clean air and scientific knowledge, benefit all of humanity and require international effort to protect.",
+      "context": "Text about \"global public goods\".",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private goods are for individuals."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
+          "text": "public",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Public goods are non-excludable and non-rivalrous."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "commercial",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Focuses on profit."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "expensive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. While they have value, 'public' is the economic term."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Public goods' is the economic term for resources that are available to all and not used up by one person.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v19",
+      "statement": "The Secretary-General announced that the organization would be doubling its efforts to combat poverty.",
+      "context": "Reporting a call for action.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "would be",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'will be' to 'would be' in reported speech."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "have been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will' to 'would' when reporting a future intention from a past perspective.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-v20",
+      "statement": "Ultimately, global governance is a necessary framework for maintaining international order and fostering human progress.",
+      "context": "Final thought on global stability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "framework",
+          "is_correct": true,
+          "feedback": "Correct. A framework is a basic structure underlying a system."
+        },
+        {
+          "letter": "B",
+          "text": "distraction",
+          "is_correct": false,
+          "feedback": "Incorrect. Necessary implies it's essential, not a distraction."
+        },
+        {
+          "letter": "C",
+          "text": "source of conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. It aims to reduce conflict."
+        },
+        {
+          "letter": "D",
+          "text": "barrier to trade",
+          "is_correct": false,
+          "feedback": "Incorrect. It often facilitates trade."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Framework' correctly identifies the structural role of global governance in supporting international stability.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W37-global-governance-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

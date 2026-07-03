@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.424Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina al par de ángulos cuya suma es exactamente 90°?",
+      "context": "Un estudiante de secundaria en Lima repasa las definiciones básicas de los tipos de ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulos suplementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos suplementarios suman 180°."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulos complementarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, dos ángulos son complementarios si la suma de sus medidas es un ángulo recto (90°)."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulos conjugados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos conjugados suelen sumar 360° o referirse a posiciones entre paralelas."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulos adyacentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adyacente se refiere a la posición (comparten un lado), no necesariamente a la suma de sus medidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clasificación de los ángulos según la suma de sus medidas es fundamental en geometría. El término \"complemento\" se reserva para la diferencia con 90°, y \"suplemento\" para la diferencia con 180°.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v2",
+      "statement": "Si un ángulo mide 35°, ¿cuál es el valor de su ángulo suplementario?",
+      "context": "Un carpintero en Villa El Salvador necesita realizar un corte preciso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el ángulo complementario (90 - 35)."
+        },
+        {
+          "letter": "B",
+          "text": "145°",
+          "is_correct": true,
+          "feedback": "Correcto. El suplemento se halla restando el ángulo de 180°: $180 - 35 = 145$."
+        },
+        {
+          "letter": "C",
+          "text": "155°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó mal la resta aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "65°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que no guarda relación con la definición de suplemento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suplemento de un ángulo $x$ se define como $180° - x$. Aplicando la operación $180° - 35°$ obtenemos 145°.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v3",
+      "statement": "Si dos rectas paralelas son cortadas por una secante, ¿cómo son entre sí los ángulos alternos internos?",
+      "context": "Ángulos entre rectas paralelas cortadas por una transversal, un tema recurrente en los exámenes de la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suman necesariamente 90°."
+        },
+        {
+          "letter": "B",
+          "text": "Congruentes (tienen la misma medida).",
+          "is_correct": true,
+          "feedback": "Correcto. Según el teorema fundamental de las paralelas, los ángulos alternos internos son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Suplementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo serían suplementarios si midieran 90° cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "Perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las medidas no tienen por qué formar 90°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos alternos internos se encuentran en lados opuestos de la secante y dentro de la región limitada por las paralelas. Por propiedad geométrica, sus medidas son iguales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v4",
+      "statement": "Dos ángulos son complementarios y uno de ellos es el doble del otro. ¿Cuánto mide el ángulo mayor?",
+      "context": "Resolución de ecuaciones con ángulos en un colegio de Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el ángulo menor."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "is_correct": true,
+          "feedback": "Correcto. $x + 2x = 90 \\Rightarrow 3x = 90 \\Rightarrow x = 30$. El mayor es $2x = 60$."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso los ángulos serían iguales."
+        },
+        {
+          "letter": "D",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supera el límite de la suma de ángulos complementarios (90°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la ecuación basada en la definición de complementarios: la suma es 90°. Si uno es $x$, el otro es $2x$. La solución de $3x = 90$ nos da los valores de ambos ángulos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v5",
+      "statement": "Se tienen tres ángulos consecutivos alrededor de un punto en un mismo lado de una recta (formando un ángulo llano). Si sus medidas son $x$, $2x$ y $3x$, halle el valor del menor ángulo.",
+      "context": "Un diseño arquitectónico inspirado en las líneas de Nazca requiere precisión en los ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la suma total de los ángulos sobre una recta."
+        },
+        {
+          "letter": "B",
+          "text": "30°",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es 180°. $x + 2x + 3x = 180 \\Rightarrow 6x = 180 \\Rightarrow x = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el ángulo intermedio."
+        },
+        {
+          "letter": "D",
+          "text": "15°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total con este valor no llegaría a 180°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos que forman una recta (ángulo llano) siempre suman 180°. Resolvemos la ecuación de primer grado resultante de la suma de las tres expresiones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v6",
+      "statement": "En un ángulo $AOB$ de 80°, se traza la bisectriz $OM$. Luego, se traza la bisectriz $ON$ del ángulo $MOB$. ¿Cuánto mide el ángulo $AON$?",
+      "context": "Propiedades de la bisectriz de un ángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la segunda partición al primer sector."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "is_correct": true,
+          "feedback": "Correcto. $OM$ divide al ángulo en dos de 40°. $MOB$ mide 40°. Su bisectriz $ON$ lo divide en dos de 20°. $AON = AOM + MON = 40 + 20 = 60$."
+        },
+        {
+          "letter": "C",
+          "text": "20°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la medida de la última partición efectuada."
+        },
+        {
+          "letter": "D",
+          "text": "70°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supera la medida lógica de la suma de los sectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La bisectriz divide a un ángulo en dos partes iguales. Realizamos el cálculo por etapas: primero dividimos el ángulo total, y luego dividimos uno de los resultados obtenidos, sumando finalmente las partes correspondientes al ángulo solicitado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v7",
+      "statement": "Dos rectas se cortan formando ángulos opuestos por el vértice. Si uno de ellos mide $5x - 10$ y el otro mide $2x + 20$, ¿cuál es el valor de $x$?",
+      "context": "Ángulos opuestos por el vértice en un cruce de avenidas en Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al agrupar los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Los ángulos opuestos por el vértice son iguales. $5x - 10 = 2x + 20 \\Rightarrow 3x = 30 \\Rightarrow x = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir, daría $65$ y $50$, que no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad fundamental de los ángulos opuestos por el vértice es que son congruentes. Igualamos las expresiones dadas y resolvemos la ecuación lineal resultante.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v8",
+      "statement": "Halle el valor de la medida de un ángulo si se sabe que su suplemento es el triple de su complemento.",
+      "context": "Cálculo del suplemento del complemento, un ejercicio clásico de lógica geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suplemento sería 150 y el complemento 60; 150 no es el triple de 60."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. $180 - x = 3(90 - x) \\Rightarrow 180 - x = 270 - 3x \\Rightarrow 2x = 90 \\Rightarrow x = 45$."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suplemento 120 no es el triple del complemento 30."
+        },
+        {
+          "letter": "D",
+          "text": "15°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad planteada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Traducción literal del enunciado a lenguaje algebraico: $S(x) = 3 C(x)$. Sustituimos las fórmulas $180 - x$ y $90 - x$, y resolvemos para $x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v9",
+      "statement": "En una gráfica de paralelas $L_1 // L_2$, se observa que un ángulo interno es $x + 40$ y su correspondiente ángulo conjugado interno es $2x + 20$. Determine el valor de $x$.",
+      "context": "Un sistema de poleas en una fábrica del Callao donde los cables forman ángulos específicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualó los ángulos en lugar de sumarlos."
+        },
+        {
+          "letter": "B",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. Los ángulos conjugados internos entre paralelas son suplementarios. $(x + 40) + (2x + 20) = 180 \\Rightarrow 3x + 60 = 180 \\Rightarrow 3x = 120 \\Rightarrow x = 40$."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir, la suma excedería los 180°."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación de la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos conjugados internos (del mismo lado de la secante) entre paralelas siempre suman 180°. Planteamos la suma e igualamos a 180.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v10",
+      "statement": "Si un ángulo mide 42° 35', ¿cuánto mide su ángulo complementario expresado en el mismo sistema?",
+      "context": "Operaciones con sistemas sexagesimales de ángulos (grados y minutos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48° 25'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que al restar de 90°, debe \"pedir prestado\" un grado convirtiéndolo en 60 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "47° 25'",
+          "is_correct": true,
+          "feedback": "Correcto. $90° 00' - 42° 35' = 89° 60' - 42° 35' = 47° 25'$."
+        },
+        {
+          "letter": "C",
+          "text": "47° 35'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de los minutos."
+        },
+        {
+          "letter": "D",
+          "text": "48° 35'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error tanto en grados como en minutos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para restar ángulos en grados y minutos, transformamos un grado en 60 minutos si la resta lo requiere. 90° equivale a 89° y 60 minutos. Realizamos la resta por separado para cada unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v11",
+      "statement": "Alrededor de un punto se encuentran 5 ángulos cuyas medidas son proporcionales a los números 1, 2, 3, 4 y 5. Determine la medida del ángulo de mayor valor.",
+      "context": "Un problema de geometría plana sobre ángulos consecutivos en una estrella decorativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor si fueran proporcionales a una constante menor."
+        },
+        {
+          "letter": "B",
+          "text": "120°",
+          "is_correct": true,
+          "feedback": "Correcto. La suma alrededor de un punto es 360°. $k + 2k + 3k + 4k + 5k = 360 \\Rightarrow 15k = 360 \\Rightarrow k = 24$. El mayor es $5k = 120$."
+        },
+        {
+          "letter": "C",
+          "text": "100°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la constante de proporcionalidad calculada."
+        },
+        {
+          "letter": "D",
+          "text": "150°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excedería la suma total permitida para el círculo completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos una constante de proporcionalidad $k$ para representar los ángulos. La suma de ángulos alrededor de un punto (un giro completo) es 360°. Resolvemos para $k$ y multiplicamos por el factor más alto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v12",
+      "statement": "Entre dos rectas paralelas se traza una línea quebrada. Los ángulos que apuntan a la derecha miden 20° y $x$. Los ángulos que apuntan a la izquierda miden 30° y 40°. Determine el valor de $x$.",
+      "context": "Uso de la propiedad del \"serrucho\" en paralelas, típica de la preparación para la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el sentido de la igualdad de la propiedad."
+        },
+        {
+          "letter": "B",
+          "text": "50°",
+          "is_correct": true,
+          "feedback": "Correcto. Propiedad del serrucho: Suma de ángulos a la derecha = Suma de ángulos a la izquierda. $20 + x = 30 + 40 \\Rightarrow 20 + x = 70 \\Rightarrow x = 50$."
+        },
+        {
+          "letter": "C",
+          "text": "70°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el ángulo ya conocido del lado derecho."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor físicamente imposible para el esquema descrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad del serrucho para rectas paralelas establece que la suma de las medidas de los ángulos agudos formados hacia un lado de la línea quebrada es igual a la suma de los que apuntan hacia el otro lado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la medida en radianes de un ángulo que es igual a la mitad de su propio suplemento?",
+      "context": "Un ejercicio de conversión entre sistemas de medida angular (Sexagesimal vs. Radial).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un ángulo de 90°, que es igual a su suplemento, no a la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/3$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = (180 - x) / 2 \\Rightarrow 2x = 180 - x \\Rightarrow 3x = 180 \\Rightarrow x = 60°$. En radianes: $60 \\cdot (\\pi / 180) = \\pi/3$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 30°, que es la sexta parte del suplemento de 150."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este ángulo (120°) es el doble de su suplemento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero resolvemos el problema en el sistema sexagesimal para facilitar el cálculo. Una vez obtenido el valor de 60°, aplicamos el factor de conversión $\\pi / 180$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el ángulo menor que forman las manecillas de un reloj analógico a las 3:40?",
+      "context": "Un problema de relojes (ángulos entre manecillas) en un examen psicotécnico de la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el ángulo si la manecilla de la hora estuviera fija en el 3."
+        },
+        {
+          "letter": "B",
+          "text": "130°",
+          "is_correct": true,
+          "feedback": "Correcto. Fórmula: $\\theta = |30H - 5.5M|$. $\\theta = |30(3) - 5.5(40)| = |90 - 220| = |-130| = 130$."
+        },
+        {
+          "letter": "C",
+          "text": "150°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular el desplazamiento de la manecilla de las horas."
+        },
+        {
+          "letter": "D",
+          "text": "110°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó mal la resta en la fórmula de ángulos horarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula para el ángulo entre manecillas: $\\theta = |30H - \\frac{11}{2}M|$. Donde $H$ son las horas y $M$ los minutos. Esto contempla el pequeño avance de la manecilla de las horas mientras los minutos transcurren.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v15",
+      "statement": "Se tienen dos ángulos adyacentes $AOB$ y $BOC$ que suman 110°. ¿Cuál es la medida del ángulo formado por sus bisectrices?",
+      "context": "Geometría de posición: ángulos entre las bisectrices de ángulos adyacentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo entre bisectrices siempre es menor que la suma total."
+        },
+        {
+          "letter": "B",
+          "text": "55°",
+          "is_correct": true,
+          "feedback": "Correcto. Sean $2\\alpha$ y $2\\beta$ los ángulos. $2\\alpha + 2\\beta = 110 \\Rightarrow \\alpha + \\beta = 55$. El ángulo entre bisectrices es justamente $\\alpha + \\beta$."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la mitad de 110."
+        },
+        {
+          "letter": "D",
+          "text": "27.5°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la suma dos veces por 2 de manera errónea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por teorema, el ángulo formado por las bisectrices de dos ángulos adyacentes es igual a la mitad de la suma de dichos ángulos. Es una propiedad de bisección y aditividad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v16",
+      "statement": "Si $S$ y $C$ son el número de grados sexagesimales y centesimales de un mismo ángulo, respectivamente, y se cumple que $C - S = 4$, ¿cuánto mide el ángulo en radianes?",
+      "context": "Un reto de trigonometría y geometría sobre ángulos en sistemas diferentes, nivel pre-universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor si la diferencia fuera 2."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/5$",
+          "is_correct": true,
+          "feedback": "Correcto. Sabemos que $S = 9k$ y $C = 10k$. Entonces $10k - 9k = 4 \\Rightarrow k = 4$. El ángulo en sexagesimales es $9(4) = 36°$. En radianes: $36 \\cdot (\\pi/180) = \\pi/5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor muy pequeño para la relación dada."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al doble del valor correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la relación fundamental entre sistemas: $S/180 = C/200 = R/\\pi$, que se simplifica a $S/9 = C/10 = k$. Resolvemos para $k$ usando la diferencia dada y convertimos al sistema radial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la medida de un ángulo tal que la diferencia entre su suplemento y su complemento es igual al doble de la medida de dicho ángulo?",
+      "context": "Ángulos interiores y exteriores en polígonos complejos, nivel admisión UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble sería 180, pero la diferencia $S-C$ es siempre 90."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. $(180 - x) - (90 - x) = 2x \\Rightarrow 90 = 2x \\Rightarrow x = 45$."
+        },
+        {
+          "letter": "C",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la condición del doble."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia $S-C$ es constante e independiente de $x$, pero aquí se iguala a una función de $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Notamos que la expresión \"suplemento menos complemento\" siempre es igual a 90° para cualquier ángulo (ya que $(180-x)-(90-x) = 90$). Planteamos entonces que $90 = 2x$, de donde $x = 45$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v18",
+      "statement": "Se tienen los ángulos consecutivos $AOB, BOC, COD$. Si las bisectrices de $AOB$ y $COD$ son perpendiculares entre sí, y la medida del ángulo $BOC$ es 40°, ¿cuánto mide el ángulo $AOD$?",
+      "context": "Problema de ángulos entre bisectrices con condiciones de perpendicularidad, nivel avanzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "130°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró que las bisectrices incluyen solo la mitad de los ángulos extremos."
+        },
+        {
+          "letter": "B",
+          "text": "140°",
+          "is_correct": true,
+          "feedback": "Correcto. Sean $2\\alpha = AOB$ y $2\\gamma = COD$. El ángulo entre bisectrices es $\\alpha + 40 + \\gamma = 90 \\Rightarrow \\alpha + \\gamma = 50$. El ángulo total $AOD = 2\\alpha + 40 + 2\\gamma = 2(\\alpha + \\gamma) + 40 = 2(50) + 40 = 140$."
+        },
+        {
+          "letter": "C",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto implicaría que los ángulos extremos son mucho mayores."
+        },
+        {
+          "letter": "D",
+          "text": "150°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la propiedad de suma de sectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definimos las medidas de los ángulos extremos como pares ($2\\alpha$ y $2\\gamma$) para facilitar el trabajo con bisectrices. Planteamos que el ángulo entre las bisectrices es la suma de las mitades de los extremos más el ángulo central común. Despejamos la suma de las mitades y duplicamos para hallar el total.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v19",
+      "statement": "Se tienen $n$ ángulos consecutivos alrededor de un punto que están en progresión aritmética. Si el menor mide 10° y el mayor mide 50°, halle el valor de $n$.",
+      "context": "Análisis de la relación entre el número de ángulos y la suma total en una progresión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma excedería los 360°."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Suma $= (10 + 50) \\cdot n / 2 = 360 \\Rightarrow 60 \\cdot n = 720 \\Rightarrow n = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma sería de 270°, insuficiente para rodear el punto."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma superaría el límite de un giro completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la fórmula de la suma de una progresión aritmética aplicada al contexto de ángulos que completan un giro (360°). Conocemos los extremos, por lo que despejamos directamente el número de términos $n$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v20",
+      "statement": "En un plano, los vectores $\\vec{A}$ y $\\vec{B}$ forman un ángulo $\\theta$. Si se sabe que la suma de sus componentes $x$ es máxima cuando se rota el sistema de coordenadas 30° en sentido antihorario, ¿qué relación existe entre sus direcciones originales? (Problema conceptual de optimización angular).",
+      "context": "Desafío avanzado de geometría analítica y trigonometría sobre ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vectores son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perpendicularidad no garantiza la maximización de una componente específica tras rotación."
+        },
+        {
+          "letter": "B",
+          "text": "La bisectriz del ángulo entre ellos forma 60° con el eje $X$ original.",
+          "is_correct": true,
+          "feedback": "Correcto. Para maximizar la componente $x$ total tras rotar 30°, la resultante debe quedar sobre el nuevo eje $X$. Por lo tanto, la resultante original debía estar a 30° del eje $X$. Si los vectores tienen igual magnitud, su bisectriz coincide con la resultante. (Nota: Asumiendo magnitudes iguales para la simplicidad del reto)."
+        },
+        {
+          "letter": "C",
+          "text": "Los vectores son paralelos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No permitiría la variación analizada."
+        },
+        {
+          "letter": "D",
+          "text": "El ángulo $\\theta$ debe ser de 120°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del ángulo no es la clave, sino la orientación de la resultante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema evalúa la comprensión de la rotación de coordenadas y la proyección de vectores. La componente $x$ se maximiza cuando el vector resultante se alinea con el eje horizontal. Si la rotación óptima es de 30°, significa que la dirección de la suma vectorial estaba originalmente a 30° de la horizontal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

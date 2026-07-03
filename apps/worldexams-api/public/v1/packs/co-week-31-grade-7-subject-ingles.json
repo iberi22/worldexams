@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-31-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.903Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-001-v1",
+      "statement": "Which modal verb is used to express a strong personal obligation or a rule?",
+      "context": "Identifying the modal for strong obligation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for ability or possibility."
+        },
+        {
+          "letter": "B",
+          "text": "Must",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" expresses strong obligation."
+        },
+        {
+          "letter": "C",
+          "text": "Might",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for low probability."
+        },
+        {
+          "letter": "D",
+          "text": "Should",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for advice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic function of the modal verb \"must\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-002-v1",
+      "statement": "What is the correct third-person singular form of \"have to\"?",
+      "context": "Using \"have to\" for external obligations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haves to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" is irregular."
+        },
+        {
+          "letter": "B",
+          "text": "Has to",
+          "is_correct": true,
+          "feedback": "Correct! \"He/She/It\" uses \"has to\"."
+        },
+        {
+          "letter": "C",
+          "text": "Must to",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use \"to\" after \"must\"."
+        },
+        {
+          "letter": "D",
+          "text": "Having to",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the correct conjugation of \"have to\" for the third person singular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-003-v1",
+      "statement": "\"In our school, all students ________ wear a uniform.\"",
+      "context": "Expressing a school rule in Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Uniforms are usually an obligation, not an option."
+        },
+        {
+          "letter": "B",
+          "text": "have to",
+          "is_correct": true,
+          "feedback": "Correct! School rules are external obligations described by \"have to\"."
+        },
+        {
+          "letter": "C",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean it's not necessary, which contradicts common school rules."
+        },
+        {
+          "letter": "D",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for permission."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the use of \"have to\" for external rules and regulations.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-004-v1",
+      "statement": "\"Tomorrow is a holiday! We ________ wake up early.\"",
+      "context": "Expressing a lack of obligation (unnecessary action).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it is forbidden. It's just not necessary."
+        },
+        {
+          "letter": "B",
+          "text": "don't have to",
+          "is_correct": true,
+          "feedback": "Correct! On a holiday, it is not necessary to wake up early."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. It's not an obligation on a holiday."
+        },
+        {
+          "letter": "D",
+          "text": "have to",
+          "is_correct": false,
+          "feedback": "Incorrect. Same as above."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the meaning of \"don't have to\" as a lack of necessity.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-005-v1",
+      "statement": "\"You ________ talk during the exam. It is forbidden!\"",
+      "context": "Identifying a prohibition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it's optional. Talking is forbidden."
+        },
+        {
+          "letter": "B",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Mustn't\" expresses prohibition."
+        },
+        {
+          "letter": "C",
+          "text": "have to",
+          "is_correct": false,
+          "feedback": "Incorrect. You are not obligated to talk."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. You don't have permission."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the distinction between \"mustn't\" (prohibition) and \"don't have to\" (lack of necessity).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-006-v1",
+      "statement": "According to the rules, what is true about the computers?",
+      "context": "A library rule list.\n\"Library Rules: 1. You must be quiet. 2. You have to return books on time. 3. You don't have to pay for using the computers; they are free.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must pay a small fee.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are \"free\"."
+        },
+        {
+          "letter": "B",
+          "text": "It is not necessary to pay for them.",
+          "is_correct": true,
+          "feedback": "Correct! \"Don't have to pay\" means it is free."
+        },
+        {
+          "letter": "C",
+          "text": "You mustn't use them.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are available for use."
+        },
+        {
+          "letter": "D",
+          "text": "You have to be quiet only when using them.",
+          "is_correct": false,
+          "feedback": "Incorrect. You must be quiet in the whole library."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify a lack of obligation in a factual text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-007-v1",
+      "statement": "\"You ________ clean your room before you go out with your friends.\"",
+      "context": "A parent talking to a child about chores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! Expresses a strong personal or parental obligation."
+        },
+        {
+          "letter": "C",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the condition for going out."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing auxiliary."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the use of \"must\" to express a specific condition or obligation in a family context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-008-v1",
+      "statement": "Choose the sentence that describes an obligation from a formal law or authority.",
+      "context": "Analyzing the difference between \"must\" and \"have to\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I must remember to call my friend.",
+          "is_correct": false,
+          "feedback": "Incorrect. Personal obligation."
+        },
+        {
+          "letter": "B",
+          "text": "All drivers have to stop at the red light.",
+          "is_correct": true,
+          "feedback": "Correct! This is a formal legal rule (external obligation)."
+        },
+        {
+          "letter": "C",
+          "text": "I think I must eat more fruit.",
+          "is_correct": false,
+          "feedback": "Incorrect. Personal feeling."
+        },
+        {
+          "letter": "D",
+          "text": "You don't have to come if you are busy.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a lack of obligation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the nuance between internal (must) and external (have to) obligations.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-009-v1",
+      "statement": "Which action is mandatory at a specific moment?",
+      "context": "Analyzing instructions for an airplane trip.\n\"Passengers must fasten their seatbelts during takeoff. They don't have to keep them on during the whole flight, but it is recommended.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keeping the seatbelt on for the whole flight.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is \"recommended\", not mandatory."
+        },
+        {
+          "letter": "B",
+          "text": "Fastening the seatbelt during takeoff.",
+          "is_correct": true,
+          "feedback": "Correct! The text says they \"must\" do it during takeoff."
+        },
+        {
+          "letter": "C",
+          "text": "Talking to other passengers.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "Taking off the seatbelt immediately.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned as a requirement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes text to distinguish between mandatory requirements and recommendations.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W31-modals-obligation-010-v1",
+      "statement": "What is the author's argument regarding freedom and obligation?",
+      "context": "Evaluating an ethical statement.\n\"Freedom doesn't mean you can do everything. You must respect the rights of others, and you have to follow the rules of your community to live in peace.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Freedom is the absence of any obligation.",
+          "is_correct": false,
+          "feedback": "Incorrect. The author says freedom \"doesn't mean\" that."
+        },
+        {
+          "letter": "B",
+          "text": "True freedom includes following essential rules and respecting others.",
+          "is_correct": true,
+          "feedback": "Correct! The author links freedom with \"must respect\" and \"have to follow rules\"."
+        },
+        {
+          "letter": "C",
+          "text": "Rules are only for people who are not free.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the author's point."
+        },
+        {
+          "letter": "D",
+          "text": "Community rules are not important for peace.",
+          "is_correct": false,
+          "feedback": "Incorrect. The author says you follow them \"to live in peace\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the philosophical relationship between freedom and obligation as presented in the text.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W31-modals-obligation-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

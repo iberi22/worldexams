@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-12-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.151Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la interpretación geométrica fundamental de la derivada de una función en un punto dado?",
+      "context": "Un estudiante de ingeniería en la Escuela Politécnica del Litoral (ESPOL) estudia la interpretación geométrica del cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área bajo la curva en ese punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área bajo la curva se asocia con la integral."
+        },
+        {
+          "letter": "B",
+          "text": "La pendiente de la recta tangente a la curva en ese punto.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada representa la tasa de cambio instantánea, que gráficamente es la pendiente de la tangente."
+        },
+        {
+          "letter": "C",
+          "text": "La intersección de la función con el eje de las ordenadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el valor de $f(0)$."
+        },
+        {
+          "letter": "D",
+          "text": "La curvatura o concavidad de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concavidad se relaciona con la segunda derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada es el límite de la pendiente de las rectas secantes, lo que resulta en la pendiente de la recta tangente en el punto de tangencia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes expresiones representa la definición formal de la derivada $f'(x)$?",
+      "context": "Definición formal de la derivada mediante límites.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lim_{h \\to 0} \\frac{f(x+h) + f(x)}{h}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador debe ser una resta para representar el cambio."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición de la derivada como el límite del cociente incremental."
+        },
+        {
+          "letter": "C",
+          "text": "$\\lim_{x \\to 0} \\frac{f(x) - f(a)}{x - a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite debería ser cuando $x \\to a$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{f(x) - f(a)}{x - a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin el límite, es solo la pendiente de una recta secante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada se define como el límite del cociente de la diferencia (cambio en $y$ sobre cambio en $x$) cuando el incremento de $x$ tiende a cero.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v3",
+      "statement": "Dada la función $f(x) = x^5$, ¿cuál es su derivada $f'(x)$?",
+      "context": "Aplicación de la regla de la potencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó 1 al exponente en lugar de restarlo."
+        },
+        {
+          "letter": "B",
+          "text": "$5x^4$",
+          "is_correct": true,
+          "feedback": "Correcto. Según la regla de la potencia $\\frac{d}{dx}x^n = nx^{n-1}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el exponente original."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió los valores de la base y el exponente en la regla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la potencia establece que para derivar $x^n$, se baja el exponente como coeficiente y se disminuye el grado en una unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v4",
+      "statement": "Si $f(x) = \\pi^2$, ¿cuál es el valor de $f'(x)$?",
+      "context": "Derivada de una función constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de cualquier constante es cero, ya que no hay cambio en su valor."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la regla de la potencia a una constante como si fuera una variable."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no mantiene el valor de la base constante."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error conceptual sobre la tasa de cambio de las constantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que una función constante representa una línea horizontal, su pendiente (derivada) es siempre cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función que representa la pendiente de la tangente en cualquier punto del arco?",
+      "context": "Un arquitecto en Cuenca diseña un arco parabólico cuya altura sigue la función $h(x) = -2x^2 + 8x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h'(x) = -4x^2 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar 1 al exponente en el primer término."
+        },
+        {
+          "letter": "B",
+          "text": "$h'(x) = -4x + 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivando término a término: $-2(2x^{2-1}) + 8(1x^{1-1}) = -4x + 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$h'(x) = -2x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó el coeficiente por el exponente original."
+        },
+        {
+          "letter": "D",
+          "text": "$h'(x) = -4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la derivada del término lineal $8x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la linealidad de la derivada (regla de la suma y del múltiplo constante) para polinomios sencillos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v6",
+      "statement": "Halle la derivada de $f(x) = \\frac{3}{x^2}$.",
+      "context": "Derivada de una función con potencias negativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deriva el denominador directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{3}{x^3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el exponente -2."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\frac{6}{x^3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Reescrito como $3x^{-2}$, la derivada es $3(-2)x^{-3} = -6x^{-3} = -6/x^3$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{6}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo y de exponente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para derivar funciones recíprocas, es conveniente expresarlas como potencias con exponentes negativos y aplicar la regla general.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v7",
+      "statement": "Si $f(x) = (x^2 + 1)(x - 3)$, calcule $f'(x)$.",
+      "context": "Aplicación de la regla del producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo derivó el primer factor."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 - 6x + 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Expandiendo: $x^3 - 3x^2 + x - 3$. Derivando: $3x^2 - 6x + 1$. También se obtiene por regla del producto: $(2x)(x-3) + (x^2+1)(1)$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 6x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la expansión o aplicación de la regla."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 - 6x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del término lineal $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada de un producto no es el producto de las derivadas. Se debe aplicar la regla del producto: $(uv)' = u'v + uv'$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v8",
+      "statement": "Halle la derivada de $y = \\frac{x}{x + 1}$.",
+      "context": "Aplicación de la regla del cociente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se simplifican las derivadas del numerador y denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{(x + 1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla del cociente: $\\frac{(1)(x+1) - (x)(1)}{(x+1)^2} = \\frac{x+1-x}{(x+1)^2} = \\frac{1}{(x+1)^2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2x + 1}{(x + 1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la fórmula del numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{x^2 + 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador debe ser el cuadrado del original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del cociente es esencial para funciones racionales: $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v9",
+      "statement": "¿En qué tiempo $t$ la velocidad del vehículo es cero?",
+      "context": "Un vehículo de transporte público en Quito se desplaza con una posición dada por $s(t) = t^3 - 6t^2 + 9t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 2$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor donde la aceleración es cero, no la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 1$ s y $t = 3$ s",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad $v(t) = s'(t) = 3t^2 - 12t + 9$. Igualando a cero: $3(t^2 - 4t + 3) = 0 \\Rightarrow 3(t-1)(t-3) = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 3$ s solamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió una de las raíces de la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 0$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t=0$ la velocidad es 9 m/s."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La velocidad es la primera derivada de la función de posición respecto al tiempo. Los puntos donde la velocidad es cero se llaman puntos de reposo instantáneo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la derivada de $f(x) = \\sqrt{x}$?",
+      "context": "Derivada de funciones con raíces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{\\sqrt{x}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2\\sqrt{x}}$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^{1/2}$ derivado es $\\frac{1}{2}x^{-1/2} = \\frac{1}{2\\sqrt{x}}$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al manejar la potencia fraccionaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las raíces se tratan como potencias fraccionarias para aplicar la regla de la potencia de manera consistente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v11",
+      "statement": "Halle la ecuación de la recta tangente a $f(x) = x^2 + 3x$ en el punto donde $x = 1$.",
+      "context": "Encontrar la ecuación de la recta tangente a una curva en el sector financiero de Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 5x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Punto de intersección con el eje y calculado erróneamente."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 5x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(1) = 4$. Pendiente $f'(x) = 2x + 3 \\Rightarrow f'(1) = 5$. Recta: $y - 4 = 5(x - 1) \\Rightarrow y = 5x - 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó mal la derivada evaluada."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 5x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación de la recta tangente requiere el valor de la función (punto) y el valor de la derivada (pendiente) en $x=c$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v12",
+      "statement": "Dada la función de posición $s(t) = 2t^3 - 5t^2 + 4$, calcule la aceleración en $t = 2$.",
+      "context": "Segunda derivada y aceleración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor de la velocidad, no de la aceleración."
+        },
+        {
+          "letter": "B",
+          "text": "12 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación de la segunda derivada."
+        },
+        {
+          "letter": "C",
+          "text": "14 m/s²",
+          "is_correct": true,
+          "feedback": "Correcto. $v(t) = 6t^2 - 10t$; $a(t) = 12t - 10$. En $t=2$: $12(2) - 10 = 14$."
+        },
+        {
+          "letter": "D",
+          "text": "24 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el término constante de la aceleración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aceleración instantánea es la segunda derivada de la posición con respecto al tiempo, o la primera derivada de la velocidad.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v13",
+      "statement": "¿En qué valor de $x$ la función $f(x) = |x - 4|$ no es derivable?",
+      "context": "Puntos donde la derivada no existe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función es suave en 0."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. En $x=4$ hay un \"pico\" o esquina donde los límites laterales de la pendiente no coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función es suave en -4."
+        },
+        {
+          "letter": "D",
+          "text": "Es derivable en todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones con valor absoluto suelen tener puntos de no derivabilidad en sus raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivabilidad requiere que la curva sea suave. Los \"puntos angulosos\" o cúspides son lugares donde la derivada no existe a pesar de que la función sea continua.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v14",
+      "statement": "Halle $f'(x)$ si $f(x) = \\frac{1}{\\sqrt[3]{x}}$.",
+      "context": "Derivada de una función con potencias fraccionarias negativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\frac{1}{3x^{2/3}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el exponente resultante."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{1}{3x^{4/3}}$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^{-1/3}$ derivado es $(-1/3)x^{-4/3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{3}x^{2/3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo y de operación con el exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{3}{x^4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la regla de la potencia con la de raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aplicación rigurosa de la regla de la potencia $nx^{n-1}$ funciona para cualquier número real $n$, incluyendo fracciones negativas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v15",
+      "statement": "Si $f(x) = (3x + 2)^2$, calcule $f'(1)$ expandiendo primero el binomio.",
+      "context": "Derivada de una función compuesta simple (preámbulo a regla de la cadena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo derivó el interior."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor de la función, no de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Correcto. $f(x) = 9x^2 + 12x + 4$. Derivada $f'(x) = 18x + 12$. En $x=1$: $18+12 = 30$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Verificación de resultados mediante expansión algebraica antes de introducir reglas de composición más complejas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v16",
+      "statement": "Si una función $f$ es derivable en $x = c$, ¿cuál de las siguientes afirmaciones es SIEMPRE verdadera?",
+      "context": "Relación entre derivabilidad y continuidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ es continua en $x = c$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivabilidad implica continuidad."
+        },
+        {
+          "letter": "B",
+          "text": "$f'$ es continua en $x = c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una función puede ser derivable pero su derivada puede no ser continua."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ tiene un valor máximo o mínimo en $x = c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada puede ser distinta de cero."
+        },
+        {
+          "letter": "D",
+          "text": "$f''(c)$ existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de la primera derivada no garantiza la de la segunda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Teorema fundamental del cálculo diferencial: la derivabilidad es una condición más fuerte que la continuidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v17",
+      "statement": "Determine la tasa de cambio de la producción cuando se emplean $x = 1$ unidades de insumo.",
+      "context": "Una función de producción en una fábrica de Ambato está dada por $P(x) = \\frac{100x^2}{x^2 + 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la regla del cociente."
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "is_correct": true,
+          "feedback": "Correcto. $P'(x) = \\frac{200x(x^2+1) - 100x^2(2x)}{(x^2+1)^2} = \\frac{200x^3+200x-200x^3}{(x^2+1)^2} = \\frac{200x}{(x^2+1)^2}$. En $x=1$: $200/4 = 50$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción sigue aumentando en ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación del numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la regla del cociente para determinar la productividad marginal en un modelo económico racional.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v18",
+      "statement": "Si en un instante dado la temperatura es de 15°C y la constante $k = 0.1$, ¿cuál es la tasa de cambio de la temperatura en ese momento?",
+      "context": "Un sensor en una estación meteorológica en el Chimborazo registra la temperatura $T(t)$ tal que su derivada es $T'(t) = k(25 - T(t))$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 °C/unidad de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó por la diferencia de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 °C/unidad de tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. $T' = 0.1(25 - 15) = 0.1(10) = 1.0$."
+        },
+        {
+          "letter": "C",
+          "text": "2.5 °C/unidad de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó mal los valores de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "-1.0 °C/unidad de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura está aumentando hacia el equilibrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de ecuaciones diferenciales sencillas como tasas de cambio instantáneas proporcionales a una diferencia de valores.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v19",
+      "statement": "Dada $f(x) = \\frac{1}{x}$, ¿cuál es la expresión general para la $n$-ésima derivada $f^{(n)}(x)$?",
+      "context": "Cálculo de la n-ésima derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{n!}{x^{n+1}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la alternancia de signos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{(-1)^n n!}{x^{n+1}}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f' = -1/x^2$, $f'' = 2/x^3$, $f''' = -6/x^4$. El patrón es $(-1)^n n! x^{-(n+1)}$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-1)^n \\frac{1}{x^n}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió el factorial en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{x^{n+1}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró ni los coeficientes ni los signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de patrones inductivos en derivadas sucesivas de funciones potencia con exponentes negativos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v20",
+      "statement": "Si $s(0) = 1$, ¿cuál es el valor de la aceleración de la partícula en $t = 0$?",
+      "context": "Un problema de física teórica en la Politécnica Nacional sobre el movimiento de una partícula donde la posición $s(t)$ satisface $s'(t) = [s(t)]^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la velocidad instantánea."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al aplicar la regla de la cadena."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. La aceleración es $a(t) = s''(t)$. Derivando $s'(t) = [s(t)]^2$ se obtiene $s''(t) = 2s(t) \\cdot s'(t)$. En $t=0$, $s'(0) = 1^2 = 1$, por lo tanto $s''(0) = 2(1)(1) = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración es no nula ya que la velocidad depende de la posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de la regla de la cadena para derivar funciones definidas en términos de sí mismas (ecuaciones diferenciales autónomas).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.945Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v1",
+      "statement": "The park ranger ________ visiting the sanctuary early in the morning to see the birds.",
+      "context": "Reporting a suggestion about a park visit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested us",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Suggest\" is not followed by an object + infinitive."
+        },
+        {
+          "letter": "B",
+          "text": "suggested",
+          "is_correct": true,
+          "feedback": "Correct! \"Suggest\" can be followed directly by a gerund (-ing)."
+        },
+        {
+          "letter": "C",
+          "text": "told us to",
+          "is_correct": false,
+          "feedback": "Incorrect. (Wait, this is possible, but B is a more specific reporting verb)."
+        },
+        {
+          "letter": "D",
+          "text": "warned",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a warning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo *suggest* tiene patrones gramaticales específicos: puede ir seguido de un gerundio (*-ing*) o de una cláusula con *that*, pero nunca de un objeto + infinitivo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ID-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v2",
+      "statement": "Our guide ________ us not to feed the monkeys during the trek.",
+      "context": "Reporting a warning about wild animals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "promised",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "warned",
+          "is_correct": true,
+          "feedback": "Correct! \"Warn\" is followed by an object + (not) to + infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "claimed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Warn* se utiliza para avisar de un peligro y sigue la estructura: *warn + object + (not) to + infinitive*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v3",
+      "statement": "The biologist ________ to have discovered a new species of orchid in the cloud forest.",
+      "context": "Reporting a claim about a discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "claimed",
+          "is_correct": true,
+          "feedback": "Correct! \"Claim\" can be followed by a to-infinitive to report something someone says is true."
+        },
+        {
+          "letter": "C",
+          "text": "recommended",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "warned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Claim* se usa para reportar una afirmación que alguien hace, especialmente si no ha sido verificada aún. Puede seguirse de un infinitivo con *to*.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v4",
+      "statement": "The environmentalist ________ that we should reduce our use of plastic to protect the oceans.",
+      "context": "Reporting a recommendation from an expert.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "promised",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "recommended",
+          "is_correct": true,
+          "feedback": "Correct! \"Recommend\" can be followed by a \"that\" clause."
+        },
+        {
+          "letter": "C",
+          "text": "warned to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "told for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Recommend* es un verbo de reporte versátil que puede introducir una recomendación mediante una cláusula con *that*, a menudo usando el modal *should*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v5",
+      "statement": "The local community ________ to protect the nesting sites of the sea turtles.",
+      "context": "Reporting a promise to help.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "promised",
+          "is_correct": true,
+          "feedback": "Correct! \"Promise\" is followed by a to-infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "warned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "claimed of",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando alguien se compromete a realizar una acción en el futuro, el verbo de reporte adecuado es *promise*, seguido del infinitivo con *to*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v6",
+      "statement": "The former hunter ________ to help the traffickers ever again.",
+      "context": "Reporting a refusal to participate in poaching.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "denied",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Denied\" is for something already done."
+        },
+        {
+          "letter": "B",
+          "text": "refused",
+          "is_correct": true,
+          "feedback": "Correct! \"Refuse\" is used for saying \"no\" to a request or invitation."
+        },
+        {
+          "letter": "C",
+          "text": "claimed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "suggested not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Refuse* se utiliza para reportar que alguien dijo \"no\" a una propuesta o acción futura. Va seguido del infinitivo con *to*.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v7",
+      "statement": "The company ________ any responsibility for the chemical spill in the river.",
+      "context": "Identifying the correct structure for \"deny\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "refused",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they were asked to take responsibility and said no."
+        },
+        {
+          "letter": "B",
+          "text": "denied having",
+          "is_correct": true,
+          "feedback": "Correct! \"Deny\" is followed by a gerund or a perfect gerund to say something in the past isn't true."
+        },
+        {
+          "letter": "C",
+          "text": "denied to have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Deny\" cannot be followed by an infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "promised not to have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Deny* se usa para decir que una afirmación sobre el pasado es falsa. El patrón gramatical correcto es el gerundio (*-ing*).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v8",
+      "statement": "The group of volunteers ________ on cleaning the beach despite the rain.",
+      "context": "Understanding the nuance of \"insist\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "insisted",
+          "is_correct": true,
+          "feedback": "Correct! \"Insist\" is followed by \"on + -ing\"."
+        },
+        {
+          "letter": "C",
+          "text": "recommended",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "warned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Insist* comunica una determinación fuerte. El patrón gramatical más común es la preposición *on* seguida del gerundio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v9",
+      "statement": "\"I didn't steal the rare bird eggs!\"\nThe suspect ________ stealing the rare bird eggs.",
+      "context": "Choosing a more precise verb than \"say\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "refused",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "denied",
+          "is_correct": true,
+          "feedback": "Correct! \"Deny\" is the specific verb for saying you didn't do something."
+        },
+        {
+          "letter": "C",
+          "text": "claimed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "warned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel B2, el estudiante debe ser capaz de sustituir verbos genéricos por otros más descriptivos que aporten información sobre el acto comunicativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"The scientist **suggested us to** (A) study the migration patterns. She **recommended using** (B) satellite tags. However, the local government **refused to** (C) provide the necessary permits, although they **claimed that** (D) they support conservation.\"",
+      "context": "Identifying an error in a field report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested us to",
+          "is_correct": true,
+          "feedback": "Correct! \"Suggest\" cannot be followed by an object + infinitive. It should be \"suggested that we study\" or \"suggested studying\"."
+        },
+        {
+          "letter": "B",
+          "text": "recommended using",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of gerund after \"recommend\"."
+        },
+        {
+          "letter": "C",
+          "text": "refused to",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of infinitive after \"refuse\"."
+        },
+        {
+          "letter": "D",
+          "text": "claimed that",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of \"that\" clause after \"claim\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es uno de los errores más persistentes: tratar el verbo *suggest* como si fuera *tell* o *advise*. *Suggest* nunca lleva la partícula *to* seguida de un infinitivo para indicar a quién se le sugiere algo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v11",
+      "statement": "Which reporting verb is most appropriate for a formal government sign near a dangerous river?",
+      "context": "Choosing the best reporting verb for an official warning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The sign says not to swim.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too informal."
+        },
+        {
+          "letter": "B",
+          "text": "The sign suggests not swimming.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too weak for a danger."
+        },
+        {
+          "letter": "C",
+          "text": "The sign warns people against swimming in the river.",
+          "is_correct": true,
+          "feedback": "Correct! \"Warn against\" is formal and appropriate for safety hazards."
+        },
+        {
+          "letter": "D",
+          "text": "The sign recommends not to swim.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically weak."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir el verbo de reporte correcto (*warn against*) no solo es una cuestión de gramática, sino de adecuación al contexto y la gravedad de la situación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"During the meeting, the director ________ that the situation was critical. He ________ all the participants ________ harder to achieve our goals.\"",
+      "context": "Completing a summary of a conservation meeting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested / recommended / to work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "claimed / urged / to work",
+          "is_correct": true,
+          "feedback": "Correct! \"Urge + object + to-infinitive\" shows strong encouragement."
+        },
+        {
+          "letter": "C",
+          "text": "promised / warned / working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "refused / suggested / working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de integrar verbos de reporte con diferentes significados (*claim* para una afirmación y *urge* para una petición fuerte) en un contexto profesional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W23-nature-and-wildlife-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

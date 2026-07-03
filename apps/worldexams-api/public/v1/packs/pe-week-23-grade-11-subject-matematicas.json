@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-23-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.429Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para calcular el área de un triángulo conocidos su base ($b$) y su altura ($h$)?",
+      "context": "Un estudiante de 5to de secundaria en Lima repasa las fórmulas básicas para calcular superficies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = b \\cdot h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para un rectángulo o paralelogramo."
+        },
+        {
+          "letter": "B",
+          "text": "$A = \\frac{b \\cdot h}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. El área de un triángulo es la mitad del producto de su base por su altura."
+        },
+        {
+          "letter": "C",
+          "text": "$A = \\pi \\cdot r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para el área de un círculo."
+        },
+        {
+          "letter": "D",
+          "text": "$A = L^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para el área de un cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de una región triangular se define como la mitad del producto de la longitud de su base por la longitud de su altura relativa a dicha base.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v2",
+      "statement": "Si el radio de un círculo es de 4 metros, ¿cuál es su área aproximada? (Considere $\\pi \\approx 3.14$)",
+      "context": "Un jardinero en la ciudad de Arequipa desea calcular el área de un césped circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.56 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "50.24 m²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\pi \\cdot r^2 = 3.14 \\cdot 4^2 = 3.14 \\cdot 16 = 50.24$."
+        },
+        {
+          "letter": "C",
+          "text": "25.12 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el perímetro del círculo ($2 \\cdot \\pi \\cdot r$)."
+        },
+        {
+          "letter": "D",
+          "text": "100.48 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un círculo se calcula con la expresión $A = \\pi \\cdot r^2$. Reemplazando el radio $r = 4$ m y el valor de $\\pi \\approx 3.14$, obtenemos $A = 3.14 \\times 16 = 50.24$ metros cuadrados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v3",
+      "statement": "Las bases de un trapecio miden 10 cm y 16 cm. Si la altura del trapecio es de 8 cm, ¿cuál es el área de la superficie de la tabla?",
+      "context": "Un carpintero en Trujillo está cortando una tabla de madera en forma de trapecio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "208 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó las bases y la altura sin dividir entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "128 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "104 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\frac{10 + 16}{2} \\cdot 8 = \\frac{26}{2} \\cdot 8 = 13 \\cdot 8 = 104$."
+        },
+        {
+          "letter": "D",
+          "text": "52 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un trapecio se halla mediante la semisuma de sus bases multiplicada por su altura: $A = \\frac{B + b}{2} \\cdot h$. Con los datos proporcionados: $A = \\frac{16 + 10}{2} \\cdot 8 = 13 \\cdot 8 = 104$ cm².\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v4",
+      "statement": "Si las diagonales del rombo miden 6 m y 10 m, ¿cuántos metros cuadrados de pintura se necesitan para cubrir todo el patio?",
+      "context": "Se desea pintar el piso de un patio con forma de rombo en una casa en Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir el producto de las diagonales entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "30 m²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del rombo es el semiproducto de sus diagonales: $(6 \\cdot 10) / 2 = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "15 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "32 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de una región rombal es igual a la mitad del producto de las longitudes de sus diagonales: $A = \\frac{d_1 \\cdot d_2}{2}$. En este caso, $A = \\frac{6 \\cdot 10}{2} = 30$ m².\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v5",
+      "statement": "Si el lado del triángulo equilátero mide 4 metros, ¿cuál es su área exacta?",
+      "context": "Un arquitecto en Lima diseña un ventanal con forma de triángulo equilátero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\sqrt{3}$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\sqrt{3}$ m²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\frac{L^2\\sqrt{3}}{4} = \\frac{4^2\\sqrt{3}}{4} = 4\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$16\\sqrt{3}$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "8 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un triángulo equilátero de lado $L$ se calcula mediante la fórmula $A = \\frac{L^2\\sqrt{3}}{4}$. Para $L = 4$ m: $A = \\frac{16\\sqrt{3}}{4} = 4\\sqrt{3}$ metros cuadrados.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v6",
+      "statement": "La base del terreno es de 50 metros y la altura relativa a esa base es de 30 metros. Si se decide vender el terreno a S/ 200 el metro cuadrado, ¿cuál es el precio total del terreno?",
+      "context": "Un terreno agrícola en el valle del Mantaro (Junín) tiene forma de paralelogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 150,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 300,000",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $50 \\cdot 30 = 1500$ m². Precio = $1500 \\cdot 200 = 300,000$."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 600,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 75,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un paralelogramo es $Base \\times Altura$. Para este terreno: $A = 50 \\times 30 = 1500$ m². El costo total es el producto del área por el precio unitario: $1500 \\times 200 = 300,000$ soles.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v7",
+      "statement": "Determine el área de una corona circular formada por dos circunferencias concéntricas cuyos radios miden 5 cm y 3 cm.",
+      "context": "Un estudiante de la UNI analiza el área de una corona circular en un componente mecánico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$16\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\pi(R^2 - r^2) = \\pi(25 - 9) = 16\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "$34\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de una corona circular es la diferencia entre el área del círculo mayor y el círculo menor: $A = \\pi R^2 - \\pi r^2 = \\pi(R^2 - r^2)$. Sustituyendo: $A = \\pi(5^2 - 3^2) = \\pi(25 - 9) = 16\\pi$ cm².\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área de un sector circular cuyo radio mide 6 cm y cuyo ángulo central es de 60°?",
+      "context": "Un diseñador en Piura desea crear un logotipo que incluye un sector circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\frac{\\pi \\cdot r^2 \\cdot \\alpha}{360} = \\frac{\\pi \\cdot 36 \\cdot 60}{360} = 6\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$12\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$36\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un sector circular es una fracción del área total del círculo, determinada por el ángulo central $\\alpha$: $A = \\frac{\\pi r^2 \\alpha}{360^\\circ}$. Para $r=6$ y $\\alpha=60^\\circ$: $A = \\frac{\\pi \\cdot 36 \\cdot 60}{360} = 6\\pi$ cm².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v9",
+      "statement": "Si la razón de semejanza entre dos triángulos es $k = 3$, ¿cuál es la razón entre sus áreas?",
+      "context": "Un examen de simulación en una academia de Lima plantea un problema sobre la relación de áreas entre figuras semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la razón entre sus perímetros."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. La razón entre las áreas de dos figuras semejantes es igual al cuadrado de la razón de semejanza ($k^2$). $3^2 = 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Existe un teorema fundamental que establece que si dos figuras son semejantes con una razón de semejanza $k$, entonces la razón entre sus áreas es $k^2$. Por lo tanto, si $k = 3$, la razón de áreas es $3^2 = 9$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v10",
+      "statement": "La fuente tiene un radio de 2 metros. El camino de piedra tiene un ancho constante de 1 metro rodeando la fuente. ¿Cuál es el área del camino de piedra?",
+      "context": "Un arquitecto paisajista diseña un camino de piedra alrededor de una fuente circular en un parque de Miraflores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$9\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\pi$ m²",
+          "is_correct": true,
+          "feedback": "Correcto. El radio exterior es $2 + 1 = 3$. Área corona = $\\pi(3^2 - 2^2) = \\pi(9 - 4) = 5\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El camino forma una corona circular. El radio interior es $r = 2$ m y el radio exterior es $R = 2 + 1 = 3$ m. El área se halla restando el área del círculo pequeño al área del círculo grande: $A = \\pi(3^2) - \\pi(2^2) = 9\\pi - 4\\pi = 5\\pi$ m².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v11",
+      "statement": "Un triángulo tiene lados que miden 13 cm, 14 cm y 15 cm. ¿Cuál es su área?",
+      "context": "Cálculo de áreas mediante la fórmula de Herón en un terreno irregular en Cajamarca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "91 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "84 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Semiperímetro $p = (13+14+15)/2 = 21$. Herón: $A = \\sqrt{21(21-13)(21-14)(21-15)} = \\sqrt{21 \\cdot 8 \\cdot 7 \\cdot 6} = 84$."
+        },
+        {
+          "letter": "C",
+          "text": "105 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "42 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de Herón: $A = \\sqrt{p(p-a)(p-b)(p-c)}$, donde $p$ es el semiperímetro. Aquí $p = 21$. Luego: $A = \\sqrt{21 \\cdot 8 \\cdot 7 \\cdot 6} = \\sqrt{7056} = 84$ cm².\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v12",
+      "statement": "Determine el área de un triángulo si dos de sus lados miden 10 cm y 12 cm, y el ángulo formado entre ellos es de 30°.",
+      "context": "Un problema sobre áreas y trigonometría en un examen de admisión de la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 1/2 o el seno de 30°."
+        },
+        {
+          "letter": "B",
+          "text": "30 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\frac{1}{2} \\cdot a \\cdot b \\cdot \\sin(\\theta) = \\frac{1}{2} \\cdot 10 \\cdot 12 \\cdot \\sin(30^\\circ) = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "$30\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "15 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos calcular el área de un triángulo con la fórmula trigonométrica: $A = \\frac{1}{2}ab\\sin(C)$. Sustituyendo los valores: $A = \\frac{1}{2}(10)(12)\\sin(30^\\circ) = 60 \\times 0.5 = 30$ cm².\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v13",
+      "statement": "Si el perímetro de un hexágono regular es 24 cm, ¿cuál es su área?",
+      "context": "Análisis del área de un hexágono regular en un diseño de pavimento en la ciudad de Ica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$24\\sqrt{3}$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Lado $L = 24 / 6 = 4$. Área $= 6 \\cdot \\frac{L^2\\sqrt{3}}{4} = 6 \\cdot 4\\sqrt{3} = 24\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$48\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un hexágono regular está compuesto por 6 triángulos equiláteros. Si el perímetro es 24 cm, el lado mide 4 cm. El área es $6 \\times \\frac{4^2\\sqrt{3}}{4} = 24\\sqrt{3}$ cm².\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v14",
+      "statement": "El área de un triángulo es 42 cm² y su perímetro es 28 cm. Calcule la longitud del radio de la circunferencia inscrita en dicho triángulo.",
+      "context": "Preparación avanzada para el examen de la UNI, analizando la relación entre el área y el inradio de un triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "3 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Semiperímetro $p = 14$. Fórmula: $A = p \\cdot r \\Rightarrow 42 = 14 \\cdot r \\Rightarrow r = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "2 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existe una propiedad que relaciona el área ($A$) de cualquier triángulo con su semiperímetro ($p$) y su inradio ($r$): $A = p \\cdot r$. Primero hallamos el semiperímetro: $p = 28 / 2 = 14$. Luego: $42 = 14 \\cdot r$, lo que resulta en $r = 3$ cm.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v15",
+      "statement": "En un cuadrado $ABCD$ de lado 4 cm, se trazan dos semicircunferencias que tienen como diámetros los lados $AB$ y $AD$. ¿Cuál es el área de la intersección de estas dos semicircunferencias?",
+      "context": "Un reto sobre áreas sombreadas en un cuadrado de lado 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi - 4$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. La intersección es un pétalo cuya área es $2 \\cdot (Area sector 90 - Area triangulo) = 2 \\cdot (\\pi - 2) = 2\\pi - 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\pi - 8$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección de las dos semicircunferencias forma una región denominada \"pétalo\". Esta área se calcula como la suma de las áreas de las dos semicircunferencias menos el área del cuadrado (en el cuadrante correspondiente). De forma directa, es $2 \\times (\\text{área del sector de } 90^\\circ - \\text{área del triángulo rectángulo})$. Con $r=2$, el área es $2\\pi - 4$ cm².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v16",
+      "statement": "En una circunferencia de radio 10 cm, una cuerda mide 10 cm. Determine el área del segmento circular menor determinado por dicha cuerda.",
+      "context": "Un ingeniero en el Callao calcula el área de una sección circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\pi - 25\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{50\\pi}{3} - 25\\sqrt{3}$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. La cuerda igual al radio implica un ángulo central de 60°. Área sector = $100\\pi/6$. Área triángulo = $25\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$10\\pi - 25\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$50\\pi - 50\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si la cuerda es igual al radio, se forma un triángulo equilátero con el centro, lo que implica un ángulo central de 60°. El área del segmento circular es el área del sector de 60° minus el área del triángulo equilátero: $A = \\frac{100\\pi}{6} - \\frac{100\\sqrt{3}}{4} = \\frac{50\\pi}{3} - 25\\sqrt{3}$ cm².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v17",
+      "statement": "En un cuadrilátero $ABCD$, las diagonales se cortan en $O$. Si las áreas de los triángulos $AOB$, $BOC$ y $COD$ son 4 cm², 6 cm² y 9 cm² respectivamente, halle el área del triángulo $AOD$.",
+      "context": "Problema avanzado del examen de admisión UNI sobre relaciones de áreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "6 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. En cualquier cuadrilátero convexo, el producto de las áreas de los triángulos opuestos es igual: $4 \\cdot 9 = 6 \\cdot S_{AOD} \\Rightarrow S_{AOD} = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "8 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "13.5 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un cuadrilátero convexo cuyas diagonales se cortan en un punto $O$, se cumple que el producto de las áreas de los triángulos opuestos es constante: $Area(AOB) \\cdot Area(COD) = Area(BOC) \\cdot Area(AOD)$. Sustituyendo los valores, hallamos que el área faltante es 6 cm².\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v18",
+      "statement": "Si el área de un cuadrado inscrito en una circunferencia es 20 cm², ¿cuál es el área del cuadrado circunscrito a la misma circunferencia?",
+      "context": "Se estudia el área de un polígono regular en un seminario preuniversitario en Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "40 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del cuadrado circunscrito es siempre el doble de la del inscrito. Si el inscrito es 20, el circunscrito es 40."
+        },
+        {
+          "letter": "C",
+          "text": "60 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "80 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lado del cuadrado inscrito es $r\\sqrt{2}$ y su área es $2r^2 = 20$. El lado del cuadrado circunscrito es $2r$ y su área es $4r^2 = 40$. Por lo tanto, el área del cuadrado circunscrito es exactamente el doble de la del cuadrado inscrito.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v19",
+      "statement": "Determine el área de un triángulo cuyas medianas miden 9 cm, 12 cm y 15 cm.",
+      "context": "Un geómetra en la ciudad de Huancayo resuelve un problema sobre el área de un triángulo y sus medianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área del triángulo formado por las medianas."
+        },
+        {
+          "letter": "B",
+          "text": "72 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del triángulo original es $4/3$ del área del triángulo formado por sus medianas ($54 \\times 4/3 = 72$)."
+        },
+        {
+          "letter": "C",
+          "text": "108 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "48 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos el área de un triángulo cuyos lados sean las medianas dadas. Al ser 9, 12 y 15, es un triángulo rectángulo de área 54 cm². Por teorema, el área del triángulo original es $4/3$ de dicha área, resultando en 72 cm².\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v20",
+      "statement": "Si un cuadrilátero tiene lados de longitudes fijas $a, b, c, d$, ¿bajo qué condición su área es máxima?",
+      "context": "Problema de optimización sobre el área de un cuadrilátero de lados fijos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando es un trapecio isósceles.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando es un cuadrilátero inscrito (cíclico).",
+          "is_correct": true,
+          "feedback": "Correcto. El área de un cuadrilátero de lados dados es máxima cuando sus ángulos opuestos son suplementarios."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando es un paralelogramo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando sus diagonales son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un cuadrilátero con longitudes de lados constantes, el área se maximiza cuando el cuadrilátero es cíclico (se puede inscribir en una circunferencia). En este caso, la suma de los ángulos opuestos es 180°.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resuelve problemas de forma, movimiento y localización",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

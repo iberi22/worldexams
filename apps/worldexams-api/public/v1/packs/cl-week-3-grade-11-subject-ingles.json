@@ -8,864 +8,924 @@
   },
   "questions": [
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v1",
+      "statement": "Maintaining a wholesome lifestyle, including regular exercise and a balanced diet, is essential for long-term health.",
+      "context": "Advice on physical activity.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "sedentary",
+          "is_correct": false,
+          "feedback": "Incorrect. Sedentary means sitting a lot."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "wholesome",
+          "is_correct": true,
+          "feedback": "Correct. Wholesome means conducive to good health."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "strenuous",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Strenuous means requiring great effort."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "precarious",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Precarious means uncertain or dangerous."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Wholesome' is a positive adjective that fits the description of a healthy way of living.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v2",
+      "statement": "Many people had been practicing meditation for years before it became a popular mainstream trend.",
+      "context": "Discussing stress management.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "are practicing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "have practiced",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present perfect is used for past to present."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
+          "text": "had been practicing",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Past perfect continuous for an action that was ongoing before another past event."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "will have practiced",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Future perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "'Had been practicing' indicates a continuous action that occurred before a specific point in the past.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v3",
+      "statement": "If I didn't eat so much processed sugar, I would probably have more energy throughout the day.",
+      "context": "Talking about a hypothetical diet change.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "don't eat",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
+          "text": "didn't eat",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct. Second conditional for a present hypothetical."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "hadn't eaten",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional for a past hypothetical."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "wouldn't eat",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' is not used in the 'if' clause."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
+      "correct_answer": "B",
+      "explanation": "The second conditional is used to discuss a situation that is different from current reality.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "icfes_type": "Grammar",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v4",
+      "statement": "Chronic sleep deprivation can lead to impaired cognitive function and a weakened immune system.",
+      "context": "Article about the importance of sleep.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "abundance",
+          "is_correct": false,
+          "feedback": "Incorrect. Abundance means plenty."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "deprivation",
+          "is_correct": true,
+          "feedback": "Correct. Deprivation is the state of lacking a necessity."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "satisfaction",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Satisfaction means having enough."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "resilience",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Resilience is the ability to recover quickly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sleep deprivation' is the standard medical and psychological term for a lack of sufficient sleep.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v5",
+      "statement": "The holistic approach suggests that mental health is inextricably linked to physical well-being.",
+      "context": "Discussion on the holistic approach to health.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inextricably",
+          "is_correct": true,
+          "feedback": "Correct. Inextricably means in a way that is impossible to disentangle."
+        },
+        {
+          "letter": "B",
+          "text": "vaguely",
+          "is_correct": false,
+          "feedback": "Incorrect. Vaguely means in an uncertain way."
+        },
+        {
+          "letter": "C",
+          "text": "superficially",
+          "is_correct": false,
+          "feedback": "Incorrect. Superficially means only on the surface."
+        },
+        {
+          "letter": "D",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "Incorrect. The holistic approach emphasizes a strong connection."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Inextricably' conveys the deep and inseparable connection between mind and body in holistic health.\n\n---",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v6",
+      "statement": "Washing your hands frequently is a simple but effective way to prevent the spread of germs.",
+      "context": "Public health announcement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "promote",
+          "is_correct": false,
+          "feedback": "Incorrect. Promote means to encourage."
+        },
+        {
+          "letter": "B",
+          "text": "prevent",
+          "is_correct": true,
+          "feedback": "Correct. Prevent means to keep something from happening."
+        },
+        {
+          "letter": "C",
+          "text": "ensure",
+          "is_correct": false,
+          "feedback": "Incorrect. Ensure means to make certain."
+        },
+        {
+          "letter": "D",
+          "text": "accelerate",
+          "is_correct": false,
+          "feedback": "Incorrect. Accelerate means to speed up."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Prevent' is the correct verb for stopping the spread of diseases or germs.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v7",
+      "statement": "It is highly recommended that everyone take regular breaks to avoid burnout.",
+      "context": "Recommendation for mental health.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "take",
+          "is_correct": true,
+          "feedback": "Correct. The subjunctive mood is often used after verbs of recommendation."
+        },
+        {
+          "letter": "B",
+          "text": "takes",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Take' is the formal subjunctive form."
+        },
+        {
+          "letter": "C",
+          "text": "to take",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive doesn't fit the 'that' clause structure."
+        },
+        {
+          "letter": "D",
+          "text": "taking",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund doesn't fit here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "After 'It is recommended that...', the base form of the verb (subjunctive) is used in formal English.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v8",
+      "statement": "Consumers should pay close attention to the content of sugar and sodium in the foods they purchase.",
+      "context": "Text on nutrition labels.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "quality",
+          "is_correct": false,
+          "feedback": "Incorrect. You measure the amount."
+        },
+        {
+          "letter": "B",
+          "text": "content",
+          "is_correct": true,
+          "feedback": "Correct. 'Content' refers to the amount of a substance contained within something."
+        },
+        {
+          "letter": "C",
+          "text": "flavor",
+          "is_correct": false,
+          "feedback": "Incorrect. Flavor is about taste."
+        },
+        {
+          "letter": "D",
+          "text": "texture",
+          "is_correct": false,
+          "feedback": "Incorrect. Texture is about how something feels."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Content' is the appropriate term for the amount of an ingredient in a product.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v9",
+      "statement": "By the time the marathon started, Sarah had been training for over six months.",
+      "context": "Talking about a past health goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trained",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been training",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "C",
+          "text": "had been training",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for an action continuing up to a past point."
+        },
+        {
+          "letter": "D",
+          "text": "will have trained",
+          "is_correct": false,
+          "feedback": "Incorrect. Future perfect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Had been training' shows the duration of an activity leading up to a specific event in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v10",
+      "statement": "The article argues that the ubiquity of fast food has contributed significantly to the global obesity epidemic.",
+      "context": "Critique of \"fast food\" culture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "scarcity",
+          "is_correct": false,
+          "feedback": "Incorrect. Scarcity means a lack of something."
+        },
+        {
+          "letter": "B",
+          "text": "ubiquity",
+          "is_correct": true,
+          "feedback": "Correct. Ubiquity means the state of being very common."
+        },
+        {
+          "letter": "C",
+          "text": "regulation",
+          "is_correct": false,
+          "feedback": "Incorrect. Regulation usually helps control epidemics."
+        },
+        {
+          "letter": "D",
+          "text": "expense",
+          "is_correct": false,
+          "feedback": "Incorrect. Fast food is usually cheap."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ubiquity' describes how the widespread availability of fast food impacts public health.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v11",
+      "statement": "A vegan is a person who eats no food that comes from animals, including dairy and eggs.",
+      "context": "Definition of a term.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "omnivore",
+          "is_correct": false,
+          "feedback": "Incorrect. Omnivores eat everything."
+        },
+        {
+          "letter": "B",
+          "text": "vegetarian",
+          "is_correct": false,
+          "feedback": "Incorrect. Vegetarians might eat eggs or dairy."
+        },
+        {
+          "letter": "C",
+          "text": "vegan",
+          "is_correct": true,
+          "feedback": "Correct. Vegans avoid all animal products."
+        },
+        {
+          "letter": "D",
+          "text": "carnivore",
+          "is_correct": false,
+          "feedback": "Incorrect. Carnivores eat meat."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Vegan' is the specific term for someone who excludes all animal-derived products from their diet.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v12",
+      "statement": "New vaccines are being developed to combat the emerging strains of the virus.",
+      "context": "Passive voice in a medical report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are developing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being developed",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing action."
+        },
+        {
+          "letter": "C",
+          "text": "have developed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "develop",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive 'are being developed' is used to describe a process currently in progress.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v13",
+      "statement": "Developing emotional resilience helps individuals bounce back from setbacks and cope with life's challenges.",
+      "context": "Discussing mental resilience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resilience",
+          "is_correct": true,
+          "feedback": "Correct. Resilience is the capacity to recover quickly from difficulties."
+        },
+        {
+          "letter": "B",
+          "text": "fragility",
+          "is_correct": false,
+          "feedback": "Incorrect. Fragility is the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "indifference",
+          "is_correct": false,
+          "feedback": "Incorrect. Indifference means not caring."
+        },
+        {
+          "letter": "D",
+          "text": "dependency",
+          "is_correct": false,
+          "feedback": "Incorrect. Dependency means relying on others."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Resilience' is a key concept in psychology related to healthy coping mechanisms.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v14",
+      "statement": "The study suggests that people who drink enough water tend to have better skin health.",
+      "context": "Reporting a health study.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drunk",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle without 'have'."
+        },
+        {
+          "letter": "B",
+          "text": "drinks",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement ('people' is plural)."
+        },
+        {
+          "letter": "C",
+          "text": "drink",
+          "is_correct": true,
+          "feedback": "Correct. Present simple for a general fact."
+        },
+        {
+          "letter": "D",
+          "text": "are drinking",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous is for a temporary action."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The present simple 'drink' is used to state a general truth or habitual action.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v15",
+      "statement": "The author argues that governments should prioritize preventative care rather than just treating diseases after they occur.",
+      "context": "Conclusion of an essay on public health policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignore means pay no attention to."
+        },
+        {
+          "letter": "B",
+          "text": "downplay",
+          "is_correct": false,
+          "feedback": "Incorrect. Downplay means make something seem less important."
+        },
+        {
+          "letter": "C",
+          "text": "prioritize",
+          "is_correct": true,
+          "feedback": "Correct. Prioritize means to treat something as more important."
+        },
+        {
+          "letter": "D",
+          "text": "discourage",
+          "is_correct": false,
+          "feedback": "Incorrect. Discourage means to try to prevent."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Prioritize' is the appropriate verb for shifting focus and resources toward a more important goal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v16",
+      "statement": "Don't forget to warm up before your workout to prevent muscle strain.",
+      "context": "Fitness advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "collapse",
+          "is_correct": false,
+          "feedback": "Incorrect. Collapsing is what happens when you're exhausted."
+        },
+        {
+          "letter": "B",
+          "text": "warm up",
+          "is_correct": true,
+          "feedback": "Correct. To warm up is to prepare for physical exertion."
+        },
+        {
+          "letter": "C",
+          "text": "cool down",
+          "is_correct": false,
+          "feedback": "Incorrect. Cooling down happens after the workout."
+        },
+        {
+          "letter": "D",
+          "text": "hibernate",
+          "is_correct": false,
+          "feedback": "Incorrect. Hibernation is for bears."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Warm up' is the standard phrasal verb for preparing the body for exercise.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v17",
+      "statement": "You should wear sunscreen even on cloudy days to protect your skin from UV rays.",
+      "context": "Advice on sun protection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. Might is too weak."
+        },
+        {
+          "letter": "B",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. Could expresses possibility but not advice."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct. 'Should' is used for giving advice or recommendations."
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. Would is for conditionals."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Should' is the standard modal verb for offering helpful advice.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammar",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v18",
+      "statement": "Universal coverage ensures that all citizens have access to necessary health services without suffering financial hardship.",
+      "context": "Text about healthcare access.",
       "options": [
         {
           "letter": "A",
           "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "is_correct": false,
+          "feedback": "Incorrect. Insurance is a mechanism."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "coverage",
+          "is_correct": true,
+          "feedback": "Correct. 'Universal health coverage' is the formal term."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "neglect",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Neglect is the opposite of care."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "restriction",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Restriction would limit access."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'Coverage' in this context refers to the availability of health services to a population.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Vocabulary",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v19",
+      "statement": "He would feel much better now if he had followed the doctor's orders last week.",
+      "context": "Speculating about a health outcome.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "will feel",
+          "is_correct": false,
+          "feedback": "Incorrect. Present/future."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "would feel",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past condition, present result)."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "would have felt",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Third conditional."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "feels",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\nperiodo: \"weekly\"\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "The mixed conditional connects a past hypothetical event with its present consequence.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Grammar",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-v20",
+      "statement": "A supportive work environment that values employee well-being can enhance productivity and reduce absenteeism.",
+      "context": "Final thought on workplace wellness.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
+          "text": "enhance",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "Correct. To enhance means to improve the quality, value, or extent of."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "jeopardize",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Jeopardize means to put into a situation of danger."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "undermine",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Undermine means to lessen the effectiveness."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "complicate",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Complicate means to make more difficult."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "'Enhance' is the positive result expected from a supportive work environment.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
-      "bundle_id": "CL-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W03-health-wellness-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
     }
   ]
 }

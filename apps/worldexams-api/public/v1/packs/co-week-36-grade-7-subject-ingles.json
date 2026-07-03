@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-36-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.906Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-001-v1",
+      "statement": "What word describes the presence of dirty or harmful substances in the air, water, or land?",
+      "context": "Identifying basic environmental problems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nature",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the general natural world."
+        },
+        {
+          "letter": "B",
+          "text": "Pollution",
+          "is_correct": true,
+          "feedback": "Correct! Pollution refers to contamination of the environment."
+        },
+        {
+          "letter": "C",
+          "text": "Weather",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to atmospheric conditions."
+        },
+        {
+          "letter": "D",
+          "text": "Energy",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a physical capacity to work."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic vocabulary for environmental issues.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-002-v1",
+      "statement": "Which of these is a major cause of air pollution in big cities like Bogotá?",
+      "context": "Identifying a cause of air pollution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planting trees",
+          "is_correct": false,
+          "feedback": "Incorrect. This helps clean the air."
+        },
+        {
+          "letter": "B",
+          "text": "Car exhaust and smoke",
+          "is_correct": true,
+          "feedback": "Correct! Fumes from vehicles and factories are major air pollutants."
+        },
+        {
+          "letter": "C",
+          "text": "Recycling plastic",
+          "is_correct": false,
+          "feedback": "Incorrect. This helps the environment."
+        },
+        {
+          "letter": "D",
+          "text": "Using solar energy",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a clean energy source."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies specific sources of pollution common in urban environments.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-003-v1",
+      "statement": "\"Global warming causes the ice in the Arctic to ________.\"",
+      "context": "Understanding the effect of global warming.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "freeze",
+          "is_correct": false,
+          "feedback": "Incorrect. High temperatures don't freeze ice."
+        },
+        {
+          "letter": "B",
+          "text": "melt",
+          "is_correct": true,
+          "feedback": "Correct! Warming temperatures cause ice to turn into water."
+        },
+        {
+          "letter": "C",
+          "text": "grow",
+          "is_correct": false,
+          "feedback": "Incorrect. The amount of ice is decreasing."
+        },
+        {
+          "letter": "D",
+          "text": "stop",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the context of physical change."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the physical consequences of climate change on natural elements.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-004-v1",
+      "statement": "\"There is too much plastic trash in the oceans. What can we do?\"",
+      "context": "Responding to a problem with an environmental solution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We should use more plastic bags.",
+          "is_correct": false,
+          "feedback": "Incorrect. This increases the problem."
+        },
+        {
+          "letter": "B",
+          "text": "We should recycle and use less plastic.",
+          "is_correct": true,
+          "feedback": "Correct! Reducing and recycling are standard solutions."
+        },
+        {
+          "letter": "C",
+          "text": "We should throw trash in the rivers.",
+          "is_correct": false,
+          "feedback": "Incorrect. Rivers take trash to the ocean."
+        },
+        {
+          "letter": "D",
+          "text": "We should stop drinking water.",
+          "is_correct": false,
+          "feedback": "Incorrect. This doesn't solve the plastic problem."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the relationship between an environmental problem and its corresponding mitigation action.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-005-v1",
+      "statement": "\"Governments ________ pass laws to protect the endangered animals in the Amazon.\"",
+      "context": "Using \"should\" for environmental advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! Suggests a necessary and positive action for the environment."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be bad advice."
+        },
+        {
+          "letter": "C",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. They are able to do it, and they should."
+        },
+        {
+          "letter": "D",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a negative future prediction, not advice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies modal verbs to express environmental recommendations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-006-v1",
+      "statement": "What is one consequence of cutting down trees according to the text?",
+      "context": "A news snippet about deforestation.\n\"Deforestation in the rainforest is destroying the homes of thousands of species. When we cut down trees, we also lose the oxygen they produce for us.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The trees produce more oxygen.",
+          "is_correct": false,
+          "feedback": "Incorrect. We lose the oxygen."
+        },
+        {
+          "letter": "B",
+          "text": "Animals lose their natural habitats.",
+          "is_correct": true,
+          "feedback": "Correct! The text says it's \"destroying the homes\" of species."
+        },
+        {
+          "letter": "C",
+          "text": "The rainforest becomes colder.",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually, it contributes to warming."
+        },
+        {
+          "letter": "D",
+          "text": "More species appear.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are being affected negatively."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify specific consequences of an environmental problem.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-007-v1",
+      "statement": "\"Chemicals from factories in the river cause ________ pollution.\"",
+      "context": "Distinguishing between different types of pollution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "air",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the atmosphere."
+        },
+        {
+          "letter": "B",
+          "text": "water",
+          "is_correct": true,
+          "feedback": "Correct! Pollution in rivers is water pollution."
+        },
+        {
+          "letter": "C",
+          "text": "noise",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to sound."
+        },
+        {
+          "letter": "D",
+          "text": "land",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to soil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies specific environmental vocabulary to a logical cause-and-effect scenario.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-008-v1",
+      "statement": "Why is global warming a threat to coastal cities?",
+      "context": "Analyzing the impact of global warming on the ocean.\n\"As the planet gets warmer, the sea levels rise. This is dangerous for people who live near the coast because their houses might go under water in the future.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because there will be more fish.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Because rising sea levels can cause flooding of homes.",
+          "is_correct": true,
+          "feedback": "Correct! \"Sea levels rise\" and \"houses might go under water\" explain the threat."
+        },
+        {
+          "letter": "C",
+          "text": "Because the water will be too hot for swimming.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the main threat mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "Because it won't rain anymore.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the logical sequence of events starting from global warming to its impact on specific human settlements.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-009-v1",
+      "statement": "Which action is the most \"environmentally friendly\"?",
+      "context": "Analyzing the meaning of \"environmentally friendly\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buying a new car that uses a lot of gasoline.",
+          "is_correct": false,
+          "feedback": "Incorrect. This causes more pollution."
+        },
+        {
+          "letter": "B",
+          "text": "Leaving the lights on all night.",
+          "is_correct": false,
+          "feedback": "Incorrect. This wastes energy."
+        },
+        {
+          "letter": "C",
+          "text": "Walking or riding a bike instead of using a car for short trips.",
+          "is_correct": true,
+          "feedback": "Correct! This reduces carbon emissions and energy consumption."
+        },
+        {
+          "letter": "D",
+          "text": "Printing every email on paper.",
+          "is_correct": false,
+          "feedback": "Incorrect. This wastes paper and trees."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes various behaviors to identify which one aligns best with the concept of environmental friendliness.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W36-environmental-issues-010-v1",
+      "statement": "What is the main message of this slogan?",
+      "context": "Evaluating a slogan for an environmental campaign.\n\"Slogan: The Earth is our home, not our trash can. Stop pollution now!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We should live in trash cans.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pollution is only a problem on the streets.",
+          "is_correct": false,
+          "feedback": "Incorrect. The Earth is a global home."
+        },
+        {
+          "letter": "C",
+          "text": "We must respect our planet and stop contaminating it.",
+          "is_correct": true,
+          "feedback": "Correct! \"Respect our home\" and \"Stop pollution\" capture the essence."
+        },
+        {
+          "letter": "D",
+          "text": "The Earth is too small for everyone.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the point of the slogan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the metaphorical and literal meaning of a persuasive slogan to identify its core environmental message.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W36-environmental-issues-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-5-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.936Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v1",
+      "statement": "Since the new mall opened, I ________ there at least five times to look for eco-friendly products.",
+      "context": "Reviewing shopping habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" requires the Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect is used for actions in an unfinished period starting in the past."
+        },
+        {
+          "letter": "C",
+          "text": "am going",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the present or future arrangement."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Perfect is for an action before another past action."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para acciones que han ocurrido repetidamente desde un punto en el pasado hasta el presente, utilizamos el *Present Perfect*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v2",
+      "statement": "By the time the internet finally connected, I ________ to fix the router for over an hour.",
+      "context": "Reviewing past sequence of events.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tried",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't show the duration before the connection."
+        },
+        {
+          "letter": "B",
+          "text": "had been trying",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous shows an ongoing action before another past event."
+        },
+        {
+          "letter": "C",
+          "text": "have been trying",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present, but \"connected\" is past."
+        },
+        {
+          "letter": "D",
+          "text": "was trying",
+          "is_correct": false,
+          "feedback": "Incorrect. This doesn't emphasize the duration as well as Past Perfect Continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El *Pasado Perfecto Continuo* es ideal para resaltar cuánto tiempo estuvimos realizando una actividad antes de que ocurriera otra cosa en el pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v3",
+      "statement": "Experts believe that in the next few years, more people ________ their own renewable energy at home.",
+      "context": "Reviewing future predictions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be generating",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous describes an action that will be in progress or a standard situation in the future."
+        },
+        {
+          "letter": "B",
+          "text": "have generated",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Present Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "generated",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Past Simple."
+        },
+        {
+          "letter": "D",
+          "text": "are generating",
+          "is_correct": false,
+          "feedback": "Incorrect. This is usually for fixed arrangements."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El *Futuro Continuo* se usa frecuentemente para proyectar situaciones que serán normales o estarán ocurriendo en un punto específico del futuro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v4",
+      "statement": "\"Why are your eyes red?\"\n\"I ________ a documentary about the climate crisis, and it was very moving.\"",
+      "context": "Comparing Present Perfect Simple and Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have watched",
+          "is_correct": false,
+          "feedback": "Incorrect. The continuous form is better to explain a present result of a recent activity."
+        },
+        {
+          "letter": "B",
+          "text": "have been watching",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action."
+        },
+        {
+          "letter": "C",
+          "text": "had watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Perfect doesn't explain a current physical state as well."
+        },
+        {
+          "letter": "D",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present is for habits."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el *Presente Perfecto Continuo* para explicar por qué alguien tiene un aspecto determinado en el presente (ojos rojos) debido a una actividad reciente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v5",
+      "statement": "In 2020, we ________ to live more sustainably, and we ________ our habits since then.",
+      "context": "Contrasting Past Simple and Present Perfect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have decided / changed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In 2020\" requires Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "decided / have changed",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple for the specific year and Present Perfect for the ongoing change."
+        },
+        {
+          "letter": "C",
+          "text": "decided / changed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since then\" requires Present Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "have decided / have changed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In 2020\" cannot be used with Present Perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio evalúa la capacidad de alternar entre un evento puntual en el pasado (*decided*) y un proceso que llega hasta hoy (*have changed*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v6",
+      "statement": "By the end of this course, we ________ how to analyze the influence of advertising on our choices.",
+      "context": "Describing a future achievement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future just states the fact."
+        },
+        {
+          "letter": "B",
+          "text": "will have learned",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect shows an action that will be completed by a certain future time."
+        },
+        {
+          "letter": "C",
+          "text": "will be learning",
+          "is_correct": false,
+          "feedback": "Incorrect. This shows the process, not the completion."
+        },
+        {
+          "letter": "D",
+          "text": "are learning",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for current or arranged future actions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El *Futuro Perfecto* es la forma correcta para hablar de metas que habremos alcanzado al llegar a un momento determinado en el futuro (*By the end...*).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v7",
+      "statement": "Which sentence means that the hackers were **still** working when they were stopped?",
+      "context": "Distinguishing Past Perfect nuance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hackers had accessed the files when the police arrived.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies they had already finished the access."
+        },
+        {
+          "letter": "B",
+          "text": "The hackers had been accessing the files when the police arrived.",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous shows the action was ongoing at that moment."
+        },
+        {
+          "letter": "C",
+          "text": "The hackers have been accessing the files.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present, not past."
+        },
+        {
+          "letter": "D",
+          "text": "The hackers accessed the files.",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple past doesn't show the \"in progress\" relationship well."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma continua del Pasado Perfecto permite visualizar que una acción estaba ocurriendo justo cuando fue interrumpida por otro evento pasado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v8",
+      "statement": "Select the most appropriate sentence for a person who started a diet **three weeks ago** and is still doing it.",
+      "context": "Understanding time markers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I started a diet for three weeks.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Started\" is a point, not a duration."
+        },
+        {
+          "letter": "B",
+          "text": "I have been on a diet since three weeks.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" needs a specific starting point (date/time), not a period."
+        },
+        {
+          "letter": "C",
+          "text": "I have been on a diet for three weeks.",
+          "is_correct": true,
+          "feedback": "Correct! \"For\" is used for periods of time with Present Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "I am on a diet three weeks ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ago\" is only for Past Simple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*For* se utiliza para indicar la duración de un periodo, mientras que *since* se usa para el punto de inicio. Ambas son fundamentales con el *Present Perfect*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v9",
+      "statement": "\"Do you have any plans for the environmental fair?\"\n\"Yes, I ________ a presentation on solar energy at 10:00 AM.\"",
+      "context": "Future plans vs. arrangement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will give",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for spontaneous decisions."
+        },
+        {
+          "letter": "B",
+          "text": "am going to give",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a general intention, but the specific time suggests an arrangement."
+        },
+        {
+          "letter": "C",
+          "text": "am giving",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous is best for fixed appointments or scheduled events."
+        },
+        {
+          "letter": "D",
+          "text": "give",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present is for general timetables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al mencionar una hora específica para un evento organizado, el *Presente Continuo* es la forma más natural para indicar que el arreglo ya está hecho.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Before smartphones **became** (A) common, we **had been using** (B) basic cell phones for years. Nowadays, technology **has advanced** (C) so much that soon we **will have used** (D) AI for almost everything.\"",
+      "context": "Error correction in a text about tech evolution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "became",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "had been using",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Past Perfect Continuous for duration before a past event."
+        },
+        {
+          "letter": "C",
+          "text": "has advanced",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Present Perfect for recent changes."
+        },
+        {
+          "letter": "D",
+          "text": "will have used",
+          "is_correct": true,
+          "feedback": "Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El contexto sugiere que en el futuro el uso de la IA será una actividad continua y normal, por lo que el *Futuro Continuo* es más adecuado que el *Futuro Perfecto*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v11",
+      "statement": "Situation: You see a friend who looks very healthy and energetic.\nWhich question is the most natural to ask about their recent lifestyle?",
+      "context": "Comparing nuances of \"just\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you exercise lately?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lately\" requires Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "Have you been exercising lately?",
+          "is_correct": true,
+          "feedback": "Correct! Focuses on the recent ongoing activity that explains their current state."
+        },
+        {
+          "letter": "C",
+          "text": "Had you been exercising lately?",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a past time, not now."
+        },
+        {
+          "letter": "D",
+          "text": "Will you be exercising lately?",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't make sense for a present observation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para indagar sobre la causa de un estado presente positivo que parece ser resultado de una actividad reciente, la forma continua del *Presente Perfecto* es la más apropiada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v12",
+      "statement": "Choose the best summary of the first term's themes:\n\"We have explored how our past choices ________ our current environment. By understanding what ________ before the digital age, we can better predict how our habits ________ our future.\"",
+      "context": "Choosing the most coherent conclusion for a summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "affected / happened / will affect",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't use the full range of B2 tenses."
+        },
+        {
+          "letter": "B",
+          "text": "have affected / had happened / will be affecting",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence."
+        },
+        {
+          "letter": "C",
+          "text": "had affected / has happened / will have affected",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses are logically misplaced."
+        },
+        {
+          "letter": "D",
+          "text": "affect / happen / affect",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple for B2 level."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final requiere integrar los tres planos temporales (pasado, presente y futuro) usando las formas perfectas y continuas que caracterizan el nivel B2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-2-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.888Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-001-v1",
+      "statement": "What is the correct verb for the activity of cleaning your teeth?",
+      "context": "Juan is talking about his morning activities before going to school in Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash my teeth",
+          "is_correct": false,
+          "feedback": "Incorrect. We usually use \"wash\" for hands or face, but not for teeth."
+        },
+        {
+          "letter": "B",
+          "text": "Brush my teeth",
+          "is_correct": true,
+          "feedback": "Correct! \"Brush\" is the standard verb for cleaning teeth."
+        },
+        {
+          "letter": "C",
+          "text": "Clean my teeth",
+          "is_correct": false,
+          "feedback": "Incorrect. While understandable, \"brush\" is the most common and idiomatic term."
+        },
+        {
+          "letter": "D",
+          "text": "Fix my teeth",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply repairing them at a dentist."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the correct vocabulary for a common daily routine activity.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-002-v1",
+      "statement": "Complete the sentence: \"We ________ to school at 7:00 AM every day.\"",
+      "context": "Describing what students do at the start of the day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": true,
+          "feedback": "Correct! \"Go\" is the correct base form for the pronoun \"we\" in present simple."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Goes\" is only for third person singular (he, she, it)."
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the -ing form, used for continuous tenses."
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student recognizes the correct conjugation of the verb \"to go\" for the first person plural in the Present Simple.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-003-v1",
+      "statement": "\"In my house, we usually ________ lunch at 12:30 PM.\"",
+      "context": "A conversation about lunch habits in a Colombian family.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't \"do\" lunch in this context."
+        },
+        {
+          "letter": "B",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Make\" refers to cooking, but \"have\" or \"eat\" is used for the act of eating."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Correct! \"Have lunch\" is the standard expression for eating lunch."
+        },
+        {
+          "letter": "D",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Take\" is not commonly used for meals in English as it is in Spanish."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the use of the collocations \"have lunch/breakfast/dinner\" in daily routine descriptions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-004-v1",
+      "statement": "Which activity do you normally do at night before sleeping?",
+      "context": "Matching a routine action with its logical time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a morning activity."
+        },
+        {
+          "letter": "B",
+          "text": "Put on my pajamas",
+          "is_correct": true,
+          "feedback": "Correct! This is a logical activity done right before bed."
+        },
+        {
+          "letter": "C",
+          "text": "Go to school",
+          "is_correct": false,
+          "feedback": "Incorrect. School usually happens in the morning or afternoon."
+        },
+        {
+          "letter": "D",
+          "text": "Have lunch",
+          "is_correct": false,
+          "feedback": "Incorrect. Lunch is a midday meal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student relates vocabulary for daily routines to the appropriate time of day.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-005-v1",
+      "statement": "\"My brothers ________ soccer after school on Tuesdays.\"",
+      "context": "A student talking about their siblings' habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Brothers\" is plural, so we use the base form without 's'."
+        },
+        {
+          "letter": "B",
+          "text": "play",
+          "is_correct": true,
+          "feedback": "Correct! Use the base form for plural subjects."
+        },
+        {
+          "letter": "C",
+          "text": "playing",
+          "is_correct": false,
+          "feedback": "Incorrect. This form requires the verb \"to be\" to make sense."
+        },
+        {
+          "letter": "D",
+          "text": "are play",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a common error; we don't use \"are\" with the base form of another verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the rule for plural subjects in the Present Simple tense.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-006-v1",
+      "statement": "What does Elena do after taking a shower?",
+      "context": "A short text about Elena's day.\n\"Elena wakes up at 6:00. She takes a shower and then she has breakfast. At 7:00, she leaves for school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She wakes up.",
+          "is_correct": false,
+          "feedback": "Incorrect. She wakes up before the shower."
+        },
+        {
+          "letter": "B",
+          "text": "She has breakfast.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"then she has breakfast\" after the shower."
+        },
+        {
+          "letter": "C",
+          "text": "She goes to school.",
+          "is_correct": false,
+          "feedback": "Incorrect. She goes to school after breakfast."
+        },
+        {
+          "letter": "D",
+          "text": "She watches TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. This activity is not mentioned in the text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies sequencing skills to understand a routine described in a text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-007-v1",
+      "statement": "\"I ________ my homework in the library because it is quiet.\"",
+      "context": "Discussing homework habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correct! The expression is \"do homework\"."
+        },
+        {
+          "letter": "B",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't \"make\" homework in English."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have homework\" means you possess it, \"do homework\" means you are performing the task."
+        },
+        {
+          "letter": "D",
+          "text": "write",
+          "is_correct": false,
+          "feedback": "Incorrect. While you write while doing homework, \"do\" is the general verb for the routine."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the correct verb collocation for the routine of \"homework\".\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-008-v1",
+      "statement": "Which sentence is correct for someone who doesn't watch TV in the morning?",
+      "context": "Choosing the correct negative form for a routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I not watch TV in the morning.",
+          "is_correct": false,
+          "feedback": "Incorrect. We need an auxiliary verb for negatives in Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "I don't watches TV in the morning.",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"don't\", we use the base form of the verb without 's'."
+        },
+        {
+          "letter": "C",
+          "text": "I don't watch TV in the morning.",
+          "is_correct": true,
+          "feedback": "Correct! \"Don't\" is the correct auxiliary for \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "I am not watch TV in the morning.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am not\" is used with adjectives or -ing verbs."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the structure of negative sentences in the Present Simple.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-009-v1",
+      "statement": "What is a similarity between Carlos and Sofia?",
+      "context": "Comparing two routines.\n\"Carlos studies in the morning and works in the afternoon. Sofia works in the morning and studies at night.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They both study in the morning.",
+          "is_correct": false,
+          "feedback": "Incorrect. Only Carlos studies in the morning."
+        },
+        {
+          "letter": "B",
+          "text": "They both have work and study routines.",
+          "is_correct": true,
+          "feedback": "Correct! Both of them perform both activities, just at different times."
+        },
+        {
+          "letter": "C",
+          "text": "They both work at night.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sofia studies at night."
+        },
+        {
+          "letter": "D",
+          "text": "They don't have any similarities.",
+          "is_correct": false,
+          "feedback": "Incorrect. There is a clear similarity in the activities they perform."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and compares information about different routines to find a common factor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W02-present-simple-routines-010-v1",
+      "statement": "What can be concluded about David's routine?",
+      "context": "An opinion about a healthy routine.\n\"David gets up at 5 AM, runs for an hour, eats fruit for breakfast, and then goes to work. He says he feels very energetic.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His routine is very lazy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Running and getting up early is the opposite of lazy."
+        },
+        {
+          "letter": "B",
+          "text": "He is tired because he gets up too early.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says he feels \"energetic\"."
+        },
+        {
+          "letter": "C",
+          "text": "He has a healthy and active lifestyle.",
+          "is_correct": true,
+          "feedback": "Correct! Exercise and healthy eating define an active lifestyle."
+        },
+        {
+          "letter": "D",
+          "text": "He doesn't like his routine.",
+          "is_correct": false,
+          "feedback": "Incorrect. Feeling energetic usually implies a positive view of the routine."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the characteristics of a described routine to draw a logical conclusion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W02-present-simple-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
