@@ -127,6 +127,7 @@
           : 'text-white/30 hover:text-emerald-400 hover:bg-white/5'
       }`}
       title="Buena pregunta"
+      aria-label="Votar a favor"
     >
       <svg class="w-5 h-5" fill={userVote === 'up' ? 'currentColor' : 'none'} stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5" />
@@ -140,6 +141,7 @@
           : 'text-white/30 hover:text-red-400 hover:bg-white/5'
       }`}
       title="Pregunta mejorable"
+      aria-label="Votar en contra"
     >
       <svg class="w-5 h-5" fill={userVote === 'down' ? 'currentColor' : 'none'} stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5" />
@@ -152,6 +154,7 @@
     <button
       onclick={() => showReportModal = true}
       class="flex items-center gap-2 px-3 py-1.5 text-xs uppercase tracking-widest text-white/40 hover:text-white border border-white/10 hover:border-white/30 rounded-lg transition-all"
+      aria-label="Reportar problema con la pregunta"
     >
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
@@ -181,6 +184,7 @@
           <button
             onclick={closeReportModal}
             class="p-2 text-white/40 hover:text-white transition-colors"
+            aria-label="Cerrar modal de reporte"
           >
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
