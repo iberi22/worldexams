@@ -1761,6 +1761,7 @@
             <span class="text-xs text-white/40 uppercase tracking-widest">Tu prompt personalizado</span>
             <button
               onclick={copyPromptToClipboard}
+              aria-label="Copiar prompt personalizado"
               class="px-3 py-1.5 bg-purple-500/20 hover:bg-purple-500/30 border border-purple-500/30 rounded-lg text-xs text-purple-400 hover:text-purple-300 transition-colors flex items-center gap-1"
             >
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -1952,7 +1953,7 @@
         <h3 class="text-lg font-black text-white uppercase tracking-widest flex items-center gap-2">
           <span class="text-emerald-400">📊</span> Entendiendo tu Rating (MMR)
         </h3>
-        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors">
+        <button onclick={() => showHelpModal = false} aria-label="Cerrar modal" class="text-white/40 hover:text-white transition-colors">
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
         </button>
       </div>
