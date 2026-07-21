@@ -1,3 +1,9 @@
+<script context="module">
+  // Module-level cache to prevent re-rendering the same text
+  // MathRenderer is used heavily in lists (results, exams), and Katex is slow
+  const renderCache = new Map();
+</script>
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
@@ -23,6 +29,12 @@
 
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
+
+    // ⚡ OPTIMIZATION: Check cache first
+    if (renderCache.has(result)) {
+      return renderCache.get(result);
+    }
+
 
     // 🎥 Multimedia Parsers (English Protocol v3.0)
     // 1. YouTube: {{youtube:ID}} -> iframe
@@ -135,6 +147,13 @@
     if (result.endsWith('<br><br>')) {
         result = result.slice(0, -8);
     }
+
+    // ⚡ OPTIMIZATION: Cache result before returning
+    // Bounded cache to prevent memory leaks in long sessions
+    if (renderCache.size > 1000) {
+      renderCache.clear(); // Simple bounded cache
+    }
+    renderCache.set(text.trim(), result);
 
     return result;
   }
