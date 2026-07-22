@@ -1,0 +1,1 @@
+## 2024-07-22 - [MathRenderer Performance Bottleneck]\n**Learning:** Synchronous KaTeX rendering in Svelte components is a significant bottleneck when rendering lists of questions/options.\n**Action:** Implement module-level caching in MathRenderer.svelte using a bounded Map to share memoized results across all component instances.

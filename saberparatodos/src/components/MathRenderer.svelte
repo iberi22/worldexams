@@ -1,3 +1,10 @@
+<script context="module" lang="ts">
+  // Bounded cache to avoid memory leaks while speeding up frequent re-renders
+  // especially for lists of options or reused contexts across instances.
+  const MAX_CACHE_SIZE = 500;
+  const renderCache = new Map<string, string>();
+</script>
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
@@ -139,7 +146,24 @@
     return result;
   }
 
-  $: renderedHTML = renderMath(content);
+  $: {
+    if (!content) {
+      renderedHTML = '';
+    } else if (renderCache.has(content)) {
+      renderedHTML = renderCache.get(content)!;
+    } else {
+      const result = renderMath(content);
+      if (renderCache.size >= MAX_CACHE_SIZE) {
+        // Delete oldest entry (Map maintains insertion order)
+        const firstKey = renderCache.keys().next().value;
+        if (firstKey !== undefined) {
+          renderCache.delete(firstKey);
+        }
+      }
+      renderCache.set(content, result);
+      renderedHTML = result;
+    }
+  }
 </script>
 
 <svelte:head>
