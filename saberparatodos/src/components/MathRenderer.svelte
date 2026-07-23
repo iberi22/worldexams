@@ -1,3 +1,10 @@
+<script context="module" lang="ts">
+  // Module-level cache to share memoized results across all component instances.
+  // Limits size to 500 to prevent unbounded memory growth.
+  const renderCache = new Map<string, string>();
+  const MAX_CACHE_SIZE = 500;
+</script>
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
@@ -20,6 +27,10 @@
    */
   function renderMath(text: string): string {
     if (!text) return '';
+
+    if (renderCache.has(text)) {
+      return renderCache.get(text)!;
+    }
 
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
@@ -135,6 +146,12 @@
     if (result.endsWith('<br><br>')) {
         result = result.slice(0, -8);
     }
+
+    if (renderCache.size >= MAX_CACHE_SIZE) {
+      const firstKey = renderCache.keys().next().value;
+      if (firstKey !== undefined) renderCache.delete(firstKey);
+    }
+    renderCache.set(text, result);
 
     return result;
   }
