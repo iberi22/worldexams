@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
+  import DOMPurify from 'isomorphic-dompurify';
   import 'katex/dist/katex.min.css';
 
   export let content: string = '';
@@ -45,7 +46,7 @@
           throwOnError: false,
           errorColor: '#ef4444',
           strict: false,
-          trust: true
+          trust: false
         });
       } catch (e) {
         console.warn('KaTeX block error:', e);
@@ -70,7 +71,7 @@
           throwOnError: false,
           errorColor: '#ef4444',
           strict: false,
-          trust: true
+          trust: false
         });
         return rendered + suffix;
       } catch (e) {
@@ -136,7 +137,12 @@
         result = result.slice(0, -8);
     }
 
-    return result;
+    // Sanitize HTML output to prevent XSS
+    return DOMPurify.sanitize(result, {
+      ADD_TAGS: ['iframe', 'audio', 'math', 'semantics', 'annotation', 'mrow', 'mi', 'mo', 'msup', 'mn'],
+      ADD_ATTR: ['allow', 'allowfullscreen', 'frameborder', 'target', 'display', 'xmlns', 'encoding', 'controls'],
+      USE_PROFILES: { mathMl: true, html: true, svg: true }
+    });
   }
 
   $: renderedHTML = renderMath(content);
