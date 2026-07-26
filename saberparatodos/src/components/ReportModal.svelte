@@ -94,14 +94,14 @@
 </script>
 
 {#if show}
-  <div class="fixed inset-0 z-[1001] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" transition:fade>
+  <div class="fixed inset-0 z-[1001] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" transition:fade role="dialog" aria-modal="true" aria-labelledby="report-modal-title">
     <div
       class="bg-[#121212] border border-white/10 rounded-2xl w-full max-w-md overflow-hidden relative shadow-2xl"
       transition:scale={{start: 0.95}}
     >
       <!-- Header -->
       <div class="px-6 py-4 border-b border-white/5 bg-gradient-to-r from-white/5 to-transparent flex justify-between items-center">
-        <h3 class="text-white font-bold text-center flex items-center justify-center gap-2">
+        <h3 id="report-modal-title" class="text-white font-bold text-center flex items-center justify-center gap-2">
           {#if success}
             <span class="text-emerald-400">✅ Enviado</span>
           {:else if userContext === 'MenGuidelinesContent'}
@@ -110,7 +110,7 @@
             <span>{questionId ? '🚩 Reportar Problema' : '💬 Enviar Feedback'}</span>
           {/if}
         </h3>
-        <button on:click={onClose} class="text-white/40 hover:text-white transition-colors">
+        <button on:click={onClose} class="text-white/40 hover:text-white transition-colors rounded focus-visible:ring-2 focus-visible:outline-none focus-visible:ring-emerald-500" aria-label="Cerrar modal">
           <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
           </svg>

@@ -1,0 +1,3 @@
+## 2025-07-26 - Accessible Modals and Close Buttons
+**Learning:** For custom modals built from scratch (without a dialog element), it is critical to explicitly provide `role="dialog"`, `aria-modal="true"`, and an `aria-labelledby` linking to the header ID. Furthermore, icon-only close buttons inside these modals often lack sufficient keyboard visual feedback and accessible names.
+**Action:** Always ensure custom modals in this codebase are annotated with `role="dialog"`, `aria-modal="true"`, and `aria-labelledby`. Always verify icon-only buttons have an `aria-label` and explicit `focus-visible` ring classes.
