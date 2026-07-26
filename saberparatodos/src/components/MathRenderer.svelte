@@ -1,3 +1,10 @@
+<script context="module" lang="ts">
+  // Module-level cache to memoize expensive text-to-HTML rendering
+  // shared across all instances of MathRenderer
+  const renderCache = new Map<string, string>();
+  const MAX_CACHE_SIZE = 1000;
+</script>
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
@@ -23,6 +30,13 @@
 
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
+
+    // Check cache before performing expensive operations
+    if (renderCache.has(result)) {
+      return renderCache.get(result)!;
+    }
+
+    const originalText = result;
 
     // 🎥 Multimedia Parsers (English Protocol v3.0)
     // 1. YouTube: {{youtube:ID}} -> iframe
@@ -135,6 +149,17 @@
     if (result.endsWith('<br><br>')) {
         result = result.slice(0, -8);
     }
+
+    // Cache management: enforce max size to prevent memory leaks
+    if (renderCache.size >= MAX_CACHE_SIZE) {
+      const firstKey = renderCache.keys().next().value;
+      if (firstKey !== undefined) {
+        renderCache.delete(firstKey);
+      }
+    }
+
+    // Store in cache
+    renderCache.set(originalText, result);
 
     return result;
   }
