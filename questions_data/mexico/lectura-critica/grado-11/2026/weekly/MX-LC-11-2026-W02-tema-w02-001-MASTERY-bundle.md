@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v001
 **Bloom:** Remember
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -43,7 +43,7 @@ El fragmento se presenta como un manifiesto analítico centrado en la revisión 
 ## Question 2 [D3]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v002
 **Bloom:** Remember
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -66,7 +66,7 @@ El escrito se enfoca en analizar la figura y el marco de pensamiento de Sor Juan
 ## Question 3 [D4]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v003
 **Bloom:** Understand
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -89,7 +89,7 @@ La premisa central es que la educación de las mujeres debe integrarse activamen
 ## Question 4 [D4]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v004
 **Bloom:** Understand
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -112,7 +112,7 @@ El concepto de 'la retórica escolástica' representa la deparación del saber y
 ## Question 5 [D5]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v005
 **Bloom:** Understand
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -135,7 +135,7 @@ La figura de Sor Juana Inés de la Cruz y su producción literaria evidencian de
 ## Question 6 [D5]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v006
 **Bloom:** Understand
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -158,7 +158,7 @@ El texto concibe la capacidad y el desarrollo racional como inclinaciones innata
 ## Question 7 [D5]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v007
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -181,7 +181,7 @@ Poner en diálogo la cultura local con las letras mundiales concreta el ideal de
 ## Question 8 [D6]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v008
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -204,7 +204,7 @@ Cualquier barrera que obstaculice el desarrollo intelectual contradice el ideal 
 ## Question 9 [D6]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v009
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -227,7 +227,7 @@ El uso de la agudeza intelectual y el contraste formal para cuestionar contradic
 ## Question 10 [D6]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v010
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Sor Juana Inés de la Cruz y la Educación*
 
@@ -250,7 +250,7 @@ La armoniosa integración de voces y culturas literarias diversas en un tronco h
 ## Question 11 [D7]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v011
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -273,7 +273,7 @@ Un enfoque puramente científico o físico aislaría las propiedades del relieve
 ## Question 12 [D7]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v012
 **Bloom:** Apply
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -296,7 +296,7 @@ Preservar el paisaje natural y su visibilidad en equilibrio con el desarrollo ur
 ## Question 13 [D7]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v013
 **Bloom:** Analyze
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -319,7 +319,7 @@ El autor teoriza que la geografía desafiante opera como una escuela de temple, 
 ## Question 14 [D8]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v014
 **Bloom:** Analyze
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -342,7 +342,7 @@ La síntesis de rigor botánico y sensibilidad afectiva dota al ensayo de un equ
 ## Question 15 [D8]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v015
 **Bloom:** Analyze
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -365,7 +365,7 @@ La valoración identitaria de la geografía y los ritos descansa en la premisa d
 ## Question 16 [D8]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v016
 **Bloom:** Analyze
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -388,7 +388,7 @@ Asociar rígidamente la conducta al medio físico (clima, relieve) roza el deter
 ## Question 17 [D9]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v017
 **Bloom:** Evaluate
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -411,7 +411,7 @@ La trascendencia de la geografía y los ritos estriba en su conversión en hitos
 ## Question 18 [D9]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v018
 **Bloom:** Evaluate
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -434,7 +434,7 @@ El autor aboga por un equilibrio ético que acoja el aprecio global sin triviali
 ## Question 19 [D10]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v019
 **Bloom:** Evaluate
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
@@ -457,7 +457,7 @@ La valía del texto estriba en erigirse en una apología rigurosa y a la vez afe
 ## Question 20 [D10]
 **ID:** MX-LC-11-2026-W02-tema-w02-001-v020
 **Bloom:** Evaluate
-**ICFES:** EXANI-II Comprensión Lectora
+**EJE:** EXANI-II Comprensión Lectora
 **Expected_Success:** 0.80
 **Contexto:** **Pasaje:** *Las Redondillas y la Crítica a la Doble Moral*
 
