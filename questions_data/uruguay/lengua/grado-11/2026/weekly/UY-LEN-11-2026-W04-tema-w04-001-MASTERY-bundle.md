@@ -1,0 +1,514 @@
+---
+id: "UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle"
+country: "uruguay"
+grado: 11
+asignatura: "lengua"
+tema: "tema-w04"
+periodo: "weekly"
+week: "W04"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# MASTERY Bundle - Lengua: Tema W04 (W04)
+**20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
+
+---
+## Question 1 [D3]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.85
+**Contexto:** Leé con atención esta célebre frase inicial de un cuento del uruguayo Horacio Quiroga: 'La luna asomaba por el horizonte como un disco de fuego rojo, iluminando las turbulentas aguas del río Paraná'.
+
+### Enunciado
+¿Qué elemento de la estructura del texto narrativo se presenta fundamentalmente en este fragmento?
+
+### Opciones
+- [ ] A) El clímax de la acción dramática del relato.
+  <!-- feedback: Incorrecto. El clímax es el momento de mayor tensión o conflicto de la intriga; aquí apenas se está ambientando la escena inicial. -->
+- [x] B) La descripción del marco o espacio geográfico y temporal de la narración.
+  <!-- feedback: ¡Correcto! Las frases de apertura suelen presentar el marco descriptivo (el espacio físico como el río y el tiempo como la salida de la luna), situando al lector antes del desencadenamiento del conflicto. -->
+- [ ] C) La resolución del conflicto de los personajes del cuento.
+  <!-- feedback: Incorrecto. La resolución o desenlace se ubica al final del relato, cerrando las tensiones de la intriga. -->
+- [ ] D) Un diálogo directo entre los protagonistas de la selva.
+  <!-- feedback: Incorrecto. El fragmento es una descripción del narrador; no hay intervenciones directas o diálogos de personajes. -->
+
+### Explicacion Pedagogica
+El marco espacial y temporal conforma la plataforma de arranque de los textos narrativos, brindándole al lector la atmósfera indispensable para el viaje imaginativo del relato.
+
+---
+## Question 2 [D3]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.82
+**Contexto:** Un estudiante de 6° de Bachillerato analiza un relato en el liceo y advierte que el narrador cuenta la historia usando la tercera persona gramatical, sabe lo que piensan todos los personajes de la obra, conoce su pasado y puede predecir su futuro.
+
+### Enunciado
+¿Cómo se clasifica este tipo de narrador según su nivel de conocimiento de los hechos de la intriga?
+
+### Opciones
+- [ ] A) Narrador protagonista.
+  <!-- feedback: Incorrecto. El narrador protagonista cuenta su propia historia en primera persona singular con conocimiento limitado de la mente ajena. -->
+- [ ] B) Narrador testigo limitado.
+  <!-- feedback: Incorrecto. El narrador testigo observa los hechos desde fuera y relata solo lo que perciben sus sentidos físicos, sin leer las mentes de los demás. -->
+- [x] C) Narrador omnisciente.
+  <!-- feedback: ¡Correcto! El narrador omnisciente tiene un conocimiento total y absoluto de la historia, de los sucesos exteriores y del mundo interior (pensamientos, emociones) de los personajes, narrando de forma habitual en tercera persona. -->
+- [ ] D) Narrador en segunda persona o interlocutor.
+  <!-- feedback: Incorrecto. Este tipo de narrador interpele permanentemente al lector o a sí mismo ('tú/vos'), sin denotar necesariamente omnisciencia absoluta. -->
+
+### Explicacion Pedagogica
+El narrador omnisciente actúa con una visión divina: domina la totalidad de los acontecimientos, la interioridad psíquica de los actores de la intriga y los saltos en el tiempo narrativo.
+
+---
+## Question 3 [D4]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.80
+**Contexto:** Leé con atención este fragmento del cuento 'El almohadón de plumas' de Horacio Quiroga:
+'Su luna de miel fue un largo escalofrío. Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñeces de novia. Ella lo quería mucho, sin embargo...'.
+
+### Enunciado
+¿Cómo contribuye este pasaje de caracterización indirecta de los personajes al desarrollo de la tensión en la estructura narrativa del cuento?
+
+### Opciones
+- [ ] A) Anula el misterio del relato al adelantar detalladamente el final de la obra.
+  <!-- feedback: Incorrecto. El fragmento no adelanta el desenlace de la intriga médica de la pluma; genera atmósfera sin spoilear. -->
+- [x] B) Establece la atmósfera opresiva y el conflicto psicológico subyacente entre Alicia y Jordán, anticipando simbólicamente el trágico destino del relato de terror.
+  <!-- feedback: ¡Correcto! La caracterización inicial de los esposos ('escalofrío', 'carácter duro', 'heló') siembra una tensión sorda de tipo psicológico y connota un espacio gélido que prepara al lector para el horror biológico e inexplicable posterior. -->
+- [ ] C) Interrumpe la narración de manera brusca introduciendo un ensayo científico ajeno al género literario.
+  <!-- feedback: Incorrecto. El fragmento es puramente narrativo-caracterizador, coherente con la diégesis dramática de Quiroga. -->
+- [ ] D) Es una digresión humorística destinada a relajar los nervios de los lectores del liceo.
+  <!-- feedback: Incorrecto. El tono es sobrio, melancólico y ominoso, coherente con el horror existencial del relato de Quiroga. -->
+
+### Explicacion Pedagogica
+En los textos narrativos de calidad, la descripción de los personajes y sus relaciones afectivas tempranas no es gratuita; actúa como un andamiaje psicológico que prefigura y tensiona la intriga dramática posterior.
+
+---
+## Question 4 [D4]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.78
+**Contexto:** Analizá la famosa estructura temporal de una obra narrativa. Un autor decide romper el orden cronológico lineal de los sucesos, comenzando su relato por el desenlace fatal para luego retroceder en el tiempo y explicar la cadena de causas que condujeron a ese fin.
+
+### Enunciado
+¿Qué nombre técnico recibe este procedimiento de alteración del tiempo de la historia frente al tiempo del relato?
+
+### Opciones
+- [ ] A) Estructura circular lineal.
+  <!-- feedback: Incorrecto. Las estructuras circulares regresan al mismo punto de partida de forma simétrica; el retroceso temporal general es una anacronía dramática. -->
+- [x] B) Anacronía por analepsis (o flash-back / racconto).
+  <!-- feedback: ¡Correcto! La analepsis es una ruptura de la linealidad temporal que consiste en dar un salto al pasado de la historia (retrospección) para rellenar vacíos de información o dotar de tensión dramática al relato. -->
+- [ ] C) Prolepsis científica de anticipación tecnológica.
+  <!-- feedback: Incorrecto. La prolepsis consiste en un salto hacia el futuro (anticipación), no un regreso al pasado para narrar las causas. -->
+- [ ] D) Silepsis fonética de desorden gramatical.
+  <!-- feedback: Incorrecto. La silepsis es una figura de concordancia gramatical, ajena al manejo estructural del tiempo en la diégesis del relato. -->
+
+### Explicacion Pedagogica
+Las anacronías son alteraciones del orden temporal cronológico. La analepsis (mirada retrospectiva o viaje al pasado) es de gran utilidad para dotar de suspenso y profundidad psicológica a la narración.
+
+---
+## Question 5 [D5]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.77
+**Contexto:** Leé este pasaje de la célebre novela 'La tregua' del escritor uruguayo Mario Benedetti:
+'Ella se rió. Tiene una risa franca, que termina con un ruidito leve de garganta, muy simpático. Me gusta oírla reír. No me importa lo que diga, con tal de que se ría después'.
+
+### Enunciado
+Identificá qué tipo de narrador protagoniza este fragmento literario y cómo influye en el grado de subjetividad de la historia relatada.
+
+### Opciones
+- [ ] A) Es un narrador omnisciente que juzga objetivamente los sentimientos de todos los personajes de la oficina.
+  <!-- feedback: Incorrecto. Al usar la primera persona singular ('Me gusta', 'No me importa'), el narrador está inmerso en la historia y no posee omnisciencia divina ajena. -->
+- [x] B) Es un narrador protagonista en primera persona (Martín Santomé), lo que restringe el punto de vista a la mirada íntima, subjetiva, amorosa y limitada del personaje principal del diario íntimo.
+  <!-- feedback: ¡Correcto! El narrador en primera persona singular (protagonista) nos relata los hechos desde su propia subjetividad, sentimientos y percepciones íntimas cotidianas. Esta restricción de perspectiva (focalización interna) dota de profunda empatía psicológica al diario. -->
+- [ ] C) Es un narrador en segunda persona apelativo que le ordena a Laura Avellaneda sonreír de forma obligatoria.
+  <!-- feedback: Incorrecto. No se estructura como un mandato conativo imperativo al lector o coprotagonista. -->
+- [ ] D) Un narrador testigo impersonal ajeno a los acontecimientos de la trama.
+  <!-- feedback: Incorrecto. El narrador es el centro emocional de la escena romántica de 'La tregua', no un mero espectador neutro. -->
+
+### Explicacion Pedagogica
+El punto de vista o focalización interna en primera persona (típico del diario íntimo en 'La tregua') limita la perspectiva del relato al mundo interior y los ojos subjetivos del protagonista, potenciando la intimidad dramática de la obra.
+
+---
+## Question 6 [D5]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
+**Bloom:** Understand
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.75
+**Contexto:** En un taller de escritura en el Liceo N° 1 de Rivera, los alumnos analizan la diferencia entre 'historia' (o diégesis) y 'discurso' (o relato).
+
+### Enunciado
+¿Cuál de las siguientes opciones define con exactitud teórica esta diferencia estructural de la tipología textual narrativa?
+
+### Opciones
+- [x] A) La historia es el orden cronológico lógico de los acontecimientos reales o ficticios ocurridos; el discurso es la forma concreta y el orden estético en que el narrador decide presentar esos sucesos al lector.
+  <!-- feedback: ¡Correcto! La historia es la secuencia cronológica lógica de sucesos en bruto (lo que pasa). El discurso es la arquitectura estética del relato escrito: cómo se ordenan los tiempos, qué focalización se usa y qué estilo literario se escoge para contar (el cómo se cuenta). -->
+- [ ] B) La historia pertenece a los textos informativos científicos de geografía, mientras que el discurso es exclusiva de discursos políticos orales de la plaza pública.
+  <!-- feedback: Incorrecto. En teoría literaria y narratología, ambos conceptos operan de forma exclusiva dentro del análisis estructural de cualquier texto narrativo literario. -->
+- [ ] C) La historia es el diálogo directo de los protagonistas y el discurso las acotaciones teatrales escritas entre paréntesis.
+  <!-- feedback: Incorrecto. Esa es una clasificación formal del género dramático teatral, no de la teoría narratológica del texto narrativo. -->
+- [ ] D) No existe ninguna diferencia científica dado que las novelas siempre transcurren de manera lineal sin alteraciones de tiempo.
+  <!-- feedback: Incorrecto. Las novelas y cuentos suelen jugar constantemente con el desorden temporal, analepsis, elipsis y focalizaciones variadas. -->
+
+### Explicacion Pedagogica
+La narratología distingue la historia (la materia prima temporal y lógica de los hechos) del discurso (el tratamiento textual y estético que el narrador le imprime a esa materia prima en el texto escrito).
+
+---
+## Question 7 [D5]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.79
+**Contexto:** Leé este pasaje del cuento 'A la deriva' de Horacio Quiroga:
+'El hombre bajó la vista hacia el pie, donde dos gotitas de sangre apenas brillaban, y sacó el machete de la cintura. La víbora vio la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de lomo, dislocándole las vértebras'.
+
+### Enunciado
+Analizá el ritmo narrativo de este pasaje. ¿Qué recurso lingüístico y de estilo utiliza Quiroga para dotar de vértigo y velocidad a la acción física del relato?
+
+### Opciones
+- [ ] A) El predominio absoluto de adjetivación barroca ornamental que dilata la descripción del paisaje.
+  <!-- feedback: Incorrecto. Los adjetivos son mínimos; la descripción ornamental ralentiza la acción, lo opuesto al vértigo quiroguiano. -->
+- [x] B) El uso de oraciones cortas coordinadas y verbos en pretérito perfecto simple ('bajó', 'sacó', 'vio', 'hundió', 'cayó') que dinamizan la secuencia de hechos de violencia física inmediata.
+  <!-- feedback: ¡Correcto! El ritmo ágil en el relato quiroguiano de supervivencia se logra despojando el texto de adornos superfluos, encadenando verbos de acción física inmediata en pretérito perfecto simple mediante enunciados breves y directos. -->
+- [ ] C) El recurso al monólogo interior surrealista del protagonista que sueña en la canoa.
+  <!-- feedback: Incorrecto. Se relatan acciones físicas reales de combate frente al ofidio; no hay ensueño surrealista en este punto. -->
+- [ ] D) La inclusión de largas digresiones científicas sobre las especies de víboras de la Mesopotamia.
+  <!-- feedback: Incorrecto. Quiroga narra el combate y el mordisco fatal de forma literaria directa, sin digresiones entomológicas de manual de biología. -->
+
+### Explicacion Pedagogica
+El pretérito perfecto simple es el tiempo verbal narrativo por excelencia. Su encadenamiento dinámico mediante oraciones coordinadas o yuxtapuestas acelera el tempo de la acción.
+
+---
+## Question 8 [D6]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.76
+**Contexto:** Estudiá el siguiente fragmento:
+'La profesora de historia entró al aula, dejó el termo sobre el escritorio de madera y contempló en silencio el desorden de los bancos del liceo. Sabía que la jornada sería larga'.
+
+### Enunciado
+Identificá qué tipo de focalización o punto de vista narrativo se emplea en este fragmento y qué información revela sobre el narrador.
+
+### Opciones
+- [ ] A) Focalización externa pura; el narrador es una cámara muda que no conoce en absoluto los pensamientos o saberes de la profesora de Tala.
+  <!-- feedback: Incorrecto. El narrador afirma que 'sabía que la jornada sería larga', accediendo a la conciencia interna del personaje, lo que descarta la focalización externa neutra. -->
+- [x] B) Focalización cero (o narrador omnisciente clásico) en tercera persona, dado que el narrador contempla la escena desde fuera pero conoce los procesos mentales internos ('Sabía que...') del personaje.
+  <!-- feedback: ¡Correcto! La focalización cero o no focalización es propia del narrador omnisciente clásico en tercera persona gramatical, quien relata hechos de la diégesis y penetra libremente en la mente de los personajes. -->
+- [ ] C) Focalización interna homodiegética; el narrador es la profesora que relata su propia llegada en primera persona verbal.
+  <!-- feedback: Incorrecto. Se narra en tercera persona gramatical ('entró', 'dejó', 'sabía'), descartando la homodiégesis del protagonista. -->
+- [ ] D) Focalización lírica en segunda persona que interpela directamente al lector del liceo.
+  <!-- feedback: Incorrecto. No interpela gramaticalmente al lector mediante mandatos o pronombres de segunda persona singular. -->
+
+### Explicacion Pedagogica
+La focalización cero se asocia al narrador que trasciende los límites de un personaje, observando las acciones desde el exterior pero ingresando a la interioridad psicológica de los actores de la narración.
+
+---
+## Question 9 [D6]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.74
+**Contexto:** Analizá el uso del tiempo narrativo en este extracto de una crónica literaria:
+'Transcurrieron cinco años de silenciosa sequía en las dunas de Cabo Polonio. Nadie volvió a pisar el viejo faro. Hasta que una tarde de diciembre, un marinero de bandera extranjera arribó con una carta cerrada'.
+
+### Enunciado
+¿Qué procedimiento de aceleración del tiempo del relato (frente al tiempo de la historia) se observa en la primera oración del pasaje?
+
+### Opciones
+- [x] A) Elipsis narrativa.
+  <!-- feedback: ¡Correcto! La elipsis es un recurso de condensación temporal que consiste en omitir el relato de un período de tiempo de la historia (en este caso, cinco años enteros de sequía resumidos en una sola frase breve) para agilizar el ritmo y saltar de inmediato a la acción relevante. -->
+- [ ] B) Pausa descriptiva detallada.
+  <!-- feedback: Incorrecto. La pausa descriptiva detiene el avance de los hechos para pintar minuciosamente un cuadro; aquí el tiempo avanza velozmente. -->
+- [ ] C) Escena en tiempo real (diálogo directo).
+  <!-- feedback: Incorrecto. No hay diálogos articulados que igualen el tiempo de la lectura con el tiempo de los hechos de la historia. -->
+- [ ] D) Anacronía por analepsis del Cabo Polonio.
+  <!-- feedback: Incorrecto. No se retrocede en el tiempo a evocar recuerdos anteriores; se viaja velozmente hacia adelante barriendo cinco años de un plumazo literario. -->
+
+### Explicacion Pedagogica
+La elipsis narrativa permite al autor omitir fragmentos temporales irrelevantes para concentrar el discurso sobre los núcleos dinámicos o catalizadores de la intriga.
+
+---
+## Question 10 [D6]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.73
+**Contexto:** Leé con atención el siguiente fragmento:
+'—No vayas a salir hoy, Martín —advirtió su madre desde la cocina de la casa de San José—. Con este temporal de viento de la rambla no es seguro andar en la calle'.
+
+### Enunciado
+¿Qué estilo o técnica de representación de la voz de los personajes se está utilizando en el pasaje narrativo anterior?
+
+### Opciones
+- [ ] A) Estilo indirecto clásico.
+  <!-- feedback: Incorrecto. El estilo indirecto usa verbos subordinados con 'que' ('Su madre le advirtió que no saliera...'), sin introducir rayas de diálogo o voces literales directas. -->
+- [x] B) Estilo directo.
+  <!-- feedback: ¡Correcto! El estilo directo reproduce textualmente y con literalidad el parlamento del personaje mediante el uso de la raya de diálogo y verbos dicendi ('advirtió'), cediendo la palabra de forma directa al actor. -->
+- [ ] C) Estilo indirecto libre.
+  <!-- feedback: Incorrecto. El estilo indirecto libre funde la voz del narrador con el pensamiento íntimo del personaje sin marcas ortográficas o verbos de dicendi explícitos. -->
+- [ ] D) Monólogo interior abstracto de la madre.
+  <!-- feedback: Incorrecto. Es un aviso proferido en voz alta hacia el personaje de Martín; constituye un diálogo y no una meditación silenciosa cerebral. -->
+
+### Explicacion Pedagogica
+El estilo directo otorga realismo, fuerza dramática y polifonía al texto narrativo, permitiendo que las voces de los personajes irrumpan en el relato con sus propios tonos, jergas y marcas de tratamiento.
+
+---
+## Question 11 [D7]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.78
+**Contexto:** Estudiá el siguiente fragmento de una novela contemporánea ambientada en Uruguay:
+'Santomé miró el calendario de la oficina. Faltaban exactamente cuatro meses para su jubilación. ¿Qué haría con tanto tiempo libre? ¿Caminar por la rambla sin rumbo, cebar mates infinitos frente al mar vacío? Le aterraba la libertad'.
+
+### Enunciado
+¿Qué técnica de representación del pensamiento del personaje destaca en este pasaje narrativo?
+
+### Opciones
+- [ ] A) Soliloquio en voz alta dirigido a un interlocutor invisible en el aula.
+  <!-- feedback: Incorrecto. No hay un interlocutor ficcional que reciba el parlamento; es una introspección mental interna silenciosa. -->
+- [x] B) Estilo indirecto libre, ya que la voz del narrador en tercera persona se funde y asimila de manera fluida con la corriente interna de pensamientos y dudas del personaje, sin marcas ortográficas formales como guiones o comillas.
+  <!-- feedback: ¡Correcto! El estilo indirecto libre es una sofisticada técnica narrativa donde el narrador de tercera persona adopta el punto de vista, el tono y las preguntas existenciales del personaje sin recurrir a rayas de diálogo o fórmulas subordinadas directas. -->
+- [ ] C) Estilo directo puro con guiones y comillas tradicionales del teatro uruguayo.
+  <!-- feedback: Incorrecto. No hay comillas o rayas que aíslen la intervención del protagonista de la voz base del narrador de la obra. -->
+- [ ] D) Descripción topográfica del mobiliario de la oficina de Montevideo.
+  <!-- feedback: Incorrecto. El fragmento se enfoca de manera exclusiva en la zozobra psicológica existencial del personaje, no en detallar los muebles de madera. -->
+
+### Explicacion Pedagogica
+El estilo indirecto libre permite al narrador mimetizarse con la conciencia de sus personajes, trasladando al relato el fluir íntimo de sus emociones y cavilaciones mentales de manera natural.
+
+---
+## Question 12 [D7]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.72
+**Contexto:** Leé con atención este pasaje del cuento 'El hijo' de Horacio Quiroga:
+'Un disparo... Un disparo limpio, sordo, que el padre conoce de memoria. El padre echa una ojeada al reloj: son las diez. Su hijo debe estar cruzando la linde de la selva'.
+
+### Enunciado
+Analizá la tensión narrativa en este pasaje. ¿Cómo utiliza Quiroga el tiempo del relato y el manejo de los indicios para generar el clima de suspenso trágico?
+
+### Opciones
+- [ ] A) Ralentiza el tiempo de la historia recurriendo a extensas descripciones de la flora y fauna de Misiones.
+  <!-- feedback: Incorrecto. La prosa en este pasaje es sumamente tensa, directa, escueta y carece de digresiones biológicas sobre la selva. -->
+- [x] B) Presenta el disparo como un indicio ominoso que activa el tiempo de la angustia psicológica del padre, creando una dolorosa brecha entre la ilusión del progenitor y la dura y trágica realidad de los hechos de la selva.
+  <!-- feedback: ¡Correcto! El sonido aislado del disparo actúa como un indicio ominoso de muerte. Quiroga contrasta la tranquilidad matemática del tiempo del reloj con el inicio de la tortura mental del padre, sembrando una dramática ironía sobre el trágico destino del adolescente. -->
+- [ ] C) Resuelve de forma alegre y humorística el misterio del relato de caza de animales.
+  <!-- feedback: Incorrecto. El suspenso es de carácter ominoso, anticipando la tragedia psicológica paterna de Quiroga. -->
+- [ ] D) Interrumpe la diégesis para brindar un instructivo técnico de balística militar y seguridad de armas de fuego.
+  <!-- feedback: Incorrecto. El texto es literario y dramático; el disparo se asimila de forma íntima por la mente alterada del padre. -->
+
+### Explicacion Pedagogica
+En la tipología narrativa de suspenso, los indicios (un ruido, una mirada, una hora) actúan como catalizadores psicológicos que activan el drama interno del protagonista, tensionando la trama literaria de cara al desenlace.
+
+---
+## Question 13 [D7]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.71
+**Contexto:** Un profesor de Literatura de 6° de Bachillerato propone comparar el tratamiento del espacio narrativo en 'Cuentos de amor de locura y de muerte' (Quiroga) frente a 'La tregua' (Benedetti).
+
+### Enunciado
+¿Cuál de las siguientes conclusiones describe adecuadamente cómo el espacio físico condiciona el destino de los personajes en ambas obras de la narrativa uruguaya?
+
+### Opciones
+- [ ] A) En ambas obras el espacio físico es irrelevante y neutral, actuando como una pared blanca que no influye en las acciones dramáticas de los protagonistas.
+  <!-- feedback: Incorrecto. El espacio es un actor crucial en ambos autores, determinando de manera decisiva la psicología y tragedias de los protagonistas. -->
+- [x] B) En Quiroga, la naturaleza indómita e implacable de la selva misionera es un agente activo hostil que devora al hombre; en Benedetti, el espacio asfixiante y burocrático de la oficina gris de Montevideo opera como una prisión cotidiana que moldea la apatía existencial del protagonista.
+  <!-- feedback: ¡Correcto! El espacio es semántico y dinámico en los grandes narradores. La selva gélida o tropical de Quiroga es una fuerza ciega trágica frente a la cual el hombre sucumbe. Por otro lado, la oficina montevideana y la rutina gris de la burocracia de Benedetti sofocan los anhelos del alma urbana, determinando su destino existencial. -->
+- [ ] C) Ambos autores coinciden en que los barcos de guerra coloniales y las minas de carbón de Maldonado son los únicos espacios literarios válidos de Uruguay.
+  <!-- feedback: Incorrecto. Ninguno de estos autores sitúa sus obras maestras indicadas en barcos de guerra o minas de carbón en Maldonado. -->
+- [ ] D) Benedetti prefiere describir la fauna selvática de Rocha y Quiroga los rascacielos financieros del centro bancario de Montevideo.
+  <!-- feedback: Incorrecto. La geografía literaria benedettiana es netamente urbana y montevideana; la de Quiroga es mayormente selvática y rural de Misiones. -->
+
+### Explicacion Pedagogica
+El espacio en la narrativa excede la mera decoración física; adquiere densidad psicológica y actúa a menudo como una metáfora o fuerza motriz que acorrala o cobija el destino de los personajes.
+
+---
+## Question 14 [D8]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.70
+**Contexto:** Durante un taller literario en el Liceo de Salto, los alumnos analizan la tipología de los personajes de las novelas.
+
+### Enunciado
+¿De qué manera se diferencia la función narrativa del 'personaje plano' frente al 'personaje redondo' (según la terminología teórica de E.M. Forster) al analizar los personajes de una novela compleja?
+
+### Opciones
+- [ ] A) Los personajes planos son mudos y carecen de diálogos escritos; los redondos hablan en verso barroco medieval de forma obligatoria.
+  <!-- feedback: Incorrecto. Los planos pueden hablar fluidamente; la distinción radica en su complejidad de conducta y evolución psicológica. -->
+- [x] B) Los personajes planos se estructuran en torno a una sola idea o rasgo de carácter estable, resultando predecibles y sin evolución; los personajes redondos poseen múltiples facetas psicológicas, contradicciones internas y se transforman de forma dinámica a lo largo del relato.
+  <!-- feedback: ¡Correcto! El personaje plano (o caricaturesco/arquetípico) mantiene un comportamiento lineal inalterable durante toda la obra. El personaje redondo (o complejo) tiene profundidad psicológica, experimenta dilemas internos, comete errores y evoluciona de manera significativa bajo la presión de la intriga. -->
+- [ ] C) Los planos aparecen al final del desenlace; los redondos solo figuran en la introducción o marco descriptivo inicial de la obra.
+  <!-- feedback: Incorrecto. Ambos tipos pueden convivir a lo largo de todas las fases de la narración. -->
+- [ ] D) La diferencia radica en que los personajes redondos son animales humanizados y los planos son objetos inanimados de la selva.
+  <!-- feedback: Incorrecto. Es una distinción del desarrollo psicológico y evolutivo humano de los personajes de ficción, no una frontera biológica. -->
+
+### Explicacion Pedagogica
+Los grandes textos narrativos combinan personajes redondos (los protagonistas sobre quienes recae la transformación dramática) con personajes planos de soporte (que anclan la verosimilitud de la intriga).
+
+---
+## Question 15 [D8]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.69
+**Contexto:** Leé con atención este fragmento de un relato contemporáneo:
+'Abrió la puerta de calle. El calor húmedo de la tarde de Salto lo golpeó en la cara. Recordó, con una punzada de dolor en el pecho, la última tarde que caminaron juntos por la Costanera. Ella llevaba aquel saco azul. Sacudió la cabeza para ahuyentar el fantasma, cruzó la calle y caminó hacia la parada de ómnibus'.
+
+### Enunciado
+Analizá la coexistencia del tiempo cronológico del relato y el tiempo psicológico del personaje en este fragmento narrativo.
+
+### Opciones
+- [ ] A) El tiempo del relato se detiene por completo debido a que el narrador introduce un ensayo histórico sobre las crecidas del río Uruguay.
+  <!-- feedback: Incorrecto. La acción física sigue avanzando de forma sincrónica con la marcha hacia la parada de ómnibus; no hay desvío de ensayo histórico. -->
+- [x] B) Hay un contrapunto dinámico: mientras el tiempo cronológico exterior avanza linealmente con las acciones físicas del protagonista (abrir la puerta, caminar), el tiempo psicológico se dilata y retrocede al pasado mediante la intrusión súbita de un recuerdo doloroso de la Costanera (analepsis mental), demostrando la subjetividad de la temporalidad narrativa.
+  <!-- feedback: ¡Correcto! La diégesis trenza dos temporalidades: el transcurrir físico del reloj de Salto (tiempo cronológico objetivo exterior) y el fluir psíquico íntimo del protagonista (tiempo psicológico interior subjetivo), el cual de inmediato se evade al pasado de la relación afectiva. -->
+- [ ] C) El tiempo se anula por completo debido a que el narrador utiliza un código de lenguaje inclusivo rioplatense.
+  <!-- feedback: Incorrecto. El uso gramatical es estándar rioplatense claro; la dimensión del tiempo no se anula por cuestiones morfológicas locales. -->
+- [ ] D) La narración adopta un tiempo científico circular propio de la astronomía espacial de Secundaria.
+  <!-- feedback: Incorrecto. Se relata un momento humano y emocional de un personaje ordinario, ajeno a la astronomía científica circular física. -->
+
+### Explicacion Pedagogica
+El manejo del tiempo en la narrativa de corte gnoseológico o íntimo privilegia el fluir de la conciencia o el tiempo subjetivo (tiempo psicológico), interrumpiendo o enriqueciendo el avance plano del tiempo exterior físico.
+
+---
+## Question 16 [D8]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.67
+**Contexto:** Considerá un relato donde un narrador relata la historia de una batalla histórica, pero adopta una perspectiva restringida (focalización interna), situándose únicamente en la mirada asustada de un joven soldado que yace herido en una zanja, desconociendo por completo las estrategias generales del alto mando.
+
+### Enunciado
+¿Qué efecto estético y cognitivo produce esta restricción de la focalización en la asimilación del texto narrativo por parte del lector?
+
+### Opciones
+- [ ] A) Otorga objetividad científica total al relato, permitiendo al lector conocer datos históricos estadísticos exactos de la contienda militar.
+  <!-- feedback: Incorrecto. Al contrario: la focalización interna en el soldado asustado elimina la objetividad fría de las estadísticas generales, priorizando la verdad emocional de la trinchera. -->
+- [x] B) Genera un fuerte efecto de verosimilitud íntima, angustia y empatía humanitaria, limitando el horizonte informativo del lector a la experiencia sensorial inmediata, el dolor y la incertidumbre del soldado frente al caos de la guerra.
+  <!-- feedback: ¡Correcto! Al descartar la omnisciencia (focalización cero), la focalización interna en un solo personaje sumerge al lector en su misma limitación perceptiva, potenciando la tensión existencial y la empatía frente a la vivencia íntima real del drama bélico. -->
+- [ ] C) Anula el género narrativo transformando el cuento en un texto puramente descriptivo botánico de la zanja de barro.
+  <!-- feedback: Incorrecto. La acción dramática e histórica de supervivencia sigue activa; el texto no se convierte en un catálogo botánico de plantas de zanja. -->
+- [ ] D) Obliga al lector a descodificar el texto utilizando un diccionario técnico de ingeniería de puentes militares de campaña.
+  <!-- feedback: Incorrecto. El relato de trinchera se nutre de emociones humanas existenciales universales de supervivencia, ajenas al tecnicismo militar frío. -->
+
+### Explicacion Pedagogica
+La selección de la focalización regula el caudal informativo del relato. Restringir la mirada al mundo interno y sensorial de una víctima (focalización interna) es un recurso clave para conmover y tensionar al lector.
+
+---
+## Question 17 [D9]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.66
+**Contexto:** Leé detenidamente el final del cuento 'A la deriva' de Horacio Quiroga, cuando el protagonista envenenado navega en su canoa por el río Paraná:
+'Y de pronto sintió que estaba helado hasta el pecho. ¿Qué tenía? Además, el cansancio... De golpe advirtió que ya no podía respirar. (...) El cielo se había abierto en oro, y el hombre no sintió más que un hondo y dulce bienestar... Pero el hombre ya había dejado de respirar'.
+
+### Enunciado
+Evaluá críticamente el procedimiento quiroguiano para narrar el tránsito hacia la muerte. ¿De qué manera la transición temporal y el contraste sensorial refuerzan el desenlace fatal?
+
+### Opciones
+- [ ] A) Quiroga recurre a un deus ex machina absurdo donde un monstruo mitológico devora al protagonista de forma imprevista.
+  <!-- feedback: Incorrecto. No hay intervenciones fantásticas o monstruos de mitos clásicos; la muerte es por la toxina real del ofidio. -->
+- [ ] B) El autor construye una elipsis temporal dolorosa mediante la cual el protagonista cura milagrosamente su herida de la víbora para volver a Salto.
+  <!-- feedback: Incorrecto. El final consagra el deceso físico real del protagonista, sin curas milagrosas de diégesis feliz. -->
+- [x] C) El autor dilata la agonía física mediante un violento contraste sensorial: opone la frialdad biológica del veneno de la herida a la cálida belleza visual del cielo de oro, traduciendo el cese de las funciones vitales en un silencioso y trágico desvanecimiento existencial.
+  <!-- feedback: ¡Correcto! El desenlace quiroguiano destaca por su sobria crudeza lírica. El contraste entre el frío físico de la parálisis orgánica ('helado hasta el pecho') y el fulgor del crepúsculo ('cielo se había abierto en oro') poetiza la muerte sin atenuantes sentimentales, cerrando el relato con una sequedad objetiva e implacable de la naturaleza. -->
+- [ ] D) La narración recurre al estilo indirecto formal del médico legista para dictaminar el deceso por asfixia mecánica.
+  <!-- feedback: Incorrecto. Se relata desde la conciencia crepuscular poética del agonizante, no con la fría terminología de una autopsia forense formal. -->
+
+### Explicacion Pedagogica
+El desenlace quiroguiano funde la objetividad de las leyes físicas de la naturaleza (la inexorabilidad de la muerte por ponzoña) con un lirismo crepuscular despojado y potente, consagrando el clímax trágico del cuento de supervivencia.
+
+---
+## Question 18 [D9]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.64
+**Contexto:** Analizá críticamente el desenlace del cuento 'El almohadón de plumas' de Horacio Quiroga, cuando la sirvienta de jordán descubre las manchas de sangre y el médico rompe el almohadón:
+'Sobre el fondo, entre las plumas, se veía un animal monstruoso, una bola viviente y viscosa. Estaba tan hinchado que apenas se le pronunciaba la boca. Noche a noche, desde que Alicia había caído en cama, había aplicado su boca a las sienes de aquella, chupándole la sangre'.
+
+### Enunciado
+Desde el punto de vista del género del cuento de horror rioplatense, ¿cómo evalúa la crítica literaria la fusión quiroguiana de los elementos científicos de la naturaleza con lo fantástico-terrorífico en este desenlace?
+
+### Opciones
+- [ ] A) Como un fracaso estético total, debido a que mezclar biología médica con cuentos de vampiros anula la verosimilitud gótica.
+  <!-- feedback: Incorrecto. Al contrario: fundar el horror en un parásito biológico verosímil es la mayor genialidad y marca de Quiroga, revolucionando el género gótico americano. -->
+- [x] B) Como una resolución magistral de horror materialista o biológico: el monstruo no es un fantasma o demonio sobrenatural gótico tradicional, sino un parásito real (un ácaro gigante) cuya existencia y funcionamiento obedecen a las leyes físicas de la naturaleza, sembrando la inquietud de que el horror anida en lo cotidiano y doméstico.
+  <!-- feedback: ¡Correcto! Quiroga desplaza el terror clásico de espectros intangibles hacia un horror biológico verosímil y materialista (un parásito aviar sobredimensionado). La precisión con que describe la succión goteante de sangre asienta el terror en lo físico, lo corporal y lo doméstico, de allí su perdurable impacto gótico americano. -->
+- [ ] C) Como una digresión moralizante que busca culpar a Jordán de la desnutrición clínica de su esposa Alicia.
+  <!-- feedback: Incorrecto. La sirvienta y el médico revelan una causa parasitaria física objetiva real, no una sanción moral del matrimonio. -->
+- [ ] D) Una parodia infantil que imita las fábulas de animales del bosque para divertir a los escolares uruguayos.
+  <!-- feedback: Incorrecto. El cuento es un hito de la narrativa gótica de terror adulto rioplatense; no posee intencionalidades humorísticas infantiles. -->
+
+### Explicacion Pedagogica
+Quiroga revolucionó el terror rioplatense al anclarlo en lo biológico e implacable de las leyes de la naturaleza. Sus monstruos son góticos en su efecto emocional, pero materialistas e insectiles en su verdad física.
+
+---
+## Question 19 [D10]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.63
+**Contexto:** Estudiá esta tesis literaria sobre Mario Benedetti: 'La tregua utiliza el formato del diario íntimo no como un mero adorno formal, sino como la única estructura capaz de plasmar el monólogo de un uruguayo de clase media asfixiado por la rutina, cuya tregua existencial se frustra de manera irreversible ante la contingencia de la muerte'.
+
+### Enunciado
+¿Qué valoraciones estéticas y técnicas avalan o contradicen esta tesis sobre la estructura narrativa de la novela benedettiana?
+
+### Opciones
+- [ ] A) La tesis es incorrecta porque el diario íntimo impide que el lector empatice con la conciencia de Martín Santomé.
+  <!-- feedback: Incorrecto. El diario íntimo es precisamente la técnica que maximiza la intimidad y empatía directa con el protagonista de la oficina. -->
+- [x] B) La tesis es certera técnicamente: la fecha diaria del diario simula el avance lento de la burocracia de oficina, permitiendo que la irrupción inesperada de la muerte de Avellaneda golpee al lector con la misma sequedad, sorpresa e irreversibilidad con que sacudió la vida del gris protagonista montevideano.
+  <!-- feedback: ¡Correcto! El diario íntimo (focalización interna homodiegética rígida) es el andamiaje perfecto para la novela de Benedetti. La fragmentación por días refleja la rutina de oficina, y la muerte silenciosa y súbita de Avellaneda cobra una fuerza devastadora precisamente porque el lector la experimenta a través del vacío inmediato de anotaciones del diario desesperado. -->
+- [ ] C) La novela es en verdad una epopeya medieval escrita en verso heroico que Benedetti disfrazó de diario para ahorrar papel prensa en Montevideo.
+  <!-- feedback: Incorrecto. Es una novela urbana contemporánea realista de clase media, ajena a epopeyas medievales en verso de caballería. -->
+- [ ] D) El formato de diario íntimo se contradice con el género narrativo, pues los diarios íntimos son de carácter exclusivamente expositivo administrativo.
+  <!-- feedback: Incorrecto. El diario de ficción es un subgénero narrativo de larga y prestigiosa tradición en la literatura occidental. -->
+
+### Explicacion Pedagogica
+El formato de diario en 'La tregua' es solidario con el tema: la domesticidad de la oficina, la timidez existencial del viudo que se confiesa en papel de cuaderno y la irrupción absurda de la tragedia íntima montevideana.
+
+---
+## Question 20 [D10]
+**ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.60
+**Contexto:** Analizá la siguiente situación: En un taller literario en el Liceo N° 1 de Colonia, se debate sobre la verosimilitud de los textos narrativos de realismo mágico frente al realismo psicológico rioplatense.
+
+### Enunciado
+¿Qué principio narratológico fundamental define y diferencia la 'verosimilitud' de la 'verdad fáctica' al leer una obra de ficción literaria?
+
+### Opciones
+- [ ] A) La verosimilitud exige que todos los hechos narrados en la novela hayan ocurrido históricamente en la realidad geográfica del país del autor de forma contrastable.
+  <!-- feedback: Incorrecto. Eso corresponde al reportaje de prensa o la verdad fáctica histórica, no a la ficción literaria verosímil de mundos posibles. -->
+- [x] B) La verosimilitud es la coherencia interna de las leyes del mundo posible que construye el texto, de modo que el lector acepta la lógica del relato durante la lectura; la verdad fáctica es la correspondencia exacta de los hechos con el mundo exterior real.
+  <!-- feedback: ¡Correcto! Un relato con fantasmas puede ser verosímil si respeta de manera interna las leyes que el propio texto estableció para ese universo fantástico. La verosimilitud no exige calcar la realidad exterior (verdad fáctica), sino asegurar la consistencia interna de la ficción para sostener el pacto de lectura de la obra. -->
+- [ ] C) La verosimilitud es un error técnico de los autores principiantes de Uruguay que no saben consultar diccionarios oficiales de geografía.
+  <!-- feedback: Incorrecto. Es un concepto estético central y una regla de oro de la literatura universal desde Aristóteles hasta la narratología moderna. -->
+- [ ] D) La diferencia radica en que la verdad fáctica solo se escribe con lápiz de grafito y la verosimilitud con tinta de bolígrafo formal.
+  <!-- feedback: Incorrecto. La distinción es epistémica y estética sobre el estatuto de la ficción literaria y el mundo real objetivo, no del soporte físico escolar de la escritura. -->
+
+### Explicacion Pedagogica
+La verosimilitud literaria apoya el pacto ficcional entre autor y lector: consiste en que las acciones, personajes y espacios guarden coherencia orgánica con las premisas internas sentadas por el discurso de la obra.
+
+---
