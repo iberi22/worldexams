@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to environmental philosophy.
 
@@ -45,7 +45,7 @@ Anthropocentrism is the belief that human beings are the most important entity i
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing conservation history.
 
@@ -65,7 +65,7 @@ The past simple passive 'were created' describes the founding of national parks 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about environmental protection.
 
@@ -85,7 +85,7 @@ The second conditional 'if + past simple' describes how a hypothetical shift in 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "intergenerational justice".
 
@@ -105,7 +105,7 @@ Intergenerational justice involves the ethical obligation to leave a healthy pla
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "intrinsic value".
 
@@ -125,7 +125,7 @@ Environmentalists argue that nature has intrinsic value, meaning it is valuable 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Sustainable development definition.
 
@@ -145,7 +145,7 @@ Sustainability means meeting our own needs without compromising the ability of f
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing ethical shift.
 
@@ -165,7 +165,7 @@ The present continuous passive describes a discussion that is currently expandin
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "stewardship".
 
@@ -185,7 +185,7 @@ Environmental stewardship is the responsible use and protection of the natural e
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past change in perspective.
 
@@ -205,7 +205,7 @@ The past perfect 'had gained' indicates that the movement's growth occurred befo
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "speciesism".
 
@@ -225,7 +225,7 @@ Speciesism is the assumption of human superiority leading to the exploitation of
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of ecology.
 
@@ -245,7 +245,7 @@ Ecology is the branch of biology that deals with the relations of organisms to o
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future ethical goal.
 
@@ -265,7 +265,7 @@ The future perfect passive describes a legal milestone that is desired to be a f
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing biodiversity.
 
@@ -285,7 +285,7 @@ Biodiversity is crucial for ecosystem resilience, as it allows systems to recove
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about plastic pollution.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the imaginary result of a ch
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "environmental justice".
 
@@ -325,7 +325,7 @@ The author concludes that environmental justice requires that no group of people
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a carbon sink.
 
@@ -345,7 +345,7 @@ A carbon sink is a forest, ocean, or other natural environment viewed in terms o
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting an environmental warning.
 
@@ -365,7 +365,7 @@ In reported speech, we change 'will' to 'would' when reporting a future predicti
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "sustainable consumption".
 
@@ -385,7 +385,7 @@ Sustainable consumption involves using products and services that have a minimal
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past environmental state.
 
@@ -405,7 +405,7 @@ The past perfect 'had been' establishes the long-term cleanliness of the river p
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on environmental responsibility.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Discussion on conservation.
 
@@ -45,7 +45,7 @@ The preservation of natural resources for future generations is the core princip
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing environmental process.
 
@@ -65,7 +65,7 @@ The present continuous 'are disappearing' emphasizes that this is a current and 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Talking about past environmental damage.
 
@@ -85,7 +85,7 @@ The third conditional (if + past perfect) describes an alternative past that did
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Text about "greenwashing".
 
@@ -105,7 +105,7 @@ Greenwashing occurs when a company spends more time on marketing itself as envir
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "plastic crisis".
 
@@ -125,7 +125,7 @@ The primary challenge in managing plastic waste is its persistence in the enviro
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing renewable energy.
 
@@ -145,7 +145,7 @@ The primary function of photovoltaic solar panels is to generate electricity.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Recommendation for water conservation.
 
@@ -165,7 +165,7 @@ It is essential that we reduce our water consumption to prepare for future droug
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on urban planning.
 
@@ -185,7 +185,7 @@ Urban sprawl often leads to the destruction of natural habitats and increased re
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past habit.
 
@@ -205,7 +205,7 @@ Years ago, people used to throw away much more waste than we do now.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of the "throwaway culture".
 
@@ -225,7 +225,7 @@ The "throwaway culture" refers to a society that prioritizes convenience over th
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Environmental legislation.
 
@@ -245,7 +245,7 @@ An endangered species is a type of organism which is at risk of extinction.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in an ecology report.
 
@@ -265,7 +265,7 @@ The present continuous passive 'are being cleared' describes the current destruc
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing climate mitigation.
 
@@ -285,7 +285,7 @@ Reforestation projects help to sequester carbon from the atmosphere.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about policy change.
 
@@ -305,7 +305,7 @@ The second conditional is used to describe a hypothetical scenario and its likel
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of a study on marine biology.
 
@@ -325,7 +325,7 @@ The study concludes that unless we address acidification, coral reefs will face 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Waste management.
 
@@ -345,7 +345,7 @@ Biodegradable materials can be broken down by bacteria.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Speculating about the arctic.
 
@@ -365,7 +365,7 @@ By 2040, the Arctic Ocean might be ice-free during the summer.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about the "carbon cycle".
 
@@ -385,7 +385,7 @@ The burning of fossil fuels releases large amounts of carbon dioxide.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a scientist's warning.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: 'are becoming' becomes 'were becoming'.
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on environmental ethics.
 

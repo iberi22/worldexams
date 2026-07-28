@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid comienza el estudio de las secciones cónicas.
 
@@ -41,7 +41,7 @@ Las cónicas se definen históricamente como las intersecciones de un plano con 
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase de Matemáticas en Valencia, se define la elipse como lugar geométrico.
 
@@ -62,7 +62,7 @@ La definición de elipse como suma de distancias constante es la que permite dib
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la ecuación reducida de una elipse centrada en el origen: $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$.
 
@@ -83,7 +83,7 @@ En la ecuación reducida, el denominador mayor nos indica cuál es el eje princi
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se define la parábola como lugar geométrico.
 
@@ -104,7 +104,7 @@ La parábola es la única cónica que tiene una "excentricidad" exactamente igua
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Barcelona tiene una elipse con semieje mayor $a = 5$ y semieje menor $b = 3$.
 
@@ -125,7 +125,7 @@ En la elipse, el semieje mayor $a$ es la hipotenusa de un triángulo rectángulo
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza analiza la excentricidad de una órbita elíptica.
 
@@ -146,7 +146,7 @@ La excentricidad es un número adimensional que nos dice cuánto se aleja la có
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se presenta la ecuación de una parábola: $y^2 = 8x$.
 
@@ -167,7 +167,7 @@ En la parábola, la variable que NO está elevada al cuadrado indica el eje de s
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante estudia la propiedad reflectora de la parábola.
 
@@ -188,7 +188,7 @@ La propiedad óptica de la parábola es fundamental en ingeniería: cualquier ra
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Una elipse tiene por ecuación $9x^2 + 25y^2 = 225$.
 
@@ -209,7 +209,7 @@ Para hallar los semiejes a partir de la forma implícita, debemos igualar el té
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante halla la ecuación de la directriz de la parábola $x^2 = 12y$.
 
@@ -230,7 +230,7 @@ La directriz es una recta perpendicular al eje de simetría de la parábola, sit
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia la hipérbola como la tercera sección cónica.
 
@@ -251,7 +251,7 @@ A diferencia de la elipse, la hipérbola es una curva abierta que posee asíntot
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se busca la ecuación de la elipse con focos en $(\pm 3, 0)$ y que pasa por el punto $(5, 0)$.
 
@@ -272,7 +272,7 @@ A partir de los focos obtenemos $c$. El punto $(5,0)$ es un vértice, por lo que
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto en Asturias diseña un arco parabólico cuya base mide 10 m y cuya altura máxima es de 5 m.
 
@@ -293,7 +293,7 @@ Los arcos parabólicos se modelan mediante funciones cuadráticas. El coeficient
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Se desea hallar la ecuación de la parábola con foco en $(3, 2)$ y directriz la recta $y = 0$.
 
@@ -314,7 +314,7 @@ El vértice de una parábola siempre está a mitad de camino entre el foco y la 
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el concepto de hipérbola equilátera.
 
@@ -335,7 +335,7 @@ Las hipérbolas equiláteras son análogas a las circunferencias (donde los dos 
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante analiza la ecuación $x^2 - y^2 = 0$.
 
@@ -356,7 +356,7 @@ Las cónicas pueden ser "degeneradas" cuando el plano de corte pasa por el vért
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga quiere hallar los puntos de intersección de la elipse $x^2/16 + y^2/9 = 1$ y la recta $x = 4$.
 
@@ -377,7 +377,7 @@ El análisis de intersecciones permite verificar si una recta es tangente a una 
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la definición de cónica mediante el foco, la directriz y la excentricidad $e$.
 
@@ -398,7 +398,7 @@ Esta definición unificada de las cónicas es la más potente desde el punto de 
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** La Tierra gira alrededor del Sol en una órbita elíptica con una excentricidad muy baja ($e \approx 0,017$).
 
@@ -419,7 +419,7 @@ Las leyes de Kepler establecen que los planetas describen órbitas elípticas. E
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre la clasificación de cónicas mediante el discriminante $B^2 - 4AC$ de la ecuación general $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$.
 

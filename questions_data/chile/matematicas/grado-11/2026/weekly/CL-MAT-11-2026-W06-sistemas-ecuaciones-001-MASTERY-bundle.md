@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina estudia los métodos para resolver sistemas de ecuaciones lineales en Santiago.
 
@@ -39,7 +39,7 @@ Los métodos clásicos para resolver sistemas de ecuaciones de $2 \times 2$ son 
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la interpretación gráfica de un sistema en Antofagasta.
 
@@ -58,7 +58,7 @@ En un sistema de ecuaciones lineales, cada ecuación representa una recta en el 
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se presenta un sistema simple para resolver por inspección o método rápido.
 
@@ -79,7 +79,7 @@ Usando el método de reducción: sumamos ambas ecuaciones para eliminar $y$. $(x
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza un sistema cuyas rectas son paralelas.
 
@@ -98,7 +98,7 @@ Si las rectas son paralelas y no coinciden, no existe ningún punto que pertenez
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** En una frutería en Valparaíso, 2 kg de manzanas y 3 kg de peras cuestan \$5.500.
 
@@ -117,7 +117,7 @@ El costo total se obtiene multiplicando la cantidad de kilos por el precio por k
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se aplica el método de sustitución paso a paso.
 
@@ -139,7 +139,7 @@ Sustituir significa reemplazar una variable por una expresión equivalente. Como
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín tiene \$12.000 en billetes de \$1.000 y \$2.000. En total tiene 9 billetes.
 
@@ -158,7 +158,7 @@ Sea $x$ billetes de \$1.000 e $y$ billetes de \$2.000. Sistema: (1) $x+y=9$; (2)
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Un granjero en Chillán cuenta 20 cabezas y 28 patas entre sus gansos y ovejas.
 
@@ -177,7 +177,7 @@ Sea $G$ gansos y $O$ ovejas. Cabezas: $G+O=20$. Patas: $2G+4O=48$. De la primera
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En un cine de La Serena, la entrada de adulto vale \$5.000 y la de niño \$3.000. Si asistieron 100 personas y se recaudaron \$420.000.
 
@@ -196,7 +196,7 @@ Sea $a$ adultos y $n$ niños. (1) $a+n=100$; (2) $5.000a + 3.000n = 420.000$. Si
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza un sistema con infinitas soluciones.
 
@@ -215,7 +215,7 @@ Un sistema tiene infinitas soluciones cuando las dos ecuaciones representan la m
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** La suma de dos números es 45 y su diferencia es 11.
 
@@ -234,7 +234,7 @@ Planteamos $x+y=45$ y $x-y=11$. Sumamos las ecuaciones: $2x = 56 \Rightarrow x =
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco resuelve un sistema usando el método de reducción con factores multiplicativos.
 
@@ -258,7 +258,7 @@ Sumamos: $13x = 13 \Rightarrow x = 1$. Sustituimos en la primera: $2(1) + 3y = 8
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el resultado de mezclar dos tipos de café. El café A vale \$8.000/kg y el B \$5.000/kg.
 
@@ -277,7 +277,7 @@ Se quiere obtener 10 kg de mezcla a \$6.800/kg. ¿Cuántos kg de café tipo A se
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio en Concepción discute sobre las condiciones para que un sistema tenga solución única.
 
@@ -296,7 +296,7 @@ Para que un sistema lineal tenga solución única, el determinante de la matriz 
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide identificar el gráfico que corresponde a un sistema determinado.
 
@@ -315,7 +315,7 @@ Para que el punto de corte sea (3,0), al sustituir $x=3$ en ambas ecuaciones, $y
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Hace 5 años la edad de Pedro era el triple de la de su hijo, y en 7 años más será el doble.
 
@@ -334,7 +334,7 @@ Para que el punto de corte sea (3,0), al sustituir $x=3$ en ambas ecuaciones, $y
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Un estudiante analiza un sistema con un parámetro $k$.
 
@@ -353,7 +353,7 @@ Para que haya infinitas soluciones, los coeficientes deben ser proporcionales. $
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se pide resolver un sistema donde las variables están en el denominador.
 
@@ -375,7 +375,7 @@ Sumamos las ecuaciones: $(1/x + 1/y) + (1/x - 1/y) = 5/6 + 1/6 \Rightarrow 2/x =
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Un problema de física involucra dos proyectiles que se lanzan con velocidades constantes.
 
@@ -394,7 +394,7 @@ El encuentro ocurre cuando $x_1 = x_2$. Igualamos las expresiones: $20 + 5t = 10
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta sobre la naturaleza de un sistema de $3 \times 3$ reducido.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.85
 **Contexto:** A news headline about climate change.
 
@@ -45,7 +45,7 @@ The present perfect 'have risen' is used with 'since' to describe a situation th
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.75
 **Contexto:** Discussion about sustainable energy.
 
@@ -65,7 +65,7 @@ Transitioning to renewable energy sources is crucial to mitigate the effects of 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Talking about future environmental goals.
 
@@ -85,7 +85,7 @@ The future perfect 'will have aimed' is used to project the state of an action a
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** An article about biodiversity loss.
 
@@ -105,7 +105,7 @@ The term 'domino effect' metaphorically describes how the loss of one species tr
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Debate on international cooperation for global health.
 
@@ -125,7 +125,7 @@ Critics argue that the global response to the pandemic was fragmented. Which of 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Urbanization and its impact.
 
@@ -145,7 +145,7 @@ Urbanization is the standard sociological and geographical term for the expansio
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Discussion on poverty reduction.
 
@@ -165,7 +165,7 @@ The second conditional describes a hypothetical situation in the present or futu
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.65
 **Contexto:** Text about digital divide.
 
@@ -185,7 +185,7 @@ The digital divide specifically concerns the inequality in access to computers, 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.70
 **Contexto:** Environmental advocacy.
 
@@ -205,7 +205,7 @@ Reducing our carbon footprint is one of the most effective ways individuals can 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Excerpt on ethical consumerism.
 
@@ -225,7 +225,7 @@ The text suggests that consumer choices potentially have the power to influence 
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.80
 **Contexto:** General fact about the UN.
 
@@ -245,7 +245,7 @@ A specific past date (1945) requires the past simple.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.75
 **Contexto:** Discussion on food security.
 
@@ -265,7 +265,7 @@ Food insecurity is the technical term for the condition described.
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Talking about a past event with current relevance.
 
@@ -285,7 +285,7 @@ The past perfect 'had left' establishes the sequence of two past events.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Text about deforestation.
 
@@ -305,7 +305,7 @@ The primary driver of deforestation in the Amazon is the expansion of agricultur
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Argument about the benefits and drawbacks of globalization.
 
@@ -325,7 +325,7 @@ The author implies that while globalization has increased wealth globally, it ha
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Human rights discussion.
 
@@ -345,7 +345,7 @@ The Universal Declaration of Human Rights states that everyone is entitled to li
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Talking about sustainable habits.
 
@@ -365,7 +365,7 @@ We must use less plastic if we want to protect our oceans from further pollution
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Text about the circular economy.
 
@@ -385,7 +385,7 @@ The core principle of a circular economy is to minimize or eliminate waste throu
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.70
 **Contexto:** News report on water scarcity.
 
@@ -405,7 +405,7 @@ Many regions are facing severe water shortages, leading to conflicts over access
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Conclusion of an essay on social justice.
 

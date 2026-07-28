@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Nacional de Occidente en León define figuras cónicas.
 
@@ -39,7 +39,7 @@ La circunferencia es el caso más simple de las secciones cónicas. Se define po
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.82
 **Contexto:** Un análisis de la ecuación ordinaria de la circunferencia.
 
@@ -58,7 +58,7 @@ La forma ordinaria $(x-h)^2 + (y-k)^2 = r^2$ permite identificar visualmente el 
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.80
 **Contexto:** Un diseño de una plaza circular en el centro de Granada.
 
@@ -77,7 +77,7 @@ Para circunferencias centradas en el origen, la ecuación se simplifica a $x^2 +
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.78
 **Contexto:** Identificación de elementos a partir de la ecuación.
 
@@ -96,7 +96,7 @@ Al extraer los datos, recordamos que la ecuación usa $(x-h)$ y $(y-k)$. Por lo 
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.75
 **Contexto:** Conversión de la forma general a la forma ordinaria.
 
@@ -115,7 +115,7 @@ Completar el cuadrado es la técnica fundamental para pasar de la forma general 
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.72
 **Contexto:** Un análisis de los coeficientes en la ecuación general.
 
@@ -134,7 +134,7 @@ Una circunferencia tiene la misma curvatura en todas las direcciones, por eso lo
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.68
 **Contexto:** Hallar la ecuación dado el centro y un punto por donde pasa.
 
@@ -153,7 +153,7 @@ Cuando la circunferencia pasa por un punto, la distancia del centro a ese punto 
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.65
 **Contexto:** Un problema sobre el diámetro de una circunferencia.
 
@@ -172,7 +172,7 @@ El centro de la circunferencia es siempre el punto medio de cualquier diámetro.
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.62
 **Contexto:** Identificación del radio a partir de un área dada.
 
@@ -191,7 +191,7 @@ El área del círculo nos proporciona directamente el valor de $r^2$. Este valor
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Una traslación de la circunferencia en el plano.
 
@@ -210,7 +210,7 @@ Las traslaciones cambian el centro de $(0,0)$ a $(h,k)$, lo que se refleja como 
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.58
 **Contexto:** Determinación de la forma ordinaria a partir de la general.
 
@@ -229,7 +229,7 @@ Agrupamos términos en x e y, completamos cuadrados sumando los términos necesa
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Una circunferencia tangente a un eje coordenado.
 
@@ -248,7 +248,7 @@ La tangencia a un eje determina automáticamente el valor del radio basándose e
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.52
 **Contexto:** Un análisis de la posición relativa de un punto respecto a una circunferencia.
 
@@ -267,7 +267,7 @@ Para determinar la posición, evaluamos las coordenadas en la ecuación: si el r
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Hallar la ecuación dada la tangencia a una recta.
 
@@ -286,7 +286,7 @@ El radio de una circunferencia tangente a una recta es igual a la distancia perp
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.48
 **Contexto:** Análisis de una circunferencia que pasa por tres puntos (caso particular).
 
@@ -305,7 +305,7 @@ En un triángulo rectángulo inscrito en una circunferencia, el centro de la cir
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** El área de un círculo a partir de su ecuación analítica.
 
@@ -324,7 +324,7 @@ La ecuación nos da directamente $r^2$. El área es simplemente $\pi$ multiplica
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Intersección de una recta y una circunferencia.
 
@@ -343,7 +343,7 @@ La intersección se halla resolviendo el sistema de ecuaciones. Si al sustituir 
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.38
 **Contexto:** Ecuación de la recta tangente en un punto dado.
 
@@ -362,7 +362,7 @@ La recta tangente es siempre perpendicular al radio que llega al punto de tangen
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.35
 **Contexto:** Una propiedad de las circunferencias ortogonales o tangentes.
 
@@ -381,7 +381,7 @@ La posición relativa de dos circunferencias se determina comparando la distanci
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre el lugar geométrico y la circunferencia.
 

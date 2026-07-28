@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima identifica los elementos de una progresión aritmética.
 
@@ -45,7 +45,7 @@ Una progresión aritmética es una sucesión donde cada término se obtiene suma
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un ahorro progresivo en una alcancía. El primer día se pone S/ 2, el segundo S/ 5, el tercero S/ 8, y así sucesivamente.
 
@@ -70,7 +70,7 @@ Identificamos los valores: $a_1 = 2$, $d = 3$. Aplicamos la fórmula del términ
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Una progresión geométrica (PG) que modela el crecimiento de una inversión en Trujillo.
 
@@ -95,7 +95,7 @@ En una PG, cada término es el anterior multiplicado por la razón $r$. Aquí $r
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Suma de términos en una progresión aritmética en un examen de Arequipa.
 
@@ -120,7 +120,7 @@ Usamos la fórmula de la suma de una PA: $S_n = \frac{(a_1 + a_n)n}{2}$. Aquí $
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Cusco analiza una sucesión cuya regla de formación no es aritmética ni geométrica simple.
 
@@ -145,7 +145,7 @@ Evaluamos la regla de correspondencia para $n=5$ y $n=4$, y luego realizamos la 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Interpolación de términos en una progresión aritmética.
 
@@ -170,7 +170,7 @@ Interpolar $k$ medios aritméticos entre $a$ y $b$ significa crear una PA de $n 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Un fenómeno de rebote de una pelota en una competencia escolar en Huancayo.
 
@@ -195,7 +195,7 @@ Se trata de una progresión geométrica donde la razón es 0.75. El término $a_
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Determinación del número de términos en una sucesión finita.
 
@@ -220,7 +220,7 @@ Usamos la fórmula del término general despejando $n$: $n = \frac{a_n - a_1}{d}
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Suma infinita de una progresión geométrica decreciente.
 
@@ -245,7 +245,7 @@ Para una serie geométrica infinita con $|r| < 1$, la suma se calcula mediante l
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Problema de edades en una familia de Piura, frecuente en simulacros de examen de admisión.
 
@@ -270,7 +270,7 @@ Conocemos $a_1=12$, $n=4$ y $S_4=72$. Usamos la fórmula de la suma para despeja
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Un problema de sucesiones de segundo orden (sucesiones cuadráticas).
 
@@ -295,7 +295,7 @@ Al observar las diferencias entre términos (3, 5, 7, 9), notamos que estas form
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Un plan de entrenamiento físico en el Malecón de Miraflores. Una persona corre 2 km el primer día y cada día aumenta su recorrido en un 10% respecto al día anterior.
 
@@ -320,7 +320,7 @@ El aumento porcentual diario implica una progresión geométrica. Usamos la fór
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Propiedades de los términos consecutivos en progresiones.
 
@@ -345,7 +345,7 @@ En cualquier PA de tres términos $a, b, c$, se cumple que el término medio es 
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Un problema de lógica y sucesiones tipo examen de la UNI.
 
@@ -370,7 +370,7 @@ Identificamos el patrón: $1 \times 2, 2 \times 3, 3 \times 4, 4 \times 5...$ Es
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Progresiones armónicas y su relación con las aritméticas.
 
@@ -395,7 +395,7 @@ Una sucesión es armónica si los recíprocos de sus términos forman una progre
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** La leyenda del tablero de ajedrez y los granos de trigo, un clásico de las progresiones geométricas.
 
@@ -420,7 +420,7 @@ Se trata de la suma de los primeros 10 términos de una progresión geométrica 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Un problema complejo de interpolación y suma, nivel admisión UNI.
 
@@ -445,7 +445,7 @@ Primero hallamos el número total de términos $N$ usando la fórmula de la suma
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Sucesiones definidas por recurrencia, como la famosa sucesión de Fibonacci.
 
@@ -470,7 +470,7 @@ Generamos los términos de la sucesión de Fibonacci sumando los dos anteriores.
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Una progresión mixta en la que los términos dependen de un parámetro.
 
@@ -495,7 +495,7 @@ En una PG de tres términos, el cuadrado del término central es igual al produc
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W17-sucesiones-progresiones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Un problema de límites y convergencia de series combinadas, nivel avanzado pre-UNI.
 

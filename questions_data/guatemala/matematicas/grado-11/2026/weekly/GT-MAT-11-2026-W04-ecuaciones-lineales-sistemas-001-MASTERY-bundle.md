@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Guatemala está aprendiendo los conceptos fundamentales para resolver igualdades matemáticas.
 
@@ -39,7 +39,7 @@ La ecuación es una igualdad entre dos expresiones algebraicas que se satisface 
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Para mantener el equilibrio en una balanza que representa una ecuación lineal, se aplican ciertas reglas.
 
@@ -58,7 +58,7 @@ Las propiedades de la igualdad son la base del despeje de incógnitas, permitien
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un artesano en Antigua Guatemala vende pulseras a un precio fijo. Sus ingresos totales dependen de la cantidad de pulseras vendidas.
 
@@ -77,7 +77,7 @@ El modelado de problemas reales mediante ecuaciones lineales requiere identifica
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante revisa la clasificación de los sistemas de ecuaciones lineales según el número de soluciones.
 
@@ -96,7 +96,7 @@ Los sistemas incompatibles carecen de puntos comunes entre las ecuaciones que lo
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un pequeño empresario en Mixco calcula sus costos fijos y variables.
 
@@ -115,7 +115,7 @@ El proceso de despeje implica realizar las operaciones inversas en el orden adec
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** En una tienda de deportes en Quetzaltenango, se venden balones de fútbol y básquetbol.
 
@@ -134,7 +134,7 @@ La resolución de problemas verbales implica traducir el enunciado a una ecuaci�
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un agricultor en Escuintla necesita cercar un terreno rectangular. El largo es el triple del ancho y el perímetro es de $160$ metros.
 
@@ -153,7 +153,7 @@ Para hallar dimensiones, se define una incógnita para la medida base (ancho) y 
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Al resolver sistemas de ecuaciones, el método de sustitución es uno de los más utilizados por los estudiantes.
 
@@ -172,7 +172,7 @@ Cada método algebraico tiene una estrategia distinta para reducir el sistema de
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante resuelve un sistema de ecuaciones para encontrar el punto de equilibrio en un modelo económico simple.
 
@@ -194,7 +194,7 @@ El método de reducción es ideal cuando los coeficientes de una variable son op
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En una cafetería de la Ciudad de Guatemala, se venden combos de desayuno.
 
@@ -213,7 +213,7 @@ Sustituir valores conocidos en una ecuación lineal permite hallar el valor de l
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero civil en Guatemala diseña una rampa y necesita hallar el punto de intersección de dos vigas de soporte.
 
@@ -235,7 +235,7 @@ El método de igualación es directo cuando ambas ecuaciones ya tienen despejada
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de bachillerato analiza ecuaciones con coeficientes fraccionarios para representar proporciones en mezclas químicas.
 
@@ -254,7 +254,7 @@ Para resolver ecuaciones con fracciones, es recomendable multiplicar todos los t
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un comerciante de telas en Sololá tiene dos tipos de algodón. Mezcla $x$ libras de algodón tipo A (GTQ $10.00$/lb) con $y$ libras de tipo B (GTQ $15.00$/lb) para obtener $50$ libras de mezcla que cuestan GTQ $650.00$.
 
@@ -273,7 +273,7 @@ Los problemas de mezclas generan sistemas donde una ecuación representa las uni
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un analista de datos utiliza la regla de Cramer para resolver sistemas pequeños de manera mecánica.
 
@@ -295,7 +295,7 @@ El determinante principal de un sistema $2 \times 2$ se calcula restando el prod
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante investiga por qué algunos sistemas no tienen solución o tienen soluciones infinitas.
 
@@ -314,7 +314,7 @@ Un sistema es compatible indeterminado cuando las ecuaciones son equivalentes (p
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un grupo de estudiantes de Huehuetenango participa en un rally matemático resolviendo acertijos numéricos.
 
@@ -333,7 +333,7 @@ Este problema clásico se resuelve planteando un sistema de suma y resta: $x+y=3
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un economista en el Banco de Guatemala analiza el equilibrio de mercado donde la demanda $Q_d = 100 - 2P$ y la oferta $Q_s = 20 + 3P$.
 
@@ -352,7 +352,7 @@ El equilibrio se halla igualando las funciones de oferta y demanda, lo cual resu
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería utiliza el método de reducción para resolver un sistema con coeficientes decimales.
 
@@ -374,7 +374,7 @@ Para simplificar sistemas con decimales, es útil multiplicar cada ecuación por
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** En un laboratorio en la Universidad de San Carlos, se analizan las soluciones de sistemas mediante el rango de matrices.
 
@@ -393,7 +393,7 @@ Un sistema de ecuaciones lineales tiene solución única si y solo si el determi
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante resuelve un problema de edades que involucra un sistema de ecuaciones.
 

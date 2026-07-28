@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to global systems.
 
@@ -45,7 +45,7 @@ Global governance refers to the way in which global affairs are managed through 
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing international laws.
 
@@ -65,7 +65,7 @@ The present continuous passive describes the current and active process of creat
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about the United Nations.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about how the absence of a past histo
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the "International Criminal Court" (ICC).
 
@@ -105,7 +105,7 @@ The ICC has the jurisdiction to prosecute individuals for international crimes s
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "multilateralism".
 
@@ -125,7 +125,7 @@ Multilateralism involves multiple countries working together on a given issue, e
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** International aid agencies.
 
@@ -145,7 +145,7 @@ The WHO (World Health Organization) is responsible for international public heal
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future reform.
 
@@ -165,7 +165,7 @@ The subjunctive passive 'be + past participle' is used after verbs of suggestion
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "consensus".
 
@@ -185,7 +185,7 @@ Reaching a consensus in international negotiations can be difficult, as it requi
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long-term diplomatic effort.
 
@@ -205,7 +205,7 @@ The past perfect continuous highlights the extended and persistent effort preced
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "bureaucracy" in global institutions.
 
@@ -225,7 +225,7 @@ Critics argue that international institutions are often slowed down by excessive
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "sanctions".
 
@@ -245,7 +245,7 @@ Sanctions are commercial and financial penalties applied by one or more countrie
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future global goal.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the development of the system will be 
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "legitimacy".
 
@@ -285,7 +285,7 @@ The legitimacy of international institutions depends on their ability to represe
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about global health.
 
@@ -305,7 +305,7 @@ The third conditional passive allows for the evaluation of the effectiveness of 
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the "power of norms".
 
@@ -325,7 +325,7 @@ The author concludes that international norms can be as powerful as formal laws 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing an "envoy".
 
@@ -345,7 +345,7 @@ A special envoy is a diplomatic representative who is sent by a government or or
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for global unity.
 
@@ -365,7 +365,7 @@ I wish that the world's major powers would cooperate more on climate issues.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "global public goods".
 
@@ -385,7 +385,7 @@ Global public goods, such as clean air and scientific knowledge, benefit all of 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a call for action.
 
@@ -405,7 +405,7 @@ In reported speech, we change 'will' to 'would' when reporting a future intentio
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on global stability.
 

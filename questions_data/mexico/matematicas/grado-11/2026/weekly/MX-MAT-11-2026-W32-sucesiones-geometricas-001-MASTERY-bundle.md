@@ -27,7 +27,7 @@ Este bundle explora las progresiones geométricas, desde la razón común hasta 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Crecimiento poblacional simple de bacterias.
 **Expected_Success:** 0.88
 
@@ -48,7 +48,7 @@ En una sucesión geométrica, la razón común ($r$) es el factor constante por 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de tipos de sucesiones.
 **Expected_Success:** 0.85
 
@@ -69,7 +69,7 @@ Una sucesión es geométrica si el cociente entre términos consecutivos es cons
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Valor de una moneda de colección.
 **Expected_Success:** 0.80
 
@@ -90,7 +90,7 @@ Usamos la fórmula del término general $a_n = a_1 \cdot r^{n-1}$. Para el cuart
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Rebotes de una pelota.
 **Expected_Success:** 0.82
 
@@ -111,7 +111,7 @@ El primer término después de la caída es $a_1 = 18$ (primer rebote). La razó
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Término general de una sucesión.
 **Expected_Success:** 0.75
 
@@ -132,7 +132,7 @@ Identificamos $a_1 = 2$ y $r = -3$. La fórmula estándar es $a_n = a_1 \cdot r^
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de términos finitos.
 **Expected_Success:** 0.72
 
@@ -153,7 +153,7 @@ Usamos la fórmula de la suma finita: $S_n = \frac{a_1(r^n - 1)}{r - 1}$. Para $
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Cálculo de la razón a partir de términos no consecutivos.
 **Expected_Success:** 0.65
 
@@ -174,7 +174,7 @@ Relacionamos los términos: $a_4 = a_2 \cdot r^{(4-2)}$. Entonces $54 = 6 \cdot 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Descuentos sucesivos.
 **Expected_Success:** 0.70
 
@@ -195,7 +195,7 @@ Un descuento del 20% equivale a multiplicar por $(1 - 0.20)$, lo cual da una raz
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma infinita de una serie geométrica.
 **Expected_Success:** 0.68
 
@@ -216,7 +216,7 @@ Para una serie geométrica infinita donde $|r| < 1$, la suma es $S = \frac{a_1}{
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Términos faltantes en una secuencia.
 **Expected_Success:** 0.74
 
@@ -237,7 +237,7 @@ Calculamos la razón a partir de los términos conocidos: $r = 9/3 = 3$. El segu
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Problema de interés compuesto.
 **Expected_Success:** 0.55
 
@@ -258,7 +258,7 @@ El interés compuesto se modela como una sucesión geométrica donde $a_0 = 1000
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Medios geométricos.
 **Expected_Success:** 0.50
 
@@ -279,7 +279,7 @@ Hay 4 términos en total. $a_4 = a_1 \cdot r^3 \rightarrow 192 = 3 \cdot r^3 \ri
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Conversión de número decimal periódico a fracción.
 **Expected_Success:** 0.45
 
@@ -300,7 +300,7 @@ Es una serie geométrica con $a_1 = 7/10$ y $r = 1/10$. La suma es $\frac{7/10}{
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Términos de una sucesión con logaritmos.
 **Expected_Success:** 0.40
 
@@ -321,7 +321,7 @@ Usando $\log(a^b) = b \cdot \log(a)$, los términos son $\log(x), 2\log(x), 4\lo
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de una serie alternada.
 **Expected_Success:** 0.48
 
@@ -342,7 +342,7 @@ Serie con $a_1 = 1$ y $r = -1/3$. La fórmula $S = \frac{a_1}{1-r}$ resulta en $
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Problema de depreciación acelerada.
 **Expected_Success:** 0.52
 
@@ -363,7 +363,7 @@ La pérdida porcentual constante se modela con una progresión geométrica. La r
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Producto de los términos de una sucesión.
 **Expected_Success:** 0.32
 
@@ -384,7 +384,7 @@ En una PG, el término central $a_c$ cumple que el producto de $n$ términos es 
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sucesiones geométricas con variables.
 **Expected_Success:** 0.28
 
@@ -405,7 +405,7 @@ La propiedad de la PG dice que $b^2 = a \cdot c$. Resolvemos $(x+2)^2 = (x-2)(x+
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Fracciones de área (Fractales).
 **Expected_Success:** 0.35
 
@@ -426,7 +426,7 @@ Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemá
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Relación entre sucesiones aritméticas y geométricas.
 **Expected_Success:** 0.30
 

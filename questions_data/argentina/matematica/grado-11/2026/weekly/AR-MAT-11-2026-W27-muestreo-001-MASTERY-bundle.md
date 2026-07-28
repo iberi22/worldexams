@@ -28,7 +28,7 @@ Este bundle aborda los conceptos de población, muestra, tipos de muestreo (prob
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Consultoría política y opinión pública.
 **Expected_Success:** 0.92
 
@@ -51,7 +51,7 @@ La población es el universo completo de estudio. En este caso, todos los votant
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estudio de mercado nacional.
 **Expected_Success:** 0.90
 
@@ -74,7 +74,7 @@ La muestra es la parte representativa de la población sobre la cual se realizan
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Investigación científica oficial.
 **Expected_Success:** 0.88
 
@@ -97,7 +97,7 @@ El muestreo probabilístico es aquel en el que se conoce la probabilidad de cada
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Medios de comunicación y encuestas rápidas.
 **Expected_Success:** 0.85
 
@@ -120,7 +120,7 @@ En el muestreo no probabilístico, no se puede garantizar que todos los miembros
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de calidad industrial.
 **Expected_Success:** 0.82
 
@@ -143,7 +143,7 @@ El muestreo sistemático consiste en seleccionar elementos de una lista o línea
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Evaluación educativa nacional (Aprender).
 **Expected_Success:** 0.80
 
@@ -166,7 +166,7 @@ El muestreo estratificado garantiza que los subgrupos importantes de la poblaci�
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Clima organizacional en empresas federales.
 **Expected_Success:** 0.78
 
@@ -189,7 +189,7 @@ En el muestreo por conglomerados, la población se divide en grupos naturales he
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Investigación social de poblaciones ocultas.
 **Expected_Success:** 0.74
 
@@ -212,7 +212,7 @@ El muestreo de bola de nieve (o por redes) es una técnica no probabilística do
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Error metodológico en encuestas.
 **Expected_Success:** 0.72
 
@@ -235,7 +235,7 @@ El sesgo de cobertura ocurre cuando algunos miembros de la población tienen pro
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Conceptos teóricos fundamentales.
 **Expected_Success:** 0.82
 
@@ -258,7 +258,7 @@ Los parámetros son valores fijos y desconocidos de la población, mientras que 
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Auditoría contable mediante muestreo.
 **Expected_Success:** 0.70
 
@@ -281,7 +281,7 @@ Para el muestreo sistemático, k = N/n. 5000 / 200 = 25. Se elige un "arranque a
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Diseño de muestra proporcional.
 **Expected_Success:** 0.68
 
@@ -304,7 +304,7 @@ En el muestreo estratificado proporcional, el tamaño de la muestra de cada estr
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Trabajo de campo en encuestas de mercado.
 **Expected_Success:** 0.70
 
@@ -327,7 +327,7 @@ El muestreo por cuotas define categorías de la población que deben estar prese
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Problemas de respuesta en encuestas.
 **Expected_Success:** 0.62
 
@@ -350,7 +350,7 @@ El sesgo de no respuesta ocurre cuando los individuos que no contestan la encues
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v15
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Error inherente al muestreo.
 **Expected_Success:** 0.65
 
@@ -373,7 +373,7 @@ El error de muestreo es la diferencia entre el resultado de la muestra y el de l
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Muestreo en etapas.
 **Expected_Success:** 0.58
 
@@ -396,7 +396,7 @@ El muestreo multietápico combina diferentes técnicas en niveles sucesivos, per
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Distribución muestral de la media.
 **Expected_Success:** 0.50
 
@@ -419,7 +419,7 @@ Una propiedad fundamental de la estadística es que el valor esperado (promedio)
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Relación entre error y tamaño de muestra.
 **Expected_Success:** 0.45
 
@@ -442,7 +442,7 @@ El error típico de estimación disminuye con la raíz cuadrada del tamaño de l
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Error en el marco muestral.
 **Expected_Success:** 0.52
 
@@ -465,7 +465,7 @@ El error de marco ocurre cuando la lista de la que se extrae la muestra no coinc
 
 **ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Eficiencia de diseños muestrales.
 **Expected_Success:** 0.42
 

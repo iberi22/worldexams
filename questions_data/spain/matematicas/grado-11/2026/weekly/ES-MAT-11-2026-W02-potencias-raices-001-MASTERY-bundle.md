@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante de 1º de Bachillerato en Valencia repasa las propiedades básicas de las potencias antes de entrar en temas de análisis.
 
@@ -41,7 +41,7 @@ El producto de potencias de la misma base es una de las leyes fundamentales de l
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En un taller de diseño en Barcelona, se utilizan escalas de potencias para representar crecimientos exponenciales de superficies.
 
@@ -62,7 +62,7 @@ La notación de exponente fraccionario es esencial para unificar el tratamiento 
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un carpintero en Toledo necesita calcular el área de un cuadrado cuyo lado mide $\sqrt{5}$ metros.
 
@@ -83,7 +83,7 @@ El área de un cuadrado de lado $s$ es $s^2$. Si $s = \sqrt{5}$, entonces $s^2 =
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Sevilla revisa las condiciones de existencia de las raíces de números negativos.
 
@@ -104,7 +104,7 @@ En los números reales, las raíces de índice par de números negativos no est�
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un informático en Málaga analiza la capacidad de almacenamiento, que suele crecer en potencias de 2.
 
@@ -125,7 +125,7 @@ Se aplica la propiedad de potencia de una potencia (multiplicar exponentes) y lu
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.73
 **Contexto:** Un arquitecto en Zaragoza calcula el volumen de un cubo de $\sqrt[3]{2}$ metros de arista.
 
@@ -146,7 +146,7 @@ El volumen de un cubo es arista al cubo. La raíz cúbica elevada al cubo se anu
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de ciencias en Granada simplifica expresiones con radicales para un experimento de física.
 
@@ -167,7 +167,7 @@ Para sumar radicales, deben ser semejantes. Extraemos factores de $\sqrt{32}$ id
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Se requiere expresar el número 0,000000045 en notación científica para un informe técnico.
 
@@ -188,7 +188,7 @@ La notación científica requiere un coeficiente entre 1 (incluido) y 10 (exclui
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante compara dos números reales expresados con radicales de distinto índice.
 
@@ -209,7 +209,7 @@ Para comparar radicales de distinto índice, se reducen a índice común (m.c.m.
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Un joyero en Córdoba calcula el volumen de una perla esférica cuyo radio es $\sqrt[3]{3}$ cm.
 
@@ -230,7 +230,7 @@ Sustituimos el radio en la fórmula. Al elevar la raíz cúbica de 3 al cubo, ob
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid se enfrenta a la racionalización de expresiones algebraicas.
 
@@ -251,7 +251,7 @@ La racionalización elimina la raíz del denominador. Multiplicamos numerador y 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Un ingeniero civil calcula la resistencia de un material usando la expresión $\sqrt[3]{a^2} \cdot \sqrt[3]{a^4}$.
 
@@ -272,7 +272,7 @@ Cuando los radicales tienen el mismo índice, se pueden multiplicar sus radicand
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante estudia la racionalización de denominadores con sumas de raíces.
 
@@ -293,7 +293,7 @@ Para racionalizar un binomio con raíces cuadradas, multiplicamos por su conjuga
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un físico en Cantabria trabaja con partículas y necesita calcular la raíz cuarta de una potencia: $\sqrt[4]{16x^8}$.
 
@@ -314,7 +314,7 @@ Aplicamos la raíz de un producto. La raíz cuarta de 16 es 2 (porque $2^4=16$).
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante analiza la simplificación de radicales anidados en un ejercicio de olimpiada matemática.
 
@@ -335,7 +335,7 @@ Convertimos los radicales a exponentes fraccionarios de dentro hacia afuera. $x 
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un agrónomo en Murcia mide una parcela de $500$ m² y quiere saber el lado de un cuadrado equivalente en forma de radical simplificado.
 
@@ -356,7 +356,7 @@ Para simplificar un radical, descomponemos el radicando en factores, buscando el
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante avanzado resuelve una ecuación exponencial sencilla basada en potencias.
 
@@ -377,7 +377,7 @@ Igualamos las bases de la ecuación exponencial. $\sqrt{27} = 27^{1/2} = (3^3)^{
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea una comparación compleja entre potencias con bases distintas.
 
@@ -398,7 +398,7 @@ Para comparar potencias con distintas bases y exponentes, buscamos un exponente 
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Modelización y Resolución de Problemas
+**EJE:** Modelización y Resolución de Problemas
 **Expected_Success:** 0.38
 **Contexto:** Un diseño geométrico fractal en un museo de Bilbao usa la repetición de raíces para definir distancias.
 
@@ -419,7 +419,7 @@ Convertimos a exponentes fraccionarios: $a^{1/3} \cdot a^{1/2} = a^{1/3+1/2} = a
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto de cálculo numérico sobre la simplificación de raíces de raíces.
 

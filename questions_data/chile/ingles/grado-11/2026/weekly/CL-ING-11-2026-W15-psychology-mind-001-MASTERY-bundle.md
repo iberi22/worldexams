@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to cognitive psychology.
 
@@ -45,7 +45,7 @@ Cognition is the mental action or process of acquiring knowledge and understandi
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing the subconscious.
 
@@ -65,7 +65,7 @@ The passive voice 'is influenced' describes how human behavior is affected by th
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Describing a phobia.
 
@@ -85,7 +85,7 @@ The mixed conditional connects a permanent characteristic ('being afraid') with 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the "placebo effect".
 
@@ -105,7 +105,7 @@ The 'placebo effect' is a psychological phenomenon where improvement is driven b
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "emotional intelligence".
 
@@ -125,7 +125,7 @@ Emotional intelligence involves the ability to perceive, control, and evaluate e
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Personality traits.
 
@@ -145,7 +145,7 @@ An extrovert is an outgoing, socially confident person.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a habit.
 
@@ -165,7 +165,7 @@ He is used to working under pressure, so this stressful situation doesn't bother
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "nature vs. nurture".
 
@@ -185,7 +185,7 @@ In the 'nature vs. nurture' framework, 'nurture' represents environmental influe
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a psychological finding.
 
@@ -205,7 +205,7 @@ The present simple 'have' is used to state a general, scientifically observed tr
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "confirmation bias".
 
@@ -225,7 +225,7 @@ Confirmation bias is the tendency to search for information in a way that confir
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of stress.
 
@@ -245,7 +245,7 @@ Stress is a feeling of emotional or physical tension that can come from any even
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a past mental state.
 
@@ -265,7 +265,7 @@ The past perfect 'had begun' shows the sequence of events within the past sessio
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing social psychology.
 
@@ -285,7 +285,7 @@ Social influence refers to the way in which individuals change their behavior to
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Condition about mental health.
 
@@ -305,7 +305,7 @@ The second conditional describes a hypothetical shift in societal values.
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on resilience.
 
@@ -325,7 +325,7 @@ The author concludes that resilience is not an innate trait but a skill that can
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of empathy.
 
@@ -345,7 +345,7 @@ Empathy allows individuals to resonate with the feelings of others, fostering de
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Advice on stress management.
 
@@ -365,7 +365,7 @@ You had better see a professional if your anxiety starts to interfere with your 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "neuroplasticity".
 
@@ -385,7 +385,7 @@ Neuroplasticity is the brain's ability to reorganize itself by forming new neura
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a therapist's advice.
 
@@ -405,7 +405,7 @@ Verbs of suggestion take a 'that' clause with the base form (subjunctive).
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on self-awareness.
 

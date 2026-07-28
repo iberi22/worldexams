@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining the core concept.
 
@@ -45,7 +45,7 @@ Global citizenship is the idea that one's identity transcends geography or polit
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing human rights.
 
@@ -65,7 +65,7 @@ The present continuous passive describes the ongoing, active protection of right
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about global cooperation.
 
@@ -85,7 +85,7 @@ The second conditional 'if + past simple' describes the likely result of an imag
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "cosmopolitanism".
 
@@ -105,7 +105,7 @@ Cosmopolitanism is the ideology that all human beings belong to a single communi
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "civic engagement".
 
@@ -125,7 +125,7 @@ Civic engagement involves individual and collective actions designed to identify
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Non-profit organizations.
 
@@ -145,7 +145,7 @@ An NGO is a non-profit organization that operates independently of any governmen
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Recommendation for global awareness.
 
@@ -165,7 +165,7 @@ The base form 'learn' is used in the subjunctive mood to express a recommendatio
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "advocacy".
 
@@ -185,7 +185,7 @@ Advocacy is any action that speaks, writes, or acts on behalf of a particular ca
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past volunteer experience.
 
@@ -205,7 +205,7 @@ The past perfect continuous describes a continuous action (volunteering) leading
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "ethnocentrism".
 
@@ -225,7 +225,7 @@ Ethnocentrism is the tendency to view one's own culture as superior and to judge
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining "empathy".
 
@@ -245,7 +245,7 @@ Empathy is a key component of global citizenship, as it allows us to understand 
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passenger rights (adapted for global migrants).
 
@@ -265,7 +265,7 @@ Migrants whose safety is at risk have the right to seek asylum in other countrie
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "social justice".
 
@@ -285,7 +285,7 @@ Social justice is the view that everyone deserves equal economic, political, and
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Advice on cross-cultural interaction.
 
@@ -305,7 +305,7 @@ You shouldn't judge cultural practices unless you understand the context in whic
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "active citizenship".
 
@@ -325,7 +325,7 @@ The author concludes that being an active citizen means taking responsibility fo
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Intercultural terms.
 
@@ -345,7 +345,7 @@ A stereotype is a widely held but fixed and oversimplified image or idea of a pa
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past regret about global awareness.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure is used to express regret about a past lack 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "cultural diplomacy".
 
@@ -385,7 +385,7 @@ Cultural diplomacy involves the exchange of ideas, information, and art to foste
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a speaker's call to action.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on humanity.
 

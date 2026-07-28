@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en un instituto de Madrid estudia el comportamiento de las funciones con crecimiento rápido.
 
@@ -41,7 +41,7 @@ Una función exponencial se caracteriza por tener una base constante positiva y 
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el punto de corte con el eje vertical en una clase de funciones en Barcelona.
 
@@ -62,7 +62,7 @@ Independientemente de la base $a$, si evaluamos $f(0) = a^0$, el resultado es si
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante en Valencia calcula el valor de una función exponencial neperiana.
 
@@ -83,7 +83,7 @@ La función exponencial con base $e$ es fundamental en cálculo. Evaluar en 1 no
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Sevilla pregunta por la relación entre exponenciales y logaritmos.
 
@@ -104,7 +104,7 @@ Las funciones logarítmica y exponencial de la misma base son funciones inversas
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un biólogo en Bilbao observa que una población de bacterias se duplica cada hora: $P(t) = P_0 \cdot 2^t$.
 
@@ -125,7 +125,7 @@ El crecimiento exponencial se caracteriza por multiplicar la población en cada 
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Se analiza el dominio de una función logarítmica en un ejercicio de refuerzo en Zaragoza.
 
@@ -146,7 +146,7 @@ El dominio de una función logarítmica está restringido a los valores que hace
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la monotonía de una función exponencial decreciente.
 
@@ -167,7 +167,7 @@ Si la base está entre 0 y 1 (como 0,5), multiplicar sucesivamente por la base r
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un geólogo en Murcia usa la escala Richter: $M = \log(A/A_0)$. Si una amplitud $A$ es 10.000 veces $A_0$.
 
@@ -188,7 +188,7 @@ Las escalas logarítmicas como la Richter o el pH comprimen grandes rangos de va
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en San Sebastián resuelve una ecuación exponencial mediante logaritmos.
 
@@ -209,7 +209,7 @@ Para despejar una incógnita del exponente, aplicamos logaritmos en ambos miembr
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.63
 **Contexto:** Se estudia la presencia de asíntotas en las funciones trascendentes.
 
@@ -230,7 +230,7 @@ Las funciones exponenciales $a^x$ tienen al eje de abscisas ($y=0$) como asínto
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado en Madrid analiza el crecimiento comparado de funciones.
 
@@ -251,7 +251,7 @@ El crecimiento exponencial es superior al crecimiento polinómico. Aunque al pri
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se busca la expresión de una función exponencial que modela la pérdida de valor de un coche.
 
@@ -272,7 +272,7 @@ En modelos de desintegración o depreciación, el factor de la base es $(1 - r)$
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias explica el efecto de una traslación vertical en un logaritmo.
 
@@ -293,7 +293,7 @@ Al sumarle 1 a la función logarítmica, toda la gráfica sube una unidad. El pu
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga usa la función $f(x) = 2^{x-4}$ para diseñar un patrón de sombreado.
 
@@ -314,7 +314,7 @@ Igualamos las bases: 8 se puede escribir como $2^3$. Al tener la misma base en a
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el rango de la función exponencial.
 
@@ -335,7 +335,7 @@ La función exponencial $a^x$ nunca arroja un resultado negativo ni nulo. Por el
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante resuelve una ecuación logarítmica con una base distinta a 10 o e.
 
@@ -356,7 +356,7 @@ Aplicamos la definición de logaritmo: el argumento debe ser igual a la base ele
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en Madrid implementa una función de atenuación de sonido: $I(d) = I_0 \cdot e^{-0,2d}$.
 
@@ -377,7 +377,7 @@ Este es el concepto de "semivida" o "distancia de semiatenuación". Resolvemos l
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la resolución de una ecuación exponencial que requiere un cambio de variable.
 
@@ -398,7 +398,7 @@ Usamos el cambio de variable $z = 2^x$ para convertir la expresión exponencial 
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza la inversa de una función exponencial desplazada.
 
@@ -419,7 +419,7 @@ Para hallar la inversa, intercambiamos los roles de $x$ e $y$ y despejamos la nu
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre el límite de la función logarítmica.
 

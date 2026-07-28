@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Bachillerato en Madrid estudia los lugares geométricos en el plano cartesiano.
 
@@ -41,7 +41,7 @@ La circunferencia es el lugar geométrico más sencillo. Se basa en una única r
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase de Matemáticas en Valencia, se presenta la ecuación canónica de la circunferencia.
 
@@ -62,7 +62,7 @@ La ecuación canónica muestra explícitamente los elementos geométricos que de
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante identifica los elementos de la ecuación general de la circunferencia.
 
@@ -83,7 +83,7 @@ Para pasar de la forma general a la canónica, dividimos los coeficientes lineal
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se analiza la condición de existencia de una circunferencia real.
 
@@ -104,7 +104,7 @@ No toda ecuación de segundo grado en $x$ e $y$ es una circunferencia. La combin
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Barcelona tiene la ecuación $(x-3)^2 + (y+1)^2 = 25$.
 
@@ -125,7 +125,7 @@ La lectura directa de parámetros desde la ecuación canónica requiere atenció
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza quiere hallar la ecuación de la circunferencia centrada en el origen que pasa por el punto $(3, 4)$.
 
@@ -146,7 +146,7 @@ Si pasa por un punto y está centrada en el origen, el cuadrado del radio es sim
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se desea conocer la posición del punto $P(2, 2)$ respecto a la circunferencia $x^2 + y^2 = 9$.
 
@@ -167,7 +167,7 @@ La posición relativa de un punto se determina comparando su distancia al centro
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la intersección de una circunferencia con los ejes.
 
@@ -188,7 +188,7 @@ Para hallar cortes con el eje X, hacemos $y=0$. En este caso: $(x-5)^2 + (-3)^2 
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Se busca la ecuación de una circunferencia de radio 3 tangente a ambos ejes en el primer cuadrante.
 
@@ -209,7 +209,7 @@ La condición de tangencia a los ejes implica que la distancia del centro a cada
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Bilbao tiene la ecuación general $x^2 + y^2 - 4x + 6y - 12 = 0$.
 
@@ -230,7 +230,7 @@ La fórmula del radio a partir de la ecuación general es $R = \sqrt{a^2 + b^2 -
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia la posición relativa de una recta $y = x + 1$ y una circunferencia $x^2 + y^2 = 1$.
 
@@ -251,7 +251,7 @@ Para hallar la posición relativa recta-circunferencia, resolvemos el sistema de
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se busca la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.
 
@@ -272,7 +272,7 @@ Propiedad geométrica fundamental: la recta tangente a una circunferencia en un 
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto en Asturias analiza dos circunferencias: $C_1: x^2 + y^2 = 4$ y $C_2: (x-5)^2 + y^2 = 9$.
 
@@ -293,7 +293,7 @@ La posición relativa entre dos circunferencias se determina comparando la dista
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Halla la ecuación de la circunferencia que tiene como diámetro el segmento de extremos $A(-1, 2)$ y $B(3, 2)$.
 
@@ -314,7 +314,7 @@ Si conocemos un diámetro, el centro es el punto medio de sus extremos y el radi
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el concepto de potencia de un punto respecto a una circunferencia.
 
@@ -335,7 +335,7 @@ La potencia de un punto $P$ respecto a una circunferencia es el valor que se obt
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante analiza si la ecuación $x^2 + 2y^2 - 4x + 6y = 0$ representa una circunferencia.
 
@@ -356,7 +356,7 @@ La circunferencia es un caso especial de elipse donde la excentricidad es cero. 
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga quiere hallar la ecuación de la circunferencia que pasa por los puntos $(0,0)$, $(4,0)$ y $(0,4)$.
 
@@ -377,7 +377,7 @@ Para hallar una circunferencia que pasa por tres puntos, podemos resolver el sis
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la ecuación de la recta polar de un punto respecto a una circunferencia, un concepto avanzado de geometría analítica.
 
@@ -398,7 +398,7 @@ La recta polar es un concepto de dualidad en geometría proyectiva y analítica.
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador simula una colisión elástica. Necesita hallar los puntos de intersección de $x^2 + y^2 = 10$ y la recta $y = 3x$.
 
@@ -419,7 +419,7 @@ La resolución de sistemas cuadrático-lineales es una aplicación práctica ese
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el concepto de eje radical de dos circunferencias.
 

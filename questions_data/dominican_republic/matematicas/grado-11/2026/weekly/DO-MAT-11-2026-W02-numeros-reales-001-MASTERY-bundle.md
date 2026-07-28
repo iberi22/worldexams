@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo repasa las propiedades básicas de los números reales para su examen de Pruebas Nacionales.
 
@@ -41,7 +41,7 @@ La propiedad conmutativa es fundamental en los números reales y aplica tanto pa
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En una ferretería de Santiago, se manejan inventarios donde el número 1 juega un papel especial en las multiplicaciones de precios.
 
@@ -62,7 +62,7 @@ El elemento neutro multiplicativo garantiza que para cualquier real $a$, $a \cdo
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza por qué al multiplicar $5 \cdot (1/5)$ el resultado es exactamente 1.
 
@@ -83,7 +83,7 @@ La existencia del inverso multiplicativo (recíproco) es una propiedad de campo 
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Simplificando la expresión $2(x + 3)$ en un cuaderno de matemáticas.
 
@@ -104,7 +104,7 @@ La propiedad distributiva vincula la multiplicación con la suma: $a(b+c) = ab +
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.75
 **Contexto:** En un laboratorio en San Cristóbal, se miden temperaturas extremas de $-15.5$ °C y $22.3$ °C.
 
@@ -125,7 +125,7 @@ La distancia entre dos puntos $a$ y $b$ en la recta real se calcula con el valor
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Un agrimensor en La Romana calcula el área de un terreno circular usando la aproximación racional de $\pi \approx 3.14$.
 
@@ -146,7 +146,7 @@ Se aplica la jerarquía de operaciones: primero la potencia ($10^2 = 100$) y lue
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.70
 **Contexto:** Se discute la densidad de los números reales en un aula de Puerto Plata.
 
@@ -167,7 +167,7 @@ Convertimos las fracciones a decimales: $1/2 = 0.5$ y $3/4 = 0.75$. El número $
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Un comerciante en el mercado de San Francisco de Macorís aplica dos descuentos sucesivos del 10%.
 
@@ -188,7 +188,7 @@ Usamos factores multiplicativos: $0.9 \cdot 0.9 = 0.81$. El descuento es $1 - 0.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.65
 **Contexto:** Análisis de la recta numérica en un liceo de Baní.
 
@@ -209,7 +209,7 @@ La completitud es lo que diferencia a los reales de los racionales.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.60
 **Contexto:** Un arquitecto en Higüey necesita calcular la diagonal de una habitación de 3m por 4m.
 
@@ -230,7 +230,7 @@ Se aplica el teorema de Pitágoras sobre números reales enteros.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante evalúa la validez de operaciones con valor absoluto.
 
@@ -251,7 +251,7 @@ Por definición, $|x| = -x$ si $x \leq 0$.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Simplificación de la expresión $(2 + \sqrt{2}) - (1 - \sqrt{2})$.
 
@@ -272,7 +272,7 @@ Agrupamos términos semejantes: enteros con enteros y radicales con radicales.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante en Moca simplifica potencias de base negativa: $(-2)^3 + (-2)^2$.
 
@@ -293,7 +293,7 @@ Potencia impar de base negativa es negativa; potencia par de base negativa es po
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.45
 **Contexto:** Se analiza el orden de los números reales en San Juan de la Maguana.
 
@@ -314,7 +314,7 @@ En la recta numérica, un número es mayor que otro si se encuentra a su derecha
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante resuelve la operación: $10 - [2 \cdot (-3) + 4]$.
 
@@ -335,7 +335,7 @@ Se resuelve primero lo interno al corchete (multiplicación antes que suma) y lu
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** Análisis de conjuntos infinitos.
 
@@ -356,7 +356,7 @@ Los complejos permiten resolver $x^2 + 1 = 0$, imposible en los reales.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Análisis avanzado en la UASD sobre la propiedad de Arquímedes.
 
@@ -377,7 +377,7 @@ Garantiza que no hay números reales "infinitamente grandes" comparados con los 
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Reflexión sobre la multiplicación por cero.
 
@@ -398,7 +398,7 @@ Es fundamental para resolver ecuaciones factorizadas.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Un problema de límites: ¿A qué valor se acerca $1/n$ cuando $n$ crece mucho?
 
@@ -419,7 +419,7 @@ Concepto de límite fundamental en el análisis de los números reales.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** ¿Es $\sqrt{2}$ un número real?
 

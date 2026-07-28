@@ -19,7 +19,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.85
 **Contexto:** Agustín le cuenta a su abuela sobre su fin de semana en Rosario.
 
@@ -40,7 +40,7 @@ Para hablar de acciones terminadas en el pasado, usamos el pasado simple. Como "
 ## Question 2 [D3-D4]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.80
 **Contexto:** Valentina describe lo que estaba haciendo ayer a la tarde en Córdoba.
 
@@ -61,7 +61,7 @@ El pasado continuo se usa para describir acciones que estaban ocurriendo en un m
 ## Question 3 [D3-D4]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.75
 **Contexto:** Una charla sobre un corte de luz inesperado durante un partido de fútbol.
 
@@ -82,7 +82,7 @@ Es muy común usar estos dos tiempos juntos. El pasado continuo ("were watching"
 ## Question 4 [D5-D6]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.70
 **Contexto:** Un turista relata un pequeño incidente en la calle Florida, Buenos Aires.
 
@@ -103,7 +103,7 @@ La palabra "while" (mientras) es una pista clave: casi siempre va seguida del pa
 ## Question 5 [D5-D6]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.65
 **Contexto:** Matías explica por qué no escuchó el teléfono mientras estaba en el subte.
 
@@ -124,7 +124,7 @@ Matías está justificando una acción (no atender) con una situación que estab
 ## Question 6 [D5-D6]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.60
 **Contexto:** Una pregunta sobre las actividades de un grupo de amigos durante una tormenta en Mar del Plata.
 
@@ -145,7 +145,7 @@ Para preguntar sobre una acción en progreso en el pasado, invertimos el orden: 
 ## Question 7 [D7-D8]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.55
 **Contexto:** Comparando dos acciones que ocurrieron al mismo tiempo en una oficina de Buenos Aires.
 
@@ -166,7 +166,7 @@ Si tenés dos personas haciendo cosas largas al mismo tiempo, podés usar el pas
 ## Question 8 [D7-D8]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.50
 **Contexto:** Analizando el orden de los eventos en un viaje a la Quebrada de Humahuaca.
 
@@ -187,7 +187,7 @@ Este es un detalle sutil pero importante. Si usás el continuo ("it was raining"
 ## Question 9 [D7-D8]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.45
 **Contexto:** Un relato sobre una pérdida de llaves en Mendoza.
 
@@ -208,7 +208,7 @@ Cuando contás una historia paso a paso (primero esto, después aquello), usás 
 ## Question 10 [D9-D10]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.40
 **Contexto:** Evaluación de la ambientación en el inicio de un cuento sobre la Patagonia.
 
@@ -229,7 +229,7 @@ En literatura, el pasado continuo es tu mejor amigo para las descripciones. Si q
 ## Question 11 [D9-D10]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.35
 **Contexto:** Detectar un error común de "spelling" en los verbos con -ing en un examen.
 
@@ -250,7 +250,7 @@ One of these sentences has a spelling error in the Past Continuous form. Identif
 ## Question 12 [D9-D10]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.30
 **Contexto:** Un desafío gramatical sobre verbos que cambian de significado entre Simple y Continuo.
 

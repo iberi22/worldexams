@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to legal protection.
 
@@ -45,7 +45,7 @@ Regulation is the set of rules or directives made and maintained by an authority
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing international treaties.
 
@@ -65,7 +65,7 @@ The present perfect passive 'has been ratified' describes the official state of 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about law enforcement.
 
@@ -85,7 +85,7 @@ The second conditional 'if + were' describes the likely outcome of a hypothetica
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the "polluter pays" principle.
 
@@ -105,7 +105,7 @@ The "polluter pays" principle suggests that those who produce pollution should b
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "legal standing" for nature.
 
@@ -125,7 +125,7 @@ Some legal scholars argue that natural features like rivers should have "legal p
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Legal documentation.
 
@@ -145,7 +145,7 @@ An environmental impact assessment (EIA) must be conducted before major construc
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing legal change.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current, active rollout of new regu
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "compliance".
 
@@ -185,7 +185,7 @@ Companies that fail to comply with environmental regulations can face heavy fine
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past legal victory.
 
@@ -205,7 +205,7 @@ The past perfect continuous emphasizes the long duration of the legal battle pre
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "greenwashing".
 
@@ -225,7 +225,7 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "legislation".
 
@@ -245,7 +245,7 @@ Legislation is a law or a set of laws that have been passed by a parliament or o
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future legal milestone.
 
@@ -265,7 +265,7 @@ The future perfect passive describes the ban as a finished reality by the year 2
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "jurisdiction".
 
@@ -285,7 +285,7 @@ Jurisdiction refers to the official power to make legal decisions and judgments 
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about international treaties.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "environmental litigation".
 
@@ -325,7 +325,7 @@ The author concludes that environmental litigation is a powerful tool for holdin
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "litigant".
 
@@ -345,7 +345,7 @@ A litigant is a person involved in a lawsuit.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past wish about environmental law.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure allows for the expression of regret about a 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "sustainable finance".
 
@@ -385,7 +385,7 @@ Sustainable finance involves taking environmental, social, and governance (ESG) 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a legal ruling.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original violation to show it 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the importance of law.
 

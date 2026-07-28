@@ -28,7 +28,7 @@ Este bundle aborda las medidas de tendencia central, posición (cuartiles) y dis
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Notas de exámenes escolares.
 **Expected_Success:** 0.92
 
@@ -51,7 +51,7 @@ La moda es la medida de tendencia central que representa el valor con mayor frec
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Registro de temperaturas provinciales.
 **Expected_Success:** 0.90
 
@@ -74,7 +74,7 @@ La mediana es el valor que ocupa la posición central cuando los datos están or
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Análisis salarial empresarial.
 **Expected_Success:** 0.85
 
@@ -97,7 +97,7 @@ La media aritmética es sensible a valores extremos (outliers). En este caso, el
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Precios de consumo básico.
 **Expected_Success:** 0.88
 
@@ -120,7 +120,7 @@ El rango es la medida de dispersión más simple y se calcula restando el valor 
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estadísticas deportivas.
 **Expected_Success:** 0.82
 
@@ -143,7 +143,7 @@ La media aritmética se calcula sumando todos los valores de la muestra y dividi
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Uso de tecnología en jóvenes.
 **Expected_Success:** 0.78
 
@@ -166,7 +166,7 @@ Los cuartiles dividen la muestra ordenada en cuatro partes iguales. El primer cu
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Comparación de poblaciones por dispersión.
 **Expected_Success:** 0.75
 
@@ -189,7 +189,7 @@ La desviación estándar mide cuánto se alejan, en promedio, los datos respecto
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Demografía de la tercera edad.
 **Expected_Success:** 0.74
 
@@ -212,7 +212,7 @@ En distribuciones de frecuencias con datos agrupados, el intervalo que registra 
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Relación entre medidas de dispersión.
 **Expected_Success:** 0.80
 
@@ -235,7 +235,7 @@ La desviación estándar se define como la raíz cuadrada de la varianza. Se uti
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de presentismo escolar.
 **Expected_Success:** 0.72
 
@@ -258,7 +258,7 @@ Los percentiles dividen los datos en 100 partes. El P90 indica que el 90% de los
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Propiedades de la media aritmética.
 **Expected_Success:** 0.68
 
@@ -286,7 +286,7 @@ Si el nuevo valor incorporado es exactamente igual a la media aritmética actual
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cálculo de mediana en datos agrupados.
 **Expected_Success:** 0.65
 
@@ -309,7 +309,7 @@ Aplicamos la fórmula de interpolación para la mediana en datos agrupados. La d
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación de diagramas de caja y bigotes.
 **Expected_Success:** 0.60
 
@@ -332,7 +332,7 @@ En un Boxplot, la longitud de los bigotes representa la dispersión de los datos
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cambio de unidades y medidas estadísticas.
 **Expected_Success:** 0.58
 
@@ -357,7 +357,7 @@ Si multiplicamos todos los datos por una constante k, la media queda multiplicad
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Comparación de dispersión relativa.
 **Expected_Success:** 0.62
 
@@ -380,7 +380,7 @@ El Coeficiente de Variación permite comparar la dispersión entre grupos con di
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v16
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Dispersión central de los datos.
 **Expected_Success:** 0.64
 
@@ -403,7 +403,7 @@ El rango intercuartílico es una medida de dispersión robusta que no se ve afec
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Propiedades de la varianza nula.
 **Expected_Success:** 0.55
 
@@ -426,7 +426,7 @@ La varianza es una suma de cuadrados, por lo que siempre es mayor o igual a cero
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Relación entre medidas en distribuciones simétricas.
 **Expected_Success:** 0.50
 
@@ -449,7 +449,7 @@ La simetría implica que el "centro" es el mismo para la frecuencia (moda), la p
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Transformaciones lineales de variables.
 **Expected_Success:** 0.45
 
@@ -474,7 +474,7 @@ Propiedades de transformaciones lineales: E[aX + b] = aE[X] + b y σ[aX + b] = |
 
 **ID:** AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Análisis de riesgo y retorno.
 **Expected_Success:** 0.42
 

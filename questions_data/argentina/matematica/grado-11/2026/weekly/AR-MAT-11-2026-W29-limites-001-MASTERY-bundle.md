@@ -28,7 +28,7 @@ Este bundle aborda el concepto de límite de una función, límites laterales, c
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Introducción al análisis matemático.
 **Expected_Success:** 0.88
 
@@ -51,7 +51,7 @@ El concepto de límite se centra en la tendencia de los valores de la función c
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Análisis gráfico de funciones.
 **Expected_Success:** 0.85
 
@@ -74,7 +74,7 @@ El límite existe si y solo si el límite por la izquierda (x -> a⁻) y el lím
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Cálculo directo de límites.
 **Expected_Success:** 0.92
 
@@ -97,7 +97,7 @@ Para funciones continuas como las polinómicas, el límite en un punto se puede 
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Propiedades básicas de los límites.
 **Expected_Success:** 0.95
 
@@ -120,7 +120,7 @@ Como la función constante siempre devuelve el mismo valor k sin importar el val
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Indeterminaciones matemáticas.
 **Expected_Success:** 0.82
 
@@ -143,7 +143,7 @@ La forma 0/0 indica que hay un factor común (x - a) en el numerador y el denomi
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Resolución de límites indeterminados por factorización.
 **Expected_Success:** 0.78
 
@@ -166,7 +166,7 @@ Usamos la diferencia de cuadrados para factorizar x² - 9 como (x - 3)(x + 3). A
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Comportamiento asintótico.
 **Expected_Success:** 0.80
 
@@ -189,7 +189,7 @@ Dividir una constante fija por un número cada vez más grande da como resultado
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites al infinito de funciones racionales.
 **Expected_Success:** 0.75
 
@@ -212,7 +212,7 @@ Para límites al infinito de funciones racionales, si los grados del numerador y
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites laterales e infinitos.
 **Expected_Success:** 0.72
 
@@ -238,7 +238,7 @@ Al acercarnos a 4 desde valores mayores (como 4,001), el denominador es positivo
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites en funciones definidas por tramos.
 **Expected_Success:** 0.74
 
@@ -261,7 +261,7 @@ El límite depende de lo que sucede ALREDEDOR de x=2. Como por ambos lados la fu
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites con raíces y racionalización.
 **Expected_Success:** 0.65
 
@@ -284,7 +284,7 @@ Para resolver límites de la forma 0/0 que involucran raíces cuadradas, se util
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v12
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites notables o fundamentales.
 **Expected_Success:** 0.70
 
@@ -307,7 +307,7 @@ Este límite es fundamental en el cálculo infinitesimal. Indica que para ángul
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Comparación de grados en el infinito.
 **Expected_Success:** 0.68
 
@@ -330,7 +330,7 @@ Si el grado del polinomio del denominador es estrictamente mayor que el del nume
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Resolución de límites mediante factoreo avanzado.
 **Expected_Success:** 0.62
 
@@ -353,7 +353,7 @@ Usamos la fórmula de diferencia de cubos para el numerador: a³ - b³ = (a - b)
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v15
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** El número e como límite.
 **Expected_Success:** 0.65
 
@@ -376,7 +376,7 @@ La indeterminación del tipo 1 elevado a infinito es una de las más importantes
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites que no existen por lateralidad.
 **Expected_Success:** 0.60
 
@@ -399,7 +399,7 @@ Para x > 0, |x|=x, entonces x/x = 1. Para x < 0, |x|=-x, entonces -x/x = -1. Al 
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites resueltos por L'Hôpital o series.
 **Expected_Success:** 0.45
 
@@ -422,7 +422,7 @@ La Regla de L'Hôpital permite resolver indeterminaciones 0/0 o ∞/∞ derivand
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites trigonométricos avanzados.
 **Expected_Success:** 0.50
 
@@ -445,7 +445,7 @@ Este límite es otro de los resultados clásicos del cálculo. Puede resolverse 
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Límites con logaritmos.
 **Expected_Success:** 0.48
 
@@ -468,7 +468,7 @@ Utilizando la propiedad k * ln(A) = ln(A^k), transformamos la expresión en el l
 
 **ID:** AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Teorema del emparedado (o del sandwich).
 **Expected_Success:** 0.42
 

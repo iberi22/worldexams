@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa los cuerpos de revolución para su examen de admisión.
 
@@ -45,7 +45,7 @@ Los cuerpos de revolución se obtienen al girar una figura plana alrededor de un
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un fabricante de envases en Trujillo diseña una lata de conservas cilíndrica.
 
@@ -70,7 +70,7 @@ El volumen de un cilindro es el producto del área de la base por la altura. Com
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un heladero en Lima utiliza barquillos en forma de cono.
 
@@ -95,7 +95,7 @@ El volumen del cono es un tercio del área de la base por la altura: $V = \frac{
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Se analiza el área de una pelota de fútbol de radio 10 cm.
 
@@ -120,7 +120,7 @@ El área de la superficie esférica se calcula con la fórmula $A = 4\pi r^2$. C
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero en Piura diseña un tanque cilíndrico donde el área lateral es igual a la suma del área de sus dos bases.
 
@@ -145,7 +145,7 @@ Planteamos la igualdad: Área lateral = 2 $\times$ Área base $\Rightarrow 2\pi 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de la UNI calcula la generatriz de un cono de radio 5 cm y altura 12 cm.
 
@@ -170,7 +170,7 @@ En un cono recto, la generatriz ($g$), la altura ($h$) y el radio ($r$) forman u
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Se analiza el volumen de una esfera metálica en el Callao.
 
@@ -195,7 +195,7 @@ El volumen de la esfera es proporcional al cubo de su radio ($V \propto r^3$). A
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un arquitecto en Arequipa diseña una cúpula semiesférica de 12 m de diámetro.
 
@@ -220,7 +220,7 @@ El radio es la mitad del diámetro ($r = 6$ m). El área de la superficie curva 
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un problema sobre el desarrollo lateral de un cilindro en un examen de simulación.
 
@@ -245,7 +245,7 @@ En el desarrollo de un cilindro, la longitud del rectángulo corresponde al per�
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Se calcula el área total de un cono de radio 6 cm y generatriz 10 cm.
 
@@ -270,7 +270,7 @@ El área total del cono es la suma del área de la base circular ($\pi r^2$) y e
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Un cilindro inscrito en una esfera de radio 5 cm, con altura de 8 cm.
 
@@ -295,7 +295,7 @@ Por simetría, el radio de la esfera ($R$), el radio del cilindro ($r$) y la mit
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un depósito en Cusco tiene forma de tronco de cono con radios de 2 m y 5 m.
 
@@ -320,7 +320,7 @@ El volumen de un tronco de cono se halla con $V = \frac{\pi h}{3}(R^2 + r^2 + Rr
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Se estudia el volumen de una esfera inscrita en un cilindro recto.
 
@@ -345,7 +345,7 @@ Si la esfera está inscrita, el cilindro tiene radio $r$ y altura $h = 2r$. Su v
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Preparación para el examen UNI sobre la sección de una esfera por un plano.
 
@@ -370,7 +370,7 @@ El radio del círculo de la sección se halla mediante el teorema de Pitágoras 
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Desarrollo lateral de un cono de radio 5 cm y área lateral $65\pi$ cm².
 
@@ -395,7 +395,7 @@ Primero determinamos la generatriz $g$ despejándola del área lateral: $g = 65\
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Se estudia la relación de volúmenes con un cono equilátero inscrito en una esfera de radio 6 cm.
 
@@ -420,7 +420,7 @@ Para un cono equilátero inscrito en una esfera de radio $R$, la altura es $1.5R
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Rotación de un triángulo rectángulo de catetos 3 y 4 cm alrededor de su hipotenusa.
 
@@ -445,7 +445,7 @@ Al rotar sobre la hipotenusa, se forman dos conos con una base común. El radio 
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Un problema sobre el área de un huso esférico en una esfera de superficie total de 360 cm².
 
@@ -470,7 +470,7 @@ El área de un huso esférico de ángulo $\alpha$ es una fracción de la superfi
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Un reto sobre el teorema de Pappus-Guldin para volúmenes de revolución.
 
@@ -495,7 +495,7 @@ Aplicamos el segundo teorema de Pappus-Guldin: $V = 2\pi d A$, donde $d$ es la d
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Optimización en un cono circunscrito a una esfera de radio R.
 

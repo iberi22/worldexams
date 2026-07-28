@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en Puebla ahorra parte de su beca y quiere entender cómo se calculan los rendimientos básicos.
 **Expected_Success:** 0.90
 
@@ -43,7 +43,7 @@ En el interés simple, el rendimiento se calcula siempre sobre el capital origin
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Una familia en Veracruz solicita un microcrédito y revisa los términos del contrato.
 **Expected_Success:** 0.85
 
@@ -65,7 +65,7 @@ El Capital, también llamado Principal, es la base monetaria sobre la cual se re
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un asesor financiero en la CDMX explica la diferencia entre el interés ganado y el dinero total acumulado.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ El Monto o Valor Futuro es la cantidad total que se recibe (o se paga) al conclu
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven planea abrir una cuenta de ahorro y compara diferentes tasas de interés.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ Las tasas de interés suelen expresarse en porcentaje (por cada cien). Para los 
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un comerciante en Guadalajara invierte $10,000 pesos en un pagaré bancario a tasa simple.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Aplicamos la fórmula $I = C \cdot i \cdot t$. Multiplicamos el capital ($10,000
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Una persona en Monterrey pide un préstamo de $5,000 pesos para pagar en 6 meses con interés simple.
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Es crucial que la tasa y el tiempo estén en la misma unidad. Si la tasa es anua
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un pequeño empresario en Querétaro desea saber el valor total de su deuda al finalizar un crédito.
 **Expected_Success:** 0.70
 
@@ -175,7 +175,7 @@ Primero calculamos el interés simple: $8,000 \cdot 0.10 \cdot 3 = 2,400$. Luego
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el rendimiento de una cuenta que paga intereses mensualmente.
 **Expected_Success:** 0.65
 
@@ -197,7 +197,7 @@ Un trimestre tiene 3 meses. Dado que la tasa ya es mensual (0.01), multiplicamos
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ahorrador compara dos instrumentos financieros con diferentes plazos.
 **Expected_Success:** 0.60
 
@@ -219,7 +219,7 @@ Para que un capital se duplique, el interés ganado debe ser igual al capital in
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Una persona liquida una deuda y quiere saber cuánto pagó de intereses reales.
 **Expected_Success:** 0.65
 
@@ -241,7 +241,7 @@ Primero restamos el capital del monto para hallar el interés: $18,600 - 15,000 
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista en la Ciudad de México evalúa el tiempo necesario para alcanzar una meta financiera.
 **Expected_Success:** 0.55
 
@@ -263,7 +263,7 @@ Despejamos el tiempo ($t$) de la fórmula de interés simple: $t = I / (C \cdot 
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el costo de oportunidad de una inversión con días exactos.
 **Expected_Success:** 0.50
 
@@ -285,7 +285,7 @@ Para el interés ordinario, dividimos el número de días entre 360. $I = 45,000
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de administración compara el interés ganado en dos cuentas diferentes.
 **Expected_Success:** 0.45
 
@@ -307,7 +307,7 @@ Para hallar el capital conociendo el monto, usamos la fórmula $C = M / (1 + i \
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un contador en una empresa de transporte calcula el interés moratorio de una factura vencida.
 **Expected_Success:** 0.40
 
@@ -329,7 +329,7 @@ La tasa diaria es 0.1%, que equivale a 0.001 en decimal. Multiplicamos por el ca
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se estudia el efecto de cambiar la periodicidad de la tasa en el cálculo final.
 **Expected_Success:** 0.50
 
@@ -351,7 +351,7 @@ Para encontrar tasas equivalentes en interés simple, basta con dividir la tasa 
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista financiero en el IPN evalúa una inversión que rinde intereses cada cuatrimestre.
 **Expected_Success:** 0.45
 
@@ -373,7 +373,7 @@ Un año tiene 3 cuatrimestres, por lo que 2 años tienen 6. Multiplicamos el cap
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en finanzas de la UNAM analiza una situación de interés simple con capital variable en el tiempo (reversión de monto).
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Este problema requiere dos pasos. Primero usamos la segunda inversión para hall
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista decide repartir su capital en dos instrumentos con diferentes tasas para diversificar.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ Planteamos un sistema de ecuaciones: $x + y = 100,000$ y $0.10x + 0.12y = 10,800
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista compara el interés simple con la inflación para determinar el rendimiento real.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ La tasa de rendimiento real se calcula mediante la fórmula de Fisher: $r = (i -
 
 **ID:** MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un problema de optimización financiera donde se busca el equilibrio entre dos préstamos.
 **Expected_Success:** 0.15
 

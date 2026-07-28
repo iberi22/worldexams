@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Nacional Enrique Nvó Okenve de Malabo estudia la forma general de las ecuaciones de segundo grado.
 
@@ -39,7 +39,7 @@ Una ecuacion cuadratica o de segundo grado es aquella en la que el mayor exponen
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Bata explica como determinar el numero de soluciones de una ecuacion cuadratica sin resolverla.
 
@@ -58,7 +58,7 @@ El discriminante ($\Delta$) es fundamental porque su signo nos indica cuantas so
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Mongomo analiza la curvatura de un arco parabolico representado por $x^2 - 9 = 0$.
 
@@ -77,7 +77,7 @@ Las ecuaciones de la forma $x^2 + c = 0$ se pueden resolver despejando directame
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante resuelve $x^2 + 5x = 0$ factorizando la incognita.
 
@@ -96,7 +96,7 @@ En las ecuaciones incompletas de la forma $ax^2 + bx = 0$, siempre es posible ex
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un tecnico en Malabo utiliza la formula general para resolver una ecuacion donde el discriminante es igual a cero.
 
@@ -115,7 +115,7 @@ Cuando $\Delta = 0$, en la formula general estamos sumando y restando cero, lo q
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un jardinero en Ebebiyin quiere diseñar un cantero rectangular cuya area sea de $24$ $m^2$ y donde el largo sea $2$ metros mayor que el ancho.
 
@@ -134,7 +134,7 @@ El area de un rectangulo es $base \cdot altura$. Al sustituir las condiciones da
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante en Evinayong resuelve la ecuacion $x^2 - 5x + 6 = 0$ factorizando el trinomio.
 
@@ -153,7 +153,7 @@ Para trinomios con coeficiente principal 1, buscamos dos numeros que multiplicad
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Se plantea la ecuacion $3x^2 - 12 = 0$ para encontrar los puntos criticos de un proceso en Malabo.
 
@@ -172,7 +172,7 @@ Primero aislamos el termino con $x^2$ dividiendo por 3. Obtenemos $x^2 = 4$. Al 
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Luba utiliza el metodo de completar el cuadrado para resolver $x^2 + 4x - 5 = 0$.
 
@@ -191,7 +191,7 @@ Completar el cuadrado permite convertir un trinomio en una potencia perfecta igu
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica que el producto de las raices de $ax^2 + bx + c = 0$ esta relacionado con el termino independiente.
 
@@ -210,7 +210,7 @@ Las formulas de Vieta vinculan las soluciones de un polinomio con sus coeficient
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en el puerto de Malabo calcula la trayectoria de una pieza lanzada por una catapulta industrial, dada por $h(t) = -5t^2 + 20t$.
 
@@ -229,7 +229,7 @@ Resolver para $h=0$ en un modelo de proyectiles significa encontrar los puntos d
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante en Annobon usa la formula general para resolver $2x^2 - 4x - 6 = 0$.
 
@@ -248,7 +248,7 @@ Es util simplificar la ecuacion dividiendo por el factor comun (2) antes de apli
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En la UNGE se estudia la naturaleza de las soluciones. Se sabe que una ecuacion cuadratica tiene soluciones reales si el discriminante no es negativo.
 
@@ -267,7 +267,7 @@ Una ecuacion cuadratica tiene una solucion unica (doble) si su discriminante es 
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un fisico en Guinea Ecuatorial analiza una onda sonora cuya presion varia como $P(t) = t^2 - 6t + 10$.
 
@@ -286,7 +286,7 @@ Al evaluar el discriminante de $t^2 - 6t + 10$, obtenemos $-4$. Como no se puede
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante en Evinayong resuelve la ecuacion $\frac{x^2}{2} = 8$ para encontrar el lado de un triangulo.
 
@@ -305,7 +305,7 @@ Primero despejamos $x^2$ multiplicando por 2 en ambos lados. Luego aplicamos la 
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Bata se factoriza la expresion $x^2 + 10x + 25 = 0$ para encontrar el punto de equilibrio.
 
@@ -324,7 +324,7 @@ Cuando un trinomio es un cuadrado perfecto (como $x^2 + 10x + 25$), el discrimin
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Se plantea encontrar una ecuacion cuadratica a partir de sus soluciones conocidas.
 
@@ -343,7 +343,7 @@ Si conocemos las raices $r_1$ y $r_2$, la ecuacion es $(x - r_1)(x - r_2) = 0$. 
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Un analista en Ciudad de la Paz resuelve la ecuacion $x^4 - 5x^2 + 4 = 0$, que es de cuarto grado pero reducible a cuadratica.
 
@@ -362,7 +362,7 @@ Las ecuaciones bicuadradas se resuelven mediante un cambio de variable $u = x^2$
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un arquitecto diseña un marco para una ventana en Malabo. El marco exterior mide $10 \times 8$ m y tiene un borde de ancho uniforme $x$. El area del vidrio interior es de $48$ $m^2$.
 
@@ -381,7 +381,7 @@ Planteamos la ecuacion restando dos veces el ancho $x$ a cada dimension exterior
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W07-ecuaciones-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un problema de numeros: La suma de los cuadrados de dos numeros naturales consecutivos es $25$.
 

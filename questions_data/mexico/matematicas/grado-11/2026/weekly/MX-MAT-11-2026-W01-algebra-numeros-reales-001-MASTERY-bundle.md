@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la Escuela Nacional Preparatoria en la CDMX clasifica diferentes tipos de números encontrados en su libro de texto.
 **Expected_Success:** 0.85
 
@@ -41,7 +41,7 @@ El número √25 es igual a 5. Los números enteros (Z) incluyen a los números 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una tienda de abarrotes en Guadalajara, se utilizan diferentes unidades para medir el peso de los productos.
 **Expected_Success:** 0.82
 
@@ -62,7 +62,7 @@ Para convertir un decimal exacto a fracción, se escribe el número sin punto de
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Durante una clase de matemáticas en Monterrey, el profesor explica las propiedades de los números reales.
 **Expected_Success:** 0.80
 
@@ -83,7 +83,7 @@ Los números irracionales son aquellos que no pueden expresarse como el cociente
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un carpintero en Puebla necesita cortar una tabla de madera y realiza marcas cada 0.333... metros.
 **Expected_Success:** 0.78
 
@@ -104,7 +104,7 @@ El decimal 0.333... es un decimal periódico puro. Para convertirlo a fracción,
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un meteorólogo en Toluca registra temperaturas bajo cero durante el invierno.
 **Expected_Success:** 0.75
 
@@ -125,7 +125,7 @@ Al realizar operaciones con números reales con signo, si ambos tienen el mismo 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista en la Bolsa Mexicana de Valores analiza las variaciones de una acción que cerró en $45.50 pesos.
 **Expected_Success:** 0.72
 
@@ -146,7 +146,7 @@ Primero calculamos el aumento: $45.50 \times 1.10 = $50.05. Luego aplicamos la d
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una receta de cocina típica de Oaxaca, se requieren 3/4 de taza de harina para una porción.
 **Expected_Success:** 0.70
 
@@ -167,7 +167,7 @@ Para hallar el total, multiplicamos la cantidad por porción por el número de p
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ciclista en una competencia en Querétaro recorre 15.4 km en la primera etapa y 12 3/5 km en la segunda.
 **Expected_Success:** 0.68
 
@@ -188,7 +188,7 @@ Convertimos la fracción mixta a decimal para facilitar la suma: 12 3/5 = 12 + 0
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto en Cancún mide la diagonal de una base cuadrada de 1 metro por lado.
 **Expected_Success:** 0.65
 
@@ -209,7 +209,7 @@ El número √2 es irracional. Esto significa que su expansión decimal es infin
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se desea repartir un premio de $10,000 pesos entre tres ganadores de forma que el primero reciba 2/5, el segundo 1/4 y el tercero el resto.
 **Expected_Success:** 0.63
 
@@ -230,7 +230,7 @@ Calculamos lo que reciben los dos primeros: 2/5 de 10,000 = 4,000; 1/4 de 10,000
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un científico en un laboratorio de la UNAM analiza el comportamiento de una partícula cuya posición x se define por x = |a - b|.
 **Expected_Success:** 0.60
 
@@ -251,7 +251,7 @@ El valor absoluto de un número es su distancia al cero en la recta numérica, p
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un examen de admisión requiere simplificar expresiones con potencias y raíces.
 **Expected_Success:** 0.58
 
@@ -272,7 +272,7 @@ Aplicamos las leyes de los exponentes: para la multiplicación de la misma base,
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un problema de física, se requiere calcular el inverso aditivo y el recíproco de un número dado.
 **Expected_Success:** 0.55
 
@@ -293,7 +293,7 @@ El inverso aditivo de x es aquel que sumado con x da cero, por lo tanto es -x (c
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero civil en Monterrey calcula la resistencia de una viga usando la fórmula R = √(a² + b²) / (a + b).
 **Expected_Success:** 0.53
 
@@ -314,7 +314,7 @@ Sustituimos los valores: en el numerador √(3² + 4²) = √(9 + 16) = √25 = 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante analiza la densidad de los números racionales en la recta numérica.
 **Expected_Success:** 0.50
 
@@ -335,7 +335,7 @@ Para encontrar el punto medio entre dos números, calculamos su promedio sumánd
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea una situación de lógica numérica sobre las propiedades de cierre en los conjuntos numéricos.
 **Expected_Success:** 0.48
 
@@ -356,7 +356,7 @@ La propiedad de cierre establece que al realizar una operación con elementos de
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador en una startup de tecnología en la CDMX necesita optimizar un cálculo que involucra potencias negativas.
 **Expected_Success:** 0.45
 
@@ -377,7 +377,7 @@ Una potencia negativa indica el recíproco de la base elevado a la potencia posi
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta una expresión compleja que combina varias operaciones fundamentales con números reales.
 **Expected_Success:** 0.42
 
@@ -398,7 +398,7 @@ Siguiendo la jerarquía de operaciones: 1. Paréntesis (3-5 = -2). 2. Potencias 
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería analiza la relación entre decimales periódicos y fracciones para resolver un problema de precisión.
 **Expected_Success:** 0.38
 
@@ -419,7 +419,7 @@ Al convertir el decimal periódico puro 0.999... a fracción, tomamos el periodo
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un problema desafiante sobre la propiedad de densidad de los números reales.
 **Expected_Success:** 0.35
 

@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en la Universidad Central del Ecuador analiza el comportamiento de una función de costos a medida que la producción se acerca a un valor específico.
 
@@ -51,7 +51,7 @@ El concepto de límite es fundamental para el cálculo y describe la aproximaci�
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Evaluación directa de límites polinómicos simples.
 
@@ -76,7 +76,7 @@ Para funciones polinómicas, el límite se puede hallar mediante sustitución di
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Propiedades de los límites laterales.
 
@@ -101,7 +101,7 @@ La condición necesaria y suficiente para la existencia de un límite bilateral 
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un analista financiero en Quito observa que una función de interés compuesto tiene una discontinuidad en un punto crítico de tiempo.
 
@@ -130,7 +130,7 @@ Resolución de límites con indeterminación de la forma 0/0 mediante factorizac
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero civil analiza la deformación de una viga en un puente cerca de Guayaquil usando modelos racionales.
 
@@ -155,7 +155,7 @@ Cálculo de límites al infinito para funciones racionales con grados iguales en
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Uso de la conjugada para resolver límites con raíces.
 
@@ -180,7 +180,7 @@ Técnica de racionalización para eliminar indeterminaciones en límites que inv
 ## Question 7 [D6]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Definición de continuidad en un punto.
 
@@ -205,7 +205,7 @@ Distinción entre los conceptos de continuidad y derivabilidad. La continuidad r
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Una empresa de telecomunicaciones en Ecuador cobra una tarifa base más un cargo por minuto, lo que genera una función escalonada.
 
@@ -230,7 +230,7 @@ Análisis de límites en funciones definidas por tramos mediante el estudio de l
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Límites trigonométricos fundamentales.
 
@@ -255,7 +255,7 @@ Aplicación del límite trigonométrico especial $\lim_{x \to 0} \frac{\sin(kx)}
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Asíntotas verticales en funciones racionales.
 
@@ -284,7 +284,7 @@ Interpretación de límites infinitos y su relación con las asíntotas vertical
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Encontrar parámetros para asegurar la continuidad en un modelo logístico.
 
@@ -309,7 +309,7 @@ Aplicación práctica de la definición de continuidad para determinar valores d
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Límites que involucran el número $e$.
 
@@ -334,7 +334,7 @@ Reconocimiento y cálculo de límites relacionados con la definición del númer
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** El Teorema del Valor Intermedio aplicado a la búsqueda de raíces de funciones en el mercado bursátil de Quito.
 
@@ -359,7 +359,7 @@ Comprensión de las implicaciones geométricas y algebraicas del Teorema del Val
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Análisis de discontinuidades esenciales vs removibles.
 
@@ -384,7 +384,7 @@ Clasificación de discontinuidades basada en la existencia y comportamiento de l
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un modelo de población de tortugas en Galápagos sigue la función $P(t) = \frac{1000}{1 + 9e^{-0.5t}}$.
 
@@ -409,7 +409,7 @@ Cálculo de asíntotas horizontales en contextos biológicos modelados por funci
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Límites de funciones compuestas.
 
@@ -438,7 +438,7 @@ Aplicación de las leyes de los límites para funciones compuestas y potencias.
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Uso de la regla de L'Hôpital (introducción) o identidades avanzadas.
 
@@ -463,7 +463,7 @@ Resolución de límites trigonométricos complejos que requieren el uso de ident
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Un sensor de presión en un oleoducto de la Amazonía ecuatoriana registra datos que siguen la función $f(x) = x \sin(1/x)$ para $x \neq 0$.
 
@@ -488,7 +488,7 @@ Aplicación del Teorema del Sándwich para resolver límites de funciones oscila
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Análisis de la definición formal ($\epsilon - \delta$) de límite.
 
@@ -513,7 +513,7 @@ Demostración de la comprensión de la definición rigurosa de límite mediante 
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un matemático en la Politécnica Nacional estudia la función de Dirichlet modificada $f(x) = \begin{cases} x & \text{si } x \in \mathbb{Q} \\ 0 & \text{si } x \notin \mathbb{Q} \end{cases}$.
 

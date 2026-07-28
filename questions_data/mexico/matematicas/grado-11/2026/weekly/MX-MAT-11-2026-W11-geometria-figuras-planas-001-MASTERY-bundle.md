@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de preparatoria en la Ciudad de México está revisando las propiedades básicas de los polígonos regulares para un proyecto de diseño gráfico.
 
@@ -43,7 +43,7 @@ Para cualquier polígono convexo de $n$ lados, el número de triángulos que se 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** En un taller de carpintería en Guadalajara, se necesita identificar las características de un cuadrilátero específico para fabricar una mesa.
 
@@ -64,7 +64,7 @@ La clasificación de los cuadriláteros se basa en el paralelismo de sus lados. 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Monterrey está diseñando una ventana circular y necesita calcular la relación entre su perímetro y su diámetro.
 
@@ -85,7 +85,7 @@ La circunferencia de un círculo es directamente proporcional a su diámetro ($C
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un topógrafo está midiendo un terreno en Puebla que tiene forma de triángulo equilátero.
 
@@ -106,7 +106,7 @@ En un triángulo equilátero, todos los ángulos internos miden $60^{\circ}$. El
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Se desea colocar pasto sintético en un jardín central de una escuela en Querétaro que tiene forma de hexágono regular.
 
@@ -127,7 +127,7 @@ El área de un polígono regular se calcula con la fórmula $A = \frac{P \cdot a
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en el Estado de México está calculando el área de una pieza metálica en forma de trapecio isósceles.
 
@@ -148,7 +148,7 @@ El área de un trapecio se obtiene con la fórmula $A = \frac{(B + b)h}{2}$. Sus
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Se está construyendo una glorieta circular en una nueva sección de Cancún. El ingeniero necesita conocer el área que será pavimentada.
 
@@ -169,7 +169,7 @@ Para calcular el área de un círculo ($A = \pi r^2$), primero identificamos el 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un artesano en Oaxaca está decorando un marco de madera que tiene forma de rombo.
 
@@ -190,7 +190,7 @@ El área de un rombo se calcula multiplicando su diagonal mayor ($D$) por su dia
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante observa un panal de abejas y nota que las celdas son hexágonos regulares perfectos.
 
@@ -211,7 +211,7 @@ La suma de los ángulos internos de un hexágono ($n=6$) es $180(6-2) = 720^{\ci
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En una clase de dibujo técnico en Veracruz, se pide hallar el área de un sector circular.
 
@@ -232,7 +232,7 @@ El área de un sector circular es una fracción del área total del círculo, pr
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Se desea construir una pista de atletismo que consiste en un rectángulo con dos semicírculos en los extremos.
 
@@ -253,7 +253,7 @@ La pista se compone de un rectángulo ($80 \cdot 40 = 3,200\text{ m}^2$) y dos s
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador gráfico en Mérida está trabajando con un cuadrado inscrito en un círculo de radio 5 cm.
 
@@ -274,7 +274,7 @@ El círculo tiene área $A_c = \pi(5)^2 = 78.5\text{ cm}^2$. Para el cuadrado in
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Se analiza el diseño de un vitral que consiste en un triángulo equilátero inscrito en una circunferencia de radio 4 cm.
 
@@ -295,7 +295,7 @@ En un triángulo equilátero inscrito, el centro del círculo es el baricentro. 
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un joyero en Taxco está diseñando un dije que tiene la forma de un octágono regular inscrito en un cuadrado de lado 10 cm.
 
@@ -316,7 +316,7 @@ Un octágono regular posee ocho lados de igual longitud. Dado que se especifica 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se tiene un terreno rectangular en Sonora cuyas dimensiones son 50 m por 30 m. Se construye una vereda de 2 m de ancho alrededor del terreno (por dentro).
 
@@ -337,7 +337,7 @@ El área original es $50 \cdot 30 = 1,500\text{ m}^2$. Al restar la vereda de $2
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.30
 **Contexto:** Un artista en San Miguel de Allende está creando un patrón con círculos tangentes.
 
@@ -358,7 +358,7 @@ Al unir los centros de tres círculos tangentes de radio $R$, se forma un trián
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.25
 **Contexto:** Un ingeniero civil evalúa la resistencia de una viga cuya sección transversal es un hexágono regular de lado $L$.
 
@@ -379,7 +379,7 @@ Un hexágono regular se divide en 6 triángulos equiláteros. El área de uno de
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un matemático en la UNAM está analizando propiedades de polígonos regulares y su relación con el círculo.
 
@@ -400,7 +400,7 @@ Este es el concepto fundamental del cálculo integral desarrollado por Arquímed
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Se presenta un desafío geométrico: un cuadrado de lado $a$ tiene inscritos cuatro semicírculos cuyos diámetros son los lados del cuadrado.
 
@@ -421,7 +421,7 @@ Este problema se resuelve mediante la suma de áreas de sectores circulares y la
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.15
 **Contexto:** Un astrónomo calcula la visibilidad de un eclipse utilizando el área de intersección de dos círculos iguales de radio $R$.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante nicaragüense prepara su examen sobre simplificación trigonométrica.
 
@@ -39,7 +39,7 @@ Esta identidad es la piedra angular de la trigonometría. Permite expresar una f
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Uso de identidades recíprocas en cálculos avanzados.
 
@@ -58,7 +58,7 @@ Las identidades recíprocas relacionan las seis funciones trigonométricas bási
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un ejercicio de demostración de identidades pitagóricas secundarias.
 
@@ -77,7 +77,7 @@ Las identidades pitagóricas secundarias son útiles para simplificar expresione
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** El concepto de solución de una ecuación trigonométrica.
 
@@ -96,7 +96,7 @@ Resolver una ecuación trigonométrica implica hallar el conjunto de ángulos qu
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Uso de identidades de suma y resta de ángulos.
 
@@ -115,7 +115,7 @@ Las identidades de suma y resta permiten calcular valores trigonométricos de á
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Resolución de una ecuación trigonométrica básica.
 
@@ -134,7 +134,7 @@ Debido a la naturaleza periódica y simétrica de las funciones circulares, una 
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Simplificación de una expresión compleja.
 
@@ -153,7 +153,7 @@ Al sustituir las funciones por sus definiciones en términos de seno y coseno, l
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** El uso de identidades de ángulo doble.
 
@@ -172,7 +172,7 @@ Las identidades de ángulo doble son herramientas fundamentales para resolver ec
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** Resolución de una ecuación trigonométrica cuadrática.
 
@@ -191,7 +191,7 @@ Resolvemos la ecuación despejando el coseno. Al ser cuadrática, obtenemos dos 
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Un reto sobre el coseno del ángulo doble.
 
@@ -210,7 +210,7 @@ Utilizamos la forma de la identidad del ángulo doble que solo depende del cosen
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Simplificación de identidades pitagóricas secundarias.
 
@@ -229,7 +229,7 @@ Reconocer las diferentes formas de las identidades pitagóricas permite realizar
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un ejercicio de demostración trigonométrica compleja.
 
@@ -248,7 +248,7 @@ Este problema requiere sumar fracciones algebraicas, aplicar la identidad pitag�
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Resolución de una ecuación que requiere factorización.
 
@@ -267,7 +267,7 @@ Nunca se debe "dividir" ambos lados por una función (como $\sin \theta$), ya qu
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un análisis del coseno de la suma de ángulos iguales.
 
@@ -286,7 +286,7 @@ El coseno del ángulo doble tiene tres formas equivalentes. La capacidad de camb
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** Cálculo del valor de un ángulo no notable.
 
@@ -305,7 +305,7 @@ Aplicamos la identidad del coseno de la suma: $\cos(A+B) = \cos A \cos B - \sin 
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Identificación de una identidad a partir de la paridad y complementariedad.
 
@@ -324,7 +324,7 @@ Las identidades de ángulos complementarios (co-funciones) muestran el estrecho 
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Resolución de una ecuación trigonométrica que requiere cambio de función.
 
@@ -343,7 +343,7 @@ Para resolver ecuaciones que mezclan seno y coseno, usamos la identidad pitagór
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Una identidad compleja que involucra el ángulo mitad.
 
@@ -362,7 +362,7 @@ Las identidades de ángulo mitad son fundamentales en la integración de funcion
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre el periodo de una ecuación combinada.
 
@@ -381,7 +381,7 @@ Al aumentar la frecuencia angular de la función, "comprimimos" los ciclos en el
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Demostración de una identidad de producto a suma.
 

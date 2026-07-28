@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.85
 **Contexto:** Um estudante de São Paulo está revisando a classificação dos números reais para sua preparação para o ENEM.
 
@@ -39,7 +39,7 @@ Os números irracionais são aqueles que possuem representação decimal infinit
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.80
 **Contexto:** Durante uma aula de matemática em Curitiba, o professor define a relação entre os diferentes conjuntos numéricos.
 
@@ -58,7 +58,7 @@ A estrutura dos conjuntos numéricos é hierárquica: $\mathbb{N} \subset \mathb
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.75
 **Contexto:** Em um laboratório de química no Rio de Janeiro, um cientista observa temperaturas registradas em uma escala que utiliza números inteiros negativos.
 
@@ -77,7 +77,7 @@ O conjunto $A$ contém os elementos $\{-2, -1, 0, 1, 2\}$. O conjunto $B$ conté
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.70
 **Contexto:** Uma empresa de logística em Belo Horizonte organiza seus códigos de rastreamento baseando-se em subconjuntos de números naturais.
 
@@ -96,7 +96,7 @@ Para listar os elementos, devemos satisfazer três condições: ser natural par,
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.65
 **Contexto:** Um analista financeiro analisa as variações da bolsa de valores e utiliza intervalos reais para descrever as flutuações de preços.
 
@@ -115,7 +115,7 @@ A notação $[a, b)$ representa um intervalo fechado à esquerda (inclui $a$) e 
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.60
 **Contexto:** Em um estudo sociológico em Salvador, pesquisou-se a preferência por dois tipos de redes sociais entre jovens.
 
@@ -134,7 +134,7 @@ Utilizamos o Princípio da Inclusão-Exclusão para achar a união: $n(A \cup B)
 ## Question 7 [D5]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.60
 **Contexto:** Uma escola em Brasília está organizando seus alunos em clubes de esporte e música.
 
@@ -153,7 +153,7 @@ Como todos participam de pelo menos um clube, a união é igual ao total de alun
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.55
 **Contexto:** Um arquiteto em Porto Alegre precisa definir a medida de um terreno que é expressa pela dízima periódica $0,444...$ metros.
 
@@ -172,7 +172,7 @@ Para converter uma dízima periódica simples em fração, colocamos o período 
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.55
 **Contexto:** Um programador em Recife está criando um algoritmo para filtrar números em uma lista de dados bancários.
 
@@ -191,7 +191,7 @@ A equação $x^2 = 7$ tem como soluções $x = \sqrt{7}$ e $x = -\sqrt{7}$. Como
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.50
 **Contexto:** Um topógrafo em Manaus mede a diferença de altitude entre dois pontos usando números reais.
 
@@ -210,7 +210,7 @@ A diferença $A - B$ consiste nos elementos que pertencem a $A$ mas NÃO pertenc
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.50
 **Contexto:** Um engenheiro civil em Fortaleza analisa a resistência de materiais, onde os valores críticos pertencem ao conjunto complementar de um intervalo de segurança.
 
@@ -229,7 +229,7 @@ O complementar de um conjunto $A$ em um universo $U$ contém todos os elementos 
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.45
 **Contexto:** Em um concurso público nacional, uma questão de raciocínio lógico envolve a manipulação de propriedades de números inteiros e racionais.
 
@@ -252,7 +252,7 @@ I é falsa pois o produto de irracionais pode ser racional (ex: $\sqrt{2} \cdot 
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.45
 **Contexto:** Uma pesquisa de mercado em Goiânia avaliou o consumo de três marcas de leite: X, Y e Z.
 
@@ -271,7 +271,7 @@ Para encontrar quem consome exclusivamente X e Y, devemos pegar o total da inter
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.40
 **Contexto:** Um matemático em Florianópolis estuda a cardinalidade de conjuntos finitos e as relações de subconjuntos.
 
@@ -290,7 +290,7 @@ O conjunto das partes de $A$ contém todos os subconjuntos possíveis de $A$. Se
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.40
 **Contexto:** Um investidor de Belo Horizonte está comparando o rendimento de duas aplicações financeiras representadas por conjuntos de taxas possíveis.
 
@@ -309,7 +309,7 @@ As raízes de $x^2 - 5x + 6 = 0$ são $x = 2$ e $x = 3$. O conjunto $B$ contém 
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.35
 **Contexto:** Em um laboratório de informática em Campinas, estuda-se a lógica de conjuntos aplicada a bancos de dados.
 
@@ -328,7 +328,7 @@ Utilizando a propriedade distributiva da união em relação à interseção: $A
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.30
 **Contexto:** Um professor de matemática de uma universidade em Minas Gerais propõe um desafio sobre a natureza dos números reais e irracionais.
 
@@ -347,7 +347,7 @@ A soma de um número racional com um irracional é sempre irracional. Se fosse r
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada de matemática, alunos do ensino médio de todo o Brasil resolvem problemas complexos sobre intervalos e conjuntos infinitos.
 
@@ -366,7 +366,7 @@ Cada conjunto $A_n$ é um intervalo $[0, 1/n]$. À medida que $n$ aumenta, o lim
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.20
 **Contexto:** Um pesquisador avançado em São José dos Campos investiga as propriedades de conjuntos numéricos aplicadas à física quântica.
 
@@ -385,7 +385,7 @@ Esta é uma propriedade fundamental que distingue os racionais dos reais (comple
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Números e Operações
+**EJE:** Números e Operações
 **Expected_Success:** 0.20
 **Contexto:** Em um exame de alto nível para ingressar no ITA (Instituto Tecnológico de Aeronáutica), avalia-se a profundidade do conhecimento em teoria dos conjuntos.
 

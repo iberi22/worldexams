@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa los conceptos fundamentales de la estadística descriptiva.
 
@@ -45,7 +45,7 @@ La moda es la medida de tendencia central que identifica el valor más frecuente
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.80
 **Contexto:** Se analiza las calificaciones de un grupo de estudiantes en una academia de Trujillo.
 
@@ -70,7 +70,7 @@ La mediana es el parámetro que deja el mismo número de datos por debajo y por 
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.75
 **Contexto:** Un comerciante en Arequipa registra sus ventas diarias de sacos de arroz durante una semana.
 
@@ -95,7 +95,7 @@ La media aritmética se halla sumando todos los valores observados y dividiendo 
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.70
 **Contexto:** Medición de la estatura de 5 niños en un centro de salud de Lima.
 
@@ -120,7 +120,7 @@ Para hallar la mediana debemos ordenar los datos: {1.10, 1.15, 1.20, 1.25, 1.30}
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.65
 **Contexto:** Análisis de asimetría en datos de exportación en Ica.
 
@@ -145,7 +145,7 @@ En una distribución asimétrica positiva (o sesgada a la derecha), los valores 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.60
 **Contexto:** Cálculo del rango de ingresos en una microempresa familiar.
 
@@ -170,7 +170,7 @@ El rango estadístico es la diferencia entre el valor máximo y el valor mínimo
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.55
 **Contexto:** Un docente en Piura analiza la dispersión de las notas de sus alumnos.
 
@@ -195,7 +195,7 @@ La varianza cuantifica la dispersión de los datos respecto a su media. Si todos
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.50
 **Contexto:** Relación entre varianza y desviación estándar en un estudio de ingeniería.
 
@@ -220,7 +220,7 @@ La desviación estándar se define como la raíz cuadrada positiva de la varianz
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.55
 **Contexto:** Comparación de homogeneidad entre dos grupos de estudio en Lima.
 
@@ -245,7 +245,7 @@ En estadística, la homogeneidad se asocia inversamente con la dispersión. Dado
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.50
 **Contexto:** Propiedades de la media ante cambios constantes.
 
@@ -270,7 +270,7 @@ Una propiedad lineal de la media aritmética establece que si sumamos una cantid
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.45
 **Contexto:** Cálculo de la media para datos agrupados en intervalos en una academia de Lima.
 
@@ -298,7 +298,7 @@ Para datos agrupados, la media se obtiene sumando los productos de cada marca de
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.40
 **Contexto:** Uso del coeficiente de variación (C.V.) en control de calidad en Trujillo.
 
@@ -323,7 +323,7 @@ El coeficiente de variación ($C.V.$) es una medida de dispersión relativa. Se 
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.40
 **Contexto:** Definición de cuartiles en el análisis de una población en Huancayo.
 
@@ -348,7 +348,7 @@ Los cuartiles dividen un conjunto de datos ordenados en cuatro partes iguales. E
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.35
 **Contexto:** Cálculo de la varianza poblacional en Cusco.
 
@@ -373,7 +373,7 @@ Primero hallamos el promedio: $(2+4+6)/3 = 4$. Luego calculamos la media de los 
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.30
 **Contexto:** Efecto de la multiplicación por una constante en la dispersión.
 
@@ -398,7 +398,7 @@ A diferencia de la suma, la multiplicación de todos los datos por una constante
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.35
 **Contexto:** Interpretación del coeficiente de asimetría.
 
@@ -423,7 +423,7 @@ El coeficiente de asimetría mide qué tanto se aleja una distribución de la si
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.25
 **Contexto:** Cálculo de la media combinada de dos secciones en un colegio de Piura.
 
@@ -448,7 +448,7 @@ Debemos usar la media ponderada para considerar el peso de cada grupo. Primero s
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.20
 **Contexto:** Propiedades de la tipificación de variables (Z-score).
 
@@ -473,7 +473,7 @@ El proceso de estandarización ($z = (x - \bar{x})/S$) centra la distribución e
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.15
 **Contexto:** Cálculo de la mediana en datos agrupados con intervalos.
 
@@ -498,7 +498,7 @@ Usamos la fórmula de interpolación: $Me = L_i + \frac{\frac{n}{2} - F_{i-1}}{f
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.10
 **Contexto:** Aplicación de la desigualdad de Chebyshev.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Diego está estudiando la simbología de las desigualdades en su liceo de Santiago.
 
@@ -39,7 +39,7 @@ Un intervalo semiabierto $[a, b)$ incluye al extremo inferior $a$ (cerrado) y ex
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza las propiedades de orden en los números reales.
 
@@ -58,7 +58,7 @@ Una de las reglas críticas al resolver inecuaciones es que al multiplicar o div
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se busca resolver una inecuación lineal simple en el conjunto de los reales.
 
@@ -77,7 +77,7 @@ Para resolver $x + 7 > 15$, aplicamos la operación inversa a la suma: restamos 
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Javiera analiza la representación gráfica de una solución en la recta numérica.
 
@@ -96,7 +96,7 @@ El símbolo $\leq$ (menor o igual) requiere un círculo relleno (cerrado) en el 
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Valentina resuelve una inecuación donde debe multiplicar por un negativo.
 
@@ -115,7 +115,7 @@ Partimos de $-2x \leq 10$. Dividimos ambos lados por $-2$. Como la cantidad es n
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se plantea una situación de presupuesto mensual.
 
@@ -134,7 +134,7 @@ El gasto total se calcula multiplicando el precio de una entrada por la cantidad
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Un furgón escolar en Concepción tiene una capacidad máxima de carga de $500 \text{ kg}$.
 
@@ -153,7 +153,7 @@ Planteamos $25x + 80 \leq 500$. Restamos 80: $25x \leq 420$. Dividimos por 25: $
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Se comparan dos planes de telefonía móvil.
 
@@ -172,7 +172,7 @@ Buscamos $x$ tal que $\text{Costo A} < \text{Costo B}$: $5.000 + 50x < 2.000 + 8
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En una prueba de selección, se aprueba con una nota promedio mayor o igual a 4,5.
 
@@ -191,7 +191,7 @@ Promedio: $(3,8 + 4,2 + x) / 3 \geq 4,5$. Sumamos las notas conocidas: $8,0 + x 
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el conjunto solución de una inecuación vacía.
 
@@ -210,7 +210,7 @@ Intentamos despejar $x$ restando $x$ en ambos lados: $x - x + 5 < x - x + 2 \Rig
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Un rectángulo tiene un ancho de $8 \text{ cm}$ y su perímetro debe ser menor a $50 \text{ cm}$.
 
@@ -229,7 +229,7 @@ Fórmula del perímetro: $2 \cdot ancho + 2 \cdot largo < 50$. Sustituimos: $2(8
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco resuelve una inecuación lineal con paréntesis y distribución.
 
@@ -248,7 +248,7 @@ Distribuimos el 3: $6x - 12 \leq 4x + 8$. Agrupamos las "x" a la izquierda y los
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el sistema de inecuaciones simultáneas.
 
@@ -267,7 +267,7 @@ La solución de un sistema es la intersección de las soluciones individuales. E
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio discute sobre la validez de soluciones en una inecuación fraccionaria simple.
 
@@ -286,7 +286,7 @@ En una fracción $\frac{a}{b} > 0$, el signo de $a$ y $b$ debe ser el mismo. Com
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide identificar el intervalo que corresponde a la unión de dos conjuntos.
 
@@ -305,7 +305,7 @@ La unión suma todos los elementos de ambos conjuntos. El primer conjunto llega 
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Un científico mide la temperatura $T$ de un experimento en Talca. Se sabe que $T$ nunca baja de $-5^\circ\text{C}$ y nunca sube de $15^\circ\text{C}$.
 
@@ -324,7 +324,7 @@ La condición "nunca baja de $-5$" significa $T \geq -5$. La condición "nunca s
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza el efecto del valor absoluto en una inecuación.
 
@@ -343,7 +343,7 @@ La propiedad $|a| < b$ equivale a $-b < a < b$. Aplicando: $-4 < x - 3 < 4$. Sum
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se requiere resolver una inecuación cuadrática que involucra factorización.
 
@@ -362,7 +362,7 @@ Factorizamos: $(x-2)(x+2) < 0$. Analizamos los signos: la expresión es negativa
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Se pide resolver una inecuación racional con variable en el denominador.
 
@@ -381,7 +381,7 @@ El cociente es $\geq 0$ si numerador y denominador tienen el mismo signo. Caso 1
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta sobre las soluciones enteras de una inecuación.
 

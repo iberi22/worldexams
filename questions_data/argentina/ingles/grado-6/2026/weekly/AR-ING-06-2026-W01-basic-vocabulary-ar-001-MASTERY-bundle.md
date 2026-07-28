@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-001`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** Martina is arriving at school in Buenos Aires at 8:00 AM.
 
@@ -42,7 +42,7 @@ En inglés, el saludo correcto para la mañana (desde el amanecer hasta el medio
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-002`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.80
 **Contexto:** Facundo is counting his colored pencils in his backpack.
 
@@ -64,7 +64,7 @@ Los números básicos son fundamentales para cuantificar objetos escolares. "Twe
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-003`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** Looking at the Argentine flag stripes.
 
@@ -86,7 +86,7 @@ Esta pregunta aplica el vocabulario de colores a un símbolo patrio nacional. "L
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-004`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** School objects used in the classroom.
 
@@ -108,7 +108,7 @@ Al analizar el uso de los útiles escolares, la regla (ruler) se distingue de lo
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-005`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** At a "kiosko" in Rosario, a chocolate bar costs seventy-five pesos.
 
@@ -130,7 +130,7 @@ How do you write "seventy-five" in numbers?
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-006`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Mateo is showing a photo of his family.
 
@@ -152,7 +152,7 @@ Comprender los vínculos familiares básicos es esencial. El hermano de la madre
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-007`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Determining the days of the week.
 
@@ -174,7 +174,7 @@ El orden de los días de la semana es: Monday, Tuesday, Wednesday, Thursday, Fri
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-008`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Identifying pronouns for people from Córdoba.
 
@@ -196,7 +196,7 @@ Read the sentence: "Martina and Julián are from Córdoba." Which pronoun can re
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-009`
 **Bloom:** Evaluate
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.60
 **Contexto:** Social interaction in the classroom.
 
@@ -218,7 +218,7 @@ El uso de "Can I...?" y "please" es fundamental para la interacción social resp
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-010`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Spelling the name of the capital city.
 

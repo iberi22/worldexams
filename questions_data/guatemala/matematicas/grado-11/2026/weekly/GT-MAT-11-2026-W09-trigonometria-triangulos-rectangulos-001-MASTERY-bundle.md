@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Guatemala comienza a estudiar las relaciones entre los lados y los ángulos de un triángulo rectángulo.
 
@@ -39,7 +39,7 @@ Las razones trigonométricas fundamentales relacionan un ángulo agudo con el co
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el teorema de Pitágoras como base para la trigonometría.
 
@@ -58,7 +58,7 @@ El teorema de Pitágoras es fundamental para hallar el tercer lado de un triáng
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante observa la sombra de un poste en el suelo y nota que forma un triángulo rectángulo con los rayos del sol.
 
@@ -77,7 +77,7 @@ Los ángulos de $45^\circ$ provienen de cuadrados divididos por su diagonal, don
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Se revisan los valores de las funciones trigonométricas para ángulos notables.
 
@@ -96,7 +96,7 @@ Los ángulos de $30^\circ$ y $60^\circ$ se derivan de la mitad de un triángulo 
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en Antigua Guatemala necesita calcular el largo de una pieza de madera que servirá como soporte (hipotenusa).
 
@@ -115,7 +115,7 @@ Este es el ejemplo más clásico de una terna pitagórica ($3, 4, 5$), donde los
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un técnico de telecomunicaciones coloca una escalera de $10$ metros contra una torre.
 
@@ -134,7 +134,7 @@ Para hallar el cateto opuesto (altura) conociendo la hipotenusa y el ángulo, se
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante observa un avión despegando del Aeropuerto La Aurora y analiza el ángulo de ascenso.
 
@@ -153,7 +153,7 @@ Cuando los dos catetos de un triángulo rectángulo son iguales, los ángulos ag
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un arquitecto diseña una rampa con una base de $12$ metros y un ángulo de inclinación de $10^\circ$.
 
@@ -172,7 +172,7 @@ Para hallar la hipotenusa conociendo el cateto adyacente, se utiliza la razón c
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un topógrafo mide la altura de una pirámide en Tikal utilizando un teodolito desde una distancia de $50$ metros.
 
@@ -191,7 +191,7 @@ En problemas de altura donde se conoce la distancia horizontal (adyacente), la r
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la relación entre el seno y el coseno de ángulos complementarios.
 
@@ -210,7 +210,7 @@ Los ángulos agudos de un triángulo rectángulo son complementarios (suman $90^
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero civil calcula la diagonal de una habitación rectangular en un nuevo edificio en la Ciudad de Guatemala.
 
@@ -229,7 +229,7 @@ Primero se halla la hipotenusa mediante Pitágoras y luego se aplica la definici
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se estudia el concepto de funciones trigonométricas recíprocas en un curso avanzado.
 
@@ -248,7 +248,7 @@ La cosecante es la recíproca del seno. Requiere hallar primero el cateto opuest
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un guardabosques en el Biotopo del Quetzal observa un nido desde dos puntos diferentes en el suelo.
 
@@ -267,7 +267,7 @@ La propiedad del triángulo rectángulo isósceles ($45-45-90$) simplifica enorm
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se analizan las identidades trigonométricas pitagóricas fundamentales.
 
@@ -286,7 +286,7 @@ La identidad pitagórica se deriva directamente del teorema de Pitágoras aplica
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante utiliza la calculadora para hallar un ángulo desconocido a partir de sus lados.
 
@@ -305,7 +305,7 @@ Para hallar un ángulo conociendo sus catetos, se utiliza la función arcotangen
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un navegante cerca de la costa de Izabal mide el ángulo hacia un faro.
 
@@ -324,7 +324,7 @@ Al despejar el cateto adyacente de la fórmula $\tan(\theta) = \text{Opuesto} / 
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Se plantea un problema que requiere el uso de ángulos de depresión y elevación combinados.
 
@@ -343,7 +343,7 @@ El ángulo de depresión es igual al ángulo de elevación desde el objeto hacia
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería de la USAC resuelve un triángulo rectángulo "especial" para hallar valores exactos.
 
@@ -362,7 +362,7 @@ El conocimiento de las proporciones en triángulos rectángulos especiales permi
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un arquitecto calcula la sombra proyectada por un edificio sobre una pared vecina a diferentes horas.
 
@@ -381,7 +381,7 @@ Al comparar la altura y la sombra, se obtiene el valor de la tangente. Reconocer
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un reto sobre la resolución de un triángulo rectángulo conociendo solo la hipotenusa y el área.
 

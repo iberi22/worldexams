@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa la definición clásica de probabilidad (Regla de Laplace).
 
@@ -45,7 +45,7 @@ La Regla de Laplace establece que la probabilidad de un suceso es el cociente en
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.80
 **Contexto:** Análisis del rango de valores de una probabilidad en Trujillo.
 
@@ -70,7 +70,7 @@ La probabilidad es una medida acotada. Un evento imposible tiene probabilidad 0,
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.75
 **Contexto:** Lanzamiento de un dado común en Arequipa.
 
@@ -95,7 +95,7 @@ El espacio muestral del dado es {1, 2, 3, 4, 5, 6}. Los resultados pares son {2,
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.70
 **Contexto:** Extracción de bolas de una urna en Cusco.
 
@@ -120,7 +120,7 @@ Usamos el concepto de evento complementario: $P(A^c) = 1 - P(A)$. La probabilida
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.65
 **Contexto:** Un examen de simulación sobre eventos independientes.
 
@@ -145,7 +145,7 @@ Al ser lanzamientos independientes, la probabilidad conjunta es el producto de l
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.60
 **Contexto:** Sorteo de boletos numerados del 1 al 100 en Piura.
 
@@ -170,7 +170,7 @@ Los casos favorables son los números {20, 40, 60, 80, 100}, es decir, 5 casos. 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.55
 **Contexto:** Lanzamiento de dos dados y suma de puntos en Lima.
 
@@ -195,7 +195,7 @@ El espacio muestral del lanzamiento de dos dados tiene $6 \times 6 = 36$ element
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.50
 **Contexto:** Probabilidad de la unión de eventos mutuamente excluyentes.
 
@@ -220,7 +220,7 @@ Dos eventos son mutuamente excluyentes si no pueden ocurrir simultáneamente. En
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.55
 **Contexto:** Uso del principio de inclusión-exclusión en Trujillo.
 
@@ -245,7 +245,7 @@ Usamos la fórmula $P(A \cup B) = P(A) + P(B) - P(A \cap B)$. Sustituyendo: $30/
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.50
 **Contexto:** Permutaciones lineales en una fila de asientos.
 
@@ -270,7 +270,7 @@ Para ordenar $n$ objetos distintos en una línea se utiliza el factorial de $n$.
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.45
 **Contexto:** Probabilidad condicional en el control de calidad en el Callao.
 
@@ -295,7 +295,7 @@ La probabilidad del primer tornillo defectuoso es $3/10$. Al no haber reposició
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.40
 **Contexto:** Combinaciones en la selección de un comité escolar en Ica.
 
@@ -320,7 +320,7 @@ Como el orden de los integrantes en un comité no es relevante, usamos la fórmu
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.40
 **Contexto:** Análisis de probabilidad en eventos deportivos independientes en Huancayo.
 
@@ -345,7 +345,7 @@ Para sucesos independientes, la probabilidad de que ocurran ambos es el producto
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.35
 **Contexto:** Lanzamiento de 3 monedas en un experimento aleatorio.
 
@@ -370,7 +370,7 @@ El espacio muestral tiene $2^3 = 8$ casos. El único caso en el que no sale ning
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.30
 **Contexto:** Probabilidad total aplicada a una población en Lima.
 
@@ -395,7 +395,7 @@ Aplicamos el Teorema de Probabilidad Total: sumamos la probabilidad de fumar con
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.35
 **Contexto:** Permutaciones con repetición en Trujillo.
 
@@ -420,7 +420,7 @@ La palabra tiene 5 letras con repeticiones: 'A' aparece 3 veces y 'N' aparece 2 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.25
 **Contexto:** Teorema de Bayes aplicado a diagnóstico médico.
 
@@ -445,7 +445,7 @@ Usamos el Teorema de Bayes. La probabilidad de que sea mujer dado que fuma es la
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.20
 **Contexto:** Distribución binomial en un examen preuniversitario.
 
@@ -470,7 +470,7 @@ Aplicamos la fórmula binomial $P(k) = \binom{n}{k} p^k (1-p)^{n-k}$. Para $n=4,
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.15
 **Contexto:** Probabilidad geométrica en el plano cartesiano.
 
@@ -495,7 +495,7 @@ En probabilidad geométrica dividimos el área favorable entre el área total. E
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de gestión de datos e incertidumbre
+**EJE:** Resuelve problemas de gestión de datos e incertidumbre
 **Expected_Success:** 0.10
 **Contexto:** Esperanza matemática en un juego de azar.
 
