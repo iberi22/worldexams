@@ -1,0 +1,272 @@
+{
+  "deprecated": true,
+  "merged_into": "features.json v3.0",
+  "deprecated_at": "2026-07-28",
+  "metadata": {
+    "project": "WorldExams",
+    "version": "1.0",
+    "created": "2026-07-10",
+    "total_features": 12,
+    "description": "Detalle técnico de cada feature del proyecto — PRs, issues, dependencias, KPIs y riesgos. DEPRECATED: contenido absorbido por features.json v3.0 (raíz). Se conserva solo para historia."
+  },
+  "features": [
+    {
+      "id": "feat-mastery-colombia",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
+      "tech_details": "Bundles en formato markdown con frontmatter YAML v5.2. Generados por Jules (Google Agent) + Gemini API. Ubicación: questions_data/colombia/{subject}/grado-{N}/2026/. Cubre: matematicas, lectura-critica, ciencias-naturales, sociales-ciudadanas, ingles, preuniversitario, tecnologia-informatica.",
+      "prs": ["#395", "#406", "#405", "#410"],
+      "issues": [],
+      "dependencies": ["Gemini API", "Jules Agent", "Protocolo v5.2"],
+      "kpis": {
+        "bundles_generated": 120,
+        "total_questions": 1800,
+        "pass_rate": "92%"
+      },
+      "risks": [
+        "Dependencia de disponibilidad de Gemini API",
+        "Calidad inconsistente en bundles generados automáticamente"
+      ],
+      "status": "active",
+      "priority": "P0",
+      "progress_pct": 100,
+      "verified_by": "PRs #395, #406, #405, #410"
+    },
+    {
+      "id": "feat-weekly-packs",
+      "category": "generation",
+      "description": "Generación de WEEKLY packs semanales por grado y país (Protocolo v5.2)",
+      "tech_details": "Secuencia curricular W01-W40. Por grado: G3-5 (8 preguntas), G6-7 (10), G8-10 (12), G11/3EM (20). Formato: {COUNTRY}-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle.md. Validación con npm run validate.",
+      "prs": ["#395", "#397", "#410"],
+      "issues": [],
+      "dependencies": ["Protocolo v5.2", "npm run validate", "Estructura questions_data/"],
+      "kpis": {
+        "weekly_packs_colombia": 40,
+        "coverage_grades": "G6 (completo), G3-5, G7-11 (parcial)",
+        "validation_pass_rate": "95%"
+      },
+      "risks": [
+        "Secuencia W01-W40 puede no alinearse con calendarios escolares oficiales",
+        "Riesgo de alucinaciones en contexto regional"
+      ],
+      "status": "active",
+      "priority": "P0",
+      "progress_pct": 95,
+      "verified_by": "PRs #395, #397"
+    },
+    {
+      "id": "feat-multi-country",
+      "category": "core",
+      "description": "Generalización multi-país: eliminar hardcodes de Colombia, soporte configurable por país",
+      "tech_details": "Refactor de shared libs: grade11-local-bank.ts, generate-static-packs.js, questions.ts, index.astro. Config en config/countries.config.ts. Paletas de colores por país. Packs con prefijo ISO (co-, mx-, ar-, br-).",
+      "prs": ["#310", "#315", "#317", "#318"],
+      "issues": [],
+      "dependencies": ["config/countries.config.ts", "Supabase per-country config"],
+      "kpis": {
+        "countries_code_complete": 2,
+        "countries_api_ready": 2,
+        "total_paises_soportados": 20
+      },
+      "risks": [
+        "Mantenimiento de currículos por país es intensivo en contenido",
+        "SEO y marketing por país requiere inversión adicional"
+      ],
+      "status": "active",
+      "priority": "P0",
+      "progress_pct": 100,
+      "verified_by": "PRs #310, #315, #317, #318"
+    },
+    {
+      "id": "feat-pais-mexico",
+      "category": "expansion",
+      "description": "Expansión curricular México: SEP/NEM, EXANI, COMIPEMS, PLANEA",
+      "tech_details": "Currículo mexicano: SEP (Secretaría de Educación Pública) + NEM (Nuevo Marco Curricular). Exámenes: EXANI-I (ingreso), EXANI-II (egreso), COMIPEMS (media superior), PLANEA. Issue #230 MX_CURRICULO_SEP_CENEVAL. Bundles en questions_data/mexico/.",
+      "prs": [],
+      "issues": ["#230"],
+      "dependencies": ["feat-multi-country", "Currículo SEP", "CENEVAL alignment"],
+      "kpis": {
+        "bundles_generated": 15,
+        "total_questions": 150,
+        "country_readiness": "7.5%"
+      },
+      "risks": [
+        "Alta complejidad del sistema educativo mexicano (múltiples exámenes)",
+        "CENEVAL tiene derechos reservados sobre ciertos contenidos"
+      ],
+      "status": "in_progress",
+      "priority": "P0",
+      "progress_pct": 30,
+      "verified_by": "Issue #230"
+    },
+    {
+      "id": "feat-pais-argentina",
+      "category": "expansion",
+      "description": "Expansión curricular Argentina: NAP/Aprender, CBC/UBA, voseo moderado",
+      "tech_details": "Currículo argentino: NAP (Núcleos de Aprendizajes Prioritarios), Aprender (evaluación nacional), CBC (Ciclo Básico Común UBA). Moneda: ARS. Issue #231 AR_CURRICULO_MEN_CBC_UBA. Bundles en questions_data/argentina/.",
+      "prs": [],
+      "issues": ["#231"],
+      "dependencies": ["feat-multi-country", "NAP alignment"],
+      "kpis": {
+        "bundles_generated": 3,
+        "total_questions": 30,
+        "country_readiness": "1.5%"
+      },
+      "risks": [
+        "Argentina tiene 24 jurisdicciones con variaciones curriculares",
+        "Voseo requiere adaptación lingüística de prompts"
+      ],
+      "status": "planned",
+      "priority": "P1",
+      "progress_pct": 10,
+      "verified_by": "Issue #231"
+    },
+    {
+      "id": "feat-pais-brasil",
+      "category": "expansion",
+      "description": "Expansión curricular Brasil: BNCC/ENEM, 3o ano Ensino Médio",
+      "tech_details": "Currículo brasileño: BNCC (Base Nacional Comum Curricular), ENEM (Exame Nacional do Ensino Médio). Formato especial: 3o-ano en lugar de grado-11. Moneda: BRL. Issue #235 BR_CURRICULO_BNCC_ENEM.",
+      "prs": [],
+      "issues": ["#235"],
+      "dependencies": ["feat-multi-country", "BNCC alignment"],
+      "kpis": {
+        "bundles_generated": 1,
+        "total_questions": 10,
+        "country_readiness": "0.5%"
+      },
+      "risks": [
+        "Portugués brasileño requiere generación con modelo especializado",
+        "ENEM es uno de los exámenes más grandes del mundo (8M+ estudiantes)"
+      ],
+      "status": "planned",
+      "priority": "P1",
+      "progress_pct": 5,
+      "verified_by": "Issue #235"
+    },
+    {
+      "id": "feat-ci-cd",
+      "category": "infra",
+      "description": "CI/CD con Playwright E2E, pre-commit hooks, validación automática de bundles",
+      "tech_details": "GitHub Actions con triggers en push/PR a main. Playwright con 48 tests E2E. Pre-commit hooks: prettier, eslint, validate-bundles. npm run validate para bundles v5.2.",
+      "prs": [],
+      "issues": [],
+      "dependencies": ["GitHub Actions", "Playwright", "pre-commit"],
+      "kpis": {
+        "e2e_tests": 48,
+        "test_pass_rate": "85%",
+        "ci_duration_min": 8
+      },
+      "risks": [
+        "16/30 tests pueden fallar por issues de configuración de entorno",
+        "Deploys son manuales (no en CI/CD) — riesgo de drift"
+      ],
+      "status": "active",
+      "priority": "P0",
+      "progress_pct": 100,
+      "verified_by": "GitHub Actions, 48 tests E2E"
+    },
+    {
+      "id": "feat-premium-api",
+      "category": "infra",
+      "description": "API Premium con API Keys, cuotas, rate limits y usage analytics",
+      "tech_details": "Tiers: Free (10 req/min, 10 preguntas/req), Pro (60 req/min, 50/req), Enterprise (300 req/min, 100/req). API Keys: prefijo wx_, hash SHA-256 en storage. Edge Functions: api-gateway, generate-key. Tablas: api_keys, usage_logs, organizations.",
+      "prs": [],
+      "issues": [],
+      "dependencies": ["Supabase Edge Functions", "api_keys table", "usage_logs table"],
+      "kpis": {
+        "active_api_keys": 3,
+        "organizations": 2,
+        "daily_api_requests": 500
+      },
+      "risks": [
+        "Deploy drift: /v1/questions no está usando las últimas Edge Functions",
+        "CORS actualmente en * — riesgo de seguridad"
+      ],
+      "status": "active",
+      "priority": "P0",
+      "progress_pct": 85,
+      "verified_by": "Edge Functions, api_keys table"
+    },
+    {
+      "id": "feat-country-readiness",
+      "category": "monitoring",
+      "description": "Auditoría automática de readiness por país (KPI: 2000 preguntas)",
+      "tech_details": "npm run audit:country-readiness con --json y --smoke-public. Estados: published_validated, validated_not_published, legacy_or_invalid, missing. Solo cuentan bundles en ruta canónica v5.2, validados y publicados como JSON.",
+      "prs": [],
+      "issues": [],
+      "dependencies": ["feat-weekly-packs", "feat-ci-cd", "generate-static-packs.js"],
+      "kpis": {
+        "countries_at_2000": 0,
+        "closest_country": "Colombia (90%)",
+        "total_published_questions": 1800
+      },
+      "risks": [
+        "2000 preguntas por país es una meta ambiciosa",
+        "Contenido legacy no cuenta — puede haber 3000+ preguntas legacy no contabilizadas"
+      ],
+      "status": "active",
+      "priority": "P1",
+      "progress_pct": 75,
+      "verified_by": "npm run audit:country-readiness"
+    },
+    {
+      "id": "feat-telegram-monitoring",
+      "category": "monitoring",
+      "description": "Monitoreo automático vía Telegram: reportes, alertas, estado del pipeline",
+      "tech_details": "Bot de Telegram envía reportes periódicos al CEO. Alertas de: bundles fallando validación, servicios caídos, readiness audit, PRs pendientes de revisión. Integración via Telegram Bot API.",
+      "prs": [],
+      "issues": [],
+      "dependencies": ["Telegram Bot API", "Cron jobs"],
+      "kpis": {
+        "reports_daily": 4,
+        "alert_response_time": "<5min"
+      },
+      "risks": [
+        "Dependencia de conectividad a Internet",
+        "Bot token debe rotarse periódicamente"
+      ],
+      "status": "active",
+      "priority": "P2",
+      "progress_pct": 100,
+      "verified_by": "Bot activo en @BeRi0n3"
+    },
+    {
+      "id": "feat-security",
+      "category": "security",
+      "description": "Limpieza de secrets expuestos en git history",
+      "tech_details": "GitHub Issue #221: secrets expuestos en git history de saberparatodos. Acción: escanear con git-filter-repo, force-push a todas las ramas, actualizar .gitignore. Pendiente de ejecución por impacto en colaboradores.",
+      "prs": [],
+      "issues": ["#221"],
+      "dependencies": ["git-filter-repo", "coordinaciín con colaboradores"],
+      "kpis": {},
+      "risks": [
+        "Force-push puede perder commits de otros colaboradores",
+        "Secrets ya expuestos en GitHub no se pueden eliminar del todo"
+      ],
+      "status": "pending",
+      "priority": "P1",
+      "progress_pct": 0,
+      "verified_by": "pending"
+    },
+    {
+      "id": "feat-tests",
+      "category": "testing",
+      "description": "Tests unitarios para IsarVectorStoreService + agent_memory",
+      "tech_details": "GitHub Issue #408: Implementar tests unitarios para IsarVectorStoreService y agent_memory store. Cobertura mínima: 70%. Framework: Vitest + Playwright.",
+      "prs": [],
+      "issues": ["#408"],
+      "dependencies": ["Vitest", "IsarVectorStoreService", "agent_memory"],
+      "kpis": {
+        "current_coverage": "20%",
+        "target_coverage": "70%"
+      },
+      "risks": [
+        "Baja prioridad vs features de expansión",
+        "Isar puede requerir mocking complejo"
+      ],
+      "status": "in_progress",
+      "priority": "P1",
+      "progress_pct": 20,
+      "verified_by": "Issue #408"
+    }
+  ]
+}
