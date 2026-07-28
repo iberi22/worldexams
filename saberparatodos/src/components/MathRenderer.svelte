@@ -1,3 +1,10 @@
+<script context="module" lang="ts">
+  // Module-level cache to share rendered math across all instances of MathRenderer
+  // Bounded Map to prevent memory leaks while optimizing synchronous rendering
+  const MAX_CACHE_SIZE = 500;
+  const renderCache = new Map<string, string>();
+</script>
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
@@ -20,6 +27,11 @@
    */
   function renderMath(text: string): string {
     if (!text) return '';
+
+    // Check cache first to avoid expensive redundant synchronous rendering
+    if (renderCache.has(text)) {
+      return renderCache.get(text)!;
+    }
 
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
@@ -135,6 +147,16 @@
     if (result.endsWith('<br><br>')) {
         result = result.slice(0, -8);
     }
+
+    // Manage cache size and save result
+    if (renderCache.size >= MAX_CACHE_SIZE) {
+      // Remove the oldest inserted item to keep within bounds
+      const firstKey = renderCache.keys().next().value;
+      if (firstKey !== undefined) {
+        renderCache.delete(firstKey);
+      }
+    }
+    renderCache.set(text, result);
 
     return result;
   }

@@ -1,0 +1,3 @@
+## 2026-07-28 - Memoization for synchronous KaTeX rendering in Svelte
+**Learning:** KaTeX rendering is a synchronous and CPU-intensive operation that can block the main thread if repeated frequently. In a Svelte app, rendering math equations across multiple instances of a component like `MathRenderer.svelte` can cause severe performance bottlenecks, especially if equations are re-rendered during list updates or navigation.
+**Action:** When performing heavy synchronous work inside a component's render flow (like Markdown/LaTeX parsing), utilize Svelte's `<script context="module">` to create a bounded module-level cache (e.g. Map). This shares the memoized results across all component instances rather than recalculating them per-instance.
