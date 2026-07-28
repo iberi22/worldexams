@@ -1,5 +1,18 @@
 # AGENTS.md - WorldExams / SaberParaTodos
 
+## SWAL ecosystem (WorldExams como nodo activo)
+
+- **Canonical:** `docs/SWAL/GOAL.md` · `docs/SWAL/PROJECT_MAP.md`
+- **Pro:** Nodo SWAL activo — sin Stripe ni suscripciones externas
+- **Memoria:** Xavier HTTP/MCP · namespaces `app/worldexams/instance/{instanceId}`
+- **Mesh:** edge-mesh · `swal/worldexams/{instanceId}`
+- **Token:** $SWAL ownership + stake yield
+- **Protocolo:** GitCore 3.8+ · feature-verify / implementation-score
+- **Generación de contenido:** Jules (label `jules` en issues)
+- **Integración:** Pipeline cíclico automático cada 30 min
+
+---
+
 Este archivo es leido por Jules para generar y validar bundles. La fuente de verdad actual es el protocolo semanal v5.2.
 
 ## Project Overview
@@ -91,7 +104,6 @@ No usar `semana` como reemplazo de `week`. No usar `Context`, `Options` ni encab
 **ICFES:** Numerico
 **Expected_Success:** 0.90
 **Contexto:** Escenario local, util para resolver o interpretar la pregunta.
-
 ### Enunciado
 Texto de la pregunta.
 
@@ -112,6 +124,7 @@ Explicacion completa del concepto evaluado.
 Reglas:
 - Usar `## Question N [D#]`, no `## Pregunta`.
 - Usar `### Enunciado`, `### Opciones`, `### Explicacion Pedagogica`.
+- Eje evaluado por pais: `**ICFES:**` es EXCLUSIVO de Colombia. Todos los demas paises usan `**EJE:**` (eje/componente evaluado). La entidad de cada pais (PAES, EXANI, ENEM, CNEB, Aprender...) va solo en el frontmatter `alignment`, nunca como marca dentro de las preguntas.
 - Exactamente 4 opciones A-D.
 - Exactamente una opcion con `[x]`.
 - Todas las opciones tienen feedback HTML en la linea siguiente o inmediata.
@@ -201,6 +214,12 @@ curl "https://api.saberparatodos.space/v1/questions?country=mx&grade=11&subject=
 
 El API debe preferir packs con prefijo de pais (`co-`, `mx-`, `ar-`, `br-`) antes de usar packs genericos.
 
+## AI Core on-device (SWAL)
+
+- Runtime generico: `edge-mesh` → `createAiCore({ mesh, instanceId })` (ver `docs/SWAL/AI_CORE.md`).
+- UI PWA: `/ajustes/ia` · tutor en Results · generacion local no publica a `questions_data/`.
+- Smoke: `cd saberparatodos && npm run smoke:ai`
+
 ## Country Readiness KPI
 
 La meta operativa para pruebas finales es 2000 preguntas por pais soportado.
@@ -238,3 +257,14 @@ Estados del reporte:
 8. No afirmar que el contenido esta publicado hasta que se generen/verifiquen los static packs.
 9. Ejecutar `npm run audit:country-readiness` cuando el issue afecte cobertura por pais.
 10. Comentar el issue con: `[OK] Generados N bundles: ID1, ID2, ...`.
+
+---
+
+## 🧹 POLÍTICA DE LIMPIEZA
+
+El proyecto se mantiene limpio mediante:
+1. **Branches:** Solo `main` y `develop` — branches de features se borran post-merge
+2. **Scripts:** Solo `.mjs`, `.sh`, `.ts` — nada de `.ps1` (migrado a Linux)
+3. **Temp:** `temp/`, `temp_*`, `*.log` están en `.gitignore` — no se commitean
+4. **Issues:** Issues de Jules se cierran al completar el feature
+5. **Documentación:** SRS, SRC, features.json siempre sincronizados
