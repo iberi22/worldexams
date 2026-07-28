@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.85
 **Contexto:** En un debate sobre el transporte público en San José, Andrey expone que la prioridad debe ser el tren eléctrico interurbano.
 
@@ -51,7 +51,7 @@ Un texto argumentativo se define por la presencia de una tesis (opinión o postu
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.82
 **Contexto:** Durante una clase en el Liceo de Heredia, Sofía analiza un artículo de opinión sobre el impacto del turismo ecológico en Monteverde.
 
@@ -76,7 +76,7 @@ La tesis es la idea principal o punto de vista que el autor sostiene y defiende 
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.80
 **Contexto:** En una editorial de un diario costarricense se debate sobre el presupuesto universitario y la inversión en investigación científica.
 
@@ -101,7 +101,7 @@ El argumento de autoridad aporta validez a la tesis recurriendo al testimonio o 
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.78
 **Contexto:** Un grupo de estudiantes de Cartago elabora un ensayo argumentativo contra el uso de plásticos de un solo uso en los comercios locales.
 
@@ -126,7 +126,7 @@ El argumento de causa-efecto demuestra cómo una acción o fenómeno determinado
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.75
 **Contexto:** Para un proyecto de educación cívica en Alajuela, Javier escribe un discurso argumentativo instando al voto joven en las elecciones municipales.
 
@@ -151,7 +151,7 @@ La contraargumentación consiste en identificar posibles objeciones del lector p
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.73
 **Contexto:** En un debate sobre la restricción vehicular en el centro de San José, se plantea la necesidad de reducir la huella de carbono.
 
@@ -176,7 +176,7 @@ Los argumentos basados en datos empíricos sustentan la tesis mediante cifras de
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.70
 **Contexto:** María redacta un ensayo sobre la preservación de las lenguas indígenas costarricenses, como el bribri y el cabécar, dirigiéndose al Ministerio de Cultura.
 
@@ -201,7 +201,7 @@ Un ensayo argumentativo dirigido a una autoridad o comunidad académica requiere
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.68
 **Contexto:** En una discusión familiar, Andrey intenta convencer a su abuelo de utilizar banca electrónica para evitar filas en el banco de Cartago.
 
@@ -226,7 +226,7 @@ La falacia ad hominem desvía la atención del argumento atacando o desacreditan
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.65
 **Contexto:** Un ensayista publica una columna en Heredia criticando la falta de ciclovías seguras en los cantones del Valle Central.
 
@@ -251,7 +251,7 @@ Los conectores de oposición (no obstante, sin embargo, por el contrario) permit
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.62
 **Contexto:** Ana lee un artículo científico sobre el cambio climático y un ensayo de opinión sobre la justicia climática global.
 
@@ -276,7 +276,7 @@ El artículo científico se basa en el método experimental y la exposición de 
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.58
 **Contexto:** Analice el siguiente texto:\n'Es urgente regular las plataformas de entrega a domicilio en Costa Rica. Los repartidores carecen de seguro social y estabilidad económica básica. Si el Estado costarricense ignora este vacío legal, estará promoviendo la precarización laboral extrema de miles de jóvenes.'
 
@@ -301,7 +301,7 @@ El fragmento utiliza una argumentación causa-efecto basada en la responsabilida
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.55
 **Contexto:** Considere el siguiente enunciado de un debate sobre alimentación saludable en escuelas costarricenses:\n'Prohibir la venta de comida no saludable en centros educativos vulnera el libre albedrío de los estudiantes para elegir sus alimentos cotidianos.'
 
@@ -326,7 +326,7 @@ La premisa implícita presupone que los jóvenes son agentes con plena capacidad
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.52
 **Contexto:** Un ensayo de opinión sobre el teletrabajo en Alajuela afirma lo siguiente:\n'El teletrabajo reduce el estrés de los colaboradores y descongestiona las autopistas principales del Valle Central. No obstante, incrementa el consumo de electricidad doméstico y puede generar aislamiento social.'
 
@@ -351,7 +351,7 @@ El texto posee una estructura dialéctica que balancea argumentos favorables con
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Semántica
+**EJE:** Semántica
 **Expected_Success:** 0.48
 **Contexto:** Lea con atención la siguiente tesis sobre el desarrollo de energías limpias en Guanacaste:\n'La inversión masiva en campos eólicos es una falacia ambientalista de corto alcance, puesto que su instalación devasta los ecosistemas locales de aves.'
 
@@ -376,7 +376,7 @@ La tesis descalifica una alternativa energética tildándola de falacia global a
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.45
 **Contexto:** Un panel de expertos en San José analiza un ensayo propuesto sobre la descarbonización industrial en la provincia de Cartago. Uno de los párrafos dice:\n'Costa Rica debe abandonar de inmediato toda industria pesada que consuma combustibles fósiles, cerrando fábricas y plantas de cemento este año para liderar el ecologismo mundial.'
 
@@ -401,7 +401,7 @@ Un argumento sólido debe ser viable y pragmático en sus propuestas. El cierre 
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.42
 **Contexto:** Lea el siguiente argumento en contra de la educación financiera obligatoria en colegios:\n'No debemos enseñar finanzas a los jóvenes porque los bancos costarricenses solo buscan lucrar con los intereses y endeudar a las familias.'
 
@@ -426,7 +426,7 @@ La argumentación es deficiente porque desvía la utilidad del conocimiento fina
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.38
 **Contexto:** En una asamblea comunal en Liberia, se debate un proyecto de ley para autorizar casinos de lujo. Un opositor argumenta:\n'Si permitimos la apertura de estos casinos, nuestra pacífica ciudad se convertirá inmediatamente en un nido de delincuencia, lavado de dinero y adicción desenfrenada que destruirá a cada familia liberiana.'
 
@@ -451,7 +451,7 @@ La pendiente resbaladiza consiste en argumentar que si realizamos una acción, o
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.35
 **Contexto:** Lea el siguiente fragmento de un ensayo argumentativo sobre la protección de cuencas hidrográficas en Cartago:\n'El agua es vida. Debemos cuidar nuestros ríos porque son fuentes vitales que fluyen por la provincia. Sin ríos limpios, no habría corrientes fluviales libres de contaminación y el ciclo ecológico se detendría por completo por falta de pureza en el caudal.'
 
@@ -476,7 +476,7 @@ La petición de principio o razonamiento circular ocurre cuando la conclusión d
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.32
 **Contexto:** Un profesor de Español del Liceo de San José solicita a sus estudiantes redactar un texto argumentativo sobre el uso de la inteligencia artificial en la redacción de tareas escolares.
 
@@ -501,7 +501,7 @@ Una tesis ensayística sólida debe ser una proposición debatible que requiera 
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.30
 **Contexto:** Durante un taller literario en el cantón de Curridabat, se analizan los componentes lógicos de los discursos políticos.
 

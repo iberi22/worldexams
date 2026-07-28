@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.85
 **Contexto:** Durante un recital de poesía en San José, se analizan los componentes del género lírico.
 
@@ -51,7 +51,7 @@ La lírica se define por la manifestación de la intimidad afectiva del sujeto c
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** Sofía estudia un poema del célebre escritor costarricense Jorge Debravo, el poeta de los humildes y de la justicia social.
 
@@ -76,7 +76,7 @@ El yo lírico es la máscara o voz literaria creada por el poeta para enunciar d
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.80
 **Contexto:** Javier analiza la estructura rítmica de una estrofa poética escrita en versos de arte menor.
 
@@ -101,7 +101,7 @@ La métrica mide la duración silábica de los versos, modulando la sonoridad r�
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** María analiza una estrofa poética costarricense y nota que las vocales de las palabras finales coinciden a partir de la última vocal acentuada.
 
@@ -126,7 +126,7 @@ La rima asonante o imperfecta es aquella donde hay identidad fónica exclusivame
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.75
 **Contexto:** Andrey desea componer un cuarteto tradicional utilizando rima consonante.
 
@@ -151,7 +151,7 @@ El cuarteto clásico es una estrofa de cuatro versos endecasílabos con rima con
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.73
 **Contexto:** Ana analiza el poema 'Nosotros los hombres' de Jorge Debravo, el cual proclama la solidaridad y la hermandad humana.
 
@@ -176,7 +176,7 @@ La anáfora es un recurso de repetición estilística que genera sonoridad, para
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.70
 **Contexto:** Para un proyecto en Alajuela, Javier compone un poema dedicado a la carreta típica costarricense.
 
@@ -201,7 +201,7 @@ La personificación atribuye rasgos, sentimientos, voces o conductas eminentemen
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.68
 **Contexto:** Un poema del Valle Central dice:
 'En el silencio de la tarde gris,
@@ -228,7 +228,7 @@ La aliteración persigue la imitación fónica de sensaciones físicas de la nat
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.65
 **Contexto:** María analiza la siguiente estrofa poética de un autor costarricense contemporáneo:
 'Tus labios son pétalos de orquídea húmeda,
@@ -255,7 +255,7 @@ La metáfora pura o impura asocia el plano real con la dimensión figurada de fo
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.62
 **Contexto:** Durante un recital en Cartago, un estudiante de Español estudia el concepto de 'licencia poética'.
 
@@ -280,7 +280,7 @@ La sinalefa es el recurso métrico natural del idioma español que permite fluid
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** Lea con atención los siguientes versos del poeta de Cartago Jorge Debravo:
 'Soy un hombre sencillo que trabaja de sol a sol,
@@ -309,7 +309,7 @@ La obra de Jorge Debravo destaca por su lirismo de hondo compromiso humano, dign
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.55
 **Contexto:** Considere los siguientes versos de una poesía costarricense contemporánea:
 'El silencio es un pozo de agua amarga en la provincia,
@@ -336,7 +336,7 @@ La metáfora existencial proyecta estados de ánimo sobre los objetos físicos, 
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.52
 **Contexto:** Lea atentamente la siguiente estrofa:
 'Del monte en la ladera verde y umbría,
@@ -363,7 +363,7 @@ El hipérbaton permite modificar la estructura natural de la frase en español p
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.48
 **Contexto:** Analice la estructura formal de los siguientes versos:
 '¡Oh bosque sagrado de Guanacaste!
@@ -391,7 +391,7 @@ La actitud apostrófica o de apelación se define por la interpelación directa 
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.45
 **Contexto:** Un crítico costarricense analiza un soneto escrito por un autor alajuelense de secundaria. El soneto tiene versos de catorce sílabas (alejandrinos), pero la última estrofa rompe abruptamente la métrica con dos versos de cinco sílabas que riman de forma imperfecta con palabras vulgares coloquiales del Valle Central.
 
@@ -416,7 +416,7 @@ El soneto es la estructura lírica cerrada clásica por excelencia que exige per
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.42
 **Contexto:** Considere los siguientes versos de un poema escolar que describe el Volcán Poás:
 'El volcán es un dragón furioso que ruge de rabia,
@@ -443,7 +443,7 @@ La lírica de calidad evita repeticiones viciosas redundantes, optando por la va
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.38
 **Contexto:** Lea el siguiente fragmento de un poema dedicado al cultivo de caña de azúcar en San Carlos:
 'El machete del peón corta el viento como un rayo de plata,
@@ -470,7 +470,7 @@ La personificación poética de la naturaleza herida dignifica y dota de dramati
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.35
 **Contexto:** Analice este fragmento de un poema contemporáneo escrito en San José:
 'El reloj de la pared devora mis segundos de juventud con su tictac de hierro,
@@ -497,7 +497,7 @@ El tropo de la hoja seca y el tiempo destructor (cronófago) representa el tópi
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.32
 **Contexto:** Un grupo de estudiantes de undécimo año repasa los componentes históricos de la lírica costarricense en su colegio de San José.
 
@@ -522,7 +522,7 @@ El asíndeton despoja al verso de ataduras sintácticas coordinantes, acelerando
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.30
 **Contexto:** Durante un foro sobre poesía clásica en el Liceo de Heredia, se define el concepto de 'estrofa'.
 

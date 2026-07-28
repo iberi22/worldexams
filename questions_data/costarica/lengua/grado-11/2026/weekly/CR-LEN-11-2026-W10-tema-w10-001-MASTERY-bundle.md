@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de Español en el Liceo de Heredia, los estudiantes repasan los tropos y las figuras literarias.
 
@@ -51,7 +51,7 @@ La metáfora es el tropo conceptual por excelencia que unifica el plano real e i
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** Sofía lee un poema costarricense dedicado al atardecer en las playas de Puntarenas y encuentra el verso: 'El sol parecía una moneda de oro encendida que caía lentamente en el agua amarga'.
 
@@ -76,7 +76,7 @@ El símil o comparación exige la presencia de un nexo verbal o gramatical compa
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.80
 **Contexto:** Javier analiza un fragmento literario donde se describe el viento de las montañas de Cartago de la siguiente manera: 'El viento silbaba canciones tristes entre las maderas de adobes de la casa'.
 
@@ -101,7 +101,7 @@ La personificación o prosopopeya es el tropo de pensamiento que humaniza el ent
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** María desea componer un poema exagerando la cantidad de lluvia que cae en la provincia de Limón durante el invierno.
 
@@ -126,7 +126,7 @@ La hipérbole deforma de manera intencional y desmesurada la realidad para inten
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.75
 **Contexto:** Andrey lee una estrofa poética costarricense y analiza la figura de la 'antítesis'.
 
@@ -151,7 +151,7 @@ La antítesis realza la expresión lírica al aproximar conceptos opuestos, estr
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.73
 **Contexto:** Ana analiza el verso de una poesía dedicada al campesino costarricense: 'La áspera caricia de tus manos, labriego sencillo...'
 
@@ -176,7 +176,7 @@ El oxímoron es una figura que une de forma directa términos opuestos en un mis
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.70
 **Contexto:** Javier compone un poema sobre la noche estrellada en el Volcán Poás de Alajuela.
 
@@ -201,7 +201,7 @@ El epíteto es un adjetivo calificativo que explicita una cualidad obvia y natur
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.68
 **Contexto:** Durante un lector en San José, se lee el verso: 'Su voz era un manantial de agua fresca que calmaba la sed del alma de Heredia.'
 
@@ -226,7 +226,7 @@ La metáfora impura asocia de forma directa los dos planos en la oración gramat
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.65
 **Contexto:** María analiza un poema del costarricense Jorge Debravo dedicado al dolor del obrero de Cartago.
 
@@ -251,7 +251,7 @@ La derivación o políptoton reitera vocablos de un mismo origen etimológico en
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.62
 **Contexto:** Durante una asamblea de Español en Cartago, un estudiante analiza la figura de la 'sinécdoque'.
 
@@ -276,7 +276,7 @@ La sinécdoque es un tropo semántico de gran valor descriptivo que sustituye vo
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.58
 **Contexto:** Lea atentamente el siguiente fragmento lírico:
 'Tus ojos de noche oscura alumbran el camino del viajero;
@@ -304,7 +304,7 @@ La anáfora combinada con el paralelismo sintáctico dota al poema de una gran s
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.55
 **Contexto:** Considere los siguientes versos de un poema de Cartago:
 'El cráter del volcán bosteza humo perezoso,
@@ -331,7 +331,7 @@ La personificación de la geología volcánica costarricense impregna al paisaje
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.52
 **Contexto:** Lea atentamente el siguiente enunciado poético de Heredia:
 'El guerrero cayó en el campo de combate como un roble herido, que se desploma con un sordo quejido de madera.'
@@ -357,7 +357,7 @@ El símil de carácter orgánico (el roble) sacraliza y dignifica de forma trág
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.48
 **Contexto:** Considere el verso de un poema escrito en Liberia:
 'Guanacaste, tierra de sol ardiente,
@@ -384,7 +384,7 @@ La metáfora monetaria (colón-oro) dignifica y exalta el fruto del esfuerzo fí
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.45
 **Contexto:** Un crítico costarricense analiza una composición lírica de Heredia dedicada al cuidado del agua. Uno de sus versos dice:
 'El agua clara limpia de agua dulce es un caudal puro de agua de lluvia de la provincia de Heredia.'
@@ -410,7 +410,7 @@ La creación lírica de calidad exige evitar redundancias viciosas, prefiriendo 
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis de herencia
+**EJE:** Análisis de herencia
 **Expected_Success:** 0.42
 **Contexto:** Considere los siguientes versos de un poema de corte amoroso-existencial costarricense:
 'Tu sonrisa brillante es un destello de sol en la tarde gris de Alajuela;
@@ -437,7 +437,7 @@ La consistencia semántica en la lírica amorosa tradicional se consolida median
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis de herencia
+**EJE:** Análisis de herencia
 **Expected_Success:** 0.38
 **Contexto:** Considere los siguientes versos de un poema costumbrista dedicado a las leyendas de Cartago:
 'El Cadejos, perro de ojos de fuego encendido, corre silencioso como un gato de adobes por el potrero oscuro.'
@@ -463,7 +463,7 @@ La literatura costumbrista de Costa Rica enriquece sus comparaciones y símiles 
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis de herencia
+**EJE:** Análisis de herencia
 **Expected_Success:** 0.35
 **Contexto:** Analice este fragmento de un poema contemporáneo escrito en San José:
 'El reloj de la pared devora mis segundos de juventud con su tictac de hierro,
@@ -490,7 +490,7 @@ El tropo de la hoja seca y el tiempo destructor (cronófago) representa el tópi
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.32
 **Contexto:** Un grupo de estudiantes de undécimo año de Heredia repasa la clasificación de las figuras de construcción.
 
@@ -515,7 +515,7 @@ El polisíndeton retarda de forma deliberada el fluir sintáctico del poema, con
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.30
 **Contexto:** Durante una asamblea de Español en Alajuela, se repasa la definición de la figura del 'hipérbaton'.
 

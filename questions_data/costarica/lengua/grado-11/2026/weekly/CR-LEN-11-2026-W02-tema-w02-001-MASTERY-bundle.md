@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.85
 **Contexto:** En un folleto informativo del Ministerio de Salud en San José se explican las medidas de prevención contra el dengue.
 
@@ -51,7 +51,7 @@ La función principal de la tipología expositiva es la transmisión objetiva de
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.82
 **Contexto:** Durante un taller de ciencias en Cartago, Javier analiza un informe sobre la actividad geotérmica de los volcanes de la cordillera.
 
@@ -76,7 +76,7 @@ Para transmitir información objetiva de manera rigurosa, se emplea la función 
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de estudiantes lee un texto de divulgación científica sobre la protección de la biodiversidad marina en la Isla del Coco.
 
@@ -101,7 +101,7 @@ La macroestructura expositiva organiza el saber partiendo de una introducción c
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.78
 **Contexto:** Para una tarea en el Liceo de Heredia, Sofía lee un texto que compara las fuentes de energía solar y eólica en Guanacaste.
 
@@ -126,7 +126,7 @@ La organización por comparación y contraste permite confrontar dos o más elem
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.75
 **Contexto:** Andrey redacta una explicación técnica sobre el tratamiento de aguas residuales en las cercanías del río Tempisque.
 
@@ -151,7 +151,7 @@ Las construcciones impersonales y de pasiva refleja son recursos clave en los te
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.73
 **Contexto:** Un artículo explicativo detalla que el asfalto de la autopista General Cañas se deteriora por la combinación de lluvias intensas y exceso de peso vehicular.
 
@@ -176,7 +176,7 @@ La estructura de causa-efecto se enfoca en exponer las razones que originan un f
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Semántica
+**EJE:** Semántica
 **Expected_Success:** 0.70
 **Contexto:** María prepara una presentación sobre la producción de café de especialidad en la zona de Los Santos.
 
@@ -201,7 +201,7 @@ Los tecnicismos son vocablos especializados propios de una disciplina o sector p
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.68
 **Contexto:** En el sitio web de la municipalidad de Liberia se publica una guía explicativa para el manejo de residuos sólidos.
 
@@ -226,7 +226,7 @@ Los subtítulos, listas con viñetas y relieves tipográficos son recursos organ
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.65
 **Contexto:** Javier debe transformar un párrafo narrativo sobre la fauna de Manuel Antonio en uno puramente expositivo.
 
@@ -251,7 +251,7 @@ La reescritura expositiva requiere eliminar la perspectiva subjetiva, los juicio
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.62
 **Contexto:** Durante una investigación escolar en Alajuela, se analiza un folleto expositivo sobre el ciclo de vida del sapo dorado de Monteverde.
 
@@ -276,7 +276,7 @@ El glosario proporciona definiciones exactas de conceptos técnicos de la materi
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.58
 **Contexto:** Lea detenidamente el siguiente fragmento de un artículo de divulgación científica:
 'El cambio climático ha elevado la temperatura superficial del mar en el Golfo de Nicoya. Este calentamiento altera el metabolismo de las especies marinas locales, reduciendo la disponibilidad de oxígeno e impactando severamente la pesca artesanal de las comunidades de Puntarenas.'
@@ -302,7 +302,7 @@ La lógica interna progresa de forma descendente, enlazando una causa físico-qu
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.55
 **Contexto:** Considere el siguiente fragmento de un informe escolar sobre hidroelectricidad en Costa Rica:
 'El Complejo Hidroeléctrico Arenal genera una parte importante de la electricidad del país. A diferencia de las plantas térmicas, la generación hidroeléctrica no quema combustibles fósiles, reduciendo sustancialmente la emisión de dióxido de carbono al ambiente.'
@@ -328,7 +328,7 @@ El contraste con sistemas térmicos permite clarificar los atributos singulares 
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.52
 **Contexto:** Un texto expositivo sobre las características arquitectónicas de la Basílica de Cartago incluye un plano detallado con referencias numéricas de cada sección estructural.
 
@@ -353,7 +353,7 @@ La combinación de recursos visuales e información textual escrita optimiza la 
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.48
 **Contexto:** En una monografía explicativa de undécimo año sobre el cultivo hidropónico en Alajuela, se lee:
 'La hidroponía permite cultivar hortalizas sin suelo agrícola. Las raíces reciben una solución nutritiva equilibrada disuelta en agua, la cual contiene todos los elementos químicos esenciales para el desarrollo de la planta.'
@@ -379,7 +379,7 @@ La definición operativa introduce un concepto técnico y explica de inmediato s
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante costarricense consulta un sitio web de edición abierta para realizar una investigación sobre la biodiversidad del Parque Nacional Corcovado y encuentra la siguiente afirmación:
 'Corcovado es increíble y tiene un montón de animales súper lindos y raros que a todos los turistas costarricenses les encanta fotografiar los fines de semana.'
@@ -405,7 +405,7 @@ Un texto expositivo riguroso debe prescindir de valoraciones subjetivas e imprec
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.42
 **Contexto:** Considere el siguiente fragmento de una enciclopedia costarricense sobre el río Grande de Tárcoles:
 'El río Grande de Tárcoles presenta altos niveles de contaminación orgánica e industrial debido a que recibe las descargas de los sistemas de alcantarillado de la Gran Área Metropolitana (GAM).'
@@ -431,7 +431,7 @@ La validez científica de un texto expositivo se sustenta en explicaciones lógi
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.38
 **Contexto:** En un artículo escolar sobre la historia del Teatro Nacional de Costa Rica, un estudiante escribe el siguiente enunciado:
 'La construcción del Teatro Nacional comenzó a finales del siglo XIX, financiada principalmente por un impuesto a la exportación de café, lo que impulsó las artes costarricenses.'
@@ -457,7 +457,7 @@ El enunciado enriquece el texto expositivo al proveer una explicación causal so
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.35
 **Contexto:** Un docente costarricense evalúa la coherencia interna de una monografía técnica de undécimo año sobre el manejo del cultivo de caña de azúcar en la provincia de Guanacaste. El estudiante concluye su desarrollo con la siguiente frase:
 'Por lo tanto, la caña de azúcar es un cultivo fascinante porque me recuerda las vacaciones de mi infancia en San Carlos y el dulce sabor del trapiche.'
@@ -483,7 +483,7 @@ La conclusión de un escrito expositivo formal debe condensar de forma objetiva 
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.32
 **Contexto:** Durante un taller de Español sobre tipologías textuales en Cartago, se debate sobre la función de las notas al pie de página en las monografías expositivas.
 
@@ -508,7 +508,7 @@ Las notas al pie de página sirven para documentar la procedencia de los datos o
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes de Heredia repasa la estructura de los textos de divulgación científica para preparar su examen de Bachillerato MEP.
 

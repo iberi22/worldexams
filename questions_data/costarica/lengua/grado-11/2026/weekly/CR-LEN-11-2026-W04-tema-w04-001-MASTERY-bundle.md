@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.85
 **Contexto:** Durante una práctica de redacción en Cartago, Sofía analiza las características del texto descriptivo.
 
@@ -51,7 +51,7 @@ La descripción es eminentemente nominalista y se sustenta en la adjetivación p
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** Javier lee una novela donde se describe minuciosamente el carácter moral, los valores y las virtudes del sabio don Carlos.
 
@@ -76,7 +76,7 @@ La etopeya es la figura descriptiva centrada en la caracterización psicológica
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.80
 **Contexto:** Andrey debe realizar una descripción técnica y objetiva sobre los componentes minerales del suelo del Volcán Irazú.
 
@@ -101,7 +101,7 @@ La descripción técnica persigue representar la realidad de forma fidedigna y v
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.78
 **Contexto:** María redacta una carta describiendo detalladamente la plaza central de la ciudad de Heredia tal y como era hace un siglo.
 
@@ -126,7 +126,7 @@ La topografía es el recurso que permite pintar con palabras la fisonomía, el r
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.75
 **Contexto:** En un cuento sobre San José de finales del siglo XIX, un fragmento describe las costumbres coloniales durante la época del cultivo del café.
 
@@ -151,7 +151,7 @@ La cronografía es la descripción que contextualiza temporalmente una historia 
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.73
 **Contexto:** Ana redacta una prosopografía del héroe nacional Juan Santamaría para un acto cívico en Alajuela.
 
@@ -176,7 +176,7 @@ La prosopografía se limita a la descripción física, corporal y externa de una
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.70
 **Contexto:** Para un proyecto literario, Andrey escribe una caricatura literaria de un personaje codicioso que vive en Liberia.
 
@@ -201,7 +201,7 @@ La caricatura literiva exagera satíricamente los rasgos físicos o éticos de u
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.68
 **Contexto:** Javier elabora una guía turística describiendo los senderos del Parque Nacional Manuel Antonio.
 
@@ -226,7 +226,7 @@ La topografía requiere una progresión espacial ordenada que asista a la imagin
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Semántica
+**EJE:** Semántica
 **Expected_Success:** 0.65
 **Contexto:** María realiza una descripción literaria de un atardecer de verano en las playas de Guanacaste.
 
@@ -251,7 +251,7 @@ La sinestesia es un tropo literario de gran valor descriptivo que asocia sensaci
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.62
 **Contexto:** Durante una mesa redonda de Español en el Liceo de San José, se define el concepto de 'autorretrato'.
 
@@ -276,7 +276,7 @@ El autorretrato literario unifica la prosopografía y la etopeya bajo una mirada
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** Lea atentamente el siguiente fragmento descriptivo:
 'Don Joaquín era un anciano de andar enérgico, de espaldas encorvadas por los años y de mirada viva que escudriñaba a su interlocutor tras unos anteojos de plata. Su voz, grave y serena, transmitía una paciencia infinita, propia de quien ha vivido todas las batallas del campo costarricense.'
@@ -302,7 +302,7 @@ El retrato literario es una síntesis descriptiva integral que fusiona la aparie
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.55
 **Contexto:** Analice el siguiente fragmento de una descripción del Volcán Arenal:
 'La imponente mole cónica del volcán Arenal se alzaba majestuosa recortando su silueta perfecta sobre un cielo cargado de nubes plomizas. De su cúspide brotaba un lento hilo de vapor grisáceo, un recordatorio silencioso de la inmensa fuerza encerrada en sus entrañas de basalto.'
@@ -328,7 +328,7 @@ La descripción literaria subjetiva se sirve de la adjetivación expresiva y de 
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.52
 **Contexto:** En una novela costumbrista ambientada en Alajuela, se describe minuciosamente el proceso de elaboración del dulce de caña en un viejo trapiche de bueyes.
 
@@ -353,7 +353,7 @@ La descripción de costumbres y oficios tradicionales costarricenses consolida l
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.48
 **Contexto:** Lea con atención el siguiente pasaje descriptivo:
 'El mercado central de San José era un laberinto bullicioso de aromas que se entrelazaban con el griterío de los vendedores. El perfume de los granos de café recién molidos chocaba con el olor húmedo del cilantro de coyote y la acidez de las frutas maduras apiladas en los tramos de madera.'
@@ -379,7 +379,7 @@ La construcción espacial literaria suele trascender lo puramente visual, incorp
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.45
 **Contexto:** Un jurado costarricense evalúa la descripción física de un personaje de fantasía en una antología juvenil elaborada en Heredia. El pasaje dice:
 'La criatura era sumamente gigantesca y poseía unos enormes brazos increíblemente grandes que terminaban en unas manos gigantes con unos dedos colosales.'
@@ -405,7 +405,7 @@ La descripción de calidad evita la repetición viciosa de sinónimos absolutos 
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.42
 **Contexto:** Lea la siguiente descripción de un hotel turístico ubicado en el Caribe costarricense:
 'El hotel ofrece cabañas de madera rústica rodeadas de un exuberante jardín tropical habitado por monos congos y tucanes, brindando una experiencia inmersiva de total tranquilidad frente al mar.'
@@ -431,7 +431,7 @@ La descripción de carácter publicitario ejerce una selección sesgada y laudat
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.38
 **Contexto:** En un artículo sobre la historia del arte costarricense, un ensayista escribe:
 'El pintor herediano esculpió un paisaje invernal donde plasmó las copas nevadas de las montañas josefinas y el gélido viento que congelaba las aguas de la laguna.'
@@ -457,7 +457,7 @@ La literatura realista y costumbrista exige coherencia con las variables ecológ
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.35
 **Contexto:** Considere el siguiente fragmento descriptivo literario escrito por un estudiante de Alajuela:
 'La gata de don José era tan ágil como una tortuga cansada y tan silenciosa como una comparsa del carnaval de Limón, lo que fascinaba a todos los vecinos del cantón.'
@@ -483,7 +483,7 @@ La ironía descriptiva asocia rasgos contrapuestos de manera intencional, logran
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.32
 **Contexto:** Durante una asamblea de Español en Cartago, se analiza la función de los adjetivos especificativos frente a los adjetivos explicativos (epítetos) en los textos descriptivos.
 
@@ -508,7 +508,7 @@ El epíteto es un recurso estilístico clave de la descripción poética y clás
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes costarricenses estudia los diferentes enfoques de la tipología descriptiva para las Pruebas Nacionales del MEP.
 

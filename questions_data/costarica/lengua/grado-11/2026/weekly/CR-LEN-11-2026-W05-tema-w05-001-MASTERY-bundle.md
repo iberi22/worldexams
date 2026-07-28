@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.85
 **Contexto:** Javier repasa para las Pruebas Nacionales Estandarizadas de Español en Alajuela.
 
@@ -51,7 +51,7 @@ La tipología descriptiva recrea la realidad fisonómica, espacial o moral media
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.82
 **Contexto:** Sofía lee cuatro textos diferentes en su manual de preparación del MEP en Heredia.
 
@@ -76,7 +76,7 @@ La narrativa se define por su dinamismo temporal y la presencia de agentes que e
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.80
 **Contexto:** En un debate escolar en San José, Andrey analiza un ensayo y una monografía científica sobre recursos hídricos.
 
@@ -101,7 +101,7 @@ La exposición persigue la transmisión neutral del saber, mientras que la argum
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.78
 **Contexto:** María redacta un párrafo donde describe el relieve montañoso que rodea la provincia de Cartago.
 
@@ -126,7 +126,7 @@ La representación detallada de espacios naturales o urbanos inanimados constitu
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.75
 **Contexto:** Un grupo de estudiantes de undécimo año escribe un artículo para la revista del Liceo de Liberia contra el acoso escolar.
 
@@ -151,7 +151,7 @@ El argumento de autoridad legitima la validez de la tesis apoyándose en el cono
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.73
 **Contexto:** Un texto escolar describe detalladamente el ciclo de polinización de las abejas en los cultivos frutales de Alajuela.
 
@@ -176,7 +176,7 @@ La descripción procesal científica se enmarca en la tipología expositiva, pue
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.70
 **Contexto:** Javier desea reescribir un texto narrativo subjetivo sobre la recolección de café en Tarrazú en uno de carácter expositivo.
 
@@ -201,7 +201,7 @@ Las estructuras impersonales con 'se' permiten ocultar al agente, logrando la ne
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.68
 **Contexto:** Andrey redacta una monografía explicativa de undécimo año sobre el impacto ecológico de la ganadería extensiva en Guanacaste.
 
@@ -226,7 +226,7 @@ Los conectores causales (puesto que, ya que, porque, dado que) introducen la jus
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.65
 **Contexto:** En un artículo de opinión de San José se afirma: 'La inversión en educación es el pilar de la democracia; por el contrario, recortar recursos precariza el porvenir nacional.'
 
@@ -251,7 +251,7 @@ El conector 'por el contrario' sirve para contrastar de manera directa dos reali
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.62
 **Contexto:** Durante un análisis en el Liceo de Heredia, Sofía estudia las partes fundamentales de la estructura narrativa de una leyenda.
 
@@ -276,7 +276,7 @@ El nudo constituye la sección central de la narrativa clásica donde se present
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.58
 **Contexto:** Lea el siguiente fragmento de un debate costarricense sobre telecomunicaciones:
 'Costa Rica debe modernizar urgentemente sus redes digitales con tecnología de quinta generación. No obstante, las licitaciones estatales en San José enfrentan trabas burocráticas que dilatan el despliegue de infraestructura, restando competitividad a los comercios costarricenses.'
@@ -302,7 +302,7 @@ La estructura del fragmento confronta una exigencia de progreso frente a una rea
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.55
 **Contexto:** Considere el siguiente fragmento descriptivo de un texto científico:
 'La lagartija de hojarasca posee un camuflaje críptico que imita el follaje seco del bosque de Guanacaste. Su coloración parda y sus movimientos espasmódicos impiden que los depredadores aéreos la identifiquen sobre el suelo forestal.'
@@ -328,7 +328,7 @@ En los textos de ciencias naturales, la descripción anatómica o conductual tie
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.52
 **Contexto:** Un ensayo escolar afirma lo siguiente sobre el consumo de agua potable:
 'El agua es un derecho humano incuestionable. Por lo tanto, prohibir el corte del servicio por falta de pago a familias en condición de pobreza extrema es una medida de justicia social y de amparo humanitario.'
@@ -354,7 +354,7 @@ La premisa implícita constituye el fundamento moral sobre el cual se erige la c
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.48
 **Contexto:** Lea detenidamente el siguiente pasaje narrativo costumbrista costarricense:
 'Don Pedro amarró su caballo frente al viejo mercado de Heredia. Con paso pausado y apoyándose en su bastón de guayabo, se adentró en el tramo de las verduras. Saludó a cada conocido de la provincia con una leve inclinación de cabeza y una sonrisa nostálgica que revelaba el peso de sus recuerdos.'
@@ -380,7 +380,7 @@ El retrato literario asocia el físico y la conducta con la psicología, logrand
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.45
 **Contexto:** Un docente costarricense evalúa la solidez de una propuesta argumentativa redactada por un estudiante de undécimo año en San José:
 'No debemos permitir la instalación de ciclovías en el cantón central porque todos los ciclistas son personas irresponsables que irrespetan los semáforos viales y causarán accidentes terribles.'
@@ -406,7 +406,7 @@ La generalización apresurada o prejuicio absoluto despoja al texto argumentativ
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.42
 **Contexto:** Lea la siguiente propuesta de ley redactada de forma expositiva para una asamblea de estudiantes costarricenses:
 'El MEP debe suspender de inmediato todos los exámenes escritos tradicionales en Costa Rica y reemplazarlos por videojuegos educativos este mismo mes, garantizando así la felicidad escolar absoluta.'
@@ -432,7 +432,7 @@ Una propuesta o argumento con fines prácticos debe estar respaldado por la viab
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.38
 **Contexto:** En una asamblea comunal en Liberia, un vecino argumenta en contra de la instalación de una planta de reciclaje de plástico:
 'Si abrimos esa planta en nuestro cantón, Liberia se convertirá en el basurero del continente americano de forma inmediata, provocando la destrucción ecológica de toda la provincia de Guanacaste.'
@@ -458,7 +458,7 @@ La pendiente resbaladiza busca infundir temor al postular que un acto desencaden
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.35
 **Contexto:** Considere la siguiente conclusión de un ensayo sobre conservación biológica en Costa Rica:
 'En conclusión, debemos cuidar los bosques costarricenses porque los árboles son la flora del país. Sin una vegetación boscosa, no tendríamos árboles de ningún tipo en las montañas costarricenses y nos quedaríamos sin bosques naturales.'
@@ -484,7 +484,7 @@ El razonamiento circular o petición de principio no aporta argumentos demostrat
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.32
 **Contexto:** Un profesor de Español en Cartago solicita a su clase clasificar fragmentos textuales extraídos de diarios nacionales.
 
@@ -509,7 +509,7 @@ La exposición fáctica de datos geográficos y administrativos del SINAC costar
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.30
 **Contexto:** Durante una sesión de repaso en San José, los estudiantes recapitulan la tipología de los textos descriptivos.
 

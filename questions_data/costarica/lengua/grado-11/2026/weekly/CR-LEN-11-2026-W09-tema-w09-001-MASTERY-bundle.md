@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.85
 **Contexto:** Durante un taller literario en el cantón central de Heredia, se repasan los niveles de análisis de una obra.
 
@@ -51,7 +51,7 @@ El análisis sociocultural examina de qué manera el contexto real de una socied
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.82
 **Contexto:** Sofía analiza un ensayo costarricense de mediados del siglo XX que critica las consecuencias ecológicas del monocultivo del banano.
 
@@ -76,7 +76,7 @@ La recepción literaria es un proceso dinámico donde el horizonte de expectativ
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.80
 **Contexto:** Javier analiza la novela de realismo social 'Mamita Yunai' (1941) de Carlos Luis Fallas, contextualizada en el Caribe costarricense de principios de siglo.
 
@@ -101,7 +101,7 @@ La narrativa de la Generación del 40 en Costa Rica mantiene una vinculación in
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** María analiza los discursos de los personajes en la novela 'El moto' (1900) de Joaquín García Monge.
 
@@ -126,7 +126,7 @@ La intertextualidad literaria examina los hilos invisibles de correspondencia te
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.75
 **Contexto:** Andrey investiga el papel de las leyendas costarricenses en el de la provincia.
 
@@ -151,7 +151,7 @@ Las leyendas tradicionales costarricenses como la Segua cumplían una de control
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.73
 **Contexto:** Ana analiza el poema 'El canto a la patria' escrito a finales de siglo en Costa Rica.
 
@@ -176,7 +176,7 @@ La lírica nacional y de exaltación cívica ha sido históricamente una herrami
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.70
 **Contexto:** Javier desea analizar la novela 'Gentes y gentecillas' (1944) de Carlos Luis Fallas, una crítica al trabajo agrario rústico.
 
@@ -201,7 +201,7 @@ La dimensión sociocrítica analiza de qué forma las contradicciones de clase, 
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.68
 **Contexto:** María estudia la obra teatral contemporánea que denuncia la violencia de género en Costa Rica.
 
@@ -226,7 +226,7 @@ El teatro social costarricense contemporáneo educa moralmente al estudiantado d
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.65
 **Contexto:** Andrey estudia el concepto de 'motivo literario' al analizar novelas costarricenses.
 
@@ -251,7 +251,7 @@ El motivo literario es una idea o símbolo recurrente de la herencia cultural qu
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.62
 **Contexto:** Durante un foro sobre literatura costarricense en Alajuela, se debate la importancia de la 'Generación del Olimpo' (1890-1920).
 
@@ -276,7 +276,7 @@ La Generación del Olimpo jugó un papel fundacional en la invención de la iden
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** Lea detenidamente el siguiente fragmento del análisis de un cuento realista costarricense:
 'En 'La propia', Magón no realiza una simple imitación costumbrista rústica de saludos; utiliza la voz campesina para visibilizar el orgullo, el amor propio y la resiliencia ética del labriego sencillo, que no se amilana ante la superioridad de clase de los terratenientes de San José.'
@@ -302,7 +302,7 @@ El análisis de los discursos populares en el costumbrismo costarricense trascie
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.55
 **Contexto:** Considere el siguiente fragmento de una crítica sobre la poesía de Jorge Debravo:
 'Debravo despoja a la lírica costarricense de la ornamentación artificial y del hermetismo burgués. Su poesía, escrita en un lenguaje limpio, directo y fraternal de hondo calado existencial, convierte al verso en una herramienta de combate ético, una trinchera humana que exige pan, paz y justicia social para los desposeídos.'
@@ -328,7 +328,7 @@ La lírica de Jorge Debravo constituye un hito literario por su alta vocación h
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.52
 **Contexto:** En un análisis de la obra de Carmen Lyra 'Cuentos de mi tía Panchita' (1920), se sostiene:
 'La astucia de Tío Conejo frente a Tío Coyote o el León no es una mera diversión humorística infantil. Simboliza el ingenio, la resistencia y las estrategias de supervivencia de las clases populares desposeídas frente a los abusos del poder de la clase acomodada costarricense.'
@@ -354,7 +354,7 @@ Los cuentos populares recopilados y adaptados por Carmen Lyra encierran alegorí
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.48
 **Contexto:** Considere el siguiente pasaje de análisis de la novela 'Única mirando al mar' de Fernando Contreras Castro:
 'El vertedero de Río Azul en la novela no es un simple espacio inanimado de desperdicios. Funciona como una inmensa metáfora espacial del descarte humano, donde la sociedad de consumo de San José arroja tanto su basura como a las personas de la provincia.'
@@ -380,7 +380,7 @@ La geografía literaria de la novela de Fernando Contreras dota al espacio de un
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.45
 **Contexto:** Un crítico literario analiza una novela contemporánea ambientada en Heredia que aborda el desempleo juvenil. Al final del libro, el protagonista costarricense resuelve su precariedad al descubrir un cofre enterrado con monedas coloniales de oro, lo que le permite retirarse de forma holgada.
 
@@ -405,7 +405,7 @@ Un relato realista sólido debe guardar coherencia con sus premisas. Resolver un
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.42
 **Contexto:** Lea el siguiente argumento crítico sobre el personaje del campesino en la narrativa tradicional costarricense:
 'La idealización del campesino como un ser pacífico, sumiso y siempre sonriente en su humilde choza de adobes costarricense oculta las relaciones de dominación económica, marginación y falta de tierras del agro nacional de principios del siglo pasado.'
@@ -431,7 +431,7 @@ La deconstrucción crítica de los mitos fundacionales del costumbrismo costarri
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.38
 **Contexto:** Considere el siguiente enunciado de un informe de undécimo año sobre el papel del personaje femenino en la novela clásica costarricense:
 'En la literatura costumbrista de mil novecientos, la mujer aparece frecuentemente relegada a roles domésticos, de obediencia familiar y sumisión de matrimonio, careciendo de voz activa, autonomía o derecho de sufragio.'
@@ -457,7 +457,7 @@ La validez del análisis literario con enfoque de género se consolida cuando se
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.35
 **Contexto:** Analice el siguiente fragmento de una crítica sobre un libreto teatral costarricense:
 'La obra dramática aborda la problemática del racismo en la provincia de Limón, pero sus personajes hablan utilizando un registro culto y tecnicismos eruditos de San José, lo que desentona con sus profesiones de sencillos peones.'
@@ -483,7 +483,7 @@ La verosimilitud dialógica en el drama exige guardar armonía entre la caracter
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.32
 **Contexto:** Durante un debate literario en San José, los estudiantes de undécimo año estudian el concepto de 'horizonte de expectativas'.
 
@@ -508,7 +508,7 @@ El horizonte de expectativas conceptualiza de qué manera los lectores de una é
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes costarricenses repasa los métodos de análisis textual en su colegio de Alajuela.
 

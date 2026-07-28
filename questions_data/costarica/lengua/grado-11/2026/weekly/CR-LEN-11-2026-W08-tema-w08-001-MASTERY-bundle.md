@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.85
 **Contexto:** Durante una visita de undécimo año al Teatro Nacional de Costa Rica en San José, los estudiantes repasan la naturaleza del género dramático.
 
@@ -51,7 +51,7 @@ El género dramático o teatral se caracteriza por la inmediatez de la acción r
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** En un taller de Español en Heredia, Sofía estudia un libreto teatral costarricense y analiza el concepto de 'acotación'.
 
@@ -76,7 +76,7 @@ Las acotaciones constituyen el discurso secundario del texto dramático, proveye
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.80
 **Contexto:** Javier analiza una obra dramática dividida en tres grandes bloques que marcan la progresión de la acción teatral.
 
@@ -101,7 +101,7 @@ El acto representa las grandes etapas lógicas del conflicto dramático (plantea
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** María escribe una obra de teatro breve ambientada en una plaza pública de la provincia de Alajuela.
 
@@ -126,7 +126,7 @@ La estructura del libreto dramático asigna las intervenciones antecediendo el p
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.75
 **Contexto:** Andrey estudia el concepto de 'aparte' dentro de la representación teatral contemporánea.
 
@@ -151,7 +151,7 @@ El aparte es un recurso dramático dialógico que rompe la ilusión de aislamien
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.73
 **Contexto:** En una obra de teatro costarricense, un personaje pronuncia un extenso discurso reflexivo a solas en el escenario del teatro de Heredia.
 
@@ -176,7 +176,7 @@ El monólogo o soliloquio es la herramienta dramática idónea para la introspec
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.70
 **Contexto:** Para una representación en su colegio, Ana escribe una acotación que indica la tristeza y la fatiga física de un peón agrícola de Cartago.
 
@@ -201,7 +201,7 @@ Las acotaciones proporcionan pautas operativas precisas para que el actor traduz
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.68
 **Contexto:** Un director teatral costarricense diseña la puesta en escena de una tragedia griega adaptada al contexto de San José de principios de siglo.
 
@@ -226,7 +226,7 @@ La catarsis trágica persigue purificar el alma del espectador mediante la confr
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.65
 **Contexto:** María analiza una obra teatral costarricense del género de la comedia contemporánea.
 
@@ -251,7 +251,7 @@ La comedia es un género teatral que fustiga los vicios y ridiculeces sociales m
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.62
 **Contexto:** Durante un debate sobre el teatro costarricense en Alajuela, se analiza la obra de teatro 'El buscador' de un conocido dramaturgo nacional.
 
@@ -276,7 +276,7 @@ La escena es la subdivisión menor del acto teatral, delimitada por la dinámica
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** Lea atentamente el siguiente fragmento de una obra teatral costarricense:
 'DON PEDRO: (Grave, golpeando con fuerza el suelo con su bastón) ¡Basta ya, muchachos! No toleraré que se siga vendiendo la tierra de los abuelos en esta provincia. (Aparte, mirando con tristeza hacia la ventana) Si supieran que las deudas de adobes me obligan a firmar mi propia ruina...'
@@ -302,7 +302,7 @@ La contradicción dramática entre el decir público de autoridad y el sentir í
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.55
 **Contexto:** Considere la estructura dialógica de una tragedia clásica costarricense del siglo pasado:
 
@@ -327,7 +327,7 @@ El mensajero en el género dramático es un recurso de mediación narrativa indi
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.52
 **Contexto:** En una comedia satírica ambientada en Heredia, un personaje adinerado presume de su linaje y fortuna ante sus vecinos campesinos, tropezando de forma cómica con un saco de papas en la acera municipal.
 
@@ -352,7 +352,7 @@ La comedia se vale de recursos físicos y de contraste social para desacreditar 
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.48
 **Contexto:** Analice este fragmento de acotación en un drama histórico sobre la Campaña Nacional de 1856:
 '(El escenario queda en penumbras. Un haz de luz azulada enfoca únicamente a Juan, quien sostiene la antorcha apagada con manos temblorosas. Se escucha el sonido sordo de tambores de guerra a lo lejos, el cual va creciendo paulatinamente en intensidad acústica)'
@@ -378,7 +378,7 @@ Los recursos no verbales de la puesta en escena (iluminación, efectos acústico
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.45
 **Contexto:** Un jurado costarricense de artes escénicas en San José evalúa una obra dramática contemporánea que prescinde por completo de los diálogos y de las acotaciones, reduciendo la representación a dos actores mudos inmóviles sentados de espaldas al público durante dos horas.
 
@@ -403,7 +403,7 @@ Aunque la experimentación de vanguardia desafía los límites del arte, privar 
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.42
 **Contexto:** Lea el siguiente diálogo de una obra dramática contemporánea sobre la soledad urbana en San José:
 'SOFÍA: (Gritando desesperada) ¡Nadie me escucha en esta maldita oficina! ¡Todos son robots de oficina que firman papeles! ¡Robots de robots de papel!'
@@ -429,7 +429,7 @@ Los parlamentos dramáticos sólidos evitan repeticiones redundantes viciosas de
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.38
 **Contexto:** Considere el fragmento de un libreto dramático histórico sobre la Batalla de Rivas de 1856, donde un soldado costarricense herido exclama:
 '—¡Ay, compañero! Traiga de inmediato el botiquín de primeros auxilios con antibióticos y desinfectante plástico, que la bala de fusil me ha herido gravemente en el hombro.'
@@ -455,7 +455,7 @@ La narrativa y el drama de temática histórica exigen un riguroso respeto al co
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.35
 **Contexto:** Un ensayista costarricense analiza el impacto del teatro de realismo social en el público de clase trabajadora de Cartago durante los años setenta.
 
@@ -480,7 +480,7 @@ El teatro social contemporáneo cumple una alta función pedagógica de concienc
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.32
 **Contexto:** Durante un foro sobre géneros literarios en el Liceo de Heredia, se define el concepto de 'clímax' en la estructura del drama.
 
@@ -505,7 +505,7 @@ El clímax es el nudo de tensión límite de la obra de teatro, donde las fuerza
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes costarricenses repasa los tipos de personajes de las obras dramáticas para preparar las Pruebas del MEP.
 

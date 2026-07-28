@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.85
 **Contexto:** Durante un club de lectura en el Liceo de Alajuela, se analiza la estructura tradicional de los textos narrativos literarios.
 
@@ -51,7 +51,7 @@ La macroestructura narrativa tradicional se articula en torno a tres momentos fu
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** En una clase en Cartago, se analiza un cuento donde el personaje principal relata su propia huida de una mina de carbón.
 
@@ -76,7 +76,7 @@ El narrador protagonista utiliza la primera persona del singular para articular 
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.80
 **Contexto:** Sofía estudia un fragmento de una crónica histórica costarricense que relata la Batalla de Santa Rosa de 1856.
 
@@ -101,7 +101,7 @@ A diferencia de la ficción, la crónica histórica narra sucesos reales basánd
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** Para un taller literario en Heredia, Javier escribe un cuento sobre una leyenda tradicional costarricense como el Cadejos o la Segua.
 
@@ -126,7 +126,7 @@ El narrador testigo participa de la acción de manera secundaria o la observa de
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.75
 **Contexto:** María analiza los diálogos de los personajes de una novela de la región costarricense del siglo pasado.
 
@@ -151,7 +151,7 @@ La raya (—) delimita de forma clara el discurso de los personajes, diferencian
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.73
 **Contexto:** Andrey está redactando un relato de suspenso ambientado en los densos bosques lluviosos de la provincia de Limón.
 
@@ -176,7 +176,7 @@ El pretérito perfecto simple de indicativo introduce eventos puntuales y cronol
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.70
 **Contexto:** Un fragmento de un cuento de terror costarricense describe una vieja casona de adobes abandonada en Liberia.
 
@@ -201,7 +201,7 @@ En la narrativa, la descripción del entorno físico actúa como un catalizador 
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.68
 **Contexto:** Javier desea estructurar un cuento iniciando 'in media res' (en medio de la acción), omitiendo el planteamiento tradicional.
 
@@ -226,7 +226,7 @@ El inicio 'in media res' comienza el relato en un punto de tensión del conflict
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Sintaxis
+**EJE:** Sintaxis
 **Expected_Success:** 0.65
 **Contexto:** Un novelista costarricense busca ralentizar el ritmo de su narración para sugerir un ambiente de modorra y calma veraniega en el puerto de Puntarenas.
 
@@ -251,7 +251,7 @@ La descripción pausada y el pretérito imperfecto son los recursos idóneos par
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.62
 **Contexto:** Durante el análisis de la novela costarricense 'Mamita Yunai' de Carlos Luis Fallas, se debate sobre la función de los personajes secundarios en la obra.
 
@@ -276,7 +276,7 @@ Los personajes secundarios configuran el entorno dramático y actúan como facil
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** La carreta vacía bajaba chirriando por la cuesta pedregosa de Cartago. El viejo peón caminaba cabizbajo, sin arrear a los bueyes, que conocían de memoria la ruta de regreso al trapiche. Un silencio denso envolvía la tarde gris, interrumpido únicamente por el quejido de la madera reseca.
 
@@ -301,7 +301,7 @@ En la literatura realista y costumbrista, la atmósfera espacial y sensorial se 
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.55
 **Contexto:** Considere el uso de la analepsis (flashback) en una novela contemporánea costarricense ambientada en San José.
 
@@ -326,7 +326,7 @@ La analepsis fractura el orden cronológico lineal para enriquecer la profundida
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.52
 **Contexto:** En un cuento costumbrista, un personaje exclama:
 '—¡Diay, compadre! Si no apuramos el paso, el aguacero nos va a agarrar a medio camino de Heredia y nos vamos a empapar de lo lindo.'
@@ -352,7 +352,7 @@ La literatura costumbrista costarricense de autores como Aquileo J. Echeverría 
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.48
 **Contexto:** Un cuento costarricense de realismo social muestra las precarias condiciones de vida de los cortadores de café en el Valle de El General durante los años cincuenta.
 
@@ -377,7 +377,7 @@ La narrativa de realismo social en Costa Rica posee una marcada intencionalidad 
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.45
 **Contexto:** Un crítico literario evalúa una novela de misterio ambientada en San José que recurre constantemente a 'deus ex machina' (resoluciones imprevistas por elementos ajenos a la lógica interna de la historia) para solucionar los conflictos del protagonista.
 
@@ -402,7 +402,7 @@ Un tejido narrativo consistente exige que el desarrollo y desenlace broten de la
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis de la herencia
+**EJE:** Análisis de la herencia
 **Expected_Success:** 0.42
 **Contexto:** Considere el final de un relato fantástico de un autor de Heredia:
 'De pronto, María despertó en su pupitre, asustada por el timbre del recreo. Se dio cuenta de que su viaje espacial y el encuentro con los alienígenas habían sido solamente un hermoso sueño matutino.'
@@ -428,7 +428,7 @@ Los finales basados en 'todo fue un sueño' suelen ser cuestionados críticament
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.38
 **Contexto:** Considere el fragmento de una novela contemporánea que relata la soledad de un inmigrante nicaragüense que trabaja como vigilante nocturno en un centro comercial de San José.
 
@@ -453,7 +453,7 @@ El análisis literario de problemáticas marginales o migratorias humaniza la ed
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.35
 **Contexto:** Analice este fragmento de un relato contemporáneo costarricense:
 'Andrey cruzó la avenida central de San José bajo un sol abrasador. Detestaba el bullicio, el humo de las cazadoras y el vendedor de chances que gritaba en la esquina. Sintió que la ciudad era una jaula de cemento que consumía su energía.'
@@ -479,7 +479,7 @@ La metáfora espacial asocia el cemento citadino con el confinamiento de la jaul
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis crítico
+**EJE:** Análisis crítico
 **Expected_Success:** 0.32
 **Contexto:** Un jurado costarricense de un certamen de Alajuela discute sobre un cuento histórico que incluye un teléfono celular en manos de Juan Santamaría durante la Batalla de Rivas de 1856.
 
@@ -504,7 +504,7 @@ La fidelidad histórica y la ausencia de anacronismos absurdos son fundamentales
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.30
 **Contexto:** Durante una mesa redonda en San José sobre teoría literaria, se discute el concepto de 'tiempo de la historia' frente al 'tiempo del relato'.
 

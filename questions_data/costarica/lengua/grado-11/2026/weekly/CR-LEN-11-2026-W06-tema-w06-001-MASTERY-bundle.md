@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en Cartago, se debate sobre los atributos fundamentales del género literario narrativo.
 
@@ -51,7 +51,7 @@ El género narrativo se constituye a partir de la mediación de la voz del narra
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.82
 **Contexto:** En la biblioteca pública de San José, Andrey estudia la evolución de la narrativa costarricense clásica, prestando atención a la novela 'El moto' (1900) de Joaquín García Monge.
 
@@ -76,7 +76,7 @@ La narrativa costumbrista de autores de la Generación del Olimpo como García M
 ## Question 3 [D4]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de estudiantes de Heredia analiza el cuento 'La propia' de Manuel González Zeledón (Magón).
 
@@ -101,7 +101,7 @@ La incorporación de la variante dialectal campesina o rústica en el costumbris
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.78
 **Contexto:** Para un proyecto literario de undécimo año en Alajuela, Javier escribe un relato realista sobre la siembra de caña en San Carlos.
 
@@ -126,7 +126,7 @@ La narrativa de realismo social se caracteriza por el retrato objetivo y crític
 ## Question 5 [D5]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.75
 **Contexto:** Sofía analiza un fragmento del cuento de realismo mágico 'Cien años de soledad' de Gabriel García Márquez para comparar la narrativa hispanoamericana con la costarricense.
 
@@ -151,7 +151,7 @@ El realismo mágico difumina las fronteras entre lo real y lo fantástico, asimi
 ## Question 6 [D5]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.73
 **Contexto:** María estudia la novela costarricense 'Mamita Yunai' (1941) de Carlos Luis Fallas (Calufa), centrada en el Caribe costarricense.
 
@@ -176,7 +176,7 @@ La novela de Carlos Luis Fallas es una denuncia militante del imperialismo econ�
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.70
 **Contexto:** Andrey elabora una reseña sobre el cuento costarricense de misterio contemporáneo.
 
@@ -201,7 +201,7 @@ El suspenso en la narrativa de misterio se sustenta en la administración de los
 ## Question 8 [D6]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.68
 **Contexto:** Javier lee 'Cuentos de mi tía Panchita' (1920) de Carmen Lyra, obra de la literatura infantil costarricense.
 
@@ -226,7 +226,7 @@ Los cuentos de Carmen Lyra adaptan el folclore popular costarricense, elevando a
 ## Question 9 [D6]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión lectora
+**EJE:** Comprensión lectora
 **Expected_Success:** 0.65
 **Contexto:** Un grupo de estudiantes de Cartago analiza la novela corta 'Única mirando al mar' (1993) de Fernando Contreras Castro.
 
@@ -251,7 +251,7 @@ La obra de Fernando Contreras Castro es una de carácter ecológico y social sob
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.62
 **Contexto:** Durante un foro en el Liceo de San José, se contrasta la estructura del cuento frente a la de la novela.
 
@@ -276,7 +276,7 @@ El cuento destaca por la concentración de sus recursos estéticos en un único 
 ## Question 11 [D7]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.58
 **Contexto:** Lea atentamente el siguiente fragmento del realismo social costarricense:
 'Única se acomodó sobre el colchón remendado. El olor penetrante del botadero flotaba en el aire de Río Azul, transformado por la brisa nocturna en un manto de la provincia que asfixiaba los sueños de los buceadores de basura. A lo lejos, las luces de la capital brillaban como estrellas inalcanzables.'
@@ -302,7 +302,7 @@ La geografía literaria en la novela social contemporánea de Costa Rica plasma 
 ## Question 12 [D7]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.55
 **Contexto:** Considere el siguiente pasaje del cuento costumbrista 'La propia' de Magón:
 '—¡Diay, compadre don Sebastián! —exclamó con voz cantarina el recién llegado—. ¡Qué milagro verlo por estos rumbos de Alajuela, tan lejos de sus cafetales de Cartago! ¿Viene a buscar peones o a vender bueyes para la zafra?'
@@ -328,7 +328,7 @@ El costumbrismo costarricense valida la identidad campesina dándole espacio lit
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.52
 **Contexto:** En la novela costarricense 'El Moto' de Joaquín García Monge, el protagonista, José Blas (el Moto), es un humilde huérfano que se enamora de Cundila, la hija de un rico terrateniente del pueblo que la obliga a casarse con el adinerado don Sebastián.
 
@@ -353,7 +353,7 @@ El desenlace de 'El Moto' rompe con el idilio costumbrista bucólico y denuncia 
 ## Question 14 [D8]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.48
 **Contexto:** Considere el uso de la ironía en el siguiente enunciado sobre la burocracia en Costa Rica:
 'El funcionario de San José atendía con la velocidad de un glaciar tropical, firmando un documento cada tres horas mientras saboreaba pacientemente su taza de café de la tarde.'
@@ -379,7 +379,7 @@ La ironía consiste en dar a entender lo contrario de lo que se dice explícitam
 ## Question 15 [D8]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Análisis de herencia
+**EJE:** Análisis de herencia
 **Expected_Success:** 0.45
 **Contexto:** Considere el fragmento de una novela contemporánea que relata la soledad de un inmigrante nicaragüense que trabaja como vigilante nocturno en un centro comercial de San José.
 
@@ -404,7 +404,7 @@ El análisis literario de problemáticas marginales o migratorias humaniza la ed
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.42
 **Contexto:** Un jurado de Alajuela analiza un cuento de realismo social contemporáneo escrito por un joven de secundaria. El cuento describe la vida de un recolector de piña, pero concluye con la sorpresiva aparición de un hada que le regala un millón de colones, solucionando sus problemas de forma mágica.
 
@@ -429,7 +429,7 @@ La coherencia de género literario exige respetar el marco de verosimilitud cons
 ## Question 17 [D9]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Análisis literario
+**EJE:** Análisis literario
 **Expected_Success:** 0.38
 **Contexto:** Lea el siguiente fragmento de un relato de ciencia ficción ambientado en un Cartago futurista del año 2126:
 'Los trenes magnéticos volaban silenciosamente rozando las faldas del Volcán Irazú, controlados por un cerebro artificial central que administraba el tráfico de toda la Gran Área Metropolitana (GAM).'
@@ -455,7 +455,7 @@ La verosimilitud de la ciencia ficción especulativa reposa en la coherencia de 
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.35
 **Contexto:** Analice el siguiente diálogo extraído de una obra contemporánea:
 '—Usted no sabe lo que es trabajar de sol a sol en Guanacaste —dijo Andrey sin mirarme—. Ver la tierra agrietada y saber que el pozo se está secando... Eso es pánico, compadre, no sus historias de fantasmas de San José.'
@@ -481,7 +481,7 @@ El diálogo condensa las tensiones de clase o regionales de un país, devaluando
 ## Question 19 [D10]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Understand
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.32
 **Contexto:** Durante una asamblea de Español en Alajuela, se debate sobre la importancia de la 'Generación del 40' en Costa Rica.
 
@@ -506,7 +506,7 @@ La Generación del Cuarenta dotó a la literatura nacional de un marcado comprom
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**ICFES:** Análisis de textos
+**EJE:** Análisis de textos
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes de undécimo año del Liceo de Cartago repasa los géneros literarios para Bachillerato MEP.
 
