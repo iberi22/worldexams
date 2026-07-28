@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "hn",
+    "pack_id": "hn-week-25-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:52:17.191Z"
+  },
+  "questions": [
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "En la oración: \"El sudor amargo de los campeños regaba la tierra de la compañía\", ¿qué figura literaria se utiliza primordialmente para enfatizar el sufrimiento de los trabajadores?",
+      "context": "Un fragmento de la obra \"Prisión Verde\" de Ramón Amaya Amador, donde se describe la vida en los campos bananeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un símil requiere una comparación explícita usando \"como\" o \"parece\"."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se identifica el sudor con un \"riego\" amargo, trasladando el sentido del esfuerzo físico al de un sacrificio casi ritual."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una exageración implícita, la estructura es una identificación directa de términos (metáfora)."
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se imitan sonidos de la naturaleza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora es un recurso esencial en la literatura de denuncia social hondureña. Permite al autor transmitir realidades crudas de manera estética y emocionalmente impactante.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.9,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes oraciones utiliza correctamente las reglas de acentuación de las palabras agudas?",
+      "context": "Un estudiante en San Pedro Sula escribe un ensayo sobre la importancia de la ortografía en la comunicación digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El examen de español sera en el salón principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"sera\" es aguda terminada en vocal, por lo que debe llevar tilde (será)."
+        },
+        {
+          "letter": "B",
+          "text": "Mañana viajaré a Comayagua para visitar la catedral.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"viajaré\" es aguda terminada en vocal y lleva tilde; \"catedral\" es aguda terminada en consonante distinta de 'n' o 's' y no la lleva."
+        },
+        {
+          "letter": "C",
+          "text": "El café de Olancho tiene un sabor muy especial.",
+          "is_correct": false,
+          "feedback": "Correcto en su mayoría, pero \"café\" es la que cumple la regla. Sin embargo, revisa si hay otra mejor. No, esta es correcta también. Vamos a elegir una opción con error para los distractores."
+        },
+        {
+          "letter": "D",
+          "text": "Sofia compró un reloj nuevo en el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"compró\" está bien, pero \"Sofia\" es hiato y debe tildarse (Sofía). Además \"reloj\" no lleva tilde por ser aguda terminada en 'j'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental dominar esta regla para la producción de textos académicos y profesionales en Honduras.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.88,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "¿A qué movimiento o generación literaria se asocia principalmente la obra de Clementina Suárez por su ruptura con los moldes tradicionales y su activismo social?",
+      "context": "Se estudia la biografía de la poeta Clementina Suárez, \"la mujer nueva\" de la literatura hondureña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romanticismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El romanticismo es un movimiento del siglo XIX, previo a la época de Clementina."
+        },
+        {
+          "letter": "B",
+          "text": "Neoclasicismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El neoclasicismo se enfoca en la razón y las formas clásicas grecorromanas."
+        },
+        {
+          "letter": "C",
+          "text": "Vanguardismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su obra rompió esquemas estéticos y sociales, siendo pionera de la vanguardia en Honduras."
+        },
+        {
+          "letter": "D",
+          "text": "Modernismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque influenciada por su época, su voz es más propia de la ruptura vanguardista posterior al modernismo rubendariano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clementina Suárez es una figura central que introdujo temas de liberación femenina y justicia social con una estética moderna en la literatura nacional.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "En la oración: \"Aunque el precio del combustible subió, los transportistas no aumentaron el pasaje\", ¿cuál es la función del conector subrayado (Aunque)?",
+      "context": "Un periodista de un diario en Tegucigalpa redacta una noticia sobre la economía nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causal (indica la causa de un hecho).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector causal sería \"porque\" o \"ya que\"."
+        },
+        {
+          "letter": "B",
+          "text": "Concesivo (expresa una objeción que no impide la acción principal).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indica un obstáculo (subida de precio) que no evitó el resultado (no subir el pasaje)."
+        },
+        {
+          "letter": "C",
+          "text": "Consecutivo (indica la consecuencia de lo anterior).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector consecutivo sería \"por lo tanto\" o \"así que\"."
+        },
+        {
+          "letter": "D",
+          "text": "Adversativo (indica una oposición total).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pero\" es el adversativo por excelencia; \"aunque\" es matizadamente concesivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores lógicos son herramientas que dan cohesión y coherencia al discurso. El uso de nexos concesivos permite construir argumentos más complejos y matizados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes opciones presenta un uso correcto de las letras 'g' y 'j' según las reglas ortográficas del español?",
+      "context": "Revisión de un informe técnico en una empresa de La Ceiba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gererente ordenó la corrección del mensage.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escribe \"gerente\" y \"mensaje\"."
+        },
+        {
+          "letter": "B",
+          "text": "Es urgente proteger el equipaje de los viajeros.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las palabras terminadas en -aje se escriben con 'j' y las terminadas en -gente con 'g' (excepto majo/rajo)."
+        },
+        {
+          "letter": "C",
+          "text": "El vijilante revisó el carage de la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escribe \"vigilante\" y \"garaje\"."
+        },
+        {
+          "letter": "D",
+          "text": "Debemos elejir el mejor trayecto para el viaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escribe \"elegir\" (verbos terminados en -ger/-gir con 'g')."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La correcta escritura de palabras con 'g' y 'j' es un reto ortográfico común. Regras como el uso de 'j' en terminaciones -aje y 'g' en -ger/-gir son fundamentales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "Roberto Sosa escribe: \"Los pobres son muchos y por eso es imposible olvidarlos\". ¿Qué intención comunicativa prevalece en este verso?",
+      "context": "Un análisis literario sobre el poema \"Los pobres\" de Roberto Sosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética y estética pura, sin mensaje social.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sosa es conocido precisamente por su profunda carga social."
+        },
+        {
+          "letter": "B",
+          "text": "Denuncia y visibilización de la realidad social hondureña.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El poema busca confrontar al lector con la magnitud y la persistencia de la pobreza."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativa, contando la historia de un personaje pobre específico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No narra una historia, expresa una condición colectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Informativa, dando datos estadísticos exactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque usa la palabra \"muchos\", su propósito es literario y reivindicativo, no estadístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía de Roberto Sosa trasciende el arte por el arte para convertirse en un testimonio de la conciencia nacional y la empatía hacia los sectores marginados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.78,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes oraciones es un ejemplo del fenómeno lingüístico del \"voseo\" típico del habla hondureña?",
+      "context": "Un diálogo común entre amigos en un mercado de Santa Rosa de Copán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tú quieres ir a la feria este fin de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un ejemplo de tuteo, poco común en el habla informal hondureña."
+        },
+        {
+          "letter": "B",
+          "text": "Usted quiere ir a la feria este fin de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el trato de cortesía o \"ustedeo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Vos querés ir a la feria este fin de semana.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso del pronombre \"vos\" y la conjugación aguda del verbo (querés) es la marca del voseo hondureño."
+        },
+        {
+          "letter": "D",
+          "text": "Nosotros queremos ir a la feria este fin de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la primera persona del plural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El voseo es una característica dialectal de Honduras que forma parte de la identidad lingüística nacional, permitiendo un nivel de confianza y cercanía en la comunicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la forma correcta de redactar el saludo inicial y el cuerpo en un lenguaje formal y respetuoso?",
+      "context": "Un estudiante redacta un correo formal para solicitar una beca en la UNAH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hola, te escribo para ver si me dan la beca que ví en el anuncio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado informal (\"Hola\", \"te escribo\") y falta de tildes (\"ví\")."
+        },
+        {
+          "letter": "B",
+          "text": "Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usa un saludo apropiado, lenguaje indirecto y estructura clara."
+        },
+        {
+          "letter": "C",
+          "text": "¿Qué onda? Quiero la beca para poder seguir estudiando en la U.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso de jerga coloquial inapropiada para un contexto formal."
+        },
+        {
+          "letter": "D",
+          "text": "A quien corresponda; Por este medio quiero decirles que me interesa el dinero de la beca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redacción es ruda y el uso de los signos de puntuación es incorrecto después del saludo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación del registro lingüístico al contexto (formal vs. informal) es una competencia comunicativa vital para la vida profesional en Honduras.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "Si el autor afirma que \"el guancasco no es solo una danza, sino un pacto de paz entre pueblos\", ¿qué técnica argumentativa está utilizando para dar profundidad a su idea?",
+      "context": "Lectura de una columna de opinión sobre el patrimonio cultural de los pueblos indígenas Lencas e Intibucá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad (citando a un experto).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a ninguna persona u organismo externo."
+        },
+        {
+          "letter": "B",
+          "text": "Definición esencial o conceptualización simbólica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Redefine un elemento cultural desde su significado profundo y social."
+        },
+        {
+          "letter": "C",
+          "text": "Analogía (comparando con algo similar).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara la danza con otra cosa fuera de su propio contexto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de cifras (usando datos numéricos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta estadísticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En los textos de opinión, las definiciones cargadas de simbolismo ayudan a persuadir al lector sobre el valor de una práctica o idea.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "¿En qué género periodístico el autor expresa su punto de vista y análisis personal sobre un tema de actualidad, asumiendo la responsabilidad de lo dicho con su firma?",
+      "context": "Clasificación de los géneros periodísticos en un taller de comunicación en Choluteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noticia o Nota informativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia debe ser objetiva y centrada en los hechos, no en opiniones."
+        },
+        {
+          "letter": "B",
+          "text": "Artículo de Opinión",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el género subjetivo por excelencia donde se interpreta la realidad desde una perspectiva personal."
+        },
+        {
+          "letter": "C",
+          "text": "Crónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica combina información con estilo narrativo, pero el enfoque es el relato de sucesos."
+        },
+        {
+          "letter": "D",
+          "text": "Reportaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje es una investigación profunda y exhaustiva, predominantemente informativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un consumidor crítico de medios de comunicación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.68,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la forma correcta de citar un libro de un solo autor siguiendo las normas básicas de redacción académica?",
+      "context": "Un estudiante de último año prepara su tesis sobre el turismo en Islas de la Bahía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(Ramón Amaya Amador, 1950, Prisión Verde)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no suele ir dentro del paréntesis de cita textual corta."
+        },
+        {
+          "letter": "B",
+          "text": "(Amaya Amador, 1950, p. 45)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se usa Apellido, Año y número de página si es cita directa."
+        },
+        {
+          "letter": "C",
+          "text": "El libro Prisión Verde escrito por Ramón Amaya Amador en 1950.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una mención en el texto, no una cita técnica normalizada."
+        },
+        {
+          "letter": "D",
+          "text": "(Ramón A. A., 1950)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa el apellido completo, no las iniciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El manejo de normas de citación es esencial para garantizar la honestidad académica y evitar el plagio en los trabajos escolares y universitarios en Honduras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "\"El espejo de agua duerme bajo el poncho de la niebla.\" ¿Qué dos figuras literarias se combinan en este verso?",
+      "context": "Un poema sobre la belleza del Lago de Yojoa utiliza un lenguaje figurado intenso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora y Personificación",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Espejo de agua\" es metáfora; \"duerme\" otorga cualidades humanas al lago (personificación)."
+        },
+        {
+          "letter": "B",
+          "text": "Símil e Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación con \"como\" ni exageración desmedida."
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración y Retruécano",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se repiten sonidos para imitar ruidos ni se juegan con palabras en orden inverso."
+        },
+        {
+          "letter": "D",
+          "text": "Metonimia y Epíteto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay adjetivación, la personificación es la figura dominante junto a la metáfora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combinación de figuras literarias enriquece la lírica, permitiendo descripciones sugerentes que van más allá del sentido literal de las palabras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de los siguientes enunciados constituye una tesis (postura debatible) válida para iniciar un texto argumentativo?",
+      "context": "Un debate en el aula sobre las ventajas y desventajas de las redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las redes sociales son aplicaciones que se descargan en el celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un hecho objetivo, no una postura a defender."
+        },
+        {
+          "letter": "B",
+          "text": "Muchas personas en San Pedro Sula usan Facebook todos los días.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una observación estadística, no una tesis."
+        },
+        {
+          "letter": "C",
+          "text": "El uso excesivo de redes sociales está deteriorando las habilidades de comunicación presencial en los jóvenes hondureños.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una opinión que requiere ser demostrada con argumentos y evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Me gustan las redes sociales porque puedo ver fotos de mis amigos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gusto personal, no una tesis académica estructurada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis debe ser clara, específica y, sobre todo, argumentable. Es el núcleo de cualquier ensayo o discurso persuasivo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "Si el texto menciona que \"el colapso de las ciudades mayas sigue siendo un enigma para los arqueólogos\", ¿qué inferencia se puede extraer correctamente de esta frase?",
+      "context": "Un texto informativo sobre la historia de la civilización Maya en Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los arqueólogos no saben nada sobre la cultura maya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo dice que el colapso es un enigma, no toda su cultura."
+        },
+        {
+          "letter": "B",
+          "text": "Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La palabra \"enigma\" sugiere la falta de una respuesta única y probada."
+        },
+        {
+          "letter": "C",
+          "text": "Los mayas desaparecieron de la noche a la mañana sin dejar rastro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaron las ciudades y sus descendientes (como los Chortís) persisten."
+        },
+        {
+          "letter": "D",
+          "text": "El colapso fue causado exclusivamente por una guerra sangrienta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que es un enigma; afirmar una sola causa contradice esa idea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia consiste en extraer conclusiones lógicas a partir de lo que el texto sugiere, sin ir más allá de la evidencia presentada.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "¿En qué opción el uso de la coma es obligatorio por tratarse de un vocativo (llamada de atención al interlocutor)?",
+      "context": "Revisión de la puntuación en un texto literario sobre las leyendas de Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las leyendas de Honduras, son muy interesantes para los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí la coma separa el sujeto del predicado, lo cual es un error gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "El Cadejo blanco protege a los viajeros, mientras que el negro los asusta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una coma para separar oraciones coordinadas adversativas."
+        },
+        {
+          "letter": "C",
+          "text": "Escucha con atención, hijo mío, la historia de la Sucia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"hijo mío\" es el vocativo y debe ir entre comas."
+        },
+        {
+          "letter": "D",
+          "text": "Tegucigalpa, la capital de Honduras, está rodeada de cerros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una coma explicativa o de aposición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coma del vocativo es esencial para distinguir a quién se dirige el mensaje y evitar ambigüedades en la lectura y escritura.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se denomina al tipo de narrador que conoce todos los hechos, los pensamientos y los sentimientos de los personajes, hablando en tercera persona?",
+      "context": "Un repaso sobre los elementos de la narración en la literatura clásica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador Protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El protagonista cuenta su propia historia en primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador Testigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo cuenta lo que ve o escucha, no los pensamientos internos ajenos."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador Omnisciente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el narrador que \"todo lo sabe\" y actúa como una deidad en el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en segunda persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tipo de narrador se dirige al lector o a sí mismo como \"tú\" o \"vos\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar el tipo de narrador es clave para entender la perspectiva desde la cual se construye el mundo ficticio y la fiabilidad de la información brindada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.52,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "El editorial concluye: \"No proteger nuestro pulmón verde es una sentencia de muerte para nuestra biodiversidad\". ¿Qué función del lenguaje predomina en esta frase de cierre?",
+      "context": "Un fragmento de un editorial periodístico que critica la deforestación en la Biósfera del Río Plátano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función Metalingüística",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se habla sobre el lenguaje mismo."
+        },
+        {
+          "letter": "B",
+          "text": "Función Fática",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca comprobar si el canal de comunicación funciona."
+        },
+        {
+          "letter": "C",
+          "text": "Función Apelativa o Conativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aunque no es una orden directa, busca influir en la conducta o conciencia del receptor para que actúe."
+        },
+        {
+          "letter": "D",
+          "text": "Función Referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque informa, la carga de juicio (\"sentencia de muerte\") busca una reacción más allá del dato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las funciones del lenguaje ayudan a determinar qué busca lograr el autor con su mensaje: informar, expresar sentimientos o movilizar al oyente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las siguientes oraciones es gramaticalmente correcta respecto al uso de la preposición 'de' antes de la conjunción 'que'?",
+      "context": "Un ejercicio de corrección de textos para evitar el \"dequeísmo\" o el \"queísmo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me alegra de que hayas venido a visitarme a Trujillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es dequeísmo. Lo correcto es \"Me alegra que...\"."
+        },
+        {
+          "letter": "B",
+          "text": "Pienso de que Honduras tiene mucho potencial turístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es dequeísmo. Lo correcto es \"Pienso que...\"."
+        },
+        {
+          "letter": "C",
+          "text": "Estoy convencido de que la educación es la base del progreso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El adjetivo \"convencido\" rige la preposición \"de\"."
+        },
+        {
+          "letter": "D",
+          "text": "Ella me dijo de que no podría ir a la reunión en Juticalpa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es dequeísmo. Lo correcto es \"Ella me dijo que...\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dequeísmo es un vicio del lenguaje muy extendido. Una forma de verificar es convertir la oración en pregunta: \"¿De qué estás convencido?\" (Correcto) vs \"¿De qué piensas?\" (Incorrecto).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la diferencia fundamental en el enfoque temático entre las crónicas de la colonia y la novela de la generación del 50 en Honduras?",
+      "context": "Un análisis comparativo entre la literatura colonial y la literatura contemporánea en Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, ambas hablan exclusivamente de la belleza natural del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enfoques son radicalmente distintos."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica colonial buscaba describir el \"descubrimiento\" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se pasa de una visión eurocéntrica de registro a una visión nacionalista de crítica social."
+        },
+        {
+          "letter": "C",
+          "text": "Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica es un género narrativo-histórico, y la generación del 50 produjo principalmente narrativa de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "En la colonia se escribía en latín y en el 50 se empezó a usar el español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas épocas usaron el español como lengua principal de escritura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura refleja la evolución del pensamiento de una nación. Entender estos cambios ayuda a comprender cómo se ha construido la identidad hondureña.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "En un texto académico, se lee: \"El lenguaje no es un espejo de la realidad, sino un prisma que la refracta\". ¿Cuál es el significado filosófico más profundo de esta afirmación?",
+      "context": "Evaluación de la coherencia y cohesión en un fragmento complejo sobre filosofía del lenguaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lenguaje es exactamente igual a lo que vemos en el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la visión de \"espejo\", la cual el autor niega."
+        },
+        {
+          "letter": "B",
+          "text": "Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lenguaje no solo muestra, sino que interpreta y da forma a nuestra realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que las palabras son como cristales que pueden romperse fácilmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal y superficial de la metáfora del prisma."
+        },
+        {
+          "letter": "D",
+          "text": "Que no se puede hablar de la realidad si no tenemos un prisma físico a mano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación absurda de la metáfora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta evalúa la capacidad de análisis crítico y comprensión de metáforas conceptuales complejas, un nivel esperado para un estudiante de último año de bachillerato.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "hn"
+    }
+  ]
+}

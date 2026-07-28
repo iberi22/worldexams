@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo está revisando o conceito de módulo (ou valor absoluto) de um número real.
 
@@ -39,7 +39,7 @@ O módulo de um número representa sua distância até a origem na reta numéric
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Em uma aula de geometria analítica no Rio de Janeiro, o professor discute as propriedades do valor absoluto.
 
@@ -58,7 +58,7 @@ Primeiro calculamos cada módulo: $|-7| = 7$, $|3| = 3$ e $|-2| = 2$. Depois rea
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um arquiteto em Brasília projeta um monumento cujo perfil segue o gráfico da função modular básica.
 
@@ -77,7 +77,7 @@ A função modular $f(x) = |x|$ é uma função definida por duas sentenças. Pa
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um técnico de controle de qualidade em Curitiba utiliza funções modulares para medir o desvio de uma peça em relação ao padrão.
 
@@ -96,7 +96,7 @@ O valor absoluto de qualquer número real é, por definição, não negativo. Po
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um programador em Belo Horizonte utiliza a função modular para garantir que a diferença entre duas variáveis seja sempre tratada como uma distância positiva.
 
@@ -115,7 +115,7 @@ Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Em um laboratório em Manaus, um sensor registra a variação de pressão, e apenas a magnitude do desvio em relação à média é importante.
 
@@ -134,7 +134,7 @@ O gráfico de $f(x) = |x| + 2$ é o gráfico de $|x|$ deslocado 2 unidades para 
 ## Question 7 [D5]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um estudante resolve uma expressão que combina módulos de números racionais e inteiros.
 
@@ -153,7 +153,7 @@ Substituímos pelos valores absolutos: $|-1/2| = 0,5$; $|-2| = 2$; $|5| = 5$. A 
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Em um concurso público em São Paulo, cai uma questão sobre a distância entre pontos na reta real usando módulo.
 
@@ -172,7 +172,7 @@ Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-2
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um técnico em eletrônica mede a diferença de potencial entre dois terminais e está interessado apenas na magnitude dessa diferença.
 
@@ -191,7 +191,7 @@ Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o qu
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um estudante em Fortaleza analisa o gráfico de uma função modular simples com deslocamento horizontal.
 
@@ -210,7 +210,7 @@ O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argu
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um engenheiro civil em Salvador projeta uma junta de dilatação onde a folga deve estar dentro de um intervalo modular de segurança.
 
@@ -229,7 +229,7 @@ A inequação $|u| \leq a$ equivale a $-a \leq u \leq a$. Portanto, $-4 \leq x -
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Goiânia desafia seus alunos a esboçar o gráfico de uma função modular composta por uma função do 2º grau.
 
@@ -248,7 +248,7 @@ Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Co
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um arquiteto em Porto Alegre analisa a simetria de uma estrutura metálica modelada por funções modulares.
 
@@ -267,7 +267,7 @@ Uma função é par se $f(x) = f(-x)$ para todo $x$. Como o valor absoluto de um
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um estatístico em São Paulo utiliza a função modular para calcular o erro médio absoluto de uma previsão de vendas.
 
@@ -286,7 +286,7 @@ Esta é a função sinal (para $x \neq 0$). Se $x$ é positivo, $|x| = x$, logo 
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um investidor monitora a volatilidade de um fundo, que é medida pela soma dos módulos das variações diárias.
 
@@ -308,7 +308,7 @@ Ambas as soluções satisfazem a igualdade.
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático estuda a composição da função modular com a função afim e seu efeito no gráfico.
 
@@ -330,7 +330,7 @@ Somando: $(-x + 3) + (x + 1) = 4$. A função é constante nesse trecho.
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um pesquisador em Campinas investiga as propriedades de funções que envolvem o módulo do módulo.
 
@@ -352,7 +352,7 @@ Ao todo, temos 4 soluções distintas para $x$.
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada de matemática, os estudantes devem resolver inequações modulares complexas.
 
@@ -374,7 +374,7 @@ A solução é a união desses dois intervalos: $(-\infty, 1) \cup (5, +\infty)$
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No vestibular de uma universidade de elite, propõe-se um problema sobre a área delimitada por funções modulares.
 
@@ -393,7 +393,7 @@ A função $f(x) = 4 - |x|$ intercepta o eixo $x$ quando $4 - |x| = 0$, ou seja,
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático investiga o número de soluções de equações que misturam funções lineares e modulares.
 

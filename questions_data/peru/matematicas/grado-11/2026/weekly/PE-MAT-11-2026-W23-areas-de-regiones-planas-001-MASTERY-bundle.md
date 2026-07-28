@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima repasa las fórmulas básicas para calcular superficies.
 
@@ -45,7 +45,7 @@ El área de una región triangular se define como la mitad del producto de la lo
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un jardinero en la ciudad de Arequipa desea calcular el área de un césped circular.
 
@@ -70,7 +70,7 @@ El área de un círculo se calcula con la expresión $A = \pi \cdot r^2$. Reempl
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en Trujillo está cortando una tabla de madera en forma de trapecio.
 
@@ -95,7 +95,7 @@ El área de un trapecio se halla mediante la semisuma de sus bases multiplicada 
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Se desea pintar el piso de un patio con forma de rombo en una casa en Cusco.
 
@@ -120,7 +120,7 @@ El área de una región rombal es igual a la mitad del producto de las longitude
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un arquitecto en Lima diseña un ventanal con forma de triángulo equilátero.
 
@@ -145,7 +145,7 @@ El área de un triángulo equilátero de lado $L$ se calcula mediante la fórmul
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Un terreno agrícola en el valle del Mantaro (Junín) tiene forma de paralelogramo.
 
@@ -170,7 +170,7 @@ El área de un paralelogramo es $Base \times Altura$. Para este terreno: $A = 50
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de la UNI analiza el área de una corona circular en un componente mecánico.
 
@@ -195,7 +195,7 @@ El área de una corona circular es la diferencia entre el área del círculo may
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador en Piura desea crear un logotipo que incluye un sector circular.
 
@@ -220,7 +220,7 @@ El área de un sector circular es una fracción del área total del círculo, de
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un examen de simulación en una academia de Lima plantea un problema sobre la relación de áreas entre figuras semejantes.
 
@@ -245,7 +245,7 @@ Existe un teorema fundamental que establece que si dos figuras son semejantes co
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un arquitecto paisajista diseña un camino de piedra alrededor de una fuente circular en un parque de Miraflores.
 
@@ -270,7 +270,7 @@ El camino forma una corona circular. El radio interior es $r = 2$ m y el radio e
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Cálculo de áreas mediante la fórmula de Herón en un terreno irregular en Cajamarca.
 
@@ -295,7 +295,7 @@ Usamos la fórmula de Herón: $A = \sqrt{p(p-a)(p-b)(p-c)}$, donde $p$ es el sem
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un problema sobre áreas y trigonometría en un examen de admisión de la UNI.
 
@@ -320,7 +320,7 @@ Podemos calcular el área de un triángulo con la fórmula trigonométrica: $A =
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Análisis del área de un hexágono regular en un diseño de pavimento en la ciudad de Ica.
 
@@ -345,7 +345,7 @@ Un hexágono regular está compuesto por 6 triángulos equiláteros. Si el perí
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Preparación avanzada para el examen de la UNI, analizando la relación entre el área y el inradio de un triángulo.
 
@@ -370,7 +370,7 @@ Existe una propiedad que relaciona el área ($A$) de cualquier triángulo con su
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Un reto sobre áreas sombreadas en un cuadrado de lado 4 cm.
 
@@ -395,7 +395,7 @@ La intersección de las dos semicircunferencias forma una región denominada "p�
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero en el Callao calcula el área de una sección circular.
 
@@ -420,7 +420,7 @@ Si la cuerda es igual al radio, se forma un triángulo equilátero con el centro
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Problema avanzado del examen de admisión UNI sobre relaciones de áreas.
 
@@ -445,7 +445,7 @@ En un cuadrilátero convexo cuyas diagonales se cortan en un punto $O$, se cumpl
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Se estudia el área de un polígono regular en un seminario preuniversitario en Trujillo.
 
@@ -470,7 +470,7 @@ El lado del cuadrado inscrito es $r\sqrt{2}$ y su área es $2r^2 = 20$. El lado 
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Un geómetra en la ciudad de Huancayo resuelve un problema sobre el área de un triángulo y sus medianas.
 
@@ -495,7 +495,7 @@ Primero calculamos el área de un triángulo cuyos lados sean las medianas dadas
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W23-areas-de-regiones-planas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Problema de optimización sobre el área de un cuadrilátero de lados fijos.
 

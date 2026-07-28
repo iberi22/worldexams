@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Malabo estudia la forma polinomica de las funciones de segundo grado.
 
@@ -39,7 +39,7 @@ La funcion cuadratica $f(x) = ax^2 + bx + c$ genera una curva caracteristica en 
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Bata explica como la orientacion de la parabola depende del coeficiente principal $a$.
 
@@ -58,7 +58,7 @@ El signo del coeficiente principal $a$ determina la concavidad de la parabola. S
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Ebebiyin busca el punto mas bajo de una trayectoria representada por $f(x) = x^2 - 4x + 5$.
 
@@ -77,7 +77,7 @@ El vertice es el punto critico de la funcion cuadratica. Sus coordenadas $(h, k)
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un arquitecto en Mongomo utiliza la funcion $f(x) = x^2 + 7$ para diseñar la base de una estructura.
 
@@ -96,7 +96,7 @@ El corte con el eje vertical (Y) siempre se encuentra en el punto $(0, c)$, dond
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un tecnico en Malabo calcula la posicion del eje de simetria de una antena parabolica dada por $f(x) = x^2 - 6x + 8$.
 
@@ -115,7 +115,7 @@ El eje de simetria es una recta vertical que divide a la parabola en dos partes 
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en Annobon grafica la funcion $f(x) = (x - 3)^2 + 2$, que esta en forma canonica.
 
@@ -134,7 +134,7 @@ La forma canonica $f(x) = a(x - h)^2 + k$ es muy util porque permite identificar
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un proyectil en Guinea Ecuatorial sigue la funcion de altura $h(t) = -t^2 + 4t$.
 
@@ -153,7 +153,7 @@ Para hallar el momento de la altura maxima en una trayectoria parabolica, buscam
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista en Bata estudia la parabola $f(x) = 2(x-1)(x-5)$ expresada en forma factorizada.
 
@@ -172,7 +172,7 @@ La forma factorizada $f(x) = a(x - r_1)(x - r_2)$ revela las raices $r_1$ y $r_2
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong calcula el discriminante de $f(x) = x^2 + 2x + 5$ para saber si corta al eje X.
 
@@ -191,7 +191,7 @@ El discriminante $\Delta = b^2 - 4ac$ es la herramienta para predecir la existen
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica que todas las parabolas tienen un eje de simetria.
 
@@ -210,7 +210,7 @@ El eje de simetria es la recta vertical que pasa por el vertice. Divide a la par
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en Ciudad de la Paz analiza la funcion $f(x) = x^2 - 4x + 3$.
 
@@ -229,7 +229,7 @@ Los cortes con el eje X se encuentran resolviendo la ecuacion cuadratica $f(x) =
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante en Evinayong observa que la parabola $f(x) = x^2$ se transforma en $g(x) = (x + 2)^2 - 5$.
 
@@ -248,7 +248,7 @@ Las traslaciones de funciones son cambios en la posicion de la grafica. Sumar o 
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En la UNGE se estudia una parabola que no corta al eje X. Se sabe que su vertice esta en $(2, 3)$ y se abre hacia arriba.
 
@@ -267,7 +267,7 @@ Una parabola cuyo vertice tiene una ordenada $k$ positiva y que se abre hacia ar
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un fisico en Guinea Ecuatorial analiza la velocidad de un objeto que se frena: $v(t) = t^2 - 10t + 25$.
 
@@ -286,7 +286,7 @@ La funcion $v(t) = (t - 5)^2$ tiene su vertice en $(5, 0)$. Esto significa que e
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Se compara la funcion $f(x) = x^2$ con $g(x) = 3x^2$.
 
@@ -305,7 +305,7 @@ El coeficiente principal $a$ actua como un factor de escala vertical. Si $|a| > 
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Luba se analiza la funcion $f(x) = -x^2 + 6x - 9$.
 
@@ -324,7 +324,7 @@ Para hallar el valor maximo, primero calculamos la coordenada $x$ del vertice ($
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado analiza la funcion $f(x) = -2x^2 + 8x - 6$ para encontrar su valor maximo.
 
@@ -343,7 +343,7 @@ El valor maximo o minimo de una funcion cuadratica es la coordenada $k$ del vert
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se plantea encontrar la ecuacion de una parabola que pasa por el origen y tiene su vertice en $(2, 4)$.
 
@@ -362,7 +362,7 @@ Usando la forma canonica $f(x) = a(x - 2)^2 + 4$, sustituimos el punto $(0, 0)$ 
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un granjero en Bata quiere cercar un area rectangular contra una pared recta, usando $40$ metros de valla para los otros tres lados.
 
@@ -381,7 +381,7 @@ Este es un problema clasico de optimizacion que se resuelve mediante funciones c
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Se analiza el efecto de variar el signo del coeficiente principal $a$ en la funcion $f(x) = ax^2 + bx + c$.
 

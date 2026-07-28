@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX resuelve una ecuación logarítmica básica aplicando la definición.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ Para resolver ecuaciones logarítmicas de la forma $\log_b(x) = y$, transformamo
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se busca encontrar el exponente desconocido en una base común en un taller de matemáticas.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ En ecuaciones exponenciales donde ambos lados se pueden expresar en la misma bas
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara despeja una incógnita dentro del argumento de un logaritmo natural.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ Sabemos que el logaritmo de 1 en cualquier base es 0. Entonces, el argumento $(x
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en Monterrey utiliza logaritmos para resolver una ecuación donde las bases no son iguales.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ Cuando la incógnita se encuentra en el exponente y las bases no se pueden igual
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico industrial resuelve una ecuación exponencial igualando bases.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Expresamos 32 como una potencia de 2: $32 = 2^5$. Al tener la misma base en ambo
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista financiero en Puebla utiliza logaritmos para encontrar el tiempo de una inversión.
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Aplicamos logaritmos en ambos lados: $\log(3^x) = \log(15)$. Bajamos la $x$: $x 
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se resuelve una ecuación logarítmica que requiere simplificación previa.
 **Expected_Success:** 0.65
 
@@ -175,7 +175,7 @@ Utilizamos la propiedad del producto para combinar los logaritmos: $\log(2x) = 1
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la UNAM resuelve una ecuación exponencial con base $e$.
 **Expected_Success:** 0.60
 
@@ -197,7 +197,7 @@ Para bases $e$, aplicamos logaritmo natural ($\ln$) en ambos lados para cancelar
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un estudio de población, se busca el momento en que una población se triplica.
 **Expected_Success:** 0.55
 
@@ -219,7 +219,7 @@ Expresamos el 9 como $3^2$. La ecuación se convierte en $3^x = 3^{2(x-1)}$. Igu
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería simplifica una resta de logaritmos igualada a un valor constante.
 **Expected_Success:** 0.50
 
@@ -241,7 +241,7 @@ Usamos la propiedad del cociente: $\log_2(x/3) = 2$. Transformamos a forma expon
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un científico del IPN analiza una ecuación exponencial donde las bases son recíprocas.
 **Expected_Success:** 0.45
 
@@ -263,7 +263,7 @@ Convertimos ambas bases a base 2: $4 = 2^2$ y $1/2 = 2^{-1}$. La ecuación queda
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se resuelve una ecuación logarítmica con una base cuadrática.
 **Expected_Success:** 0.40
 
@@ -285,7 +285,7 @@ Aplicamos la definición de logaritmo: $x^2 = 16$. Aunque matemáticamente $x$ p
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de economía resuelve una ecuación donde debe aplicar el logaritmo de una potencia.
 **Expected_Success:** 0.45
 
@@ -307,7 +307,7 @@ Al transformar a exponencial, $x^2 = 10^2 = 100$. Las soluciones son $\pm 10$. E
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador utiliza la propiedad de la potencia para despejar una variable en un exponente compuesto.
 **Expected_Success:** 0.35
 
@@ -329,7 +329,7 @@ Convertimos a forma logarítmica: $3x - 1 = \log_2(5)$. Luego procedemos a despe
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el punto de intersección de dos funciones exponenciales.
 **Expected_Success:** 0.40
 
@@ -351,7 +351,7 @@ Primero aislamos la parte exponencial dividiendo ambos lados entre el coeficient
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en Monterrey resuelve una ecuación logarítmica con una base fraccionaria en el argumento.
 **Expected_Success:** 0.35
 
@@ -373,7 +373,7 @@ Combinamos los logaritmos en $\log_2(x^2 - 2x) = 3$. Convertimos a cuadrática $
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en matemáticas avanzadas resuelve una ecuación exponencial mediante un cambio de variable (sustitución).
 **Expected_Success:** 0.25
 
@@ -395,7 +395,7 @@ Usamos el cambio de variable $u = 2^x$, lo que convierte la ecuación en una cua
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se busca resolver una ecuación donde la base y el exponente contienen a la incógnita.
 **Expected_Success:** 0.20
 
@@ -417,7 +417,7 @@ Aunque este tipo de ecuaciones suelen requerir funciones especiales (como la fun
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante avanzado resuelve un sistema de ecuaciones logarítmicas.
 **Expected_Success:** 0.20
 
@@ -441,7 +441,7 @@ De la primera ecuación, $xy = 100$. Sustituimos $x = 15 + y$ en esta relación:
 
 **ID:** MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático del Cinvestav analiza una ecuación exponencial con bases que no comparten factores primos.
 **Expected_Success:** 0.15
 

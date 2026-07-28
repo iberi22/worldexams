@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** General scientific terminology.
 
@@ -45,7 +45,7 @@ A hypothesis is a proposed explanation made on the basis of limited evidence as 
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing the process of discovery.
 
@@ -65,7 +65,7 @@ The past simple passive 'was discovered' is used because the focus is on the dis
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about scientific funding.
 
@@ -85,7 +85,7 @@ The third conditional (if + past perfect) describes a past situation that did no
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the CRISPR technology.
 
@@ -105,7 +105,7 @@ Gene editing allows scientists to modify an organism's DNA with unprecedented pr
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the ethics of AI.
 
@@ -125,7 +125,7 @@ The rapid development of artificial intelligence raises fundamental questions ab
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Laboratory safety.
 
@@ -145,7 +145,7 @@ It is mandatory to wear protective goggles while performing chemical experiments
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing scientific trend.
 
@@ -165,7 +165,7 @@ The present perfect continuous is used for actions that began in the past and ar
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on space exploration.
 
@@ -185,7 +185,7 @@ The Mars rover is equipped with sensors to detect signs of water and past life o
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Talking about an experiment that didn't work as expected.
 
@@ -205,7 +205,7 @@ The third conditional 'would have been' describes a past outcome that would have
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "pseudoscience".
 
@@ -225,7 +225,7 @@ Pseudoscience consists of statements that claim to be both scientific and factua
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Basic data analysis.
 
@@ -245,7 +245,7 @@ Empirical evidence is information received by means of the senses, particularly 
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a new discovery.
 
@@ -265,7 +265,7 @@ The present perfect passive 'has been discovered' links a past event (the discov
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing scientific ethics.
 
@@ -285,7 +285,7 @@ The clinical trial was halted because the researchers found the risks to be disp
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about vaccine development.
 
@@ -305,7 +305,7 @@ The third conditional passive indicates that a past achievement resulted from a 
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on space telescopes.
 
@@ -325,7 +325,7 @@ The author concludes that the new telescope will revolutionize our understanding
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a medical breakthrough.
 
@@ -345,7 +345,7 @@ A vaccine is a substance used to stimulate the production of antibodies and prov
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a scientific finding.
 
@@ -365,7 +365,7 @@ In reported findings, it is standard to backshift the tense to the past.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "peer review".
 
@@ -385,7 +385,7 @@ Peer review is the evaluation of work by one or more people of similar competenc
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Expressing interest in a scientific field.
 
@@ -405,7 +405,7 @@ The future perfect continuous describes the length of an action at a certain tim
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the future of science.
 

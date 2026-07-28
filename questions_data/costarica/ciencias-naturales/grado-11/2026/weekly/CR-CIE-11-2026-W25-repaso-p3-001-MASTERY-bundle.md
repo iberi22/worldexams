@@ -32,7 +32,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.90
 **Contexto:** En el Parque Nacional Manuel Antonio, los guías explican la organización de los seres vivos.
 
@@ -57,7 +57,7 @@ El nivel de población se refiere específicamente a individuos de la misma espe
 ## Question 2 [D3]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de San Carlos analiza los componentes de una célula vegetal observada al microscopio.
 
@@ -82,7 +82,7 @@ Los cloroplastos son organelas exclusivas de células vegetales y algunos protis
 ## Question 3 [D3]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.82
 **Contexto:** En un laboratorio en Heredia, se estudia el proceso de división celular para entender el crecimiento de los tejidos.
 
@@ -107,7 +107,7 @@ La mitosis es el mecanismo por el cual los organismos pluricelulares crecen y re
 ## Question 4 [D4]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.80
 **Contexto:** Durante una caminata por el Volcán Poás, se discuten los ciclos biogeoquímicos y su importancia.
 
@@ -132,7 +132,7 @@ La fotosíntesis es la principal vía de entrada del carbono al ciclo biótico, 
 ## Question 5 [D4]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.77
 **Contexto:** En una charla sobre genética en San José, se explican las leyes de Mendel.
 
@@ -157,7 +157,7 @@ En un cruce monohíbrido de heterocigotos, las proporciones mendelianas clásica
 ## Question 6 [D4]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.75
 **Contexto:** Un biólogo marino en Puntarenas estudia las redes tróficas en el Golfo de Nicoya.
 
@@ -182,7 +182,7 @@ Los descomponedores cierran el ciclo de la materia en los ecosistemas, permitien
 ## Question 7 [D5]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** Se analiza el impacto del cambio climático en los glaciares y el nivel del mar.
 
@@ -207,7 +207,7 @@ El aumento del CO2 atmosférico desde la revolución industrial es la causa prin
 ## Question 8 [D5]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.70
 **Contexto:** Un nutricionista en Alajuela explica la importancia de las biomoléculas en la dieta costarricense.
 
@@ -232,7 +232,7 @@ Los carbohidratos son esenciales para el metabolismo celular. En la dieta tica, 
 ## Question 9 [D5]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.68
 **Contexto:** Se estudia el fenómeno de El Niño y sus efectos en el clima de Costa Rica.
 
@@ -257,7 +257,7 @@ El fenómeno ENOS (El Niño-Oscilación del Sur) altera los patrones de viento y
 ## Question 10 [D6]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.65
 **Contexto:** Un geólogo explica la estructura interna de la Tierra a estudiantes de secundaria.
 
@@ -282,7 +282,7 @@ El núcleo terrestre es una esfera metálica a temperaturas altísimas. Los movi
 ## Question 11 [D6]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un atleta en el Estadio Nacional entrena velocidad y necesita calcular su aceleración.
 
@@ -307,7 +307,7 @@ La aceleración es el cambio de velocidad por unidad de tiempo. En este caso, el
 ## Question 12 [D6]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.60
 **Contexto:** Se observa el arcoíris después de una tarde lluviosa en Cartago.
 
@@ -332,7 +332,7 @@ La dispersión ocurre porque cada color (frecuencia) de la luz viaja a una veloc
 ## Question 13 [D7]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** En un taller de química en Liberia, se analiza la tabla periódica.
 
@@ -357,7 +357,7 @@ La electronegatividad determina el tipo de enlace (iónico o covalente). Átomos
 ## Question 14 [D7]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.55
 **Contexto:** Se discute la importancia de las vacunas en la salud pública de Costa Rica.
 
@@ -382,7 +382,7 @@ Las vacunas exponen al cuerpo a versiones debilitadas o fragmentos de patógenos
 ## Question 15 [D7]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.52
 **Contexto:** Se analiza el uso de energías limpias frente a la crisis energética.
 
@@ -407,7 +407,7 @@ Costa Rica es líder mundial en energía renovable. La geotermia aprovecha el ca
 ## Question 16 [D8]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de bachillerato estudia la estructura del ADN.
 
@@ -432,7 +432,7 @@ El ADN es una doble hélice donde la información se codifica en el orden de est
 ## Question 17 [D8]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.48
 **Contexto:** Se estudia la tectónica de placas en el Cinturón de Fuego del Pacífico.
 
@@ -457,7 +457,7 @@ La subducción de la Placa del Coco bajo la Placa del Caribe es la responsable d
 ## Question 18 [D9]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un técnico eléctrico mide la resistencia de un circuito en un taller en Cartago.
 
@@ -482,7 +482,7 @@ La Ley de Ohm establece que V = I * R. Por lo tanto, para hallar la resistencia,
 ## Question 19 [D9]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.42
 **Contexto:** Se analiza el fenómeno de la lluvia ácida en zonas industriales y volcánicas.
 
@@ -507,7 +507,7 @@ La lluvia ácida daña bosques, suelos y monumentos, y es el resultado de la con
 ## Question 20 [D10]
 **ID:** CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.38
 **Contexto:** Debate sobre las ventajas y desventajas de los organismos genéticamente modificados (OGM).
 

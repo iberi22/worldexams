@@ -32,7 +32,7 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ## Question 1 [D3]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Tegucigalpa observa una célula animal al microscopio durante su clase de biología.
 
@@ -57,7 +57,7 @@ Las mitocondrias son conocidas como las centrales energéticas de la célula. En
 ## Question 2 [D3]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.85
 **Contexto:** Investigadores en la Biósfera del Río Plátano estudian las relaciones entre especies.
 
@@ -82,7 +82,7 @@ El mutualismo es una interacción biológica vital para muchos ecosistemas hondu
 ## Question 3 [D3]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.82
 **Contexto:** Un técnico en agricultura en Choluteca analiza las leyes de la herencia en cultivos de maíz.
 
@@ -107,7 +107,7 @@ Según la Primera Ley de Mendel, al cruzar dos líneas puras para un carácter d
 ## Question 4 [D4]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.80
 **Contexto:** En un congreso ambiental en San Pedro Sula se discute el ciclo del nitrógeno.
 
@@ -132,7 +132,7 @@ La fijación del nitrógeno es un proceso bioquímico esencial donde microorgani
 ## Question 5 [D4]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.77
 **Contexto:** Se analizan los efectos del cambio climático en los arrecifes de coral de Islas de la Bahía.
 
@@ -157,7 +157,7 @@ La acidificación oceánica dificulta que los organismos marinos, como los coral
 ## Question 6 [D4]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.75
 **Contexto:** Un geólogo explica los riesgos sísmicos en la zona sur de Honduras.
 
@@ -182,7 +182,7 @@ La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso din�
 ## Question 7 [D5]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** Un profesor de química en Comayagua explica las propiedades de los compuestos orgánicos.
 
@@ -207,7 +207,7 @@ La química del carbono es la base de la vida. Su capacidad para formar enlaces 
 ## Question 8 [D5]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un conductor de transporte pesado en la carretera CA-5 calcula su fuerza de frenado.
 
@@ -232,7 +232,7 @@ La fuerza es directamente proporcional al producto de la masa por la aceleració
 ## Question 9 [D5]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.68
 **Contexto:** Se estudia el funcionamiento de una planta hidroeléctrica en el Lago de Yojoa.
 
@@ -257,7 +257,7 @@ Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para
 ## Question 10 [D6]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de bachillerato en La Ceiba investiga sobre el sistema inmunológico.
 
@@ -282,7 +282,7 @@ Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un ant
 ## Question 11 [D6]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Se mide la resistencia eléctrica de una instalación en una vivienda en Juticalpa.
 
@@ -307,7 +307,7 @@ La potencia eléctrica es el ritmo al que se consume energía y se calcula multi
 ## Question 12 [D6]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.60
 **Contexto:** Análisis de la contaminación del aire por quema de combustibles fósiles en zonas urbanas.
 
@@ -332,7 +332,7 @@ Las emisiones de azufre y nitrógeno de las industrias y vehículos motorizados 
 ## Question 13 [D7]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** Se estudia el proceso de ósmosis en un laboratorio escolar en Danlí.
 
@@ -357,7 +357,7 @@ La ósmosis es un proceso pasivo crucial para mantener el equilibrio hídrico ce
 ## Question 14 [D7]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.55
 **Contexto:** Un oceanógrafo analiza las corrientes marinas frente a las costas de Gracias a Dios.
 
@@ -382,7 +382,7 @@ La circulación oceánica superficial es impulsada por la atmósfera, mientras q
 ## Question 15 [D7]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.52
 **Contexto:** Debate sobre la importancia de la capa de ozono en la estratósfera.
 
@@ -407,7 +407,7 @@ Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal d
 ## Question 16 [D8]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Indagación
+**EJE:** Indagación
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante identifica las partes del átomo en su clase de física-química.
 
@@ -432,7 +432,7 @@ Los isótopos son fundamentales en aplicaciones que van desde la medicina nuclea
 ## Question 17 [D8]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Understand
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.48
 **Contexto:** Se estudia el impacto de la deforestación en la infiltración del agua en las montañas de Olancho.
 
@@ -457,7 +457,7 @@ Los bosques actúan como esponjas naturales. Al talarlos, el agua de lluvia lleg
 ## Question 18 [D9]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Cálculo de la concentración de una solución para purificar agua en una aldea rural.
 
@@ -482,7 +482,7 @@ El porcentaje m/v indica los gramos de soluto por cada 100 ml de solución. En e
 ## Question 19 [D9]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Explicación de Fenómenos
+**EJE:** Explicación de Fenómenos
 **Expected_Success:** 0.42
 **Contexto:** Se observa el espectro de luz de una estrella lejana desde un telescopio en la UNAH.
 
@@ -507,7 +507,7 @@ El corrimiento al rojo es una prueba fundamental de la expansión del universo, 
 ## Question 20 [D10]
 **ID:** HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**EJE:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.38
 **Contexto:** Debate ético sobre el uso de la edición genética CRISPR en seres humanos.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Madrid analiza una lista de números donde cada término se obtiene sumando una cantidad fija al anterior.
 
@@ -41,7 +41,7 @@ Una progresión aritmética se define por la relación $a_n = a_{n-1} + d$, dond
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** En una academia de Barcelona, se explica la fórmula del término general de una sucesión geométrica.
 
@@ -62,7 +62,7 @@ En las progresiones geométricas, el crecimiento es exponencial. El término $n$
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.82
 **Contexto:** Un examen de Matemáticas I en Valencia incluye una pregunta sobre la suma de términos.
 
@@ -83,7 +83,7 @@ Para sucesiones de términos positivos, el comportamiento depende de la razón $
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Un biólogo en Sevilla observa una población de bacterias que se duplica cada hora.
 
@@ -104,7 +104,7 @@ Los procesos de crecimiento donde el incremento es proporcional al valor actual 
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un ahorro mensual en una cuenta de un banco en Bilbao empieza con 50 € y cada mes se añaden 5 € más que el anterior (50, 55, 60...).
 
@@ -125,7 +125,7 @@ Usamos la fórmula del término general de la progresión aritmética: $a_n = a_
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Una empresa de logística en Zaragoza organiza paquetes en niveles. El primer nivel tiene 20 paquetes y cada nivel inferior tiene 2 paquetes menos.
 
@@ -146,7 +146,7 @@ Planteamos la ecuación $a_n = a_1 + (n-1)d$ con $a_1=20$, $d=-2$ y $a_n=2$, y d
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un atleta en Valencia entrena corriendo cada día un 10% más de distancia que el día anterior. El primer día corre 10 km.
 
@@ -167,7 +167,7 @@ Se trata de una progresión geométrica con $r = 1,1$ (aumento del 10%). El terc
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la sucesión $a_n = \frac{n+1}{n}$.
 
@@ -188,7 +188,7 @@ El límite de un cociente de polinomios del mismo grado es el cociente de sus co
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un coleccionista en Granada compra una moneda que se revaloriza un 5% anualmente. El precio inicial es de 200 €.
 
@@ -209,7 +209,7 @@ La revalorización porcentual constante se calcula mediante una progresión geom
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Se quiere calcular la suma de los 10 primeros números pares naturales (2, 4, 6...).
 
@@ -230,7 +230,7 @@ La suma de los $n$ primeros términos de una progresión aritmética es $S_n = \
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia sucesiones definidas por recurrencia, como la de Fibonacci ($1, 1, 2, 3, 5, 8...$).
 
@@ -251,7 +251,7 @@ En la sucesión de Fibonacci, cada término es la suma de los dos anteriores ($a
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Un físico analiza la oscilación de un péndulo donde cada arco recorrido es los $3/4$ del anterior. El primer arco mide 16 cm.
 
@@ -272,7 +272,7 @@ La suma de los términos de una progresión geométrica infinita con $-1 < r < 1
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En un taller de ingeniería en Gijón, se interpolan 3 medios aritméticos entre los números 4 y 20.
 
@@ -293,7 +293,7 @@ Interpolar $k$ medios entre $a$ y $b$ significa crear una progresión de $k+2$ t
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un capital de 1000 € se invierte a un interés compuesto anual del 4%.
 
@@ -314,7 +314,7 @@ El interés compuesto es la aplicación práctica más directa de las progresion
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el comportamiento de la sucesión $a_n = (-1)^n \cdot n$.
 
@@ -335,7 +335,7 @@ Una sucesión es oscilante si no es convergente ni tiende a $+\infty$ o $-\infty
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante plantea una duda sobre la suma de los infinitos términos de una progresión aritmética con $d > 0$.
 
@@ -356,7 +356,7 @@ Para que una serie infinita converja, es necesario (pero no suficiente) que el t
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** El tercer término de una progresión geométrica es 12 y el sexto es 96.
 
@@ -377,7 +377,7 @@ Utilizamos la relación entre términos de una progresión geométrica: $a_n = a
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Un investigador analiza el límite de la sucesión $a_n = \left(1 + \frac{1}{n}\right)^n$.
 
@@ -398,7 +398,7 @@ La sucesión que define el número $e$ es fundamental en el estudio del cálculo
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Una pelota de tenis cae desde 10 metros de altura. En cada rebote, alcanza el 60% de la altura anterior.
 
@@ -419,7 +419,7 @@ Modelamos el problema como una progresión geométrica donde $a_0 = 10$ (altura 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W11-sucesiones-progresiones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante intenta sumar los términos de una progresión geométrica con $r = -1$.
 

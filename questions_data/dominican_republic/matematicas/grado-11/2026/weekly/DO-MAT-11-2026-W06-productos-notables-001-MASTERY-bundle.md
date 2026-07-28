@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo revisa su formulario de álgebra antes de una prueba.
 
@@ -41,7 +41,7 @@ Regla básica para el desarrollo de un binomio sumado al cuadrado.
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En un aula de Santiago se discute el producto de suma por diferencia.
 
@@ -62,7 +62,7 @@ Los términos medios se cancelan al multiplicar binomios conjugados.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.80
 **Contexto:** Análisis del binomio $(x - 3)^2$ en una práctica.
 
@@ -83,7 +83,7 @@ El signo de la operación interna determina el signo del doble producto.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en San Pedro de Macorís mide una mesa de $(x+4)$ por lado.
 
@@ -104,7 +104,7 @@ Aplicación de binomio al cuadrado a dimensiones geométricas.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Producto de binomios con término común $(x+a)(x+b)$.
 
@@ -125,7 +125,7 @@ Regla para productos de la forma $x^2 + (a+b)x + ab$.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Estudiante en La Romana simplifica $(2x + 5)(2x - 5)$.
 
@@ -146,7 +146,7 @@ Cuadrado del primero ($4x^2$) menos cuadrado del segundo ($25$).
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Taller de diseño en Puerto Plata calcula $(3x - 1)^2$.
 
@@ -167,7 +167,7 @@ Cálculo minucioso de cada término del trinomio cuadrado perfecto.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** Estudiante de Higüey maneja el cubo de un binomio.
 
@@ -188,7 +188,7 @@ Aplicación de $(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Simplificación de $(x + 5)^2 - (x - 5)^2$ en Baní.
 
@@ -209,7 +209,7 @@ Uso de identidades para reducir expresiones complejas.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.60
 **Contexto:** Profesor en San Francisco plantea el cuadrado de un trinomio.
 
@@ -230,7 +230,7 @@ Generalización del binomio al cuadrado para tres términos.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.55
 **Contexto:** Identidades de Legendre en Moca.
 
@@ -251,7 +251,7 @@ Simplificación avanzada de la suma de desarrollos binomiales.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Aplicación del cubo para $(2x - 3)^3$.
 
@@ -272,7 +272,7 @@ Cálculo de términos específicos usando la fórmula del cubo.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.50
 **Contexto:** Cálculo mental en Higüey: $101^2$.
 
@@ -293,7 +293,7 @@ Uso de $(100+1)^2$ para facilitar el cálculo numérico.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Variación de área en Santo Domingo.
 
@@ -314,7 +314,7 @@ Interpretación geométrica de la diferencia de cuadrados.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Fracción algebraica $(x^2 - 9) / (x + 3)$.
 
@@ -335,7 +335,7 @@ Uso de diferencia de cuadrados para cancelar factores comunes.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.40
 **Contexto:** Producto $(x^2 + y^2)(x^2 - y^2)$ en Baní.
 
@@ -356,7 +356,7 @@ Aplicación de leyes de exponentes sobre productos notables.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Identidades de Cauchy en la UASD.
 
@@ -377,7 +377,7 @@ Reconocimiento de la estructura de factorización de suma de cubos.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Completar trinomios en Santiago.
 
@@ -398,7 +398,7 @@ Técnica para hallar el tercer término del trinomio cuadrado perfecto.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Binomio de Newton.
 
@@ -419,7 +419,7 @@ Relación entre combinatoria y productos notables de grado n.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Operación $(a+b+c)^2 - (a^2+b^2+c^2)$.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en la CDMX analiza gráficamente un sistema de dos ecuaciones lineales con dos incógnitas.
 **Expected_Success:** 0.88
 
@@ -41,7 +41,7 @@ En un sistema de ecuaciones lineales 2x2, cada ecuación representa una línea r
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un acuario en Veracruz, se sabe que el número de peces payaso (x) y peces cirujano (y) suma 30 ejemplares.
 **Expected_Success:** 0.85
 
@@ -62,7 +62,7 @@ El planteamiento de ecuaciones es el primer paso para resolver sistemas. Cuando 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Durante una clase en Monterrey, se explican los diferentes métodos para resolver sistemas de ecuaciones 2x2.
 **Expected_Success:** 0.83
 
@@ -83,7 +83,7 @@ Los métodos clásicos para resolver sistemas de ecuaciones lineales 2x2 incluye
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta un sistema de ecuaciones donde las rectas son paralelas y nunca se cruzan.
 **Expected_Success:** 0.80
 
@@ -104,7 +104,7 @@ Para que un sistema tenga solución, debe existir al menos un punto común. Las 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en Puebla resuelve un sistema por el método de sustitución.
 **Expected_Success:** 0.77
 
@@ -128,7 +128,7 @@ Usamos sustitución: reemplazamos y por 2x en la segunda ecuación. Obtenemos x 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una granja en Querétaro, hay gallinas (G) y borregos (B). Se cuentan 20 cabezas y 50 patas en total.
 **Expected_Success:** 0.74
 
@@ -149,7 +149,7 @@ Planteamos el sistema: G + B = 20 (cabezas) y 2G + 4B = 50 (patas). Despejamos G
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de ecuaciones se resuelve por el método de reducción (suma y resta).
 **Expected_Success:** 0.71
 
@@ -173,7 +173,7 @@ Sumamos ambas ecuaciones directamente ya que y e -y se cancelan: (x + x) + (y - 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una tienda de ropa en Guadalajara, 2 playeras y 1 pantalón cuestan $700. Mientras que 1 playera y 1 pantalón cuestan $500.
 **Expected_Success:** 0.68
 
@@ -194,7 +194,7 @@ Restamos la segunda compra de la primera para eliminar el costo del pantalón: (
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza un sistema con dos rectas idénticas.
 **Expected_Success:** 0.65
 
@@ -215,7 +215,7 @@ Un sistema dependiente o indeterminado ocurre cuando una ecuación es múltiplo 
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se busca resolver un sistema por igualación en un ejercicio de preparación para el examen de la UNAM.
 **Expected_Success:** 0.63
 
@@ -239,7 +239,7 @@ Igualamos ambas expresiones de x: 3y + 1 = y + 5. Pasamos la y restando al lado 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de ecuaciones se presenta en su forma general ax + by = c.
 **Expected_Success:** 0.60
 
@@ -263,7 +263,7 @@ Multiplicamos la segunda ecuación por 3 para que los coeficientes de y sean opu
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un pequeño inversionista en la Bolsa Mexicana de Valores reparte su capital en dos tipos de acciones, A y B.
 **Expected_Success:** 0.58
 
@@ -284,7 +284,7 @@ Sistema: x + y = 100,000 y 0.05x + 0.10y = 7,000. Despejamos x = 100,000 - y. Su
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema de mezclas de café en un negocio local de Chiapas.
 **Expected_Success:** 0.55
 
@@ -305,7 +305,7 @@ Sistema: x + y = 20 y 80x + 120y = 1,800. Usando sustitución (x = 20 - y): 80(2
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de ecuaciones 2x2 requiere un despeje cuidadoso para ser resuelto por igualación.
 **Expected_Success:** 0.53
 
@@ -329,7 +329,7 @@ Despejamos y en ambas: (1) y = 2x - 5; (2) y = (11 - 3x) / 2. Igualamos: 2x - 5 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de ecuaciones presenta coeficientes fraccionarios, típico en problemas de física en el bachillerato.
 **Expected_Success:** 0.50
 
@@ -353,7 +353,7 @@ De la segunda ecuación x - y = 0, deducimos que x = y. Sustituimos y por x en l
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el determinante de un sistema 2x2 para determinar su tipo de solución.
 **Expected_Success:** 0.48
 
@@ -376,7 +376,7 @@ Un sistema no tiene solución si las pendientes son iguales pero las ordenadas a
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de 3x3 se reduce a un problema de 2x2 en un nivel avanzado de bachillerato.
 **Expected_Success:** 0.45
 
@@ -397,7 +397,7 @@ Sustituimos x + y = 3 en la primera ecuación: (3) + z = 6 \rightarrow z = 3. Lu
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema de corrientes en un río, combinando vectores y sistemas de ecuaciones.
 **Expected_Success:** 0.42
 
@@ -418,7 +418,7 @@ Sistema: (1) v + c = 20; (2) v - c = 12. Sumamos las ecuaciones para eliminar c:
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sistema de ecuaciones con variables literales a, b (parámetros).
 **Expected_Success:** 0.38
 
@@ -441,7 +441,7 @@ Restamos las ecuaciones: (a-b)x + (b-a)y = 0 \rightarrow (a-b)x = (a-b)y \righta
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un reto sobre el punto de equilibrio en economía (oferta y demanda).
 **Expected_Success:** 0.35
 

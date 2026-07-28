@@ -30,7 +30,7 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ## Question 1 [D3]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.90
 **Contexto:** Un fragmento de la obra "Prisión Verde" de Ramón Amaya Amador, donde se describe la vida en los campos bananeros.
 
@@ -55,7 +55,7 @@ La metáfora es un recurso esencial en la literatura de denuncia social hondure�
 ## Question 2 [D3]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en San Pedro Sula escribe un ensayo sobre la importancia de la ortografía en la comunicación digital.
 
@@ -80,7 +80,7 @@ Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental do
 ## Question 3 [D3]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.85
 **Contexto:** Se estudia la biografía de la poeta Clementina Suárez, "la mujer nueva" de la literatura hondureña.
 
@@ -105,7 +105,7 @@ Clementina Suárez es una figura central que introdujo temas de liberación feme
 ## Question 4 [D4]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.82
 **Contexto:** Un periodista de un diario en Tegucigalpa redacta una noticia sobre la economía nacional.
 
@@ -130,7 +130,7 @@ Los conectores lógicos son herramientas que dan cohesión y coherencia al discu
 ## Question 5 [D4]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.80
 **Contexto:** Revisión de un informe técnico en una empresa de La Ceiba.
 
@@ -155,7 +155,7 @@ La correcta escritura de palabras con 'g' y 'j' es un reto ortográfico común. 
 ## Question 6 [D4]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.78
 **Contexto:** Un análisis literario sobre el poema "Los pobres" de Roberto Sosa.
 
@@ -180,7 +180,7 @@ La poesía de Roberto Sosa trasciende el arte por el arte para convertirse en un
 ## Question 7 [D5]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.75
 **Contexto:** Un diálogo común entre amigos en un mercado de Santa Rosa de Copán.
 
@@ -205,7 +205,7 @@ El voseo es una característica dialectal de Honduras que forma parte de la iden
 ## Question 8 [D5]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante redacta un correo formal para solicitar una beca en la UNAH.
 
@@ -230,7 +230,7 @@ La adecuación del registro lingüístico al contexto (formal vs. informal) es u
 ## Question 9 [D5]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.70
 **Contexto:** Lectura de una columna de opinión sobre el patrimonio cultural de los pueblos indígenas Lencas e Intibucá.
 
@@ -255,7 +255,7 @@ En los textos de opinión, las definiciones cargadas de simbolismo ayudan a pers
 ## Question 10 [D6]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.68
 **Contexto:** Clasificación de los géneros periodísticos en un taller de comunicación en Choluteca.
 
@@ -280,7 +280,7 @@ Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un c
 ## Question 11 [D6]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de último año prepara su tesis sobre el turismo en Islas de la Bahía.
 
@@ -305,7 +305,7 @@ El manejo de normas de citación es esencial para garantizar la honestidad acad�
 ## Question 12 [D6]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.62
 **Contexto:** Un poema sobre la belleza del Lago de Yojoa utiliza un lenguaje figurado intenso.
 
@@ -330,7 +330,7 @@ La combinación de figuras literarias enriquece la lírica, permitiendo descripc
 ## Question 13 [D7]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.60
 **Contexto:** Un debate en el aula sobre las ventajas y desventajas de las redes sociales.
 
@@ -355,7 +355,7 @@ Una tesis debe ser clara, específica y, sobre todo, argumentable. Es el núcleo
 ## Question 14 [D7]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.58
 **Contexto:** Un texto informativo sobre la historia de la civilización Maya en Honduras.
 
@@ -380,7 +380,7 @@ La inferencia consiste en extraer conclusiones lógicas a partir de lo que el te
 ## Question 15 [D7]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.55
 **Contexto:** Revisión de la puntuación en un texto literario sobre las leyendas de Honduras.
 
@@ -405,7 +405,7 @@ La coma del vocativo es esencial para distinguir a quién se dirige el mensaje y
 ## Question 16 [D8]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.52
 **Contexto:** Un repaso sobre los elementos de la narración en la literatura clásica.
 
@@ -430,7 +430,7 @@ Identificar el tipo de narrador es clave para entender la perspectiva desde la c
 ## Question 17 [D8]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.50
 **Contexto:** Un fragmento de un editorial periodístico que critica la deforestación en la Biósfera del Río Plátano.
 
@@ -455,7 +455,7 @@ Las funciones del lenguaje ayudan a determinar qué busca lograr el autor con su
 ## Question 18 [D9]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de corrección de textos para evitar el "dequeísmo" o el "queísmo".
 
@@ -480,7 +480,7 @@ El dequeísmo es un vicio del lenguaje muy extendido. Una forma de verificar es 
 ## Question 19 [D9]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.42
 **Contexto:** Un análisis comparativo entre la literatura colonial y la literatura contemporánea en Honduras.
 
@@ -505,7 +505,7 @@ La literatura refleja la evolución del pensamiento de una nación. Entender est
 ## Question 20 [D10]
 **ID:** HN-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.38
 **Contexto:** Evaluación de la coherencia y cohesión en un fragmento complejo sobre filosofía del lenguaje.
 

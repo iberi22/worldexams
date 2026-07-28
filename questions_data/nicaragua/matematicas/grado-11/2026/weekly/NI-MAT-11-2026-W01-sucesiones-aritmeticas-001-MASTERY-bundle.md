@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** En un taller de artesanías en Masaya, los artesanos organizan sus piezas en filas.
 
@@ -39,7 +39,7 @@ Una sucesión aritmética se caracteriza por tener una diferencia común (d) con
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de secundaria en León estudia las fórmulas generales de sucesiones.
 
@@ -58,7 +58,7 @@ La fórmula del término general de una sucesión aritmética es $a_n = a_1 + (n
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un agricultor en Matagalpa siembra surcos de café de manera progresiva.
 
@@ -77,7 +77,7 @@ El signo de la diferencia común determina la monotonía de la sucesión: si $d 
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Un ahorro semanal en córdobas (NIO) en una alcancía.
 
@@ -96,7 +96,7 @@ La diferencia común se encuentra restando un término cualquiera menos el anter
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Un plan de entrenamiento físico en el Malecón de Managua.
 
@@ -115,7 +115,7 @@ Para hallar un término específico, usamos $a_n = a_1 + (n-1)d$. Aquí, $a_5 = 
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** La construcción de gradas en un estadio de béisbol en Estelí.
 
@@ -134,7 +134,7 @@ El término general se construye con $a_1 + (n-1)d$. Con $a_1=5$ y $d=3$, result
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Un sistema de riego que aumenta su alcance cada día.
 
@@ -153,7 +153,7 @@ La diferencia común se puede calcular como $d = (a_j - a_i) / (j - i)$. Aquí, 
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Un ahorro progresivo para comprar una computadora en Nicaragua.
 
@@ -172,7 +172,7 @@ Aplicando la fórmula del término enésimo $a_n = a_1 + (n-1)d$ con $a_1=200$, 
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** La temperatura en una zona alta de Jinotega que desciende de forma constante durante la noche.
 
@@ -191,7 +191,7 @@ Este problema se modela con una sucesión aritmética donde $d = -1.5$. De las 6
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Un patrón de diseño en alfombras de aserrín tradicionales de Nicaragua.
 
@@ -210,7 +210,7 @@ Para hallar la posición, despejamos $n$ de la fórmula $a_n = a_1 + (n-1)d$. Aq
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** La suma de las cuotas de un préstamo bancario en Nicaragua.
 
@@ -229,7 +229,7 @@ La suma de una progresión aritmética fue popularizada por la anécdota de Gaus
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** La recolección de quintales de frijoles durante una temporada de cosecha.
 
@@ -248,7 +248,7 @@ Primero se halla el último término ($a_{10}=28$) y luego se aplica la fórmula
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Un análisis de crecimiento de una microempresa en Granada.
 
@@ -267,7 +267,7 @@ Se debe usar la fórmula de la suma para hallar $a_5$ y luego usar la fórmula d
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Comparación de modelos lineales en economía local.
 
@@ -286,7 +286,7 @@ La suma de los primeros $n$ números impares es siempre un cuadrado perfecto ($1
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** Distribución de asientos en un teatro circular en Managua.
 
@@ -305,7 +305,7 @@ Modelamos el problema como la suma de una sucesión aritmética con $n=20, a_1=3
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Identificación de patrones en sucesiones complejas.
 
@@ -324,7 +324,7 @@ Incluso si los términos son negativos, la fórmula de la suma se aplica de la m
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un proyecto de reforestación en la Reserva Bosawás.
 
@@ -343,7 +343,7 @@ El problema requiere reconocer que la suma de la sucesión de números impares e
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Un problema de interpolación de medios aritméticos.
 
@@ -362,7 +362,7 @@ Interpolar $k$ medios aritméticos entre dos números $a$ y $b$ significa crear 
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Análisis de una propiedad de las sucesiones aritméticas.
 
@@ -381,7 +381,7 @@ Esta es la propiedad fundamental que da nombre a las sucesiones "aritméticas": 
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Un reto matemático sobre sumatorias en una olimpiada escolar nicaragüense.
 

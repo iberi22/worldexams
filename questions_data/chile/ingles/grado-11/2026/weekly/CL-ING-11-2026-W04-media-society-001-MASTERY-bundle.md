@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to media studies.
 
@@ -45,7 +45,7 @@ The term "mass media" refers to various means of communication that reach or inf
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing the spread of news.
 
@@ -65,7 +65,7 @@ Information is disseminated across the globe in seconds thanks to digital platfo
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Warning about misinformation.
 
@@ -85,7 +85,7 @@ You shouldn't believe everything you read on social media without verifying the 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "fake news".
 
@@ -105,7 +105,7 @@ Sensationalist headlines are often used as "clickbait" to entice users to click 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the role of journalists.
 
@@ -125,7 +125,7 @@ Impartiality or being 'unbiased' is a core principle of journalistic ethics.
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Marketing and advertising.
 
@@ -145,7 +145,7 @@ A slogan is a short and striking or memorable phrase used in advertising.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing media censorship.
 
@@ -165,7 +165,7 @@ The passive voice 'are blocked' is used because the subject (the websites) is th
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "echo chambers".
 
@@ -185,7 +185,7 @@ Social media algorithms can create "echo chambers" where users are only exposed 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Talking about an interview that happened in the past.
 
@@ -205,7 +205,7 @@ The past simple passive 'was surrounded' describes what happened to the celebrit
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of the "attention economy".
 
@@ -225,7 +225,7 @@ In an economy, a 'scarce' resource is one that is limited and therefore has valu
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Newsroom roles.
 
@@ -245,7 +245,7 @@ The editor is the person in charge of a newspaper or magazine who decides what s
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing media trends.
 
@@ -265,7 +265,7 @@ Traditional print newspapers have been replaced by digital news sites over the l
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing media literacy.
 
@@ -285,7 +285,7 @@ Media literacy is the ability to access, analyze, evaluate, and create media in 
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about media influence.
 
@@ -305,7 +305,7 @@ The second conditional is used to discuss a hypothetical situation and its likel
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Argument about citizen journalism.
 
@@ -325,7 +325,7 @@ Citizen journalism often lacks the rigorous fact-checking found in professional 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Television broadcasting.
 
@@ -345,7 +345,7 @@ A broadcast is a live or recorded performance that is transmitted on television 
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past regret about media consumption.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure is used to express a desire for the past to 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about digital footprints.
 
@@ -385,7 +385,7 @@ Your digital footprint consists of all the information you leave behind while us
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting what someone said about the media.
 
@@ -405,7 +405,7 @@ In reported speech, a present simple statement is typically changed to past simp
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the future of media.
 

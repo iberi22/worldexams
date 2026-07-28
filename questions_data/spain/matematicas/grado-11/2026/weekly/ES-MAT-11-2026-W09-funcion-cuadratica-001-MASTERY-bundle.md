@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en un instituto de Madrid estudia la forma de las funciones de segundo grado.
 
@@ -41,7 +41,7 @@ La función cuadrática $f(x) = ax^2 + bx + c$ genera siempre una parábola. Su 
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el punto más bajo de una trayectoria en una clase en Barcelona.
 
@@ -62,7 +62,7 @@ El vértice $(x_v, y_v)$ es el punto crítico de la parábola. Representa el val
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante en Valencia calcula la coordenada $x$ del vértice de una parábola.
 
@@ -83,7 +83,7 @@ La abscisa del vértice de una parábola $y = ax^2 + bx + c$ se encuentra siempr
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Sevilla pregunta por el efecto del coeficiente $a$ en la gráfica.
 
@@ -104,7 +104,7 @@ El signo de $a$ determina la curvatura. Si $a < 0$, la función tiende a $-\inft
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Bilbao halla los puntos donde la parábola corta al eje horizontal.
 
@@ -125,7 +125,7 @@ Los puntos de corte con el eje X (ceros o raíces) se obtienen resolviendo la ec
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Se analiza el punto de corte con el eje vertical para un lanzamiento.
 
@@ -146,7 +146,7 @@ El corte con el eje Y siempre ocurre en el punto $(0, c)$. Es el valor numérico
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la relación entre el discriminante y el número de cortes con el eje X.
 
@@ -167,7 +167,7 @@ El discriminante $\Delta = b^2 - 4ac$ determina cuántas veces toca la parábola
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un proyectil lanzado en un campo de prácticas en Murcia sigue la trayectoria $h(t) = -5t^2 + 20t$.
 
@@ -188,7 +188,7 @@ Los problemas de proyectiles usan funciones cuadráticas donde el vértice repre
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en San Sebastián halla el valor mínimo de una función de coste.
 
@@ -209,7 +209,7 @@ Para hallar el valor extremo de una función cuadrática, primero calculamos la 
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.63
 **Contexto:** Se compara la "anchura" de dos parábolas en función de sus coeficientes.
 
@@ -230,7 +230,7 @@ El valor absoluto del coeficiente $a$ controla la apertura de la parábola. Valo
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado en Madrid analiza el signo de una función cuadrática sin raíces reales.
 
@@ -251,7 +251,7 @@ Una parábola que no corta al eje X mantiene el mismo signo en todo su dominio. 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se busca la expresión de una parábola a partir de su gráfica en un examen.
 
@@ -272,7 +272,7 @@ Si el vértice está en el origen, la ecuación es $y = ax^2$. Usamos cualquier 
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias explica el eje de simetría de una parábola.
 
@@ -293,7 +293,7 @@ La forma canónica o de vértice de la función cuadrática facilita la identifi
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga diseña un puente con un arco parabólico que corta al suelo en los puntos $x = 0$ y $x = 10$.
 
@@ -314,7 +314,7 @@ Usamos la forma factorizada $y = a(x-r_1)(x-r_2)$ con las raíces 0 y 10. Luego,
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el crecimiento de una función cuadrática en un intervalo.
 
@@ -335,7 +335,7 @@ Una parábola que abre hacia arriba es decreciente desde $-\infty$ hasta la absc
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante resuelve una intersección entre una recta y una parábola.
 
@@ -356,7 +356,7 @@ Igualamos ambas expresiones para formar una ecuación de segundo grado. Las solu
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en una startup en Madrid calcula el área bajo una parábola simple para un sensor de luz.
 
@@ -377,7 +377,7 @@ En parábolas verticales cuyo eje de simetría es el eje Y, el punto más cercan
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea una familia de parábolas que dependen de un parámetro $k$.
 
@@ -398,7 +398,7 @@ Para que una parábola sea siempre positiva, no debe tener raíces reales ($\Del
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza la suma de las áreas de cuadrados cuyos lados dependen de una variable $x$.
 
@@ -419,7 +419,7 @@ Conociendo la suma ($S$) y el producto ($P$) de las raíces, cualquier función 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre el desplazamiento de parábolas en el plano.
 

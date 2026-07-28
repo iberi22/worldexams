@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Matagalpa repasa los métodos para resolver ecuaciones.
 
@@ -39,7 +39,7 @@ Cuando las bases no se pueden igualar fácilmente, la herramienta fundamental es
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Un examen de admisión universitaria en Nicaragua que incluye álgebra avanzada.
 
@@ -58,7 +58,7 @@ La inyectividad de las funciones logarítmicas y exponenciales es la base legal 
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un análisis sobre las soluciones de ecuaciones con logaritmos.
 
@@ -77,7 +77,7 @@ El dominio de $\log(x)$ es $(0, \infty)$. Si al sustituir una solución el argum
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Conversión de formas para facilitar el despeje.
 
@@ -96,7 +96,7 @@ La definición de logaritmo establece que $\log_b(a) = c \iff b^c = a$. Aplicand
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un problema de crecimiento de capital en una microfinanciera en León.
 
@@ -115,7 +115,7 @@ Igualamos las bases: $5^{2x} = 5^2$. Por la propiedad de inyectividad, $2x = 2$,
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Un cálculo de tiempos de duplicación en biología.
 
@@ -134,7 +134,7 @@ Expresamos 8 como potencia de 2 ($2^3$). Al igualar los exponentes $x+1 = 3$, ob
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Resolución de ecuaciones logarítmicas con términos constantes.
 
@@ -153,7 +153,7 @@ Transformamos a la forma exponencial $3^2 = x-2$. Esto resulta en $9 = x-2$, por
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Uso de logaritmos naturales en el despeje de la variable tiempo.
 
@@ -172,7 +172,7 @@ El logaritmo natural ($\ln$) es la función inversa de la base $e$. Aplicarlo a 
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** Aplicación de la propiedad del producto para resolver una ecuación logarítmica.
 
@@ -191,7 +191,7 @@ Combinamos los logaritmos de la izquierda usando $\log M + \log N = \log(MN)$. L
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Uso de la propiedad del cociente en ecuaciones.
 
@@ -210,7 +210,7 @@ La resta de logaritmos equivale al logaritmo de la división de los argumentos. 
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Un problema de base fraccionaria en una ecuación exponencial.
 
@@ -229,7 +229,7 @@ Convertimos ambas bases a potencias de 2. $1/2 = 2^{-1}$ y $16 = 2^4$. Igualando
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Resolución de una ecuación logarítmica que requiere simplificación previa.
 
@@ -248,7 +248,7 @@ Aplicamos la propiedad de la potencia en sentido inverso: $k \log M = \log M^k$.
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Una ecuación exponencial que requiere el uso de logaritmos comunes.
 
@@ -267,7 +267,7 @@ Aplicamos logaritmos en ambos lados: $\log(3^x) = \log(20)$. Bajamos la $x$ como
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un reto sobre el dominio de las soluciones en ecuaciones logarítmicas.
 
@@ -286,7 +286,7 @@ Este es un ejemplo de "solución extraña". Aunque el álgebra produce dos resul
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** Uso de cambio de base para resolver una ecuación.
 
@@ -305,7 +305,7 @@ Aplicamos logaritmos, distribuimos el logaritmo del lado derecho sobre el binomi
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Una ecuación que se resuelve mediante cambio de variable (forma cuadrática).
 
@@ -324,7 +324,7 @@ Muchas ecuaciones exponenciales tienen "forma cuadrática" oculta. Al sustituir 
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Resolución completa de una ecuación exponencial cuadrática.
 
@@ -343,7 +343,7 @@ Reconocemos que $4^x = (2^x)^2$. Resolvemos la cuadrática para $2^x$ y luego re
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Una ecuación logarítmica que involucra el cambio de base.
 
@@ -362,7 +362,7 @@ Para resolver ecuaciones con logaritmos de bases distintas, debemos usar la fór
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Un sistema de ecuaciones no lineales.
 
@@ -384,7 +384,7 @@ Transformamos las ecuaciones originales en un sistema de ecuaciones lineales. La
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre las propiedades de logaritmos y potencias combinadas.
 

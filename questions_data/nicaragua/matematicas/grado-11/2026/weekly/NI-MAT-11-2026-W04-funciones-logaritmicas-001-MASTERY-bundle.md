@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Nacional "Leonardo Matute" en Ocotal revisa la definición de logaritmo.
 
@@ -39,7 +39,7 @@ El logaritmo es la operación inversa de la exponenciación. Si $b^y = x$, enton
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Una clase sobre las restricciones de las funciones reales en Nicaragua.
 
@@ -58,7 +58,7 @@ Como la función exponencial $b^y$ siempre da resultados positivos, su función 
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un análisis gráfico comparativo en el plano cartesiano.
 
@@ -77,7 +77,7 @@ La función logarítmica es la inversa de la exponencial. Como la exponencial pa
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Un estudio sobre logaritmos comunes y naturales en una estación meteorológica nicaragüense.
 
@@ -96,7 +96,7 @@ Los logaritmos en base 10 son fundamentales para la notación científica y esca
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un sismólogo en Ineter (Nicaragua) explica la escala de Richter.
 
@@ -115,7 +115,7 @@ Gráficamente, intercambiar $x$ por $y$ equivale a reflejar la curva sobre la l�
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Un análisis de la asíntota de una función logarítmica desplazada.
 
@@ -134,7 +134,7 @@ La asíntota vertical se encuentra igualando el argumento a cero: $x - 4 = 0 \Ri
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Un cálculo rápido de potencias y logaritmos.
 
@@ -153,7 +153,7 @@ Resolver un logaritmo es responder a la pregunta: ¿A qué potencia debo elevar 
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante evalúa logaritmos con argumentos fraccionarios.
 
@@ -172,7 +172,7 @@ Cuando el argumento es menor que 1 (pero mayor que 0) y la base es mayor que 1, 
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Uso del logaritmo natural en un estudio de química en Nicaragua.
 
@@ -191,7 +191,7 @@ El logaritmo natural utiliza como base el número irracional $e \approx 2.718$. 
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.62
 **Contexto:** Aplicación de propiedades básicas de logaritmos.
 
@@ -210,7 +210,7 @@ Como el logaritmo natural y la base $e$ son inversos, su composición devuelve s
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** El uso de la propiedad del producto en cálculos logarítmicos.
 
@@ -229,7 +229,7 @@ Esta propiedad refleja que al multiplicar potencias de igual base, los exponente
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Simplificación de expresiones con logaritmos de cocientes.
 
@@ -248,7 +248,7 @@ Usando la propiedad del cociente: $\log M - \log N = \log(M/N)$. En este caso, $
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante en Estelí utiliza la propiedad de la potencia para bajar exponentes.
 
@@ -267,7 +267,7 @@ Esta propiedad es crucial para resolver ecuaciones exponenciales, ya que permite
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Cambio de base para usar una calculadora científica.
 
@@ -286,7 +286,7 @@ Esta fórmula permite calcular logaritmos en cualquier base (como base 2 o base 
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** El cálculo del pH del agua en la Laguna de Apoyo, Nicaragua.
 
@@ -305,7 +305,7 @@ Despejando la ecuación: $\log[H^+] = -pH \Rightarrow [H^+] = 10^{-pH}$. Para un
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Gráfica de una función logarítmica con base fraccionaria.
 
@@ -324,7 +324,7 @@ Si $b > 1$, el logaritmo crece. Si $0 < b < 1$, el logaritmo decrece. En este ca
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Resolución de una ecuación logarítmica simple.
 
@@ -343,7 +343,7 @@ Para resolver ecuaciones logarítmicas, transformamos la expresión a su forma e
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Un problema de intensidad de sonido medido en decibelios en un concierto en Managua.
 
@@ -362,7 +362,7 @@ La escala de decibelios es logarítmica. Un aumento de un factor de 10 en la int
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Análisis del dominio de una función logarítmica compuesta.
 
@@ -381,7 +381,7 @@ El dominio se halla resolviendo la inecuación del argumento $> 0$. En este caso
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre logaritmos anidados.
 

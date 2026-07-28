@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en San Cristóbal repasa leyes de exponentes.
 
@@ -41,7 +41,7 @@ Definición básica de la ley de potencia cero.
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.85
 **Contexto:** En Santiago se explica cómo pasar de raíz a potencia.
 
@@ -62,7 +62,7 @@ Notación fundamental de exponentes racionales.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante simplifica $2^3 \cdot 2^4$.
 
@@ -83,7 +83,7 @@ Propiedad fundamental del producto de potencias con bases iguales.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en Baní maneja el término $(x^2)^3$.
 
@@ -104,7 +104,7 @@ Aplicación de la ley $(a^m)^n = a^{m \cdot n}$.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Propiedad de raíz de un producto en Higüey.
 
@@ -125,7 +125,7 @@ Propiedad distributiva de la radicación respecto a la multiplicación.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** Análisis de raíces negativas en los reales.
 
@@ -146,7 +146,7 @@ Limitación de los reales ante raíces de índice par y radicando negativo.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Un agrimensor en San Francisco de Macorís simplifica $\sqrt{50}$.
 
@@ -167,7 +167,7 @@ Extracción de factores de un radical mediante descomposición.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Exponentes negativos en La Romana.
 
@@ -188,7 +188,7 @@ Definición de exponente negativo como recíproco.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Volumen de cubo con lado $L = 2x^2$ en Puerto Plata.
 
@@ -209,7 +209,7 @@ Potencia de un producto y potencia de potencia combinadas.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.60
 **Contexto:** Racionalizar $1 / \sqrt{3}$ en San Juan.
 
@@ -230,7 +230,7 @@ Procedimiento para eliminar raíces del denominador.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Suma de radicales en Moca.
 
@@ -251,7 +251,7 @@ Regla de semejanza para operaciones con radicales.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.55
 **Contexto:** Simplificación de $(1/8)^{-1/3}$ en Barahona.
 
@@ -272,7 +272,7 @@ Uso de inverso y raíz cúbica por exponente fraccionario.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.50
 **Contexto:** Suma $\sqrt{12} + \sqrt{27}$ en Santo Domingo.
 
@@ -293,7 +293,7 @@ Conversión a radicales semejantes antes de la adición.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Validez de $(-2)^x$ en reales.
 
@@ -314,7 +314,7 @@ Relación entre exponentes fraccionarios y raíces pares de negativos.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Operación $\frac{(2^3 \cdot 2^{-1})^2}{2^2}$ en Santiago.
 
@@ -335,7 +335,7 @@ Encadenamiento de leyes de exponentes.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.40
 **Contexto:** Racionalizar $1 / (\sqrt{5} - 2)$.
 
@@ -356,7 +356,7 @@ Uso del conjugado para eliminar raíces en denominadores binomios.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Igualdad $\sqrt{x^2 + y^2} = x + y$.
 
@@ -377,7 +377,7 @@ Desmentir el error común de la linealidad de la raíz cuadrada.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Comparar $2^{60}$, $3^{40}$, $5^{30}$, $6^{20}$.
 
@@ -398,7 +398,7 @@ Comparación de potencias mediante reducción a exponente común.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Radical infinito $x = \sqrt{2 + \sqrt{2 + ...}}$ en Santiago.
 
@@ -419,7 +419,7 @@ Resolución de expresiones recursivas mediante ecuaciones cuadráticas.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Tetración $x = \sqrt{2}^{\sqrt{2}^{...}}$.
 

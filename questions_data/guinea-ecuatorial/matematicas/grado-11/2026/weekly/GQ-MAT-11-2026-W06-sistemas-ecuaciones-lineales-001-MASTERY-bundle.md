@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en el Colegio Nacional de Malabo repasa los conceptos sobre sistemas de ecuaciones.
 
@@ -39,7 +39,7 @@ Cada ecuacion lineal en un sistema de $2 \times 2$ representa una recta en el pl
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Bata explica los diferentes metodos algebraicos para resolver sistemas.
 
@@ -58,7 +58,7 @@ Existen varios metodos para resolver sistemas lineales: sustitucion, igualacion,
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un comerciante en Ebebiyin vende arroz y azucar. Representa sus ventas con el sistema: $x + y = 10$ y $x - y = 2$.
 
@@ -77,7 +77,7 @@ Este sistema es ideal para el metodo de reduccion. Al sumar ambas ecuaciones, la
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante observa dos rectas paralelas graficadas en su cuaderno y se pregunta sobre su sistema de ecuaciones.
 
@@ -96,7 +96,7 @@ Un sistema sin solucion se llama "Sistema Incompatible". Graficamente, esto corr
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un tecnico en Malabo debe elegir el metodo mas eficiente para resolver: $y = 2x + 1$ y $3x + 2y = 16$.
 
@@ -115,7 +115,7 @@ El metodo de sustitucion es preferible cuando una de las incognitas ya esta desp
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un granjero en Mongomo tiene gallinas y cerdos. En total hay 15 cabezas y 40 patas.
 
@@ -134,7 +134,7 @@ Este es un problema clasico de sistemas de ecuaciones. La primera ecuacion repre
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante en Annobon resuelve el sistema $2x + 3y = 12$ y $x - y = 1$ mediante el metodo de igualacion.
 
@@ -153,7 +153,7 @@ Al despejar $x$ en la segunda ecuacion ($x = y + 1$) y sustituir en la primera: 
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En un analisis de mercado en Luba, se encuentra que $2x + y = 20$ y $x + y = 15$.
 
@@ -172,7 +172,7 @@ Restar directamente las ecuaciones es un atajo del metodo de reduccion muy util 
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong resuelve $x + 2y = 8$ y $x = y + 2$.
 
@@ -191,7 +191,7 @@ Sustituimos $x = y + 2$ en la primera ecuacion: $(y + 2) + 2y = 8 \rightarrow 3y
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo muestra un sistema donde $x + y = 5$ y $x + y = 7$.
 
@@ -210,7 +210,7 @@ Un sistema incompatible ocurre cuando las condiciones son mutuamente excluyentes
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en el puerto de Malabo analiza dos flujos de carga: $3x + 2y = 18$ y $5x - 2y = 14$.
 
@@ -229,7 +229,7 @@ El metodo de reduccion es muy eficiente cuando los coeficientes de una de las va
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un analista en Ciudad de la Paz estudia la oferta y demanda de un producto: $P = 50 - 2Q$ y $P = 10 + 3Q$.
 
@@ -248,7 +248,7 @@ El punto de equilibrio en economia se halla resolviendo un sistema de ecuaciones
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En la UNGE se discute la clasificacion de sistemas. Se tiene el sistema: $x + y = 5$ y $2x + 2y = 10$.
 
@@ -267,7 +267,7 @@ Cuando una ecuacion de un sistema es multiplo de la otra, el sistema tiene infin
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante en Evinayong resuelve un sistema de $3 \times 3$ mediante sustitucion progresiva.
 
@@ -286,7 +286,7 @@ Aunque es un sistema de tres variables, la estructura permite una resolucion rap
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Se plantea el sistema $\frac{x}{2} + \frac{y}{3} = 4$ y $x + y = 10$.
 
@@ -305,7 +305,7 @@ Multiplicamos la primera ecuacion por el mcm (6) para obtener $3x + 2y = 24$. Us
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Bata se usa el metodo grafico para aproximar la solucion de $y = x + 1$ y $y = -x + 5$.
 
@@ -324,7 +324,7 @@ Igualando las expresiones para $y$: $x + 1 = -x + 5 \rightarrow 2x = 4 \rightarr
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Se analiza el determinante de un sistema de $2 \times 2$ para predecir su comportamiento: $ax + by = e$ y $cx + dy = f$.
 
@@ -343,7 +343,7 @@ El determinante de la matriz de coeficientes es una herramienta poderosa. Si es 
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Un sistema de riego en Guinea Ecuatorial se controla con las ecuaciones $x + ky = 4$ y $2x + 4y = 8$.
 
@@ -362,7 +362,7 @@ Para que haya infinitas soluciones, los coeficientes de las variables y el termi
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante avanzado utiliza la Regla de Cramer para resolver: $x + 2y = 5$ y $3x - y = 1$.
 
@@ -381,7 +381,7 @@ El determinante principal se calcula con los coeficientes de las incognitas: $\d
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un problema de mezcla: En una refineria en Malabo se mezclan dos tipos de crudo, uno con $2\%$ de azufre y otro con $5\%$, para obtener 100 barriles con $3\%$ de azufre.
 

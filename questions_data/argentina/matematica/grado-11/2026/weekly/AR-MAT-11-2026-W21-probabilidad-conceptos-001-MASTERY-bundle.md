@@ -28,7 +28,7 @@ Este bundle aborda los conceptos fundamentales de probabilidad, incluyendo exper
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Juego de azar en una feria barrial.
 **Expected_Success:** 0.85
 
@@ -51,7 +51,7 @@ El espacio muestral es el conjunto de todos los resultados posibles de un experi
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Juego de cartas típico argentino (Truco).
 **Expected_Success:** 0.88
 
@@ -74,7 +74,7 @@ La Ley de Laplace establece que la probabilidad de un evento es el cociente entr
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Sorteo de lotería oficial.
 **Expected_Success:** 0.82
 
@@ -97,7 +97,7 @@ En la escala de probabilidad, los valores oscilan entre 0 y 1. Un evento con pro
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Situación cotidiana de elección al azar.
 **Expected_Success:** 0.80
 
@@ -120,7 +120,7 @@ Para calcular la probabilidad del complemento o de la unión de eventos disjunto
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Pronóstico meteorológico en ciudad turística.
 **Expected_Success:** 0.75
 
@@ -143,7 +143,7 @@ La probabilidad de un evento complementario A' se calcula como P(A') = 1 - P(A).
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Lanzamiento de dados en juego de mesa.
 **Expected_Success:** 0.72
 
@@ -166,7 +166,7 @@ Al realizar dos experimentos independientes de forma sucesiva o simultánea, el 
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Mazo de cartas de póker.
 **Expected_Success:** 0.70
 
@@ -189,7 +189,7 @@ Para la unión de dos eventos (A o B), usamos la fórmula: P(A U B) = P(A) + P(B
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Encuesta deportiva escolar.
 **Expected_Success:** 0.74
 
@@ -212,7 +212,7 @@ El término "al menos uno" se refiere a la unión de los eventos. Como los event
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Colección de monedas argentinas.
 **Expected_Success:** 0.78
 
@@ -235,7 +235,7 @@ Identificamos los casos totales: 4 valores x 4 monedas = 16 monedas. Los casos f
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Lanzamiento de moneda local.
 **Expected_Success:** 0.82
 
@@ -258,7 +258,7 @@ La probabilidad frecuencial se obtiene dividiendo la cantidad de veces que ocurr
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Patentes de vehículos actuales en Argentina.
 **Expected_Success:** 0.65
 
@@ -281,7 +281,7 @@ Asumiendo que cada letra tiene la misma probabilidad de aparecer, aplicamos Lapl
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de calidad industrial.
 **Expected_Success:** 0.62
 
@@ -304,7 +304,7 @@ Como la selección es con reposición, los eventos son independientes. La probab
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Examen universitario.
 **Expected_Success:** 0.60
 
@@ -327,7 +327,7 @@ Cada pregunta es un evento independiente con P(Éxito) = 1/3. La probabilidad de
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Lanzamiento de múltiples monedas.
 **Expected_Success:** 0.58
 
@@ -350,7 +350,7 @@ El espacio muestral tiene 8 elementos. Los arreglos que cumplen "2 caras y 1 cru
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Rifa barrial con familiares.
 **Expected_Success:** 0.68
 
@@ -373,7 +373,7 @@ Como solo hay un premio, no pueden ganar ambos al mismo tiempo. Son eventos disj
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v16
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Propiedades de números y probabilidad.
 **Expected_Success:** 0.64
 
@@ -396,7 +396,7 @@ Los números primos menores o iguales a 6 son 2, 3 y 5. Son 3 casos favorables d
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Seguridad informática y fallos de sistema.
 **Expected_Success:** 0.52
 
@@ -419,7 +419,7 @@ Buscamos la unión de fallos. Como son independientes, la probabilidad de que am
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Probabilidad geométrica.
 **Expected_Success:** 0.48
 
@@ -442,7 +442,7 @@ En probabilidad geométrica, la probabilidad es el cociente de las áreas. Área
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Desayuno típico argentino con facturas.
 **Expected_Success:** 0.50
 
@@ -465,7 +465,7 @@ Al no haber reposición, los eventos son dependientes. La probabilidad conjunta 
 
 **ID:** AR-MAT-11-2026-W21-probabilidad-conceptos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Problema histórico de probabilidad.
 **Expected_Success:** 0.40
 

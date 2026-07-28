@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la Escuela Politécnica Nacional (EPN) revisa las técnicas para integrar productos de funciones.
 
@@ -51,7 +51,7 @@ La integración por partes es una técnica basada en la inversión de la regla d
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Elección de variables en integración por partes.
 
@@ -76,7 +76,7 @@ La regla LIATE (Logarítmicas, Inversas, Algebráicas, Trigonométricas, Exponen
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Integración de un producto simple de un polinomio y una exponencial.
 
@@ -101,7 +101,7 @@ Aplicación básica de la integración por partes donde un factor polinómico se
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Integral del logaritmo natural.
 
@@ -130,7 +130,7 @@ Uso de la integración por partes para encontrar la antiderivada de funciones cu
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero ambiental en el Parque Nacional Yasuní analiza la degradación de un compuesto químico mediante fracciones parciales.
 
@@ -155,7 +155,7 @@ El método de fracciones parciales es una técnica algebraica que simplifica la 
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Descomposición básica de factores lineales.
 
@@ -180,7 +180,7 @@ Identificación de la estructura de la suma de fracciones parciales para denomin
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Integral por sustitución trigonométrica.
 
@@ -205,7 +205,7 @@ Selección del cambio de variable trigonométrico correcto basado en la estructu
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un sensor de flujo en una central hidroeléctrica en los Andes ecuatorianos mide una tasa dada por $f(x) = \frac{x+1}{x^2-1}$ para $x > 1$.
 
@@ -230,7 +230,7 @@ Importancia de la simplificación algebraica previa a la aplicación de métodos
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Integración por partes aplicada dos veces (proceso cíclico o de reducción).
 
@@ -255,7 +255,7 @@ Comprensión del proceso de reducción de orden en la integración por partes pa
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Identificación del método correcto.
 
@@ -284,7 +284,7 @@ Jerarquización de métodos: siempre se debe buscar una sustitución simple ante
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Un arquitecto en Quito diseña una cúpula cuya curva lateral sigue la función que resulta de integrar $f(x) = \frac{1}{x^2 - 1}$.
 
@@ -309,7 +309,7 @@ Aplicación de fracciones parciales para integrar funciones con denominadores cu
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Integración de potencias impares de seno y coseno.
 
@@ -334,7 +334,7 @@ Uso de identidades pitagóricas para preparar integrandos trigonométricos de po
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Integral de producto de funciones cíclicas (Exponencial x Trigonométrica).
 
@@ -359,7 +359,7 @@ Resolución de integrales "recurrentes" mediante el despeje algebraico del térm
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Fracciones parciales con factores lineales repetidos.
 
@@ -384,7 +384,7 @@ Reglas de descomposición para factores del denominador que aparecen con multipl
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Un modelo de crecimiento de peces en una laguna en Esmeraldas sigue una tasa $R(t) = \frac{100}{\sqrt{t^2+1}}$.
 
@@ -409,7 +409,7 @@ Identificación de sustituciones basadas en identidades trigonométricas fundame
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Integración por partes con una función inversa y un polinomio.
 
@@ -438,7 +438,7 @@ Priorización de funciones trascendentes inversas como $u$ en la integración po
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Integración de una función racional con denominador cuadrático irreducible.
 
@@ -463,7 +463,7 @@ Uso de la técnica de completar el cuadrado para transformar integrandos cuadrá
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Sustitución trigonométrica con cambio de límites (o retorno a variable original). Al resolver $\int \frac{1}{x^2\sqrt{x^2+4}} \, dx$ con $x=2\tan\theta$.
 
@@ -488,7 +488,7 @@ Uso de triángulos rectángulos para retornar a la variable original $x$ tras ap
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Integración de una función racional impropia.
 
@@ -513,7 +513,7 @@ Necesidad de realizar la división de polinomios cuando el grado del numerador e
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W17-metodos-de-integracion-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.15
 **Contexto:** Un problema de física teórica en la Politécnica Nacional sobre el trabajo realizado por una fuerza variable $F(x) = \frac{1}{(x^2+1)^2}$.
 

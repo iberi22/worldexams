@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -46,7 +46,7 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 ## Question 2 [D4]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -69,7 +69,7 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 ## Question 3 [D3]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -92,7 +92,7 @@ The word 'destination' is used to describe the place to which someone or somethi
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -115,7 +115,7 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -138,7 +138,7 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 ## Question 6 [D6]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -161,7 +161,7 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 ## Question 7 [D5]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -184,7 +184,7 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -207,7 +207,7 @@ The word 'sightseeing' is used to describe the activity of visiting places of in
 ## Question 9 [D5]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -230,7 +230,7 @@ The word 'souvenir' is used to describe a thing that is kept as a reminder of a 
 ## Question 10 [D6]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -253,7 +253,7 @@ The word 'delay' is used to describe a period of time by which something is late
 ## Question 11 [D7]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -276,7 +276,7 @@ The word 'check-in' is used to describe the act of reporting one's presence and 
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -299,7 +299,7 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 ## Question 13 [D7]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -322,7 +322,7 @@ The word 'currency' is used to describe a system of money in general use in a pa
 ## Question 14 [D8]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -345,7 +345,7 @@ The word 'guidebook' is used to describe a book of information about a place des
 ## Question 15 [D7]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -368,7 +368,7 @@ The word 'backpack' is used to describe a bag with shoulder straps that allow it
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -391,7 +391,7 @@ The word 'overseas' is used to describe in or to a foreign country, especially o
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -414,7 +414,7 @@ The word 'budget' is used to describe an estimate of income and expenditure for 
 ## Question 18 [D10]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -437,7 +437,7 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 ## Question 19 [D9]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 
@@ -460,7 +460,7 @@ The word 'vaccination' is used to describe treatment with a vaccine to produce i
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lexico
+**EJE:** Lexico
 **Expected_Success:** 0.80
 **Contexto:** Choose the correct English word for the given definition.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de bachillerato en la CDMX identifica las características de las ecuaciones de segundo grado.
 **Expected_Success:** 0.85
 
@@ -41,7 +41,7 @@ Una ecuación cuadrática o de segundo grado se caracteriza por tener la incógn
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto en Monterrey analiza la trayectoria de un proyectil que sigue una curva parabólica.
 **Expected_Success:** 0.82
 
@@ -62,7 +62,7 @@ Toda función cuadrática de la forma f(x) = ax² + bx + c genera una curva sim�
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en un examen en Guadalajara repasa la fórmula general para resolver ecuaciones de segundo grado.
 **Expected_Success:** 0.80
 
@@ -83,7 +83,7 @@ La expresión dentro de la raíz cuadrada en la fórmula general se denomina dis
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta una ecuación cuadrática incompleta pura para ser resuelta mentalmente.
 **Expected_Success:** 0.78
 
@@ -104,7 +104,7 @@ Para resolver x² - 49 = 0, despejamos x²: x² = 49. Al aplicar raíz cuadrada 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un agricultor en Sinaloa diseña un estanque rectangular donde el largo es el doble del ancho y el área es de 200 m².
 **Expected_Success:** 0.75
 
@@ -125,7 +125,7 @@ Sea x el ancho. El largo es 2x. El área es x \times 2x = 2x². Planteamos la ec
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere resolver una ecuación cuadrática por el método de factorización en un taller en Puebla.
 **Expected_Success:** 0.72
 
@@ -146,7 +146,7 @@ Buscamos dos números que multiplicados den 6 y sumados den -5. Esos números so
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en Querétaro analiza la cantidad de soluciones reales de una ecuación usando el discriminante.
 **Expected_Success:** 0.70
 
@@ -167,7 +167,7 @@ Calculamos el discriminante D = b² - 4ac. Aquí a=1, b=-4, c=4. D = (-4)² - 4(
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un proyectil en un experimento de física en Tlaxcala alcanza una altura h en el tiempo t según la fórmula h = -5t² + 20t.
 **Expected_Success:** 0.68
 
@@ -188,7 +188,7 @@ Igualamos h a cero: -5t² + 20t = 0. Factorizamos por término común: -5t(t - 4
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el comportamiento de una parábola según el signo de su coeficiente principal.
 **Expected_Success:** 0.65
 
@@ -209,7 +209,7 @@ El signo del coeficiente "a" determina la concavidad de la parábola. Si a < 0, 
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un taller de diseño en Hidalgo, se busca un número positivo tal que su cuadrado sea igual a ocho veces el mismo número.
 **Expected_Success:** 0.63
 
@@ -230,7 +230,7 @@ Planteamos la ecuación: x² = 8x. Movemos todos los términos a un lado: x² - 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la UNAM resuelve una ecuación cuadrática completa usando la fórmula general.
 **Expected_Success:** 0.60
 
@@ -251,7 +251,7 @@ Usamos la fórmula general con a=2, b=-7, c=3. Discriminante D = (-7)² - 4(2)(3
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea una situación de resolución de una ecuación cuadrática que modela el área de un terreno rectangular en la CDMX.
 **Expected_Success:** 0.58
 
@@ -272,7 +272,7 @@ Para resolver la ecuación x² - 6x - 16 = 0 por factorización, buscamos dos n�
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero en Monterrey simplifica una expresión que involucra el vértice de una parábola.
 **Expected_Success:** 0.55
 
@@ -293,7 +293,7 @@ La coordenada x del vértice de una parábola f(x) = ax² + bx + c se calcula me
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea una ecuación cuadrática incompleta mixta en un problema de lógica numérica.
 **Expected_Success:** 0.53
 
@@ -314,7 +314,7 @@ En una ecuación incompleta mixta (ax² + bx = 0), siempre factorizamos por tér
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en San Luis Potosí debe determinar el valor de k para que una ecuación tenga una única solución.
 **Expected_Success:** 0.50
 
@@ -335,7 +335,7 @@ Para que haya una sola solución, el discriminante debe ser cero: b² - 4ac = 0.
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza la suma y el producto de las raíces de una ecuación cuadrática (Propiedades de Vieta).
 **Expected_Success:** 0.48
 
@@ -356,7 +356,7 @@ Según las propiedades de las raíces de una ecuación cuadrática (Teorema de V
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador en una empresa de software en la CDMX modela el crecimiento de usuarios con una función que incluye términos cuadráticos.
 **Expected_Success:** 0.45
 
@@ -377,7 +377,7 @@ Hacemos un cambio de variable u = x². La ecuación se convierte en u² - 13u + 
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema complejo sobre el área de un marco alrededor de una fotografía en un estudio de Cancún.
 **Expected_Success:** 0.42
 
@@ -398,7 +398,7 @@ El marco rodea la foto por los cuatro costados. Si el ancho del marco es x, la n
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en el IPN resuelve una ecuación cuadrática con coeficientes imaginarios/complejos.
 **Expected_Success:** 0.38
 
@@ -419,7 +419,7 @@ Despejamos x²: x² = -25. Al extraer la raíz cuadrada, obtenemos x = ±√(-25
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere demostrar el dominio sobre la técnica de completar el trinomio cuadrado perfecto para resolver una ecuación.
 **Expected_Success:** 0.35
 

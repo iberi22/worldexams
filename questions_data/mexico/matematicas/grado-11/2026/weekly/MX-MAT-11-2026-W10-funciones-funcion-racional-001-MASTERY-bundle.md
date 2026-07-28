@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre **Funciones Racionales**, alineadas con 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Definición de función racional
+**EJE:** Definición de función racional
 **Expected_Success:** 0.90
 **Contexto:** En una clase de matemáticas en Colima, los estudiantes exploran funciones que se representan como el cociente de dos polinomios.
 
@@ -47,7 +47,7 @@ Una función racional es de la forma $f(x) = \frac{p(x)}{q(x)}$. Su comportamien
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Restricciones del dominio
+**EJE:** Restricciones del dominio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la Ciudad de México analiza la función $f(x) = \frac{1}{x}$. Sabe que no puede dividir entre cero.
 
@@ -68,7 +68,7 @@ En una función racional, el dominio está formado por todos los números reales
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Concepto de asíntota vertical
+**EJE:** Concepto de asíntota vertical
 **Expected_Success:** 0.88
 **Contexto:** Se estudia el comportamiento de una función cuando los valores de $x$ se acercan a un valor prohibido en el dominio.
 
@@ -89,7 +89,7 @@ Las asíntotas verticales son rectas de la forma $x = c$. Indican que cuando $x$
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Intersección con el eje Y
+**EJE:** Intersección con el eje Y
 **Expected_Success:** 0.82
 **Contexto:** Un analista químico en un laboratorio de Veracruz utiliza la función $C(x) = \frac{2x + 10}{x + 2}$ para medir la concentración de una sustancia.
 
@@ -110,7 +110,7 @@ Para cualquier función, la intersección con el eje $y$ se encuentra evaluando 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Determinación de asíntotas verticales
+**EJE:** Determinación de asíntotas verticales
 **Expected_Success:** 0.75
 **Contexto:** En un examen simulacro EXANI-II, se pide identificar las líneas divisorias de la función $f(x) = \frac{x + 4}{x^2 - 9}$.
 
@@ -131,7 +131,7 @@ Las asíntotas verticales se localizan encontrando los ceros del denominador que
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Asíntotas horizontales (Grados iguales)
+**EJE:** Asíntotas horizontales (Grados iguales)
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante de ingeniería en el IPN analiza el comportamiento a largo plazo de un circuito eléctrico modelado por $V(t) = \frac{6t - 2}{2t + 5}$.
 
@@ -152,7 +152,7 @@ Si el grado del numerador es igual al grado del denominador, la asíntota horizo
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Intersecciones con el eje X
+**EJE:** Intersecciones con el eje X
 **Expected_Success:** 0.70
 **Contexto:** En un curso de cálculo en Michoacán, se pide hallar los puntos donde la gráfica de $g(x) = \frac{x^2 - 16}{x + 5}$ cruza el eje horizontal.
 
@@ -173,7 +173,7 @@ Las intersecciones con el eje $x$ de una función racional ocurren en los valore
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Asíntota horizontal (Grado denominador mayor)
+**EJE:** Asíntota horizontal (Grado denominador mayor)
 **Expected_Success:** 0.78
 **Contexto:** Se observa la función $f(x) = \frac{10}{x^2 + 1}$. Un estudiante nota que para valores muy grandes de $x$, el resultado de la función es casi cero.
 
@@ -194,7 +194,7 @@ Cuando el grado del polinomio del denominador es mayor que el grado del polinomi
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Evaluación en situaciones reales
+**EJE:** Evaluación en situaciones reales
 **Expected_Success:** 0.74
 **Contexto:** El costo promedio de producir $n$ libretas en una papelería de Guadalajara es $P(n) = \frac{5n + 1000}{n}$, donde 1000 representa el costo fijo y 5 el costo por libreta.
 
@@ -215,7 +215,7 @@ Las funciones de costo promedio suelen ser racionales. Evaluar para un valor $n$
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Transformaciones de la función recíproca
+**EJE:** Transformaciones de la función recíproca
 **Expected_Success:** 0.68
 **Contexto:** Partiendo de la función básica $f(x) = \frac{1}{x}$, un estudiante aplica transformaciones para obtener $g(x) = \frac{1}{x - 5} + 2$.
 
@@ -236,7 +236,7 @@ En la forma $y = \frac{a}{x - h} + k$, el valor de $h$ desplaza la asíntota ver
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Discontinuidades removibles (Huecos)
+**EJE:** Discontinuidades removibles (Huecos)
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante analiza la función $f(x) = \frac{x^2 - 1}{x - 1}$. Nota que el numerador puede factorizarse.
 
@@ -257,7 +257,7 @@ Si un factor $(x - c)$ se encuentra tanto en el numerador como en el denominador
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Identificación de funciones racionales complejas
+**EJE:** Identificación de funciones racionales complejas
 **Expected_Success:** 0.58
 **Contexto:** Se presenta una gráfica con dos asíntotas verticales en $x = 1$ y $x = -1$, y una horizontal en $y = 0$.
 
@@ -278,7 +278,7 @@ Para tener asíntotas en \$1$ y $-1$, el denominador debe contener los factores 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Signo de la función en intervalos
+**EJE:** Signo de la función en intervalos
 **Expected_Success:** 0.55
 **Contexto:** Un investigador estudia el signo de la función $f(x) = \frac{x - 3}{x + 2}$.
 
@@ -299,7 +299,7 @@ El signo cambia en los valores que anulan al numerador (\$3$) o al denominador (
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Asíntota oblicua (Concepto)
+**EJE:** Asíntota oblicua (Concepto)
 **Expected_Success:** 0.60
 **Contexto:** En un curso avanzado en Nuevo León, se analiza la función $h(x) = \frac{x^2 + 1}{x - 1}$.
 
@@ -320,7 +320,7 @@ Las asíntotas oblicuas ocurren cuando el grado del numerador ($n$) es exactamen
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Dominio con expresiones cuadráticas en el denominador
+**EJE:** Dominio con expresiones cuadráticas en el denominador
 **Expected_Success:** 0.56
 **Contexto:** Se presenta la función $k(x) = \frac{5}{x^2 + 4}$.
 
@@ -341,7 +341,7 @@ No todas las funciones racionales tienen asíntotas verticales. Si el denominado
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Simplificación de expresiones racionales
+**EJE:** Simplificación de expresiones racionales
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante de preparatoria técnica debe simplificar $\frac{2x^2 - 8}{x + 2}$ para facilitar su graficación.
 
@@ -362,7 +362,7 @@ Simplificar funciones racionales requiere factorizar tanto el numerador como el 
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Modelado de velocidad promedio
+**EJE:** Modelado de velocidad promedio
 **Expected_Success:** 0.45
 **Contexto:** Un mensajero viaja de CDMX a Puebla (120 km) a una velocidad $v$ y regresa a una velocidad $v + 20$.
 
@@ -383,7 +383,7 @@ En problemas de tiempo-distancia-velocidad, si hay diferentes tramos, el tiempo 
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Construcción de funciones con condiciones dadas
+**EJE:** Construcción de funciones con condiciones dadas
 **Expected_Success:** 0.42
 **Contexto:** Se requiere diseñar una función racional con asíntotas verticales en $x = 2$ y $x = 4$, y una asíntota horizontal en $y = 3$.
 
@@ -404,7 +404,7 @@ Para controlar las asíntotas verticales usamos los factores del denominador. Pa
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Análisis de límites infinitos
+**EJE:** Análisis de límites infinitos
 **Expected_Success:** 0.40
 **Contexto:** Se analiza el comportamiento de $f(x) = \frac{5x - 1}{x - 2}$ cuando $x$ se acerca a 2 por la derecha ($x \to 2^+$).
 
@@ -425,7 +425,7 @@ El análisis de límites laterales en las asíntotas verticales permite determin
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Análisis de rango en funciones racionales simples
+**EJE:** Análisis de rango en funciones racionales simples
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante busca el rango de la función $f(x) = \frac{4x + 1}{x - 3}$. Sabe que el rango suele ser todo $\mathbb{R}$ excepto el valor de la asíntota horizontal.
 

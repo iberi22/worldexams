@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX identifica las características de una magnitud física vectorial frente a una escalar.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ A diferencia de las magnitudes escalares (que solo tienen valor numérico), las 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta la representación gráfica de un vector en un plano cartesiano.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ El módulo representa la intensidad de la magnitud vectorial. Gráficamente, ent
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara aprende a nombrar los componentes de un vector en el sistema de coordenadas.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ Cualquier vector en el plano puede descomponerse en dos vectores perpendiculares
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto utiliza el método gráfico para sumar desplazamientos en un plano de construcción.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ El método del polígono es una técnica gráfica secuencial. Al encadenar los v
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero civil calcula la fuerza neta sobre un soporte usando componentes analíticos.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ La suma analítica de vectores se realiza componente a componente: se suman las 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico en aviación necesita calcular el cambio de posición de una aeronave (vector resta).
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Al igual que la suma, la resta de vectores se hace componente por componente. Re
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un diseñador de videojuegos escala el movimiento de un personaje mediante la multiplicación por un escalar.
 **Expected_Success:** 0.80
 
@@ -175,7 +175,7 @@ La multiplicación de un vector por un escalar (un número real) afecta a todas 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de física en Monterrey calcula la distancia recorrida (módulo del vector desplazamiento).
 **Expected_Success:** 0.65
 
@@ -197,7 +197,7 @@ El módulo de un vector se calcula mediante la fórmula $|\vec{v}| = \sqrt{x^2 +
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico mide el ángulo de inclinación de un panel solar respecto al eje horizontal.
 **Expected_Success:** 0.60
 
@@ -219,7 +219,7 @@ La dirección de un vector se halla con la función arcotangente: $\theta = \arc
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un curso de navegación, se pide encontrar el vector unitario que indica una ruta específica.
 **Expected_Success:** 0.55
 
@@ -241,7 +241,7 @@ Un vector unitario se obtiene dividiendo cada componente del vector original ent
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en el IPN descompone una fuerza de tensión que actúa con un ángulo específico.
 **Expected_Success:** 0.50
 
@@ -263,7 +263,7 @@ Para encontrar las componentes de un vector a partir de su módulo y ángulo, us
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un físico en la UNAM calcula el trabajo realizado por una fuerza usando el producto escalar.
 **Expected_Success:** 0.45
 
@@ -285,7 +285,7 @@ El producto escalar o producto punto se define como la suma de los productos de 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere verificar si dos fuerzas aplicadas a un objeto son perpendiculares entre sí.
 **Expected_Success:** 0.40
 
@@ -307,7 +307,7 @@ Dos vectores son ortogonales si y solo si su producto escalar es igual a cero. E
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante analiza la propiedad conmutativa en las operaciones vectoriales.
 **Expected_Success:** 0.50
 
@@ -329,7 +329,7 @@ La resta no es conmutativa. Gráficamente, $\vec{a} - \vec{b}$ es el vector que 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador gráfico calcula el ángulo entre dos vectores de dirección para efectos de iluminación.
 **Expected_Success:** 0.35
 
@@ -351,7 +351,7 @@ El coseno del ángulo entre dos vectores se obtiene dividiendo su producto escal
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el efecto de un escalar negativo sobre un vector de velocidad en un simulador.
 **Expected_Success:** 0.45
 
@@ -373,7 +373,7 @@ Un escalar $k$ afecta la magnitud según su valor absoluto $|k|$. Si $k > 0$, el
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en balística en la Ciudad de México analiza la trayectoria de un proyectil bajo la influencia de vientos cruzados.
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Cuando dos vectores son perpendiculares, su suma se resuelve encontrando la hipo
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático demuestra propiedades avanzadas del producto escalar en el espacio vectorial.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ Esta igualdad solo ocurre cuando el coseno del ángulo entre ellos es 1. Esto si
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero de estructuras calcula el ángulo exacto para equilibrar tres fuerzas concurrentes.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ Para que un sistema esté en equilibrio, la suma de todos los vectores debe ser 
 
 **ID:** MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante avanzado utiliza la ley de los cosenos para sumar vectores que no son perpendiculares.
 **Expected_Success:** 0.15
 

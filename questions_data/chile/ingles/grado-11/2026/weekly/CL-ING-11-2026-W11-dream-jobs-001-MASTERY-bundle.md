@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Discussing high-level career goals.
 
@@ -45,7 +45,7 @@ A calling is a strong urge toward a particular way of life or career; a vocation
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Hypothetical career path.
 
@@ -65,7 +65,7 @@ The second conditional 'if + past simple, would + verb' is used to talk about an
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Reflecting on a past career decision.
 
@@ -85,7 +85,7 @@ The structure 'wish + past perfect' is used to express regret about a past actio
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about professional fulfillment.
 
@@ -105,7 +105,7 @@ Job satisfaction is often linked to a sense of purpose and the ability to utiliz
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "ideal" job.
 
@@ -125,7 +125,7 @@ The concept of a "dream job" is subjective, as what one person finds fulfilling,
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a creative career.
 
@@ -145,7 +145,7 @@ An architect is a person who designs buildings and in many cases also supervises
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a future ambition.
 
@@ -165,7 +165,7 @@ The perfect infinitive 'to have established' indicates that the goal will be a c
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Describing a difficult but rewarding career.
 
@@ -185,7 +185,7 @@ Working in emergency medicine can be incredibly rewarding, although it is often 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting someone's career plans.
 
@@ -205,7 +205,7 @@ In reported speech, we change 'is going to' to 'was going to' when the reporting
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "hustle culture".
 
@@ -225,7 +225,7 @@ The article suggests that the obsession with "hustle culture" can lead people to
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Job application process.
 
@@ -245,7 +245,7 @@ A cover letter is a document sent with your resume to provide additional informa
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a necessary skill for many dream jobs.
 
@@ -265,7 +265,7 @@ The infinitive 'to master' is used to express the goal of the practice.
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing career paths.
 
@@ -285,7 +285,7 @@ Many people choose a career path that aligns with their personal values and beli
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Mixed conditional about career preparation.
 
@@ -305,7 +305,7 @@ The mixed conditional (if + past perfect, would + verb) connects a past hypothet
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on career changes.
 
@@ -325,7 +325,7 @@ The article concludes that it is never too late to pivot and pursue a new career
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of an entrepreneur.
 
@@ -345,7 +345,7 @@ An entrepreneur is a person who sets up a business, taking on financial risks in
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Recommendation for professional development.
 
@@ -365,7 +365,7 @@ The base form 'attend' is used in the subjunctive mood after verbs like 'recomme
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Describing a visionary professional.
 
@@ -385,7 +385,7 @@ A visionary leader is someone who has clear ideas about what should happen or be
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long-term professional pursuit.
 
@@ -405,7 +405,7 @@ The future perfect continuous 'will have been working' describes the duration of
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on success.
 

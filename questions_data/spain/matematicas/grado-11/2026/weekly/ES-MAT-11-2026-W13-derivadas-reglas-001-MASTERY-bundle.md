@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Bachillerato en Valencia introduce el concepto de derivada como la tasa de variación instantánea.
 
@@ -41,7 +41,7 @@ La derivada representa la pendiente de la recta tangente a la curva en un punto.
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En un instituto de Madrid, se aprenden las reglas básicas de derivación de funciones elementales.
 
@@ -62,7 +62,7 @@ La regla de la potencia es la base para derivar polinomios. Es válida para cual
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Se analiza la derivada de una función constante.
 
@@ -83,7 +83,7 @@ Geométricamente, una función constante es una línea horizontal cuya pendiente
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante estudia la relación entre la derivabilidad y la continuidad de una función.
 
@@ -104,7 +104,7 @@ El teorema fundamental establece que la derivabilidad implica continuidad. Sin e
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En una clase de Matemáticas I en Bilbao, se practica la regla del producto.
 
@@ -125,7 +125,7 @@ La regla del producto establece que la derivada de un producto es la derivada de
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante en Zaragoza debe hallar la derivada de una función racional.
 
@@ -146,7 +146,7 @@ La regla del cociente es fundamental para derivar funciones racionales. El signo
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se introduce la Regla de la Cadena para derivar funciones compuestas.
 
@@ -167,7 +167,7 @@ La regla de la cadena establece que la derivada de $f(g(x))$ es $f'(g(x)) \cdot 
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la función exponencial $f(x) = e^x$.
 
@@ -188,7 +188,7 @@ La función exponencial de base $e$ es la única función (salvo el cero) que es
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero en Sevilla calcula la tasa de cambio de un ángulo.
 
@@ -209,7 +209,7 @@ La derivada del logaritmo neperiano de una función es la derivada de la funció
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Barcelona halla la recta tangente a una curva.
 
@@ -230,7 +230,7 @@ La pendiente de la recta tangente en un punto coincide exactamente con el valor 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Se estudia la derivada de funciones trigonométricas inversas.
 
@@ -251,7 +251,7 @@ Las derivadas de las funciones trigonométricas inversas son fundamentales para 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante analiza la derivabilidad de la función $f(x) = |x-2|$ en el punto $x = 2$.
 
@@ -272,7 +272,7 @@ Para que una función sea derivable, el límite del cociente incremental debe ex
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un matemático en Asturias halla la segunda derivada de una función.
 
@@ -293,7 +293,7 @@ Las derivadas de las funciones seno y coseno son cíclicas cada cuatro órdenes.
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un físico en Valencia estudia el movimiento de una partícula cuya posición viene dada por $s(t) = t^3 - 6t^2 + 9t$.
 
@@ -314,7 +314,7 @@ La velocidad es la derivada de la posición respecto al tiempo. Hallar cuándo e
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se utiliza la derivación logarítmica para funciones complejas.
 
@@ -335,7 +335,7 @@ Cuando tanto la base como el exponente dependen de $x$, se debe transformar la f
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante estudia la aproximación lineal de una función.
 
@@ -356,7 +356,7 @@ La diferencial de una función permite realizar estimaciones de valores cercanos
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga optimiza una función que incluye raíces y potencias.
 
@@ -377,7 +377,7 @@ Este tipo de derivadas requiere un manejo algebraico preciso de los exponentes f
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Un estudiante de 2º de Bachillerato estudia la regla de L'Hôpital para límites.
 
@@ -398,7 +398,7 @@ La regla de L'Hôpital conecta el cálculo de límites con el cálculo diferenci
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador de videojuegos analiza la trayectoria de un proyectil.
 
@@ -419,7 +419,7 @@ Las funciones cuya derivada es proporcional a la función misma son las exponenc
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre la interpretación geométrica de la derivada segunda.
 

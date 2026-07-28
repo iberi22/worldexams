@@ -28,7 +28,7 @@ Este bundle introduce los conceptos de estimación puntual y por intervalos, niv
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Encuestas de opinión pública.
 **Expected_Success:** 0.85
 
@@ -51,7 +51,7 @@ Un intervalo de confianza se expresa como (Estimación ± Margen de Error). Es e
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación de niveles de confianza.
 **Expected_Success:** 0.82
 
@@ -74,7 +74,7 @@ El nivel de confianza (1-α) representa la proporción de intervalos que, constr
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Parámetros de construcción de intervalos.
 **Expected_Success:** 0.88
 
@@ -97,7 +97,7 @@ Para un nivel de confianza del 95%, el área central bajo la curva normal es 0,9
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estimación puntual vs por intervalos.
 **Expected_Success:** 0.80
 
@@ -120,7 +120,7 @@ La estimación puntual utiliza un estadístico muestral (como el promedio x̄) p
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Relación entre muestra y precisión.
 **Expected_Success:** 0.75
 
@@ -143,7 +143,7 @@ El margen de error disminuye al aumentar el tamaño de la muestra siguiendo una 
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Compromiso entre confianza y precisión.
 **Expected_Success:** 0.70
 
@@ -170,7 +170,7 @@ Existe una relación inversa entre precisión y confianza. Si queremos estar má
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estimación de media en control de peso.
 **Expected_Success:** 0.72
 
@@ -193,7 +193,7 @@ E = 1,96 * (10 / 10) = 1,96. Esto significa que tenemos un 95% de confianza en q
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Proporciones en encuestas sociales.
 **Expected_Success:** 0.74
 
@@ -216,7 +216,7 @@ El error estándar de una proporción mide la variabilidad esperada de p entre d
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Investigación forestal.
 **Expected_Success:** 0.78
 
@@ -239,7 +239,7 @@ Debido a la simetría del intervalo de confianza para la media, el estimador pun
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Consumo en mercados locales.
 **Expected_Success:** 0.72
 
@@ -262,7 +262,7 @@ Como el margen de error es inversamente proporcional a la raíz de n, reducir el
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Muestras pequeñas y distribución t.
 **Expected_Success:** 0.65
 
@@ -285,7 +285,7 @@ La distribución t de Student se diseñó específicamente para realizar inferen
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cálculo de tamaño de muestra para proporciones.
 **Expected_Success:** 0.60
 
@@ -308,7 +308,7 @@ Aplicamos la fórmula de tamaño muestral para una proporción. El valor de 384 
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación de resultados electorales ajustados.
 **Expected_Success:** 0.62
 
@@ -331,7 +331,7 @@ En un empate técnico, estadísticamente no se puede afirmar que un candidato es
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v14
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Comparación de intervalos de diferente confianza.
 **Expected_Success:** 0.68
 
@@ -354,7 +354,7 @@ Al aumentar el nivel de confianza, el multiplicador estadístico aumenta, lo que
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Economía agraria.
 **Expected_Success:** 0.64
 
@@ -377,7 +377,7 @@ El margen de error es la mitad de la amplitud del intervalo (20/2 = 10). El erro
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cálculo de tamaño de muestra para medias.
 **Expected_Success:** 0.58
 
@@ -400,7 +400,7 @@ Aplicamos la fórmula para el tamaño de muestra de una media. Requiere conocer 
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Fundamentos teóricos de la inferencia.
 **Expected_Success:** 0.52
 
@@ -423,7 +423,7 @@ La teoría de los intervalos de confianza se basa en el comportamiento de los es
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Consistencia de estimadores.
 **Expected_Success:** 0.55
 
@@ -446,7 +446,7 @@ Al aumentar n, el error estándar disminuye, haciendo que el intervalo sea más 
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Rigor en el lenguaje estadístico.
 **Expected_Success:** 0.45
 
@@ -469,7 +469,7 @@ En estadística clásica (frecuentista), el parámetro es una constante. Por lo 
 
 **ID:** AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Compromiso entre sesgo y varianza.
 **Expected_Success:** 0.42
 

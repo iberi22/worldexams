@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en el Colegio Nacional Enrique Nvó Okenve de Malabo estudia la representacion algebraica de las funciones de primer grado.
 
@@ -39,7 +39,7 @@ Una funcion afin es una funcion polinómica de primer grado. Su representacion g
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Bata explica el significado geometrico de los coeficientes de la funcion lineal.
 
@@ -58,7 +58,7 @@ La pendiente $m$ determina si la funcion es creciente ($m > 0$), decreciente ($m
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un comerciante en Ebebiyin nota que sus ingresos siguen la funcion $I(x) = 2000x$, donde $x$ es el numero de articulos vendidos.
 
@@ -77,7 +77,7 @@ Aunque a menudo se usan como sinonimos, en rigor, una funcion lineal es la que p
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante identifica las caracteristicas de la funcion $f(x) = -3x + 5$ a partir de su ecuacion.
 
@@ -96,7 +96,7 @@ La ordenada en el origen $n$ es el valor de la funcion cuando $x = 0$. Graficame
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un tecnico en Malabo analiza el consumo de combustible de un generador: $C(t) = 0.5t + 2$, donde $t$ es el tiempo en horas y $C$ los litros.
 
@@ -115,7 +115,7 @@ En modelos lineales, la ordenada en el origen representa el valor de la variable
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en Mongomo quiere hallar la pendiente de una recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.
 
@@ -134,7 +134,7 @@ La pendiente se calcula como el cociente entre la variacion vertical (ordenadas)
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un topografo en Annobon determina que una rampa tiene una pendiente $m = -0.5$ y pasa por el punto $(0, 4)$.
 
@@ -153,7 +153,7 @@ Conocer la pendiente y el punto de corte con el eje Y permite escribir directame
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista en Malabo observa que la funcion $f(x) = 2x - 3$ aumenta sus valores a medida que $x$ crece.
 
@@ -172,7 +172,7 @@ El signo de la pendiente determina la monotonia de la funcion lineal. Si $m > 0$
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong resuelve la ecuacion $f(x) = 0$ para la funcion $f(x) = -2x + 10$.
 
@@ -191,7 +191,7 @@ El punto donde la funcion corta al eje X se halla igualando la expresion a cero.
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica como identificar si un punto pertenece a una recta.
 
@@ -210,7 +210,7 @@ Para verificar si un punto $(x, y)$ pertenece a la grafica de una funcion, susti
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en el puerto de Malabo analiza dos cintas transportadoras cuyas trayectorias son $f(x) = 2x + 1$ y $g(x) = 2x + 5$.
 
@@ -229,7 +229,7 @@ Dos rectas son paralelas si y solo si tienen la misma pendiente. Esto significa 
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un analista en Ciudad de la Paz quiere hallar el punto de corte con el eje X (la raiz) de la funcion $f(x) = 4x - 12$.
 
@@ -248,7 +248,7 @@ Para hallar el corte con el eje X, debemos igualar la funcion a cero ($f(x) = 0$
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En la UNGE se estudia la relacion entre dos rectas perpendiculares. Se tiene una recta con ecuacion $y = 3x - 1$.
 
@@ -267,7 +267,7 @@ Dos rectas son perpendiculares (forman un angulo de 90 grados) si sus pendientes
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante en Evinayong observa que una funcion lineal $f(x)$ cumple que $f(1) = 5$ y $f(2) = 7$.
 
@@ -286,7 +286,7 @@ Para hallar la ecuacion a partir de dos puntos $(x_1, y_1)$ y $(x_2, y_2)$, prim
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un analista en Luba estudia la funcion inversa de $f(x) = 2x - 4$.
 
@@ -305,7 +305,7 @@ La funcion inversa "deshace" la operacion de la funcion original. Para hallarla 
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Bata se determina que el coste de producir $x$ camisas es $C(x) = 500x + 1000$ Francos CFA.
 
@@ -324,7 +324,7 @@ En funciones de costo lineales, la pendiente representa el costo marginal, es de
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un analista financiero en Bata compara dos planes de telefonia. El Plan A cuesta $10$ Francos por minuto. El Plan B tiene un costo fijo de $1000$ Francos mas $5$ Francos por minuto.
 
@@ -343,7 +343,7 @@ Este es un problema clasico de comparacion de funciones afines. Igualamos las do
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se analiza el dominio y el recorrido (rango) de las funciones afines en el conjunto de los numeros reales.
 
@@ -362,7 +362,7 @@ Las funciones afines no constantes son funciones biyectivas de $\mathbb{R}$ en $
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante en Malabo estudia la composicion de funciones: $f(x) = 2x + 3$ y $g(x) = x - 1$.
 
@@ -381,7 +381,7 @@ La composicion de funciones $(f \circ g)(x)$ consiste en aplicar la funcion $f$ 
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un geólogo mide la temperatura del suelo en una mina de Guinea Ecuatorial. A nivel de superficie ($0$ m) es de $25^\circ C$, y aumenta $3^\circ C$ por cada $100$ metros de profundidad.
 

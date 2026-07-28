@@ -27,7 +27,7 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ## Question 1 [D3]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** En un mercado de Tegucigalpa, un comerciante vende sacos de café.
 
@@ -52,7 +52,7 @@ Para encontrar el peso total, multiplicamos el peso de un solo saco (45.5) por l
 ## Question 2 [D3]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.85
 **Contexto:** Una familia en San Pedro Sula está calculando el presupuesto para el consumo de energía eléctrica.
 
@@ -77,7 +77,7 @@ El costo total se obtiene multiplicando el consumo (280 kWh) por el precio unita
 ## Question 3 [D3]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante de Comayagua analiza la escala de un mapa de Honduras.
 
@@ -102,7 +102,7 @@ La escala 1:500,000 significa que 1 cm en el mapa son 500,000 cm en la realidad.
 ## Question 4 [D4]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Un agricultor en El Paraíso quiere cercar un terreno rectangular.
 
@@ -127,7 +127,7 @@ El perímetro de un rectángulo se calcula sumando dos veces el largo y dos vece
 ## Question 5 [D4]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.77
 **Contexto:** En una tienda de La Ceiba, se ofrece un descuento por temporada.
 
@@ -152,7 +152,7 @@ Primero calculamos el valor del descuento: 8,400 * 0.15 = 1,260. Luego restamos 
 ## Question 6 [D4]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Un laboratorio en Choluteca analiza el crecimiento de una población de bacterias.
 
@@ -177,7 +177,7 @@ Determinamos cuántas veces se duplica la población: 9 horas / 3 horas = 3 vece
 ## Question 7 [D5]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.72
 **Contexto:** Un inversionista analiza el interés simple en una cooperativa de ahorro en Juticalpa.
 
@@ -202,7 +202,7 @@ La fórmula del interés simple es I = P * r * t, donde P es el capital, r la ta
 ## Question 8 [D5]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Resolución de ecuaciones lineales en un examen de matemáticas.
 
@@ -227,7 +227,7 @@ Primero distribuimos: 4x - 12 = 2x + 10. Luego agrupamos las x: 4x - 2x = 10 + 1
 ## Question 9 [D5]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.68
 **Contexto:** Probabilidad en un juego de feria en Trujillo.
 
@@ -252,7 +252,7 @@ La probabilidad de un evento es (casos favorables / casos totales). El total es 
 ## Question 10 [D6]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.65
 **Contexto:** Cálculo de promedio de notas en una escuela de Santa Rosa de Copán.
 
@@ -277,7 +277,7 @@ Para un promedio de 88 en 5 exámenes, la suma de las notas debe ser 88 * 5 = 44
 ## Question 11 [D6]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un arquitecto diseña un parque circular en Danlí.
 
@@ -302,7 +302,7 @@ El radio es la mitad del diámetro (40 / 2 = 20 m). La fórmula del área es A =
 ## Question 12 [D6]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.60
 **Contexto:** Estudio de funciones cuadráticas en el movimiento de un proyectil.
 
@@ -327,7 +327,7 @@ Para hallar las raíces, igualamos la función a cero: x² - 6x + 9 = 0. Notamos
 ## Question 13 [D7]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.58
 **Contexto:** Un sistema de poleas en una fábrica de arneses en Choloma.
 
@@ -352,7 +352,7 @@ La relación entre radios y velocidades en poleas conectadas es inversamente pro
 ## Question 14 [D7]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.55
 **Contexto:** Trigonometría aplicada a la navegación cerca de las Islas de la Bahía.
 
@@ -377,7 +377,7 @@ Usamos la función tangente: tan(θ) = opuesto / adyacente. tan(30°) = 50 / d. 
 ## Question 15 [D7]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.52
 **Contexto:** Resolución de sistemas de ecuaciones en economía local.
 
@@ -402,7 +402,7 @@ Podemos usar el método de eliminación sumando ambas ecuaciones: (2x + y) + (x 
 ## Question 16 [D8]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.50
 **Contexto:** Logaritmos y su aplicación en la escala Richter.
 
@@ -427,7 +427,7 @@ La definición de logaritmo establece que si log_b(x) = y, entonces b^y = x. En 
 ## Question 17 [D8]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estanque de peces en el Lago de Yojoa.
 
@@ -452,7 +452,7 @@ Primero calculamos el volumen en metros cúbicos: V = largo * ancho * profundida
 ## Question 18 [D9]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Sucesiones aritméticas en el ahorro programado de un empleado en Puerto Cortés.
 
@@ -477,7 +477,7 @@ Es una progresión aritmética donde a1 = 500 y d = 50. La fórmula para el tér
 ## Question 19 [D9]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.42
 **Contexto:** Geometría analítica en el diseño de una antena en Santa Bárbara.
 
@@ -502,7 +502,7 @@ Usamos la fórmula de distancia entre dos puntos: d = √((x2 - x1)² + (y2 - y1
 ## Question 20 [D10]
 **ID:** HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Análisis de funciones inversas en procesos de manufactura.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en la provincia de Veraguas repasa las reglas rápidas para multiplicar binomios especiales.
 
@@ -41,7 +41,7 @@ Identificación y aplicación de la regla del producto notable "cuadrado de un b
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En un taller de diseño gráfico en la Ciudad de Panamá, se utiliza una fórmula para el cambio de área.
 
@@ -62,7 +62,7 @@ Identificación conceptual de los tipos de productos notables fundamentales.
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un carpintero en Chitré utiliza una regla para calcular el cuadrado de una diferencia de longitudes.
 
@@ -83,7 +83,7 @@ Reconocimiento de la estructura del trinomio cuadrado perfecto resultante de un 
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de arquitectura en la UTP utiliza el desarrollo de binomios en una maqueta.
 
@@ -104,7 +104,7 @@ Desarrollo de un trinomio cuadrado perfecto a partir de un binomio diferencia al
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un carpintero en Chitré calcula la diferencia entre dos áreas cuadradas para un diseño.
 
@@ -125,7 +125,7 @@ Aplicación del producto notable "diferencia de cuadrados" en expresiones con co
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** En una escuela de Penonomé, se enseña a multiplicar binomios con término común para terrenos.
 
@@ -146,7 +146,7 @@ Aplicación de la regla para el producto de dos binomios con un término común.
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero civil en Penonomé calcula el área de una sección de tubería usando productos notables.
 
@@ -167,7 +167,7 @@ Ejecución de la diferencia de cuadrados con múltiples variables y coeficientes
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un diseñador industrial en Herrera utiliza el cubo de un binomio para un prototipo.
 
@@ -188,7 +188,7 @@ Desarrollo del producto notable "cubo de un binomio suma".
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un programador en la Ciudad del Saber desarrolla una función de física con productos notables.
 
@@ -209,7 +209,7 @@ Identificación del término independiente en el desarrollo de un binomio al cua
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de secundaria en Herrera aplica identidades para áreas rectangulares.
 
@@ -230,7 +230,7 @@ Combinación de productos notables con operaciones aritméticas básicas de simp
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un topógrafo calcula el área de una parcela cuadrada con lado binomial.
 
@@ -251,7 +251,7 @@ Aplicación del cuadrado de un binomio en problemas de geometría plana.
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de bachillerato en Aguadulce resuelve un ejercicio de cubo de diferencia.
 
@@ -272,7 +272,7 @@ Desarrollo del producto notable "cubo de un binomio diferencia".
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en el Canal de Panamá simplifica una expresión usando identidades.
 
@@ -293,7 +293,7 @@ Simplificación de expresiones algebraicas combinando múltiples productos notab
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un topógrafo en Chiriquí utiliza identidades de Legendre para simplificar cálculos.
 
@@ -314,7 +314,7 @@ Aplicación de identidades algebraicas derivadas de productos notables (Legendre
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un analista de datos en la Ciudad de Panamá verifica una identidad estadística.
 
@@ -335,7 +335,7 @@ Análisis y simplificación de fracciones algebraicas utilizando identidades de 
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador en Herrera utiliza el cuadrado de un trinomio para una pieza metálica.
 
@@ -356,7 +356,7 @@ Aplicación de la regla para el desarrollo del cuadrado de un trinomio.
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un científico de materiales en Panamá analiza una aleación usando sumas de cubos.
 
@@ -377,7 +377,7 @@ Reconocimiento y aplicación de la identidad de suma de cubos perfectos.
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un matemático en la UP utiliza identidades condicionales para un problema teórico.
 
@@ -398,7 +398,7 @@ Uso de identidades de productos notables para resolver problemas de valores num�
 ## Question 19 [D9]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** En un concurso nacional, se pide simplificar una expresión con trinomios especiales.
 
@@ -419,7 +419,7 @@ Aplicación avanzada de productos notables (Identidad de Argand) mediante reagru
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Se plantea un reto final que combina cubos de binomios y simplificación extrema.
 

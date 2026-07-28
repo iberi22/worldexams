@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Choosing a university path.
 
@@ -45,7 +45,7 @@ Students who want to specialize in a specific field often choose a ______ as the
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing future job opportunities.
 
@@ -65,7 +65,7 @@ The future perfect 'will have gained' describes an achievement that will be a co
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Preparing for the workforce.
 
@@ -85,7 +85,7 @@ A well-written curriculum vitae (CV) should highlight your skills and relevant w
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about lifelong learning.
 
@@ -105,7 +105,7 @@ In a rapidly changing job market, the ability to adapt and learn new skills is e
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Debate on the value of a university degree versus vocational training.
 
@@ -125,7 +125,7 @@ The author argues that while university provides theoretical knowledge, vocation
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Financial aid for education.
 
@@ -145,7 +145,7 @@ A scholarship is a grant or payment made to support a student's education, award
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Advice for job interviews.
 
@@ -165,7 +165,7 @@ The phrase 'If I were you' is a standard second conditional structure for giving
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Professional networking.
 
@@ -185,7 +185,7 @@ Networking allows professionals to exchange information and develop contacts whi
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Discussing a past decision.
 
@@ -205,7 +205,7 @@ The gerund 'studying' after 'regrets' describes the action being regretted.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Discussion on "soft skills".
 
@@ -225,7 +225,7 @@ While "hard skills" are specific technical abilities, "soft skills" like communi
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Workplace hierarchy.
 
@@ -245,7 +245,7 @@ The CEO is the highest-ranking person in a company and is responsible for making
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing a future possibility.
 
@@ -265,7 +265,7 @@ The verb 'consider' requires the gerund form of the following verb.
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Applying for a position.
 
@@ -285,7 +285,7 @@ Candidates who meet all the requirements will be invited for an interview.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Condition for a promotion.
 
@@ -305,7 +305,7 @@ You won't get a promotion unless you show more initiative in your work.
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on job automation.
 
@@ -325,7 +325,7 @@ The article concludes that workers must continuously upskill to remain competiti
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Different types of jobs.
 
@@ -345,7 +345,7 @@ A freelancer is a person who is self-employed and is not committed to a particul
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Career advice from a mentor.
 
@@ -365,7 +365,7 @@ Verbs like 'suggest' and 'recommend' are followed by a 'that' clause with the ba
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Benefits of working in a team.
 
@@ -385,7 +385,7 @@ Effective collaboration within a team can significantly improve the quality of a
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a future goal.
 
@@ -405,7 +405,7 @@ The perfect infinitive 'to have finished' expresses a completed action relative 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Conclusion of an essay on work-life balance.
 
