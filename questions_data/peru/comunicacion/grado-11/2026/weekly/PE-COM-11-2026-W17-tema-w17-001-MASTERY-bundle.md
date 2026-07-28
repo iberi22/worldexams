@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un grupo de alumnos de quinto de secundaria en Trujillo identifica a los grandes poetas peruanos del siglo XX.
 
@@ -47,7 +47,7 @@ José Santos Chocano encarna la corriente modernista tropical e hispanoamericani
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un profesor en Santiago de Chuco explica el impacto revolucionario del poemario *Trilce* (1922) de César Vallejo.
 
@@ -71,7 +71,7 @@ José Santos Chocano encarna la corriente modernista tropical e hispanoamericani
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** En un taller de apreciación poética en Lima, se lee el poema *Blasón* de José Santos Chocano.
 
@@ -96,7 +96,7 @@ A partir del análisis de esta estrofa de *Blasón*, ¿cuál es la actitud del y
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes del Colegio Claretiano en Trujillo analizan el primer poema de *Los heraldos negros* (1918) de César Vallejo.
 
@@ -121,7 +121,7 @@ En *Los heraldos negros*, Vallejo parte del modernismo formal pero introduce una
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** En un ensayo sobre el Vanguardismo en el Perú de la Universidad Nacional de San Agustín, se analiza el quiebre de la gramática tradicional en *Trilce*.
 
@@ -146,7 +146,7 @@ La vanguardia no destruye la forma por ignorancia, sino por urgencia expresiva. 
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Durante las olimpiadas escolares en Cusco, se lee un fragmento de la poesía simbolista de José María Eguren.
 
@@ -171,7 +171,7 @@ José María Eguren es una voz insular y fundamental del siglo XX peruano. Su es
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un alumno del Colegio de Alto Rendimiento (COAR) Junín escribe un ensayo que contrasta el exotismo de Chocano con la herencia andina íntima de Vallejo en *Los heraldos negros*.
 
@@ -196,7 +196,7 @@ La aplicación de modelos poéticos exige comprender el origen y el tono del emi
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un profesor de literatura en Cusco propone a sus alumnos redactar un caligrama o poema visual inspirado en el vanguardismo de Carlos Oquendo de Amat en *5 metros de poemas* (1927).
 
@@ -220,7 +220,7 @@ La vanguardia lírica andina del siglo XX se caracterizó por su audacia formal.
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante prepara una declamación coral del famoso poema *Los dados eternos* de César Vallejo para la actuación de la promoción escolar en Santiago de Chuco.
 
@@ -245,7 +245,7 @@ Si los alumnos desean transmitir fielmente el sentimiento íntimo y el conflicto
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** En un concurso de ensayo de crítica poética en Arequipa, se analiza de qué manera el Modernismo de Chocano y el Vanguardismo de Vallejo abordan el tema de la cordillera de los Andes peruanos.
 
@@ -269,7 +269,7 @@ La aplicación estética de la geografía andina varía drásticamente según la
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Un postulante a la carrera de lingüística de la UNMSM analiza los recursos rítmicos que dotan de sonoridad al soneto modernista de José Santos Chocano frente al verso libre de la vanguardia.
 
@@ -293,7 +293,7 @@ El Modernismo es una corriente de gran exquisitez formal que exalta la musicalid
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Durante un análisis de textos de vanguardia en la Universidad Nacional del Centro del Perú (UNCP) en Huancayo, se examina el poema lírico *El libro de la naturaleza* y su contraste con los manifiestos ultraístas y futuristas peruanos.
 
@@ -317,7 +317,7 @@ El Vanguardismo peruano asimiló diversas corrientes del viejo continente. La ve
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En el Colegio de San Francisco de Asís en Arequipa, se analiza de forma crítica la estructura y el ritmo de *Los heraldos negros* para descifrar la técnica de la "tensión tonal" entre la norma clásica y la voz quebrada.
 
@@ -342,7 +342,7 @@ El estudiante ejercita el análisis rítmico profundo. El quiebre del verso (ver
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un simposio internacional de literatura en la Universidad Nacional de Trujillo desmitifica la supuesta "influencia exclusiva francesa" en la poesía vanguardista de César Vallejo.
 
@@ -367,7 +367,7 @@ El análisis historiográfico literario permite al alumno revaluar las relacione
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En un análisis del poemario *Alma América* en Cusco, se examina la visión del conquistador español en Chocano y su contraste con las posturas indigenistas y realistas de la época.
 
@@ -392,7 +392,7 @@ La literatura modernista de Chocano busca legitimar un nacionalismo mestizo crio
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes de un colegio de Piura analizan el poema *Avestruz de la llanura* de José María Eguren y su uso de símbolos animales exóticos.
 
@@ -417,7 +417,7 @@ El Simbolismo ejerce un rol de depuración lírica. Frente a la prosa política 
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** En un debate de teoría literaria de la UNMSM, se somete a juicio crítico la deconstrucción y el quiebre de la palabra en el famoso poema *Trilce XVIII* ("Oh las cuatro paredes de la celda...").
 
@@ -442,7 +442,7 @@ La evaluación literaria profunda exige comprender el rol de la abstracción y l
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un tribunal del concurso nacional de ensayo "José Santos Chocano" en Trujillo valora de forma crítica el impacto histórico de su retórica en la memoria cívica americana.
 
@@ -467,7 +467,7 @@ El pensamiento crítico exige evaluar las estéticas literarias situándolas en 
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un catedrático de la Universidad Nacional de Ingeniería (UNI) evalúa el uso de metáforas científicas e industriales en la poesía vanguardista del norte del Perú frente al modernismo costumbrista.
 
@@ -492,7 +492,7 @@ El alumno demuestra comprensión de alto nivel de las estéticas de vanguardia a
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal de la Academia Peruana de la Lengua califica la trascendencia lírica del poema de César Vallejo titulado *Piedra negra sobre una piedra blanca* ("Me moriré en París con aguacero...").
 

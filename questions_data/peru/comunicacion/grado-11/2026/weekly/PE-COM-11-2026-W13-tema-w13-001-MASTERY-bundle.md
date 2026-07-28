@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Un equipo de estudiantes de quinto de secundaria del Colegio Nacional San Carlos de Puno analiza la diferencia entre textos continuos y discontinuos.
 
@@ -47,7 +47,7 @@ Los textos discontinuos son aquellos cuya estructura no sigue un orden de lectur
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Durante el estudio de una infografía sobre la desnutrición infantil en Apurímac, los estudiantes identifican sus partes estructurales.
 
@@ -71,7 +71,7 @@ En los textos discontinuos, los gráficos estadísticos desempeñan un rol prota
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de alumnos de quinto de secundaria del Colegio Nacional Independencia Americana de Arequipa lee un cuadro estadístico sobre la exportación de alcachofas de la región durante el periodo 2021-2025.
 
@@ -96,7 +96,7 @@ La interpretación de variaciones porcentuales en una tabla exige correlacionar 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes de un colegio de Piura analizan una infografía sobre el dengue en la costa norte del Perú, la cual contiene un mapa de calor sombreado y una lista de recomendaciones de limpieza.
 
@@ -120,7 +120,7 @@ Los mapas de calor son recursos discontinuos potentes. El color actúa como una 
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** En Cusco, se examina una infografía acerca del circuito turístico de Choquequirao. Esta incluye un perfil de elevación altitudinal y un pictograma de un caminante.
 
@@ -145,7 +145,7 @@ La comprensión de diagramas de perfil altitudinal requiere traducir variaciones
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Los estudiantes del Colegio Nacional Santa Isabel de Huancayo analizan un gráfico de barras múltiples sobre el consumo de quinua, trigo y arroz per cápita en el Perú andino.
 
@@ -170,7 +170,7 @@ El análisis cuantitativo exige diferenciar el valor absoluto de un indicador (k
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Una mesa de trabajo regional en Pasco debate sobre la contaminación por metales pesados en suelos urbanos y rurales mediante mapas de dispersión mineral.
 
@@ -195,7 +195,7 @@ La transferencia de datos cartográficos discontinuos a un plan de acción de so
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** El Ministerio de Salud del Perú publica un cuadro de control sobre las enfermedades respiratorias infantiles agudas en zonas altoandinas, contrastando la incidencia con la cobertura de vacunación neumocócica regional.
 
@@ -220,7 +220,7 @@ El alumno debe correlacionar la variable independiente (cobertura de vacuna) con
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Los alumnos de la Universidad Nacional de Trujillo interpretan un diagrama de flujo de producción que muestra los pasos para exportar arándanos a Asia.
 
@@ -247,7 +247,7 @@ La resolución de problemas basada en diagramas de flujo exige evaluar el impact
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** En el puerto del Callao, se expone un tablero de control logístico que grafica las toneladas de carga movilizadas mediante pictogramas de barcos portacontenedores de diferentes escalas.
 
@@ -275,7 +275,7 @@ La lectura de pictogramas requiere aplicar correctamente los factores de escala 
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.65
 **Contexto:** Una infografía de seguridad vial del Ministerio de Transportes y Comunicaciones (MTC) detalla la distancia de frenado de emergencia en la Carretera Central en función de la velocidad del vehículo y el estado de la pista húmeda por lluvia.
 
@@ -300,7 +300,7 @@ La aplicación de gráficos lineales de física automotriz exige que el conducto
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.65
 **Contexto:** Un mapa turístico interactivo de la ciudadela de Machu Picchu señala con íconos las zonas restringidas de acceso peatonal según el nivel de desgaste físico de las escalinatas de granito.
 
@@ -325,7 +325,7 @@ La toma de decisiones del guía de turismo demuestra comprensión práctica de l
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Un seminario académico de la Universidad Nacional Mayor de San Marcos analiza las debilidades metodológicas de las encuestas representadas mediante gráficos circulares desproporcionados.
 
@@ -350,7 +350,7 @@ La evaluación de textos discontinuos exige detectar sesgos en la representació
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** En Chimbote, un analista pesquero confronta una infografía del gremio pesquero industrial con una tabla del Instituto del Mar del Perú (IMARPE) sobre la biomasa de anchoveta disponible.
 
@@ -376,7 +376,7 @@ La lectura crítica exige identificar la intención comunicativa de emisores con
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Un geógrafo de la Universidad Nacional de San Agustín de Arequipa evalúa un climograma (gráfico doble que representa temperaturas y precipitaciones mensuales) de la ciudad de Arequipa.
 
@@ -401,7 +401,7 @@ Los climogramas son gráficos complejos que cruzan dos escalas distintas de dato
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes de un colegio parroquial de Cajamarca leen una infografía comparativa sobre la eficiencia energética de focos LED frente a los tradicionales focos incandescentes de filamento de tungsteno.
 
@@ -426,7 +426,7 @@ El análisis del texto discontinuo exige evaluar la relación cuantitativa de re
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.55
 **Contexto:** Un panel de expertos en salud pública de la PUCP evalúa la validez de una infografía gubernamental destinada a combatir la anemia infantil mediante el fomento del consumo de "sangrecita de pollo" en la sierra.
 
@@ -451,7 +451,7 @@ La evaluación crítica de la consistencia interna de un texto discontinuo requi
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.55
 **Contexto:** Un informe de auditoría ambiental evalúa la claridad comunicativa de un gráfico de columnas en 3D utilizado por una empresa minera para mostrar la reducción de emisiones de gases contaminantes en Moquegua.
 
@@ -476,7 +476,7 @@ Los principios de la visualización de datos científica exigen que la escala gr
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.50
 **Contexto:** En el Colegio de Ingenieros del Perú, se debate sobre la veracidad de una infografía que asocia el incremento del caudal del río Hablador con la deforestación de la selva alta, apoyada en un gráfico de dispersión con una nube de puntos aleatoria.
 
@@ -501,7 +501,7 @@ La evaluación compleja de textos discontinuos exige confrontar la "línea de te
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.50
 **Contexto:** Un metanálisis de la Universidad de Ingeniería y Tecnología (UTEC) evalúa un flujograma de seguridad operacional de relaves mineros expuesto a los pobladores de Huancavelica.
 

@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.85
 **Contexto:** Un profesor del Colegio Guadalupe de Lima explica la diferencia entre oraciones simples y compuestas.
 
@@ -47,7 +47,7 @@ La oración compuesta se conforma sintácticamente por la unión de dos o más p
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.85
 **Contexto:** Los estudiantes del Colegio San Miguel en Piura clasifican oraciones compuestas coordinadas según sus nexos.
 
@@ -71,7 +71,7 @@ Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáct
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.80
 **Contexto:** En un taller de lenguaje en Arequipa, se analiza el fragmento: "María estudia arquitectura en la UNSA; su hermano Diego prefiere postular a medicina en la UNMSM".
 
@@ -95,7 +95,7 @@ La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas d
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.80
 **Contexto:** En el Colegio de Alto Rendimiento (COAR) Tacna, los alumnos identifican oraciones subordinadas sustantivas.
 
@@ -120,7 +120,7 @@ Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro d
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de quinto de secundaria del Colegio San Ramón en Cajamarca analiza la siguiente oración compuesta: "El arqueólogo que descubrió las tumbas en Sipán dictó una conferencia magistral".
 
@@ -144,7 +144,7 @@ Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pr
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.75
 **Contexto:** Durante las clases de razonamiento verbal para el ingreso a la UNMSM, se propone identificar la función de la proposición subordinada en: "Diego prometió que donaría una colección de libros al colegio de su pueblo".
 
@@ -168,7 +168,7 @@ Las subordinadas sustantivas de objeto directo completan la significación de un
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.70
 **Contexto:** Un alumno redacta un informe de geografía sobre los valles de Huancayo y busca enlazar dos ideas usando una oración compuesta subordinada adverbial concesiva.
 
@@ -192,7 +192,7 @@ Las oraciones subordinadas adverbiales concesivas expresan un impedimento u obst
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.70
 **Contexto:** Al redactar un ensayo para el curso de Historia sobre la rebelión de Túpac Amaru II, un estudiante cusqueño debe enlazar dos acontecimientos cronológicos sucesivos.
 
@@ -216,7 +216,7 @@ Las subordinadas adverbiales temporales funcionan como complementos circunstanci
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante escribe una carta formal al rector de la Universidad Nacional de Ingeniería (UNI) solicitando una beca de estudios y debe formular una oración de condición estricta.
 
@@ -240,7 +240,7 @@ Las subordinadas adverbiales condicionales expresan una condición indispensable
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.70
 **Contexto:** En Trujillo, un corrector de textos analiza la redacción de un artículo de opinión sobre la conservación del patrimonio arqueológico de Chan Chan.
 
@@ -265,7 +265,7 @@ Las subordinadas ilativas o consecutivas plantean la consecuencia o derivación 
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de quinto de secundaria en Chimbote está corrigiendo una oración compuesta en la que se ha empleado de forma incorrecta el pronombre relativo "que" precedido por la preposición "de" (dequeísmo).
 
@@ -289,7 +289,7 @@ El dequeísmo consiste en usar la preposición "de" antes de la conjunción "que
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.65
 **Contexto:** Un docente de comunicación explica las oraciones subordinadas sustantivas de complemento de régimen verbal en un colegio de Huancavelica.
 
@@ -313,7 +313,7 @@ El complemento de régimen verbal es una función sintáctica desempeñada por u
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.60
 **Contexto:** Un examen de admisión para la Universidad Nacional de Ingeniería (UNI) solicita analizar sintácticamente una oración compuesta con múltiples subordinaciones.
 
@@ -338,7 +338,7 @@ El análisis sintáctico de oraciones complejas requiere rastrear cada verbo con
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.60
 **Contexto:** En una sesión de corrección gramatical en la Universidad Nacional del Altiplano en Puno, se analiza la ambigüedad en el uso de oraciones subordinadas adjetivas sin coma (especificativas) frente a oraciones con coma (explicativas).
 
@@ -365,7 +365,7 @@ La puntuación incide directamente en la sintaxis y semántica. Las adjetivas es
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.60
 **Contexto:** Los postulantes de la UNI analizan la elipsis o supresión de elementos en oraciones coordinadas.
 
@@ -390,7 +390,7 @@ La elipsis verbal es un recurso cohesivo muy común en el español formal que co
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.60
 **Contexto:** Un análisis lingüístico de la UNMSM examina la subordinación sustantiva de objeto directo frente a oraciones compuestas con verbos de percepción física (oraciones de infinitivo).
 
@@ -415,7 +415,7 @@ Los infinitivos pueden encabezar proposiciones subordinadas sustantivas (oracion
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.55
 **Contexto:** En un debate académico sobre el lenguaje inclusivo y la evolución sintáctica en la Universidad Nacional de San Agustín, se evalúa la siguiente estructura compleja: "Quien asuma de que la sintaxis es inmutable ignora de que los hablantes son los que la modifican".
 
@@ -439,7 +439,7 @@ Los verbos de entendimiento, voluntad y lengua (asumir, ignorar, decir, pensar, 
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.55
 **Contexto:** Un evaluador del examen de admisión de la UNMSM dictamina la validez de oraciones condicionales que emplean combinaciones de tiempos verbales (concordancia verbal).
 
@@ -464,7 +464,7 @@ La correlación temporal en las condicionales irreales del pasado (hipótesis so
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.50
 **Contexto:** Un corrector lingüístico de la Editorial Santillana en el Perú examina una compleja oración compuesta que contiene subordinación sustantiva y adjetiva intercalada.
 
@@ -489,7 +489,7 @@ El anacoluto o asimetría sintáctica ocurre cuando se quiebra la consistencia e
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y semántica
+**EJE:** Sintaxis y semántica
 **Expected_Success:** 0.50
 **Contexto:** En la cátedra de lingüística románica de la UNMSM, se debate sobre las oraciones subordinadas adverbiales consecutivas con intensificador y su diferencia con las causales.
 

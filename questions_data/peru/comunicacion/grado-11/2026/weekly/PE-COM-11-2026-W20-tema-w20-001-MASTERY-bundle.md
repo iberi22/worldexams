@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.85
 **Contexto:** Un grupo de estudiantes de quinto de secundaria en el Colegio Guadalupe en Lima repasa las normas de redacción académica formal.
 
@@ -47,7 +47,7 @@ La redacción académica formal exige el descarte de la vaguedad léxica (el uso
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.85
 **Contexto:** Durante un taller de corrección de textos en Cusco, se define el vicio del lenguaje denominado "anfibología".
 
@@ -71,7 +71,7 @@ La anfibología es un error estructural de la sintaxis que atenta contra la clar
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Arequipa analiza el fragmento: "El ingeniero civil le dijo a su ayudante que debían corregir de inmediato los linderos de su plano de Jauja".
 
@@ -95,7 +95,7 @@ Los posesivos de tercera persona ("su", "sus") poseen múltiples antecedentes po
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes del Colegio Claretiano en Trujillo identifican errores de redundancia o pleonasmo vicioso en oraciones de informes de laboratorio de la UNI.
 
@@ -120,7 +120,7 @@ La concisión exige usar la menor cantidad de palabras necesarias para transmiti
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.75
 **Contexto:** En un ensayo sobre vicios de régimen preposicional de la Universidad Nacional de San Agustín en Arequipa, se analiza la diferencia entre queísmo y dequeísmo.
 
@@ -145,7 +145,7 @@ Para discriminar con rigor científico entre el dequeísmo (inserción incorrect
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.75
 **Contexto:** Los estudiantes del Colegio de Alto Rendimiento (COAR) Cajamarca corrigen la vaguedad o imprecisión léxica de un borrador de monografía científica.
 
@@ -170,7 +170,7 @@ La vaguedad léxica debilita la calidad de la prosa académica. Sustituir verbos
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Al redactar un informe técnico sobre la conservación de bofedales en Huancavelica, un estudiante comete un error grave de concordancia de género y número en los adjetivos calificativos de un grupo nominal compuesto.
 
@@ -194,7 +194,7 @@ Al coordinar sustantivos de diferente género (masculino "bofedales" + femenino 
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de Trujillo escribe una solicitud formal para un proyecto de investigación y busca evitar el uso redundante del pronombre relativo "que" (queísmo repetitivo).
 
@@ -218,7 +218,7 @@ El "queísmo" o abuso de la conjunción "que" es un vicio de estilo muy común e
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** En un taller de corrección de estilo en Puno, se analiza el vicio denominado "solecismo de régimen preposicional" (uso incorrecto de las preposiciones que exigen ciertas expresiones).
 
@@ -242,7 +242,7 @@ Los solecismos de régimen preposicional ocurren por el uso calificado de locuci
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de quinto de secundaria de un colegio nacional de Chimbote redacta una monografía de ciencias sociales sobre la historia de la pesca de anchoveta y busca evitar el vicio del "as de oros" o cacofonía acústica desagradable.
 
@@ -266,7 +266,7 @@ La eufonía es un principio estético de la redacción formal. Se debe evitar la
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.65
 **Contexto:** Un postulante de la UNI rinde un examen de aptitud de redacción en el que debe corregir errores de "discordancia verbal de sujeto colectivo" en oraciones complejas.
 
@@ -291,7 +291,7 @@ La concordancia de los sujetos colectivos con complemento plural ("la mayoría d
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.65
 **Contexto:** Durante las olimpiadas de comunicación en Huacho, se debate sobre la correcta corrección del vicio de redundancia léxica en la expresión "periodo de tiempo" o "lapso de tiempo".
 
@@ -316,7 +316,7 @@ El pleonasmo "lapso de tiempo" o "periodo de tiempo" es uno de los vicios más e
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Un lingüista de la Universidad Nacional Mayor de San Marcos evalúa la consistencia de una oración de tesis que contiene un error sutil de "gerundio de posterioridad" (uso incorrecto del gerundio para indicar consecuencias posteriores).
 
@@ -341,7 +341,7 @@ El gerundio es una forma verbal no personal que indica simultaneidad ("salió ca
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** En un examen de suficiencia lingüística de la UNMSM, se solicita identificar la relación de concordancia del pronombre átono "le" (complemento indirecto) en oraciones complejas pluripersonales.
 
@@ -366,7 +366,7 @@ La concordancia de número entre el pronombre clítico de objeto indirecto ("les
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes de la Universidad Nacional de Trujillo evalúan el vicio gramatical del "gerundio de adjetivo" o gerundio especificativo en textos científicos.
 
@@ -391,7 +391,7 @@ El gerundio del español es incompatible con la función adjetiva especificativa
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Durante las olimpiadas de comunicación en Chimbote, se debate sobre la correcta corrección del vicio de redundancia semántica en la expresión "erradicar por completo" o "conclusiones finales".
 
@@ -416,7 +416,7 @@ La redundancia léxica y semántica es un error de estilo extendido en la prosa 
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.55
 **Contexto:** Un panel de doctores en lingüística de la Universidad Nacional Mayor de San Marcos evalúa la validez y corrección gramatical de un polémico párrafo técnico de un proyecto de investigación hidráulica de la UNI.
 
@@ -441,7 +441,7 @@ La auditoría lingüística de nivel preuniversitario exige identificar la disco
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.55
 **Contexto:** En un concurso de debate lingüístico en la Universidad Nacional del Altiplano en Puno, se analiza un párrafo argumentativo que sufre de "queísmo" y de "discordancia del relativo" en la descripción de las alpacas andinas de Sandia.
 
@@ -465,7 +465,7 @@ La evaluación compleja exige discriminar de forma cruzada múltiples variables 
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal del examen de admisión de la UNMSM propone ponderar críticamente un párrafo que contiene un error de "concordancia del adverbio medio" y de "imprecisión léxica copulativa" de forma simultánea.
 
@@ -490,7 +490,7 @@ El alumno demuestra comprensión lingüística de alto nivel al reconocer la inv
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.50
 **Contexto:** Un jurado de la Academia Peruana de la Lengua califica la precisión filológica de la siguiente oración compleja redactada por un estudiante preuniversitario de la UNI.
 

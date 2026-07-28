@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.85
 **Contexto:** Los estudiantes de la institución educativa Alfonso Ugarte de Lima repasan las propiedades gramaticales del texto.
 
@@ -47,7 +47,7 @@ La coherencia es la propiedad fundamental por la cual un texto se percibe como u
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.85
 **Contexto:** En un taller sobre mecanismos de referencia en Cusco, un estudiante aprende acerca del funcionamiento de la anáfora y la catáfora.
 
@@ -71,7 +71,7 @@ La anáfora gramatical evita repeticiones monótonas de sustantivos utilizando e
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.80
 **Contexto:** Durante el análisis de un fragmento literario en Arequipa, se estudia la siguiente oración: "César Vallejo nació en Santiago de Chuco; allí compuso sus primeros poemas melancólicos".
 
@@ -95,7 +95,7 @@ La anáfora adverbial de lugar ("allí", "aquí", "allá") actúa como un mecani
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.80
 **Contexto:** Un alumno del Colegio de Alto Rendimiento (COAR) Lambayeque analiza el fragmento: "Diego solo trajo esto para el almuerzo del colegio: tres manzanas y un paquete de galletas de quinua".
 
@@ -119,7 +119,7 @@ La catáfora es un recurso de cohesión por el cual un término (frecuentemente 
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.75
 **Contexto:** Los estudiantes del Colegio Nacional Santa Isabel de Huancayo analizan el siguiente enunciado: "La papa nativa andina posee un alto valor nutricional; ____, su consumo diario combate de forma efectiva los cuadros de desnutrición infantil crónica en Huancavelica".
 
@@ -143,7 +143,7 @@ El uso de conectores consecuentes vincula premisas verdaderas con sus derivacion
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.75
 **Contexto:** Al redactar un ensayo crítico en Puno sobre la mitología del lago Titicaca, un estudiante debe evitar repetir innecesariamente el sustantivo "lago".
 
@@ -168,7 +168,7 @@ La reelaboración estilística de textos redundantes exige dominar la elipsis (s
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante del Colegio de San Ildefonso en Lima redacta una monografía de literatura y debe introducir un conector de digresión o cambio de tema controlado.
 
@@ -193,7 +193,7 @@ Los conectores de transición o digresión orientan al lector cuando el autor ab
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.70
 **Contexto:** En un boletín escolar de biología en Iquitos, se redacta una oración que contrasta dos comportamientos ecológicos de especies amazónicas.
 
@@ -218,7 +218,7 @@ Los conectores adversativos de contraste ("por el contrario", "en cambio", "en c
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante escribe una carta formal al alcalde de Trujillo y debe fundamentar con conectores lógicos la necesidad de restaurar las pistas dañadas por los huaycos.
 
@@ -243,7 +243,7 @@ El conector "por esta razón" actúa como un puente ilativo que atribuye una dec
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.70
 **Contexto:** Un redactor de textos académicos en la Universidad Nacional del Centro del Perú (UNCP) en Huancayo busca perfeccionar la cohesión de un párrafo explicativo sobre el desarrollo de cultivos tolerantes al frío.
 
@@ -268,7 +268,7 @@ Los conectores de particularización ("en concreto", "específicamente", "en par
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de quinto de secundaria de un colegio de Piura escribe sobre la conservación ambiental de los manglares de Tumbes y comete un error en el orden de los conectores (incoherencia).
 
@@ -293,7 +293,7 @@ Los conectores contraargumentativos ("a pesar de ello", "no obstante", "con todo
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.65
 **Contexto:** En un concurso de debate oratorio en Chiclayo, un estudiante debe estructurar un argumento lógico que asocie la nutrición con el rendimiento académico utilizando un conector explicativo de reformulación.
 
@@ -318,7 +318,7 @@ Los conectores reformulativos ("en otras palabras", "dicho de otro modo", "es de
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.60
 **Contexto:** Un lingüista de la Universidad Nacional Mayor de San Marcos evalúa la consistencia referencial y la cohesión de una confusa oración escrita por un postulante en su ensayo de admisión.
 
@@ -343,7 +343,7 @@ La cohesión referencial exige precisión. El uso descuidado de pronombres y adj
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.60
 **Contexto:** En un examen de comprensión de textos de la UNI, se solicita identificar la relación de coherencia global de un fragmento científico y reorganizar sus conectores para recuperar el sentido lógico original.
 
@@ -368,7 +368,7 @@ El alumno debe analizar la jerarquía lógica de las ideas en textos argumentati
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes del Colegio Nacional de Ciencias de Cusco evalúan la elipsis de sujeto en textos históricos y su impacto en el mantenimiento del referente temático.
 
@@ -393,7 +393,7 @@ La elipsis del sujeto (sujeto tácito u omisión del pronombre personal) es una 
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.60
 **Contexto:** Durante el análisis lingüístico de una infografía sobre el deshielo glaciar en el Perú, los alumnos de Huaraz examinan la cohesión léxica por sustitución mediante hiperónimos e hipónimos.
 
@@ -418,7 +418,7 @@ La sustitución léxica mediante hiperónimos (palabras con mayor extensión de 
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.55
 **Contexto:** Un corrector lingüístico de la Academia Peruana de la Lengua evalúa la coherencia interna de una propuesta de ensayo sobre el desarrollo tecnológico en los colegios nacionales del Perú.
 
@@ -443,7 +443,7 @@ La evaluación de textos incoherentes exige rastrear cómo los conectores ("Sin 
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.55
 **Contexto:** Durante una olimpiada de lenguaje de quinto de secundaria en Chimbote, se pide evaluar críticamente la consistencia de un párrafo argumentativo que sufre de "ruptura de la isotopía temática" (desvío incontrolado del tema).
 
@@ -468,7 +468,7 @@ La coherencia temática global (isotopía) exige que toda la información vertid
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal del examen DECO de la UNMSM califica la precisión cohesiva de un párrafo complejo que detalla las tesis sociológicas de José Carlos Mariátegui sobre el problema de la tierra en el Perú.
 
@@ -493,7 +493,7 @@ La evaluación argumentativa profunda exige validar si el conector adversativo (
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Cohesión y coherencia
+**EJE:** Cohesión y coherencia
 **Expected_Success:** 0.50
 **Contexto:** Un catedrático de teoría literaria de la UNMSM examina la cohesión de un párrafo explicativo sobre el vanguardismo poético peruano de la década de 1920 y propone perfeccionar su cohesión lógica.
 

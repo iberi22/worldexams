@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.85
 **Contexto:** Un grupo de alumnos de quinto de secundaria del Colegio Guadalupe en Lima repasa las reglas de acentuación general de la Real Academia Española.
 
@@ -47,7 +47,7 @@ Las palabras agudas ubican su acento de intensidad en la última sílaba. La reg
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.85
 **Contexto:** Durante una clase sobre tildación diacrítica en Huancayo, se analiza la diferencia entre monosílabos homófonos.
 
@@ -71,7 +71,7 @@ La tilde diacrítica es un recurso gráfico excepcional que exceptúa la regla d
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.80
 **Contexto:** En un dictado de oraciones en Arequipa, se analiza el uso de la tilde en el monosílabo "mas" y "más".
 
@@ -96,7 +96,7 @@ La conmutación léxica ayuda a comprobar la categoría: si se puede reemplazar 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante del Colegio de Alto Rendimiento (COAR) Puno examina la regla de acentuación de palabras compuestas sin guion como "asimismo" o "decimoséptimo".
 
@@ -120,7 +120,7 @@ Las palabras compuestas sin guion se comportan sintáctica y ortográficamente c
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.75
 **Contexto:** Un alumno analiza el uso de la tilde enfática en oraciones interrogativas y exclamativas en un taller de redacción en Iquitos.
 
@@ -144,7 +144,7 @@ La tilde enfática se coloca sobre los pronombres y adverbios relativos (que, qu
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.75
 **Contexto:** En el Colegio Nacional Coronel Bolognesi de Tacna, se examina la tildación de adverbios terminados en la partícula "-mente" (palabras ditónicas).
 
@@ -168,7 +168,7 @@ Los adverbios terminados en "-mente" constituyen la única excepción en españo
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Al redactar un correo formal solicitando información a la embajada, un estudiante limeño debe cuidar la ortografía de los verbos con pronombres enclíticos (pronombres pegados al final del verbo).
 
@@ -192,7 +192,7 @@ Los verbos con pronombres enclíticos se someten por completo a las reglas de ac
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de Trujillo escribe una carta de motivación para una beca minera y debe usar de forma correcta los monosílabos "de" y "dé".
 
@@ -216,7 +216,7 @@ La tilde diacrítica distingue la preposición átona "de" ("vestido de algodón
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Un editor de textos periodísticos en Chimbote corrige un artículo sobre la pesca artesanal en el que se confunden los monosílabos "te" y "té".
 
@@ -240,7 +240,7 @@ El monosílabo "te" es un pronombre personal átono de segunda persona ("te llam
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.70
 **Contexto:** Durante una práctica dirigida en Chiclayo, se propone corregir la acentuación de oraciones que contienen la palabra "solo" (adverbio/adjetivo) y los pronombres demostrativos (este, ese, aquel) tras las últimas reformas académicas de la RAE.
 
@@ -264,7 +264,7 @@ Las reformas ortográficas de la RAE buscan simplificar el sistema reduciendo ex
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.65
 **Contexto:** Un alumno de Huacho escribe un ensayo histórico sobre la Guerra del Pacífico y debe tildar correctamente palabras que contienen diptongos y triptongos.
 
@@ -288,7 +288,7 @@ La tilde disolvente o de hiato acentual se coloca obligatoriamente sobre la voca
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.65
 **Contexto:** En Cusco, un estudiante corrige un texto que contiene hiatos acentuales mal graficados o ignorados en palabras tradicionales quechuas castellanizadas como "Cahuachi" o "chamba".
 
@@ -312,7 +312,7 @@ El hiato acentual se produce cuando la sílaba tónica recae sobre la vocal cerr
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Un corrector de la editorial universitaria de la UNI analiza la acentuación de palabras que contienen hiatos simples de dos vocales abiertas idénticas como "proveer" o "cooperar" y de vocales abiertas distintas como "poeta".
 
@@ -336,7 +336,7 @@ Los hiatos formados por dos vocales abiertas (idénticas, como en "cooperar", "p
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** En las aulas de preparación de la UNMSM, se propone identificar cuántas tildes faltan en el siguiente párrafo redactado por un postulante distraído: "El joven teólogo de la UNI que viajó a Huaráz el miércoles analizó de forma rápida el porqué de la caída del caudal del río".
 
@@ -360,7 +360,7 @@ El alumno ejercita la discriminación ortográfica sílaba por sílaba, aplicand
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Un taller de lingüística en la UNSA evalúa el impacto de la tilde diacrítica en el pronombre "sí" (afirmación / pronombre personal reflexivo) frente a la conjunción "si" (condicional / nota musical).
 
@@ -385,7 +385,7 @@ La tilde diacrítica distingue la conjunción condicional átona "si" de sus hom
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.60
 **Contexto:** Durante las olimpiadas de comunicación en Chimbote, se debate sobre la correcta acentuación de palabras esdrújulas y llanas que contienen la letra "h" intermedia como "prohibir", "búho" o "cohete".
 
@@ -409,7 +409,7 @@ Dado que la "h" no representa ningún sonido en el español estándar moderno, c
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.55
 **Contexto:** Un evaluador del examen DECO de la UNMSM dictamina la validez de un párrafo académico que contiene múltiples casos de tildación diacrítica y enfática integradas en una sola argumentación.
 
@@ -434,7 +434,7 @@ La evaluación de párrafos complejos exige al estudiante dominar los cuatro tip
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.55
 **Contexto:** En un concurso de debate lingüístico en la Universidad Nacional del Altiplano en Puno, se analiza de forma crítica la coherencia ortográfica de un párrafo que describe la domesticación de camélidos andinos.
 
@@ -458,7 +458,7 @@ La evaluación profunda de textos formales exige aplicar la reforma de la RAE so
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal académico de la Universidad Nacional de Ingeniería (UNI) evalúa los errores ortográficos presentes en una tesis de hidráulica y dictamina la corrección de un polémico párrafo técnico.
 
@@ -483,7 +483,7 @@ La evaluación compleja exige dominar las reglas de acentuación de diptongos (e
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Ortografía y redacción
+**EJE:** Ortografía y redacción
 **Expected_Success:** 0.50
 **Contexto:** Un panel de la Academia Peruana de la Lengua somete a evaluación una oración compleja que integra hiatos, diptongos, monosílabos diacríticos y pronombres enclíticos en una sola línea discursiva.
 

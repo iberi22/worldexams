@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un grupo de estudiantes de quinto de secundaria en Lima analiza la narrativa urbana de la Generación del 50 peruana.
 
@@ -47,7 +47,7 @@ Julio Ramón Ribeyro consolidó el realismo urbano de la Generación del 50 en e
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un profesor en Arequipa explica las innovaciones técnicas del premio Nobel peruano Mario Vargas Llosa en su primera novela, *La ciudad y los perros* (1963).
 
@@ -71,7 +71,7 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** En el Colegio de la Independencia Americana de Arequipa, se lee el famoso cuento de Ribeyro titulado *Los gallinazos sin plumas*.
 
@@ -96,7 +96,7 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes del Colegio Claretiano en Trujillo analizan las complejas técnicas narrativas de Mario Vargas Llosa en su novela *Conversación en La Catedral* (1969).
 
@@ -121,7 +121,7 @@ Vargas Llosa utiliza *Conversación en La Catedral* como un bisturí social. Al 
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Un texto de crítica de la Universidad Nacional Mayor de San Marcos examina las innovaciones técnicas del "Boom" hispanoamericano que Vargas Llosa incorporó en su narrativa.
 
@@ -146,7 +146,7 @@ La técnica de los vasos comunicantes es una de las grandes firmas de Vargas Llo
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Un ensayo académico en Puno analiza el escepticismo y el humor agridulce que Julio Ramón Ribeyro plasma en el cuento de la Generación del 50 titulado *Al pie del acantilado*.
 
@@ -170,7 +170,7 @@ La Generación del 50 documentó de forma literaria la migración andina masiva 
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un crítico literario de la Universidad Nacional de Trujillo analiza cómo Ribeyro utiliza la ironía para satirizar el deseo de asimilación cultural de la clase media en el cuento *Alienación* (personaje Roberto López).
 
@@ -195,7 +195,7 @@ La literatura actúa como un laboratorio de ética cívica. El cuento *Alienaci�
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** En un concurso de ensayo de crítica contemporánea en Cusco, se analiza la representación del poder autoritario militar en la novela de Mario Vargas Llosa titulada *La fiesta del chivo* (2000), comparándola con su primerizo análisis militar del internado del Callao.
 
@@ -220,7 +220,7 @@ La aplicación de la novela histórica contemporánea al debate cívico exige qu
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de quinto de secundaria de un colegio nacional de Chimbote redacta una monografía de crítica teatral analizando las adaptaciones de los cuentos de Ribeyro al formato de radioteatro.
 
@@ -244,7 +244,7 @@ La adaptación de la ironía literaria de Ribeyro a formatos sonoros (radioteatr
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un boletín universitario en Chiclayo compara el estilo descriptivo neorrealista de Enrique Congrains Martín en su célebre libro *Lima, hora cero* (1954) con la prosa lírica andina de Arguedas.
 
@@ -268,7 +268,7 @@ La comparación de estilos permite al alumno notar cómo el fenómeno de la migr
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Un postulante de la UNI analiza la técnica del "monólogo interior múltiple" o polifonía poética que Mario Vargas Llosa despliega en la novela *La casa verde* (1966), ambientada en los arenales de Piura y los bosques de Santa María de Nieva.
 
@@ -292,7 +292,7 @@ La técnica de la polifonía y el monólogo interior disuelven las costuras del 
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Durante un taller de lectura de cuentos de la Generación del 50 en Huacho, se examina el cuento *Al pie del acantilado* y su uso de la parábola bíblica de la casa construida sobre la arena.
 
@@ -317,7 +317,7 @@ El alumno ejercita el pensamiento analítico alegórico. Al fundir un motivo rel
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En el Colegio de Alto Rendimiento (COAR) Tacna, se debate de forma crítica la veracidad del retrato de la aristocracia limeña en la Generación del 50 peruana.
 
@@ -342,7 +342,7 @@ El estudiante demuestra capacidad de análisis sociológico literario profundo a
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un simposio internacional de la UNMSM califica la trascendencia de la novela compleja de Mario Vargas Llosa frente a las novelas de dictadura clásicas de América Latina.
 
@@ -367,7 +367,7 @@ La novela de Vargas Llosa deconstruye los mitos de la marcialidad autoritaria de
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un análisis comparativo en Cusco confronta el realismo urbano de Julio Ramón Ribeyro en *Solo para fumadores* con su diario personal íntimo recogido bajo el título de *La tentación del fracaso*.
 
@@ -392,7 +392,7 @@ El alumno demuestra comprensión de alto nivel al ligar la biografía existencia
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes de un colegio parroquial de Cajamarca analizan el famoso cuento de Ribeyro titulado *El doblaje*, donde un hombre busca constatar la existencia de su "doble" biológico en Londres mediante un viaje obsesivo.
 
@@ -416,7 +416,7 @@ El Simbolismo y el cuento fantástico coexisten de forma fecunda con el realismo
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un panel de doctores en literatura de la Universidad Nacional Mayor de San Marcos evalúa la vigencia del eslogan crítico de Julio Ramón Ribeyro en *La palabra del mudo* tras setenta años de historia de la posguerra limeña.
 
@@ -441,7 +441,7 @@ La evaluación compleja exige conectar la teoría literaria con la sociología c
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un tribunal del concurso nacional de ensayo de la UNMSM valora de forma crítica el impacto histórico de las técnicas de Vargas Llosa en la consagración del "Boom" literario latinoamericano.
 
@@ -466,7 +466,7 @@ La ponderación imparcial de poéticas andinas y criollas permite al estudiante 
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal de la Academia de la Magistratura en Lima evalúa el impacto de la novela de Mario Vargas Llosa titulada *Conversación en La Catedral* como un "documento ético-histórico" de fiscalía moral cívica.
 
@@ -491,7 +491,7 @@ La evaluación profunda de la literatura del "Boom" exige que el alumno asocie l
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un panel de filólogos del Instituto Riva-Agüero de la PUCP evalúa la famosa distinción entre "realismo objetivo" (Ribeyro) y "realismo totalitario" (Vargas Llosa) dentro de la Generación del 50 peruana.
 

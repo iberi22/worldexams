@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Los estudiantes de quinto de secundaria del Colegio Nacional de la Independencia Americana en Arequipa estudian la literatura peruana republicana.
 
@@ -47,7 +47,7 @@ Ricardo Palma consolidó un subgénero narrativo netamente peruano: la tradició
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un profesor repasa el contexto histórico que propició el surgimiento del Realismo literario en el Perú a fines del siglo XIX.
 
@@ -71,7 +71,7 @@ La debacle militar y social de la Guerra del Pacífico expuso las profundas frac
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** En Trujillo, se lee un fragmento del famoso "Discurso en el Politeama" de Manuel González Prada de 1888.
 
@@ -96,7 +96,7 @@ El "Discurso en el Politeama" es el texto fundacional del Realismo combativo per
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes del Colegio Nacional de Ciencias de Cusco analizan la estructura narrativa de la tradición de Ricardo Palma titulada *Al rincón, quita-calzón*.
 
@@ -120,7 +120,7 @@ Ricardo Palma utiliza el humor y la anécdota pícara para humanizar a las figur
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Un ensayo académico de la Universidad Nacional de San Agustín (UNSA) analiza la visión del indígena en la literatura realista peruana frente a la visión del Romanticismo.
 
@@ -145,7 +145,7 @@ El Realismo peruano sentó las bases del posterior Indigenismo del siglo XX. Al 
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Los estudiantes del Colegio de Alto Rendimiento (COAR) Cajamarca leen la tradición histórica *Don Dimas de la Tijereta*, donde un viejo escribano burla al mismísimo diablo mediante una argucia legal de pleitos y leguleyos.
 
@@ -169,7 +169,7 @@ Palma utiliza la tradición para satirizar la cultura forense y la abundancia de
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Al escribir una reseña literaria sobre Clorinda Matto de Turner, un estudiante cuzqueño busca clasificar la novela *Aves sin nido* dentro de la corriente del Realismo peruano.
 
@@ -193,7 +193,7 @@ La literatura realista aplica la observación directa para registrar y fustigar 
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** En un taller de debate literario de la Universidad Nacional de Trujillo, se compara el estilo lingüístico de Ricardo Palma con el de Manuel González Prada.
 
@@ -218,7 +218,7 @@ La transferencia de modelos retóricos literarios exige diferenciar el costumbri
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de quinto de secundaria en Huaraz lee el ensayo *Nuestros indios* de Manuel González Prada para preparar una exposición escolar sobre sociología andina.
 
@@ -243,7 +243,7 @@ El alumno asocia las tesis decimonónicas realistas con propuestas históricas d
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** En una sesión de teatro escolar en Ica, se representa un pasaje de la tradición *Los tres motivos del oidor* de Ricardo Palma, que ilustra las intrigas del virreinato limeño.
 
@@ -267,7 +267,7 @@ La tradición como formato romántico peruano democratiza la historia oficial al
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** En un examen tipo admisión para el ingreso a la UNI, los postulantes analizan el uso de la retórica antitética (oposición de términos) en el estilo literario realista de González Prada.
 
@@ -292,7 +292,7 @@ La antítesis es un recurso estilístico clave de la retórica realista. Gonzál
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Un grupo de quinto de secundaria de Huancavelica asiste a una representación escénica del poema lírico costumbrista *A la muerte de Melgar* y de pasajes de la tradición *Los yaravíes de Melgar* de Ricardo Palma.
 
@@ -316,7 +316,7 @@ La asimilación romántica de las figuras patrias busca consagrar mitos de ident
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un análisis literario en el Colegio de Alto Rendimiento (COAR) Junín examina los recursos poéticos satíricos que González Prada utilizó en su poesía lírica frente a sus severos ensayos políticos.
 
@@ -341,7 +341,7 @@ El análisis del perfil estético de un autor exige que el estudiante integre co
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En la escuela de postgrado de Literatura de la UNMSM, se debate sobre la veracidad histórica del retrato de la sociedad virreinal que Ricardo Palma plasmó en las *Tradiciones peruanas*.
 
@@ -366,7 +366,7 @@ El alumno ejercita el análisis crítico de textos históricos de ficción al re
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Se confronta un fragmento de una carta de Ricardo Palma con un extracto del manifiesto de González Prada acerca del rol de la literatura peruana tras la posguerra.
 
@@ -392,7 +392,7 @@ La evaluación comparativa de poéticas permite al alumno mapear las grandes cor
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En un seminario sobre escritoras peruanas del siglo XIX en Arequipa, se analiza el rol de Clorinda Matto de Turner y Mercedes Cabello de Carbonera dentro de la corriente realista.
 
@@ -417,7 +417,7 @@ El Realismo peruano posee una riquísima vertiente de crítica liderada por escr
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un panel de críticos literarios de la PUCP califica el valor cívico del "Discurso en el Politeama" de González Prada tras más de un siglo de historia republicana peruana.
 
@@ -442,7 +442,7 @@ El pensamiento evaluativo exige al alumno calibrar la vigencia del patrimonio li
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** En Cusco, un estudiante de quinto de secundaria redacta una disertación escolar para valorar críticamente la estructura literaria de las *Tradiciones peruanas*.
 
@@ -470,7 +470,7 @@ La evaluación de las *Tradiciones* revela su trascendencia filológica. Al inte
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal del examen de admisión de la UNMSM propone ponderar de forma crítica el valor pedagógico del ensayo realista frente a la crónica costumbrista romántica en la educación nacional del siglo XX.
 
@@ -495,7 +495,7 @@ El estudiante demuestra capacidad de evaluación sistémica de alto nivel al con
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** En un foro internacional de peruanistas, se debate si el Realismo de Manuel González Prada y de Clorinda Matto de Turner puede ser catalogado como un movimiento "genuinamente nacionalista" o como una mera copia mimética de los modelos de Emilio Zola y del Realismo francés.
 

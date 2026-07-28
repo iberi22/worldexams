@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Los estudiantes de quinto de secundaria del Colegio Nacional San Juan de Trujillo repasan los clásicos de la novela social peruana.
 
@@ -47,7 +47,7 @@ Ciro Alegría retrata la vida andina del norte del Perú destacando el valor int
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.85
 **Contexto:** Un profesor en Andahuaylas introduce la lectura de *Los ríos profundos* (1958) de José María Arguedas.
 
@@ -71,7 +71,7 @@ El zumbayllu o trompo mágico andino es un símbolo arguediano fundamental en *L
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** En un círculo de lectura crítica de la Universidad Nacional de San Cristóbal de Huamanga, se lee la célebre frase del viejo alcalde Rosendo Maqui en *El mundo es ancho y ajeno*.
 
@@ -96,7 +96,7 @@ La novela de Ciro Alegría confronta dos cosmovisiones jurídicas y existenciale
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.80
 **Contexto:** Los estudiantes del Colegio Nacional de la Independencia Americana en Arequipa analizan la psicología del protagonista de *Los ríos profundos*, Ernesto.
 
@@ -120,7 +120,7 @@ Ernesto es el arquetipo del protagonista mestizo de Arguedas. Su drama psicológ
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** Un texto de crítica literaria de la UNMSM examina la innovación lingüística de José María Arguedas en la prosa narrativa en español de sus novelas.
 
@@ -145,7 +145,7 @@ Arguedas superó el indigenismo costumbrista exterior que retrataba al indio usa
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.75
 **Contexto:** En el Colegio de Alto Rendimiento (COAR) Apurímac, los estudiantes analizan el rol del cura director Linares y de las chicheras en la rebelión de la sal en *Los ríos profundos*.
 
@@ -169,7 +169,7 @@ Arguedas expone la colusión de poderes feudales andinos. El Padre Linares repre
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un biógrafo de José María Arguedas escribe una nota escolar de divulgación sobre el carácter "autobiográfico" de *Los ríos profundos* y su valor pedagógico.
 
@@ -193,7 +193,7 @@ La literatura arguediana posee un hondo aliento vivencial y testimonial. Ernesto
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un taller literario en Trujillo analiza el indigenismo del norte peruano a través de los escritos de Ciro Alegría, evaluando cómo este retrata la justicia comunal.
 
@@ -218,7 +218,7 @@ El alumno transfiere el conflicto literario-histórico de la novela indigenista 
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** En el Colegio Claretiano de Huancayo, se propone escenificar la tradición lírica y el canto quechua de *Los ríos profundos*, valorando el concepto de la "música y el río" como lenguajes de la naturaleza andina.
 
@@ -243,7 +243,7 @@ La representación dramática de la poética de Arguedas exige un riguroso respe
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.70
 **Contexto:** Un boletín escolar en Cusco compara la representación de los terratenientes o gamonales en las novelas indigenistas del siglo XX peruano de Ciro Alegría y José María Arguedas.
 
@@ -267,7 +267,7 @@ La comparación de poéticas indigenistas permite al alumno calibrar los dos gra
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** En un examen tipo admisión para ingresar a la UNMSM (DECO), se analiza un fragmento descriptivo de la pared de granito incaico de la calle Hatun Rumiyoc en Cusco, al inicio de *Los ríos profundos*.
 
@@ -291,7 +291,7 @@ La poética arguediana dota a las piedras prehispánicas de Cusco de una cualida
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** Los estudiantes de quinto de secundaria de Huancavelica analizan la figura del mestizo traidor o servil encarnada por el "pongo" o colono sirviente en la literatura indigenista.
 
@@ -315,7 +315,7 @@ El análisis del cuento de Arguedas permite al estudiante valorar el rol de la a
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** En el Colegio Nacional Nuestra Señora de Guadalupe en Lima, se realiza un taller de literatura andina contemporánea para examinar la deconstrucción del "mito de Inkarri" y su presencia en la narrativa arguediana.
 
@@ -340,7 +340,7 @@ La evaluación de la presencia del mito andino de Inkarri permite al alumno comp
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un seminario académico en la Universidad de Ciencias y Humanidades en Lima confronta de manera crítica el indigenismo ortodoxo del siglo XX con el "Neoindigenismo" o realismo mágico andino de Manuel Scorza en *Redoble por Rancas* (1970).
 
@@ -365,7 +365,7 @@ El alumno asimila el paso del indigenismo clásico (Alegría, Arguedas) al Neoin
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Los estudiantes del Colegio Claretiano de Huancayo examinan de forma analítica el dilema de la migración del campesino indio hacia las urbes de la costa que Ciro Alegría esboza al final de *El mundo es ancho y ajeno*.
 
@@ -390,7 +390,7 @@ El alumno analiza de forma crítica la transición demográfica andina. Ciro Ale
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.60
 **Contexto:** Un taller literario en el Colegio de San Juan de Trujillo confronta la representación de las costumbres agrarias andinas del norte peruano (Ciro Alegría) con el folclore de la sierra sur (José María Arguedas).
 
@@ -415,7 +415,7 @@ La evaluación comparativa de estilos indigenistas enriquece el análisis litera
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un catedrático de la Universidad Nacional de Educación Enrique Guzmán y Valle (La Cantuta) evalúa el valor ético y pedagógico del cuento *Paco Yunque* de César Vallejo frente a la narrativa de José María Arguedas en la educación escolar peruana.
 
@@ -440,7 +440,7 @@ El pensamiento crítico exige al estudiante evaluar el impacto de la literatura 
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** Un tribunal de la Academia Peruana de la Lengua califica la trascendencia filológica y literaria de la quechuización del castellano operada por Arguedas frente a la prosa culta modernista.
 
@@ -465,7 +465,7 @@ La transculturación lingüística operada por Arguedas reconcilia los dos mundo
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un tribunal internacional del premio iberoamericano "Ciro Alegría" en Trujillo debate si *El mundo es ancho y ajeno* posee una estructura de "novela total de resistencia colectiva" o si es un melodrama costumbrista romántico simple del siglo XX.
 
@@ -489,7 +489,7 @@ La evaluación de la arquitectura narrativa de *El mundo es ancho y ajeno* revel
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** Un panel de antropólogos de la PUCP evalúa el famoso discurso de despedida que Arguedas pronunció en 1969 bajo el título *No soy un aculturado*, valorando críticamente su declaración de identidad bilingüe y multicultural andina peruana.
 

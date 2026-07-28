@@ -23,7 +23,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** En una sesión de aprendizaje del Colegio Nacional de Ciencias en Cusco, los estudiantes de quinto de secundaria identifican las partes de un artículo científico.
 
@@ -47,7 +47,7 @@ El resumen o *abstract* es la parte inicial y fundamental de todo texto de inves
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Durante el análisis de un informe sobre el deshielo del nevado Huascarán, un estudiante de Huaraz subraya palabras técnicas o neologismos del texto.
 
@@ -71,7 +71,7 @@ La ciencia exige un lenguaje denotativo y preciso. Los tecnicismos evitan ambig�
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Los alumnos del Colegio Nacional Nuestra Señora de Guadalupe en Lima leen un fragmento sobre la biodiversidad de los microclimas andinos.
 
@@ -96,7 +96,7 @@ El conector "En consecuencia" es un marcador discursivo consecutivo explícito. 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** En Chachapoyas, un grupo de quinto de secundaria lee un texto sobre los últimos hallazgos arqueológicos mediante tecnología LIDAR en la fortaleza de Kuélap.
 
@@ -121,7 +121,7 @@ El alumno debe identificar la información literal y comprender las implicancias
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Un texto de divulgación médica analiza los hábitos de consumo de plantas medicinales en la sierra central del Perú, evaluando científicamente sus componentes activos.
 
@@ -146,7 +146,7 @@ La síntesis textual requiere balancear las dos tesis presentadas: la corroborac
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Los estudiantes del Colegio de Alto Rendimiento (COAR) de Junín examinan un artículo sobre la introducción de truchas en los lagos andinos durante el siglo XX.
 
@@ -171,7 +171,7 @@ El análisis del término "paradoja" exige que el alumno asocie la coexistencia 
 ## Question 7 [D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Un biólogo dicta una charla en la Universidad Nacional de San Agustín de Arequipa sobre el uso de insecticidas ecológicos a base de rocoto (*Capsicum pubescens*).
 
@@ -196,7 +196,7 @@ El estudiante debe transferir los conocimientos teóricos del texto científico 
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Un equipo de divulgación de la salud en Iquitos publica un folleto preventivo sobre la transmisión del dengue en periodos de inundación fluvial.
 
@@ -221,7 +221,7 @@ La aplicación de la tesis del texto científico exige derivar medidas lógicas 
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** En un taller de lectura crítica de la Universidad Nacional del Centro del Perú (UNCP), se analiza el impacto del pastoreo intensivo en los bofedales altoandinos.
 
@@ -246,7 +246,7 @@ El alumno aplica el análisis comparativo del impacto físico de las especies ga
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Un boletín científico escolar en Trujillo analiza los beneficios de la harina de pota (*Dosidicus gigas*) frente al consumo tradicional de harinas de trigo en la nutrición de niños en edad escolar.
 
@@ -271,7 +271,7 @@ La solución ideal debe respetar los porcentajes y condiciones físicas (palatab
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.65
 **Contexto:** Un texto del Instituto Geofísico del Perú (IGP) evalúa las tecnologías de alerta temprana sísmica en la costa peruana mediante sensores de ondas primarias (ondas P).
 
@@ -296,7 +296,7 @@ La aplicación tecnológica de los segundos de ventaja detectados por ondas P re
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.65
 **Contexto:** Un reporte del Instituto de Investigaciones de la Amazonía Peruana (IIAP) detalla el potencial biorremediador del hongo *Pestalotiopsis microspora* en suelos contaminados por hidrocarburos.
 
@@ -321,7 +321,7 @@ El concepto de biorremediación implica usar organismos vivos para degradar cont
 ## Question 13 [D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** En la Academia de Ciencias de la UNI, los estudiantes analizan un gráfico teórico sobre la correlación entre la concentración de arsénico en cuencas fluviales y la actividad geológica minera andina.
 
@@ -346,7 +346,7 @@ El análisis crítico requiere evaluar los argumentos en conflicto. El autor se�
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Durante un simposio internacional de la Universidad Nacional de Trujillo, se confrontan dos posturas respecto al uso del "rastrojo de caña de azúcar" para producir biocombustibles.
 
@@ -372,7 +372,7 @@ Los estudiantes analizan posturas complejas contrapuestas sobre el desarrollo bi
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** En Caral, un antropólogo explica cómo se determinó que esta civilización utilizaba un sofisticado sistema de intercambio de anchovetas secas con comunidades de la sierra andina.
 
@@ -397,7 +397,7 @@ La evaluación de hipótesis concurrentes exige analizar las marcas de corte (ev
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Un biólogo marino publica una nota de divulgación sobre el blanqueamiento de los arrecifes de coral en las islas Lobos de Afuera debido a anomalías térmicas de El Niño.
 
@@ -422,7 +422,7 @@ El alumno ejercita el pensamiento analítico al rastrear la secuencia biológica
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.55
 **Contexto:** En un debate escolar en Huacho, se somete a juicio crítico un artículo que propone cultivar masivamente eucaliptos (*Eucalyptus globulus*) para mitigar el cambio climático en los andes peruanos.
 
@@ -448,7 +448,7 @@ La evaluación de textos requiere sopesar argumentos de impacto contrapuestos (m
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.55
 **Contexto:** Un ensayo académico de la UNMSM analiza con rigor metodológico el supuesto descubrimiento de un "gen de la longevidad" en poblaciones andinas de Vilcabamba.
 
@@ -473,7 +473,7 @@ El pensamiento crítico en ciencias se basa en evaluar la validez metodológica:
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.50
 **Contexto:** Un epidemiólogo evalúa dos modelos matemáticos diseñados para predecir brotes de malaria en la Amazonía peruana: Modelo P (basado en precipitación fluvial) y Modelo T (basado en densidad demográfica rural).
 
@@ -499,7 +499,7 @@ La evaluación compleja exige integrar múltiples modelos predictivos. El alumno
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.50
 **Contexto:** En un foro académico de la PUCP, se discute un polémico paper que afirma que la domesticación de la papa en el altiplano andino hace 8000 años se debió exclusivamente a un cambio climático benigno del Holoceno Medio.
 
