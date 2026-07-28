@@ -76,6 +76,7 @@
     "@trystero-p2p/supabase": "^0.23.1",
     "astro": "^7.0.3",
     "chart.js": "^4.5.1",
+    "edge-mesh": "file:../../edge-mesh",
     "html2canvas": "^1.4.1",
     "jspdf": "^4.2.1",
     "katex": "^0.16.40",
@@ -100,6 +101,7 @@
     "baseline-browser-mapping": "^2.10.10",
     "gray-matter": "^4.0.3",
     "husky": "^9.1.7",
+    "js-yaml": "4.3.0",
     "jsdom": "^29.0.1",
     "lint-staged": "^16.4.0",
     "pagefind": "^1.4.0",
@@ -107,7 +109,7 @@
     "vitest": "^4.0.16"
   },
   "overrides": {
-    "rollup": "^4.59.0"
+    "js-yaml": "4.3.0"
   },
   "lint-staged": {
     "*.{js,ts,astro,svelte}": [
