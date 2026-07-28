@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-8-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.422Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define el vicio del lenguaje denominado 'anfibología' o 'ambigüedad'?",
+      "context": "Un estudiante de secundaria en Trujillo estudia los vicios del lenguaje para mejorar su redacción formal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición monótona y desagradable de una misma consonante o sílaba en una frase corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define a la cacofonía, no a la anfibología."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de claridad que permite interpretar una misma oración o frase de dos o más formas diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. La anfibología ocurre cuando el orden de las palabras o el uso impreciso de pronombres y preposiciones da lugar a dobles interpretaciones del mensaje, afectando la inteligibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de vocablos extranjeros adaptados de forma defectuosa a la ortografía española",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con el barbarismo o extranjerismo crudo, no con la ambigüedad estructural."
+        },
+        {
+          "letter": "D",
+          "text": "La elisión del verbo copulativo en cláusulas adjetivas restrictivas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elisión del verbo cópula es un recurso sintáctico llamado elipsis, totalmente lícito y correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anfibología es un vicio de construcción sintáctica que oscurece el sentido del texto al abrir múltiples posibilidades de interpretación del enunciado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes palabras constituye un barbarismo léxico o error ortográfico severo frente a la norma de la RAE?",
+      "context": "Se analizan los barbarismos en el habla cotidiana de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "idiosincrasia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la grafía correcta para referirse al temperamento de un grupo; escribir 'idiosincrazia' con z o c errónea sería barbarismo."
+        },
+        {
+          "letter": "B",
+          "text": "prever",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la grafía correcta del verbo que significa ver con anticipación; el error común es escribirlo redundante 'preveer'."
+        },
+        {
+          "letter": "C",
+          "text": "habían",
+          "is_correct": true,
+          "feedback": "Correcto. Usar 'habían' como verbo impersonal que indica existencia en plural es un solecismo o barbarismo de concordancia muy grave (ej. 'Habían muchos postulantes en la UNI' en lugar del correcto 'Había muchos postulantes')."
+        },
+        {
+          "letter": "D",
+          "text": "jesuita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la grafía correcta para referirse al miembro de la Compañía de Jesús."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El verbo 'haber' en su uso impersonal para indicar existencia de objetos es defectivo y solo admite la tercera persona del singular (había, hubo, habrá, ha habido), constituyendo un solecismo muy frecuente emplearlo en plural.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Lea el enunciado del borrador:\n'El agua se calentó a una temperatura muy caliente, produciendo un vapor gaseoso que subió hacia arriba por el tubo'.\n¿Qué vicios de redacción (redundancias léxicas) presenta esta oración y cómo deben corregirse?",
+      "context": "Un estudiante en Chiclayo corrige un borrador de su informe de química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incurre en dequeísmo y queísmo, debiendo decirse 'de que subió'",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay errores de dequeísmo o queísmo en la frase; el problema es puramente de pleonasmo o redundancia."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta múltiples redundancias vulgares ('temperatura muy caliente', 'vapor gaseoso', 'subió hacia arriba') que deben depurarse para lograr concisión",
+          "is_correct": true,
+          "feedback": "Correcto. 'Calentar a temperatura caliente' es redundante; el vapor es por definición gaseoso; y el verbo 'subir' contiene en su semántica la dirección ascendente. La corrección ideal sería: 'El agua se calentó a alta temperatura, produciendo un vapor que ascendió por el tubo'."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta solecismo de concordancia entre 'agua' (femenino) y 'calentó' (masculino)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo 'calentó' no tiene género; concuerda correctamente en tercera persona singular con el sujeto 'agua'."
+        },
+        {
+          "letter": "D",
+          "text": "Incurre en cacofonía por la repetición de la consonante T en 'tubo'",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consonante T no genera cacofonía molesta en esta posición; la redundancia de ideas es el defecto principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La redundancia o pleonasmo vicioso consiste en utilizar palabras innecesarias que no añaden información nueva al mensaje, atentando contra los principios de concisión y precisión de la redacción académica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "En la teoría lingüística, ¿cuál es el factor primordial que determina que un texto posea la propiedad de la 'adecuación'?",
+      "context": "Se enseña el concepto de 'adecuación textual' en un colegio de Tacna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad exacta de palabras esdrújulas utilizadas en el primer párrafo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía es importante, pero la adecuación responde a variables pragmáticas y de contexto."
+        },
+        {
+          "letter": "B",
+          "text": "La correcta elección del registro lingüístico (formal/informal) y del tono del mensaje según el destinatario, el canal y el propósito comunicativo",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto es adecuado si el emisor sabe seleccionar el nivel de lengua apropiado para su interlocutor (ej. un registro culto y formal para un oficio a la SUNAT, o un registro familiar para una carta a un amigo)."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia absoluta de todo tipo de conectores condicionales y adversativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de conectores es necesario para la cohesión; eliminarlos de forma caprichosa dañaría la inteligibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El uso obligatorio de figuras literarias como la metáfora en textos científicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los textos científicos prima el lenguaje denotativo y directo; la metáfora sería inadecuada para la precisión científica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación es una propiedad pragmática. Exige adaptar la forma y el fondo del discurso a las circunstancias concretas de la comunicación (emisor, receptor, tema, situación).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Identifique la oración que incurre en el vicio del lenguaje denominado 'queísmo' (u omisión de preposición necesaria):",
+      "context": "Un estudiante de Cusco detecta un error de 'queísmo' en la redacción de su monografía de historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La profesora insistió en que debíamos repasar la gramática para el examen de admisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto: el verbo 'insistir' rige la preposición 'en' (insistir *en que*)."
+        },
+        {
+          "letter": "B",
+          "text": "Tengo la seguridad de que los estudiantes peruanos ingresarán a la universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto: el sustantivo 'seguridad' rige la preposición 'de' (seguridad *de que*)."
+        },
+        {
+          "letter": "C",
+          "text": "Ella se dio cuenta que era tarde para matricular el taller de literatura andina.",
+          "is_correct": true,
+          "feedback": "Correcto. Incurre en queísmo. La locución verbal 'darse cuenta' exige obligatoriamente la preposición 'de' antes del nexo 'que' ('darse cuenta *de que* era tarde'). Su omisión es un error gramatical."
+        },
+        {
+          "letter": "D",
+          "text": "Me alegra que los jóvenes muestren tanto interés por el cuidado de las reservas de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto: 'alegrar' es transitivo en este contexto, rigiendo un sujeto directo sin preposición ('Me alegra *eso*' -> 'Me alegra *que...*')."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El queísmo consiste en suprimir de forma indebida la preposición 'de' (o cualquier otra preposición necesaria) antes del nexo subordinante 'que', desvirtuando la estructura sintáctica requerida por el verbo o sustantivo regente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Lea la oración:\n'La águila altiva voló con rapidez sobre la área protegida de la reserva'.\n¿Qué errores de concordancia y de cacofonía presenta este enunciado según las reglas gramaticales vigentes?",
+      "context": "Un ejercicio sobre el vicio del lenguaje conocido como 'cacofonía' en un colegio de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El término 'altiva' debe escribirse con H intermedia para concordar con 'águila'",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Altiva' no lleva H en ninguna posición de su raíz etimológica."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en un mal uso de los artículos femeninos antes de sustantivos que inician con 'a' tónica, debiendo decirse 'El águila' y 'el área'",
+          "is_correct": true,
+          "feedback": "Correcto. Los sustantivos femeninos que inician con 'a' o 'ha' tónica exigen el artículo masculino 'el' en singular para evitar el sonido discordante de la cacofonía ('El águila altiva', 'el área protegida'). Los adjetivos calificativos acompañantes ('altiva', 'protegida') se mantienen en femenino."
+        },
+        {
+          "letter": "C",
+          "text": "Debería escribirse 'La águila' porque el sustantivo 'águila' es de género neutro en castellano",
+          "is_correct": false,
+          "feedback": "Incorrecto. En español no existen sustantivos de género neutro; 'águila' es femenino y el cambio de artículo es meramente fonético por cacofonía."
+        },
+        {
+          "letter": "D",
+          "text": "El verbo 'voló' debe cambiarse a plural para concordar con la cercanía de la palabra 'área'",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es el águila (singular), por lo que el verbo debe concordar obligatoriamente en singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para evitar el encuentro cacofónico de la 'a' final del artículo 'la' con la 'a' inicial tónica del sustantivo, la gramática del castellano impone el uso de la forma 'el' del artículo para los nombres femeninos singulares que empiezan por 'a' o 'ha' tónica (el agua, el águila, el área, el hambre).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Lea el enunciado de un informe sobre patrimonio andino:\n'El Ministerio decidió ________ con nuevos tributos a las empresas mineras para enriquecer el ________ cultural de la nación'.\n¿Qué par de vocablos completa el enunciado con propiedad ortográfica y semántica impecable?",
+      "context": "Se evalúa la precisión en el uso de palabras homófonas en un examen en Chiclayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grabar / acervo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Grabar' con B significa registrar sonidos/imágenes o tallar una superficie, inadecuado para referirse a la imposición de tributos."
+        },
+        {
+          "letter": "B",
+          "text": "gravar / acervo",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo 'gravar' (con V) significa imponer un impuesto, tasa o gravamen económico. El sustantivo 'acervo' (con V) representa el patrimonio de bienes culturales o comunes de una colectividad."
+        },
+        {
+          "letter": "C",
+          "text": "gravar / acerbo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo 'acerbo' (con B) significa áspero, amargo o cruel, inadecuado para designar el patrimonio cultural nacional."
+        },
+        {
+          "letter": "D",
+          "text": "grabar / acerbo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos vocablos presentan errores de selección semántica para las funciones y significados del enunciado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El par homófono 'gravar / grabar' y 'acervo / acerbo' exige un dominio de la correspondencia semántica y ortográfica. Gravar (tributo) y acervo (patrimonio) se escriben ambos con V.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Identifique la oración que presenta un uso CORRECTO de las reglas de concordancia gramatical:",
+      "context": "Un ejercicio de identificación de solecismos por discordancia de número en Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayoría de los postulantes que rindieron el examen ingresaron a la universidad pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta concordancia colectiva lícita, pero busquemos un solecismo de discordancia evidente: 'La gente de las provincias andinas solicitaron ayuda al Estado para mitigar las heladas'. Aquí, 'gente' es singular y el verbo 'solicitaron' está en plural."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo de arqueólogos de San Marcos descubrieron una nueva tumba prehispánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto colectivo singular 'grupo' exige concordancia en singular en la redacción formal estricta ('descubrió'), a pesar del modificador plural."
+        },
+        {
+          "letter": "C",
+          "text": "La dotación de insumos médicos para los hospitales rurales fue distribuida de manera oportuna por el Ministerio.",
+          "is_correct": true,
+          "feedback": "Correcto. El núcleo del sujeto es el sustantivo singular femenino 'La dotación'. El verbo copulativo pasivo concuerda perfectamente en tercera persona singular femenino: 'fue distribuida'."
+        },
+        {
+          "letter": "D",
+          "text": "Se vende departamentos amoblados en el centro histórico de la ciudad de Arequipa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en solecismo de pasiva refleja: al ser 'departamentos amoblados' el sujeto plural pasivo, el verbo debe concordar obligatoriamente en plural: 'Se venden departamentos...' (Los departamentos son vendidos)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia gramatical exige la correspondencia de número y persona entre el núcleo del sujeto y el verbo principal de la oración, evitando la atracción sintáctica de modificadores secundarios pluralizados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Lea el fragmento de un relato de viaje:\n'Llegamos a Huaraz de madrugada. Desde allí, contemplamos las cumbres del Huascarán que brillaban bajo el sol'.\n¿Cuál es la función sintáctica y cohesiva que cumple el término destacado 'Desde allí'?",
+      "context": "Un taller literario en Chiclayo evalúa el uso de los deícticos temporales y espaciales en la narración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circunstancial de Instrumento; evoca la cámara fotográfica usada para retratar la montaña",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Allí' es un adverbio de lugar y no alude a un instrumento tecnológico."
+        },
+        {
+          "letter": "B",
+          "text": "Complemento agente; realiza de forma física la acción de brillar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de brillar son 'las cumbres del Huascarán'; el complemento deíctico no es agente."
+        },
+        {
+          "letter": "C",
+          "text": "Circunstancial de lugar con función anafórica deíctica; recupera espacialmente al antecedente geográfico 'Huaraz'",
+          "is_correct": true,
+          "feedback": "Correcto. 'Desde allí' es un circunstancial de lugar. El adverbio deíctico 'allí' remite de manera anafórica a la ciudad de 'Huaraz' mencionada en la oración previa, garantizando la cohesión espacial sin repetir el nombre propio."
+        },
+        {
+          "letter": "D",
+          "text": "Atributo copulativo; califica el estado de ánimo contemplativo del viajero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los deícticos de lugar no funcionan como atributos copulativos de calificación anímica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los deícticos espaciales y temporales (aquí, allí, ahora, entonces) operan como puentes cohesivos en los textos, anclando de forma anafórica o catafórica las referencias geográficas y temporales del discurso.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "En la redacción académica formal, el uso de verbos comodín como 'hacer', 'tener' o 'dar' es considerado un defecto de precisión léxica. ¿Cuál de las siguientes opciones reemplaza el verbo comodín destacado con la palabra más precisa y culta?\n'El comité de becas decidió hacer una investigación rigurosa de los expedientes'.",
+      "context": "Se estudia el concepto de 'precisión léxica' frente al uso de verbos comodín (verbos 'baúl') en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "decidió dar una investigación rigurosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Dar una investigación' mantiene el uso de un verbo comodín e informal."
+        },
+        {
+          "letter": "B",
+          "text": "decidió emprender (o acometer / realizar / efectuar / desarrollar) una investigación rigurosa",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo 'emprender', 'realizar' o 'efectuar' dota a la frase de precisión léxica y elegancia académica, superando la pobreza verbal del verbo genérico 'hacer'."
+        },
+        {
+          "letter": "C",
+          "text": "decidió poseer una investigación rigurosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Poseer' no concuerda semánticamente con la acción dinámica de investigar expedientes."
+        },
+        {
+          "letter": "D",
+          "text": "decidió hacerle una revisadita rigurosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de diminutivos y coloquialismos ('revisadita') rebaja el registro de la redacción académica a un nivel informal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La precisión léxica exige seleccionar el término con el significado más exacto y específico para la acción descrita, desterrando los verbos comodín que denotan pobreza de vocabulario del emisor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Lea la oración ambigua de un folleto escolar:\n'El profesor de ciencias felicitó a su alumno por su excelente monografía en su aula'.\n¿Cuál de las siguientes opciones reescribe el texto de forma totalmente unívoca y cohesionada, aclarando a quién pertenece la oficina o aula?",
+      "context": "Un examen sobre corrección idiomática en Piura aborda la eliminación de anfibologías.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Felicitaron al alumno por la excelente monografía de parte del profesor en su propia aula de ciencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el posesivo ambiguo 'su propia aula' sin resolver la confusión de pertenencia."
+        },
+        {
+          "letter": "B",
+          "text": "El profesor felicitó en su aula a su alumno de ciencias por su monografía excelente de él.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'De él' es redundante e informal y no disipa con claridad a quién pertenece el aula geográfica."
+        },
+        {
+          "letter": "C",
+          "text": "En el aula de ciencias, el profesor felicitó al alumno por la excelente monografía que este último había redactado.",
+          "is_correct": true,
+          "feedback": "Correcto. El orden sintáctico separa de forma clara las circunstancias: sitúa el lugar al inicio ('En el aula de ciencias', que suele pertenecer al profesor o institución) y emplea el pronombre demostrativo de relativo complejo 'este último' para referirse sin ambigüedad alguna al alumno como autor indiscutible de la monografía."
+        },
+        {
+          "letter": "D",
+          "text": "El profesor de ciencias le dio una felicitación por su monografía al alumno en su propia clase de él.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redacción engorrosa plagada de vicios del lenguaje y redundancias de posesión informales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anfibología por adjunción de sintagmas preposicionales al final de la frase se resuelve reordenando los circunstanciales al inicio de la oración y utilizando pronombres referenciales precisos (como este último) para deslindar la agencia de los sujetos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Lea el fragmento del artículo editorial:\n'Los delegados estudiantiles están convencidos ________ que la propuesta de becas será aprobada. Sin embargo, no cabe duda ________ la decisión final depende de los recursos del Ministerio'.\n¿Qué secuencia de nexos restituye la corrección sintáctica de las dos cláusulas?",
+      "context": "Un ejercicio sobre el solecismo por dequeísmo y queísmo en un periódico escolar de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "que / de que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en queísmo en la primera cláusula ('convencidos de algo', exige de que) y dequeísmo en la segunda ('duda que', exige de que, no, reevaluemos)."
+        },
+        {
+          "letter": "B",
+          "text": "de que / de que",
+          "is_correct": true,
+          "feedback": "Correcto. En el primer caso, el adjetivo 'convencido' rige obligatoriamente la preposición 'de' ('convencidos *de que*'). En el segundo caso, la locución 'no cabe duda' rige la preposición 'de' de forma constitutiva ('no cabe duda *de que*'). Ambas cláusulas exigen 'de que'."
+        },
+        {
+          "letter": "C",
+          "text": "que / que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en queísmo de forma sistemática en ambas cláusulas oracionales, violando la subordinación obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "de que / que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en queísmo en la segunda cláusula; la locución exige la preposición 'de' ('no cabe duda de que')."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar si corresponde usar 'que' o 'de que', se puede sustituir la proposición por el pronombre neutro 'eso'. Si la frase resulta correcta con 'de eso' (ej. 'convencidos *de eso*', 'no cabe duda *de eso*'), la preposición de es obligatoria antes de que.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Lea el siguiente memorándum con un error frecuente de concordancia distributiva:\n'Las oficinas regionales enviaron sendos informes a la sede central, la cual revisó cada uno de ellos de manera secuencial'.\n¿Cuál es el significado gramatical correcto de la palabra 'sendos' y en qué error incurre el emisor que escribe 'enviaron un sendo informe'?",
+      "context": "Análisis del solecismo por discordancia en construcciones distributivas en la administración pública de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa 'grandioso o extraordinario'; y el error es usarlo en minúscula",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Sendos' no significa grandioso o enorme, a pesar del uso popular erróneo de la expresión."
+        },
+        {
+          "letter": "B",
+          "text": "Significa 'ambos'; y el error es aplicarlo a tres o más sujetos coordinados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque incluye dualidad, el significado preciso es distributivo plural."
+        },
+        {
+          "letter": "C",
+          "text": "Significa 'uno para cada uno de los sujetos o elementos referidos'; e incurre en error de concordancia distributiva y de número al usarlo en singular ('sendo informe')",
+          "is_correct": true,
+          "feedback": "Correcto. 'Sendos/sendas' es un adjetivo distributivo plural que significa 'uno para cada uno' (ej. 'tres personas recibieron sendos diplomas' = cada una recibió un diploma). Carece de forma singular, por lo que escribir o decir 'un sendo golpe' o 'un sendo informe' atribuyéndole el significado de 'grande' o 'único' es un barbarismo sintáctico severo."
+        },
+        {
+          "letter": "D",
+          "text": "Significa 'sin fecha de vencimiento'; y el error es aplicarlo al balance presupuestal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene significado de temporalidad o de vencimiento legal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El adjetivo distributivo 'sendos/sendas' siempre se emplea en plural y concuerda con los sustantivos correspondientes. Su uso con valor semántico de 'grande', 'fuerte' o 'único' constituye un error grave contra la precisión léxica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Lea las dos propuestas de justificación de un proyecto científico escolar:\n**Texto A:** 'La investigación sobre las lomas de Lachay es bacán porque nos va a permitir chequear cómo la neblina riega las plantas recontra rústicas del desierto'.\n**Texto B:** 'El presente estudio ecológico posee como objetivo analizar el impacto de la captación de agua de neblina en el perfil hídrico de la flora endémica de las lomas'.\n¿Qué criterios de adecuación textual y precisión científica diferencian de forma objetiva ambas propuestas?",
+      "context": "Un examen de admisión UNI evalúa la adecuación lingüística de un texto académico frente a uno informal coloquial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A es adecuado porque la jerga juvenil es más eficiente para los artículos científicos indexados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jerga juvenil desvaloriza la objetividad e impide la indexación académica formal."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto B es inadecuado porque el uso de vocablos específicos como 'flora endémica' confunde a la SUNAT",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos botánicos son adecuados y obligatorios en ciencias; la SUNAT no evalúa proyectos ecológicos de esta índole botánica."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A incurre en inadecuación por el uso de jerga informal, adjetivos vagos ('bacán', 'recontra') y verbos coloquiales ('chequear'), mientras que el Texto B cumple plenamente la adecuación formal mediante un léxico preciso, tono denotativo y registro académico culto",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A rompe con las normas del registro formal exigido en las disciplinas científicas, recurriendo a localismos informales. El Texto B emplea con total precisión los términos técnicos correspondientes ('captación de agua', 'flora endémica', 'perfil hídrico') y un tono denotativo riguroso."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos son adecuados porque la ciencia moderna peruana prohíbe el uso de la tercera persona gramatical",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera persona es el estándar de objetividad científica en todo el mundo, no una prohibición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La adecuación léxica de los escritos científicos impone desterrar el registro coloquial, los giros afectivos y la imprecisión terminológica, optando por el lenguaje formal denotativo y un vocabulario especializado unívoco.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Lea los siguientes enunciados de redacción publicitaria:\nI. 'Se venden cocinas a gas de bajo consumo en el centro comercial'.\nII. 'Se venden cocinas de gas de bajo consumo en el centro comercial'.\nDe acuerdo con la norma ortográfica de la RAE y el buen uso preposicional del español estándar, ¿cuál de las dos estructuras es la recomendada para la redacción formal culta?",
+      "context": "Un análisis sobre el solecismo por inadecuación preposicional en el plano comercial de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La I, porque la preposición 'a' indica la finalidad física obligatoria del artefacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La preposición 'a' no indica de forma natural el combustible o motor de funcionamiento de las máquinas en el estándar clásico."
+        },
+        {
+          "letter": "B",
+          "text": "La II, porque la preposición 'de' es la idónea para señalar el combustible o la fuente de energía que hace funcionar al objeto (cocina de gas, motor de gasolina, barco de vapor)",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la estructura 'cocina a gas' está muy extendida por influencia del francés ('à gaz') o uso popular comercial, la norma académica del español prefiere y recomienda emplear la preposición 'de' para especificar la fuente de alimentación o motor de las máquinas (cocina de gas, barco de vapor, estufa de leña)."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones son totalmente incorrectas porque debe decirse 'cocinas con gas' de forma obligatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Cocinas con gas' es un giro inusual y no constituye la norma recomendada por la Academia."
+        },
+        {
+          "letter": "D",
+          "text": "La I, porque el uso de la preposición 'de' se limita de forma exclusiva a indicar pertenencia o posesión de personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La preposición 'de' posee decenas de funciones legítimas en el español, incluyendo materia, origen, combustible y procedencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso preposicional para detallar la fuerza motriz de un objeto (de gas, de gasolina, de vapor) se estructura tradicionalmente con 'de'. El calco sintáctico del francés 'a' (a gas, a vapor) es tolerado pero desaconsejado en la prosa académica formal de nuestro idioma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Lea el enunciado informativo:\n'El conductor del ómnibus perdió el control del vehículo en la curva de la carretera, chocando violentamente contra el muro de contención'.\n¿Por qué el uso del gerundio destacado 'chocando' constituye un solecismo o vicio del lenguaje?",
+      "context": "Se evalúa el uso correcto del gerundio de posterioridad en textos narrativos e informativos de la prensa de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los gerundios en la redacción formal siempre deben ir entre signos de interrogación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gerundios son formas verbales no personales; no se asocian con signos de exclamación o interrogación de forma exclusiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el verbo 'chocar' exige concordancia en género femenino con la palabra 'curva'",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio es invariable y no posee morfemas flexivos de género o número."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un gerundio de posterioridad vicioso; la acción de chocar es una consecuencia posterior al hecho de perder el control y debe expresarse con un verbo conjugado coordinado ('y chocó')",
+          "is_correct": true,
+          "feedback": "Correcto. El gerundio en español solo admite relaciones de simultaneidad o anterioridad respecto al verbo principal. Emplearlo para indicar una consecuencia o acción posterior ('perdió el control, chocando...') es un solecismo de posterioridad, debiendo decirse '...perdió el control y chocó violentamente...'."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la palabra 'chocando' debe escribirse obligatoriamente con la grafía G en la prensa sureña",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz de chocar se escribe con CH de forma invariable en todo el ámbito de la lengua española."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gerundio de posterioridad es un vicio muy arraigado en la prosa informativa y jurídica peruana. Se corrige desdoblando la frase mediante la conjunción aditiva 'y' seguida del verbo conjugado correspondiente en el tiempo verbal adecuado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Lea el fragmento de un comunicado ministerial:\n'El Viceministro de Salud aclaró de que los lotes de vacunas que llegaron a Lima se encuentran plenamente garantizados por la OMS'.\nDesde el punto de vista sintáctico y de la lógica discursiva, ¿cómo evalúa la presencia de la secuencia 'de que' y cuál es el impacto de este error en la imagen de la institución pública?",
+      "context": "Evaluación del solecismo por dequeísmo en discursos públicos de los ministerios en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto porque el verbo 'aclarar' rige la preposición 'de' de forma obligatoria en la ley de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo aclarar es transitivo y rige OD directo; no hay leyes del congreso que alteren la sintaxis de los verbos."
+        },
+        {
+          "letter": "B",
+          "text": "Es una variante de registro culto que demuestra la sofisticación estilística de los asesores ministeriales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dequeísmo es un error gramatical o solecismo censurado en todo el ámbito de la lengua formal culta; no es un rasgo de sofisticación."
+        },
+        {
+          "letter": "C",
+          "text": "Incurre en solecismo por dequeísmo, pues el verbo transitivo 'aclarar' exige un objeto directo directo sin preposición ('aclaró *que los lotes...*'), y su empleo indebido proyecta descuido, impericia y baja calidad de control de calidad editorial en los documentos del Estado",
+          "is_correct": true,
+          "feedback": "Correcto. Al sustituir la subordinada por el pronombre 'eso' se evidencia el error: se dice 'El Viceministro aclaró *eso*', no 'El Viceministro aclaró *de eso*'. La presencia del dequeísmo en un comunicado oficial empaña la credibilidad institucional y revela la ausencia de filtros lingüísticos calificados."
+        },
+        {
+          "letter": "D",
+          "text": "Se corrige agregando una coma antes de la preposición para disolver el sonido de la palabra 'lotes'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir una coma antes de 'de que' no corrige la agramaticalidad de la preposición y deteriora aún más la puntuación de la frase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dequeísmo es un solecismo de régimen verbal. Demuestra una hipercorrección errónea del redactor que, por miedo a cometer queísmo, inserta la preposición 'de' de forma caprichosa antes de los complementos directos de verbos transitivos (decir, pensar, aclarar, considerar, creer).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "En la evaluación nacional de la escritura de los estudiantes de 5to de secundaria, la alta frecuencia del 'queísmo' ('estoy seguro que', 'se acordó que') y del 'dequeísmo' en las respuestas escritas revela principalmente un déficit pedagógico en el área de:",
+      "context": "Un debate sobre la erradicación del queísmo en la educación secundaria peruana y su evaluación diagnóstica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memorización de las biografías de los clásicos del Siglo de Oro español",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer las biografías de autores antiguos no provee de destrezas para la sintaxis oracional activa de hoy."
+        },
+        {
+          "letter": "B",
+          "text": "La caligrafía manual y el uso de bolígrafos de tinta líquida en los exámenes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error no es de trazo físico de las letras, sino de estructura lógico-sintáctica oracional en la mente del estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "El análisis sintáctico funcional, el dominio del régimen preposicional de los verbos y el hábito de relectura y autocorrección de borradores",
+          "is_correct": true,
+          "feedback": "Correcto. El queísmo y dequeísmo son problemas estructurales de régimen verbal y preposicional. Su persistencia revela que la enseñanza de la lengua se limita a menudo a la teoría pasiva o memorización ortográfica, sin entrenar al alumno en el análisis funcional de sus oraciones ni en el hábito crítico de revisar sus propios borradores académicos."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad física de lectura literal que impide registrar las consonantes mudas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No responde a un problema de velocidad física de lectura literal o consonantes mudas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de la redacción exige una pedagogía activa del texto. El alumno debe aprender a identificar los argumentos requeridos por cada núcleo verbal y adjetival, desarrollando la conciencia lingüística para corregir solecismos mediante el análisis lógico de su prosa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Considere la siguiente cláusula contractual ambigua:\n'La empresa entregará las muestras de oro y plata recolectadas en Cusco que se hallen en estado de pureza total'.\nDesde la perspectiva del análisis sintáctico riguroso y la coherencia jurídica, ¿qué controversia contractual insalvable puede desatarse por el orden de los elementos?",
+      "context": "Análisis de la anfibología sintáctica y sus consecuencias hermenéuticas en contratos del sector minero de la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Cusco decida declarar la independencia tributaria frente a las exportaciones de la empresa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una consecuencia geopolítica imposible que no deriva de la sintaxis interna de la cláusula."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de definición del término 'empresa' según la Real Academia de la Historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La definición corporativa de empresa está resuelta por ley de sociedades; el problema es sintáctico de concordancia."
+        },
+        {
+          "letter": "C",
+          "text": "La indeterminación de si el modificador 'que se hallen en estado de pureza total' califica únicamente a las muestras de plata, o a la suma de oro y plata, abriendo la posibilidad de reclamos financieros por entrega de oro impuro",
+          "is_correct": true,
+          "feedback": "Correcto. El relativo 'que' está pospuesto a un sintagma compuesto ('oro y plata'). Al no delimitar la frontera, la empresa contratante podría entregar oro de baja pureza argumentando que la restricción de pureza solo aplicaba a la 'plata' (por cercanía), mientras que el receptor exigiría que aplique a ambos metales valiosos, desatando un arbitraje internacional costoso."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de realizar los pagos de las regalías mineras de forma exclusiva en barras de cobre importado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cláusula se refiere a oro y plata de Cusco; la disputa no versa sobre cobre importado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anfibología estructural en contratos de alta cuantía económica es un peligro real. Para evitar litigios de interpretación por ambigüedad de adjunción del relativo, la redacción técnica debe ser precisa, separando la norma para cada metal o redactando de forma unívoca ('...las muestras de plata y aquellas de oro, siempre que ambos metales se hallen en estado de pureza...').\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Considere la oración trunca con graves solecismos de concordancia y preposición de un oficio estatal:\n'Habiendo analizado los expedientes por parte de la comisión, se vio de que el postulante carecía del perfil, siendo rechazado de inmediato'.\n¿Cuál de las siguientes propuestas de reescritura recupera la coherencia temática, elimina la pasiva inconexa, los gerundios viciosos y el dequeísmo de forma impecable?",
+      "context": "Un seminario sobre lógica oracional y metalenguaje en la Universidad de San Marcos analiza la reescritura de textos burocráticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comisión habiendo analizado expedientes vio de que el postulante carecía de perfil y lo rechazó de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el solecismo por dequeísmo ('vio de que') y el gerundio de anterioridad mal enlazado al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Se analizó los expedientes por la comisión, y se vio que el postulante carecía de perfil, rechazándolo de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene la pasiva refleja impersonal con solecismo de número ('Se analizó los expedientes' en lugar de 'Se analizaron') y el gerundio de posterioridad vicioso ('rechazándolo')."
+        },
+        {
+          "letter": "C",
+          "text": "Tras analizar los expedientes, la comisión constató que el candidato no cumplía con el perfil requerido; por consiguiente, rechazó su postulación de inmediato.",
+          "is_correct": true,
+          "feedback": "Correcto. Elimina la pasiva vaga dándole agencia real a la comisión ('la comisión constató'), suprime el dequeísmo del verbo ver sustituyéndolo por 'constató que' (OD directo), erradica el gerundio de posterioridad vicioso ('siendo rechazado') mediante el conector consecutivo formal 'por consiguiente' y el verbo activo 'rechazó'."
+        },
+        {
+          "letter": "D",
+          "text": "Habiéndose visto de parte de la comisión el expediente del postulante que no tenía perfil, fue rechazado por consiguiente de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redacción engorrosa y barroca que mantiene las estructuras truncas, gerundios vagos y pasivas redundantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reescritura de alta calidad académica exige desmontar los vicios estructurales de la prosa administrativa tradicional. Al otorgar agencia directa al sujeto responsable (la comisión), limpiar el dequeísmo y estructurar las consecuencias lógicas con nexos precisos, el texto adquiere nitidez, concisión y transparencia informativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v1",
+      "statement": "En una lectura en Lima: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v3",
+      "statement": "Identifica el conector: Trujillo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional de la Independencia Americana de Arequipa, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v6",
+      "statement": "En una lectura en Tacna: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v8",
+      "statement": "Identifica el conector: Callao es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional Nuestra Senora de Guadalupe de Lima, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v11",
+      "statement": "En una lectura en Cajamarca: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v13",
+      "statement": "Identifica el conector: Cajamarca es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v16",
+      "statement": "En una lectura en Callao: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v18",
+      "statement": "Identifica el conector: Tacna es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional de la Independencia Americana de Arequipa, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W08-comprension-textos-instructivos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

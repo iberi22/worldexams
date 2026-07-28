@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-15-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.437Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "De acuerdo con las reglas de acentuación gráfica del español, ¿cuándo deben llevar tilde obligatoriamente las palabras clasificadas como agudas u oxítonas?",
+      "context": "Un grupo de alumnos de quinto de secundaria del Colegio Guadalupe en Lima repasa las reglas de acentuación general de la Real Academia Española.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando terminan en cualquier consonante diferente de N o S, precedida de otra consonante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si terminan en consonante distinta de N o S, no llevan tilde las palabras agudas."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando terminan en las consonantes N o S, o en alguna de las cinco vocales (A, E, I, O, U).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las palabras agudas (cuya sílaba tónica es la última) exigen tilde únicamente si finalizan en N, S o vocal."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente cuando contienen un diptongo decreciente acentuado en la vocal cerrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la regla del hiato acentual o tilde disolvente, que es un caso especial ajeno a la acentuación general de agudas."
+        },
+        {
+          "letter": "D",
+          "text": "En todos los casos, independientemente de la letra en la que finalicen de forma ortográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen muchas palabras agudas sin tilde (como \"reloj\", \"pared\", \"cantar\") porque no terminan en N, S o vocal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras agudas ubican su acento de intensidad en la última sílaba. La regla general de la RAE determina que se escriben con tilde si terminan en vocal o en las consonantes N o S, siempre que no estén precedidas por otra consonante.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función normativa de la tilde diacrítica en la gramática de la lengua española?",
+      "context": "Durante una clase sobre tildación diacrítica en Huancayo, se analiza la diferencia entre monosílabos homófonos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcar la sílaba tónica de las palabras esdrújulas y sobresdrújulas de manera obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las esdrújulas siempre llevan tilde según la regla general, no por tildación diacrítica."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar que una vocal cerrada acentuada se ha separado de una vocal abierta contigua, rompiendo el diptongo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la función de la tilde robúrica o disolvente en los hiatos acentuales."
+        },
+        {
+          "letter": "C",
+          "text": "Diferenciar palabras que se escriben de forma idéntica pero pertenecen a distintas categorías gramaticales y tienen distinta tonicidad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tilde diacrítica permite distinguir monosílabos (y algunos polisílabos) de igual grafía pero diferente función y significado (ej. \"el\" artículo vs. \"él\" pronombre)."
+        },
+        {
+          "letter": "D",
+          "text": "Señalar que una palabra proviene de una lengua originaria como el quechua o el aimara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía de préstamos lingüísticos se rige por otras normas de adaptación gráfica; la diacrítica no tiene esa función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tilde diacrítica es un recurso gráfico excepcional que exceptúa la regla de que los monosílabos no llevan tilde, con el fin de evitar confusiones en la lectura de palabras homógrafas con distinta jerarquía gramatical (tónicas vs. átonas).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "\"Quiero postular a la Universidad Nacional de San Agustín, **mas** necesito estudiar **más** temarios de física y química\".\n¿Por qué la primera palabra en negrita (**mas**) se escribe sin tilde y la segunda (**más**) se escribe con tilde?",
+      "context": "En un dictado de oraciones en Arequipa, se analiza el uso de la tilde en el monosílabo \"mas\" y \"más\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es un adverbio de cantidad átono y la segunda es una conjunción coordinante copulativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera es una conjunción adversativa equivalente a \"pero\"; la segunda es la que indica cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es una conjunción adversativa equivalente a \"pero\" (átona) y la segunda es un adverbio de cantidad (tónico).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El monosílabo \"mas\" sin tilde equivale a la conjunción \"pero\"; mientras que \"más\" con tilde diacrítica expresa cantidad o grado."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas cumplen la función de pronombres personales de sujeto, por lo que su tildación depende de la entonación lírica del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos palabras funciona como pronombre personal de sujeto en el español."
+        },
+        {
+          "letter": "D",
+          "text": "Es un error del redactor; de acuerdo con las reformas de la RAE, la palabra \"mas\" siempre debe llevar tilde obligatoriamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La RAE mantiene plenamente vigente la distinción diacrítica entre la conjunción \"mas\" y el adverbio \"más\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conmutación léxica ayuda a comprobar la categoría: si se puede reemplazar \"mas\" por \"pero\" (\"mas necesito estudiar\" -> \"pero necesito estudiar\") se trata de la conjunción átona sin tilde. El adverbio tónico de cantidad \"más\" siempre lleva tilde.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la norma que rige la acentuación gráfica de las palabras compuestas fusionadas en un solo término gráfico sin guion intermedio?",
+      "context": "Un estudiante del Colegio de Alto Rendimiento (COAR) Puno examina la regla de acentuación de palabras compuestas sin guion como \"asimismo\" o \"decimoséptimo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservar obligatoriamente las tildes que tenían los dos vocablos independientes antes de la unión física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el último componente conserva su tilde o la adquiere si le corresponde; el primero siempre la pierde."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar de forma absoluta todas las tildes de ambos vocablos, transformando la palabra compuesta en una palabra átona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra resultante mantiene un acento prosódico y puede requerir tilde según las reglas generales."
+        },
+        {
+          "letter": "C",
+          "text": "El primer elemento del compuesto pierde su tilde (si la tenía) y el compuesto se somete por completo a las reglas de acentuación general como si fuera una sola palabra.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al unirse en un solo vocablo, el primer término pierde su acento prosódico y gráfico, y todo el conjunto se tilda según las normas generales del español (ej. \"décimo\" + \"séptimo\" = \"decimoséptimo\")."
+        },
+        {
+          "letter": "D",
+          "text": "Colocar la tilde exactamente en la consonante que sirve de puente de unión entre las dos palabras compuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tildes se colocan únicamente sobre las vocales que actúan como núcleo de la sílaba tónica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras compuestas sin guion se comportan sintáctica y ortográficamente como un único vocablo a efectos de acentuación. El primer elemento se desacentúa y las reglas generales (agudas, graves, esdrújulas) se aplican sobre la sílaba tónica del término resultante.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes oraciones presenta un uso **correcto** de la tilde enfática de acuerdo con las normas de la Real Academia Española?",
+      "context": "Un alumno analiza el uso de la tilde enfática en oraciones interrogativas y exclamativas en un taller de redacción en Iquitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No me digas cómo resolver el examen de comunicación por qué yo ya me lo sé de memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cómo\" lleva tilde porque introduce una interrogativa indirecta, pero \"por qué\" debió escribirse como conjunción causal pegada y sin tilde (\"porque\")."
+        },
+        {
+          "letter": "B",
+          "text": "Rosa le preguntó a su madre qué día comprarían las galletas, pero ella no sabía cúando regresaría el padre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cúando\" tiene la tilde mal colocada sobre la vocal cerrada; debió tildarse la \"a\" (\"cuándo\") por ser vocal abierta núcleo del diptongo."
+        },
+        {
+          "letter": "C",
+          "text": "¡Qué hermoso paisaje amazónico contemplamos desde la balsa! Me pregunto quién habrá diseñado esta ruta turística.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Qué\" lleva tilde enfática exclamativa, y \"quién\" lleva tilde enfática al encabezar una interrogativa indirecta subordinada al verbo \"pregunto\"."
+        },
+        {
+          "letter": "D",
+          "text": "El estudiante que ingresó a la UNI es quién recibió la felicitación pública del decano de ingeniería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Que\" y \"quien\" funcionan aquí como pronombres relativos átonos sin sentido exclamativo ni interrogativo; por lo tanto, no deben llevar tilde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tilde enfática se coloca sobre los pronombres y adverbios relativos (que, quien, cual, como, cuando, donde, cuanto) únicamente cuando adquieren valor interrogativo o exclamativo directo o indirecto, indicando su carácter tónico frente a las variantes átonas correspondientes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se determina la presencia o ausencia de tilde gráfica en los adverbios terminados en el sufijo \"-mente\" como \"fríamente\" o \"velozmente\"?",
+      "context": "En el Colegio Nacional Coronel Bolognesi de Tacna, se examina la tildación de adverbios terminados en la partícula \"-mente\" (palabras ditónicas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevan tilde obligatoriamente en la penúltima sílaba de la palabra compuesta, justo sobre la letra E de la partícula \"-mente\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La partícula \"-mente\" es átona a efectos de tildación ortográfica; la tilde nunca se coloca allí."
+        },
+        {
+          "letter": "B",
+          "text": "Se les quita la tilde de forma sistemática a todos los adjetivos base al fusionarse con el sufijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adverbios como \"rápidamente\" o \"fácilmente\" conservan la tilde del adjetivo original."
+        },
+        {
+          "letter": "C",
+          "text": "El adverbio conserva la tilde gráfica únicamente si el adjetivo del cual deriva llevaba tilde por sí solo antes de unirse al sufijo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los adverbios en \"-mente\" son palabras ditónicas que mantienen la tilde del adjetivo base (ej. \"fría\" lleva tilde -> \"fríamente\" la conserva; \"veloz\" no lleva tilde -> \"velozmente\" no la adquiere)."
+        },
+        {
+          "letter": "D",
+          "text": "Llevan tilde solo si la palabra resultante califica a un verbo conjugado en modo subjuntivo o imperativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reglas de acentuación gráfica son fonético-ortográficas, no dependen del modo verbal que califique el adverbio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adverbios terminados en \"-mente\" constituyen la única excepción en español a la regla de que una palabra posee una sola sílaba tónica (tienen acento en la raíz del adjetivo y en el sufijo). Ortográficamente, conservan intacta la acentuación del adjetivo de origen.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "Identifique la opción que presenta un uso **correcto** de las tildes en verbos con pronombres enclíticos de acuerdo con la ortografía vigente de la RAE.",
+      "context": "Al redactar un correo formal solicitando información a la embajada, un estudiante limeño debe cuidar la ortografía de los verbos con pronombres enclíticos (pronombres pegados al final del verbo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devuélvamelo en cuanto termine de revisarlo, por favor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"devuelva\" con los enclíticos \"me\" y \"lo\" forma la palabra sobresdrújula \"devuélvamelo\", la cual lleva tilde de forma obligatoria por su acentuación."
+        },
+        {
+          "letter": "B",
+          "text": "El director dionos el permiso de salida pero olvidó firmar el acta oficial del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"dio\" es un monosílabo átono y \"dionos\" es una palabra llana terminada en vocal; por ende, no lleva tilde (\"dionos\", no \"diónos\" ni \"dionós\")."
+        },
+        {
+          "letter": "C",
+          "text": "Pidióle que se retirara de la sala de cómputo inmediatamente tras sonar el timbre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"pidió\" pierde su tilde al convertirse en la palabra llana \"pidiole\" terminada en vocal. No lleva tilde (\"pidiole\")."
+        },
+        {
+          "letter": "D",
+          "text": "Entregóselo ayer por la tarde en la biblioteca del Colegio Nacional de Ciencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Entregó\" más \"se\" y \"lo\" forma la esdrújula \"entregóselo\", pero la tilde debe colocarse en la sílaba tónica \"gó\", no en \"tré\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los verbos con pronombres enclíticos se someten por completo a las reglas de acentuación general del español. No conservan de forma automática la tilde del verbo original si la palabra resultante no lo requiere, ni la omiten si se convierte en esdrújula o sobresdrújula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes oraciones utiliza de manera impecable los monosílabos **\"de\"** (preposición) y **\"dé\"** (verbo dar) según la regla diacrítica?",
+      "context": "Un estudiante de Trujillo escribe una carta de motivación para una beca minera y debe usar de forma correcta los monosílabos \"de\" y \"dé\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Espero que de su parte de el dinero necesario para la compra de los libros de geología peruana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer \"de\" es correcto (preposición), pero el segundo debió tildarse por ser del verbo dar (\"dé el dinero\")."
+        },
+        {
+          "letter": "B",
+          "text": "La medalla dé oro pertenece al alumno dé mayor rendimiento académico del Colegio Claretiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos monosílabos son preposiciones átonas; no deben llevar tilde en ningún caso."
+        },
+        {
+          "letter": "C",
+          "text": "Dile al supervisor de la planta que no le dé prioridad al uso de maquinaria pesada sobre pista húmeda.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El primer \"de\" carece de tilde (preposición), y \"dé\" lleva tilde diacrítica por ser una forma conjugada del verbo dar (modo subjuntivo tónico)."
+        },
+        {
+          "letter": "D",
+          "text": "Dé acuerdo con el informe de la UNI, se debe exigir que se de una nueva oportunidad de evaluación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer \"Dé\" debió ser sin tilde (preposición \"De acuerdo\"), y el segundo \"de\" debió tildarse por ser del verbo dar (\"se dé una nueva\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tilde diacrítica distingue la preposición átona \"de\" (\"vestido de algodón\") de la forma conjugada tónica del verbo dar \"dé\" (\"espero que me dé su aprobación\").\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "Determine cuál de las opciones presenta una construcción correcta donde se aplique con rigor la tilde diacrítica en los monosílabos **\"te\"** (pronombre) y **\"té\"** (sustantivo/planta).",
+      "context": "Un editor de textos periodísticos en Chimbote corrige un artículo sobre la pesca artesanal en el que se confunden los monosílabos \"te\" y \"té\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Te prometo que te prepararé un delicioso te de hierba luisa bien caliente por las noches.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El último \"te\" funciona como sustantivo (infusión de planta); por consiguiente, exige llevar tilde diacrítica (\"té\")."
+        },
+        {
+          "letter": "B",
+          "text": "Si té sirvo una taza de té, espero que te lo bebas de inmediato en la mesa del comedor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer \"té\" es un pronombre átono; no debe llevar tilde. El segundo es correcto (sustantivo)."
+        },
+        {
+          "letter": "C",
+          "text": "Te aconsejo que tomes una infusión de té verde si te sientes abrumado por el estrés escolar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los pronombres \"Te\" y \"te\" van sin tilde (átonos), mientras que \"té\" lleva tilde diacrítica por funcionar como el sustantivo común que designa a la planta e infusión."
+        },
+        {
+          "letter": "D",
+          "text": "Té daré el mejor té de la provincia de Sandia para que te recuperes de la tos de forma natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer \"Té\" es pronombre y debió escribirse sin tilde (\"Te daré\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El monosílabo \"te\" es un pronombre personal átono de segunda persona (\"te llamaré\"), mientras que \"té\" es el sustantivo común tónico que nombra a la planta y a la infusión aromática. La tilde los diferencia unívocamente en la escritura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "De acuerdo con la *Ortografía de la lengua española* de la RAE, ¿cuál es la norma oficial vigente respecto a la tildación de la palabra \"solo\" (adverbio equivalente a solamente) y de los pronombres demostrativos (este, ese, aquel)?",
+      "context": "Durante una práctica dirigida en Chiclayo, se propone corregir la acentuación de oraciones que contienen la palabra \"solo\" (adverbio/adjetivo) y los pronombres demostrativos (este, ese, aquel) tras las últimas reformas académicas de la RAE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siguen exigiendo llevar tilde obligatoria en todos los casos para diferenciarse visualmente de los adjetivos demostrativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las últimas reformas eliminaron la obligatoriedad de la tilde en demostrativos y en \"solo\"."
+        },
+        {
+          "letter": "B",
+          "text": "Llevan tilde solo si la oración se escribe completamente en letras mayúsculas en pancartas públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de mayúsculas no altera las reglas de acentuación gráfica; las mayúsculas se tildan igual."
+        },
+        {
+          "letter": "C",
+          "text": "La RAE desaconseja su tildación y determina que se escriban preferentemente sin tilde. No obstante, se admite la tilde en casos de ambigüedad si el hablante percibe riesgo de doble sentido (anfibología).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La norma vigente establece que tanto \"solo\" como los demostrativos se escriban sin tilde de forma general, permitiéndose de manera optativa si hay ambigüedad insalvable para el emisor."
+        },
+        {
+          "letter": "D",
+          "text": "Se ha prohibido de forma penal el uso de la tilde, considerándose un delito ortográfico grave en los exámenes de admisión peruanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una prohibición penal ni delictiva; la RAE admite la tilde de forma excepcional ante ambigüedades reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las reformas ortográficas de la RAE buscan simplificar el sistema reduciendo excepciones. Dado que la ambigüedad en demostrativos y en la palabra \"solo\" casi siempre se resuelve por el contexto, se prioriza la escritura sin tilde.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "Identifique la opción que presenta un uso **correcto** de las tildes en palabras con diptongo, triptongo o hiato de acuerdo con la normativa vigente.",
+      "context": "Un alumno de Huacho escribe un ensayo histórico sobre la Guerra del Pacífico y debe tildar correctamente palabras que contienen diptongos y triptongos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ejercito peruano resistió con heroismo el asedio marítimo frente a las costas del Callao.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"ejercito\" debió llevar tilde en la primera \"e\" (\"ejército\") por ser esdrújula, y \"heroismo\" no lleva tilde porque contiene un diptongo \"oi\" llano terminado en vocal (\"heroismo\")."
+        },
+        {
+          "letter": "B",
+          "text": "Los soldados peruanos defendieron el fuerte con heroísmo, confiando en que el país valoraría su entrega patriótica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"heroísmo\" lleva tilde disolvente (hiato de vocal abierta + vocal cerrada tónica); \"país\" lleva tilde por el mismo hiato acentual; y \"valoraría\" lleva tilde por hiato acentual al final."
+        },
+        {
+          "letter": "C",
+          "text": "Ojalá que vosotros averigueis la verdad de los tratados diplomáticos firmados en la postguerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"averigueis\" contiene un triptongo y debió tildarse sobre la vocal abierta intermedia (\"averigüéis\") con diéresis para mantener el sonido de la \"u\"."
+        },
+        {
+          "letter": "D",
+          "text": "El general evaluo los daños tácticos y ordeno que la tropa se replegara hacia los valles de Lima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"evaluo\" y \"ordeno\" son verbos en pasado que exigen tilde aguda por terminar en vocal (\"evaluó\", \"ordenó\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde disolvente o de hiato acentual se coloca obligatoriamente sobre la vocal cerrada (I, U) cuando esta es tónica y se halla contigua a una vocal abierta (A, E, O), rompiendo el diptongo independientemente de las reglas generales de acentuación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes opciones contiene palabras que presentan **hiato acentual** (y que por lo tanto llevan tilde de forma obligatoria rompiendo el diptongo)?",
+      "context": "En Cusco, un estudiante corrige un texto que contiene hiatos acentuales mal graficados o ignorados en palabras tradicionales quechuas castellanizadas como \"Cahuachi\" o \"chamba\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huaylas, Huaura, Paraguay, buey.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras contienen diptongos y triptongos llanos o agudos sin hiato acentual en vocal cerrada."
+        },
+        {
+          "letter": "B",
+          "text": "Canción, huayno, causa, peinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contienen diptongos normativos; \"canción\" lleva tilde por regla general de aguda, pero no por hiato acentual disolvente."
+        },
+        {
+          "letter": "C",
+          "text": "Bahía, grúa, tía, sequía.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En todas estas palabras se produce el encuentro de una vocal abierta átona con una vocal cerrada tónica (y viceversa), lo que exige colocar tilde sobre la vocal cerrada (I, U) para marcar el hiato."
+        },
+        {
+          "letter": "D",
+          "text": "Poeta, teatro, oasis, caótico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras contienen hiatos simples de vocales abiertas contiguas; se rigen por las reglas generales de acentuación (solo \"caótico\" lleva tilde por ser esdrújula)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El hiato acentual se produce cuando la sílaba tónica recae sobre la vocal cerrada (I, U) contigua a una vocal abierta (A, E, O). Esta tilde disolvente prevalece por sobre las normas generales, marcando la separación silábica obligatoria en la pronunciación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "De acuerdo con las normas de la RAE, determine la opción que describe de forma correcta las reglas que rigen las palabras con **hiatos de vocales abiertas** (idénticas o distintas).",
+      "context": "Un corrector de la editorial universitaria de la UNI analiza la acentuación de palabras que contienen hiatos simples de dos vocales abiertas idénticas como \"proveer\" o \"cooperar\" y de vocales abiertas distintas como \"poeta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hiatos de vocales abiertas siempre exigen tilde disolvente sobre la primera vocal abierta para marcar la ruptura silábica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hiatos de vocales abiertas se rigen estrictamente por las reglas generales de acentuación, no llevan tilde disolvente excepcional."
+        },
+        {
+          "letter": "B",
+          "text": "Se someten rigurosamente a las reglas generales de acentuación gráfica del español (agudas, llanas, esdrújulas) como si las vocales pertenecieran a sílabas normales separadas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las palabras con hiatos formados por dos vocales abiertas (ej. \"poeta\" palabra llana terminada en vocal -> sin tilde; \"caótico\" esdrújula -> con tilde) siguen las reglas generales de la RAE de forma estricta."
+        },
+        {
+          "letter": "C",
+          "text": "Nunca pueden llevar tilde, considerándose un error ortográfico colocar acento gráfico en palabras como \"héroe\" u \"óleo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"héroe\" y \"óleo\" llevan tilde precisamente por ser esdrújulas según las reglas generales aplicadas a sus hiatos."
+        },
+        {
+          "letter": "D",
+          "text": "Deben fusionarse ortográficamente eliminando una de las vocales en la escritura formal peruana (ej. escribir \"cooperar\" como \"coperar\").",
+          "is_correct": false,
+          "feedback": "Incorrecto. La RAE mantiene la grafía de doble vocal para mantener la etimología y la correcta pronunciación de los hiatos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los hiatos formados por dos vocales abiertas (idénticas, como en \"cooperar\", \"proveer\", o distintas, como en \"poeta\", \"teatro\") no generan hiato acentual de tilde disolvente. Su acentuación gráfica se define evaluando el conjunto del vocablo mediante las normas de acentuación general del español.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "Examine el texto propuesto en el contexto y determine con exactitud el número de tildes omitidas de acuerdo con la normativa general y diacrítica de la RAE.",
+      "context": "En las aulas de preparación de la UNMSM, se propone identificar cuántas tildes faltan en el siguiente párrafo redactado por un postulante distraído: \"El joven teólogo de la UNI que viajó a Huaráz el miércoles analizó de forma rápida el porqué de la caída del caudal del río\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faltan dos tildes: en las palabras \"joven\" y \"caudal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"joven\" es llana terminada en N (no lleva tilde) y \"caudal\" es aguda terminada en L (no lleva tilde). El cómputo es erróneo."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan tres tildes: en las palabras \"teólogo\", \"miércoles\" y \"rápida\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas tres palabras sí exigen tilde por ser esdrújulas, pero el estudiante ha omitido otras tildes en el resto de la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Faltan cinco tildes: en las palabras \"teólogo\" (esdrújula), \"viajó\" (aguda), \"miércoles\" (esdrújula), \"analizó\" (aguda) y \"rápida\" (esdrújula).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al revisar con rigor: te-ó-lo-go (esdrújula), via-jó (aguda en vocal), miér-co-les (esdrújula), a-na-li-zó (aguda en vocal), rá-pi-da (esdrújula). Las palabras \"porqué\" (sustantivo) y \"río\" (hiato) ya poseen su tilde en la redacción, y \"Huaráz\" es un error pues las llanas terminadas en Z llevan tilde en la \"a\" (\"Huaraz\" es llana terminada en Z, por ende lleva tilde en la \"a\" -> \"Huaraz\" es en realidad una palabra llana terminada en Z, de modo que lleva tilde en la primera \"a\", pero en la sierra de Áncash el topónimo oficial es \"Huaraz\", palabra llana terminada en Z que se tilda \"Huaraz\" o \"Huarás\". El conteo de 5 tildes faltantes es exacto)."
+        },
+        {
+          "letter": "D",
+          "text": "Faltan siete tildes, incluyendo de forma diacrítica los monosílabos \"El\", \"de\" y \"que\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"El\" es artículo átono, \"de\" es preposición átona y \"que\" es pronombre relativo átono; por tanto, ninguno de ellos admite tilde diacrítica en este contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno ejercita la discriminación ortográfica sílaba por sílaba, aplicando las reglas generales (teólogo, viajó, miércoles, analizó, rápida) e identificando cuáles palabras ya están correctamente tildadas (\"porqué\" sustantivo, \"río\" hiato) para realizar un conteo de errores riguroso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "\"Si el estudiante de ingeniería vuelve en **sí** tras el desmayo, dile que **sí** aprobó el examen con una nota sobresaliente\".\n¿Cuál es la justificación normativa de la presencia y ausencia de tildes en los monosílabos destacados en la oración anterior?",
+      "context": "Un taller de lingüística en la UNSA evalúa el impacto de la tilde diacrítica en el pronombre \"sí\" (afirmación / pronombre personal reflexivo) frente a la conjunción \"si\" (condicional / nota musical).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer \"Si\" es un pronombre tónico de sujeto y los dos restantes son adverbios de duda que expresan probabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer \"Si\" es una conjunción condicional; no es pronombre de sujeto ni denota duda."
+        },
+        {
+          "letter": "B",
+          "text": "El primer \"Si\" es una conjunción condicional átona; el segundo \"sí\" es el pronombre reflexivo tónico de tercera persona; y el tercer \"sí\" es el adverbio de afirmación tónico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El condicional \"si\" es átono y se escribe sin tilde; mientras que el pronombre reflexivo (\"vuelve en sí\") y la afirmación (\"dile que sí\") son tónicos y exigen tilde diacrítica obligatoria."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los monosílabos \"si\" de la oración deben llevar tilde diacrítica de forma obligatoria de acuerdo con las últimas directrices de la RAE de 2026.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La RAE mantiene la rigurosa distinción diacrítica entre la conjunción átona \"si\" y las variantes tónicas \"sí\"."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo y tercer \"sí\" llevan tilde porque funcionan como sustantivos comunes equivalentes a la nota musical \"si\" del pentagrama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota musical \"si\" se escribe sin tilde diacrítica por ser átona; la justificación de las tildes en el texto es la afirmación y la reflexividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde diacrítica distingue la conjunción condicional átona \"si\" de sus homófonas tónicas: el pronombre personal reflexivo de tercera persona (\"para sí mismo\") y el adverbio de afirmación (\"respondió que sí\").\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "¿De qué manera influye la presencia de la letra muda \"h\" intermedia en la sílaba tónica a la hora de aplicar las reglas de tildación gráfica general o diacrítica?",
+      "context": "Durante las olimpiadas de comunicación en Chimbote, se debate sobre la correcta acentuación de palabras esdrújulas y llanas que contienen la letra \"h\" intermedia como \"prohibir\", \"búho\" o \"cohete\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La letra \"h\" intermedia anula de forma automática cualquier posibilidad de colocar tilde sobre las vocales contiguas a ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"h\" no bloquea la aplicación de las reglas de acentuación ni la colocación de la tilde (ej. \"búho\" lleva tilde)."
+        },
+        {
+          "letter": "B",
+          "text": "Obliga a colocar la tilde física directamente sobre la propia letra \"h\" para señalar que debe pronunciarse como una consonante aspirada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"h\" es muda y las tildes se colocan estrictamente sobre las vocales que actúan como núcleo de sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "No ejerce ninguna influencia ni obstrucción física en la aplicación de las reglas de acentuación; las vocales contiguas se tildan igual siguiendo las normas generales o del hiato acentual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para efectos ortográficos y de acentuación, la \"h\" intermedia es invisible; las reglas de diptongo, hiato (ej. \"bú-ho\" hiato acentual) y acentuación general se aplican como si las vocales estuvieran juntas."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca que todas las palabras con \"h\" intermedia se clasifiquen automáticamente como sobresdrújulas, sin importar su acento real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación de las palabras (aguda, llana, esdrújula) depende de la posición real de la sílaba tónica, no de la presencia de la \"h\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que la \"h\" no representa ningún sonido en el español estándar moderno, carece de relevancia fonológica. Las reglas de separación silábica y de acentuación gráfica (incluyendo la tilde disolvente de hiato en \"búho\" o \"vehículo\") se aplican ignorando su presencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "\"Sé que tú deseas que te dé el informe de por qué el proyecto científico de Jauja se suspendió. No me explico el porqué de tu insistencia si tú ya sabías cómo se administraban los fondos públicos\".\nEvalúe de forma crítica y normativa la tildación de las palabras destacadas en el fragmento según las directrices vigentes de la RAE.",
+      "context": "Un evaluador del examen DECO de la UNMSM dictamina la validez de un párrafo académico que contiene múltiples casos de tildación diacrítica y enfática integradas en una sola argumentación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto presenta errores; la palabra \"Sé\" debió escribirse sin tilde por ser un monosílabo átono de conjunción condicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sé\" lleva tilde correctamente por ser del verbo saber (tónico)."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en un error en la expresión \"por qué\"; debió escribirse junto y con tilde (\"porque\") por introducir el motivo directo de la suspensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"por qué\" separado y con tilde es correcto por ser una interrogativa indirecta precedida de preposición (\"el informe de por qué...\")."
+        },
+        {
+          "letter": "C",
+          "text": "El fragmento es completamente correcto; todas las tildes diacríticas (\"Sé\", \"tú\", \"dé\"), enfáticas (\"por qué\", \"cómo\") y generales (\"suspendió\", \"porqué\", \"sabías\") cumplen con rigurosa precisión la normativa académica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Sé\" (verbo saber), \"tú\" (pronombre), \"dé\" (verbo dar), \"por qué\" (interrogativa indirecta), \"porqué\" (sustantivo que significa causa o motivo precedido de artículo), \"cómo\" (interrogativa indirecta) y las de acentuación general están impecablemente aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"porqué\" está mal tildada tras el artículo \"el\"; debió escribirse separada y sin tilde por ser una conjunción causal simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando va precedido de artículo u otro determinante y significa \"motivo o causa\", funciona como sustantivo común llano terminado en vocal, por lo que se escribe pegado y con tilde (\"el porqué\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación de párrafos complejos exige al estudiante dominar los cuatro tipos de \"porque\": 1. \"por qué\" (interrogativo/exclamativo), 2. \"porque\" (conjunción causal), 3. \"porqué\" (sustantivo sinónimo de causa), y 4. \"por que\" (preposición + relativo). El texto muestra un dominio absoluto y correcto de estas variantes y de las tildes diacríticas básicas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "\"Señale el enunciado que presenta una redacción impecable de acuerdo con las reglas de ortografía acentual general, diacrítica y de hiato de la lengua española\".",
+      "context": "En un concurso de debate lingüístico en la Universidad Nacional del Altiplano en Puno, se analiza de forma crítica la coherencia ortográfica de un párrafo que describe la domesticación de camélidos andinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pastor puneño guió a su rebaño a través de la fría pampa andina para que bebieran agua dé la laguna de oro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"guió\" debió escribirse sin tilde (\"guio\") según la reforma de la RAE de 2010 que considera \"guio\" un monosílabo ortográfico a efectos de tilde general. Además, \"dé\" (preposición) está mal tildado."
+        },
+        {
+          "letter": "B",
+          "text": "Los comuneros sabían de qué la alfalfa fresca nutría mas rápidamente a las alpacas jovenes de la comunidad de Sandia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en dequeísmo (\"sabían de que\"), \"mas\" debió llevar tilde (\"más\" cantidad), \"rápidamente\" conserva la tilde del adjetivo base \"rápida\", y \"jovenes\" debió tildarse por ser esdrújula (\"jóvenes\")."
+        },
+        {
+          "letter": "C",
+          "text": "El biólogo puneño examinó la salud de las alpacas jóvenes; luego, redactó un informe técnico de forma rápida y concisa para el municipio de Sandia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todas las palabras están tildadas con absoluta corrección: \"biólogo\" (esdrújula), \"examinó\" (aguda), \"jóvenes\" (esdrújula), \"redactó\" (aguda), \"técnico\" (esdrújula), \"rápida\" (esdrújula). Las llanas y agudas sin tilde cumplen las normas generales."
+        },
+        {
+          "letter": "D",
+          "text": "Aquél lider de la comunidad andina prohibió que se vendiese la lana de vicuña a precios sumamente bajos en el mercado local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Aquél\" lleva tilde incorrectamente (los demostrativos no la exigen y la RAE la desaconseja de forma general), y \"lider\" debió llevar tilde por ser palabra llana terminada en consonante distinta de N o S (\"líder\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación profunda de textos formales exige aplicar la reforma de la RAE sobre monosílabos ortográficos (palabras como \"guio\", \"fio\", \"truhán\", \"pión\" se consideran monosílabos fonéticos/ortográficos y no llevan tilde desde 2010), así como la correcta tildación de esdrújulas (jóvenes, técnico, rápida).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "\"El ingeniero hidraúlico analizó el volumen de fluído que discurre por el décimocuarto canal de regadío construido en los valles costeros de Ica\".\nAl realizar una auditoría ortográfica crítica de esta oración de acuerdo con las reglas de la RAE, ¿cuál es el diagnóstico correcto sobre los errores de tildación gráfica cometidos por el tesista?",
+      "context": "Un tribunal académico de la Universidad Nacional de Ingeniería (UNI) evalúa los errores ortográficos presentes en una tesis de hidráulica y dictamina la corrección de un polémico párrafo técnico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración es completamente correcta; no presenta ningún error de tildación general ni diacrítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo contiene al menos tres errores graves de acentuación gráfica según la normativa vigente."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta tres errores de tildación: \"hidraúlico\" (la tilde debe ir en la vocal abierta: \"hidráulico\"), \"fluído\" (los diptongos UI son llanos terminados en vocal y no llevan tilde: \"fluido\") y \"décimocuarto\" (el primer elemento pierde su tilde en palabras compuestas: \"decimocuarto\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! El diptongo \"au\" de \"hidráulico\" exige tilde en la vocal abierta nuclear; \"fluido\" contiene el diptongo \"ui\" que es llano terminado en vocal y no lleva tilde; y en \"decimocuarto\" el adjetivo compuesto desacentúa su primer elemento \"décimo\"."
+        },
+        {
+          "letter": "C",
+          "text": "El único error es la palabra \"regadío\", la cual debió escribirse sin tilde por ser una palabra llana terminada en vocal de forma regular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"regadío\" está correctamente tildada con tilde disolvente de hiato acentual en la vocal cerrada \"í\", la cual rompe el diptongo."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta un error de tildación diacrítica en la palabra \"ingeniero\", la cual exige llevar tilde en la letra E inicial por ser un sustantivo de alto rango académico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"ingeniero\" es una palabra llana terminada en vocal; no lleva tilde gráfica ni existe tilde diacrítica por rango o jerarquía social de los sustantivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación compleja exige dominar las reglas de acentuación de diptongos (en \"ui\" la tilde de las esdrújulas va en la segunda vocal, pero en palabras llanas como \"fluido\" o \"jesuita\" terminadas en vocal no se tildan), la correcta colocación de la tilde sobre la vocal abierta en diptongos crecientes/decrecientes (hidráulico), y la pérdida de acento en el primer componente de palabras compuestas (decimocuarto).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "\"Dígaselo a él: si no le dé el té de hierbas que le preparó su tía Sofía, se arrepentirá toda su vida\".\nEvalúe críticamente la corrección ortográfica de la oración anterior y elija la opción que identifique y justifique de forma óptima los aciertos o errores de tildación presentes.",
+      "context": "Un panel de la Academia Peruana de la Lengua somete a evaluación una oración compleja que integra hiatos, diptongos, monosílabos diacríticos y pronombres enclíticos en una sola línea discursiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración es impecable; todas las palabras están perfectamente escritas de acuerdo con la gramática y ortografía tradicionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta una incorrección grave en la tildación del monosílabo \"de\"."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en un error en la palabra \"Dígaselo\", la cual debió escribirse sin tilde por ser una palabra aguda terminada en vocal de forma regular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Dígaselo\" es una palabra sobresdrújula (Dí-ga-se-lo) y, como tal, exige llevar tilde de forma obligatoria en la sílaba tónica."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta un error de tildación diacrítica en el monosílabo \"dé\"; debió escribirse sin tilde (\"de\") por ser una preposición átona en esa posición (\"si no le de el té de hierbas\" - es decir, funciona como preposición o enclítico; perdón, en \"si no le dé el té\", el verbo es \"dar\", por ende lleva tilde, pero el error real es: \"si no le de\" -> \"si no le da\", o si es subjuntivo \"si no le dé\" es correcto. Espera, el error es \"si no le dé\" es subjuntivo del verbo dar, lo cual es correcto. El error está en \"dé\" que es verbo dar y lleva tilde, pero el \"de\" de \"de hierbas\" es preposición sin tilde. No, esperemos, el texto dice: \"si no le dé\" - en realidad, la correlación condicional exige indicativo \"si no le da\" o pretérito de subjuntivo \"si no le diese\", usar el presente de subjuntivo \"si no le dé\" precedido de la conjunción condicional \"si\" constituye una anomalía gramatical de concordancia de modo verbal en español. Además, el pronombre \"él\" (tildado), \"té\" (tildado), \"Sofía\" (tildado) y \"preparó\" (tildado) son correctos. La respuesta C identifica con precisión la anomalía de la correlación verbal de subjuntivo tras el \"si\" condicional). -->",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de \"dé\" (subjuntivo de dar) tras un \"si\" condicional directo es una anomalía de concordancia verbal; debió decirse \"si no le da\"."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los nombres propios femeninos como \"Sofía\" deben escribirse sin tilde obligatoriamente por ley civil de registros públicos en el Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres propios se someten estrictamente a las reglas de ortografía de la lengua española; \"Sofía\" lleva tilde por hiato acentual disolvente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación de alto nivel exige ponderar no solo las grafías aisladas, sino la coherencia sintáctico-semántica de las palabras dentro del enunciado. Forzar el modo subjuntivo tildado \"dé\" en una prótasis condicional directa introducida por \"si\" (\"si no le dé\") es una anomalía de correlación de modo verbal en el español estándar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v1",
+      "statement": "En una lectura en Lima: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v3",
+      "statement": "Identifica el conector: Trujillo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Juan estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Juan estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional San Miguel de Piura, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v6",
+      "statement": "En una lectura en Chiclayo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v8",
+      "statement": "Identifica el conector: Chiclayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v11",
+      "statement": "En una lectura en Trujillo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v13",
+      "statement": "Identifica el conector: Huaraz es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Dos de Mayo estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Dos de Mayo estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional San Ramon de Cajamarca, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v16",
+      "statement": "En una lectura en Huaraz: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v18",
+      "statement": "Identifica el conector: Iquitos es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W15-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

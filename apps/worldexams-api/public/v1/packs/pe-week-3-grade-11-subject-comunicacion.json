@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-3-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.420Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define el mecanismo de cohesión textual denominado 'anáfora'?",
+      "context": "Un estudiante en un colegio de Arequipa estudia los mecanismos de referencia textual para evitar repeticiones innecesarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La omisión de una palabra que se sobreentiende por el contexto oracional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define a la elipsis, no a la anáfora."
+        },
+        {
+          "letter": "B",
+          "text": "La alusión a un elemento (persona, objeto o idea) que ya ha sido mencionado previamente en el texto",
+          "is_correct": true,
+          "feedback": "Correcto. La anáfora consiste en usar pronombres, adverbios o sinónimos para referirse a un elemento ya introducido con anterioridad."
+        },
+        {
+          "letter": "C",
+          "text": "La anticipación de una idea o palabra que se detallará más adelante en el desarrollo del párrafo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define a la catáfora, que es lo contrario de la anáfora."
+        },
+        {
+          "letter": "D",
+          "text": "La repetición rítmica de palabras al inicio de cada verso en un poema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la anáfora como figura retórica o literaria, no como mecanismo de cohesión y referencia gramatical en textos prosaicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En lingüística del texto, la anáfora es un mecanismo de referencia intratextual mediante el cual un deíctico o palabra vacía asume el significado de una unidad ya expuesta anteriormente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de relación lógica introducen los conectores adversativos como 'sin embargo', 'no obstante' y 'empero'?",
+      "context": "Se repasan las funciones de los conectores lógicos para las pruebas de ingreso de la Universidad de Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adición de ideas de igual jerarquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adición se realiza con conectores como 'además', 'asimismo' o 'también'."
+        },
+        {
+          "letter": "B",
+          "text": "Explicación o aclaración de un concepto complejo anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se hace con nexos como 'es decir', 'o sea' o 'en otras palabras'."
+        },
+        {
+          "letter": "C",
+          "text": "Oposición o contraste parcial entre dos proposiciones",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores adversativos marcan un límite, objeción o contraposición entre las ideas vinculadas."
+        },
+        {
+          "letter": "D",
+          "text": "Causa o motivo de un hecho ya enunciado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los causales son 'porque', 'puesto que', 'ya que', etc."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores adversativos establecen una relación de restricción u oposición entre dos oraciones o párrafos, guiando la atención del lector hacia el contraste fáctico o conceptual.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "Lea la siguiente oración:\n'Las actividades mineras generaron grandes ingresos fiscales; ________, la contaminación de las fuentes hídricas locales causó el descontento de las comunidades'.\n¿Cuál de los siguientes conectores lógicos restituye la cohesión y el sentido adversativo correcto del enunciado?",
+      "context": "Un estudiante corrige un borrador de su monografía sobre la minería en Pasco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Por lo tanto' es consecutivo; no expresa la oposición real existente entre beneficio económico y daño ecológico."
+        },
+        {
+          "letter": "B",
+          "text": "sin embargo",
+          "is_correct": true,
+          "feedback": "Correcto. 'Sin embargo' es un conector adversativo que resalta con precisión el contraste u objeción entre la generación de ingresos y el problema ecológico de la contaminación."
+        },
+        {
+          "letter": "C",
+          "text": "porque",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Porque' es un conector causal; no tiene sentido decir que se generaron ingresos debido a la contaminación en este contexto gramatical."
+        },
+        {
+          "letter": "D",
+          "text": "además",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Además' sumaría las ideas de forma acumulativa positiva, ignorando la contradicción ética de ambos hechos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El enunciado presenta dos hechos en tensión (beneficios frente a perjuicios). Se requiere un conector de contraste (adversativo) para articular de forma lógica y cohesionada ambas proposiciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Identifique la oración que presenta un mecanismo de cohesión por 'catáfora':",
+      "context": "Un examen de práctica de aptitud verbal de la UNMSM analiza los casos de catáfora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "María y Pedro fueron a Trujillo. Ellos visitaron las ruinas de Chan Chan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta anáfora: el pronombre 'Ellos' se refiere a elementos ya mencionados ('María y Pedro')."
+        },
+        {
+          "letter": "B",
+          "text": "El ceviche es delicioso; la causa limeña, exquisita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta elipsis: se omite el verbo 'es' en la segunda proposición para evitar su repetición."
+        },
+        {
+          "letter": "C",
+          "text": "Solo te diré esto: debes esforzarte más si deseas ingresar a la UNI.",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta catáfora: el pronombre demostrativo 'esto' anticipa la información que viene inmediatamente después ('debes esforzarte más...')."
+        },
+        {
+          "letter": "D",
+          "text": "Los libros estaban sobre la mesa del profesor, pero nadie los leyó durante la clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta anáfora: el clítico 'los' se refiere a los 'libros' mencionados anteriormente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La catáfora es un mecanismo que anuncia o anticipa un elemento lingüístico que se formulará posteriormente en el discurso, despertando la expectativa de lectura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "Lea la oración:\n'La hermana de mi padre viajó a Junín, y el hermano de mi madre viajó a Huancavelica'.\n¿Cuál es la opción que aplica de forma correcta la elipsis verbal para optimizar la cohesión y el estilo de la frase?",
+      "context": "Un estudiante de Huancayo revisa su redacción y detecta problemas de elipsis en sus enunciados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hermana de mi padre viajó a Junín, y el hermano de mi madre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al omitir todo el final se pierde el destino del hermano de la madre ('Huancavelica'), alterando la información."
+        },
+        {
+          "letter": "B",
+          "text": "La hermana de mi padre viajó a Junín; el hermano de mi madre, a Huancavelica.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de la coma elíptica reemplaza al verbo 'viajó' que ya se mencionó en la primera cláusula, manteniendo intacta la información y mejorando la fluidez del enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "La hermana de mi padre viajó a Junín, viajó a Huancavelica el hermano de mi madre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene la repetición del verbo 'viajó' de forma innecesaria y desordena la sintaxis."
+        },
+        {
+          "letter": "D",
+          "text": "Viajó a Junín la hermana de mi padre y viajaron a Huancavelica los otros parientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altera la precisión de los sujetos originales y no utiliza la elipsis de manera constructiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma elíptica se utiliza para sustituir a un verbo omitido que ya ha sido expresado con anterioridad en la estructura oracional, evitando redundancias desagradables en la prosa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "Señale la oración que presenta un uso INCORRECTO del conector causal 'ya que':",
+      "context": "Ejercicios de conectores textuales para la elaboración de textos argumentativos de nivel secundaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No pudimos tomar fotos en la Catedral, ya que estaba prohibido el uso de cámaras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un uso correcto: introduce la causa de no poder tomar fotos."
+        },
+        {
+          "letter": "B",
+          "text": "Se suspendieron las clases escolares, ya que las lluvias inundaron los accesos de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso adecuado: introduce el motivo o causa de la suspensión de clases."
+        },
+        {
+          "letter": "C",
+          "text": "El sol brillaba intensamente, ya que salimos a caminar por el malecón de Chorrillos.",
+          "is_correct": true,
+          "feedback": "Correcto. Aquí hay un uso incorrecto de 'ya que'. La caminata no es la causa de que el sol brille; la relación lógica requerida es consecutiva o temporal ('por lo cual', 'entonces'), no de causa."
+        },
+        {
+          "letter": "D",
+          "text": "Compramos bastantes abrigos, ya que viajaremos a una zona muy fría de Puno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto: la causa de comprar abrigos es el viaje a Puno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conector 'ya que' es causal y debe encabezar la premisa que explica el porqué del hecho principal. En la opción C, se ha invertido el sentido o se ha usado un nexo inapropiado para la realidad fáctica descrita.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Lea el fragmento de la carta:\n'Los parques de la urbanización carecen de iluminación nocturna; ________, los índices de delincuencia informal han aumentado de manera considerable durante las últimas semanas'.\n¿Qué conector de consecuencia lógica completa de manera cohesiva el reclamo del vecino?",
+      "context": "Un estudiante de Lima redacta una carta formal dirigida a la municipalidad de su distrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "no obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'No obstante' sugeriría que a pesar de no haber luz la delincuencia bajó, lo que contradice el sentido del texto."
+        },
+        {
+          "letter": "B",
+          "text": "por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector adversativo excluyente, no lógico-consecutivo."
+        },
+        {
+          "letter": "C",
+          "text": "por consiguiente",
+          "is_correct": true,
+          "feedback": "Correcto. 'Por consiguiente' es un conector consecutivo de registro formal que vincula perfectamente la falta de luz (causa) con el aumento de la delincuencia (efecto)."
+        },
+        {
+          "letter": "D",
+          "text": "ya que",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Ya que' invertiría la relación, señalando que la falta de luz ocurre porque subió la delincuencia, lo cual es físicamente absurdo en este contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se requiere un marcador discursivo consecutivo formal (por consiguiente, por lo tanto, en consecuencia) que explicite que el segundo hecho es el efecto directo del primero.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "Lea el siguiente texto instructivo de un recetario tradicional:\n'________, corte los limones en mitades. ________, exprímalos suavemente sobre el pescado fresco sin llegar a la cáscara amarga. ________, añada la sal, el ají limo y la cebolla cortada en pluma'.\n¿Qué secuencia de ordenadores textuales es la más adecuada para garantizar la cohesión secuencial del proceso de preparación del ceviche?",
+      "context": "Prueba de aptitud comunicativa en el Cusco sobre ordenadores del discurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finalmente - En primer lugar - No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inicia con 'Finalmente', lo que rompe el orden lógico del proceso."
+        },
+        {
+          "letter": "B",
+          "text": "En primer lugar - Luego - Por último",
+          "is_correct": true,
+          "feedback": "Correcto. Esta secuencia de ordenadores discursivos temporales/secuenciales estructura de manera clara e intuitiva los pasos cronológicos de la receta."
+        },
+        {
+          "letter": "C",
+          "text": "Por el contrario - Además - En consecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa conectores de oposición y consecuencia ajenos a una secuencia cronológica pura."
+        },
+        {
+          "letter": "D",
+          "text": "En resumen - Sin embargo - Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marcadores de síntesis, contraste y aclaración impropios para dar instrucciones secuenciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ordenadores textuales temporales o de orden (en primer lugar, luego, por último, primeramente, seguidamente, finalmente) guían el flujo temporal del receptor en textos de tipo instructivo o narrativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "Lea el fragmento:\n'Garcilaso de la Vega escribió sus Comentarios Reales en España. Desde allí, el cronista evocó con nostalgia la grandeza del Imperio de los Incas'.\n¿A qué elemento textual hace referencia el deíctico espacial 'allí'?",
+      "context": "Análisis de deícticos temporales y espaciales en textos de crónicas sobre el Cusco colonial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al Imperio de los Incas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Allí' alude al lugar físico desde donde escribe el cronista, no al imperio que evoca."
+        },
+        {
+          "letter": "B",
+          "text": "A los Comentarios Reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el objeto o libro escrito, no un referente espacial de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "A España",
+          "is_correct": true,
+          "feedback": "Correcto. El adverbio de lugar 'allí' cumple una función anafórica deíctica, refiriéndose al país europeo ('España') mencionado inmediatamente antes."
+        },
+        {
+          "letter": "D",
+          "text": "Al Cusco colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cusco no se menciona de forma explícita en las oraciones previas del fragmento analizado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adverbios deícticos de lugar (aquí, allí, allá) operan en el plano discursivo como anáforas espaciales que recuperan sustantivos geográficos o locaciones previamente descritas en el párrafo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "En la teoría del texto, ¿cuál es la diferencia fundamental entre la cohesión y la coherencia?",
+      "context": "Un estudiante de Trujillo revisa la coherencia temática global de su ensayo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cohesión es de carácter estético e informal, mientras que la coherencia es científica y obligatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas propiedades son requisitos lingüísticos objetivos de cualquier texto académico formal."
+        },
+        {
+          "letter": "B",
+          "text": "La cohesión atañe a las conexiones gramaticales y léxicas entre las oraciones, mientras que la coherencia concierne a la unidad de sentido y la lógica temática global del texto",
+          "is_correct": true,
+          "feedback": "Correcto. La cohesión es la propiedad sintáctica-gramatical externa (conectores, deícticos, elipsis) y la coherencia es la estructura semántica interna (unidad conceptual, ausencia de contradicciones, relevancia temática)."
+        },
+        {
+          "letter": "C",
+          "text": "La cohesión se aplica únicamente en poemas líricos y la coherencia solo en novelas históricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo tipo de texto (artículo, carta, narración, diálogo) requiere poseer tanto cohesión como coherencia para ser comprensible."
+        },
+        {
+          "letter": "D",
+          "text": "La cohesión busca la redundancia de sustantivos, mientras que la coherencia prohíbe el uso de conectores lógicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario: la cohesión busca evitar la redundancia mediante la elipsis o anáforas y utiliza activamente los conectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión y la coherencia son las dos propiedades textuales fundamentales. Una garantiza que los ladrillos del lenguaje estén bien unidos gramaticalmente (cohesión) y la otra que el edificio entero tenga sentido y utilidad conceptual (coherencia).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Lea la siguiente frase de geografía peruana:\n'El nevado Huascarán es la montaña más alta del Perú, ________ cima se encuentra a más de 6700 metros sobre el nivel del mar'.\n¿Cuál es el nexo relativo posesivo correcto que restituye la cohesión gramatical de la frase?",
+      "context": "Se evalúa la precisión en el uso de conectores relativos en un texto sobre el Huascarán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "en cuya la",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'En cuya la' presenta doble artículo, lo cual constituye un vulgarismo y error sintáctico severo en castellano."
+        },
+        {
+          "letter": "B",
+          "text": "del cual su",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un giro redundante inapropiado para el registro académico formal."
+        },
+        {
+          "letter": "C",
+          "text": "cuya",
+          "is_correct": true,
+          "feedback": "Correcto. El pronombre relativo posesivo 'cuya' concuerda en género y número con el sustantivo que posee ('cima', femenino singular) y establece la correcta relación de pertenencia con el antecedente ('Huascarán')."
+        },
+        {
+          "letter": "D",
+          "text": "donde su",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Donde su' es un uso impropio del relativo espacial 'donde' para denotar pertenencia posesiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pronombre relativo posesivo 'cuyo/cuya/cuyos/cuyas' vincula un antecedente con un sustantivo poseído con el que concuerda gramaticalmente, siendo un recurso de cohesión sintáctica muy elegante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "Lea la oración:\n'La municipalidad entregó los títulos de propiedad a los pobladores. Las autoridades de la municipalidad dijeron que la municipalidad seguiría apoyando a los pobladores'.\n¿Cuál es la opción que reescribe el texto logrando una óptima cohesión por sustitución léxica y elipsis, evitando repeticiones?",
+      "context": "Un ejercicio de corrección de textos para evitar redundancias y ambigüedades en un periódico escolar de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La municipalidad entregó los títulos de propiedad a los pobladores, y los pobladores dijeron que sí apoyarían a la municipalidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altera la información real: el texto original dice que la municipalidad apoyará a los pobladores, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "La municipalidad entregó los títulos de propiedad a los pobladores. Sus autoridades afirmaron que la institución continuará respaldándolos.",
+          "is_correct": true,
+          "feedback": "Correcto. Reemplaza 'autoridades de la municipalidad' por el posesivo 'Sus autoridades', cambia 'municipalidad' por el sinónimo 'la institución' y sustituye 'apoyando a los pobladores' por el pronombre enclítico 'respaldándolos', eliminando las repeticiones molestas."
+        },
+        {
+          "letter": "C",
+          "text": "Se entregaron los títulos de propiedad a los pobladores de parte de la municipalidad, y dijeron que los pobladores seguirían siendo apoyados por la municipalidad de allí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene la redundancia de 'pobladores' y 'municipalidad' además de complicar la sintaxis de forma pasiva."
+        },
+        {
+          "letter": "D",
+          "text": "La municipalidad entregó títulos a los pobladores y la municipalidad dijo que la misma municipalidad los apoyaría siempre a los pobladores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conserva e incrementa las repeticiones innecesarias del término 'municipalidad'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión textual exige utilizar sinónimos conceptuales, pronombres clíticos y determinantes posesivos para fluir con elegancia estilística sin reiterar las mismas palabras en un tramo breve del párrafo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "Considere la oración ambigua:\n'Juan conversó con su jefe en su oficina'.\n¿Cuál es la causa gramatical de la ambigüedad (anfibología) y cómo afecta a la coherencia del mensaje?",
+      "context": "Análisis de ambigüedad por el mal uso de la referencia anafórica en textos comerciales de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de un conector aditivo entre los dos sustantivos principales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura posee conectores o preposiciones ('con', 'en'), el error es de otra clase."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de un verbo intransitivo que impide identificar la acción física",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo 'conversar' es adecuado, la confusión no reside en la acción en sí."
+        },
+        {
+          "letter": "C",
+          "text": "La imprecisión del posesivo 'su', que no aclara si la oficina pertenece a Juan o a su jefe",
+          "is_correct": true,
+          "feedback": "Correcto. El adjetivo posesivo de tercera persona 'su' es ambiguo en este contexto, ya que gramaticalmente puede referirse tanto al sujeto ('Juan') como al término de la preposición ('jefe'), generando confusión sobre el lugar real del evento."
+        },
+        {
+          "letter": "D",
+          "text": "La elipsis del sujeto tácito en la segunda cláusula oracional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una segunda cláusula que carezca de sujeto; la estructura es una sola oración simple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anfibología por el uso descuidado del pronombre o determinante posesivo 'su' es un vicio del lenguaje muy frecuente que atenta contra la coherencia local del texto, exigiendo una redacción más precisa ('en la oficina de este último' o 'en su propia oficina').\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "Lea el enunciado:\n'La globalización económica ha traído consigo la homogeneización de patrones de consumo a nivel planetario; ________, no ha logrado erradicar los particularismos culturales e identitarios de las comunidades andinas, los cuales reemergen con vigor'.\n¿Qué par de conectores adversativo/relativo restituyen con total precisión el sentido y la cohesión formal del fragmento?",
+      "context": "Un examen sobre conectores lógicos de alta dificultad en Chiclayo analiza la contraposición de ideas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "es decir / los mismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Es decir' es aclarativo, no adversativo; 'los mismos' es un anafórico de bajo registro en la redacción formal."
+        },
+        {
+          "letter": "B",
+          "text": "por lo tanto / quienes",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Por lo tanto' es consecutivo; el relativo 'quienes' solo se aplica a personas, no a 'particularismos culturales'."
+        },
+        {
+          "letter": "C",
+          "text": "no obstante / los cuales",
+          "is_correct": true,
+          "feedback": "Correcto. 'No obstante' marca la oposición exacta entre la homogeneización global y la persistencia local; el relativo 'los cuales' recupera con precisión y concordancia plural al antecedente 'particularismos culturales'."
+        },
+        {
+          "letter": "D",
+          "text": "porque / donde",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Porque' es causal y 'donde' es relativo de lugar, ambos inadecuados para el sentido de contraste y objeto abstracto del fragmento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fragmento expone una paradoja sociológica moderna (globalización versus resistencia local). Se requiere un conector adversativo fuerte (no obstante) y un pronombre relativo complejo (los cuales) para articular de manera cohesiva y culta las proposiciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "Lea el siguiente párrafo de un estudiante:\n'César Vallejo es el máximo exponente de la poesía vanguardista en el Perú gracias a su poemario Trilce. Trilce fue publicado en 1922 en los talleres tipográficos de la penitenciaría de Lima. Por otro lado, la penitenciaría de Lima albergaba a reclusos de alta peligrosidad y tenía problemas de infraestructura sanitaria'.\n¿Qué problema de coherencia textual presenta el párrafo anterior?",
+      "context": "Revisión de la coherencia global y digresión en un ensayo académico sobre César Vallejo en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falta total de cohesión sintáctica entre la primera y la segunda oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cohesión es formalmente correcta; repite el sustantivo 'Trilce' para encadenar las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Pérdida de la unidad temática por digresión (desvío del tema central hacia detalles irrelevantes)",
+          "is_correct": true,
+          "feedback": "Correcto. El texto comienza analizando el valor estético de Vallejo y su obra Trilce, pero termina derivando de manera innecesaria hacia la situación carcelaria e infraestructura sanitaria de la penitenciaría, alejándose del tema literario central."
+        },
+        {
+          "letter": "C",
+          "text": "Contradicción lógica insalvable entre el éxito de Vallejo y el estado de la prisión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción lógica fáctica; es perfectamente posible publicar un libro vanguardista en una imprenta carcelaria deficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Uso excesivo de metáforas incomprensibles para el lector promedio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es totalmente denotativo e informativo; no presenta metáforas ni lenguaje lírico confuso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia global exige que todas las proposiciones tributen al tema central definido. La digresión temática se produce cuando el redactor se deja llevar por asociaciones secundarias de palabras (en este caso, asociar 'penitenciaría' con 'infraestructura carcelaria'), rompiendo el foco expositivo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "En el texto de Basadre:\n'La promesa de la vida peruana fue un faro de esperanza para los fundadores de la República. Para los ciudadanos del siglo XX, un doloroso recordatorio de tareas pendientes'.\n¿Qué elemento lingüístico ha sido elidido en la segunda oración y qué efecto gramatical genera?",
+      "context": "Un ejercicio de identificación de elipsis complejas en un ensayo del historiador Jorge Basadre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se elidió el pronombre relativo 'que', simplificando la subordinación oracional",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre 'que' no hace falta ni ha sido elidido en la estructura de la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Se elidió la frase verbal 'fue un faro de esperanza' (o el verbo copulativo 'fue'), evitando la repetición y dinamizando el estilo conceptual",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura elide el verbo copulativo 'fue' (o la frase completa 'fue un...'), permitiendo que el lector asocie inmediatamente la 'promesa de la vida peruana' con el nuevo atributo ('recordatorio de tareas pendientes') de forma elíptica."
+        },
+        {
+          "letter": "C",
+          "text": "Se elidió el sujeto 'Jorge Basadre' para dar un tono impersonal al ensayo de historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de la oración es la 'promesa de la vida peruana', no el nombre del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Se elidió el sustantivo 'República' para no herir susceptibilidades políticas de la época",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'República' figura explícitamente en la primera oración del pasaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elipsis de un verbo copulativo en contextos paralelos es un recurso literario y académico común. Permite contrastar dos visiones de un mismo sujeto en épocas distintas sin recargar la sintaxis con iteraciones innecesarias del verbo ser.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Lea el fragmento de una sentencia judicial peruana:\n'Considerando que el acusado no se encontraba en el lugar de los hechos; y que los testigos presentaron declaraciones contradictorias; por lo tanto, este tribunal resuelve absolverlo de todos los cargos de robo'.\n¿Cómo evalúa el uso de los conectores y la puntuación de esta estructura desde el punto de vista del estilo y cohesión modernos?",
+      "context": "Evaluación crítica del uso de conectores en textos jurídicos oficiales de los juzgados de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es impecable porque el uso del punto y coma y la palabra 'y' garantizan que la oración sea infinitamente larga y confusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La confusión o longitud excesiva no son virtudes del estilo moderno, sino defectos de redacción colonial heredados."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto porque el conector 'por lo tanto' no puede iniciar una cláusula tras un punto y coma",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Por lo tanto' sí puede iniciar cláusulas conclusivas de ese modo, el error principal reside en otra anomalía sintáctica."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta una sobrecarga de subordinantes ('Considerando que', 'y que') que suspenden el sentido principal de forma innecesaria, un vicio común en la prosa forense que atenta contra la claridad discursiva",
+          "is_correct": true,
+          "feedback": "Correcto. El estilo forense tradicional peruano abusa de oraciones subordinadas interminables ligadas por gerundios ('Considerando que...') y nexos repetitivos que dilatan el núcleo del veredicto, dificultando la comprensión rápida del ciudadano común."
+        },
+        {
+          "letter": "D",
+          "text": "Debería reemplazarse el conector 'por lo tanto' por un conector temporal como 'mientras tanto' para dar más dramatismo fáctico",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Mientras tanto' es temporal de simultaneidad y arruinaría la ilación lógica consecuencial de la absolución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La redacción jurídica moderna en el Perú busca erradicar la 'prosa forense barroca' caracterizada por la excesiva subordinación, el uso de gerundios extensos y oraciones únicas de múltiples líneas, promoviendo oraciones cortas y de conexión directa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "En la redacción de noticias de prensa escrita para diarios limeños, la elipsis del sujeto o del verbo debe ser utilizada con cautela principalmente para evitar:",
+      "context": "Un debate sobre la enseñanza de la redacción escolar en Piura evalúa la pertinencia de la elipsis en textos informativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reducción innecesaria de la longitud del artículo periodístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. En prensa, la brevedad y concisión son virtudes, no defectos a evitar."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de adjetivos calificativos de corte subjetivo e ideológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis afecta a sustantivos y verbos, no tiene relación directa con la adjetivación sesgada."
+        },
+        {
+          "letter": "C",
+          "text": "La pérdida de precisión informativa y la inducción a interpretaciones erróneas por parte del lector rápido",
+          "is_correct": true,
+          "feedback": "Correcto. Si en una noticia policial o económica se abusa de la elipsis del sujeto o del verbo, el lector de titulares o de lectura rápida puede confundir quién realizó la acción delictiva o qué indicador económico sufrió la variación, perjudicando la objetividad periodística."
+        },
+        {
+          "letter": "D",
+          "text": "La censura política del gobierno sobre los medios de comunicación masivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los problemas de cohesión sintáctica interna no son causantes directos de censura estatal de corte ideológico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque la elipsis es un recurso de cohesión válido y elegante, en el periodismo de información pura prima el principio de claridad y precisión referencial. Una elisión excesiva puede generar ambigüedad respecto a los actores o acciones de la noticia.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "Lea el argumento de un debate vecinal sobre obras viales:\n'La municipalidad debe demoler la vieja casona porque impide el libre tránsito de los autos modernos que son el motor de nuestra economía regional'.\nDesde la perspectiva de la coherencia interna del discurso, ¿qué supuesto problemático (brecha lógica) no justificado contiene este argumento?",
+      "context": "Un examen de ingreso de alta exigencia académica en la UNI evalúa la deconstrucción lógica de falacias por imprecisión referencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asume que la municipalidad no tiene presupuesto para realizar demoliciones físicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no aborda el tema del presupuesto municipal, sino la justificación del acto."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma de forma categórica que los autos modernos no consumen combustible importado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El combustible de los vehículos es un detalle técnico ajeno a las premisas explícitas de la discusión."
+        },
+        {
+          "letter": "C",
+          "text": "Establece una relación causal forzada e injustificada entre la demolición de un único inmueble patrimonial y el desarrollo de la macroeconomía regional",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento comete un error de escala y coherencia lógica (pendiente resbaladiza o causa falsa): sobredimensiona el impacto de conservar la casona, sugiriendo que obstruir el paso de algunos autos modernos en una calle comprometería el motor entero de la economía regional."
+        },
+        {
+          "letter": "D",
+          "text": "Elude definir la palabra 'casona' según el reglamento del Ministerio de Cultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la casona pueda ser patrimonio declarado, el error lógico-argumentativo interno se halla en la desmesura de la relación de causa y efecto planteada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia semántica exige que la fuerza de las conclusiones guarde proporción lógica con las premisas. Vincular causalmente la preservación de una estructura física individual con el colapso o auge de la economía de una región entera es una inconsistencia argumentativa insalvable.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "Considere la siguiente secuencia inconexa:\n'Los estudiantes peruanos leen poco. El hábito de la lectura se fomenta en el hogar. El precio de los libros es elevado en Lima. El Ministerio de Educación regala bibliotecas escolares'.\n¿Cuál es la crítica fundamental sobre la coherencia y cohesión de este conjunto de oraciones?",
+      "context": "Un profesor de lingüística de la Universidad de San Marcos analiza la reescritura de textos mal cohesionados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carece de coherencia global porque habla de temas totalmente inconexos como la medicina y la ingeniería",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las oraciones sí comparten un marco temático general común (la lectura, los libros, los estudiantes), por lo que hay cierta coherencia temática potencial."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene excelente cohesión formal pero carece de coherencia local porque usa demasiados pronombres relativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el texto carece por completo de conectores lógicos o pronombres relativos, pareciendo una lista inconexa."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta coherencia temática potencial pero carece totalmente de cohesión formal (yustaposición inconexa), lo que obliga al lector a adivinar las relaciones de causa, oposición o adición entre las ideas",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto de enunciados es un ejemplo de texto inconexo (estilo fragmentado). Aunque las oraciones abordan aristas de la lectura, al no usar conectores ni mecanismos de referencia, no queda claro si el Ministerio regala libros *porque* el precio es alto, o si leen poco *a pesar de que* el hogar influye, etc. La falta de nexos destruye la fluidez sintáctica."
+        },
+        {
+          "letter": "D",
+          "text": "Es un poema en prosa vanguardista cuya coherencia reside en la ausencia voluntaria de sustantivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto está lleno de sustantivos ('estudiantes', 'hábito', 'libros', 'Ministerio') y no sigue una finalidad lírica o poética intencionada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto no es una mera suma de oraciones puestas una al lado de la otra. Sin cohesión formal (conectores, marcadores discursivos, anáforas), el mensaje pierde ilación lógica, obligando al receptor a realizar un esfuerzo cognitivo excesivo para reconstruir el sentido local y global de la exposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v1",
+      "statement": "En una lectura en Trujillo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v3",
+      "statement": "Identifica el conector: Ayacucho es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Simbolos Patrios estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Simbolos Patrios estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional Santa Isabel de Huancayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v6",
+      "statement": "En una lectura en Cajamarca: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v8",
+      "statement": "Identifica el conector: Huancayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Miguel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Miguel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional La Libertad de Huaraz, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v11",
+      "statement": "En una lectura en Cajamarca: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v13",
+      "statement": "Identifica el conector: Piura es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Juan estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Juan estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional Ciencias de Cusco, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v16",
+      "statement": "En una lectura en Iquitos: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v18",
+      "statement": "Identifica el conector: Puno es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional Mariscal Caceres de Ayacucho, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W03-variedades-linguisticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}
