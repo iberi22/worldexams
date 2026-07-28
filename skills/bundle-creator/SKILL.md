@@ -110,6 +110,11 @@ For 8 or 12 questions, keep the same progression and avoid overloading expert qu
 **Expected_Success:** 0.80
 **Contexto:** Local country context.
 
+<!-- AXIS FIELD BY COUNTRY: `**ICFES:**` is EXCLUSIVE to Colombia bundles.
+     Every other country uses `**EJE:** {competency_or_exam_axis}` instead.
+     The country's exam entity (PAES, EXANI, ENEM, CNEB, Aprender, ...)
+     belongs only in frontmatter `alignment`, never as a brand inside questions. -->
+
 ### Enunciado
 Question text.
 
