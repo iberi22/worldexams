@@ -926,6 +926,906 @@
       "subject": "matematicas",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "En una mañana se vendieron en total 50 tazas de café, recaudando $1,800 pesos. Si el precio del americano es de $30 pesos y el del capuchino es de $45 pesos, ¿cuántas tazas de capuchino se vendieron?",
+      "context": "Una cafetería en Morelia vende café americano y capuchino para el desayuno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 tazas de capuchino",
+          "is_correct": true,
+          "feedback": "¡Correcto! Planteando el sistema x+y=50, 30x+45y=1800. Sustituyendo x=50-y en la segunda: 30(50-y)+45y=1800 -> 1500 + 15y = 1800 -> 15y = 300 -> y = 20 tazas."
+        },
+        {
+          "letter": "B",
+          "text": "30 tazas de capuchino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la cantidad de cafés americanos vendidos."
+        },
+        {
+          "letter": "C",
+          "text": "25 tazas de capuchino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se vendiera la mitad de cada uno, la recaudación sería de $1,875 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "15 tazas de capuchino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esta cantidad, la recaudación sería menor al total registrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Definimos x como americanos e y como capuchinos. El sistema de ecuaciones es: (1) x + y = 50; (2) 30x + 45y = 1800. Despejando x de (1): x = 50 - y. Sustituyendo en (2): 30(50 - y) + 45y = 1800. Simplificando: 1500 - 30y + 45y = 1800 => 1500 + 15y = 1800 => 15y = 300 => y = 20. Se vendieron 20 capuchinos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Si cuenta en total 80 cabezas y 220 patas de animales, ¿cuántas vacas tiene en total el ganadero?",
+      "context": "Un ganadero en Sonora realiza un conteo de animales en su establo, donde tiene vacas y gallinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 vacas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si x son vacas e y son gallinas, x+y=80 y 4x+2y=220. Restando dos veces la primera de la segunda: 2x = 60, de donde x = 30 vacas."
+        },
+        {
+          "letter": "B",
+          "text": "50 vacas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería al número de gallinas, no de vacas."
+        },
+        {
+          "letter": "C",
+          "text": "40 vacas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto daría una cantidad de patas mayor que las contadas."
+        },
+        {
+          "letter": "D",
+          "text": "20 vacas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 20 vacas e y=60 gallinas, las patas totales serían 200."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema donde x = vacas (4 patas) e y = gallinas (2 patas): x + y = 80; 4x + 2y = 220. Multiplicamos la primera ecuación por 2: 2x + 2y = 160. Restamos esta nueva ecuación de la de patas: (4x + 2y) - (2x + 2y) = 220 - 160 => 2x = 60 => x = 30 vacas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 13, x - y = 7.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (13) - (7) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 14, x - y = 8.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (14) - (8) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 15, x - y = 9.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (15) - (9) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 16, x - y = 10.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (16) - (10) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 17, x - y = 11.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (17) - (11) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 18, x - y = 12.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (18) - (12) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 19, x - y = 13.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (19) - (13) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 20, x - y = 14.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (20) - (14) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 21, x - y = 15.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (21) - (15) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 22, x - y = 16.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (22) - (16) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 23, x - y = 17.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (23) - (17) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 24, x - y = 18.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (24) - (18) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 25, x - y = 19.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (25) - (19) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 26, x - y = 20.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (26) - (20) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 27, x - y = 21.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "29",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (27) - (21) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 28, x - y = 22.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (28) - (22) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 29, x - y = 23.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (29) - (23) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Resuelve el sistema lineal básico para hallar el valor de y: x + y = 30, x - y = 24.",
+      "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
+        },
+        {
+          "letter": "B",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (30) - (24) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

@@ -926,6 +926,906 @@
       "subject": "matematicas",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "El salón cobra una cuota fija de $1,500 pesos más $120 pesos por cada invitado. Si Mauricio dispone de un presupuesto total de $5,100 pesos, ¿cuál es el número máximo de invitados que puede registrar?",
+      "context": "Mauricio renta un salón de fiestas en Toluca para un evento escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 invitados",
+          "is_correct": true,
+          "feedback": "¡Correcto! Planteando la ecuación: 120x + 1500 = 5100. Restando 1500 queda 120x = 3600. Dividiendo entre 120, x = 30."
+        },
+        {
+          "letter": "B",
+          "text": "42 invitados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó dividiendo todo el presupuesto directamente sin restar la cuota fija."
+        },
+        {
+          "letter": "C",
+          "text": "25 invitados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta cantidad de invitados dejaría presupuesto sin utilizar habiendo espacio para más."
+        },
+        {
+          "letter": "D",
+          "text": "35 invitados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta cantidad superaría el presupuesto total disponible por Mauricio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos la ecuación lineal donde x representa el número de invitados: 120x + 1500 = 5100. Despejamos la variable: primero restamos la cuota fija de ambos lados: 120x = 5100 - 1500 = 3600. Luego dividimos entre el costo unitario por invitado: x = 3600 / 120 = 30 invitados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "Resuelve la siguiente ecuación de primer grado para encontrar el valor de x: (2/3)x - 5 = 7.",
+      "context": "Un estudiante en Querétaro resuelve una ecuación lineal con coeficientes fraccionarios en su examen mensual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando 5 en ambos lados: (2/3)x = 12. Multiplicando por 3: 2x = 36. Dividiendo entre 2: x = 18."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó de forma errónea por la fracción en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría el resultado intermedio antes de multiplicar por la inversa de la fracción."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplicaron correctamente las operaciones inversas para despejar la variable x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para despejar x de la ecuación (2/3)x - 5 = 7, primero sumamos 5 a ambos lados para aislar el término con la variable: (2/3)x = 12. Luego, multiplicamos ambos lados por 3: 2x = 36. Por último, dividimos entre 2: x = 18.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "Si se cumple que 4x + 3 = 2x + 13, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 3 = 2x + 13, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 3 = 13. Restamos 3 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Si se cumple que 4x + 4 = 2x + 14, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 4 = 2x + 14, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 4 = 14. Restamos 4 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "Si se cumple que 4x + 5 = 2x + 15, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 5 = 2x + 15, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 5 = 15. Restamos 5 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "Si se cumple que 4x + 6 = 2x + 16, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 6 = 2x + 16, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 6 = 16. Restamos 6 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Si se cumple que 4x + 7 = 2x + 17, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 7 = 2x + 17, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 7 = 17. Restamos 7 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "Si se cumple que 4x + 8 = 2x + 18, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 8 = 2x + 18, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 8 = 18. Restamos 8 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "Si se cumple que 4x + 9 = 2x + 19, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 9 = 2x + 19, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 9 = 19. Restamos 9 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "Si se cumple que 4x + 10 = 2x + 20, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 10 = 2x + 20, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 10 = 20. Restamos 10 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Si se cumple que 4x + 11 = 2x + 21, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 11 = 2x + 21, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 11 = 21. Restamos 11 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "Si se cumple que 4x + 12 = 2x + 22, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 12 = 2x + 22, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 12 = 22. Restamos 12 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "Si se cumple que 4x + 13 = 2x + 23, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 13 = 2x + 23, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 13 = 23. Restamos 13 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "Si se cumple que 4x + 14 = 2x + 24, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 14 = 2x + 24, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 14 = 24. Restamos 14 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "Si se cumple que 4x + 15 = 2x + 25, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 15 = 2x + 25, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 15 = 25. Restamos 15 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Si se cumple que 4x + 16 = 2x + 26, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 16 = 2x + 26, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 16 = 26. Restamos 16 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Si se cumple que 4x + 17 = 2x + 27, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 17 = 2x + 27, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 17 = 27. Restamos 17 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "Si se cumple que 4x + 18 = 2x + 28, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 18 = 2x + 28, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 18 = 28. Restamos 18 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "Si se cumple que 4x + 19 = 2x + 29, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 19 = 2x + 29, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 19 = 29. Restamos 19 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "Si se cumple que 4x + 20 = 2x + 30, ¿cuál es el valor numérico de x?",
+      "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver 4x + 20 = 2x + 30, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 20 = 30. Restamos 20 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

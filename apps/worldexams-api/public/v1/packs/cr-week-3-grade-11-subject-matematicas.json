@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.369Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En Liberia, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En Puntarenas, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "En Limón, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Limón, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En San Carlos, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En Pérez Zeledón, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "En Escazú, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Escazú, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En San José, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En Alajuela, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "En Cartago, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Cartago, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "C",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En Heredia, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En Liberia, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "En Puntarenas, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Puntarenas, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En Limón, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En San Carlos, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "En Pérez Zeledón, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Pérez Zeledón, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En Escazú, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En San José, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "En Alajuela, un cultivo de bacterias crece según el modelo exponencial $P(t) = 100 \\cdot 3^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "En Alajuela, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "2700 bacterias",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "300 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "D",
+          "text": "1000 bacterias",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo exponencial $P(t) = 100 \\cdot 3^t$ en el valor temporal $t = 3$: $P(3) = 100 \\cdot 3^3 = 100 \\cdot 27 = 2700$ bacterias.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "context": "En Cartago, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 1)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "context": "En Heredia, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente en todo su dominio",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una asíntota vertical en el eje y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+        },
+        {
+          "letter": "C",
+          "text": "Interseca al eje x en el punto (1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "Es estrictamente decreciente en todo su dominio",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}
