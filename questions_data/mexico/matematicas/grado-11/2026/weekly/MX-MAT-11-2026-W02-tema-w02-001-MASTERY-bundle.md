@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un carpintero en Jalisco calcula el área de una mesa rectangular.
 
@@ -43,7 +43,7 @@ Para calcular el área de un rectángulo multiplicamos la base por la altura: Ar
 ## Question 2 [D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** En un taller de diseño automotriz en Puebla, se modela el volumen de un contenedor cilíndrico.
 
@@ -66,7 +66,7 @@ Aplicamos la regla de potencia de un producto: (x^m * y^n)^p = x^(m*p) * y^(n*p)
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de bachillerato en la CDMX analiza los términos semejantes de una expresión polinomial.
 
@@ -89,7 +89,7 @@ La simplificación requiere agrupar coeficientes de las mismas potencias de x. P
 ## Question 4 [D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Se requiere calcular la cantidad de material para una tubería de sección transversal circular en Monterrey.
 
@@ -112,7 +112,7 @@ La regla de la diferencia de cuadrados indica que a² - b² = (a - b)(a + b). En
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 5.
 
@@ -135,7 +135,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 6 [D5]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 6.
 
@@ -158,7 +158,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 7.
 
@@ -181,7 +181,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 8 [D5]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 8.
 
@@ -204,7 +204,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 9.
 
@@ -227,7 +227,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 10 [D5]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 10.
 
@@ -250,7 +250,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 11.
 
@@ -273,7 +273,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 12 [D7]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 12.
 
@@ -296,7 +296,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 13.
 
@@ -319,7 +319,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 14 [D7]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 14.
 
@@ -342,7 +342,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 15.
 
@@ -365,7 +365,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 16 [D7]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 16.
 
@@ -388,7 +388,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 17.
 
@@ -411,7 +411,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 18 [D9]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 18.
 
@@ -434,7 +434,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 19.
 
@@ -457,7 +457,7 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 ## Question 20 [D9]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 20.
 

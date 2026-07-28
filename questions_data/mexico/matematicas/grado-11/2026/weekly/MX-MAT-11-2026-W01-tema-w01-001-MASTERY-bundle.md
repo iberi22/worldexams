@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Alejandro compra dulces típicos en un mercado de Oaxaca para revenderlos en la Ciudad de México.
 
@@ -43,7 +43,7 @@ Primero, se multiplica el peso de los dulces por el precio por kilo para obtener
 ## Question 2 [D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Sofía quiere preparar atole de vainilla en Guadalajara y su receta familiar requiere mezclar leche y agua.
 
@@ -66,7 +66,7 @@ La relación leche a agua es de 3:2, lo que matemáticamente se puede escribir c
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un agricultor en Michoacán distribuye su producción de aguacates en tres bodegas locales.
 
@@ -89,7 +89,7 @@ Sumando los porcentajes asignados a las dos primeras bodegas obtenemos: 40% + 35
 ## Question 4 [D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Para un proyecto escolar de geografía en Monterrey, se diseña un mapa a escala.
 
@@ -112,7 +112,7 @@ Planteamos una regla de tres simple directa: si 2 cm equivalen a 15 km, entonces
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Durante una práctica de laboratorio de química en Mérida, un estudiante registra temperaturas bajo cero en un proceso criogénico.
 
@@ -135,7 +135,7 @@ El término 'descender' indica una resta aritmética. Partiendo de una temperatu
 ## Question 6 [D5]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Una empresa de transporte turístico en Cancún ofrece recorridos en barco para conocer la barrera de arrecifes de coral.
 
@@ -158,7 +158,7 @@ Primero, se calcula el costo por persona dividiendo el total original entre el n
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un albañil en Puebla mezcla bultos de cemento y arena fina para preparar una pasta de aplanado.
 
@@ -181,7 +181,7 @@ La proporción establecida es de 2 bultos de cemento por cada 5 bultos de arena 
 ## Question 8 [D5]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** La señora Guadalupe elabora pan dulce tradicional en Toluca y pesa la harina en kilogramos utilizando fracciones.
 
@@ -204,7 +204,7 @@ Para realizar la suma de manera sencilla, podemos convertir las fracciones mixta
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un atleta en Querétaro corre en una pista de atletismo para prepararse para una competencia estatal.
 
@@ -227,7 +227,7 @@ Primero, se convierte la fracción mixta del segundo día a decimal: 10 3/5 = 10
 ## Question 10 [D5]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de bachillerato en el Estado de México analiza las propiedades aritméticas de los números irracionales en la recta numérica.
 
@@ -250,7 +250,7 @@ Los números irracionales son aquellos elementos de la recta real que no pueden 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Guadalajara vende bolsas de café artesanal de Chiapas y Veracruz.
 
@@ -273,7 +273,7 @@ Definimos x como los kilos de Chiapas e y como los de Veracruz. El sistema es: (
 ## Question 12 [D7]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Durante una clase de física teórica en la UNAM, se estudia la distancia geométrica entre partículas puntuales mediante valor absoluto.
 
@@ -296,7 +296,7 @@ El valor absoluto de cualquier número real mide su magnitud o distancia al cero
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un analista financiero en la Ciudad de México evalúa las tasas de interés y los inversos multiplicativos de un portafolio de deuda.
 
@@ -319,7 +319,7 @@ El inverso aditivo de un número x es aquel que sumado con x da cero, por lo tan
 ## Question 14 [D7]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Para calcular el índice de resistencia térmica de un material aislante en Monterrey se utiliza una fórmula fraccionaria compleja.
 
@@ -342,7 +342,7 @@ Primero restamos las fracciones del numerador: m.c.m.(4, 6) = 12. Entonces 3/4 -
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un topógrafo en Veracruz mide la diferencia de elevación entre tres puntos de control topográfico.
 
@@ -365,7 +365,7 @@ Para encontrar el punto medio exacto en la recta numérica entre dos valores, su
 ## Question 16 [D7]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** En un curso de álgebra superior en Toluca, se analiza el cumplimiento de las propiedades algebraicas de los conjuntos numéricos.
 
@@ -388,7 +388,7 @@ La propiedad de cerradura (o clausura) indica que al realizar una operación mat
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un ingeniero ambiental en la CDMX monitorea el nivel de contaminantes en partes por millón aplicando leyes de exponentes negativos.
 
@@ -411,7 +411,7 @@ Un exponente negativo invierte la base fraccionaria: (a/b)⁻ⁿ = (b/a)ⁿ. Por
 ## Question 18 [D9]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un profesor de matemáticas en Monterrey presenta un reto numérico para evaluar el orden de operaciones jerárquicas complejas.
 
@@ -434,7 +434,7 @@ Siguiendo el orden jerárquico establecido: 1) Resolvemos lo que está dentro de
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Durante un seminario sobre fundamentos de análisis matemático en Guadalajara, se estudia la equivalencia de los decimales periódicos puros.
 
@@ -457,7 +457,7 @@ Podemos demostrarlo planteando: sea x = 0.999... Multiplicamos por 10 en ambos l
 ## Question 20 [D9]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Se plantea un dilema sobre la propiedad de densidad de los conjuntos numéricos reales y racionales.
 

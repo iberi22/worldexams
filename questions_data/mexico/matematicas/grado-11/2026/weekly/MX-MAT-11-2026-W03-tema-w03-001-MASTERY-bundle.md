@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Mauricio renta un salón de fiestas en Toluca para un evento escolar.
 
@@ -43,7 +43,7 @@ Planteamos la ecuación lineal donde x representa el número de invitados: 120x 
 ## Question 2 [D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Querétaro resuelve una ecuación lineal con coeficientes fraccionarios en su examen mensual.
 
@@ -66,7 +66,7 @@ Para despejar x de la ecuación (2/3)x - 5 = 7, primero sumamos 5 a ambos lados 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 3.
 
@@ -89,7 +89,7 @@ Para resolver 4x + 3 = 2x + 13, agrupamos los términos con x en un miembro y la
 ## Question 4 [D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 4.
 
@@ -112,7 +112,7 @@ Para resolver 4x + 4 = 2x + 14, agrupamos los términos con x en un miembro y la
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 5.
 
@@ -135,7 +135,7 @@ Para resolver 4x + 5 = 2x + 15, agrupamos los términos con x en un miembro y la
 ## Question 6 [D5]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 6.
 
@@ -158,7 +158,7 @@ Para resolver 4x + 6 = 2x + 16, agrupamos los términos con x en un miembro y la
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 7.
 
@@ -181,7 +181,7 @@ Para resolver 4x + 7 = 2x + 17, agrupamos los términos con x en un miembro y la
 ## Question 8 [D5]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 8.
 
@@ -204,7 +204,7 @@ Para resolver 4x + 8 = 2x + 18, agrupamos los términos con x en un miembro y la
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 9.
 
@@ -227,7 +227,7 @@ Para resolver 4x + 9 = 2x + 19, agrupamos los términos con x en un miembro y la
 ## Question 10 [D5]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 10.
 
@@ -250,7 +250,7 @@ Para resolver 4x + 10 = 2x + 20, agrupamos los términos con x en un miembro y l
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 11.
 
@@ -273,7 +273,7 @@ Para resolver 4x + 11 = 2x + 21, agrupamos los términos con x en un miembro y l
 ## Question 12 [D7]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 12.
 
@@ -296,7 +296,7 @@ Para resolver 4x + 12 = 2x + 22, agrupamos los términos con x en un miembro y l
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 13.
 
@@ -319,7 +319,7 @@ Para resolver 4x + 13 = 2x + 23, agrupamos los términos con x en un miembro y l
 ## Question 14 [D7]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 14.
 
@@ -342,7 +342,7 @@ Para resolver 4x + 14 = 2x + 24, agrupamos los términos con x en un miembro y l
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 15.
 
@@ -365,7 +365,7 @@ Para resolver 4x + 15 = 2x + 25, agrupamos los términos con x en un miembro y l
 ## Question 16 [D7]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 16.
 
@@ -388,7 +388,7 @@ Para resolver 4x + 16 = 2x + 26, agrupamos los términos con x en un miembro y l
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 17.
 
@@ -411,7 +411,7 @@ Para resolver 4x + 17 = 2x + 27, agrupamos los términos con x en un miembro y l
 ## Question 18 [D9]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 18.
 
@@ -434,7 +434,7 @@ Para resolver 4x + 18 = 2x + 28, agrupamos los términos con x en un miembro y l
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 19.
 
@@ -457,7 +457,7 @@ Para resolver 4x + 19 = 2x + 29, agrupamos los términos con x en un miembro y l
 ## Question 20 [D9]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 20.
 

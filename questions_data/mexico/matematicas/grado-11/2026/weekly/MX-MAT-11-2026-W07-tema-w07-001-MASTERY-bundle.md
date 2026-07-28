@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un conductor de taxi en la CDMX cobra una tarifa con base en una función lineal del kilometraje recorrido.
 
@@ -43,7 +43,7 @@ Una función afín tiene la forma f(x) = mx + b, donde m es la pendiente (tasa d
 ## Question 2 [D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** En un estudio de viabilidad económica en una fábrica de calzado en León se determina la pendiente de una recta.
 
@@ -66,7 +66,7 @@ Utilizamos la fórmula de la pendiente m = (y₂ - y₁) / (x₂ - x₁). Dados 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 3.
 
@@ -89,7 +89,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 4 [D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 4.
 
@@ -112,7 +112,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 5.
 
@@ -135,7 +135,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 6 [D5]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 6.
 
@@ -158,7 +158,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 7.
 
@@ -181,7 +181,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 8 [D5]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 8.
 
@@ -204,7 +204,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 9.
 
@@ -227,7 +227,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 10 [D5]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 10.
 
@@ -250,7 +250,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 11.
 
@@ -273,7 +273,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 12 [D7]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 12.
 
@@ -296,7 +296,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 13.
 
@@ -319,7 +319,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 14 [D7]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 14.
 
@@ -342,7 +342,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 15.
 
@@ -365,7 +365,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 16 [D7]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 16.
 
@@ -388,7 +388,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 17.
 
@@ -411,7 +411,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 18 [D9]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 18.
 
@@ -434,7 +434,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 19.
 
@@ -457,7 +457,7 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 ## Question 20 [D9]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Análisis de funciones lineales afines en México, caso 20.
 

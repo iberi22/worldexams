@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Una cafetería en Morelia vende café americano y capuchino para el desayuno.
 
@@ -43,7 +43,7 @@ Definimos x como americanos e y como capuchinos. El sistema de ecuaciones es: (1
 ## Question 2 [D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un ganadero en Sonora realiza un conteo de animales en su establo, donde tiene vacas y gallinas.
 
@@ -66,7 +66,7 @@ Planteamos el sistema donde x = vacas (4 patas) e y = gallinas (2 patas): x + y 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 3.
 
@@ -89,7 +89,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 4 [D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 4.
 
@@ -112,7 +112,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 5.
 
@@ -135,7 +135,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 6 [D5]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 6.
 
@@ -158,7 +158,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 7.
 
@@ -181,7 +181,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 8 [D5]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 8.
 
@@ -204,7 +204,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 9.
 
@@ -227,7 +227,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 10 [D5]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 10.
 
@@ -250,7 +250,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 11.
 
@@ -273,7 +273,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 12 [D7]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 12.
 
@@ -296,7 +296,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 13.
 
@@ -319,7 +319,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 14 [D7]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 14.
 
@@ -342,7 +342,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 15.
 
@@ -365,7 +365,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 16 [D7]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 16.
 
@@ -388,7 +388,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 17.
 
@@ -411,7 +411,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 18 [D9]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 18.
 
@@ -434,7 +434,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 19.
 
@@ -457,7 +457,7 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 ## Question 20 [D9]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 20.
 
