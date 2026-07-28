@@ -1,7 +1,11 @@
 # Protocolo Mundial de Generación WorldExams v7
 
-Este protocolo unifica v5.2 (Jules), v6.0 (Colombia Assessment Protocol) y reglas por país.
-Todo bundle MASTERY debe cumplir este protocolo para ser considerado de **calidad alta**.
+> **HISTORICAL / NON-DEFAULT (2026-07-28).**  
+> New weekly MASTERY generation uses **Bundle Protocol v5.2** in `AGENTS.md`, validated with `npm run validate` (`scripts/validate-bundles-v52.mjs`).  
+> See `docs/specs/ACTIVE_PROTOCOLS.md`. This v7 document is retained only for migration and audit context. Do not use `protocol_version: "7.0"` or `validate-bundles-v7.mjs` for new work.
+
+Este protocolo unificaba v5.2 (Jules), v6.0 (Colombia Assessment Protocol) y reglas por país.
+Históricamente, todo bundle MASTERY debía cumplir este protocolo para ser considerado de **calidad alta**.
 
 ---
 

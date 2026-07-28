@@ -40,12 +40,15 @@ function checkRateLimit(ip: string): boolean {
 
 /**
  * Handle fetching and posting question comments
+ * - ?questionId=ID → full approved comments for one question
+ * - ?counts=id1,id2 → aggregated approved comment counts (no new tables)
  */
 export const GET: APIRoute = async ({ url, locals }) => {
   const questionId = url.searchParams.get('questionId');
+  const countsParam = url.searchParams.get('counts');
 
-  if (!questionId) {
-    return new Response(JSON.stringify({ error: 'questionId is required' }), {
+  if (!questionId && !countsParam) {
+    return new Response(JSON.stringify({ error: 'questionId or counts is required' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' }
     });
@@ -54,6 +57,51 @@ export const GET: APIRoute = async ({ url, locals }) => {
   try {
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
     const supabase = createServerSupabaseClient(env);
+
+    if (countsParam) {
+      const ids = countsParam
+        .split(',')
+        .map((id) => id.trim())
+        .filter(Boolean)
+        .slice(0, 80);
+
+      const counts: Record<string, number> = {};
+      for (const id of ids) counts[id] = 0;
+
+      if (ids.length === 0) {
+        return new Response(JSON.stringify({ success: true, counts }), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+
+      const { data, error } = await supabase
+        .from('question_comments')
+        .select('question_id')
+        .in('question_id', ids)
+        .eq('is_approved', true);
+
+      if (error) throw error;
+
+      for (const row of data || []) {
+        const key = String((row as { question_id?: string }).question_id || '');
+        if (!key) continue;
+        counts[key] = (counts[key] || 0) + 1;
+      }
+
+      return new Response(JSON.stringify({ success: true, counts }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
+    if (!questionId) {
+      return new Response(JSON.stringify({ error: 'questionId is required' }), {
+        status: 400,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
     // Only show approved comments to public
     const { data, error } = await supabase
       .from('question_comments')

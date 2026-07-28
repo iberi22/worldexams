@@ -22,6 +22,12 @@
   import type { CountryConfig as RuntimeCountryConfig } from '../config';
   import { getPreuCatalogEntries, isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
   import MenGuidelinesModal from './MenGuidelinesModal.svelte';
+  import {
+    isSupabaseMirrorEnabled,
+    maybeGetPartySession,
+    maybePersistPartySession,
+    maybeUpdatePartySession,
+  } from '../modules/exam-room/services/authPersistence';
 
   let {
     countryCode = defaultCountryConfig.code,
@@ -380,15 +386,14 @@
     if (!roomEnabled || !roomCode) return;
     const myId = ensureStudentIdForRoom(roomCode);
 
-    const { data, error } = await supabase
-      .from('party_sessions')
-      .select('students')
-      .eq('party_code', roomCode)
-      .maybeSingle();
-
-    if (error || !data) {
-      throw (error ?? new Error('Sala no encontrada'));
+    if (!isSupabaseMirrorEnabled()) {
+      isReady = nextReady;
+      p2pService.sendToHost('READY_STATE', { ready: nextReady });
+      return;
     }
+
+    const data = await maybeGetPartySession(roomCode, 'students');
+    if (!data) throw new Error('Sala no encontrada en el mirror');
 
     const students = data.students || [];
     const idx = students.findIndex((s) => s?.id === myId);
@@ -413,9 +418,7 @@
       students.push({ id: myId, name: resolvedName, ready: nextReady, joined_at: now });
     }
 
-    await supabase.from('party_sessions')
-      .update({ students })
-      .eq('party_code', roomCode);
+    await maybeUpdatePartySession(roomCode, { students });
   }
 
   // Generate 6-char alphanumeric code (matches DB constraint)
@@ -465,10 +468,7 @@
   async function initP2PHost() {
     try {
       const peerId = await p2pService.initHost(roomCode);
-      await supabase.from('party_sessions')
-        .update({ host_peer_id: peerId })
-        // We will store it in `exam_config.host_peer_id`.
-        .eq('party_code', roomCode);
+      await maybeUpdatePartySession(roomCode, { host_peer_id: peerId });
 
       console.log('📡 P2P Host registered:', peerId);
 
@@ -646,10 +646,10 @@
          // P2P Broadcast (primary)
          p2pService.broadcast('CONFIG_UPDATE', payload);
 
-         // DB Update (Realtime fallback)
-         try {
-             await supabase.from('party_sessions')
-               .update({
+         // Optional authenticated mirror update.
+         if (isSupabaseMirrorEnabled()) {
+           try {
+             await maybeUpdatePartySession(roomCode, {
                  exam_config: {
                    subject: selectedSubject,
                    grade: selectedGrade,
@@ -664,11 +664,10 @@
                    period: selectedPeriod,
                    minCefrLevel: selectedEnglishLevel || undefined
                  }
-               })
-               .eq('party_code', roomCode);
-             console.log('💾 DB config updated');
-         } catch (dbErr) {
-             console.warn('⚠️ Failed to update DB config:', dbErr);
+               });
+           } catch (dbErr) {
+             console.warn('⚠️ Failed to update room mirror config:', dbErr);
+           }
          }
      }, 1000); // 🆕 Unified 1 second debounce
   }
@@ -747,7 +746,7 @@
         // Continue without P2P - Supabase Realtime will handle sync
       }
 
-      const { error } = await supabase.from('party_sessions').insert({
+      await maybePersistPartySession({
         party_code: newPartyCode,
         host_name: 'Host',
         exam_config: {
@@ -776,8 +775,6 @@
         time_option: timeOption,
         questions_count: syncedQuestions.length
       });
-
-      if (error) throw error;
 
       roomCode = newPartyCode;
 
@@ -832,14 +829,12 @@
     roomError = '';
     try {
       const cleanJoinCode = joinCode.trim().toUpperCase();
-      const { data, error } = await supabase
-        .from('party_sessions')
-        .select('*')
-        .eq('party_code', cleanJoinCode)
-        .maybeSingle();
+      const data = await maybeGetPartySession(cleanJoinCode);
 
-      if (error || !data) {
-        roomError = 'Sala no encontrada o expirada';
+      if (!data) {
+        roomError = isSupabaseMirrorEnabled()
+          ? 'Sala no encontrada, expirada o sin sesión autenticada'
+          : 'Las salas legacy requieren activar el mirror; usa el navegador mesh';
         return;
       }
 
@@ -880,9 +875,7 @@
         students.push({ id: myId, name: resolvedName, joined_at: now, ready: false });
       }
 
-      await supabase.from('party_sessions')
-        .update({ students })
-        .eq('party_code', roomCode);
+      await maybeUpdatePartySession(roomCode, { students });
 
       // 🔧 CRÍTICO: Sincronizar TODA la configuración del host
       const config = data.exam_config || {};
@@ -1055,7 +1048,7 @@
   function subscribeToRoom(opts = {}) {
     const { force = false } = opts;
 
-    if (!roomCode) return;
+    if (!roomCode || !isSupabaseMirrorEnabled()) return;
 
     if (roomChannel) {
       supabase.removeChannel(roomChannel);
@@ -1134,13 +1127,9 @@
 
   // Refresh connected users manually
   async function refreshStudents() {
-    if (!roomCode) return;
+    if (!roomCode || !isSupabaseMirrorEnabled()) return;
     try {
-      const { data, error } = await supabase
-        .from('party_sessions')
-        .select('students')
-        .eq('party_code', roomCode)
-        .maybeSingle();
+      const data = await maybeGetPartySession(roomCode, 'students');
 
       if (data && Array.isArray(data.students)) {
         connectedUsers = data.students;

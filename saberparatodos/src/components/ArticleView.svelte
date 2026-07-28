@@ -8,6 +8,7 @@
   import { getUser } from '../lib/auth';
   import type { User } from '@supabase/supabase-js';
   import { getVideoMeta, getVideoManifestDefaults, type VideoManifestEntry } from '../lib/video-manifest';
+  import TutorPanel from './ai/TutorPanel.svelte';
 
   // Props
   export let question: Question;
@@ -63,7 +64,7 @@
           on:click={onBack}
           class="px-4 py-2 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
         >
-          [ Volver al Blog ]
+          [ Volver a Revisar ]
         </button>
         <div class="text-xs font-bold uppercase tracking-[0.2em] text-emerald-500">
           {question.category}
@@ -156,7 +157,23 @@
     <!-- Ads & Support -->
     <AdBanner {user} className="my-12" />
 
-    <!-- Comments -->
-    <CommentsSection questionId={question.id} />
+    <!-- Comments (community discuss) -->
+    <section class="space-y-3" id="discusion">
+      <div class="flex items-end justify-between gap-3 border-b border-white/10 pb-3">
+        <div>
+          <p class="text-[10px] font-bold uppercase tracking-widest text-emerald-400/80">Banco social</p>
+          <h3 class="text-lg font-bold text-[#F5F5DC]">Discusión de la pregunta</h3>
+        </div>
+        <span class="text-[10px] font-mono text-white/30">ID {question.id}</span>
+      </div>
+      <CommentsSection questionId={question.id} />
+    </section>
+
+    <TutorPanel
+      questionText={question.text || ''}
+      explanation={question.explanation || ''}
+      subject={(question.category || '').split(' :: ')[0]}
+      grade={question.grade}
+    />
   </div>
 {/if}

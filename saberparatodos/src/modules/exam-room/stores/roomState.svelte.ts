@@ -6,7 +6,14 @@
 
 import { connectionService } from '../services/connection';
 import { antiCheatService } from '../services/antiCheat';
-import { supabase } from '../../../lib/supabase';
+import { p2p } from '../../../lib/p2p-edge-mesh';
+import {
+  getSupabaseMirrorUser,
+  isSupabaseMirrorEnabled,
+  maybeAnalyzePartyResults,
+  maybePersistPartyResults,
+  maybePersistPartySession,
+} from '../services/authPersistence';
 import type {
   RoomConfig,
   RoomRole,
@@ -20,7 +27,24 @@ import type {
 } from '../types';
 import { PLAN_LIMITS } from '../types';
 import type { AppQuestion } from '../../../lib/api-service';
-import { defaultQuestionRepository, prepareStopModeQuestions } from '../../../lib/questions';
+import {
+  defaultQuestionRepository,
+  filterValidQuestions,
+  prepareStopModeQuestions,
+} from '../../../lib/questions';
+
+function getRuntimeCountryCode(): string {
+  if (typeof document === 'undefined') return '';
+
+  try {
+    const config = document.getElementById('api-config')?.textContent;
+    return config
+      ? String(JSON.parse(config).countryCode || '').toUpperCase()
+      : '';
+  } catch {
+    return '';
+  }
+}
 
 class RoomState {
   // State primitivo
@@ -87,9 +111,10 @@ class RoomState {
 
     const roomId = this.generateRoomId();
 
-    // Try to get authenticated user
-    const { data: { user } } = await supabase.auth.getUser();
+    // Auth is only consulted when the optional Supabase mirror is enabled.
+    const user = await getSupabaseMirrorUser();
     const hostId = user ? user.id : crypto.randomUUID();
+    const regionCode = getRuntimeCountryCode();
 
     this.config = {
       id: roomId,
@@ -101,7 +126,9 @@ class RoomState {
       totalQuestions: config.totalQuestions || 20,
       grado,
       asignatura,
-      connectionMode: config.connectionMode || 'supabase',
+      region: regionCode || 'LATAM',
+      countryCode: regionCode || undefined,
+      connectionMode: config.connectionMode || 'edge-mesh',
       createdAt: new Date(),
       // 🆕 Stop Mode configuration
       mode: config.mode,
@@ -165,59 +192,115 @@ class RoomState {
           }));
       }
     } else {
-      // --- STANDARD MODE (Mock for now, TODO: Real Questions) ---
-       this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
-        id: `q-${i + 1}`,
-        text: `Pregunta ${i + 1} de ${asignatura}`,
-        options: [
-          { id: 'A', text: 'Opción A' },
-          { id: 'B', text: 'Opción B' },
-          { id: 'C', text: 'Opción C' },
-          { id: 'D', text: 'Opción D' },
-        ],
-        explanation: 'Explicación de la respuesta correcta',
-      }));
+      // --- STANDARD MODE (real questions from the validated pack pool) ---
+      try {
+        const wanted = this.config.totalQuestions || 20;
+        console.log(`[Room] Fetching ${wanted} questions for ${asignatura} grado ${grado}...`);
+
+        const pool: AppQuestion[] = [];
+        const seen = new Set<string>();
+        const maxPages = Math.min(5, Math.ceil(wanted / 10) + 1);
+        for (let page = 1; page <= maxPages && pool.length < wanted; page++) {
+          const batch = await defaultQuestionRepository.fetchQuestions(grado, asignatura, page);
+          if (batch.length === 0) break;
+          for (const q of batch) {
+            if (q?.id && !seen.has(q.id)) {
+              seen.add(q.id);
+              pool.push(q);
+            }
+          }
+          if (batch.length < 10) break;
+        }
+
+        const { validQuestions } = filterValidQuestions(pool, 4);
+        const selected = [...validQuestions]
+          .sort(() => Math.random() - 0.5)
+          .slice(0, wanted);
+
+        if (selected.length === 0) {
+          throw new Error(`Empty question pool for ${asignatura} grado ${grado}`);
+        }
+
+        this.questions = selected;
+        console.log(`[Room] Loaded ${selected.length} real questions for Standard Mode`);
+      } catch (err) {
+        console.warn('[Room] Standard Mode pool unavailable, using placeholders:', err);
+        this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
+          id: `q-fallback-${i + 1}`,
+          text: `(Respaldo) Pregunta ${i + 1} de ${asignatura}`,
+          options: [
+            { id: 'A', text: 'Opción A' },
+            { id: 'B', text: 'Opción B' },
+            { id: 'C', text: 'Opción C' },
+            { id: 'D', text: 'Opción D' },
+          ],
+          correctOptionId: 'A',
+          grade: grado,
+          category: asignatura,
+          difficulty: 3,
+          explanation: 'Pregunta de respaldo: no se encontraron packs validados para este grado y asignatura.',
+        }));
+      }
     }
 
     // Conectar al servicio (Retry logic)
+    // edge-mesh + PeerJS signaling needs more than a 2s race
+    const connectTimeoutMs =
+      this.config.connectionMode === 'edge-mesh' ? 12_000 : 2_000;
     let attempts = 0;
     while (attempts < 2) {
       try {
         await Promise.race([
-          connectionService.connect(this.config),
-          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), 2000))
+          connectionService.connect({
+            ...this.config,
+            nombreUsuario: hostName,
+            meshIntent: 'create',
+          }),
+          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), connectTimeoutMs))
         ]);
         break;
       } catch (e) {
         attempts++;
         console.warn(`[Room] Connection attempt ${attempts} failed:`, e);
         if (attempts === 2) {
-            console.error('[Room] Connection failed after 2 attempts (proceeding offline):', e);
-            break;
+          this.connectionStatus = 'disconnected';
+          throw e;
         }
         await new Promise(r => setTimeout(r, 500));
       }
     }
     this.connectionStatus = 'connected';
 
-    // 🆕 Persistir en Supabase para que aparezca en el Lobby Browser
+    // edge-mesh: room code real es salon.id — sincronizar si difiere del id local
+    if (this.config.connectionMode === 'edge-mesh') {
+      const meshCode = connectionService.getCodigoSala();
+      if (meshCode && meshCode !== roomId) {
+        console.log(`[Room] edge-mesh room code: ${meshCode} (local was ${roomId})`);
+        this.config = { ...this.config, id: meshCode };
+      }
+    }
+
+    // Mirror opcional: nunca participa en discovery y requiere flag + sesión.
     try {
-      await supabase.from('party_sessions').insert({
-        party_code: roomId,
+      const mirrored = await maybePersistPartySession({
+        party_code: this.config.id,
         host_name: hostName,
         exam_config: {
           ...this.config,
-          id: roomId, // Redundant but safe
-          is_public: true // Stop mode rooms are public by default
+          is_public: true,
+          region: regionCode || 'LATAM',
+          countryCode: regionCode || null,
         },
         students: [{ id: hostId, name: hostName, joined_at: new Date().toISOString(), ready: true }],
         max_students: limits.maxPlayers,
         status: 'waiting',
         current_question: 0
       });
-      console.log('[Room] Sesión persistida en Supabase:', roomId);
+      if (mirrored) {
+        console.log('[Room] Sesión reflejada en Supabase:', this.config.id);
+      }
     } catch (dbErr) {
-      console.warn('[Room] No se pudo persistir la sesión en DB (usando solo P2P/Realtime):', dbErr);
+      console.warn('[Room] Falló el mirror opcional; el salón mesh sigue activo:', dbErr);
     }
 
     // Escuchar mensajes
@@ -231,7 +314,7 @@ class RoomState {
       player: this.currentPlayer!,
     });
 
-    console.log('[Room] Sala creada:', roomId);
+    console.log('[Room] Sala creada:', this.config.id);
 
     // 🆕 Increment weekly exam counter (only for non-Stop mode)
     if (!isStopMode && this.currentPlan === 'free') {
@@ -239,7 +322,7 @@ class RoomState {
       localStorage.setItem('weekly_exam_count', (currentCount + 1).toString());
     }
 
-    return roomId;
+    return this.config.id;
   }
 
   /**
@@ -261,19 +344,25 @@ class RoomState {
     };
 
     // Conectar (Retry logic)
+    const joinTimeoutMs =
+      this.config.connectionMode === 'edge-mesh' ? 12_000 : 3_000;
     let attempts = 0;
     while (attempts < 3) {
       try {
         await Promise.race([
-          connectionService.connect(this.config),
-          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), 3000))
+          connectionService.connect({
+            ...this.config,
+            nombreUsuario: playerName,
+            meshIntent: 'join',
+          }),
+          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), joinTimeoutMs))
         ]);
         break;
       } catch (e) {
         attempts++;
         if (attempts === 3) {
-            console.error('[Room] Join connection failed (proceeding offline):', e);
-            break;
+          this.connectionStatus = 'disconnected';
+          throw e;
         }
         await new Promise(r => setTimeout(r, 1000));
       }
@@ -319,6 +408,40 @@ class RoomState {
     this.connectionStatus = 'disconnected';
 
     console.log('[Room] Sala abandonada');
+  }
+
+  /**
+   * Host: generate exam on-device and publish via mesh ExamenCompartido.
+   * Marks session metadata creador: local-llm (never writes questions_data/).
+   */
+  async generateQuestionsWithAi(opts?: { count?: number; topic?: string }): Promise<void> {
+    if (!this.isHost || !this.config) {
+      throw new Error('Solo el host puede generar el examen con IA');
+    }
+    const { hostGenerateAndPublishExam } = await import('../../../lib/ai/salon-exam-publish');
+    const result = await hostGenerateAndPublishExam({
+      subject: this.config.asignatura || 'matematicas',
+      grade: this.config.grado || 11,
+      count: opts?.count ?? this.config.totalQuestions ?? 10,
+      topic: opts?.topic,
+      countryCode: this.config.countryCode,
+    });
+
+    this.questions = result.questions.map((q) => ({
+      id: q.id,
+      text: q.context ? `${q.context}\n\n${q.statement}` : q.statement,
+      options: q.options.map((o) => ({ id: o.letter, text: o.text, feedback: o.feedback })),
+      correctOptionId: q.correct_answer,
+      explanation: q.explanation,
+      grade: this.config!.grado,
+      category: this.config!.asignatura,
+      difficulty: Number(String(q.difficulty).replace(/\D/g, '')) || 5,
+      meta: { creador: 'local-llm', mode: result.mode },
+    }));
+
+    if (result.mode === 'pool-assembled' && result.warning) {
+      console.warn('[Room] AI generator fallback:', result.warning);
+    }
   }
 
   /**
@@ -399,49 +522,16 @@ class RoomState {
       results: resultsPayload
     });
 
-    // Persist to Supabase (if authenticated)
+    // Persist to the optional authenticated Supabase mirror.
     if (this.config) {
-      const { data: { user } } = await supabase.auth.getUser();
-
-      if (user && user.id === this.config.hostId) {
-        try {
-          // 1. Save Room
-          const { error: roomError } = await supabase
-            .from('parties')
-            .insert({
-              id: this.config.id,
-              pin: this.config.id, // Using ID as PIN for now
-              host_id: user.id,
-              status: 'finished',
-              config: this.config,
-              total_questions: this.config.totalQuestions,
-              ended_at: new Date().toISOString(),
-            });
-
-          if (roomError) {
-            console.error('[Room] Error saving room:', roomError);
-          } else {
-            // 2. Save Players
-            const playersData = this.players.map(p => ({
-              party_id: this.config!.id,
-              player_id: p.id,
-              nickname: p.name,
-              score: p.score || 0,
-              rank: p.rank,
-              correct_answers: p.correctAnswers || 0,
-              joined_at: p.joinedAt.toISOString()
-            }));
-
-            const { error: playersError } = await supabase
-              .from('party_players')
-              .insert(playersData);
-
-            if (playersError) console.error('[Room] Error saving players:', playersError);
-            else console.log('[Room] Results saved to Supabase');
-          }
-        } catch (err) {
-          console.error('[Room] Failed to persist data:', err);
-        }
+      try {
+        const mirrored = await maybePersistPartyResults({
+          config: this.config,
+          players: this.players,
+        });
+        if (mirrored) console.log('[Room] Resultados reflejados en Supabase');
+      } catch (err) {
+        console.warn('[Room] Falló el mirror de resultados:', err);
       }
     }
   }
@@ -457,15 +547,19 @@ class RoomState {
     }
 
     if (!this.config?.id) return;
+    if (!isSupabaseMirrorEnabled()) {
+      this.aiAnalysis = 'El historial y análisis requieren el mirror autenticado.';
+      return;
+    }
 
     try {
       this.aiAnalysis = "Generando análisis con IA...";
 
-      const { data, error } = await supabase.functions.invoke('analyze-party-results', {
-        body: { partyId: this.config.id }
-      });
-
-      if (error) throw error;
+      const data = await maybeAnalyzePartyResults(this.config.id);
+      if (!data) {
+        this.aiAnalysis = 'Inicia sesión para analizar resultados guardados.';
+        return;
+      }
 
       this.aiAnalysis = data.analysis;
 
@@ -729,17 +823,30 @@ class RoomState {
   /**
    * Obtiene salas públicas activas
    */
-  async fetchPublicRooms() {
+  async fetchPublicRooms(regionFilter?: string) {
     try {
-      const { data, error } = await supabase
-        .from('party_sessions')
-        .select('*')
-        .eq('status', 'waiting')
-        .order('created_at', { ascending: false })
-        .limit(20);
-
-      if (error) throw error;
-      this.publicRooms = data || [];
+      await p2p.iniciar('lobby-browser');
+      const rooms = p2p.listarSalones(regionFilter);
+      this.publicRooms = rooms
+        .map((room) => ({
+          party_code: room.codigo,
+          host_name: room.hostPeerId,
+          exam_config: {
+            id: room.codigo,
+            name: room.nombre,
+            asignatura: room.subject || 'General',
+            grado: room.grade || 11,
+            region: room.region || 'LATAM',
+            countryCode: room.region,
+            connectionMode: 'edge-mesh',
+          },
+          students: [{ id: room.hostNodoId, name: room.hostPeerId, isHost: true }],
+          max_students: room.maxParticipantes || 50,
+          status: room.status,
+          created_at: new Date(room.createdAt).toISOString(),
+        }))
+        .sort((a, b) => Date.parse(b.created_at) - Date.parse(a.created_at))
+        .slice(0, 20);
     } catch (err) {
       console.error('[Room] Error fetching public rooms:', err);
       this.publicRooms = [];

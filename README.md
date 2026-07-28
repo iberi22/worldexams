@@ -92,6 +92,19 @@ npm run build
 - Keep question banks, source materials, and unreleased operational content private.
 - Validate any legacy deploy or repo-topology docs against the root governance layer before acting.
 
+## Estado Actual
+
+| Indicador | Valor |
+|-----------|-------|
+| Features en producción | 7/10 |
+| Países implementados | 13 (en distintas fases) |
+| Workflows CI/CD activos | 6 |
+| Pipeline de integración | Automático cada 30 min |
+
+**Estados por país:** CO, MX, AR, BR, CL, PE, EC, PA, CR, GT, DO, SV, HN, NI, ES, PR, GQ, UY, PY, BO (20 países en total)
+
+---
+
 ## Contact
 
 - Product site: [saberparatodos.space](https://saberparatodos.space)

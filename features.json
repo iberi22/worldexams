@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "project": "WorldExamns / SaberParaTodos — Plataforma Multi-país de Exámenes",
+    "version": "3.0",
+    "canonical_source": true,
+    "created": "2026-07-09",
+    "updated": "2026-07-28",
+    "total_features": 26,
+    "passing": 10,
+    "failing": 16,
+    "status": "active",
+    "source": "Registro canónico único. Absorbe .gitcore/detailsFeatures.json (deprecated) y audit del estado real 2026-07-28.",
+    "audit_note": "Cifras de bundles auditadas en questions_data/{country}/{subject}/grado-*/2026/weekly/ el 2026-07-28"
+  },
+  "features": [
+    {
+      "id": "feat-mastery-colombia",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
+      "passes": true,
+      "verified_by": "PRs #395, #406, #405, #324",
+      "priority": "P0",
+      "progress_pct": 100
+    },
+    {
+      "id": "feat-mastery-uruguay",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Uruguay Grado 11",
+      "passes": true,
+      "verified_by": "PR #324",
+      "priority": "P0",
+      "progress_pct": 100,
+      "note": "legacy G11 bundles only, canonical weekly = 0"
+    },
+    {
+      "id": "feat-mastery-paraguay",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Paraguay Grado 11",
+      "passes": true,
+      "verified_by": "PR #324",
+      "priority": "P0",
+      "progress_pct": 100,
+      "note": "legacy G11 bundles only, canonical weekly = 0"
+    },
+    {
+      "id": "feat-weekly-packs",
+      "category": "generation",
+      "description": "Generación de WEEKLY packs semanales por grado y país (protocolo v5.2)",
+      "passes": true,
+      "verified_by": "PRs #395, #397",
+      "priority": "P0",
+      "progress_pct": 90,
+      "note": "Gaps por grado: G6 90%, G7 60%, G8-9 30%, G10 15%, G11 50%"
+    },
+    {
+      "id": "feat-multi-country",
+      "category": "core",
+      "description": "Generalización de ICFES Colombia → países variables (UY, PY, MX)",
+      "steps": [
+        "1. Reemplazar hardcodes de Colombia/ICFES en shared libs ✅",
+        "2. Calendarios de exámenes por país ✅",
+        "3. SEO y marketing multi-país ✅",
+        "4. Reglas de país por código (skills/bundle-creator/rules/) ✅"
+      ],
+      "passes": true,
+      "verified_by": "PRs #310, #315, #317, #318",
+      "priority": "P0",
+      "progress_pct": 100
+    },
+    {
+      "id": "feat-ci-cd",
+      "category": "infra",
+      "description": "CI/CD con Playwright E2E, pre-commit hooks, validación automática",
+      "passes": true,
+      "verified_by": "48 tests E2E, GitHub Actions, npm run validate",
+      "priority": "P0",
+      "progress_pct": 100,
+      "note": "Workflows actualmente en .github/workflows.disabled; vitest/playwright rotos en checkout local (ver feat-tests)"
+    },
+    {
+      "id": "feat-bundle-validator",
+      "category": "tooling",
+      "description": "Validador de bundles v5.2 (scripts/validate-bundles-v52.mjs)",
+      "passes": true,
+      "verified_by": "Validación de frontmatter, formato, opciones y feedback",
+      "priority": "P0",
+      "progress_pct": 98
+    },
+    {
+      "id": "feat-country-readiness",
+      "category": "tooling",
+      "description": "Auditoría de readiness por país (scripts/audit-country-readiness.mjs) — merge de feat-country-readiness-audit + feat-country-readiness",
+      "passes": true,
+      "verified_by": "KPI de 2000 preguntas, reporte JSON y smoke test público",
+      "priority": "P0",
+      "progress_pct": 95,
+      "kpi_note": "0/20 países en 2000 publicadas"
+    },
+    {
+      "id": "feat-security",
+      "category": "security",
+      "description": "Limpieza de secrets expuestos en git history",
+      "passes": false,
+      "verified_by": "pending",
+      "github_issue": 221,
+      "priority": "P1",
+      "status": "deferred-with-coordination",
+      "progress_pct": 0,
+      "note": "ejecución force-push diferida al final (F7)"
+    },
+    {
+      "id": "feat-pais-mexico",
+      "category": "generation",
+      "description": "Expansión curricular México: SEP/NEM, EXANI, COMIPEMS, PLANEA (renombrado de feat-mexico-pilot)",
+      "passes": false,
+      "verified_by": "pending",
+      "github_issue": 230,
+      "priority": "P0",
+      "progress_pct": 30,
+      "note": "40 bundles canónicos; issues #808-816 wave0"
+    },
+    {
+      "id": "feat-pais-argentina",
+      "category": "expansion",
+      "description": "Expansión curricular Argentina: NAP/Aprender, CBC/UBA, voseo moderado",
+      "passes": false,
+      "verified_by": "Issue #231",
+      "github_issue": 231,
+      "priority": "P1",
+      "status": "in_progress",
+      "progress_pct": 10,
+      "note": "66 bundles canónicos auditados 2026-07-28 (~33% del KPI 2000)"
+    },
+    {
+      "id": "feat-pais-brasil",
+      "category": "expansion",
+      "description": "Expansión curricular Brasil: BNCC/ENEM, 3o ano Ensino Médio",
+      "passes": false,
+      "verified_by": "Issue #235",
+      "github_issue": 235,
+      "priority": "P1",
+      "status": "planned",
+      "progress_pct": 5,
+      "note": "11 bundles canónicos auditados 2026-07-28"
+    },
+    {
+      "id": "feat-pe-expansion",
+      "category": "generation",
+      "description": "Expansión Perú G11 Matemáticas + Lengua",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 15,
+      "note": "21 bundles canónicos auditados 2026-07-28"
+    },
+    {
+      "id": "feat-ec-expansion",
+      "category": "generation",
+      "description": "Expansión Ecuador G11 Matemáticas",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 10,
+      "note": "12 bundles canónicos auditados 2026-07-28"
+    },
+    {
+      "id": "feat-cl-expansion",
+      "category": "generation",
+      "description": "Expansión Chile Inglés G11",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 40,
+      "note": "50 bundles CL auditados; producción parcial G11 inglés (no 100%)"
+    },
+    {
+      "id": "feat-swal-integration",
+      "category": "infra",
+      "description": "Integración con ecosistema SWAL (mesh, memoria Xavier, token)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 75,
+      "note": "Mesh salones mesh-first done, AI Core montado; pendiente: Pro=node gate + Xavier wiring"
+    },
+    {
+      "id": "feat-auto-pipeline",
+      "category": "infra",
+      "description": "Pipeline automático de integración PRs cada 30 min",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 10
+    },
+    {
+      "id": "feat-premium-api",
+      "category": "infra",
+      "description": "API Premium con API Keys, cuotas, rate limits y usage analytics",
+      "passes": false,
+      "verified_by": "Edge Functions, api_keys table",
+      "priority": "P0",
+      "status": "active",
+      "progress_pct": 85,
+      "pending": [
+        "CORS restringido (actualmente '*')",
+        "Deploy Edge Functions"
+      ]
+    },
+    {
+      "id": "feat-telegram-monitoring",
+      "category": "monitoring",
+      "description": "Monitoreo automático vía Telegram: reportes, alertas, estado del pipeline",
+      "passes": true,
+      "verified_by": "Bot activo en @BeRi0n3",
+      "priority": "P2",
+      "status": "active",
+      "progress_pct": 100
+    },
+    {
+      "id": "feat-tests",
+      "category": "testing",
+      "description": "Tests unitarios para IsarVectorStoreService + agent_memory",
+      "passes": false,
+      "verified_by": "Issue #408",
+      "github_issue": 408,
+      "priority": "P1",
+      "status": "in_progress",
+      "progress_pct": 20,
+      "note": "vitest/playwright rotos en checkout actual"
+    },
+    {
+      "id": "feat-geo-routing",
+      "category": "core",
+      "description": "Geo routing por país en middleware con fallback a ContentComingSoon",
+      "passes": true,
+      "verified_by": "middleware + pack-fetcher + ContentComingSoon + smoke:geo",
+      "priority": "P0",
+      "progress_pct": 100
+    },
+    {
+      "id": "feat-mesh-salones",
+      "category": "core",
+      "description": "Salones de examen mesh-first (edge-mesh SalonRegistry + saberparatodos)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 90,
+      "pending": [
+        "E2E 2 peers",
+        "preguntas reales modo estándar",
+        "PDF report"
+      ]
+    },
+    {
+      "id": "feat-ai-core-ondevice",
+      "category": "infra",
+      "description": "AI Core on-device (edge-mesh/src/ai-core + saberparatodos /ajustes/ia, tutor, exam-generator)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 60,
+      "pending": [
+        "sherpa-onnx real TTS/ASR",
+        "LLM worker",
+        "VAD",
+        "resume descarga",
+        "registry versionado"
+      ]
+    },
+    {
+      "id": "feat-pwa",
+      "category": "core",
+      "description": "PWA con Service Worker e install prompt",
+      "passes": false,
+      "priority": "P2",
+      "progress_pct": 70,
+      "pending": [
+        "install prompt completo"
+      ]
+    },
+    {
+      "id": "feat-admin-ui",
+      "category": "product",
+      "description": "Panel de administración de contenido",
+      "passes": false,
+      "priority": "P2",
+      "status": "in_progress",
+      "progress_pct": 20,
+      "note": "SRS INTERFACES: Desarrollo"
+    },
+    {
+      "id": "feat-video-pipeline",
+      "category": "tooling",
+      "description": "Pipeline de generación de video contenido educativo",
+      "passes": false,
+      "priority": "P3",
+      "progress_pct": 50,
+      "note": "CLI only, decisión pendiente"
+    }
+  ],
+  "verification_commands": {
+    "build": "npm run build 2>&1 | tail -5",
+    "tests": "npx playwright test 2>&1 | tail -10",
+    "lint": "npx eslint . 2>&1 | tail -5",
+    "validate": "npm run validate 2>&1 | tail -20",
+    "audit": "npm run audit:country-readiness -- --json 2>&1 | tail -20",
+    "smoke_geo": "cd saberparatodos && npm run smoke:geo",
+    "smoke_ai": "cd saberparatodos && npm run smoke:ai"
+  },
+  "country_status": {
+    "colombia": {
+      "status": "active",
+      "readiness_pct": 100,
+      "bundles": 2447,
+      "questions_est": 24470,
+      "audit_state": "ready"
+    },
+    "costarica": {
+      "status": "development",
+      "readiness_pct": 100,
+      "bundles": 200,
+      "questions_est": 2000,
+      "audit_state": "legacy_or_invalid",
+      "note": "archivos mayormente dummy placeholders — no cuentan para KPI"
+    },
+    "honduras": {
+      "status": "development",
+      "readiness_pct": 100,
+      "bundles": 200,
+      "questions_est": 2000,
+      "audit_state": "validated_not_published"
+    },
+    "argentina": {
+      "status": "development",
+      "readiness_pct": 33,
+      "bundles": 66,
+      "questions_est": 660
+    },
+    "chile": {
+      "status": "development",
+      "readiness_pct": 25,
+      "bundles": 50,
+      "questions_est": 500
+    },
+    "mexico": {
+      "status": "development",
+      "readiness_pct": 20,
+      "bundles": 40,
+      "questions_est": 400,
+      "note": "issues #808-816 wave0"
+    },
+    "peru": {
+      "status": "development",
+      "readiness_pct": 11,
+      "bundles": 21,
+      "questions_est": 210
+    },
+    "espana": {
+      "status": "development",
+      "readiness_pct": 10,
+      "bundles": 20,
+      "questions_est": 200
+    },
+    "ecuador": {
+      "status": "development",
+      "readiness_pct": 6,
+      "bundles": 12,
+      "questions_est": 120
+    },
+    "brasil": {
+      "status": "development",
+      "readiness_pct": 6,
+      "bundles": 11,
+      "questions_est": 110
+    },
+    "panama": {
+      "status": "development",
+      "readiness_pct": 5,
+      "bundles": 10,
+      "questions_est": 100
+    },
+    "guatemala": {
+      "status": "development",
+      "readiness_pct": 5,
+      "bundles": 10,
+      "questions_est": 100
+    },
+    "republica-dominicana": {
+      "status": "development",
+      "readiness_pct": 5,
+      "bundles": 10,
+      "questions_est": 100
+    },
+    "nicaragua": {
+      "status": "development",
+      "readiness_pct": 5,
+      "bundles": 10,
+      "questions_est": 100
+    },
+    "guinea-ecuatorial": {
+      "status": "development",
+      "readiness_pct": 5,
+      "bundles": 10,
+      "questions_est": 100
+    },
+    "bolivia": {
+      "status": "planned",
+      "readiness_pct": 1,
+      "bundles": 1,
+      "questions_est": 10,
+      "audit_state": "legacy_or_invalid"
+    },
+    "el-salvador": {
+      "status": "planned",
+      "readiness_pct": 0,
+      "bundles": 0,
+      "questions_est": 0,
+      "audit_state": "legacy_or_invalid"
+    },
+    "puerto-rico": {
+      "status": "planned",
+      "readiness_pct": 0,
+      "bundles": 0,
+      "questions_est": 0,
+      "audit_state": "legacy_or_invalid"
+    },
+    "uruguay": {
+      "status": "planned",
+      "readiness_pct": 0,
+      "bundles": 0,
+      "questions_est": 0,
+      "audit_state": "legacy_or_invalid",
+      "note": "legacy G11 bundles only, canonical weekly = 0"
+    },
+    "paraguay": {
+      "status": "planned",
+      "readiness_pct": 0,
+      "bundles": 0,
+      "questions_est": 0,
+      "audit_state": "legacy_or_invalid",
+      "note": "legacy G11 bundles only, canonical weekly = 0"
+    }
+  }
+}

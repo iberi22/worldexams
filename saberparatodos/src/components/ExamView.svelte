@@ -11,6 +11,11 @@
   import ReportModal from './ReportModal.svelte';
   import { getNextAdaptiveQuestion } from '../lib/adaptive-engine';
   import SharedContextLayout from './SharedContextLayout.svelte';
+  import {
+    isSupabaseMirrorEnabled,
+    maybeGetPartySession,
+    maybeUpdatePartySession,
+  } from '../modules/exam-room/services/authPersistence';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -167,19 +172,12 @@
         updatePayload.finished_at = new Date().toISOString();
       }
 
-      try {
-        const { error } = await supabase
-          .from('party_sessions')
-          .update(updatePayload)
-          .eq('party_code', roomCode);
-
-        if (error?.code === '42501') {
-           console.warn('⚠️ RLS policy blocked update (anonymous user). Using P2P fallback.');
-        } else if (error) {
-           console.error('Error updating room state:', error);
+      if (isSupabaseMirrorEnabled()) {
+        try {
+          await maybeUpdatePartySession(roomCode, updatePayload);
+        } catch (dbErr) {
+          console.warn('⚠️ Room mirror update failed:', dbErr);
         }
-      } catch (dbErr) {
-        console.warn('⚠️ DB update failed, using P2P fallback:', dbErr);
       }
 
       if (roomChannel) {
@@ -323,7 +321,7 @@
     window.addEventListener('keydown', handleQAKey);
     (window as any).__qaKeyHandler = handleQAKey;
 
-    if (roomCode) {
+    if (roomCode && isSupabaseMirrorEnabled()) {
       roomSyncChannel = supabase
         .channel(`party-exam:${roomCode}`)
         .on('postgres_changes', {
@@ -355,10 +353,9 @@
         })
         .subscribe();
 
-      supabase.from('party_sessions').select('started_at,status,current_question')
-        .eq('party_code', roomCode).maybeSingle()
-        .then(({ data, error }) => {
-           if (error || !data) return;
+      maybeGetPartySession(roomCode, 'started_at,status,current_question')
+        .then((data) => {
+           if (!data) return;
            if (data.started_at) {
               const ms = Date.parse(data.started_at);
               if (!Number.isNaN(ms)) { roomStartedAtMs = ms; examStartTime = ms; }

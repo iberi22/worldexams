@@ -62,6 +62,7 @@ export interface CulturalContext {
 }
 
 export interface ProductFeatures {
+  /** Gates Revisar / Banco social (legacy key `blog`). */
   blog?: boolean;
   preuniversitario?: boolean;
   developerPortal?: boolean;
@@ -248,7 +249,7 @@ export const colombiaConfig: CountryConfig = {
     ],
     defaultDescription: 'Practica gratis para el ICFES Saber 11 con simulacros, banco de preguntas y guías por área. Matemáticas, Lectura Crítica, Inglés, Ciencias y más.',
     features: {
-      blog: false,
+      blog: true, // Revisar / Banco social
       preuniversitario: true,
       developerPortal: true,
       comments: true,
@@ -320,6 +321,23 @@ export const mexicoConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-mx',
+  // Schedule stubs: SEP ciclo escolar is ~Aug→Jul (not calendar-year).
+  // Sources: docs/specs/curriculums/mexico/README.md; AGENTS.md Mexico calendar note.
+  // Period dates are approximate operational stubs for W↔period mapping — verify against
+  // the published SEP calendario oficial del ciclo before treating as official.
+  schedules: {
+    calendarType: 'standard',
+    periods: [
+      { id: 1, name: '1er Periodo (ciclo)', startMonth: 8, startDay: 18, endMonth: 11, endDay: 28 },
+      { id: 2, name: '2do Periodo (ciclo)', startMonth: 12, startDay: 1, endMonth: 3, endDay: 20 },
+      { id: 3, name: '3er Periodo (ciclo)', startMonth: 3, startDay: 23, endMonth: 7, endDay: 10 },
+    ],
+    exams: [
+      // EXANI-II windows vary by institution/process; spring is a common peak — stub only.
+      { id: 'EXANI-II', name: 'EXANI-II (ventana típica primavera)', month: 5, day: 15, official: false },
+      { id: 'COMIPEMS', name: 'COMIPEMS (EMS CDMX/ZMVM — stub)', month: 6, day: 20, official: false },
+    ],
+  },
   product: {
     siteName: 'WorldExams Mexico',
     siteUrl: 'https://world-exams.github.io/saber-mx',
@@ -335,7 +353,7 @@ export const mexicoConfig: CountryConfig = {
     ],
     defaultDescription: 'Practica con simulacros y guias para EXANI y otras pruebas de admision en Mexico.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -395,6 +413,20 @@ export const argentinaConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-ar',
+  // Schedule stubs: March–December typical, but calendars vary by jurisdicción.
+  // Sources: docs/specs/curriculums/argentina/README.md; AGENTS.md Argentina calendar note.
+  // Aprender windows change by year — stubs only (official: false).
+  schedules: {
+    calendarType: 'standard',
+    periods: [
+      { id: 1, name: '1er Trimestre (stub)', startMonth: 3, startDay: 1, endMonth: 5, endDay: 31 },
+      { id: 2, name: '2do Trimestre (stub)', startMonth: 6, startDay: 1, endMonth: 8, endDay: 31 },
+      { id: 3, name: '3er Trimestre (stub)', startMonth: 9, startDay: 1, endMonth: 12, endDay: 15 },
+    ],
+    exams: [
+      { id: 'APRENDER', name: 'Operativo Aprender (ventana típica 2° semestre — stub)', month: 9, day: 20, official: false },
+    ],
+  },
   product: {
     siteName: 'WorldExams Argentina',
     siteUrl: 'https://world-exams.github.io/ar',
@@ -404,7 +436,7 @@ export const argentinaConfig: CountryConfig = {
     seoKeywords: ['aprender argentina', 'simulacro aprender', 'practica escolar argentina'],
     defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Argentina.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -413,7 +445,7 @@ export const argentinaConfig: CountryConfig = {
 };
 
 /**
- * 🇨🇱 Chile - SIMCE
+ * 🇨🇱 Chile - PAES (DEMRE) — school SIMCE remains diagnostic-only
  */
 export const chileConfig: CountryConfig = {
   code: 'CL',
@@ -421,9 +453,9 @@ export const chileConfig: CountryConfig = {
   nameEnglish: 'Chile',
   flag: '🇨🇱',
 
-  examName: 'SIMCE',
-  examFullName: 'Sistema de Medición de la Calidad de la Educación',
-  examAuthority: 'Agencia de Calidad de la Educación',
+  examName: 'PAES',
+  examFullName: 'Prueba de Acceso a la Educación Superior',
+  examAuthority: 'DEMRE / MINEDUC',
 
   locale: 'es-CL',
   timezone: 'America/Santiago',
@@ -432,7 +464,7 @@ export const chileConfig: CountryConfig = {
     { id: 4, name: '4° Básico', description: 'Cuarto año básico' },
     { id: 8, name: '8° Básico', description: 'Octavo año básico' },
     { id: 10, name: '2° Medio', description: 'Segundo año medio' },
-    { id: 12, name: '4° Medio', description: 'Cuarto año medio' },
+    { id: 11, name: '3°–4° Medio', description: 'Enseñanza media / preparación PAES' },
   ],
 
   subjects: [
@@ -440,12 +472,13 @@ export const chileConfig: CountryConfig = {
     { id: 'lenguaje', name: 'Lenguaje y Comunicación', icon: '📖', globalId: 'language' },
     { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
     { id: 'historia', name: 'Historia, Geografía y Cs. Sociales', icon: '🌍', globalId: 'social' },
+    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
   ],
 
   theme: {
-    primary: '#D52B1E',      // Rojo - Sangre mapuche
-    secondary: '#FFFFFF',    // Blanco - Nieve andina
-    accent: '#0039A6',       // Azul - Océano Pacífico
+    primary: '#D52B1E',
+    secondary: '#FFFFFF',
+    accent: '#0039A6',
     bgDark: '#1a1a2e',
     bgCard: '#16213e',
     textPrimary: '#ffffff',
@@ -463,16 +496,31 @@ export const chileConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-cl',
+  // Schedule stubs: March–December school year, typically two semesters.
+  // Sources: docs/specs/curriculums/chile/README.md (MINEDUC / DEMRE PAES).
+  // PAES process dates change yearly — verify on demre.cl before treating as official.
+  schedules: {
+    calendarType: 'standard',
+    periods: [
+      { id: 1, name: '1° Semestre', startMonth: 3, startDay: 1, endMonth: 7, endDay: 10 },
+      { id: 2, name: '2° Semestre', startMonth: 7, startDay: 20, endMonth: 12, endDay: 15 },
+    ],
+    exams: [
+      { id: 'PAES-REG', name: 'PAES proceso regular (stub Nov)', month: 11, day: 25, official: false },
+      { id: 'PAES-INV', name: 'PAES proceso invierno (stub Jun)', month: 6, day: 15, official: false },
+      { id: 'SIMCE', name: 'SIMCE (ventana típica 2° semestre — stub)', month: 10, day: 15, official: false },
+    ],
+  },
   product: {
     siteName: 'WorldExams Chile',
     siteUrl: 'https://world-exams.github.io/cl',
     contactEmail: 'contacto@saberparatodos.space',
-    guideLabel: 'SIMCE',
+    guideLabel: 'PAES',
     guideYear: 2026,
-    seoKeywords: ['simce chile', 'practica simce', 'evaluacion escolar chile'],
-    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Chile.',
+    seoKeywords: ['paes chile', 'practica paes', 'demre', 'simulacro paes'],
+    defaultDescription: 'Práctica alineada a PAES DEMRE y Bases Curriculares MINEDUC.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -532,16 +580,33 @@ export const peruConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-pe',
+  // Schedule stubs: EBR year typically March–December with ~4 bimestres.
+  // Sources: docs/specs/curriculums/peru/README.md (MINEDU CNEB).
+  // ECE and university admission dates vary by year/institution — stubs only.
+  schedules: {
+    calendarType: 'standard',
+    periods: [
+      { id: 1, name: '1er Bimestre', startMonth: 3, startDay: 1, endMonth: 5, endDay: 15 },
+      { id: 2, name: '2do Bimestre', startMonth: 5, startDay: 16, endMonth: 7, endDay: 31 },
+      { id: 3, name: '3er Bimestre', startMonth: 8, startDay: 1, endMonth: 10, endDay: 15 },
+      { id: 4, name: '4to Bimestre', startMonth: 10, startDay: 16, endMonth: 12, endDay: 20 },
+    ],
+    exams: [
+      { id: 'ECE', name: 'ECE (ventana típica 2° semestre — stub)', month: 11, day: 10, official: false },
+      { id: 'UNMSM', name: 'Admisión UNMSM (stub — verificar por proceso)', month: 3, day: 15, official: false },
+      { id: 'UNI', name: 'Admisión UNI (stub — verificar por proceso)', month: 2, day: 20, official: false },
+    ],
+  },
   product: {
     siteName: 'WorldExams Peru',
     siteUrl: 'https://world-exams.github.io/pe',
     contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ECE',
     guideYear: 2026,
-    seoKeywords: ['ece peru', 'simulacro ece', 'evaluacion censal estudiantes'],
-    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Peru.',
+    seoKeywords: ['ece peru', 'simulacro ece', 'evaluacion censal estudiantes', 'admision universitaria peru'],
+    defaultDescription: 'Práctica alineada a CNEB MINEDU y preparación para admisión universitaria.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -609,7 +674,7 @@ export const ecuadorConfig: CountryConfig = {
     seoKeywords: ['senescyt ecuador', 'simulacro senescyt', 'admision universitaria ecuador'],
     defaultDescription: 'Practica con simulacros y guias para SENESCYT y procesos de admision universitaria en Ecuador.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -678,7 +743,7 @@ export const brasilConfig: CountryConfig = {
     seoKeywords: ['enem brasil', 'simulado enem', 'pratica enem'],
     defaultDescription: 'Modelo de producto para practica e preparacao de avaliacoes nacionales no Brasil.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,
@@ -754,7 +819,7 @@ export const usaConfig: CountryConfig = {
     seoKeywords: ['sat practice', 'exam prep usa', 'high school assessment practice'],
     defaultDescription: 'Shared product runtime for practice and preparation around US academic assessments.',
     features: {
-      blog: false,
+      blog: true,
       preuniversitario: false,
       developerPortal: true,
       comments: true,

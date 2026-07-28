@@ -14,14 +14,15 @@ binding = "ASSETS"
 [vars]
 PUBLIC_API_BASE_URL = "/api"
 PUBLIC_SITE_URL = "https://saberparatodos.space"
+PUBLIC_ROOMS_SUPABASE_MIRROR = "false"
 PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co"
 PUBLIC_SUPABASE_ANON_KEY = "REDACTED"
 
 # Production environment
 [env.production]
-vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "REDACTED" }
+vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_ROOMS_SUPABASE_MIRROR = "false", PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "REDACTED" }
 
 # Preview/staging environment
 [env.preview]
 workers_dev = true
-vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev" }
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev", PUBLIC_ROOMS_SUPABASE_MIRROR = "false" }

@@ -11,10 +11,16 @@
   let { onBack, onJoin }: Props = $props();
   let loading = $state(true);
   let interval: any;
+  let regionFilter = $state('');
 
   onMount(async () => {
+    try {
+      const cfg = document.getElementById('api-config')?.textContent;
+      if (cfg) regionFilter = String(JSON.parse(cfg).countryCode || '').toUpperCase();
+    } catch {
+      regionFilter = '';
+    }
     await loadRooms();
-    // Refresh every 10 seconds
     interval = setInterval(loadRooms, 10000);
   });
 
@@ -24,7 +30,7 @@
 
   async function loadRooms() {
     loading = true;
-    await roomState.fetchPublicRooms();
+    await roomState.fetchPublicRooms(regionFilter || undefined);
     loading = false;
   }
 
@@ -49,7 +55,9 @@
     <h2 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
       🔭 Explorar Salas
     </h2>
-    <div class="w-24"></div> <!-- Spacer for centering -->
+    <div class="w-24 text-right text-[10px] uppercase tracking-widest text-white/40">
+      {regionFilter || 'LATAM'}
+    </div>
   </div>
 
   {#if loading && roomState.publicRooms.length === 0}

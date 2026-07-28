@@ -1,0 +1,33 @@
+{
+  "project": "worldexams",
+  "path": "E:\\proyectosSWAL\\worldexams",
+  "generated_at": "2026-07-28T00:00:00.0000000-05:00",
+  "protocol_version": "3.8.0",
+  "overall_pct": 82.2,
+  "breakdown": {
+    "protocol_pct": 100,
+    "src_pct": 100.0,
+    "srs_pct": 80,
+    "features_pct": 60.5,
+    "features_count": 26,
+    "features_source": "average progress_pct (features.json v3.0, canonical)",
+    "swal_compliance": 100
+  },
+  "weights": {
+    "protocol": 0.2,
+    "src": 0.15,
+    "srs": 0.2,
+    "features": 0.35,
+    "swal": 0.1
+  },
+  "gaps": [
+    "tests-broken",
+    "cors-open",
+    "security-221-deferred",
+    "ai-core-stubs",
+    "country-readiness-0-of-20",
+    "srs-baseline-req-missing"
+  ],
+  "grade": "B",
+  "updated": "2026-07-28"
+}
