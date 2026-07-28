@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Durante un debate estudiantil en el Liceo de Salto sobre la obligatoriedad del uniforme escolar, una alumna afirma: 'El uso del uniforme promueve la equidad social en las aulas, pues disminuye las diferencias socioeconómicas visibles entre los alumnos a través de la vestimenta'.
 
@@ -48,7 +48,7 @@ La tesis constituye el núcleo ideológico de todo texto argumentativo. Es la op
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Leé con atención esta intervención de un debate: 'De acuerdo con el último informe de la Unicef sobre educación, la convivencia áulica mejora de forma drástica cuando se implementan talleres de resolución pacífica de conflictos'.
 
@@ -72,7 +72,7 @@ El argumento de autoridad transfiere el prestigio intelectual o científico del 
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Analizá la siguiente frase de una editorial periodística uruguaya: 'La inversión en infraestructura de internet en el interior de Uruguay ha dinamizado la economía rural. Por lo tanto, el acceso a la red de alta velocidad es un derecho indispensable para el desarrollo de todo habitante de la campaña'.
 
@@ -96,7 +96,7 @@ Los conectores consecutivos ('por lo tanto', 'por consiguiente', 'en consecuenci
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención este argumento: 'Así como un deportista de alto rendimiento requiere entrenar su cuerpo de manera constante para evitar lesiones, un estudiante de Bachillerato necesita ejercitar su mente con la lectura de textos complejos para evitar la pereza intelectual'.
 
@@ -120,7 +120,7 @@ La analogía argumentativa transfiere la lógica aceptada de un dominio familiar
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención este pasaje de una columna de opinión de un periódico de Montevideo:
 'Muchos sostienen que prohibir los celulares en el liceo es la solución mágica contra la distracción escolar. Sin embargo, esta postura simplista ignora que el celular es una computadora portátil que, bien encauzada por el docente con fines didácticos, constituye una herramienta de investigación fenomenal para los gurises en pleno siglo XXI'.
@@ -145,7 +145,7 @@ La contra-argumentación y la refutación enriquecen el texto argumentativo de d
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** En un debate escolar en el Liceo N° 1 de Rivera, un alumno proclama: 'La quema de basura al aire libre en los campos del norte debe prohibirse de inmediato. Al combustionar plásticos y desechos químicos se liberan toxinas cancerígenas que contaminan el aire del pueblo, dañando de forma severa el aparato respiratorio de los niños de la zona'.
 
@@ -169,7 +169,7 @@ El argumento de causa-efecto asienta su validez en las leyes físicas, biológic
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Debés escribir una carta de opinión para el semanario de Paysandú con el fin de persuadir a los vecinos de la importancia de separar los residuos domésticos orgánicos para compostaje municipal.
 
@@ -193,7 +193,7 @@ Escribir textos de opinión exige calibrar los argumentos de acuerdo con el púb
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Considerá esta intervención en un panel de debate de Secundaria: 'Todos los gurises de hoy en Uruguay son apáticos con la lectura escolar, ya que los tres estudiantes que entrevisté en la parada de ómnibus declararon que preferían jugar videojuegos antes que leer novelas'.
 
@@ -217,7 +217,7 @@ La generalización apresurada vulnera el rigor de la lógica argumentativa. Para
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Leé con atención este fragmento de un editorial sobre el transporte en el país:
 'El desarrollo del ferrocarril central dinamizará el traslado de mercaderías hacia el puerto de Montevideo. No obstante, las autoridades municipales deben vigilar de cerca el impacto acústico y ambiental sobre las viviendas de los barrios residenciales linderos a las vías'.
@@ -242,7 +242,7 @@ Los conectores adversativos y concesivos ('no obstante', 'sin embargo', 'por má
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Durante un debate áulico en el Liceo de Tala, un participante afirma:
 —¿Por qué defiende usted la instalación de ciclovías si todo el mundo sabe que las bicicletas molestan al tránsito de autos y causan accidentes en la rambla montevideana?
@@ -267,7 +267,7 @@ La falacia ad populum es un recurso persuasivo demagógico muy frecuente. Consis
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención esta intervención de un foro de ecología en Uruguay:
 'El pastoreo rotativo ganadero en las cuchillas de Tacuarembó mejora de forma biológica la salud de la pradera natural. El prestigioso Instituto Plan Agropecuario de Uruguay ha constatado, en un estudio de cinco años en estancias del norte, un aumento del 30 % en la biomasa nativa del suelo bajo este régimen'.
@@ -292,7 +292,7 @@ La argumentación de calidad en ciencias agrarias y ambientales de Secundaria hi
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Durante una clase de Filosofía en 6° de Bachillerato de Uruguay, se analiza la refutación de falacias. Un estudiante interviene en un debate sobre el presupuesto de educación de Secundaria diciendo:
 —La postura del delegado estudiantil a favor de aumentar el presupuesto para comedores escolares no es seria; todos sabemos que él milita en un sector político radical y solo busca ganar votos estudiantiles.
@@ -317,7 +317,7 @@ La falacia ad hominem representa una de las mayores trasgresiones a la ética de
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Estudiá el siguiente pasaje de un debate sobre el transporte público de Montevideo:
 'Es verdad que las ciclovías quitan espacio de estacionamiento a los comercios de la avenida principal. Sin embargo, priorizar la seguridad vial de los ciclistas frente al confort del automóvil particular reduce un 40 % los accidentes de tránsito graves de la zona, consagrando la supremacía del derecho a la vida'.
@@ -342,7 +342,7 @@ La argumentación sólida de Secundaria admite argumentos reales de la contrapar
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** En un torneo de debate escolar interliceal en Rivera, se analizan los métodos de refutación de tesis.
 
@@ -366,7 +366,7 @@ Tanto la reducción al absurdo como el contraejemplo son herramientas de refutac
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención este fragmento de un debate parlamentario nacional de Secundaria:
 'No podemos legalizar de forma total la circulación de monopatines eléctricos veloces por las veredas peatonales. Si hoy habilitamos los monopatines por la vereda, mañana las motos y pasado los autos particulares exigirán circular por la zona de peatones, destruyendo por completo la seguridad civil de las veredas montevideanas'.
@@ -391,7 +391,7 @@ La falacia de la pendiente resbaladiza elude el debate de la medida inicial (los
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.68
 **Contexto:** Considerá el siguiente extracto de una columna de opinión de un periódico de Paysandú sobre el turismo sostenible:
 'Algunos hoteleros argumentan que las regulaciones ambientales de playas perjudican su rentabilidad inmediata. No obstante, un hotel sin dunas protegidas ni aguas limpias es un negocio con fecha de vencimiento; proteger el ecosistema de dunas no es un gasto caprichoso, sino el único seguro de vida de la inversión comercial turística a largo plazo'.
@@ -416,7 +416,7 @@ Demostrar la inconsistencia pragmática de la tesis contraria (el auto-sabotaje 
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé detenidamente el siguiente fragmento de una editorial de prensa uruguaya sobre el desarrollo de las energías renovables:
 'El costo inicial de la transición hacia la matriz de energía eólica en el país fue colosal para las arcas públicas. Por lo tanto, los críticos sostuvieron que era un gasto descabellado. Sin embargo, evaluar una inversión de soberanía nacional con el ojo mezquino del balance fiscal mensual es de una ceguera histórica imperdonable: hoy Uruguay exporta energía limpia a sus vecinos del Mercosur, habiendo blindado de forma permanente su sistema industrial frente al vaivén del precio internacional del petróleo'.
@@ -441,7 +441,7 @@ La argumentación de prensa editorial de Secundaria se asienta en la jerarquizac
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Analizá críticamente esta declaración estudiantil en el patio de un liceo uruguayo sobre la reforma de comedores escolares:
 —¡Si los legisladores de Montevideo rechazan aumentar las raciones de comida saludable de los comedores de los liceos del interior, están cometiendo un genocidio silencioso de Secundaria por hambre contra la juventud del país, siendo cómplices directos de asesinato infantil escolar!.
@@ -466,7 +466,7 @@ El uso de la hipérbole moral destructiva y la apelación desmesurada al miedo (
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.62
 **Contexto:** Estudiá esta directiva de redacción de columnas de opinión en periódicos serios: 'Una argumentación de prestigio debe erradicar por completo la mención de contra-argumentos o críticas de la contraparte, dado que mencionar ideas rivales debilita la firmeza del texto de opinión y confunde al receptor de Secundaria'.
 
@@ -490,7 +490,7 @@ La contra-argumentación no debilita; fortalece de forma drástica la solidez de
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Analizá la siguiente situación de debate áulico en un liceo uruguayo: Un estudiante defiende la tesis de que 'los exámenes de Bachillerato de Secundaria deben eliminarse por completo del sistema público'. Para justificar su postura, argumenta: 'En Finlandia los exámenes no son obligatorios y su educación escolar es excelente; por lo tanto, en Uruguay obtendremos de inmediato una educación escolar excelente eliminando las pruebas escritas'.
 

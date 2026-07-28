@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé con atención el siguiente fragmento del poema 'La higuera' de la escritora uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera. / ¡Qué dulce tan dulce / será para ella / oírme decir, al pasar: / "Es la higuera el más bello / de los árboles todos del huerto!"?'
 
@@ -48,7 +48,7 @@ La piedad declarada explícitamente se proyecta de forma inferencial hacia un af
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Leé con atención el siguiente fragmento del poema 'La higuera' de la escritora uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera. / ¡Qué dulce tan dulce / será para ella / oírme decir, al pasar: / "Es la higuera el más bello / de los árboles todos del huerto!"?'
 
@@ -72,7 +72,7 @@ Atribuir sentimientos de regocijo o dolor a un árbol inanimado es una personifi
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Leé con atención este fragmento de un diálogo coloquial:
 —¿Viste que Mateo se compró un auto importado espectacular?
@@ -98,7 +98,7 @@ La inferencia pragmática asocia la ironía y el contraste léxico ('espectacula
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé atentamente el siguiente fragmento de una editorial de prensa seria: 'El silbido del viento en las ventanas del liceo viejo ya no asusta a nadie; lo que estremece al cuerpo docente es el silencio administrativo de las planillas de mantenimiento edilicio'.
 
@@ -122,7 +122,7 @@ Leer de forma inferencial exige descodificar las oposiciones figuradas del discu
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un semanario de Montevideo: 'Nuestros gurises pasan horas deslizando el dedo por pantallas de vidrio templado, consumiendo destellos de video de cinco segundos en un frenesí digital de dopamina rápida. Mientras tanto, los libros de la biblioteca del liceo descansan bajo una pátina de polvo silencioso, como tumbas de una civilización que sabía concentrarse, meditar y profundizar de manera solitaria. No se trata de añorar con nostalgia reaccionaria la época del tintero de grafito escolar; se trata de alertar que la velocidad sin rumbo del canal digital está mutilando de forma invisible la capacidad de abstracción lógica y de lectura profunda indispensables para el pensamiento crítico'.
 
@@ -146,7 +146,7 @@ La adjetivación y la metáfora en la columna de opinión revelan el sesgo e int
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un semanario de Montevideo: 'Nuestros gurises pasan horas deslizando el dedo por pantallas de vidrio templado, consumiendo destellos de video de cinco segundos en un frenesí digital de dopamina rápida. Mientras tanto, los libros de la biblioteca del liceo descansan bajo una pátina de polvo silencioso, como tumbas de una civilización que sabía concentrarse, meditar y profundizar de manera solitaria. No se trata de añorar con nostalgia reaccionaria la época del tintero de grafito escolar; se trata de alertar que la velocidad sin rumbo del canal digital está mutilando de forma invisible la capacidad de abstracción lógica y de lectura profunda indispensables para el pensamiento crítico'.
 
@@ -170,7 +170,7 @@ La autocrítica defensiva es una herramienta de argumentación escrita de Secund
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un semanario de Montevideo: 'Nuestros gurises pasan horas deslizando el dedo por pantallas de vidrio templado, consumiendo destellos de video de cinco segundos en un frenesí digital de dopamina rápida. Mientras tanto, los libros de la biblioteca del liceo descansan bajo una pátina de polvo silencioso, como tumbas de una civilización que sabía concentrarse, meditar y profundizar de manera solitaria. No se trata de añorar con nostalgia reaccionaria la época del tintero de grafito escolar; se trata de alertar que la velocidad sin rumbo del canal digital está mutilando de forma invisible la capacidad de abstracción lógica y de lectura profunda indispensables para el pensamiento crítico'.
 
@@ -194,7 +194,7 @@ Las metáforas cargadas de melancolía fúnebre ('tumbas') asocian el abandono f
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Leé con atención esta copla del Carnaval uruguayo cantada por una murga en el Teatro de Verano:
 'La ciudad tiene luces que encandilan los ojos, / y esquinas de sombra que congelan los pies. / El tablado es el faro que reúne los restos, / de este barco abollado que navega al revés'.
@@ -219,7 +219,7 @@ La poesía carnavalesca descansa en la metáfora urbana. El faro del tablado cob
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Leé con atención el siguiente fragmento del cuento 'El hijo' de Horacio Quiroga: 'El sol, ya muy alto, continúa ascendiendo. Por todas partes la selva gotea sudor de vapor gélido, bajo un silencio sepulcral que solo turba a lo lejos el zumbido de un tábano. El padre echa una nueva mirada a la linde del bosque en busca de la silueta de su hijo. Nadie. Un hilo de sudor frío corre por la espalda del hombre, mientras un presentimiento horrible comienza a helar su sangre: sabe que el tiempo de la realidad matemática del reloj ha terminado y que ha comenzado el tiempo de la angustia psicológica de la espera'.
 
@@ -243,7 +243,7 @@ Los silencios en la obra quiroguiana son indicios de muerte. El adjetivo fúnebr
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Leé con atención el siguiente fragmento del cuento 'El hijo' de Horacio Quiroga: 'El sol, ya muy alto, continúa ascendiendo. Por todas partes la selva gotea sudor de vapor gélido, bajo un silencio sepulcral que solo turba a lo lejos el zumbido de un tábano. El padre echa una nueva mirada a la linde del bosque en busca de la silueta de su hijo. Nadie. Un hilo de sudor frío corre por la espalda del hombre, mientras un presentimiento horrible comienza a helar su sangre: sabe que el tiempo de la realidad matemática del reloj ha terminado y que ha comenzado el tiempo de la angustia psicológica de la espera'.
 
@@ -267,7 +267,7 @@ La temporalidad en el cuento de suspenso psicológico es una categoría subjetiv
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención el siguiente fragmento del poema 'La higuera' de la escritora uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera. / ¡Qué dulce tan dulce / será para ella / oírme decir, al pasar: / "Es la higuera el más bello / de los árboles todos del huerto!"?'
 
@@ -291,7 +291,7 @@ Mentir con ternura para regalar belleza al desfavorecido es el núcleo ético de
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un semanario de Montevideo: 'Nuestros gurises pasan horas deslizando el dedo por pantallas de vidrio templado, consumiendo destellos de video de cinco segundos en un frenesí digital de dopamina rápida. Mientras tanto, los libros de la biblioteca del liceo descansan bajo una pátina de polvo silencioso, como tumbas de una civilización que sabía concentrarse, meditar y profundizar de manera solitaria. No se trata de añorar con nostalgia reaccionaria la época del tintero de grafito escolar; se trata de alertar que la velocidad sin rumbo del canal digital está mutilando de forma invisible la capacidad de abstracción lógica y de lectura profunda indispensables para el pensamiento crítico'.
 
@@ -315,7 +315,7 @@ La crítica cultural al ocio de internet se fundamenta inferencialmente en la de
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Leé con atención esta breve fábula satírica contemporánea escrita por un humorista de Montevideo:
 'El zorro de la ciudad vestía saco italiano de alpaca de marca, andaba con chofer municipal y daba discursos solemnes sobre la austeridad republicana. Cuando regresaba a su madriguera de lujo al final de la jornada, se relamía pensando en las gallinas que desplumaría al día siguiente con el nuevo impuesto vial de patentes de Montevideo'.
@@ -340,7 +340,7 @@ La fábula política opera descodificando de forma inferencial el doble sentido.
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Leé con atención el siguiente fragmento del cuento 'El hijo' de Horacio Quiroga: 'El sol, ya muy alto, continúa ascendiendo. Por todas partes la selva gotea sudor de vapor gélido, bajo un silencio sepulcral que solo turba a lo lejos el zumbido de un tábano. El padre echa una nueva mirada a la linde del bosque en busca de la silueta de su hijo. Nadie. Un hilo de sudor frío corre por la espalda del hombre, mientras un presentimiento horrible comienza a helar su sangre: sabe que el tiempo de la realidad matemática del reloj ha terminado y que ha comenzado el tiempo de la angustia psicológica de la espera'.
 
@@ -364,7 +364,7 @@ Quiroga utiliza la técnica del correlato objetivo: impregna el paisaje geográf
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención este pasaje del cuento 'A la deriva' de Horacio Quiroga, cuando Paulino navega envenenado en su canoa hacia Tacurú-Pucú:
 'El río Uruguay corre allí en el fondo de un encajonamiento de piedra, cuyas paredes de cien metros de altura suben de forma lúgubre hacia un cielo mudo. El hombre no sentía ya el dolor de la pierna, solo una sed quemante de fuego en su garganta'.
@@ -389,7 +389,7 @@ En los relatos de Quiroga el cese imprevisto de los síntomas físicos de dolor 
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.68
 **Contexto:** Considerá un texto donde un autor describe la vida de una hormiga que trabaja de forma mecánica sin descanso en un hormiguero subterráneo oscuro, acumulando hojas verdes que nunca consume, obedeciendo las directivas de una hormiga reina gorda e invisible que vive en el centro del nido de tierra.
 
@@ -413,7 +413,7 @@ La fábula alegórica de Secundaria descansa en la descodificación inferencial 
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un semanario de Montevideo: 'Nuestros gurises pasan horas deslizando el dedo por pantallas de vidrio templado, consumiendo destellos de video de cinco segundos en un frenesí digital de dopamina rápida. Mientras tanto, los libros de la biblioteca del liceo descansan bajo una pátina de polvo silencioso, como tumbas de una civilización que sabía concentrarse, meditar y profundizar de manera solitaria. No se trata de añorar con nostalgia reaccionaria la época del tintero de grafito escolar; se trata de alertar que la velocidad sin rumbo del canal digital está mutilando de forma invisible la capacidad de abstracción lógica y de lectura profunda indispensables para el pensamiento crítico'.
 
@@ -437,7 +437,7 @@ La evaluación crítica del texto de opinión de Secundaria desmonta cómo las m
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Leé con atención el siguiente fragmento del poema 'La higuera' de la escritora uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera. / ¡Qué dulce tan dulce / será para ella / oírme decir, al pasar: / "Es la higuera el más bello / de los árboles todos del huerto!"?'
 
@@ -461,7 +461,7 @@ La asimilación de la lectura lírica e inferencial de Secundaria exige desentra
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.63
 **Contexto:** Estudiá esta tesis de teoría literaria de Secundaria: 'El análisis inferencial de los textos literarios de Secundaria de Bachillerato debe ser abolido, debido a que forzar al alumno a deducir significados implícitos o dobles sentidos abre las puertas a interpretaciones anárquicas subjetivas que destruyen la veracidad objetiva de la lectura de Secundaria'.
 
@@ -485,7 +485,7 @@ La asimilación de la competencia de lectura crítica e inferencial de Secundari
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Leé con atención el siguiente fragmento del cuento 'El hijo' de Horacio Quiroga: 'El sol, ya muy alto, continúa ascendiendo. Por todas partes la selva gotea sudor de vapor gélido, bajo un silencio sepulcral que solo turba a lo lejos el zumbido de un tábano. El padre echa una nueva mirada a la linde del bosque en busca de la silueta de su hijo. Nadie. Un hilo de sudor frío corre por la espalda del hombre, mientras un presentimiento horrible comienza a helar su sangre: sabe que el tiempo de la realidad matemática del reloj ha terminado y que ha comenzado el tiempo de la angustia psicológica de la espera'.
 

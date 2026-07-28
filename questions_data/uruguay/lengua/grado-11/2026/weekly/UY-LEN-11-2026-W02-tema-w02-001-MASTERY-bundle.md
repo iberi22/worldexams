@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.85
 **Contexto:** En una clase de Lengua en el Liceo N° 2 de Paysandú, los estudiantes discuten los conceptos de Ferdinand de Saussure.
 
@@ -48,7 +48,7 @@ Según Saussure, la lengua es un producto social depositado de manera psíquica 
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.82
 **Contexto:** Durante un recreo en el Liceo de Florida, Martín le comenta a Sofía: 'Che, cada uno de nosotros tiene una forma particular de pronunciar las palabras o armar las frases, ¿viste?'.
 
@@ -72,7 +72,7 @@ El habla es de carácter heterogéneo, psicofísico, individual y concreto, repr
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.80
 **Contexto:** Leé atentamente el siguiente fragmento del libro de lingüística que estudian los alumnos de 6° de Bachillerato de Uruguay: 'El ser humano posee la capacidad innata de comunicarse mediante signos vocales y gestuales complejos, independientemente de la comunidad concreta donde nazca'.
 
@@ -96,7 +96,7 @@ El lenguaje es una capacidad universal y biológica de los seres humanos para co
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.78
 **Contexto:** Estudiá el siguiente caso: Un grupo de arqueólogos halla inscripciones en un antiguo templo de una civilización extinguida. Nadie sabe cómo pronunciar esos signos, pero logran descifrar que obedecían a reglas gramaticales fijas y que servían para registrar transacciones comerciales.
 
@@ -120,7 +120,7 @@ La lengua puede subsistir como sistema abstracto grabado en textos antiguos de m
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.76
 **Contexto:** En un debate lingüístico en la UdelaR en Montevideo, un panelista afirma: 'El habla es la llave que abre la lengua; sin el habla, la lengua no se constituiría históricamente en el cerebro humano'.
 
@@ -144,7 +144,7 @@ La interdependencia dialéctica de lengua y habla radica en que la primera es ne
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.75
 **Contexto:** Considerá el siguiente enunciado en uruguayo coloquial: 'Ta, che, vamo' y vamo' que se nos pasa la hora'.
 
@@ -168,7 +168,7 @@ La lengua provee el inventario y las reglas gramaticales básicas comunes. El ha
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.81
 **Contexto:** Un estudiante extranjero llega a Montevideo y nota que todos usan la expresión '¡Qué viaje!' para referirse a una situación increíble, sorprendente o agotadora.
 
@@ -192,7 +192,7 @@ La relación entre el significante y el significado del signo lingüístico es a
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención esta cita: 'Cada lengua recorta la realidad de manera diferente. Lo que para una comunidad lingüística se define con una sola palabra, para otra requiere de múltiples vocablos o matices'.
 
@@ -216,7 +216,7 @@ Las lenguas estructuran de forma particular los mundos de sus hablantes. Este ca
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.74
 **Contexto:** Un abuelo uruguayo le dice a su nieto adolescente: 'Antes decíamos "tirar la ventana" para coquetear, hoy ustedes andan con eso de "encarar"'.
 
@@ -240,7 +240,7 @@ Las lenguas son mutables a lo largo del tiempo (dimensión diacrónica). Los voc
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.72
 **Contexto:** En una oficina ministerial de Montevideo, un funcionario redacta un memorándum formal, respetando escrupulosamente las normas ortográficas y de puntuación vigentes para la administración pública.
 
@@ -264,7 +264,7 @@ La norma lingüística es el puente entre el sistema abstracto de la lengua y lo
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.79
 **Contexto:** Analizá el siguiente enunciado emitido por un niño uruguayo de cuatro años: 'Mamá, yo no sabo jugar a esto'.
 
@@ -288,7 +288,7 @@ La hiperregulación infantil revela que el cerebro procesa la lengua como un sis
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.73
 **Contexto:** Leé el fragmento de este diálogo informal entre dos amigos en la Rambla de Mercedes:
 —¿Che, qué hacés? ¿Trajiste el termo?
@@ -314,7 +314,7 @@ El habla se manifiesta mediante registros y dialectos. La procedencia geográfic
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.71
 **Contexto:** En un estudio de patologías del habla, se analiza a un paciente que sufrió una lesión neurológica. El paciente puede emitir sonidos perfectamente y sus cuerdas vocales funcionan bien, pero es incapaz de ordenar las palabras de acuerdo con una sintaxis comprensible y no puede asociar significados con significantes.
 
@@ -338,7 +338,7 @@ Las afasias demuestran que la lengua se asienta en centros neuronales específic
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.70
 **Contexto:** En un simposio sobre lingüística rioplatense en Montevideo, se discute la teoría de Eugenio Coseriu.
 
@@ -362,7 +362,7 @@ Eugenio Coseriu enriqueció el esquema saussureano insertando la 'norma' entre e
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.69
 **Contexto:** Analizá la siguiente situación escolar: En el Liceo de Tala, un alumno escribe en una tarea de Geografía: 'Uruguay limita al norte con Brasil, pero también compartimos pila de cosas culturales con ellos, ¿entendés?'. La profesora corrige en rojo tachando las palabras 'pila de cosas' y '¿entendés?', escribiendo al margen: 'Inadecuado para un texto escolar'.
 
@@ -386,7 +386,7 @@ Escribir requiere dominar la adecuación al registro. La escuela enseña a desli
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.68
 **Contexto:** En su libro 'El español del Uruguay', lingüistas analizan el uso del voseo pronominal ('vos cantás') frente al tuteo pronominal ('tú cantas') o el voseo mixto uruguayo ('tú cantás').
 
@@ -410,7 +410,7 @@ La lengua es un sistema de variedades en constante devenir. El español de Urugu
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.66
 **Contexto:** Leé detenidamente esta frase satírica de un humorista uruguayo: 'El lenguaje inclusivo es una moda pasajera; la verdadera lengua no acepta los caprichos individuales de los hablantes de hoy'.
 
@@ -434,7 +434,7 @@ La lingüística científica es descriptiva, no prescriptiva. Reconoce que las l
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.65
 **Contexto:** Analizá críticamente el surgimiento del 'Portuñol fronterizo' o 'DPU' (Dialectos Portugueses del Uruguay) en ciudades norteñas como Rivera y Artigas.
 
@@ -458,7 +458,7 @@ Los fenómenos de bilingüismo y de lenguas en contacto revelan que el habla hum
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.62
 **Contexto:** Leé atentamente esta paradoja lingüística: 'La lengua es un sistema de signos inmutable para el hablante individual, pero a la vez es mutable para la sociedad a lo largo de las décadas'.
 
@@ -482,7 +482,7 @@ La paradoja se explica mediante las dimensiones sincrónica (estática en un mom
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.60
 **Contexto:** Evaluá de forma crítica la siguiente situación: Un grupo de jóvenes uruguayos chatea en redes sociales empleando abreviaturas extremas, emojis y anglicismos léxicos (como 'ahre', 'lol', 'tkm'). Una editorial de prensa acusa a esta generación de 'destruir el idioma español y perder la facultad del lenguaje'.
 

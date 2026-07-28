@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé atentamente esta definición de un manual de geografía de Uruguay: 'La penillanura es una de las formas de relieve predominantes en nuestro país, caracterizada por ser una superficie ondulada y desgastada por la erosión milenaria, de escasa altitud sobre el nivel del mar'.
 
@@ -48,7 +48,7 @@ La definición delimita conceptualmente al referente de forma unívoca, sentando
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Durante una clase de Geografía en el Liceo de Paysandú, un estudiante lee: 'El carpincho (Hydrochoerus hydrochaeris) es el roedor de mayor tamaño y peso del mundo. En Uruguay, habita en las zonas húmedas, ríos, arroyos y bañados de todo el territorio nacional'.
 
@@ -72,7 +72,7 @@ La tipología expositiva-explicativa tiene como fin pragmático informar de mane
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Leé atentamente el siguiente fragmento de un folleto de ecología en Uruguay: 'Los Bañados del Este actúan como gigantescas esponjas naturales; es decir, absorben el exceso de agua durante las grandes lluvias y la liberan lentamente en los períodos de sequía, protegiendo los campos'.
 
@@ -96,7 +96,7 @@ Los textos explicativos integran analogías descriptivas y reformulaciones ('es 
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Analizá la siguiente explicación histórica de Secundaria: 'El Éxodo del Pueblo Oriental de 1811 consistió en la emigración masiva de la población civil de la Banda Oriental, que siguió al general José Gervasio Artigas hacia el Ayuí. Por ejemplo, familias enteras abandonaron sus estancias, pertenencias y ganados para acampar a la intemperie en precarios carros'.
 
@@ -120,7 +120,7 @@ La ejemplificación es un recurso de gran valor pedagógico en los textos exposi
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención este pasaje de divulgación histórica uruguaya:
 'Durante el período conocido como Batllismo (principios del siglo XX), el Estado de Uruguay asumió un rol fuertemente intervencionista en la economía. Esto significó la nacionalización de servicios públicos (como la electricidad y los ferrocarriles) y la creación de monopolios estatales para asegurar la soberanía económica nacional'.
@@ -145,7 +145,7 @@ La neutralidad y la despersonalización (terceras personas, léxico denotativo, 
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** En una tarea del liceo sobre ecología en Uruguay, los alumnos comparan estos dos textos:
 Texto 1: 'El venado de campo (Ozotoceros bezoarticus) es un cérvido autóctono en peligro de extinción en Uruguay, conservándose poblaciones protegidas en Rocha y Salto'.
@@ -171,7 +171,7 @@ Un mismo referente de la realidad (el venado de campo de biodiversidad uruguaya)
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Debés redactar un informe de divulgación científica escolar sobre la generación de energía eólica en Uruguay (parques eólicos de Tacuarembó y Maldonado). Tu objetivo es que la comunidad educativa de Secundaria comprenda cómo se transforma la energía cinética del viento en electricidad.
 
@@ -195,7 +195,7 @@ La arquitectura del texto expositivo-explicativo está al servicio de la clarida
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Leé con atención este pasaje científico: 'La fotosíntesis es el proceso químico autótrofo mediante el cual las plantas con clorofila convierten el dióxido de carbono y el agua en carbohidratos, utilizando energía lumínica solar'.
 
@@ -219,7 +219,7 @@ Los tecnicismos son indispensables en el texto de ciencia y tecnología. Garanti
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Considerá el siguiente enunciado explicativo: 'La cuenca del río Uruguay abastece de agua a múltiples ciudades del oeste de nuestro territorio; para que se hagan una idea, es como una gran arteria circulatoria que nutre de vida e industria a todo el litoral de nuestro mapa'.
 
@@ -243,7 +243,7 @@ La analogía o comparación pedagógica es un puente conceptual clave en la tipo
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Analizá esta secuencia explicativa: 'El suelo agrícola requiere de nutrientes clave como el nitrógeno, el fósforo y el potasio para asegurar un rendimiento de cultivo sostenible'.
 
@@ -267,7 +267,7 @@ La enumeración y la clasificación conectorizadas son recursos lógicos fundame
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención este pasaje de un informe sobre biodiversidad uruguaya nativa:
 'La palmera mburucuyá (Passiflora caerulea), también llamada pasionaria, es una trepadora autóctona cuyas flores poseen una compleja corona de filamentos. Su fruto globoso y anaranjado es comestible y sirve de alimento a numerosas aves nativas de nuestra región'.
@@ -292,7 +292,7 @@ Los informes de biodiversidad uruguaya combinan taxonomía formal de biodiversid
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Durante una investigación de historia de Uruguay en el Liceo de Florida, se debate sobre la veracidad de un texto expositivo-explicativo frente a una novela histórica ficcional.
 
@@ -316,7 +316,7 @@ La tipología expositiva-explicativa descansa en el principio de veracidad y con
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Estudiá el siguiente texto escolar:
 'El sistema de salud pública de Uruguay de principios del siglo XX experimentó reformas radicales. Sin embargo, algunos historiadores sostienen que el modelo era demasiado centralizado en Montevideo, desatendiendo el interior rural'.
@@ -341,7 +341,7 @@ En los textos de historia y ciencias sociales, la exposición de hechos suele ac
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** En un taller de redacción didáctica de material científico en Paysandú, se debate sobre la reformulación de enunciados.
 
@@ -365,7 +365,7 @@ Los marcadores de reformulación explicativa son herramientas pragmáticas didá
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé atentamente esta explicación geológica del subsuelo uruguayo:
 'El Acuífero Guaraní es una de las reservas de agua dulce subterránea más grandes del planeta. Consiste en un sistema de rocas areniscas saturadas de agua que se formó hace millones de años. Su recarga se produce directamente por la infiltración de aguas fluviales en las zonas de afloramiento del terreno'.
@@ -390,7 +390,7 @@ La progresión temática en la tipología expositiva-explicativa organiza de for
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.67
 **Contexto:** Considerá este extracto de un artículo científico sobre el cambio climático global:
 'El derretimiento acelerado de las masas glaciares polares provoca un aumento del nivel del mar. Esto se debe, en primer lugar, al aporte directo de agua líquida de deshielo y, en segundo lugar, a la expansión térmica de los océanos cálidos'.
@@ -415,7 +415,7 @@ La secuencia causal explicativa es el andamiaje lógico preferido de las ciencia
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé detenidamente el fragmento de este folleto sobre salud pública del Ministerio de Salud de Uruguay sobre la prevención del dengue:
 'El mosquito Aedes aegypti se reproduce en recipientes que contienen agua estancada limpia. Por lo tanto, la eliminación física de estos criaderos domésticos (como latas, neumáticos viejos, floreros de cementerio) constituye la medida preventiva más barata y eficaz, ya que interrumpe de forma biológica el ciclo reproductivo del insecto'.
@@ -440,7 +440,7 @@ Las campañas de profilaxis de salud pública articulan la tipología expositiva
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Analizá críticamente el siguiente fragmento de un artículo de divulgación histórica nacional sobre la Constitución de 1830:
 'La primera Constitución de la República Oriental del Uruguay de 1830 consagró un estado representativo y republicano. Sin embargo, desde una perspectiva histórica crítica, su veracidad democrática era severamente limitada: veteaba el derecho al sufragio a los peones a sueldo, a los analfabetos y a los soldados de línea, excluyendo de la participación soberana a la gran mayoría de la población rural'.
@@ -465,7 +465,7 @@ La tipología de las ciencias sociales e historia de Secundaria asocia la exposi
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.63
 **Contexto:** Estudiá este postulado de didáctica de la asignatura Lengua: 'El texto expositivo-explicativo académico de Secundaria debe erradicar toda analogía, comparación poética o reformulación simplificada, dado que estas deforma de manera violenta el rigor unívoco del léxico científico puro de la ciencia'.
 
@@ -489,7 +489,7 @@ La didáctica de las ciencias naturales de Secundaria requiere de la reformulaci
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Analizá la siguiente situación áulica en un liceo uruguayo: Un grupo de estudiantes redacta una monografía de ecología sobre la biodiversidad uruguaya nativa de la cuenca del Santa Lucía. En el capítulo de conclusiones, escriben: 'Nos pareció una lástima que la gente ensucie el río con pesticidas malos, hay que prohibir todo de inmediato'. El profesor califica esta frase como 'inadecuada para una monografía científica'.
 

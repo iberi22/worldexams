@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -48,7 +48,7 @@ La tesis del columnista figura explícita y se asocia de forma crítica a la des
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -72,7 +72,7 @@ El análisis de la validez de las fuentes descansa sobre la detección de confli
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -96,7 +96,7 @@ El rol ecológico de las dunas figura explícito y sustenta el argumento de caus
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -120,7 +120,7 @@ La intencionalidad persuasiva de la constructora se enuncia de forma literal en 
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención el siguiente pasaje de análisis de un anuncio publicitario de autos: 'El eslogan de la campaña dice: "Manejá tu destino. Conquistá la rambla montevideana con el nuevo todoterreno que demuestra quién manda en la pista. El poder de la tecnología está en tus manos". El anuncio muestra imágenes de un vehículo negro brillante circulando a gran velocidad por una rambla de Montevideo completamente vacía, bajo un cielo de atardecer dorado de película. El análisis crítico-valorativo de Secundaria devela que la pieza opera asociando de manera falaz la posesión de una máquina de combustión interna con valores abstractos como la libertad personal, el poder social, el éxito y la dominación de la pista, enmascarando de forma estética el impacto real de contaminación acústica y congestión vial de los autos en Montevideo'.
 
@@ -144,7 +144,7 @@ La detección de las contradicciones de verosimilitud de la publicidad es un pil
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** Leé con atención el siguiente pasaje de análisis de un anuncio publicitario de autos: 'El eslogan de la campaña dice: "Manejá tu destino. Conquistá la rambla montevideana con el nuevo todoterreno que demuestra quién manda en la pista. El poder de la tecnología está en tus manos". El anuncio muestra imágenes de un vehículo negro brillante circulando a gran velocidad por una rambla de Montevideo completamente vacía, bajo un cielo de atardecer dorado de película. El análisis crítico-valorativo de Secundaria devela que la pieza opera asociando de manera falaz la posesión de una máquina de combustión interna con valores abstractos como la libertad personal, el poder social, el éxito y la dominación de la pista, enmascarando de forma estética el impacto real de contaminación acústica y congestión vial de los autos en Montevideo'.
 
@@ -168,7 +168,7 @@ La publicidad asocia un objeto industrial material con deseos abstractos del rec
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Leé con atención el siguiente pasaje de análisis de un anuncio publicitario de autos: 'El eslogan de la campaña dice: "Manejá tu destino. Conquistá la rambla montevideana con el nuevo todoterreno que demuestra quién manda en la pista. El poder de la tecnología está en tus manos". El anuncio muestra imágenes de un vehículo negro brillante circulando a gran velocidad por una rambla de Montevideo completamente vacía, bajo un cielo de atardecer dorado de película. El análisis crítico-valorativo de Secundaria devela que la pieza opera asociando de manera falaz la posesión de una máquina de combustión interna con valores abstractos como la libertad personal, el poder social, el éxito y la dominación de la pista, enmascarando de forma estética el impacto real de contaminación acústica y congestión vial de los autos en Montevideo'.
 
@@ -192,7 +192,7 @@ El voseo imperativo es de gran utilidad pragmática en la publicidad. El mandato
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -216,7 +216,7 @@ La asimilación de un texto exige desentrañar los sesgos. El léxico y el tono 
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Leé con atención el siguiente fragmento de una editorial de prensa seria de Montevideo de Secundaria: 'El proyecto de ley presupuestario de educación para el próximo quinquenio en el país, que congela las partidas destinadas a laboratorios de física de las escuelas y bibliotecas de Secundaria, es defendido por los voceros oficiales como un ejercicio patriótico de sobriedad fiscal. Sin embargo, este discurso oficial incurre en una falacia de falso dilema: sostiene de forma falaz que se debe elegir de manera drástica entre la quiebra financiera del Estado uruguayo o la parálisis presupuestaria de la educación científica de la juventud escolar. Ahorrar en el cerebro de los gurises es hipotecar de forma permanente la capacidad industrial y el desarrollo tecnológico de Uruguay de forma verosímil'.
 
@@ -240,7 +240,7 @@ El desmantelamiento del falso dilema es de gran valor en la lectura crítica de 
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Leé con atención el siguiente fragmento de una editorial de prensa seria de Montevideo de Secundaria: 'El proyecto de ley presupuestario de educación para el próximo quinquenio en el país, que congela las partidas destinadas a laboratorios de física de las escuelas y bibliotecas de Secundaria, es defendido por los voceros oficiales como un ejercicio patriótico de sobriedad fiscal. Sin embargo, este discurso oficial incurre en una falacia de falso dilema: sostiene de forma falaz que se debe elegir de manera drástica entre la quiebra financiera del Estado uruguayo o la parálisis presupuestaria de la educación científica de la juventud escolar. Ahorrar en el cerebro de los gurises es hipotecar de forma permanente la capacidad industrial y el desarrollo tecnológico de Uruguay de forma verosímil'.
 
@@ -264,7 +264,7 @@ La asimilación del texto exige desentrañar las metáforas. La 'hipoteca del ce
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -288,7 +288,7 @@ El análisis crítico-valorativo exige desvelar los conflictos de intereses de l
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención el siguiente pasaje de análisis de un anuncio publicitario de autos: 'El eslogan de la campaña dice: "Manejá tu destino. Conquistá la rambla montevideana con el nuevo todoterreno que demuestra quién manda en la pista. El poder de la tecnología está en tus manos". El anuncio muestra imágenes de un vehículo negro brillante circulando a gran velocidad por una rambla de Montevideo completamente vacía, bajo un cielo de atardecer dorado de película. El análisis crítico-valorativo de Secundaria devela que la pieza opera asociando de manera falaz la posesión de una máquina de combustión interna con valores abstractos como la libertad personal, el poder social, el éxito y la dominación de la pista, enmascarando de forma estética el impacto real de contaminación acústica y congestión vial de los autos en Montevideo'.
 
@@ -312,7 +312,7 @@ La deconstrucción crítica del discurso publicitario desvela la contradicción 
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Leé con atención el siguiente fragmento de una editorial de prensa seria de Montevideo de Secundaria: 'El proyecto de ley presupuestario de educación para el próximo quinquenio en el país, que congela las partidas destinadas a laboratorios de física de las escuelas y bibliotecas de Secundaria, es defendido por los voceros oficiales como un ejercicio patriótico de sobriedad fiscal. Sin embargo, este discurso oficial incurre en una falacia de falso dilema: sostiene de forma falaz que se debe elegir de manera drástica entre la quiebra financiera del Estado uruguayo o la parálisis presupuestaria de la educación científica de la juventud escolar. Ahorrar en el cerebro de los gurises es hipotecar de forma permanente la capacidad industrial y el desarrollo tecnológico de Uruguay de forma verosímil'.
 
@@ -336,7 +336,7 @@ El análisis crítico-valorativo desenmascara los eufemismos políticos ('sobrie
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** En una conferencia sobre análisis del discurso periodístico en Montevideo, se debaten diferentes enfoques de lectura de los textos de prensa.
 
@@ -360,7 +360,7 @@ La asimilación de la lectura exige dominar el análisis deconstructivo. Desentr
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención este fragmento de un comunicado corporativo de una empresa minera de Tacuarembó:
 'Nuestra planta procesadora de metales pesados es la más amigable del hemisferio con la pradera natural. El reporte de sustentabilidad ecológica de la propia minera de Tacuarembó, de la gerencia de relaciones públicas, avala la inocuidad hídrica química total de nuestros lodos industriales'.
@@ -385,7 +385,7 @@ El análisis de las fuentes corporativas desmantela el simulacro de sustentabili
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.68
 **Contexto:** Considerá el siguiente fragmento de una columna de opinión sobre el transporte público  de Montevideo:
 'El intendente defiende las ciclovías de la avenida principal afirmando que "todo el mundo está encantado con las bicicletas". No obstante, el peritaje técnico de ingeniería vial de Secundaria devela que las ciclovías incrementaron de forma real un 15 % las colisiones de giros de autos en las bocacalles, demostrando que la apelación a la opinión común del intendente silencia de forma falaz los datos de inseguridad vial real'.
@@ -410,7 +410,7 @@ La asimilación de un discurso exige desentrañar las falacias ad populum. Confr
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé con atención el siguiente fragmento de una editorial de prensa seria de Montevideo de Secundaria: 'El proyecto de ley presupuestario de educación para el próximo quinquenio en el país, que congela las partidas destinadas a laboratorios de física de las escuelas y bibliotecas de Secundaria, es defendido por los voceros oficiales como un ejercicio patriótico de sobriedad fiscal. Sin embargo, este discurso oficial incurre en una falacia de falso dilema: sostiene de forma falaz que se debe elegir de manera drástica entre la quiebra financiera del Estado uruguayo o la parálisis presupuestaria de la educación científica de la juventud escolar. Ahorrar en el cerebro de los gurises es hipotecar de forma permanente la capacidad industrial y el desarrollo tecnológico de Uruguay de forma verosímil'.
 
@@ -434,7 +434,7 @@ La lectura de Secundaria exige el desmantelamiento de los falsos dilemas. Revela
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Leé con atención el siguiente fragmento de una columna de opinión de un geógrafo uruguayo: 'El proyecto de urbanización de la costa atlántica de Rocha, que promete traer empleos y turismo internacional de lujo, es una trampa de codicia inmobiliaria a corto plazo. Las excavadoras de las constructoras destruirán de forma irreversible las dunas costeras de Cabo Polonio, que actúan como la única barrera física natural contra los vientos marinos de temporal. Los informes de las empresas inmobiliarias, que aseguran que el impacto ecológico será nulo, carecen de validez científica: fueron redactados por ingenieros asalariados por la propia corporación constructora, constituyendo una farsa de conflicto de intereses que busca adormecer la conciencia ecológica de los ciudadanos de Rocha'.
 
@@ -458,7 +458,7 @@ La asimilación de la lectura de Secundaria exige el desmantelamiento de los con
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.63
 **Contexto:** Estudiá esta directiva de redacción de columnas de opinión en periódicos serios: 'La lectura de Secundaria debe limitarse a la descodificación literal de datos de prensa, dado que forzar al alumno a evaluar de forma crítica los sesgos, intencionalidades cruzadas y falacias destruye el rigor de Secundaria'.
 
@@ -482,7 +482,7 @@ La asimilación de la lectura de Secundaria exige el desmantelamiento de los ses
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Leé con atención el siguiente fragmento de una editorial de prensa seria de Montevideo de Secundaria: 'El proyecto de ley presupuestario de educación para el próximo quinquenio en el país, que congela las partidas destinadas a laboratorios de física de las escuelas y bibliotecas de Secundaria, es defendido por los voceros oficiales como un ejercicio patriótico de sobriedad fiscal. Sin embargo, este discurso oficial incurre en una falacia de falso dilema: sostiene de forma falaz que se debe elegir de manera drástica entre la quiebra financiera del Estado uruguayo o la parálisis presupuestaria de la educación científica de la juventud escolar. Ahorrar en el cerebro de los gurises es hipotecar de forma permanente la capacidad industrial y el desarrollo tecnológico de Uruguay de forma verosímil'.
 

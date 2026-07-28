@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana "La Gaditana que se va", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.
 
@@ -48,7 +48,7 @@ La respuesta se localiza de manera directa y explícita en la tercera oración d
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana "La Gaditana que se va", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.
 
@@ -72,7 +72,7 @@ La respuesta se identifica de forma textual directa en el pasaje colonial del te
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana "La Gaditana que se va", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.
 
@@ -96,7 +96,7 @@ El lector halla el sitio exacto del concurso identificando los nombres propios g
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana "La Gaditana que se va", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.
 
@@ -120,7 +120,7 @@ El hecho causal explícito figura de forma literal en la mitad del fragmento his
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.
 
@@ -144,7 +144,7 @@ La cifra exacta de consumo anual figura explícita y asociada a la UdelaR y al a
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.
 
@@ -168,7 +168,7 @@ El origen de importación de la yerba se enuncia textualmente con nombres de reg
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.
 
@@ -192,7 +192,7 @@ La causa física de la falta de cultivo nacional se enuncia de forma literal en 
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.
 
@@ -216,7 +216,7 @@ La distinción del hábito de traslado móvil callejero uruguayo figura explíci
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.
 
@@ -240,7 +240,7 @@ La fecha de declaración ecológica de la Unesco de Bañados del Este figura de 
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.
 
@@ -264,7 +264,7 @@ La cantidad de especies migratorias norteñas del humedal de Bañados del Este f
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.
 
@@ -288,7 +288,7 @@ La medida del tronco de los ombúes centenarios de Castillos figura explícita y
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.
 
@@ -312,7 +312,7 @@ Los departamentos geográficos de extensión de Bañados del Este figuran explí
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.
 
@@ -336,7 +336,7 @@ La fecha exacta de rediseño de piedra de Santa Teresa de la corona española fi
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.
 
@@ -360,7 +360,7 @@ El motivo diplomático de resguardo del fuerte de Santa Teresa figura explícito
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.
 
@@ -384,7 +384,7 @@ La fecha exacta de abandono militar del fuerte de Santa Teresa figura de manera 
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.68
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.
 
@@ -408,7 +408,7 @@ El nombre del arqueólogo restaurador de Santa Teresa y el año civil figuran de
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana "La Gaditana que se va", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.
 
@@ -432,7 +432,7 @@ El examen de la verdad literal desmantela las falsas interpretaciones histórica
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.
 
@@ -456,7 +456,7 @@ La verificación de datos denotativos textuales descarta los mitos comerciales a
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.61
 **Contexto:** Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.
 
@@ -480,7 +480,7 @@ La competencia de lectura crítica y literal de Secundaria exige el cotejo minuc
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.
 

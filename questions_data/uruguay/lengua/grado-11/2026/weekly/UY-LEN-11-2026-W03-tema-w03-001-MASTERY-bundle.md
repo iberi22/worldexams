@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.85
 **Contexto:** Un lingüista uruguayo estudia las diferencias léxicas entre Montevideo y la frontera norte (Rivera). Nota que para referirse al transporte público colectivo, en la capital se dice 'ómnibus' y en Rivera se suele escuchar 'ómnibus' o 'colectivo' o 'bus'.
 
@@ -48,7 +48,7 @@ La variación diatópica o dialectal es la diferenciación geográfica de una le
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.82
 **Contexto:** En una reunión formal con el decano de la facultad, un docente uruguayo dice: 'Considero oportuno postergar el debate'. Más tarde, cenando en su casa con sus hijos, dice: 'Che, mejor dejamos la charla para otro día'.
 
@@ -72,7 +72,7 @@ La variación diafásica concierne a los registros de habla (formales o informal
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.81
 **Contexto:** Analizá la siguiente frase de tratamiento habitual en Uruguay: 'Vos sabés bien de lo que te hablo'.
 
@@ -96,7 +96,7 @@ El voseo típico de Uruguay es una variante diatópica que afecta la morfología
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.79
 **Contexto:** Durante una investigación de campo en el departamento de Artigas, un sociólogo registra que las personas mayores con estudios universitarios hablan español formal en el juzgado, pero que en el mercado popular alternan frases en español rioplatense y portuñol de forma espontánea.
 
@@ -120,7 +120,7 @@ Un hablante competente de la lengua posee plasticidad comunicativa: sabe adaptar
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención el siguiente fragmento de un diálogo coloquial montevideano:
 —Che, ¿tenés cambio de cien pesos uruguayos? Para pagarle al boletero del ómnibus.
@@ -146,7 +146,7 @@ En los enunciados concretos se solapan la procedencia geográfica del hablante (
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.76
 **Contexto:** En una conferencia sobre educación en Uruguay, se menciona la existencia de 'jergas juveniles' y 'jergas profesionales'.
 
@@ -170,7 +170,7 @@ La variación diastrática (sociolectal) engloba los usos característicos de gr
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.80
 **Contexto:** Imaginate que sos un periodista deportivo uruguayo de radio. Debés transmitir el relato de un partido clásico entre Peñarol y Nacional en el Estadio Centenario para una audiencia masiva y popular.
 
@@ -194,7 +194,7 @@ Los géneros mediáticos se adaptan a su público meta. El periodismo deportivo 
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.76
 **Contexto:** Un profesor de Lengua en el Liceo de Mercedes lee en clase el siguiente texto de un estudiante uruguayo: 'Estábamos en la esquina charlando con la barra y de repente cayó la cana'.
 
@@ -218,7 +218,7 @@ El léxico urbano rioplatense e informal (el lunfardo o la jerga de los jóvenes
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.74
 **Contexto:** Leé detenidamente el siguiente fragmento del poema 'Sentimientos' de la poeta uruguaya Idea Vilariño:
 'No te veré morir. / Ya no me verás / no nos veremos más'.
@@ -243,7 +243,7 @@ En la literatura uruguaya contemporánea conviven de forma creativa y estética 
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.72
 **Contexto:** Un grupo de estudiantes de Maldonado realiza una encuesta en su barrio sobre el uso de la palabra 'bo' o 'vo'. Algunos vecinos opinan que 'está mal dicho' y otros afirman que 'es nuestra marca de identidad uruguaya'.
 
@@ -267,7 +267,7 @@ El vocativo 'bo' / 'vo' es un marcador pragmático uruguayo (diatopia). La ling�
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.78
 **Contexto:** Leé con atención esta nota informal dejada en la puerta de una heladera en una casa de familia en Salto:
 'Si querés asado, calentá lo que sobró del mediodía. No gastés el queso para la cena, por favor'.
@@ -292,7 +292,7 @@ El voseo en el modo imperativo ('calentá') y en los mandatos negativos con pres
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.73
 **Contexto:** En un juzgado de Montevideo, el juez interroga a un testigo de un accidente:
 —¿Pudo constatar la velocidad del vehículo antes de la colisión?
@@ -318,7 +318,7 @@ El desliz de registro ocurre cuando el hablante utiliza en un contexto formal (c
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.72
 **Contexto:** Estudiá el fenómeno sociolingüístico conocido como 'voseo mixto uruguayo', muy extendido en el país, que consiste en la combinación de un pronombre de tuteo con un verbo voseante (por ejemplo: 'tú sabés', 'tú querés').
 
@@ -342,7 +342,7 @@ El voseo mixto ('tú' + verbo voseante: 'tú cantás') es una de las mayores sin
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.70
 **Contexto:** En una mesa redonda sobre lingüística rioplatense, se analiza el habla de diferentes zonas de Uruguay.
 
@@ -366,7 +366,7 @@ La fonética ofrece valiosos marcadores diastráticos (sociolingüísticos). La 
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención este fragmento de un discurso de bienvenida a delegados brasileños en Rivera:
 'Es una honra dar la bienvenida a nuestros vizinhos de Santana do Livramento. Compartilhamos una historia común en esta frontera donde las palabras se cruzan con hermandad'.
@@ -391,7 +391,7 @@ El portuñol fronterizo o DPU es una de las variedades diatópicas y culturales 
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.68
 **Contexto:** En una investigación lingüística se compara el español de la costa atlántica de Rocha (donde es habitual oír el tuteo con desinencias verbales agudas: 'tú cantás', 'tú tenés') con el español urbano de Montevideo.
 
@@ -415,7 +415,7 @@ El español rioplatense uruguayo no es plano; tiene matices y variantes departam
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.66
 **Contexto:** Evaluá de forma crítica la siguiente afirmación extraída de un manual escolar antiguo: 'La forma correcta de hablar español en nuestro continente consiste en imitar con fidelidad el acento y la conjugación castellana madrileña, evitando los barbarismos americanos como el voseo'.
 
@@ -439,7 +439,7 @@ La sociolingüística moderna adopta un enfoque pluricéntrico. El español pose
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.64
 **Contexto:** Leé con atención este fragmento de un chat grupal de liceales de Rocha:
 —Bo, ¿sale Rambla hoy de tarde?
@@ -465,7 +465,7 @@ La comunicación informal es un terreno de afirmación de identidad social. Los 
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.61
 **Contexto:** En un simposio internacional de lingüística en Montevideo, un investigador expone: 'La supuesta homogeneidad del idioma español es un mito pedagógico necesario, pero que enmascara un archipiélago de normas locales en constante disputa de prestigio'.
 
@@ -489,7 +489,7 @@ La pedagogía lingüística moderna integra el respeto dialectal con la enseñan
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Sintaxis y morfología
+**EJE:** Sintaxis y morfología
 **Expected_Success:** 0.60
 **Contexto:** Considerá el siguiente fragmento de una carta formal remitida a una intendencia del interior uruguayo:
 'Estimado Intendente, le escribo para pedirle si me podés habilitar la patente del auto que tengo un lío bárbaro con los timbres profesionales'.

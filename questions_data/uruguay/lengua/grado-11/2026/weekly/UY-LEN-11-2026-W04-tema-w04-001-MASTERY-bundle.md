@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé con atención esta célebre frase inicial de un cuento del uruguayo Horacio Quiroga: 'La luna asomaba por el horizonte como un disco de fuego rojo, iluminando las turbulentas aguas del río Paraná'.
 
@@ -48,7 +48,7 @@ El marco espacial y temporal conforma la plataforma de arranque de los textos na
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante de 6° de Bachillerato analiza un relato en el liceo y advierte que el narrador cuenta la historia usando la tercera persona gramatical, sabe lo que piensan todos los personajes de la obra, conoce su pasado y puede predecir su futuro.
 
@@ -72,7 +72,7 @@ El narrador omnisciente actúa con una visión divina: domina la totalidad de lo
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Leé con atención este fragmento del cuento 'El almohadón de plumas' de Horacio Quiroga:
 'Su luna de miel fue un largo escalofrío. Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñeces de novia. Ella lo quería mucho, sin embargo...'.
@@ -97,7 +97,7 @@ En los textos narrativos de calidad, la descripción de los personajes y sus rel
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Analizá la famosa estructura temporal de una obra narrativa. Un autor decide romper el orden cronológico lineal de los sucesos, comenzando su relato por el desenlace fatal para luego retroceder en el tiempo y explicar la cadena de causas que condujeron a ese fin.
 
@@ -121,7 +121,7 @@ Las anacronías son alteraciones del orden temporal cronológico. La analepsis (
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé este pasaje de la célebre novela 'La tregua' del escritor uruguayo Mario Benedetti:
 'Ella se rió. Tiene una risa franca, que termina con un ruidito leve de garganta, muy simpático. Me gusta oírla reír. No me importa lo que diga, con tal de que se ría después'.
@@ -146,7 +146,7 @@ El punto de vista o focalización interna en primera persona (típico del diario
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.75
 **Contexto:** En un taller de escritura en el Liceo N° 1 de Rivera, los alumnos analizan la diferencia entre 'historia' (o diégesis) y 'discurso' (o relato).
 
@@ -170,7 +170,7 @@ La narratología distingue la historia (la materia prima temporal y lógica de l
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.79
 **Contexto:** Leé este pasaje del cuento 'A la deriva' de Horacio Quiroga:
 'El hombre bajó la vista hacia el pie, donde dos gotitas de sangre apenas brillaban, y sacó el machete de la cintura. La víbora vio la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de lomo, dislocándole las vértebras'.
@@ -195,7 +195,7 @@ El pretérito perfecto simple es el tiempo verbal narrativo por excelencia. Su e
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** Estudiá el siguiente fragmento:
 'La profesora de historia entró al aula, dejó el termo sobre el escritorio de madera y contempló en silencio el desorden de los bancos del liceo. Sabía que la jornada sería larga'.
@@ -220,7 +220,7 @@ La focalización cero se asocia al narrador que trasciende los límites de un pe
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.74
 **Contexto:** Analizá el uso del tiempo narrativo en este extracto de una crónica literaria:
 'Transcurrieron cinco años de silenciosa sequía en las dunas de Cabo Polonio. Nadie volvió a pisar el viejo faro. Hasta que una tarde de diciembre, un marinero de bandera extranjera arribó con una carta cerrada'.
@@ -245,7 +245,7 @@ La elipsis narrativa permite al autor omitir fragmentos temporales irrelevantes 
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.73
 **Contexto:** Leé con atención el siguiente fragmento:
 '—No vayas a salir hoy, Martín —advirtió su madre desde la cocina de la casa de San José—. Con este temporal de viento de la rambla no es seguro andar en la calle'.
@@ -270,7 +270,7 @@ El estilo directo otorga realismo, fuerza dramática y polifonía al texto narra
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Estudiá el siguiente fragmento de una novela contemporánea ambientada en Uruguay:
 'Santomé miró el calendario de la oficina. Faltaban exactamente cuatro meses para su jubilación. ¿Qué haría con tanto tiempo libre? ¿Caminar por la rambla sin rumbo, cebar mates infinitos frente al mar vacío? Le aterraba la libertad'.
@@ -295,7 +295,7 @@ El estilo indirecto libre permite al narrador mimetizarse con la conciencia de s
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención este pasaje del cuento 'El hijo' de Horacio Quiroga:
 'Un disparo... Un disparo limpio, sordo, que el padre conoce de memoria. El padre echa una ojeada al reloj: son las diez. Su hijo debe estar cruzando la linde de la selva'.
@@ -320,7 +320,7 @@ En la tipología narrativa de suspenso, los indicios (un ruido, una mirada, una 
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Un profesor de Literatura de 6° de Bachillerato propone comparar el tratamiento del espacio narrativo en 'Cuentos de amor de locura y de muerte' (Quiroga) frente a 'La tregua' (Benedetti).
 
@@ -344,7 +344,7 @@ El espacio en la narrativa excede la mera decoración física; adquiere densidad
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Durante un taller literario en el Liceo de Salto, los alumnos analizan la tipología de los personajes de las novelas.
 
@@ -368,7 +368,7 @@ Los grandes textos narrativos combinan personajes redondos (los protagonistas so
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** Leé con atención este fragmento de un relato contemporáneo:
 'Abrió la puerta de calle. El calor húmedo de la tarde de Salto lo golpeó en la cara. Recordó, con una punzada de dolor en el pecho, la última tarde que caminaron juntos por la Costanera. Ella llevaba aquel saco azul. Sacudió la cabeza para ahuyentar el fantasma, cruzó la calle y caminó hacia la parada de ómnibus'.
@@ -393,7 +393,7 @@ El manejo del tiempo en la narrativa de corte gnoseológico o íntimo privilegia
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.67
 **Contexto:** Considerá un relato donde un narrador relata la historia de una batalla histórica, pero adopta una perspectiva restringida (focalización interna), situándose únicamente en la mirada asustada de un joven soldado que yace herido en una zanja, desconociendo por completo las estrategias generales del alto mando.
 
@@ -417,7 +417,7 @@ La selección de la focalización regula el caudal informativo del relato. Restr
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé detenidamente el final del cuento 'A la deriva' de Horacio Quiroga, cuando el protagonista envenenado navega en su canoa por el río Paraná:
 'Y de pronto sintió que estaba helado hasta el pecho. ¿Qué tenía? Además, el cansancio... De golpe advirtió que ya no podía respirar. (...) El cielo se había abierto en oro, y el hombre no sintió más que un hondo y dulce bienestar... Pero el hombre ya había dejado de respirar'.
@@ -442,7 +442,7 @@ El desenlace quiroguiano funde la objetividad de las leyes físicas de la natura
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Analizá críticamente el desenlace del cuento 'El almohadón de plumas' de Horacio Quiroga, cuando la sirvienta de jordán descubre las manchas de sangre y el médico rompe el almohadón:
 'Sobre el fondo, entre las plumas, se veía un animal monstruoso, una bola viviente y viscosa. Estaba tan hinchado que apenas se le pronunciaba la boca. Noche a noche, desde que Alicia había caído en cama, había aplicado su boca a las sienes de aquella, chupándole la sangre'.
@@ -467,7 +467,7 @@ Quiroga revolucionó el terror rioplatense al anclarlo en lo biológico e implac
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.63
 **Contexto:** Estudiá esta tesis literaria sobre Mario Benedetti: 'La tregua utiliza el formato del diario íntimo no como un mero adorno formal, sino como la única estructura capaz de plasmar el monólogo de un uruguayo de clase media asfixiado por la rutina, cuya tregua existencial se frustra de manera irreversible ante la contingencia de la muerte'.
 
@@ -491,7 +491,7 @@ El formato de diario en 'La tregua' es solidario con el tema: la domesticidad de
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.60
 **Contexto:** Analizá la siguiente situación: En un taller literario en el Liceo N° 1 de Colonia, se debate sobre la verosimilitud de los textos narrativos de realismo mágico frente al realismo psicológico rioplatense.
 

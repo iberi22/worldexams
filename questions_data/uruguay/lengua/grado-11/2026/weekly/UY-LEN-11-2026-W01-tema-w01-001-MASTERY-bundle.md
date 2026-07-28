@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.85
 **Contexto:** En una parada de ómnibus en la Avenida 18 de Julio en Montevideo, un cartel electrónico muestra el mensaje: 'Línea 103 - Destino: Plaza España - Próximo arribo: 5 min'.
 
@@ -48,7 +48,7 @@ El canal es el soporte o medio físico a través del cual viaja la señal que tr
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de gurises en la rambla de Pocitos conversa animadamente. Uno de ellos dice: '¡Pa, qué salado está el viento hoy, che!'.
 
@@ -72,7 +72,7 @@ La función expresiva o emotiva se centra en el emisor, permitiéndole exteriori
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.82
 **Contexto:** Analizá la siguiente situación: En el Liceo de Colonia del Sacramento, una profesora le dice a su clase antes de un examen escrito: 'Por favor, guarden los celulares y dejen sobre el banco únicamente el documento de identidad y una lapicera'.
 
@@ -96,7 +96,7 @@ La función apelativa busca provocar una respuesta o cambio de conducta en el re
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.78
 **Contexto:** Dos vecinas se encuentran en un almacén en la ciudad de Salto. Una de ellas le pregunta a la otra: '¿Me escuchás bien? Con el ruido de la heladera nueva casi no te oigo'.
 
@@ -120,7 +120,7 @@ La función fática se utiliza para iniciar, prolongar, interrumpir o verificar 
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.75
 **Contexto:** Leé el siguiente fragmento del poema 'La higuera' de la uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera'.
 
@@ -144,7 +144,7 @@ La literatura utiliza la función poética, donde la estructura del mensaje y lo
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.76
 **Contexto:** En una clase de Lengua en el Liceo N° 1 de Rivera, el docente explica: 'La palabra uruguayismo es un sustantivo masculino que refiere a los vocablos típicos de nuestra variedad rioplatense'.
 
@@ -168,7 +168,7 @@ Cuando la lengua se toma a sí misma como objeto de estudio o de explicación, e
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.80
 **Contexto:** Imaginate que estás redactando un folleto informativo para la Intendencia de Maldonado para concientizar sobre el cuidado de las playas de Punta del Este. El titular del folleto dice: 'Cuidar nuestras dunas es proteger el futuro de nuestras costas'.
 
@@ -192,7 +192,7 @@ Los mensajes publicitarios o de bien público combinan la transmisión de datos 
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.77
 **Contexto:** Durante un debate televisivo en Canal 12 de Montevideo, un participante exclama de forma imprevista: '¡Por favor, pido que me deje hablar! No me interrumpa más'.
 
@@ -216,7 +216,7 @@ En la comunicación real las funciones no se presentan aisladas. Al exigir silen
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.75
 **Contexto:** Leé atentamente el siguiente fragmento de una noticia del diario El País de Uruguay: 'Ayer se registró un récord histórico de temperatura en la ciudad de Mercedes, alcanzando los 42 °C a las tres de la tarde de acuerdo con el boletín oficial de Inumet'.
 
@@ -240,7 +240,7 @@ La función referencial se prioriza en el periodismo informativo y la ciencia, y
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.74
 **Contexto:** Mateo le envía un mensaje de texto por WhatsApp a Valentina para invitarla a tomar unos mates en el Prado de Montevideo, pero debido a la mala señal en la zona, el mensaje llega incompleto y con caracteres distorsionados.
 
@@ -264,7 +264,7 @@ Cualquier distorsión en la transmisión de un mensaje por el canal se cataloga 
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.79
 **Contexto:** Un afiche de seguridad vial de la Unasev en Uruguay muestra el dibujo de una llave de auto dentro de un vaso de cerveza tachado con una cruz roja gigante, acompañado del texto: 'Si tomás, no manejes'.
 
@@ -288,7 +288,7 @@ En la comunicación multimodal (afiches, videos), los códigos verbales y no ver
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.73
 **Contexto:** Leé la siguiente situación: Florencia asiste a una obra de teatro dramática en el Teatro Solís. Durante la función, uno de los actores mira fijamente a la platea y declama en tono solemne: '¿Quién determina dónde acaba el mar y dónde empieza la nostalgia?'.
 
@@ -312,7 +312,7 @@ La representación dramática teatral es un acto de comunicación complejo que d
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.72
 **Contexto:** En un correo formal dirigido a la Dirección General de Educación Secundaria de Uruguay, un docente escribe: 'Por medio de la presente, me dirijo a usted a efectos de solicitar una prórroga...'.
 
@@ -336,7 +336,7 @@ La adecuación es la propiedad textual que adapta el mensaje a la situación com
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.70
 **Contexto:** Estudiá el siguiente texto: 'A ver, muchachos, abran la ventana que el aire está pesado. Vos, Joaquín, alcanzame el borrador, por favor'.
 
@@ -360,7 +360,7 @@ La función apelativa o conativa se apoya gramaticalmente en el uso del imperati
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.71
 **Contexto:** Un lingüista uruguayo lee la pintada de un muro en el barrio Palermo de Montevideo que reza: 'La vida es lo que pasa mientras vos cebás el mate'.
 
@@ -384,7 +384,7 @@ El arte urbano y las leyendas populares funden la función poética con la ident
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.69
 **Contexto:** Durante una clase virtual, un estudiante apaga su micrófono y escribe en el chat de la plataforma: 'Profe, no le anda la cámara, se quedó congelada su imagen'.
 
@@ -408,7 +408,7 @@ Cuando un canal tecnológico falla, se genera un ruido físico. Los participante
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.68
 **Contexto:** Considerá un afiche publicitario de una marca de refresco que muestra la fotografía de una botella transpirada de frío sobre arena soleada y el eslogan: 'Sentí el sabor de tu libertad'.
 
@@ -432,7 +432,7 @@ El análisis crítico de los textos publicitarios devela cómo se solapan la fun
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.65
 **Contexto:** Leé detenidamente el siguiente fragmento de un discurso político pronunciado en un acto público en la Plaza Independencia de Montevideo: '¡Uruguayos, el porvenir no se escribe con promesas vacías, sino con el esfuerzo de cada uno de nosotros en las fábricas, en las escuelas y en los campos!'.
 
@@ -456,7 +456,7 @@ El discurso político es un género discursivo eminentemente persuasivo. Combina
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.63
 **Contexto:** Leé con atención esta cita del célebre lingüista Roman Jakobson: 'La diversidad de los mensajes lingüísticos no radica en el monopolio de una única función, sino en la diferente jerarquía de sus funciones'.
 
@@ -480,7 +480,7 @@ La teoría de Jakobson destaca que los mensajes reales son plurifuncionales. La 
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pragmática y comunicación
+**EJE:** Pragmática y comunicación
 **Expected_Success:** 0.60
 **Contexto:** Analizá la siguiente situación: Un docente en un liceo uruguayo escribe en el pizarrón: 'Mañana no habrá clase de apoyo por licencia reglamentaria', pero se retira sin firmar ni dar aviso verbal previo. Los estudiantes quedan desorientados porque no saben quién dejó la nota ni a qué grupo va dirigida.
 

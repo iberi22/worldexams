@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.85
 **Contexto:** Leé con atención esta descripción de la fisonomía exterior de un personaje: 'Tenía los cabellos grises y revueltos, los ojos pequeños y brillantes como dos brasas de carbón bajo unas cejas tupidas y un rostro surcado de profundas arrugas de viento'.
 
@@ -48,7 +48,7 @@ La prosopografía se concentra en el aspecto físico y exterior de las personas,
 ## Question 2 [D3]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.82
 **Contexto:** Leé con atención este pasaje sobre la personalidad de un docente del liceo: 'Era un hombre de paciencia infinita, de un temperamento melancólico pero siempre bondadoso con los gurises, incapaz de levantar la voz aun ante el mayor desorden del aula'.
 
@@ -72,7 +72,7 @@ La etopeya es el retrato moral de los personajes, desvelando su personalidad, ca
 ## Question 3 [D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.81
 **Contexto:** Leé con atención esta descripción de un paraje uruguayo: 'El viento soplaba con fuerza sobre las inmensas dunas de Cabo Polonio. Las casitas de colores, dispersas y rústicas, parecían aferrarse a la roca viva frente a un océano embravecido que rugía sin descanso'.
 
@@ -96,7 +96,7 @@ La topografía describe relieves, paisajes y paisajes urbanos o rurales. Activa 
 ## Question 4 [D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.79
 **Contexto:** Analizá los recursos lingüísticos de este texto: 'La calle empedrada de Colonia del Sacramento era estrecha, húmeda y silenciosa como un pasadizo al pasado colonial'.
 
@@ -120,7 +120,7 @@ Los pilares sintácticos del texto descriptivo son los adjetivos calificativos, 
 ## Question 5 [D5]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.77
 **Contexto:** Leé con atención esta caracterización de un personaje histórico uruguayo: 'Don José Gervasio Artigas vestía chaqueta azul con vivos rojos, botas altas de cuero gastado por las cabalgatas y llevaba un rostro curtido por el sol de la Banda Oriental, revelando en sus ojos firmes un carácter inquebrantable y una templanza de caudillo federal'.
 
@@ -144,7 +144,7 @@ El retrato literario amalgama lo exterior visible del cuerpo con lo interior inv
 ## Question 6 [D5]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** En una clase de Literatura de 6° de Bachillerato, los gurises debaten sobre el uso del tiempo verbal 'pretérito imperfecto' ('cantaba', 'vivía') en la descripción frente al 'pretérito perfecto simple' ('cantó', 'vivió') en la narración.
 
@@ -168,7 +168,7 @@ El pretérito imperfecto posee un aspecto durativo y no delimitado que suspende 
 ## Question 7 [D5]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.80
 **Contexto:** Imaginate que debés escribir la descripción de la Rambla de Montevideo para una guía de viajes de turismo cultural extranjero. Tu objetivo es generar una atmósfera de nostalgia y serenidad durante el atardecer rioplatense.
 
@@ -192,7 +192,7 @@ La descripción de ambientes (cronografía o topografía estilizada) descansa en
 ## Question 8 [D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.76
 **Contexto:** Leé con atención esta caracterización satírica de un personaje: 'Era un bicho de oficina con lentes de culo de botella clavados en una nariz de gancho, con dos orejas como pantallas que parecían captar los chismes del ministro antes de que fueran proferidos'.
 
@@ -216,7 +216,7 @@ La caricatura utiliza la hipérbole (exageración desmedida: 'lentes de culo de 
 ## Question 9 [D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.74
 **Contexto:** Un profesor de Lengua en el Liceo N° 1 de Salto les pide a los estudiantes que redacten una 'cronografía'.
 
@@ -240,7 +240,7 @@ La cronografía nos permite capturar el espíritu de un tiempo (un instante, un 
 ## Question 10 [D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención este pasaje descriptivo:
 'La vieja estación de trenes de Peñarol lucía abandonada, pero conservaba un aire señorial. Las vías de hierro oxidado, cubiertas por malezas salvajes, se estiraban hacia el horizonte como hilos mudos de un tejido que ya nadie quería continuar'.
@@ -265,7 +265,7 @@ Las comparaciones y metáforas son recursos clave del texto descriptivo literari
 ## Question 11 [D7]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.78
 **Contexto:** Analizá la descripción del dolor físico de Alicia en 'El almohadón de plumas':
 'Alicia pasó todo el día en su dormitorio, sumergida en un sopor denso del que solo despertaba para delirar. Su rostro lucía de una palidez de cera, con unas ojeras violáceas que recortaban sus ojos hundidos y apagados'.
@@ -290,7 +290,7 @@ La adjetivación en la descripción trágica cumple una función semiótica de p
 ## Question 12 [D7]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.72
 **Contexto:** Leé con atención el siguiente pasaje de topografía rural del interior uruguayo:
 'El campo ondulado de Tacuarembó se perdía en un oleaje eterno de cuchillas de pasto verde seco. A lo lejos, las siluetas de unos coronillas solitarios quebraban la monotonía de la penillanura, estirando sus ramas nudosas hacia un cielo plomizo de lluvia inminente'.
@@ -315,7 +315,7 @@ La topografía literaria de la penillanura uruguaya (característica de las cuch
 ## Question 13 [D7]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.71
 **Contexto:** Un lingüista analiza dos descripciones de una misma casa de Montevideo: la primera es de una novela policial de misterio; la segunda figura en el aviso clasificado de una inmobiliaria que desea vender la propiedad.
 
@@ -339,7 +339,7 @@ La tipología textual descriptiva se amolda a su función pragmática. Dividimos
 ## Question 14 [D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.70
 **Contexto:** Leé con atención el siguiente fragmento:
 'El patio del liceo viejo tenía baldosas ajedrezadas, negras y blancas, comidas por la humedad del invierno de Paysandú. Un aljibe ciego de hierro fundido ocupaba el centro, rodeado de malvones resecos'.
@@ -364,7 +364,7 @@ En la literatura de la evocación o el recuerdo, la descripción de interiores g
 ## Question 15 [D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.69
 **Contexto:** En una clase sobre redacción literaria en el Liceo de Florida, se debate sobre la economía expresiva en la descripción.
 
@@ -388,7 +388,7 @@ Describir de manera eficaz es seleccionar de forma inteligente. El arte del text
 ## Question 16 [D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.67
 **Contexto:** Leé con atención esta descripción científica de una especie arbórea autóctona de Uruguay:
 'El ceibo (Erythrina crista-galli) es un árbol de porte mediano, de tronco tortuoso e irregular, con corteza suberosa y agrietada. Su inflorescencia es en racimos, con flores de color rojo carmín brillante'.
@@ -413,7 +413,7 @@ La descripción científica de ceibos busca representar al referente de forma un
 ## Question 17 [D9]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.66
 **Contexto:** Leé detenidamente este fragmento del retrato físico y moral de Alicia en 'El almohadón de plumas':
 'Era rubia, angelical y tímida. Vivía en una constante expectativa de la que solo despertaba para esperar el regreso de Jordán. Su vida se apagaba en silencio en aquella casa de mármol frío, de columnas gélidas y patios mudos donde sus pasos resonaban como si caminara en un templo desierto'.
@@ -438,7 +438,7 @@ En la literatura de horror rioplatense (gótico rioplatense), el espacio domést
 ## Question 18 [D9]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.64
 **Contexto:** Leé atentamente esta descripción histórica de la ciudad de Montevideo colonial extraída de un ensayo literario:
 'Un Montevideo de murallas espesas de piedra granítica, de portones de hierro que chirriaban al anochecer clausurando la vida civil ante el miedo al infiel y a las fieras de la campaña. Un Montevideo de aljibes húmedos y calles de barro seco que aprisionaba a sus pobladores bajo la modorra de las campanas del cabildo'.
@@ -463,7 +463,7 @@ La cronografía lograda funde la materialidad de la arquitectura histórica de M
 ## Question 19 [D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.62
 **Contexto:** Evaluá de forma crítica la viabilidad pedagógica de este postulado sobre la tipología textual descriptiva: 'Describir es representar la realidad objetiva tal como es, por lo tanto, toda descripción literaria debe evaluarse según su exactitud científica con respecto al referente real'.
 
@@ -487,7 +487,7 @@ La descripción literaria es un acto de recreación lingüística subjetiva y se
 ## Question 20 [D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión de textos
+**EJE:** Comprensión de textos
 **Expected_Success:** 0.61
 **Contexto:** Analizá la siguiente situación escolar: En el Liceo de Florida, los estudiantes analizan el retrato de un caudillo histórico. Un alumno afirma: 'La descripción física del caudillo es innecesaria para el libro de historia; solo importan las leyes que firmó'.
 
