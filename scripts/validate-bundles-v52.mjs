@@ -68,6 +68,14 @@ function expectedCount(file, fm) {
   return QUESTION_COUNTS.get(grade);
 }
 
+function countryCodeOf(file, fm) {
+  const m = path.basename(file).match(/^([A-Z]{2})-/);
+  if (m) return m[1];
+  const c = String(fm?.country || '').trim().toLowerCase();
+  if (c === 'colombia') return 'CO';
+  return null;
+}
+
 function rel(file) {
   return path.relative(ROOT, file).replace(/\\/g, '/');
 }
@@ -133,6 +141,12 @@ function validateFile(file) {
     errors.push('Forbidden all/none/multiple-combination option detected');
   }
 
+  const cc = countryCodeOf(file, fm);
+  const isCO = cc === 'CO';
+  if (!isCO && /icfes|saber\s?11|dba men/i.test(String(fm.alignment || ''))) {
+    errors.push('alignment must reference the country exam entity, not ICFES/Saber/DBA (Colombia-only brands)');
+  }
+
   const questions = questionBlocks(content);
   if (expected && questions.length !== expected) errors.push(`Expected ${expected} questions, found ${questions.length}`);
 
@@ -143,7 +157,13 @@ function validateFile(file) {
     if (!/^D\d+(?:-D?\d+)?$/.test(q.difficulty)) errors.push(`${prefix}: invalid difficulty label`);
     if (!/\*\*ID:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ID`);
     if (!/\*\*Bloom:\*\*\s*(Remember|Understand|Apply|Analyze|Evaluate)/.test(q.text)) errors.push(`${prefix}: invalid Bloom`);
-    if (!/\*\*ICFES:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ICFES/eje field`);
+    if (isCO) {
+      if (!/\*\*ICFES:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ICFES field (Colombia exam axis)`);
+      if (/\*\*EJE:\*\*/.test(q.text)) errors.push(`${prefix}: use ICFES, not EJE, for Colombia`);
+    } else {
+      if (/\*\*ICFES:\*\*/.test(q.text)) errors.push(`${prefix}: ICFES is a Colombia-only brand; use **EJE:**`);
+      if (!/\*\*EJE:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing EJE field (exam axis)`);
+    }
     if (!/\*\*Expected_Success:\*\*\s*0\.\d+/.test(q.text)) errors.push(`${prefix}: missing Expected_Success`);
     if (!/\*\*Contexto:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing Contexto`);
     if (/\*\*Context:\*\*/.test(q.text)) errors.push(`${prefix}: use Contexto, not Context`);
