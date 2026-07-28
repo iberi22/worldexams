@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.85
 **Contexto:** Un docente en Santa Ana explica la clasificación de los números reales a sus estudiantes.
 
@@ -41,7 +41,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 2 [D3]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Nacional de San Salvador (INSS) analiza las propiedades del cero.
 
@@ -60,7 +60,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 3 [D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.75
 **Contexto:** Durante un taller académico en San Miguel, se debate sobre la inclusión de conjuntos.
 
@@ -79,7 +79,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 4 [D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.75
 **Contexto:** Una ingeniera civil en Soyapango necesita clasificar coeficientes estructurales.
 
@@ -98,7 +98,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 5 [D5]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.65
 **Contexto:** Un analista de tráfico en Santa Tecla estudia el flujo de vehículos usando intervalos de tiempo.
 
@@ -117,7 +117,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 6 [D5]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.71
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 6.
 
@@ -136,7 +136,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 7 [D5]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.67
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 7.
 
@@ -155,7 +155,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 8 [D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.63
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 8.
 
@@ -174,7 +174,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 9 [D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.59
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 9.
 
@@ -193,7 +193,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 10 [D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.55
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 10.
 
@@ -212,7 +212,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 11 [D7]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.51
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 11.
 
@@ -231,7 +231,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 12 [D7]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.47
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 12.
 
@@ -250,7 +250,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 13 [D7]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.43
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 13.
 
@@ -269,7 +269,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 14 [D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.39
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 14.
 
@@ -288,7 +288,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 15 [D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.35
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 15.
 
@@ -307,7 +307,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 16 [D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.31
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 16.
 
@@ -326,7 +326,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 17 [D9]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.27
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 17.
 
@@ -345,7 +345,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 18 [D9]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.23
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 18.
 
@@ -364,7 +364,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 19 [D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.19
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 19.
 
@@ -383,7 +383,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ## Question 20 [D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico
+**EJE:** Pensamiento Numérico
 **Expected_Success:** 0.15
 **Contexto:** Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 20.
 
