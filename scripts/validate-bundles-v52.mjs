@@ -143,7 +143,7 @@ function validateFile(file) {
     if (!/^D\d+(?:-D?\d+)?$/.test(q.difficulty)) errors.push(`${prefix}: invalid difficulty label`);
     if (!/\*\*ID:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ID`);
     if (!/\*\*Bloom:\*\*\s*(Remember|Understand|Apply|Analyze|Evaluate)/.test(q.text)) errors.push(`${prefix}: invalid Bloom`);
-    if (!/\*\*ICFES:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ICFES/eje field`);
+    if (!/\*\*(?:ICFES|EJE):\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ICFES/eje field`);
     if (!/\*\*Expected_Success:\*\*\s*0\.\d+/.test(q.text)) errors.push(`${prefix}: missing Expected_Success`);
     if (!/\*\*Contexto:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing Contexto`);
     if (/\*\*Context:\*\*/.test(q.text)) errors.push(`${prefix}: use Contexto, not Context`);
