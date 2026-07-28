@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.67
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -48,7 +48,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v2`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.65
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -74,7 +74,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.64
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -100,7 +100,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.62
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -126,7 +126,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.61
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -152,7 +152,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.59
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -178,7 +178,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.58
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -204,7 +204,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.56
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -230,7 +230,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.55
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -256,7 +256,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.53
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -282,7 +282,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v11`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.52
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -308,7 +308,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v12`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.50
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -334,7 +334,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v13`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.49
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -360,7 +360,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v14`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.47
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -386,7 +386,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v15`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.46
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -412,7 +412,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v16`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.44
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -438,7 +438,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v17`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.43
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -464,7 +464,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v18`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.41
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -490,7 +490,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v19`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.40
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 
@@ -516,7 +516,7 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W09-tema-w09-001-MASTERY-v20`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.38
 **Contexto:** En la lección de gramática y análisis morfosintáctico de Grado 11 en El Salvador, se expone sobre las funciones de la oración simple.
 

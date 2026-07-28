@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.72
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -48,7 +48,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v2`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.71
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -74,7 +74,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.69
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -100,7 +100,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.68
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -126,7 +126,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.67
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -152,7 +152,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.65
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -178,7 +178,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.64
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -204,7 +204,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.62
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -230,7 +230,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.60
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -256,7 +256,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.59
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -282,7 +282,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v11`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.57
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -308,7 +308,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v12`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.56
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -334,7 +334,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v13`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.54
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -360,7 +360,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v14`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.53
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -386,7 +386,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v15`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.52
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -412,7 +412,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v16`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.50
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -438,7 +438,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v17`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.48
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -464,7 +464,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v18`
 **Bloom:** Remember
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.47
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -490,7 +490,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v19`
 **Bloom:** Understand
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.46
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 
@@ -516,7 +516,7 @@ El ejercicio metodológico propuesto se enfoca exactamente en el desarrollo y ev
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W05-tema-w05-001-MASTERY-v20`
 **Bloom:** Apply
-**ICFES:** Lectura
+**EJE:** Lectura
 **Expected_Success:** 0.44
 **Contexto:** En el desarrollo de habilidades de comprensión lectora (literal e inferencial) en Grado 11 en El Salvador, se evalúa el siguiente ejercicio.
 

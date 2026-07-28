@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.80
 **Contexto:** En una clase de lenguaje del Instituto Nacional Francisco Menéndez (INFRAMEN) en San Salvador, se discute el modelo de comunicación de Roman Jakobson.
 
@@ -48,7 +48,7 @@ El código es el conjunto de signos y reglas que permite formular y comprender e
 ## Question 2 [D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.75
 **Contexto:** Gabriela lee un editorial de La Prensa Gráfica sobre las exportaciones de café salvadoreño en su casa de Santa Tecla.
 
@@ -74,7 +74,7 @@ El receptor es el sujeto destinatario que recibe y decodifica el mensaje lingü�
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.78
 **Contexto:** Un oficial de tránsito levanta una bandera roja en una calle transitada del centro de San Salvador, obligando a Carlos a detener su vehículo.
 
@@ -100,7 +100,7 @@ La bandera roja actúa como un código no lingüístico visual estandarizado par
 ## Question 4 [D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.70
 **Contexto:** En una conversación informal en San Miguel, José utiliza modismos y caliche salvadoreño con su abuelo.
 
@@ -126,7 +126,7 @@ El uso de una variante compartida optimiza la comprensión y el flujo comunicati
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v5`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.65
 **Contexto:** Durante una asamblea estudiantil en Ahuachapán, un alumno con discapacidad auditiva no logra comprender la exposición de su compañero debido a la falta de un intérprete de señas.
 
@@ -152,7 +152,7 @@ Las barreras fisiológicas se originan en limitaciones de los órganos sensorial
 ## Question 6 [D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.62
 **Contexto:** Un ciudadano muy irritado le grita al recepcionista de la alcaldía de Soyapango. El recepcionista, asustado por el tono agresivo, se bloquea y no procesa la solicitud.
 
@@ -178,7 +178,7 @@ Las barreras psicológicas provienen de actitudes, prejuicios o estados emociona
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.60
 **Contexto:** En una llamada de telefonía celular entre Chalatenango y San Salvador, la señal se corta constantemente debido a una fuerte tormenta eléctrica.
 
@@ -204,7 +204,7 @@ El ruido de canal es toda perturbación material que afecta la transmisión de l
 ## Question 8 [D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.58
 **Contexto:** Un anuncio espectacular en la carretera a Surf City muestra la imagen de una pupusa humeante con la frase: 'El sabor de nuestra patria'.
 
@@ -230,7 +230,7 @@ El referente es la realidad, objeto o concepto del mundo real al que alude el me
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v9`
 **Bloom:** Evaluate
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.55
 **Contexto:** Durante un debate en el Instituto Nacional de Santa Ana (INSA), un expositor realiza gestos firmes con sus manos abiertas y mantiene contacto visual directo con el público.
 
@@ -256,7 +256,7 @@ La kinésica se enfoca en el lenguaje corporal, incluyendo gestos, miradas y exp
 ## Question 10 [D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.54
 **Contexto:** Ana le confirma a su profesor por correo electrónico que ha recibido las indicaciones para su proyecto escolar en Cojutepeque.
 
@@ -282,7 +282,7 @@ La retroalimentación permite cerrar el circuito de la comunicación asegurando 
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.52
 **Contexto:** Un analista político en San Salvador señala que un orador mantiene una distancia física excesiva con los ciudadanos en un evento público en San Vicente.
 
@@ -308,7 +308,7 @@ La proxémica aborda la estructuración del espacio interpersonal y cómo las di
 ## Question 12 [D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.50
 **Contexto:** En una obra literaria salvadoreña, dos hermanos se hablan con formalidad extrema, utilizando 'usted' en lugar del 'vos' de San Salvador.
 
@@ -334,7 +334,7 @@ La adecuación requiere ajustar el registro lingüístico (formal, informal) de 
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.48
 **Contexto:** Un diseñador de San Salvador planea lanzar una campaña digital y realiza el proceso mental de seleccionar y combinar signos lingüísticos y visuales para actuar.
 
@@ -360,7 +360,7 @@ La codificación es la actividad del emisor consistente en dar forma física a s
 ## Question 14 [D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.46
 **Contexto:** Un profesor explica el concepto del signo lingüístico de Ferdinand de Saussure en el Instituto Nacional de Sonsonate.
 
@@ -386,7 +386,7 @@ El signo lingüístico une de forma indisoluble un plano de expresión formal (s
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.45
 **Contexto:** En la oración: 'Carlos depositó el cheque en el banco de la plaza de Santa Ana', se comprende que 'banco' es una entidad financiera debido a las palabras vecinas.
 
@@ -412,7 +412,7 @@ El cotexto o contexto lingüístico provee las pistas necesarias para desambigua
 ## Question 16 [D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.42
 **Contexto:** Una empresa en San Salvador introduce un sistema de chat en vivo con un bot conversacional interactivo para atender consultas sobre servicios.
 
@@ -438,7 +438,7 @@ Los sistemas automatizados de chat buscan agilizar la retroalimentación, convir
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.40
 **Contexto:** Durante un análisis de medios de comunicación en San Salvador, se discute el impacto de la desinformación en plataformas digitales.
 
@@ -464,7 +464,7 @@ El éxito de la desinformación reside en su capacidad de copiar los códigos vi
 ## Question 18 [D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.38
 **Contexto:** Un lingüista salvadoreño estudia el caliche popular en el mercado de San Salvador y registra el uso del vocablo 'chero'.
 
@@ -490,7 +490,7 @@ La mutabilidad permite que los signos lingüísticos evolucionen y se adapten a 
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v19`
 **Bloom:** Evaluate
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.35
 **Contexto:** En una prueba de aptitud en la Universidad de El Salvador (UES), se propone interpretar un poema de Alfredo Espino desde el punto de vista de la comunicación estética.
 
@@ -516,7 +516,7 @@ La comunicación estética literaria se produce de manera diferida, requiriendo 
 ## Question 20 [D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v20`
 **Bloom:** Analyze
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.32
 **Contexto:** Un ensayo analiza el uso de símbolos nacionales (como el ave Torogoz) en la publicidad comercial de empresas alimenticias de San Salvador.
 

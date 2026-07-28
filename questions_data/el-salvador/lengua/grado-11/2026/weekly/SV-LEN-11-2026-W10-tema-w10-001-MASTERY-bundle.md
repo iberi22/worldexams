@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.66
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -48,7 +48,7 @@ El dominio de palabras agudas es fundamental para lograr una expresión escrita 
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v2`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.64
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -74,7 +74,7 @@ El dominio de palabras graves es fundamental para lograr una expresión escrita 
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.62
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -100,7 +100,7 @@ El dominio de palabras esdrújulas es fundamental para lograr una expresión esc
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.61
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -126,7 +126,7 @@ El dominio de palabras sobresdrújulas es fundamental para lograr una expresión
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.60
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -152,7 +152,7 @@ El dominio de tilde diacrítica es fundamental para lograr una expresión escrit
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.58
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -178,7 +178,7 @@ El dominio de tildación de hiato acentual es fundamental para lograr una expres
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.57
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -204,7 +204,7 @@ El dominio de conectores causales es fundamental para lograr una expresión escr
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.55
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -230,7 +230,7 @@ El dominio de conectores adversativos es fundamental para lograr una expresión 
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.54
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -256,7 +256,7 @@ El dominio de conectores consecutivos es fundamental para lograr una expresión 
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.52
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -282,7 +282,7 @@ El dominio de coma vocativa es fundamental para lograr una expresión escrita cl
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v11`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.51
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -308,7 +308,7 @@ El dominio de coma elíptica es fundamental para lograr una expresión escrita c
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v12`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.49
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -334,7 +334,7 @@ El dominio de uso de los dos puntos es fundamental para lograr una expresión es
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v13`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.48
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -360,7 +360,7 @@ El dominio de uso del punto y coma es fundamental para lograr una expresión esc
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v14`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.46
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -386,7 +386,7 @@ El dominio de conectores explicativos es fundamental para lograr una expresión 
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v15`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.45
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -412,7 +412,7 @@ El dominio de punto y seguido es fundamental para lograr una expresión escrita 
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v16`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.43
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -438,7 +438,7 @@ El dominio de tildación en adverbios en -mente es fundamental para lograr una e
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v17`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.42
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -464,7 +464,7 @@ El dominio de uso de las comillas es fundamental para lograr una expresión escr
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v18`
 **Bloom:** Remember
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.40
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -490,7 +490,7 @@ El dominio de uso de los paréntesis es fundamental para lograr una expresión e
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v19`
 **Bloom:** Understand
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.39
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 
@@ -516,7 +516,7 @@ El dominio de conectores temporales es fundamental para lograr una expresión es
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v20`
 **Bloom:** Apply
-**ICFES:** Gramática
+**EJE:** Gramática
 **Expected_Success:** 0.37
 **Contexto:** En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.
 

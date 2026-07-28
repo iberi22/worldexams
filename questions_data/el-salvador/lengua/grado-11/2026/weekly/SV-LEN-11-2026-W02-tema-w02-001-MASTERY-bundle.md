@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.68
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -48,7 +48,7 @@ Este ejemplo práctico ilustra cómo opera conativa o apelativa dentro del circu
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v2`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.67
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -74,7 +74,7 @@ Este ejemplo práctico ilustra cómo opera metalingüística dentro del circuito
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.65
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -100,7 +100,7 @@ Este ejemplo práctico ilustra cómo opera expresiva o emotiva dentro del circui
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.64
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -126,7 +126,7 @@ Este ejemplo práctico ilustra cómo opera referencial o denotativa dentro del c
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.62
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -152,7 +152,7 @@ Este ejemplo práctico ilustra cómo opera fática o de contacto dentro del circ
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.61
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -178,7 +178,7 @@ Este ejemplo práctico ilustra cómo opera poética o estética dentro del circu
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.59
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -204,7 +204,7 @@ Este ejemplo práctico ilustra cómo opera propaganda cívica dentro del circuit
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.58
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -230,7 +230,7 @@ Este ejemplo práctico ilustra cómo opera editorial periodístico dentro del ci
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.56
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -256,7 +256,7 @@ Este ejemplo práctico ilustra cómo opera estereotipos de género dentro del ci
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.55
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -282,7 +282,7 @@ Este ejemplo práctico ilustra cómo opera interactividad en directo dentro del 
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v11`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.53
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -308,7 +308,7 @@ Este ejemplo práctico ilustra cómo opera persuasión publicitaria dentro del c
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v12`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.52
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -334,7 +334,7 @@ Este ejemplo práctico ilustra cómo opera manipulación sensacionalista dentro 
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v13`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.50
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -360,7 +360,7 @@ Este ejemplo práctico ilustra cómo opera metalingüística diacrítica dentro 
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v14`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.49
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -386,7 +386,7 @@ Este ejemplo práctico ilustra cómo opera apelativa en autopista dentro del cir
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v15`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.47
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -412,7 +412,7 @@ Este ejemplo práctico ilustra cómo opera poética en versos dentro del circuit
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v16`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.46
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -438,7 +438,7 @@ Este ejemplo práctico ilustra cómo opera fática en telefonía dentro del circ
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v17`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.44
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -464,7 +464,7 @@ Este ejemplo práctico ilustra cómo opera referencial económica dentro del cir
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v18`
 **Bloom:** Remember
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.43
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -490,7 +490,7 @@ Este ejemplo práctico ilustra cómo opera expresiva lírica dentro del circuito
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v19`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.41
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 
@@ -516,7 +516,7 @@ Este ejemplo práctico ilustra cómo opera publicidad algorítmica dentro del ci
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v20`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**EJE:** Pragmática
 **Expected_Success:** 0.40
 **Contexto:** En el estudio de las funciones de la lengua y los medios de comunicación en bachillerato de El Salvador, se revisa este caso.
 

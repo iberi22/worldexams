@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v1`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.68
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -48,7 +48,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v2`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.67
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -74,7 +74,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.65
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -100,7 +100,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.64
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -126,7 +126,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v5`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.62
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -152,7 +152,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.61
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -178,7 +178,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.59
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -204,7 +204,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.58
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -230,7 +230,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v9`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.56
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -256,7 +256,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v10`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.55
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -282,7 +282,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.53
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -308,7 +308,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.52
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -334,7 +334,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.50
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -360,7 +360,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.49
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -386,7 +386,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v15`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.47
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -412,7 +412,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v16`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.46
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -438,7 +438,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v17`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.44
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -464,7 +464,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v18`
 **Bloom:** Understand
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.43
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -490,7 +490,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v19`
 **Bloom:** Apply
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.41
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 
@@ -516,7 +516,7 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W07-tema-w07-001-MASTERY-v20`
 **Bloom:** Analyze
-**ICFES:** Literatura
+**EJE:** Literatura
 **Expected_Success:** 0.40
 **Contexto:** En la clase de literatura del Siglo de Oro español en Grado 11 en El Salvador, se analiza el desarrollo de la novela y el teatro barroco.
 

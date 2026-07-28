@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v1`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.70
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -48,7 +48,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v2`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.69
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -74,7 +74,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.67
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -100,7 +100,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.66
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -126,7 +126,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v5`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.65
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -152,7 +152,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.63
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -178,7 +178,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.61
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -204,7 +204,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.60
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -230,7 +230,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v9`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.58
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -256,7 +256,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v10`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.57
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -282,7 +282,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.55
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -308,7 +308,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.54
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -334,7 +334,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.52
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -360,7 +360,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.51
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -386,7 +386,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v15`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.49
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -412,7 +412,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v16`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.48
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -438,7 +438,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v17`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.46
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -464,7 +464,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v18`
 **Bloom:** Understand
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.45
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -490,7 +490,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v19`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.43
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 
@@ -516,7 +516,7 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W03-tema-w03-001-MASTERY-v20`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.42
 **Contexto:** En la unidad de tipologías textuales narrativas y descriptivas de Grado 11 en El Salvador, se analiza el siguiente fragmento.
 

@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v1`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.71
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -48,7 +48,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 2 [D3]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v2`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.70
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -74,7 +74,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 3 [D3]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.68
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -100,7 +100,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 4 [D3]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.67
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -126,7 +126,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 5 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.66
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -152,7 +152,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 6 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.64
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -178,7 +178,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 7 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.62
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -204,7 +204,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 8 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v8`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.61
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -230,7 +230,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 9 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v9`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.59
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -256,7 +256,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 10 [D5]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.58
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -282,7 +282,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 11 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.56
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -308,7 +308,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 12 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v12`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.55
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -334,7 +334,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 13 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.53
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -360,7 +360,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 14 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v14`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.52
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -386,7 +386,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 15 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v15`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.51
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -412,7 +412,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 16 [D7]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.49
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -438,7 +438,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 17 [D9]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v17`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.47
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -464,7 +464,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 18 [D9]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.46
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -490,7 +490,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 19 [D9]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.45
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
@@ -516,7 +516,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 ## Question 20 [D9]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Textual
+**EJE:** Textual
 **Expected_Success:** 0.43
 **Contexto:** En la práctica de análisis de textos argumentativos y expositivos en el bachillerato en El Salvador, se estudia la siguiente muestra.
 
