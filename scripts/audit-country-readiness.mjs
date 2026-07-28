@@ -15,7 +15,7 @@ const COUNTRIES = [
   { code: 'PE', folder: 'peru', name: 'Peru' },
   { code: 'EC', folder: 'ecuador', name: 'Ecuador' },
   { code: 'PA', folder: 'panama', name: 'Panama' },
-  { code: 'CR', folder: 'costa-rica', name: 'Costa Rica' },
+  { code: 'CR', folder: 'costarica', name: 'Costa Rica' },
   { code: 'GT', folder: 'guatemala', name: 'Guatemala' },
   { code: 'DO', folder: 'dominican_republic', name: 'Republica Dominicana' },
   { code: 'SV', folder: 'el-salvador', name: 'El Salvador' },
@@ -251,14 +251,25 @@ function validateStrictBundle(file) {
   const questions = questionBlocks(content);
   if (expected && questions.length !== expected) errors.push(`Expected ${expected} questions, found ${questions.length}`);
 
-  questions.forEach((question, index) => {
+    const isCO = country?.code === 'CO';
+    if (!isCO && /icfes|saber\s?11|dba men/i.test(String(fm.alignment || ''))) {
+      errors.push('alignment must reference the country exam entity, not ICFES/Saber/DBA (Colombia-only brands)');
+    }
+
+    questions.forEach((question, index) => {
     const prefix = `Question ${index + 1}`;
     if (question.label !== 'Question') errors.push(`${prefix}: heading must use "Question"`);
     if (question.number !== index + 1) errors.push(`${prefix}: question numbering is not sequential`);
     if (!/^D\d+(?:-D?\d+)?$/.test(question.difficulty)) errors.push(`${prefix}: invalid difficulty label`);
     if (!/\*\*ID:\*\*\s*\S/.test(question.text)) errors.push(`${prefix}: missing ID`);
     if (!/\*\*Bloom:\*\*\s*(Remember|Understand|Apply|Analyze|Evaluate)/.test(question.text)) errors.push(`${prefix}: invalid Bloom`);
-    if (!/\*\*ICFES:\*\*\s*\S/.test(question.text)) errors.push(`${prefix}: missing ICFES/eje field`);
+    if (isCO) {
+      if (!/\*\*ICFES:\*\*\s*\S/.test(question.text)) errors.push(`${prefix}: missing ICFES field (Colombia exam axis)`);
+      if (/\*\*EJE:\*\*/.test(question.text)) errors.push(`${prefix}: use ICFES, not EJE, for Colombia`);
+    } else {
+      if (/\*\*ICFES:\*\*/.test(question.text)) errors.push(`${prefix}: ICFES is a Colombia-only brand; use **EJE:**`);
+      if (!/\*\*EJE:\*\*\s*\S/.test(question.text)) errors.push(`${prefix}: missing EJE field (exam axis)`);
+    }
     if (!/\*\*Expected_Success:\*\*\s*0\.\d+/.test(question.text)) errors.push(`${prefix}: missing Expected_Success`);
     if (!/\*\*Contexto:\*\*\s*\S/.test(question.text)) errors.push(`${prefix}: missing Contexto`);
     if (/\*\*Context:\*\*/.test(question.text)) errors.push(`${prefix}: use Contexto, not Context`);

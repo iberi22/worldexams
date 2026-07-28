@@ -1,45 +1,98 @@
-# MX - Mexico Bundle Creation Rules
+# MX - Mexico Bundle Creation Rules (v5.2)
 
 ## Official Exam Framework
-- **Exam:** EXANI-II (Examen Nacional de Ingreso a la Educación Superior)
-- **Agency:** CENEVAL (Centro Nacional de Evaluación para la Educación Superior)
-- **Subjects:** Comprensión Lectora, Redacción Indirecta, Pensamiento Matemático, Inglés (diagnóstico)
-- **Grade:** 12 (Último año de preparatoria / Educación Media Superior)
-- **Established:** 2022 (SEP Plan de Estudios — Marco Curricular Común); EXANI-II itself is older
+- **Exam:** EXANI-II (ingreso a educación superior); also COMIPEMS (EMS CDMX/ZMVM); school assessments vary (PLANEA historical / NEM diagnostics)
+- **Agency:** CENEVAL (EXANI) · SEP (Secretaría de Educación Pública) · NEM (Nueva Escuela Mexicana)
+- **Grade:** Primaria 1°–6°, Secundaria 1°–3° (G7–G9), Media Superior 1°–3° (often WorldExams `grado-10`–`grado-12`; weekly packs commonly use `grado-11` for EMS)
+- **Established:** EXANI long-running; SEP Plan de Estudios / MCCEMS updates under NEM (2022+)
+- **Reference:** https://www.ceneval.edu.mx · https://www.gob.mx/sep
+- **Curriculum notes:** `docs/specs/curriculums/mexico/README.md`
 - **Bundles Directory:** `questions_data/mexico/`
+- **Authority:** `AGENTS.md` Bundle Protocol v5.2 · `npm run validate`
 
-## Curriculum Alignment
-### EXANI-II (CENEVAL) - Mexico
-- **Core Transversal (65%):**
-  - Comprensión Lectora (30 questions)
-  - Redacción Indirecta (30 questions)
-  - Pensamiento Matemático (30 questions) - Aritmética, Álgebra, Estadística, Probabilidad, Geometría, Trigonometría
-- **Modular (35% - 24 questions each):**
-  - 16 modules: Administración, Aritmética, Biología, Cálculo Diferencial e Integral, Ciencias de la Salud, Ciencias Experimentales, Ciencias Sociales, Derecho, Economía, Filosofía, Física, Historia, Literatura, Matemáticas Financieras, Probabilidad y Estadística, Psicología, Química
-- **Diagnóstico:** Inglés (30 questions, not scored)
-- **Format:** 168 questions + 20 pilot, 4.5 hours
-- **Bundle Strategy:** Create 3-5 bundles per transversal subject + modular bundles for high-demand careers
+## Subjects (folder keys)
+| Area | Subject key | Notes |
+|------|-------------|-------|
+| Matemáticas / Pensamiento Matemático | `matematicas` | Core transversal EXANI |
+| Lengua / Español | `lengua` | Redacción / lengua escolar |
+| Lectura Crítica / Comprensión Lectora | `lectura-critica` | EXANI transversal |
+| Ciencias Naturales | `ciencias-naturales` | Biología, física, química |
+| Formación Cívica / Sociales | `sociales-ciudadanas` | Historia, civismo |
+| Inglés | `ingles` | Diagnóstico EXANI (often unscored) |
 
-## Bundle Directory Structure
+## Curriculum Alignment (SEP/NEM + EXANI stubs)
+
+### Grado 6° (fin de primaria)
+- **Matemáticas:** Números naturales y decimales, fracciones, perímetro/área, tablas y gráficas.
+- **Lengua:** Comprensión literal; tipologías narrativas e informativas; ortografía básica.
+- **Ciencias:** Ecosistemas mexicanos, cuerpo humano, materia y energía introductoria.
+- **Civismo:** Derechos de niñas/niños, convivencia, símbolos patrios (sin adoctrinamiento).
+
+### Grado 9° (3° secundaria)
+- **Matemáticas:** Proporcionalidad, ecuaciones lineales, geometría, probabilidad introductoria.
+- **Lengua:** Argumentación breve, textos discontinuos, gramática funcional.
+- **Ciencias:** Célula, reacciones químicas básicas, movimiento; salud ambiental.
+- **Historia:** México independiente / siglo XX (nivel secundaria; hechos verificables).
+
+### Grado 11° (Media Superior — EXANI-II prep)
+- **Pensamiento Matemático:** Aritmética, álgebra, geometría, trigonometría, estadística, probabilidad.
+- **Comprensión Lectora:** Textos continuos/discontinuos, inferencias, vocabulario en contexto.
+- **Redacción Indirecta:** Cohesión, coherencia, puntuación, concordancia.
+- **Módulos electivos (alta demanda):** Biología, Química, Física, Historia, Cálculo, Economía, etc.
+- Do **not** claim W01–W40 is the official SEP ciclo escolar calendar.
+
+### EXANI-II structure (generation awareness)
+- Transversales (~65%): Comprensión Lectora, Redacción Indirecta, Pensamiento Matemático.
+- Módulos (~35%): career-specific blocks.
+- Inglés diagnóstico often present but not always scored — treat as optional packs.
+
+## Canonical Path (Protocol v5.2)
+
+```text
+questions_data/mexico/{subject}/grado-{N}/2026/weekly/
+  MX-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle.md
 ```
-questions_data/mexico/
-  ├── grado-11/
-  │   ├── periodo-1/
-  │   │   ├── SUBJECT/
-  │   │   │   └── CODE-SUBJ-11-P1-TOPIC-NNN-MASTERY-bundle.md
-  │   │   └── ...
-  │   └── ...
-  └── ...
+
+Example:
+
+```text
+questions_data/mexico/matematicas/grado-11/2026/weekly/
+  MX-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle.md
 ```
+
+Obsolete: `grado-11/periodo-1/...`, root `grado-11/` without `2026/weekly/`, and `MX-*-P1-*` IDs — do not use for new weekly generation.
+
+## Calendar Notes (W ↔ periods)
+- SEP **ciclo escolar** typically runs ~**mid-August → early July** (not calendar-year aligned).
+- Common EMS/secundaria organization: **3 periodos** or school-defined blocks within the ciclo.
+- Stub mapping (internal only): W01–W14 ≈ Periodo 1 (Aug–Nov), W15–W28 ≈ Periodo 2 (Dec–Mar), W29–W40 ≈ Periodo 3 (Mar–Jun).
+- EXANI-II application windows vary by institution/process (often spring for many licenciatura admissions); never invent Exact CENEVAL dates in stems.
+- Sources: `docs/specs/curriculums/mexico/README.md`; AGENTS.md Mexico calendar note; stubs in `config/countries.config.ts`.
 
 ## Language & Cultural Rules
-- Questions must use Mexico-specific spelling and terminology
-- Use local cultural references in contexts
-- Never reference ICFES or Colombian exam names; use the country's own exam name
-- All questions must be in standard Spanish 
+- Mexican Spanish (tú; ustedes plural).
+- Currency: Peso mexicano (**MXN $**).
+- Cities: Ciudad de México, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Oaxaca, Tijuana.
+- Names: José, María, Guadalupe, Luis, Fernanda, Diego, Ximena, Carlos.
+- Institutions as context (not endorsement): UNAM, IPN, IMSS, SEP — factual only.
+- Contexts: Día de Muertos, 15/16 de septiembre, gastronomía, geografía diversa — no historical/legal hallucinations.
+- Never reference ICFES; do not put "EXANI"/"CENEVAL" inside stems (metadata/`alignment` only).
 
 ## Subject Bundle Strategy
-Create bundles in order of priority:
-1. Core mandatory subjects first
-2. Most popular modular areas second
-3. Progressive difficulty (basic → intermediate → advanced → expert)
+1. **Priority 1:** G11 transversales EXANI (matemáticas, lectura-crítica, lengua).
+2. **Priority 2:** G6–G9 SEP/NEM core; then high-demand modules.
+3. Bundle sizes (v5.2): G3–G5 = 8q · G6–G7 = 10q · G8–G10 = 12q · G11 = 20q.
+
+## Anti-Error Checklist (v5.2, 2026-07-28)
+
+Basado en la purga de contenido 2026-07-28 — ver `docs/specs/CONTENT_ERRORS.md`.
+Antes de guardar CADA bundle de MX:
+
+- **Eje por pregunta:** `**EJE:**` (ICFES está PROHIBIDO fuera de Colombia).
+- **alignment:** "SEP/NEM Mexico / EXANI CENEVAL" — nunca ICFES/Saber/DBA MEN.
+- **Carpeta canónica:** `questions_data/mexico/{subject}/grado-{N}/2026/weekly/` (la carpeta es el nombre completo del país, no el código).
+- **Frontmatter:** los 15 campos exactos de `AGENTS.md`; `week: "WNN"` (nunca `semana:`); `country: "mexico"`; `id` = filename sin `.md`.
+- **Formato:** `## Question N [D#]` (nunca `## Pregunta`), `### Enunciado`/`### Opciones`/`### Explicacion Pedagogica`, `**Contexto:**` (nunca `**Context:**`).
+- **Sin placeholders:** prohibidos los literales "Distractor N", "Opcion correcta", "Opcion B/C/D", "tema-semana-NN".
+- **Opciones:** exactamente 4 (A-D), una sola `[x]`, textos únicos, feedback no vacío en todas.
+- **Validación obligatoria:** `npm run validate -- {archivos}` en 0 fallos antes de comentar `[OK]` en el issue; después regenerar packs con `node saberparatodos/scripts/generate-static-packs.js --all-weekly --changed-only` y verificar `npm run audit:country-readiness`.
