@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-12-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.436Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica gramatical indispensable que define a una oración compuesta frente a una oración simple?",
+      "context": "Un profesor del Colegio Guadalupe de Lima explica la diferencia entre oraciones simples y compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener un sujeto tácito y más de tres adjetivos calificativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tipo de sujeto y el número de adjetivos no determinan la estructura de una oración compuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Estar unida únicamente por un signo de puntuación al final del párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda oración tiene puntuación final, esto no define si es compuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Poseer dos o más proposiciones, cada una con su respectivo verbo conjugado o perífrasis verbal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una oración compuesta se caracteriza por tener más de una estructura oracional interna (proposiciones), cada una con su propio verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Carecer de complementos circunstanciales y de objetos directos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las oraciones compuestas pueden tener todo tipo de complementos sintácticos en sus proposiciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oración compuesta se conforma sintácticamente por la unión de dos o más proposiciones que expresan ideas complejas coordinadas, subordinadas o yuxtapuestas, lo que implica la presencia de más de un verbo conjugado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes nexos gramaticales es un conector coordinante adversativo que denota oposición u obstáculo entre dos proposiciones?",
+      "context": "Los estudiantes del Colegio San Miguel en Piura clasifican oraciones compuestas coordinadas según sus nexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O / u",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son nexos disyuntivos que plantean opciones excluyentes."
+        },
+        {
+          "letter": "B",
+          "text": "Y / e / ni",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son nexos copulativos que indican adición o suma de proposiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Pero / sin embargo / sino que",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los nexos adversativos introducen un contraste u oposición entre las proposiciones de una oración compuesta coordinada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque / ya que / dado que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son nexos subordinantes que expresan una relación de causa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáctica introduciendo una rectificación, limitación u oposición entre el significado de la primera y la segunda idea.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "¿A qué tipo de oración compuesta corresponde el enunciado analizado en el contexto?",
+      "context": "En un taller de lenguaje en Arequipa, se analiza el fragmento: \"María estudia arquitectura en la UNSA; su hermano Diego prefiere postular a medicina en la UNMSM\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinada yuxtapuesta.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las proposiciones se enlazan mediante signos de puntuación (en este caso, punto y coma) sin conectores ni nexos gramaticales explícitos."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada sustantiva de sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una relación de subordinación ni una proposición que actúe como sujeto de otra."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinada consecutiva ilativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las consecutivas exigen un nexo como \"por lo tanto\" o \"así que\" que no aparece en este enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las adjetivas modifican a un sustantivo mediante pronombres relativos como \"que\" o \"cual\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas donde las proposiciones se colocan una al lado de la otra, unidas por comas, puntos y comas o dos puntos, manteniendo su independencia gramatical directa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "\"Que las aguas del lago Titicaca sufran por la contaminación preocupa de forma urgente a los comunistas locales\".\n¿Qué función sintáctica desempeña la proposición subordinada subrayada en negrita: **\"Que las aguas del lago Titicaca sufran por la contaminación\"**?",
+      "context": "En el Colegio de Alto Rendimiento (COAR) Tacna, los alumnos identifican oraciones subordinadas sustantivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto directo de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede reemplazar por el pronombre \"lo/la\"; no es lo que se preocupa, sino el sujeto que causa la preocupación."
+        },
+        {
+          "letter": "B",
+          "text": "Objeto indirecto del verbo principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa el destinatario de la acción verbal principal."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto de la oración principal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición subordinada sustantiva actúa como el sujeto del verbo \"preocupa\". Es equivalente a decir: \"Eso preocupa a los comunistas\"."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento circunstancial de causa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque de fondo hay una causa, formalmente funciona como el sujeto gramatical del verbo \"preocupa\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro de la oración principal. Al conmutar la proposición por el pronombre neutro \"eso\" (\"Eso preocupa\"), se evidencia que cumple el rol de sujeto sintáctico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de proposición subordinada se encuentra presente en la oración citada y a qué sustantivo modifica?",
+      "context": "Un estudiante de quinto de secundaria del Colegio San Ramón en Cajamarca analiza la siguiente oración compuesta: \"El arqueólogo que descubrió las tumbas en Sipán dictó una conferencia magistral\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada sustantiva que funciona como objeto directo del sustantivo \"Sipán\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proposiciones subordinadas sustantivas no modifican a sustantivos de esta forma, sino que desempeñan funciones propias del núcleo del sujeto o del predicado."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva que modifica al sustantivo antecedente \"El arqueólogo\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición \"que descubrió las tumbas en Sipán\" actúa como un adjetivo que especifica y califica al sustantivo antecedente directo \"arqueólogo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial temporal que modifica directamente al verbo \"Sipán\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica tiempo y \"Sipán\" no es un verbo, es un sustantivo propio de lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada sustantiva de sujeto que complementa al verbo \"conferencia\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modifica a \"arqueólogo\" y se introduce por un pronombre relativo, lo que la define estructuralmente como adjetiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pronombres relativos (\"que\", \"quien\", \"cual\") y desempeñan la función de adyacente o modificador directo de un sustantivo antecedente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función exacta de la proposición subordinada sustantiva en la oración propuesta?",
+      "context": "Durante las clases de razonamiento verbal para el ingreso a la UNMSM, se propone identificar la función de la proposición subordinada en: \"Diego prometió que donaría una colección de libros al colegio de su pueblo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto directo (OD).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se puede conmutar por el pronombre \"lo\": \"Diego lo prometió\". La proposición completa responde a la pregunta de qué es lo prometido por el sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "Objeto indirecto (OI).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objeto indirecto de una promesa sería el destinatario (a quién le promete), lo cual no es el caso de la proposición."
+        },
+        {
+          "letter": "C",
+          "text": "Atributo del sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proposiciones atributivas exigen un verbo copulativo (ser, estar, parecer), pero \"prometer\" es un verbo transitivo predicativo."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento agente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complemento agente aparece solo en oraciones en voz pasiva introducido por la preposición \"por\", lo cual no ocurre aquí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas sustantivas de objeto directo completan la significación de un verbo transitivo. La prueba de conmutación pronominal por \"lo\" resulta infalible para asegurar esta función gramatical.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes opciones contiene una oración compuesta subordinada adverbial concesiva que exprese una dificultad que no impide el cumplimiento del verbo principal?",
+      "context": "Un alumno redacta un informe de geografía sobre los valles de Huancayo y busca enlazar dos ideas usando una oración compuesta subordinada adverbial concesiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huancayo produce abundantes hortalizas porque sus suelos son irrigados de forma continua por el río Mantaro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración es subordinada adverbial causal, pues explica el motivo físico directo (\"porque\")."
+        },
+        {
+          "letter": "B",
+          "text": "Aunque las heladas afectaron la sierra central en junio, los agricultores de Huancayo lograron salvar gran parte de sus cultivos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"Aunque\" introduce una proposición concesiva que plantea un obstáculo o dificultad que no impidió el resultado de la acción principal."
+        },
+        {
+          "letter": "C",
+          "text": "Si las lluvias se retrasan de forma inusual en la sierra, la producción de papa disminuirá drásticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una oración compuesta condicional introducida por el nexo de hipótesis \"Si\"."
+        },
+        {
+          "letter": "D",
+          "text": "Los camiones parten cargados de alcachofas hacia Lima para que sean exportadas directamente a Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración compuesta subordinada adverbial final que denota propósito (\"para que\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones subordinadas adverbiales concesivas expresan un impedimento u obstáculo a la acción principal, pero que no logra anularla ni evitar su realización. Sus nexos típicos son \"aunque\", \"a pesar de que\", \"por más que\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "Seleccione la opción que presenta una oración compuesta subordinada adverbial temporal que determine con precisión el momento en que se produce la acción del verbo principal.",
+      "context": "Al redactar un ensayo para el curso de Historia sobre la rebelión de Túpac Amaru II, un estudiante cusqueño debe enlazar dos acontecimientos cronológicos sucesivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cuanto Túpac Amaru II capturó al corregidor Arriaga en Tinta, los rebeldes emitieron un bando de libertad para los esclavos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"En cuanto\" introduce una proposición subordinada adverbial temporal que fija la simultaneidad o inmediatez cronológica de la acción principal."
+        },
+        {
+          "letter": "B",
+          "text": "Túpac Amaru II movilizó un gran ejército rebelde con el propósito de abolir el sistema de mitas coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración de finalidad (\"con el propósito de\"), no indica tiempo cronológico."
+        },
+        {
+          "letter": "C",
+          "text": "Los rebeldes andinos combatieron ferozmente de modo que las tropas realistas tuvieron que replegarse a Lima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración introduce una relación coordinada consecutiva o subordinada ilativa, no temporal."
+        },
+        {
+          "letter": "D",
+          "text": "Si bien la rebelión de Túpac Amaru II fue debelada, su impacto debilitó para siempre el virreinato del Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una estructura concesiva, que no define una relación temporal exacta de eventos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas adverbiales temporales funcionan como complementos circunstanciales de tiempo de la oración principal, indicando anterioridad, simultaneidad o posterioridad cronológica. Sus nexos comunes son \"cuando\", \"en cuanto\", \"apenas\", \"mientras\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes opciones contiene una oración compuesta subordinada adverbial condicional que plantee una hipótesis obligatoria para la realización de la acción principal?",
+      "context": "Un estudiante escribe una carta formal al rector de la Universidad Nacional de Ingeniería (UNI) solicitando una beca de estudios y debe formular una oración de condición estricta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La UNI me otorgará la beca de estudios dado que he obtenido el primer puesto en el examen nacional de admisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"dado que\" introduce una proposición causal, asumiendo un hecho ya consumado y cierto."
+        },
+        {
+          "letter": "B",
+          "text": "Aunque no cuente con todos los recursos económicos necesarios, me prepararé con dedicación para ingresar a la UNI.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración concesiva (\"Aunque\"), no propiamente condicional de hipótesis futura."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre que mantenga un promedio ponderado sobresaliente en mis cursos de ingeniería, la universidad renovará mi beca.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo compuesto \"Siempre que\" funciona como un condicional equivalente a \"si\", que delimita el requisito hipotético ineludible."
+        },
+        {
+          "letter": "D",
+          "text": "Me inscribiré en los seminarios gratuitos de física para que aumente mis posibilidades de aprobar el ciclo académico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada final que denota objetivo (\"para que\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las subordinadas adverbiales condicionales expresan una condición indispensable (prótasis) de cuya veracidad o cumplimiento depende que se verifique el enunciado principal (apódosis).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "\"Se debe prohibir el tránsito pesado por el perímetro de Chan Chan de modo que las vibraciones no sigan resquebrajando los muros de adobe\".\n¿Cuál es la clasificación sintáctica de la proposición subordinada introducida por el nexo compuesto **\"de modo que\"** en esta oración?",
+      "context": "En Trujillo, un corrector de textos analiza la redacción de un artículo de opinión sobre la conservación del patrimonio arqueológico de Chan Chan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adjetiva especificativa de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica un sustantivo ni se refiere a coordenadas espaciales."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada sustantiva en función de sujeto del verbo prohibir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de prohibir es tácito u omitido; la proposición expresa consecuencia o finalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial consecutiva o ilativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector \"de modo que\" enlaza una consecuencia natural y lógica que se desprende directamente de lo planteado en la proposición anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial causal que explica el origen geológico de los adobes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica causa de Chan Chan, sino la consecuencia protectora que se busca alcanzar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las subordinadas ilativas o consecutivas plantean la consecuencia o derivación directa de la proposición antecedente. El nexo de enlace suele ser \"de manera que\", \"de modo que\", \"así que\", \"por consiguiente\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "Identifique la opción que presenta un caso de **dequeísmo** (inserción indebida de la preposición \"de\") en la estructura de una proposición subordinada sustantiva.",
+      "context": "Un estudiante de quinto de secundaria en Chimbote está corrigiendo una oración compuesta en la que se ha empleado de forma incorrecta el pronombre relativo \"que\" precedido por la preposición \"de\" (dequeísmo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estoy seguro de que los ingenieros chimbotanos resolverán el problema del puerto pesquero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo \"seguro\" rige la preposición \"de\" (seguro de algo); por ende, esta construcción es correcta (queísmo evitado)."
+        },
+        {
+          "letter": "B",
+          "text": "Los pescadores locales piensan de que la veda de anchoveta debería prolongarse dos semanas más.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"pensar\" es transitivo directo y no rige preposición (pensar algo, no pensar *de* algo). Agregar \"de que\" es un error sintáctico de dequeísmo."
+        },
+        {
+          "letter": "C",
+          "text": "El capitán del navío se percató de que la marea alta dificultaría el desembarque nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"percatarse\" exige la preposición \"de\" (percatarse de algo); el uso es correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Tengo la esperanza de que mi hijo logre ingresar este año a la Universidad del Santa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sustantivo \"esperanza\" exige complemento preposicional con \"de\" (esperanza de algo); el uso es normativamente adecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dequeísmo consiste en usar la preposición \"de\" antes de la conjunción \"que\" cuando la sintaxis de la oración no la exige. Para verificar, se puede sustituir la subordinada por el pronombre \"algo\": \"Los pescadores piensan *algo*\" (correcto) vs. \"Los pescadores piensan *de algo*\" (incorrecto).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "Señale cuál de las siguientes oraciones presenta una proposición subordinada sustantiva que funciona como **complemento de régimen prepocisional** (el verbo principal exige obligatoriamente una preposición específica).",
+      "context": "Un docente de comunicación explica las oraciones subordinadas sustantivas de complemento de régimen verbal en un colegio de Huancavelica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comunidad exige que se limpie el río contaminado por relaves mineros de forma inmediata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"exigir\" es transitivo directo (exigir algo); la subordinada funciona como objeto directo."
+        },
+        {
+          "letter": "B",
+          "text": "Es sumamente urgente que reparen el puente colgante dañado por las intensas lluvias andinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proposición subordinada sustantiva \"que reparen...\" funciona como el sujeto de la oración copulativa."
+        },
+        {
+          "letter": "C",
+          "text": "Toda la comunidad campesina de Huancavelica confía en que las nuevas autoridades agrarias los apoyarán.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"confiar\" rige obligatoriamente la preposición \"en\" (confiar en algo); la proposición sustantiva es el término de dicha preposición, actuando como complemento de régimen."
+        },
+        {
+          "letter": "D",
+          "text": "Quienes alcancen las metas de producción de papa nativa recibirán un incentivo económico del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada adjetiva sustantivada que funciona como sujeto de \"recibirán\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El complemento de régimen verbal es una función sintáctica desempeñada por un grupo preposicional impuesto por la semántica del propio verbo (insistir en, confiar en, depender de, aspirar a). La proposición subordinada actúa como término de la preposición regida.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "\"Cuando los inspectores de la UNI afirmaron que los laboratorios cumplían con los estándares de seguridad que exige la ley, los estudiantes celebraron la noticia\".\nDetermine el número de proposiciones subordinadas presentes en la oración y su clasificación sintáctica respectiva.",
+      "context": "Un examen de admisión para la Universidad Nacional de Ingeniería (UNI) solicita analizar sintácticamente una oración compuesta con múltiples subordinaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos proposiciones: una subordinada sustantiva de objeto directo y una adverbial concesiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta cuantificar la proposición temporal inicial y la adjetiva final."
+        },
+        {
+          "letter": "B",
+          "text": "Tres proposiciones: una adverbial temporal (\"Cuando los inspectores...\"), una sustantiva de objeto directo (\"que los laboratorios cumplían...\") y una adjetiva modificadora (\"que exige la ley\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! La oración tiene tres verbos subordinados (\"afirmaron\", \"cumplían\", \"exige\") englobados en estructuras que denotan tiempo, complemento de afirmación y especificación de seguridad, respectivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Tres proposiciones: dos adjetivas especificativas y una adverbial condicional de hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna condicional (no aparece el nexo \"si\") y solo una es adjetiva (\"que exige la ley\")."
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro proposiciones: dos sustantivas de sujeto, una adverbial final y una coordinada disyuntiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen proposiciones coordinadas en la estructura analizada ni nexos disyuntivos como \"o\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis sintáctico de oraciones complejas requiere rastrear cada verbo conjugado y delimitar el nexo que lo introduce. En este caso: 1. \"cuando\" (adverbial temporal), 2. \"que\" (sustantiva de OD), y 3. \"que\" (relativo que introduce adjetiva especificativa).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "Considere las siguientes dos oraciones:\nI. \"Los comuneros de Puno que protestaron pacíficamente recibieron el apoyo de las autoridades locales\".\nII. \"Los comuneros de Puno, que protestaron pacíficamente, recibieron el apoyo de las autoridades locales\".\n¿Cuál es la diferencia semántica real que se deriva del análisis sintáctico de ambas estructuras?",
+      "context": "En una sesión de corrección gramatical en la Universidad Nacional del Altiplano en Puno, se analiza la ambigüedad en el uso de oraciones subordinadas adjetivas sin coma (especificativas) frente a oraciones con coma (explicativas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la oración I, todos los comuneros recibieron apoyo; en la oración II, solo algunos lo hicieron de manera violenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coma en la II generaliza a todo el grupo de comuneros; en la I delimita solo a un subgrupo específico."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas oraciones expresan exactamente el mismo significado gramatical; las comas son opcionales y solo sirven para pausar la lectura de corrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comas en oraciones adjetivas alteran drásticamente el alcance semántico de la proposición, no son puramente estéticas."
+        },
+        {
+          "letter": "C",
+          "text": "En la oración I, se especifica que solo el subgrupo de comuneros que protestó recibió apoyo; en la oración II, se afirma que la totalidad de los comuneros protestó y todos recibieron apoyo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición adjetiva especificativa (I) restringe el sustantivo \"comuneros\"; la adjetiva explicativa (II) añade una aclaración sobre todo el universo de comuneros sin restringir el sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "La oración I es sintácticamente incorrecta porque las oraciones subordinadas adjetivas siempre exigen llevar comas de forma obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas oraciones son correctas, pero expresan realidades de alcance semántico distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puntuación incide directamente en la sintaxis y semántica. Las adjetivas especificativas delimitan al sustantivo antecedente (no llevan comas); las explicativas se refieren a toda la extensión del sustantivo y van entre comas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "\"César Vallejo escribió *Trilce* en París; José María Arguedas, *Los ríos profundos* en el Perú\".\n¿Qué fenómeno sintáctico ocurre en la segunda proposición coordinada yuxtapuesta y qué elemento ha sido elidido u omitido?",
+      "context": "Los postulantes de la UNI analizan la elipsis o supresión de elementos en oraciones coordinadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elipsis del objeto directo; se ha omitido la mención explícita al poemario *Trilce*.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objeto directo en la segunda parte es \"*Los ríos profundos*\"; no está elidido."
+        },
+        {
+          "letter": "B",
+          "text": "Elipsis del sujeto; se ha omitido el pronombre \"él\" que se refiere a César Vallejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto está expreso: \"José María Arguedas\"."
+        },
+        {
+          "letter": "C",
+          "text": "Elipsis verbal; se ha omitido el verbo \"escribió\", el cual se halla representado ortográficamente por la coma elíptica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coma colocada tras \"Arguedas\" sustituye y elide al verbo \"escribió\" para evitar una redundancia innecesaria, manteniendo perfecta claridad sintáctica."
+        },
+        {
+          "letter": "D",
+          "text": "Solecismo sintáctico; la oración es gramaticalmente incorrecta por carecer de un verbo subordinante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una elipsis verbal perfectamente válida según la Real Academia Española (RAE)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elipsis verbal es un recurso cohesivo muy común en el español formal que consiste en suprimir el verbo en proposiciones sucesivas cuando ha sido expresado con anterioridad. La coma elíptica marca gráficamente dicha supresión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "\"Los biólogos del Parque Nacional del Manu oyeron cantar a las aves exóticas en el amanecer\".\n¿Cuál es la interpretación estructural correcta de la frase **\"cantar a las aves exóticas\"** dentro del marco de la oración compuesta subordinada de infinitivo?",
+      "context": "Un análisis lingüístico de la UNMSM examina la subordinación sustantiva de objeto directo frente a oraciones compuestas con verbos de percepción física (oraciones de infinitivo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una proposición coordinada copulativa con verbo elíptico en modo subjuntivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El infinitivo no es un verbo conjugado copulativo ni hay nexo copulativo."
+        },
+        {
+          "letter": "B",
+          "text": "Funciona como una proposición subordinada sustantiva de objeto directo en la que el infinitivo \"cantar\" actúa como núcleo del predicado subordinado.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los verbos de percepción (oír, ver, escuchar) admiten subordinadas sustantivas de infinitivo que cumplen la función global de objeto directo del verbo principal (\"lo oyeron\")."
+        },
+        {
+          "letter": "C",
+          "text": "Es una frase adjetiva explicativa que modifica de forma redundante al sujeto de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a los \"biólogos\", sino que es el objeto percibido (\"a las aves cantar\")."
+        },
+        {
+          "letter": "D",
+          "text": "Constituye un complemento agente de una oración pasiva refleja con pronombre \"se\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración está en voz activa y no contiene la partícula \"se\" ni complementos agentes de pasiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los infinitivos pueden encabezar proposiciones subordinadas sustantivas (oraciones de infinitivo) cuando dependen de verbos de percepción sensitiva (ver, oír) o causativos (hacer, dejar), ejerciendo el rol sintáctico de objeto directo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "Al realizar un análisis crítico y normativo de la oración anterior de acuerdo con las reglas académicas de la lengua española, ¿cuál es la evaluación diagnóstica correcta respecto a su redacción?",
+      "context": "En un debate académico sobre el lenguaje inclusivo y la evolución sintáctica en la Universidad Nacional de San Agustín, se evalúa la siguiente estructura compleja: \"Quien asuma de que la sintaxis es inmutable ignora de que los hablantes son los que la modifican\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración es completamente correcta y fluida; las construcciones \"asuma de que\" e \"ignora de que\" evitan caer en queísmos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, incurre en vicios graves de dequeísmo."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en un error de concordancia de género entre el pronombre relativo \"Quien\" y el sustantivo \"hablantes\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre de tercera persona singular \"Quien\" concuerda perfectamente con \"asuma\" e \"ignora\"; el problema está en las preposiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta dos faltas graves de dequeísmo; los verbos transitivos \"asumir\" e \"ignorar\" exigen oraciones subordinadas sustantivas directas sin preposición (\"asuma que\" / \"ignora que\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tanto \"asumir\" como \"ignorar\" son verbos transitivos que no admiten la preposición \"de\" antes de su objeto directo sustantivo (\"asumir algo\", \"ignorar algo\")."
+        },
+        {
+          "letter": "D",
+          "text": "El único error es de queísmo, pues debió escribirse \"Quien asuma de que la sintaxis es inmutable ignora de que los de hablantes la modifican\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Queísmo\" es omitir una preposición necesaria; aquí se han insertado preposiciones innecesarias de forma incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos de entendimiento, voluntad y lengua (asumir, ignorar, decir, pensar, desear) rigen objeto directo. La inserción de la preposición \"de\" entre estos verbos y sus respectivas proposiciones subordinadas sustantivas constituye el vicio de dequeísmo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "\"Si los comuneros de Junín hubieran conocido el impacto destructivo de la plaga, habrían tomado precauciones fitosanitarias inmediatas\".\nEvalúe la coherencia y validez de la correlación de tiempos verbales (consecutio temporum) de esta oración subordinada condicional.",
+      "context": "Un evaluador del examen de admisión de la UNMSM dictamina la validez de oraciones condicionales que emplean combinaciones de tiempos verbales (concordancia verbal).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es gramaticalmente correcta; la hipótesis en el pasado va en pretérito pluscuamperfecto de subjuntivo (\"hubieran conocido\") y la consecuencia en condicional compuesto de indicativo (\"habrían tomado\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! Corresponde a una condicional imposible o irreal de pasado, cuya correlación estándar exige subjuntivo en la hipótesis y condicional compuesto en el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta; debió usarse el futuro simple del indicativo en la prótasis (\"Si los comuneros conocerán...\") para concordar con el condicional de la apódosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el español estándar, la conjunción condicional \"si\" nunca admite el futuro del indicativo (\"Si conocerán\" es un error grave)."
+        },
+        {
+          "letter": "C",
+          "text": "Es incoherente; se debió emplear el presente del subjuntivo en ambos verbos (\"Si los comuneros conozcan..., habrán tomado...\").",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desvirtúa el sentido temporal retrospectivo de la hipótesis en el pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es válida en contextos informales porque la RAE prohíbe el uso de oraciones condicionales con verbos compuestos en la sierra del Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura es plenamente válida y recomendada en todos los registros formales y académicos del español global."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La correlación temporal en las condicionales irreales del pasado (hipótesis sobre algo que ya no ocurrió) exige de forma unívoca el pretérito pluscuamperfecto del subjuntivo (hubiera/hubiese) en la prótasis y el condicional compuesto (habría) en la apódosis.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "\"El estudiante que ingresó a medicina a quien todos felicitaban declaró que el examen de biología fue más difícil de lo que él esperaba\".\n¿Cuál es la evaluación estructural y sintáctica de esta oración respecto a su legibilidad y corrección gramatical?",
+      "context": "Un corrector lingüístico de la Editorial Santillana en el Perú examina una compleja oración compuesta que contiene subordinación sustantiva y adjetiva intercalada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es perfectamente clara y formal; el uso de dos pronombres relativos sucesivos (\"que\", \"a quien\") enriquece la musicalidad de la frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El encabalgamiento de dos relativas adjetivas sin nexos coordinantes genera una asimetría y confusión sintáctica."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en un error insalvable de dequeísmo al omitir la preposición \"de\" antes de la conjunción \"que\" en el verbo \"esperaba\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Esperar\" es transitivo (\"esperaba algo\"); añadir un \"de\" aquí sería incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta una anacoluto o desorganización sintáctica por yuxtaponer dos oraciones adjetivas relativas sobre el mismo antecedente (\"estudiante\") sin un nexo coordinante que las articule (\"que ingresó y a quien todos felicitaban\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! Modificar un sustantivo con dos oraciones adjetivas distintas requiere coordinarlas con \"y\" u otro nexo para mantener el equilibrio y la simetría gramatical de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta porque el pronombre \"él\" debe ser reemplazado de manera obligatoria por el pronombre relativo \"el cual\" para evitar redundancias de género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre personal de sujeto \"él\" es adecuado y no genera redundancias obligatorias de reemplazo por \"el cual\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El anacoluto o asimetría sintáctica ocurre cuando se quiebra la consistencia estructural de una oración. Al enlazar múltiples proposiciones adjetivas relativas al mismo antecedente, es mandatorio coordinarlas de forma simétrica (\"que ingresó *y* a quien felicitaban\") para preservar la coherencia jerárquica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "\"Llovió tanto en las cabeceras de cuenca del río Rímac que las defensas ribereñas colapsaron inevitablemente\".\nAl evaluar de forma crítica la estructura sintáctica de esta oración compuesta, se dictamina que se trata de:",
+      "context": "En la cátedra de lingüística románica de la UNMSM, se debate sobre las oraciones subordinadas adverbiales consecutivas con intensificador y su diferencia con las causales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una oración subordinada adverbial causal pura porque explica el porqué del colapso de las defensas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque encierra una explicación de fondo, la forma sintáctica se introduce por una correlación consecutiva intensiva."
+        },
+        {
+          "letter": "B",
+          "text": "Una oración coordinada consecutiva ilativa simple e independiente que no depende del adverbio \"tanto\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí depende críticamente del cuantificador intensivo \"tanto\" ubicado en la proposición principal."
+        },
+        {
+          "letter": "C",
+          "text": "Una oración subordinada adverbial consecutiva de intensidad (consecutiva correlativa), donde la consecuencia lógica se introduce por la conjunción \"que\" tras el cuantificador \"tanto\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las consecutivas correlativas vinculan el grado extremo de una cualidad, cantidad o intensidad (\"tanto...\", \"tal...\", \"tan...\") con su consecuencia directa e ineludible."
+        },
+        {
+          "letter": "D",
+          "text": "Una oración subordinada adjetiva explicativa que califica al sustantivo propio \"Rímac\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conjunción \"que\" aquí no funciona como pronombre relativo; no reemplaza a \"Rímac\", sino que introduce el resultado de la lluvia extrema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones compuestas consecutivas correlativas (o de intensidad) presentan una estructura binaria obligatoria constituida por un elemento intensivo en la proposición principal (tanto, tan, tal) y una conjunción subordinante \"que\" que encabeza la consecuencia en la proposición subordinada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v1",
+      "statement": "En una lectura en Callao: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v3",
+      "statement": "Identifica el conector: Cajamarca es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional San Juan de Trujillo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v6",
+      "statement": "En una lectura en Huancayo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v8",
+      "statement": "Identifica el conector: Chiclayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional La Libertad estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional La Libertad estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional Mariscal Caceres de Ayacucho, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v11",
+      "statement": "En una lectura en Piura: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v13",
+      "statement": "Identifica el conector: Trujillo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Carlos estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Carlos estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional Nuestra Senora de Guadalupe de Lima, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v16",
+      "statement": "En una lectura en Huaraz: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v18",
+      "statement": "Identifica el conector: Huaraz es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional de la Independencia Americana estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional de la Independencia Americana estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional Mariscal Caceres de Ayacucho, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W12-inferencias-deducir-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}
