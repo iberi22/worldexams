@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de arquitectura en Quito calcula el área de una sección transversal de una viga.
 
@@ -51,7 +51,7 @@ La integral definida suma infinitesimalmente los productos de la altura ($f(x)$)
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** El Segundo Teorema Fundamental del Cálculo.
 
@@ -76,7 +76,7 @@ La Regla de Barrow es el puente operativo entre el cálculo diferencial y el int
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Cálculo de una integral definida simple.
 
@@ -101,7 +101,7 @@ Aplicación directa de la regla de la potencia e integración definida en un int
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Propiedades de la integral definida.
 
@@ -130,7 +130,7 @@ Uso de la propiedad de aditividad respecto al intervalo de integración para des
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero civil en Guayaquil diseña una rampa cuyo perfil superior sigue $y = x^2$ y el inferior el eje $x$, desde $x=0$ hasta $x=2$.
 
@@ -155,7 +155,7 @@ Cálculo de áreas planas delimitadas por funciones polinómicas y los ejes coor
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Área de funciones trigonométricas en un ciclo.
 
@@ -180,7 +180,7 @@ Evaluación de integrales trigonométricas para determinar magnitudes físicas r
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Simetría e integrales.
 
@@ -205,7 +205,7 @@ Uso de propiedades de paridad y simetría para simplificar el cálculo de integr
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Área entre dos curvas. Se desea calcular el área encerrada entre $y = x$ y $y = x^2$ en el primer cuadrante.
 
@@ -230,7 +230,7 @@ Procedimiento para hallar el área entre dos funciones: identificar puntos de in
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un sensor térmico en una industria de Ambato registra un cambio de temperatura dado por $T'(t) = 3\sqrt{t}$ entre $t=0$ y $t=4$ horas.
 
@@ -255,7 +255,7 @@ Aplicación de la integral definida para calcular el cambio total en una magnitu
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Primer Teorema Fundamental del Cálculo (derivada de una integral).
 
@@ -284,7 +284,7 @@ Comprensión de que la derivación y la integración son operaciones inversas en
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un terreno en el valle de los Chillos tiene forma delimitada por $y = \sqrt{x}$, el eje $x$ y la recta $x = 9$. El costo de nivelación es de $10 por metro cuadrado.
 
@@ -309,7 +309,7 @@ Cálculo de costos basado en la determinación del área mediante integración d
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Teorema del Valor Medio para integrales.
 
@@ -334,7 +334,7 @@ Interpretación de la integral definida como herramienta para calcular promedios
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Calcule el valor promedio de $f(x) = x^2$ en el intervalo $[0, 3]$.
 
@@ -359,7 +359,7 @@ Cálculo operativo del valor medio de una función cuadrática utilizando la def
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Área entre curvas que se cruzan. Calcule el área total encerrada por $y = \sin(x)$ y $y = \cos(x)$ desde $x = 0$ hasta $x = \pi/2$.
 
@@ -384,7 +384,7 @@ Manejo de áreas totales para funciones que cambian de posición relativa (cuál
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Integral de una función con valor absoluto: $\int_{-2}^2 |x| \, dx$.
 
@@ -409,7 +409,7 @@ Resolución de integrales de funciones no suaves mediante la descomposición en 
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un tanque de almacenamiento en una refinería de Esmeraldas tiene una sección transversal circular. Queremos calcular el área de un segmento circular usando integración.
 
@@ -438,7 +438,7 @@ Modelado de figuras geométricas clásicas (círculos) mediante funciones irraci
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Cálculo de un área infinita (Integral Impropia). Un modelo de radiación en un laboratorio de física en Quito sigue la función $f(x) = e^{-x}$ para $x \ge 0$.
 
@@ -463,7 +463,7 @@ Introducción al concepto de convergencia de áreas en intervalos no acotados pa
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Un problema de física sobre el trabajo realizado por una fuerza variable $F(x) = \frac{10}{x^2}$ al mover una partícula desde $x=1$ hasta $x=5$ metros.
 
@@ -488,7 +488,7 @@ Aplicación de la integral definida para calcular magnitudes físicas integradas
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Diferenciación bajo el signo integral (Regla de Leibniz).
 
@@ -513,7 +513,7 @@ Generalización del Teorema Fundamental del Cálculo para casos donde los límit
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un problema de economía matemática sobre el superávit del consumidor en el mercado de flores de Ecuador. La demanda es $D(x) = 100 - 2x$ y el precio de equilibrio es $P = 60$.
 

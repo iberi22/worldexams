@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en un instituto de Madrid repasa la clasificación de las ecuaciones según su grado.
 
@@ -41,7 +41,7 @@ Una ecuación de segundo grado completa requiere que los coeficientes $a, b$ y $
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se explica el concepto de discriminante en una clase de álgebra en Barcelona.
 
@@ -62,7 +62,7 @@ El discriminante ($\Delta = b^2 - 4ac$) es el término bajo la raíz cuadrada en
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante resuelve una ecuación lineal para calcular el gasto en transporte mensual.
 
@@ -83,7 +83,7 @@ Para resolver ecuaciones lineales con paréntesis, primero aplicamos la propieda
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Valencia pregunta por las soluciones de una ecuación cuadrática incompleta.
 
@@ -104,7 +104,7 @@ Las ecuaciones de la forma $x^2 - c = 0$ se resuelven despejando $x^2$ y extraye
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un comerciante en Sevilla calcula el beneficio de sus ventas usando una ecuación de segundo grado.
 
@@ -125,7 +125,7 @@ Podemos usar la fórmula general o la factorización. Buscamos dos números que 
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante en Bilbao resuelve una ecuación cuadrática incompleta donde falta el término independiente.
 
@@ -146,7 +146,7 @@ En ecuaciones de la forma $ax^2 + bx = 0$, siempre se puede extraer factor comú
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la relación entre las raíces y los coeficientes de una ecuación de segundo grado.
 
@@ -167,7 +167,7 @@ Las relaciones de Vieta permiten conocer propiedades de las raíces directamente
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un agricultor en Murcia tiene un terreno rectangular cuya área es de $120$ $m^2$. El largo mide $2$ metros más que el ancho.
 
@@ -188,7 +188,7 @@ Asignamos $x$ al ancho, por lo que el largo es $(x + 2)$. El área es el product
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en San Sebastián resuelve una ecuación de segundo grado que tiene una única solución real.
 
@@ -209,7 +209,7 @@ Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuaci
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Un estudiante en Santander resuelve una ecuación con fracciones que se reduce a una lineal.
 
@@ -230,7 +230,7 @@ Para resolver ecuaciones con denominadores, multiplicamos todos los términos po
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado en Madrid analiza el número de soluciones de una ecuación según un parámetro $k$.
 
@@ -251,7 +251,7 @@ La condición de "solución única" en una cuadrática equivale a que el discrim
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se plantea la resolución de una ecuación de segundo grado con coeficientes grandes en un examen de acceso.
 
@@ -272,7 +272,7 @@ Aplicamos la fórmula cuadrática completa. Identificamos $a=2, b=-7, c=3$. Calc
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias explica por qué una ecuación no puede tener tres soluciones reales.
 
@@ -293,7 +293,7 @@ El grado de una ecuación polinómica determina el número total de soluciones (
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga diseña un jardín circular cuyo radio satisface una ecuación cuadrática.
 
@@ -314,7 +314,7 @@ Al resolver problemas aplicados a la geometría (como longitudes o radios), aunq
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza una ecuación cuadrática con discriminante nulo para un ajuste de trayectoria.
 
@@ -335,7 +335,7 @@ La conexión entre el álgebra y la geometría es clave. Una raíz doble en una 
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante resuelve una ecuación de primer grado "disfrazada" tras simplificar términos.
 
@@ -356,7 +356,7 @@ A veces, expresiones que parecen de segundo grado se simplifican a primer grado 
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en una startup de tecnología en Madrid resuelve una ecuación racional compleja.
 
@@ -377,7 +377,7 @@ En ecuaciones racionales, multiplicamos por el denominador para "linealizar" la 
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea una ecuación bicuadrática que se resuelve mediante un cambio de variable.
 
@@ -398,7 +398,7 @@ Las ecuaciones bicuadráticas ($ax^4 + bx^2 + c = 0$) se resuelven mediante el c
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza una ecuación con parámetros donde el discriminante depende de una variable externa.
 
@@ -419,7 +419,7 @@ Usando las fórmulas de Vieta, podemos hallar expresiones complejas de las raíc
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre una ecuación de segundo grado con coeficientes literales.
 

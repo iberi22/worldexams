@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Diego está repasando la clasificación de los números en su colegio de Santiago.
 
@@ -39,7 +39,7 @@ El número $\sqrt{2}$ es un número irracional porque no se puede expresar como 
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Javiera estudia las propiedades de los números reales para la PAES.
 
@@ -58,7 +58,7 @@ El conjunto de los números reales ($\mathbb{R}$) se define como la unión del c
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** En una clase en Valparaíso, se discute el valor absoluto de distintos números.
 
@@ -77,7 +77,7 @@ El valor absoluto de un número es su distancia al origen, siempre positiva o ce
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Matías analiza la densidad de los números racionales en la recta numérica.
 
@@ -96,7 +96,7 @@ Para comparar fracciones, es útil igualar denominadores. $1/4$ equivale a $2/8$
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Fernanda está calculando distancias en un mapa que utiliza números reales.
 
@@ -115,7 +115,7 @@ Al sumar aproximaciones de números irracionales, sumamos los valores decimales 
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** En un laboratorio en Concepción, se miden sustancias en miligramos usando notación científica.
 
@@ -134,7 +134,7 @@ La notación científica requiere un número entre 1 (inclusive) y 10, multiplic
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín desea cercar un terreno cuadrado que tiene un área de $50 \text{ m}^2$.
 
@@ -153,7 +153,7 @@ El lado de un cuadrado es la raíz cuadrada de su área. Como $7^2 = 49$ y $8^2 
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Valentina calcula el interés simple de un ahorro en una cuenta bancaria.
 
@@ -172,7 +172,7 @@ El interés simple se calcula multiplicando el capital inicial por la tasa de in
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** Nicolás compra una polera que tiene un descuento del 15% en una tienda de La Serena.
 
@@ -191,7 +191,7 @@ Para obtener el precio final con descuento, calculamos el 15% de \$12.000 ($12.0
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Camila analiza el resultado de multiplicar un número racional por uno irracional.
 
@@ -210,7 +210,7 @@ Una propiedad fundamental de los números reales es el elemento absorbente de la
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** En un problema de física, se requiere calcular el volumen de una esfera de radio $r = 3 \text{ cm}$.
 
@@ -229,7 +229,7 @@ Sustituimos $r=3$ en la fórmula: $V = \frac{4}{3}\pi(3)^3 = \frac{4}{3}\pi(27)$
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un arquitecto en Antofagasta diseña una rampa con una pendiente que involucra raíces cuadradas.
 
@@ -248,7 +248,7 @@ Para sumar raíces, primero simplificamos cada término buscando cuadrados perfe
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el crecimiento de una población de bacterias que se duplica cada hora.
 
@@ -267,7 +267,7 @@ Si la población se duplica cada hora, después de 4 horas se habrá multiplicad
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudiantes discute sobre la racionalización de fracciones.
 
@@ -286,7 +286,7 @@ Para racionalizar, multiplicamos numerador y denominador por $\sqrt{6}$: $\frac{
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide ordenar de menor a mayor tres números reales: $x = \sqrt{5}$, $y = 2,2$ y $z = 9/4$.
 
@@ -305,7 +305,7 @@ Convertimos todos a decimales para comparar: $y = 2,2$; $x = \sqrt{5} \approx 2,
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** En un estudio de mercado en Chillán, se observa que el precio de un producto sube un 10% y luego baja un 10%.
 
@@ -324,7 +324,7 @@ Primero el precio sube: $10.000 + 1.000 = 11.000$. Luego, baja el 10% de ese nue
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Un estudiante plantea una duda sobre la existencia de números entre dos racionales muy cercanos.
 
@@ -343,7 +343,7 @@ $B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se define una operación nueva en el conjunto de los números reales: $x \star y = x^y + y^x$.
 
@@ -362,7 +362,7 @@ Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Diego intenta resolver una ecuación que involucra raíces enésimas.
 
@@ -381,7 +381,7 @@ Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** En un examen de nivel avanzado en Puerto Montt, se pregunta por la naturaleza de la suma de raíces.
 

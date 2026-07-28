@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Malabo repasa los simbolos de desigualdad utilizados en las inecuaciones.
 
@@ -39,7 +39,7 @@ Las inecuaciones expresan una relacion de orden entre dos expresiones algebraica
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en Bata explica una regla critica al multiplicar o dividir una inecuacion por un numero negativo.
 
@@ -58,7 +58,7 @@ Esta es una propiedad fundamental de las desigualdades. Por ejemplo, si $2 < 5$,
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un comerciante en Ebebiyin sabe que para tener ganancias, sus ingresos diarios $x$ deben superar los $5000$ Francos CFA.
 
@@ -77,7 +77,7 @@ Los intervalos abiertos (con parentesis) se utilizan para desigualdades estricta
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante grafica la solucion de $x + 2 < 5$ en la recta real.
 
@@ -96,7 +96,7 @@ Las inecuaciones lineales se resuelven de forma muy similar a las ecuaciones, ap
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un transportista en Mongomo tiene un camion con una capacidad maxima de carga de $3000$ kg. Ya lleva una carga de $1200$ kg.
 
@@ -115,7 +115,7 @@ El termino "capacidad maxima" implica un limite superior que incluye el valor li
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en Annobon resuelve la inecuacion $-2x < 10$.
 
@@ -134,7 +134,7 @@ Al dividir ambos miembros por un numero negativo ($-2$), debemos recordar dos co
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un tecnico en Ciudad de la Paz analiza un sensor que activa una alarma si $3(x - 2) \ge 12$.
 
@@ -153,7 +153,7 @@ Resolvemos la inecuacion: dividimos por 3 para obtener $x - 2 \ge 4$, y luego su
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En una aduana de Malabo se permite el paso de maletas cuyo peso $w$ cumpla con $\frac{w}{5} + 2 \le 7$ kg.
 
@@ -172,7 +172,7 @@ Aislamos la variable $w$: restamos 2 de ambos lados para obtener $w/5 \le 5$, y 
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong resuelve la inecuacion compuesta $2 < x + 1 < 5$.
 
@@ -191,7 +191,7 @@ Para resolver inecuaciones de tres partes, aplicamos la misma operacion en los t
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica el conjunto de los numeros reales que NO satisfacen $x \ge -3$.
 
@@ -210,7 +210,7 @@ El complemento de una desigualdad incluye todos los valores de la recta real que
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Guinea Ecuatorial quiere saber que nota necesita en su ultimo examen para aprobar. Sus notas actuales son $4.5$ y $5.5$. El promedio de las tres notas debe ser al menos $5.0$.
 
@@ -229,7 +229,7 @@ El promedio se calcula sumando todos los valores y dividiendo por la cantidad de
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un analista en Malabo resuelve una inecuacion con variables en ambos lados: $5x - 3 > 2x + 9$.
 
@@ -248,7 +248,7 @@ Agrupamos los terminos con $x$ en el lado izquierdo ($3x$) y los terminos indepe
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Bata diseña un componente que debe operar entre $-10^\circ C$ y $40^\circ C$.
 
@@ -267,7 +267,7 @@ Las inecuaciones compuestas del tipo "y" (conjuncion) representan un intervalo d
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** En un examen de la UNGE, se pide identificar el grafico de la inecuacion $x \le -2$.
 
@@ -286,7 +286,7 @@ La representacion grafica es una herramienta visual para entender los conjuntos 
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante en Evinayong resuelve $\frac{x-1}{2} < \frac{x+2}{3}$.
 
@@ -305,7 +305,7 @@ Al tener fracciones con denominadores positivos, multiplicamos toda la inecuacio
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** Un taller en Bata analiza el coste $C = 10x + 500$ y quiere que el coste sea menor a $2000$.
 
@@ -324,7 +324,7 @@ Resolvemos la inecuacion $10x + 500 < 2000$. Obtenemos $x < 150$. Dado que la pr
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado analiza una inecuacion que parece contradictoria: $2x + 5 < 2x - 1$.
 
@@ -343,7 +343,7 @@ Al igual que las ecuaciones, las inecuaciones pueden no tener solucion si conduc
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se plantea una inecuacion con valor absoluto: $|x - 3| \le 5$.
 
@@ -362,7 +362,7 @@ El valor absoluto representa distancia. $|x - 3| \le 5$ significa que la distanc
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un programador en Malabo crea un filtro para una base de datos: "Mostrar registros donde el doble de la edad menos 10 sea mayor que la edad mas 5".
 
@@ -381,7 +381,7 @@ Traducimos el enunciado a lenguaje algebraico: $2x - 10 > x + 5$. Al resolver es
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Se analiza el sistema de inecuaciones: $x + y \le 4$ y $x \ge 0, y \ge 0$.
 

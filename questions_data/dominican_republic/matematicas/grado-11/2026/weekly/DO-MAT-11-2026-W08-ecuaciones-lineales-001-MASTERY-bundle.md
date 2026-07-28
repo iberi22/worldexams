@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo aprende los fundamentos de las igualdades.
 
@@ -41,7 +41,7 @@ Definición estructural de la ecuación de la forma $ax + b = 0$.
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Reglas para despejar incógnitas en un aula de Santiago.
 
@@ -62,7 +62,7 @@ Uso de propiedades de la igualdad para el aislamiento de variables.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.80
 **Contexto:** Resolver $x + 15 = 40$ en práctica escolar.
 
@@ -83,7 +83,7 @@ Despeje directo mediante resta en el segundo miembro.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.75
 **Contexto:** Pago de RD\$ 100 en colmado de La Romana, recibe RD\$ 35 de vuelta.
 
@@ -104,7 +104,7 @@ Modelación de transacciones comerciales cotidianas mediante ecuaciones.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Análisis de la ecuación $0x = 5$.
 
@@ -125,7 +125,7 @@ Concepto de ecuaciones inconsistentes en el conjunto de los reales.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Resolver $3x - 7 = 14$.
 
@@ -146,7 +146,7 @@ Procedimiento de dos pasos: transposición de términos y división.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.70
 **Contexto:** Edades en San Francisco: Pedro es el doble de Juan; suman 45.
 
@@ -167,7 +167,7 @@ Traducción de problemas de edades a lenguaje algebraico.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Resolver $2(x - 4) = 10$ en Puerto Plata.
 
@@ -188,7 +188,7 @@ Resolución de ecuaciones con signos de agrupación.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Estudiante en Higüey resuelve $5x + 3 = 2x + 12$.
 
@@ -209,7 +209,7 @@ Agrupación de términos semejantes en ambos miembros de la ecuación.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.60
 **Contexto:** Perímetro $P = 2l + 2w$. $P=60$, $w=10$.
 
@@ -230,7 +230,7 @@ Uso de ecuaciones para hallar dimensiones en fórmulas geométricas.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Ecuación con fracciones $x/2 + 5 = 11$ en Moca.
 
@@ -251,7 +251,7 @@ Manejo de denominadores en el despeje de ecuaciones lineales.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Problema: "Precio pintura + 200 envío = Precio dos galones".
 
@@ -272,7 +272,7 @@ Planteamiento de igualdad a partir de descripciones verbales.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** Clasificación de ecuaciones.
 
@@ -293,7 +293,7 @@ Diferenciación entre tipos de igualdades algebraicas.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Resolver $3(x - 1) = 2(x + 4)$ en Barahona.
 
@@ -314,7 +314,7 @@ Resolución integral combinando distribución y agrupación.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Inversión al 5% anual, total final RD\$ 10,500.
 
@@ -335,7 +335,7 @@ Aplicación de ecuaciones al cálculo de interés simple.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** Gráfica de $f(x) = 3x - 6$ en San Juan.
 
@@ -356,7 +356,7 @@ Interpretación geométrica de las raíces de una función lineal.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Ecuación literal $ax + b = c$.
 
@@ -377,7 +377,7 @@ Generalización del despeje para fórmulas con parámetros variables.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Tres amigos en Nagua. A:x, B:2x, C:2x+500. Total 3000.
 
@@ -398,7 +398,7 @@ Modelación de problemas de reparto con múltiples condiciones vinculadas.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Identidades en Santiago.
 
@@ -419,7 +419,7 @@ Condiciones para que una ecuación se convierta en una verdad universal.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Barcos en direcciones opuestas (30 km/h y 40 km/h).
 

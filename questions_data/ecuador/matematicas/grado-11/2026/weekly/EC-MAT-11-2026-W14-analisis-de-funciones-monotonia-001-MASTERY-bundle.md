@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un analista de datos en Guayaquil estudia la tendencia de ventas de una aplicación móvil.
 
@@ -51,7 +51,7 @@ La identificación de puntos críticos es el primer paso para analizar el compor
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Criterio de la primera derivada para el crecimiento.
 
@@ -76,7 +76,7 @@ Relación directa entre el signo de la primera derivada y la monotonía (crecimi
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Cálculo de puntos críticos en un polinomio simple.
 
@@ -101,7 +101,7 @@ Aplicación del concepto de punto crítico igualando la primera derivada a cero 
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Una microempresa en Cuenca modela su costo promedio mediante la función $C(x) = x + \frac{4}{x}$ para $x > 0$.
 
@@ -130,7 +130,7 @@ Identificación de niveles de actividad económica óptimos mediante la búsqued
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Clasificación de extremos usando el criterio de la segunda derivada.
 
@@ -155,7 +155,7 @@ Uso de la información de la curvatura (segunda derivada) para clasificar la nat
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Hallar el valor máximo de una función en un intervalo cerrado (Teorema del Valor Extremo).
 
@@ -180,7 +180,7 @@ Evaluación de candidatos a extremos absolutos comparando los valores de la func
 ## Question 7 [D6]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Definición de concavidad y puntos de inflexión.
 
@@ -205,7 +205,7 @@ Comprensión del significado geométrico del cambio de signo en la segunda deriv
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Quito analiza la trayectoria de un proyectil cuya altura es $y(t) = -5t^2 + 20t + 2$.
 
@@ -230,7 +230,7 @@ Aplicación del cálculo diferencial para resolver problemas de cinemática bás
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Determinar intervalos de concavidad para un polinomio de tercer grado.
 
@@ -255,7 +255,7 @@ Análisis de la segunda derivada para determinar la curvatura de la gráfica de 
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Clasificación de un punto crítico donde el criterio de la segunda derivada falla.
 
@@ -284,7 +284,7 @@ Importancia del criterio de la primera derivada cuando la segunda derivada es nu
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v11
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** El Teorema de Rolle en la planificación de rutas de transporte entre Quito y Ambato.
 
@@ -309,7 +309,7 @@ Distinción de las hipótesis necesarias para garantizar la existencia de un pun
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Aplicación del Teorema del Valor Medio de la derivada.
 
@@ -334,7 +334,7 @@ Cálculo del punto donde la tasa de cambio instantánea iguala a la tasa de camb
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Análisis de una función racional $f(x) = \frac{x^2 - 1}{x^2 + 1}$.
 
@@ -359,7 +359,7 @@ Estudio de la primera derivada en funciones racionales suaves para identificar e
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Identificación de asíntotas y comportamiento final en un modelo logístico de población en la Amazonía.
 
@@ -384,7 +384,7 @@ Determinación de la monotonía en funciones con discontinuidades infinitas (as�
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Relación entre las gráficas de $f$ y $f'$.
 
@@ -409,7 +409,7 @@ Capacidad de inferir la forma y propiedades de una función a partir del comport
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Puntos de inflexión en funciones trascendentes.
 
@@ -438,7 +438,7 @@ Localización de cambios de curvatura en funciones exponenciales compuestas de g
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Un sensor sísmico en el volcán Cotopaxi registra una señal modelada por $f(t) = t \ln(t)$ para $t > 0$.
 
@@ -463,7 +463,7 @@ Resolución de problemas de optimización en funciones no polinómicas integrand
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Análisis cualitativo de la tercera derivada.
 
@@ -488,7 +488,7 @@ Uso de derivadas de orden superior para confirmar la naturaleza de los puntos do
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Modelado de una montaña rusa en un parque de diversiones en Quito con la función $y(x) = ax^3 + bx^2 + cx + d$. Se desea que pase por $(0,0)$ con pendiente 0 y que tenga un máximo en $(2,4)$.
 
@@ -513,7 +513,7 @@ Uso de sistemas de ecuaciones lineales derivados de condiciones de contorno y ex
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W14-analisis-de-funciones-monotonia-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un problema de geometría diferencial sobre la curvatura de una vía de tren en los Andes.
 

@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.90
 **Contexto:** Un topógrafo en el Centro Histórico de Quito define la trayectoria de una visual láser.
 
@@ -51,7 +51,7 @@ Definición geométrica de la recta en R³ basada en la traslación de un punto 
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.85
 **Contexto:** Formas de la ecuación de la recta.
 
@@ -76,7 +76,7 @@ Identificación de las diferentes representaciones analíticas de una recta en e
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.80
 **Contexto:** Una tubería de agua en una construcción en Guayaquil sigue una trayectoria recta que pasa por $(1, 2, 3)$ y $(4, 2, 5)$.
 
@@ -101,7 +101,7 @@ Cálculo del vector director a partir de dos puntos conocidos, fundamental para 
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.75
 **Contexto:** Verificación de pertenencia de un punto a una recta.
 
@@ -130,7 +130,7 @@ Validación de puntos en una recta mediante la resolución del sistema de ecuaci
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero estructural analiza la superficie de una losa de concreto.
 
@@ -155,7 +155,7 @@ Identificación del vector normal como el elemento definitorio de la orientació
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.65
 **Contexto:** Ecuación del plano dado un punto y la normal.
 
@@ -180,7 +180,7 @@ Construcción de la ecuación general del plano aplicando el producto escalar en
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Intersección con los ejes.
 
@@ -205,7 +205,7 @@ Determinación de las intersecciones de un plano con los ejes coordenados median
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Un panel solar en una hacienda en Ambato está orientado según el plano $x + y + z = 10$. Una viga de soporte sigue la recta perpendicular al panel que pasa por el origen.
 
@@ -230,7 +230,7 @@ Comprensión de la relación de perpendicularidad entre rectas y planos utilizan
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Ángulo entre dos planos.
 
@@ -255,7 +255,7 @@ Cálculo de ángulos entre superficies planas mediante el análisis del producto
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Distancia de un punto a un plano.
 
@@ -284,7 +284,7 @@ Aplicación de la fórmula de distancia punto-plano para calcular la separación
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Posición relativa de dos rectas.
 
@@ -309,7 +309,7 @@ Diferenciación entre las posiciones relativas de rectas en el espacio, introduc
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Intersección de recta y plano. Halle el punto de corte entre la recta $x=t, y=t, z=t$ y el plano $x + 2y + 3z = 12$.
 
@@ -334,7 +334,7 @@ Resolución de sistemas mixtos (recta-plano) mediante la sustitución de las exp
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** Dos planos son paralelos si sus vectores normales son proporcionales.
 
@@ -359,7 +359,7 @@ Identificación de paralelismo entre superficies mediante la comparación de sus
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** Ecuación del plano que contiene tres puntos. Un arquitecto en Manta define un plano que pasa por $A(1,0,0)$, $B(0,1,0)$ y $C(0,0,1)$.
 
@@ -384,7 +384,7 @@ Uso de la forma segmentaria del plano para determinar superficies que cortan a l
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Recta de intersección entre dos planos.
 
@@ -409,7 +409,7 @@ Interpretación de los sistemas de ecuaciones lineales desde una perspectiva geo
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Un túnel en los Andes se modela como una recta $r$. Se desea instalar un sensor en un punto $P$ fuera del túnel.
 
@@ -438,7 +438,7 @@ Uso de herramientas vectoriales avanzadas para resolver problemas de métrica en
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.35
 **Contexto:** Condición para que dos rectas sean coplanares.
 
@@ -463,7 +463,7 @@ Aplicación del triple producto escalar para verificar la coplanaridad y existen
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.30
 **Contexto:** Ecuación del haz de planos o planos que pasan por una recta común.
 
@@ -488,7 +488,7 @@ Cálculo de la dirección de una recta de intersección utilizando la ortogonali
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.25
 **Contexto:** Distancia entre dos rectas alabeadas. Sean $r_1$ con punto $P_1$ y director $\vec{v_1}$, y $r_2$ con punto $P_2$ y director $\vec{v_2}$.
 
@@ -513,7 +513,7 @@ Uso del triple producto escalar y el producto vectorial para determinar la separ
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.20
 **Contexto:** Un problema de diseño complejo en la Amazonía. Se desea encontrar el plano que contiene a la recta $r: (x,y,z) = (0,0,0) + t(1,1,0)$ y es perpendicular al plano $z = 0$ (plano XY).
 

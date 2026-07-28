@@ -30,7 +30,7 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ## Question 1 [D3]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de bachillerato en Tegucigalpa revisa la estructura del Estado hondureño.
 
@@ -55,7 +55,7 @@ La división de poderes es un principio fundamental del Estado de Derecho en Hon
 ## Question 2 [D3]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.85
 **Contexto:** En una clase de cívica en San Pedro Sula, se discute el papel de la Constitución de 1982.
 
@@ -80,7 +80,7 @@ La Constitución es el contrato social supremo que define la identidad del Estad
 ## Question 3 [D3]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.82
 **Contexto:** Un grupo de turistas visita el Parque Arqueológico Copán Ruinas y pregunta por la historia prehispánica.
 
@@ -105,7 +105,7 @@ Los mayas en Copán destacaron en astronomía, matemáticas y arquitectura, deja
 ## Question 4 [D4]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.80
 **Contexto:** Análisis de la Reforma Liberal de 1876 liderada por Marco Aurelio Soto.
 
@@ -130,7 +130,7 @@ La Reforma Liberal marcó el inicio del Estado moderno en Honduras, introduciend
 ## Question 5 [D4]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.77
 **Contexto:** Estudio del relieve y la hidrografía en la clase de geografía de Honduras.
 
@@ -155,7 +155,7 @@ La geografía de la Costa Norte ha determinado gran parte de la historia económ
 ## Question 6 [D4]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.75
 **Contexto:** Un foro juvenil en La Ceiba discute sobre los Derechos Humanos.
 
@@ -180,7 +180,7 @@ Los derechos de primera generación se centran en las libertades individuales y 
 ## Question 7 [D5]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.72
 **Contexto:** Análisis de la economía hondureña y sus principales rubros de exportación.
 
@@ -205,7 +205,7 @@ La caficultura es fundamental para la estabilidad socioeconómica de miles de fa
 ## Question 8 [D5]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.70
 **Contexto:** Se estudia el fenómeno migratorio en las comunidades de Olancho y Valle.
 
@@ -230,7 +230,7 @@ La migración es un fenómeno social complejo con profundas raíces económicas 
 ## Question 9 [D5]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.68
 **Contexto:** Un sociólogo analiza la diversidad étnica de Honduras.
 
@@ -255,7 +255,7 @@ La cultura Garífuna es un ejemplo de resistencia y riqueza cultural que enrique
 ## Question 10 [D6]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.65
 **Contexto:** Un historiador relata los eventos de la independencia de Centroamérica en Comayagua.
 
@@ -280,7 +280,7 @@ La independencia de 1821 marcó el fin del período colonial y el inicio de la b
 ## Question 11 [D6]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.62
 **Contexto:** Un ambientalista en Choluteca advierte sobre el Desarrollo Sostenible.
 
@@ -305,7 +305,7 @@ El desarrollo sostenible es clave para Honduras, un país vulnerable al cambio c
 ## Question 12 [D6]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.60
 **Contexto:** Un politólogo explica el sistema de partidos políticos en Honduras.
 
@@ -330,7 +330,7 @@ La transparencia y eficiencia del CNE son vitales para fortalecer la confianza d
 ## Question 13 [D7]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.58
 **Contexto:** Discusión sobre la integración regional en el Sistema de la Integración Centroamericana (SICA).
 
@@ -355,7 +355,7 @@ Honduras, por su posición geográfica central, juega un papel estratégico en l
 ## Question 14 [D7]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.55
 **Contexto:** Se analiza el impacto del Huracán Mitch (1998) en la historia reciente.
 
@@ -380,7 +380,7 @@ El Huracán Mitch marcó un antes y un después en Honduras, impulsando la creac
 ## Question 15 [D7]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.52
 **Contexto:** Un taller sobre transparencia gubernamental en Juticalpa.
 
@@ -405,7 +405,7 @@ La transparencia es un pilar de la democracia que permite combatir la corrupció
 ## Question 16 [D8]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante identifica los símbolos patrios en el mes de la independencia.
 
@@ -430,7 +430,7 @@ La figura de Lempira simboliza la valentía y el amor a la tierra, siendo un ref
 ## Question 17 [D8]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.48
 **Contexto:** Análisis de la Globalización en el sector industrial de Honduras.
 
@@ -455,7 +455,7 @@ El sector de la maquila es un componente importante del PIB hondureño, reflejan
 ## Question 18 [D9]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.45
 **Contexto:** Un debate sobre la importancia de la educación en el desarrollo humano.
 
@@ -480,7 +480,7 @@ El desarrollo humano integral depende de la capacidad del Estado para brindar ed
 ## Question 19 [D9]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.42
 **Contexto:** Se estudia el papel de las municipalidades en el desarrollo local.
 
@@ -505,7 +505,7 @@ El fortalecimiento de los gobiernos locales es vital para el desarrollo de proye
 ## Question 20 [D10]
 **ID:** HN-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.38
 **Contexto:** Un análisis sobre la deuda externa y la soberanía económica.
 

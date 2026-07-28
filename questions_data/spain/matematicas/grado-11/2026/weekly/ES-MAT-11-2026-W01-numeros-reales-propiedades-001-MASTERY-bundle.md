@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un instituto de Madrid repasa la clasificación de los números reales para su primer examen del curso.
 
@@ -41,7 +41,7 @@ Los números reales se dividen en racionales e irracionales. Los racionales incl
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** En una papelería de Barcelona, se venden reglas de precisión que marcan milímetros como fracciones de metro.
 
@@ -62,7 +62,7 @@ Para convertir un decimal exacto a fracción, se escribe el número sin coma en 
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.82
 **Contexto:** Durante una clase de Matemáticas I en Valencia, se discuten las propiedades de las operaciones básicas.
 
@@ -83,7 +83,7 @@ La propiedad del elemento neutro establece que existe un número único que, al 
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Un topógrafo en Sevilla mide una distancia que resulta ser exactamente la raíz cuadrada de 49 metros.
 
@@ -104,7 +104,7 @@ Aunque el número está expresado bajo un radical, su valor es exacto ($\sqrt{49
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un excursionista en Sierra Nevada registra una temperatura de $-4^{\circ}\text{C}$ al amanecer. Si la temperatura baja $7^{\circ}\text{C}$ más debido al viento, ¿cuál es la nueva temperatura?
 
@@ -125,7 +125,7 @@ Al sumar dos números con el mismo signo (en este caso, dos descensos), se suman
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Una tienda de ropa en Bilbao aplica un descuento del $20\%$ a una chaqueta que cuesta $80$ €.
 
@@ -146,7 +146,7 @@ Para hallar el precio con descuento, calculamos primero la cuantía de la rebaja
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un cocinero en un restaurante de San Sebastián necesita triplicar una receta que usa $2/3$ de kilo de harina por ración.
 
@@ -167,7 +167,7 @@ La operación para hallar el total de ingredientes es la multiplicación de una 
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un arquitecto en Zaragoza dibuja una línea de longitud $L = \pi + 2$ metros.
 
@@ -188,7 +188,7 @@ Una propiedad fundamental de los números reales es que la suma de un número ra
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** En un laboratorio químico en Tarragona, se mezclan dos soluciones. Una tiene un volumen de $15,45$ ml y la otra $12,7$ ml.
 
@@ -209,7 +209,7 @@ Para sumar números decimales, es crucial alinear las comas decimales para sumar
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un inversor en la Bolsa de Madrid analiza una acción que sube un $10\%$ su valor y al día siguiente baja un $10\%$ respecto al nuevo precio.
 
@@ -230,7 +230,7 @@ Los porcentajes consecutivos no son aditivos. Una subida del $10\%$ sobre $100$ 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático estudia la propiedad de valor absoluto para definir distancias en la recta real.
 
@@ -251,7 +251,7 @@ La ecuación $|A| = b$ se descompone en dos casos: $A = b$ y $A = -b$. Aplicado 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** En un examen de acceso a la universidad, se pide simplificar expresiones con potencias de base real.
 
@@ -272,7 +272,7 @@ Aplicamos las leyes de los exponentes: 1. Potencia de una potencia: $(a^2)^4 = a
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias estudia la propiedad de tricotomía y las desigualdades al multiplicar por números negativos.
 
@@ -293,7 +293,7 @@ Una de las propiedades críticas de los números reales es que al multiplicar o 
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un joyero en Córdoba mezcla dos aleaciones de oro. Una es de $18$ quilates (pureza $0,75$) y otra de $24$ quilates (pureza $1,00$).
 
@@ -314,7 +314,7 @@ Al mezclar cantidades iguales de dos sustancias, la pureza final es el promedio 
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante investiga la propiedad de densidad de los números racionales en el intervalo $[0, 1]$.
 
@@ -335,7 +335,7 @@ Para encontrar el número real que está justo en medio de otros dos, calculamos
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Se plantea un dilema lógico sobre la propiedad de clausura o cierre en diferentes conjuntos numéricos.
 
@@ -356,7 +356,7 @@ La propiedad de cierre establece que el resultado de una operación debe pertene
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en telecomunicaciones en Málaga necesita simplificar una expresión que involucra potencias de base decimal para un algoritmo.
 
@@ -377,7 +377,7 @@ Resolvemos cada término por separado. Una potencia negativa indica el recíproc
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se presenta una operación combinada que requiere estricto cumplimiento de la jerarquía de operaciones en el campo de los reales.
 
@@ -398,7 +398,7 @@ Aplicamos la jerarquía: 1. Paréntesis: $3 - 5 = -2$. 2. Potencia: $(-2)^2 = 4$
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador analiza el error de redondeo al representar el número decimal periódico $0,666...$ como una fracción.
 
@@ -419,7 +419,7 @@ Para convertir un decimal periódico puro a fracción, ponemos el periodo ($6$) 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre los límites de los conjuntos numéricos y la existencia de raíces de números negativos.
 

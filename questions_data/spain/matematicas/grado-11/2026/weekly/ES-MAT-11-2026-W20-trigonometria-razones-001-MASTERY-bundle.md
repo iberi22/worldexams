@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid repasa las razones trigonométricas en un triángulo rectángulo.
 
@@ -41,7 +41,7 @@ Las razones trigonométricas son cocientes entre los lados de un triángulo rect
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase de Matemáticas en Valencia, se presenta la Identidad Trigonométrica Fundamental.
 
@@ -62,7 +62,7 @@ Esta identidad es la herramienta más importante de la trigonometría. Permite h
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante utiliza la circunferencia goniométrica (de radio 1) para estudiar los signos de las razones.
 
@@ -83,7 +83,7 @@ La circunferencia goniométrica permite extender la trigonometría más allá de
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se comparan las unidades de medida de ángulos: grados sexagesimales y radianes.
 
@@ -104,7 +104,7 @@ El radián es la unidad natural de medida de ángulos en matemáticas y física,
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Barcelona conoce que $\text{sen}(\alpha) = 0,6$ y que $\alpha$ está en el primer cuadrante.
 
@@ -125,7 +125,7 @@ Aplicamos la Identidad Fundamental. Al estar en el primer cuadrante, tomamos la 
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza debe calcular la altura de una torre. Desde un punto a 50 m de la base, el ángulo de elevación a la cima es de $30^{\circ}$.
 
@@ -146,7 +146,7 @@ En problemas de topografía donde conocemos la distancia horizontal y el ángulo
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se desea hallar el valor exacto de las razones para ángulos notables.
 
@@ -167,7 +167,7 @@ Los ángulos de $30^{\circ}$, $45^{\circ}$ y $60^{\circ}$ aparecen constantement
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la relación entre la tangente, el seno y el coseno.
 
@@ -188,7 +188,7 @@ La tangente relaciona la componente vertical con la horizontal de un punto en la
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un nadador cruza un río de 40 m de ancho. Debido a la corriente, su trayectoria forma un ángulo de $60^{\circ}$ con la orilla de salida.
 
@@ -209,7 +209,7 @@ Aquí la distancia recorrida es la hipotenusa de un triángulo donde conocemos e
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante halla el valor de $\text{sen}(150^{\circ})$ usando ángulos relacionados.
 
@@ -230,7 +230,7 @@ La reducción al primer cuadrante permite hallar razones de cualquier ángulo co
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia las razones de ángulos que difieren en $180^{\circ}$.
 
@@ -251,7 +251,7 @@ La tangente es una función periódica de periodo $\pi$ (o 180 grados). Esto sig
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se busca hallar el área de un triángulo no rectángulo usando trigonometría. Lados $b = 10, c = 12$ y ángulo comprendido $A = 45^{\circ}$.
 
@@ -272,7 +272,7 @@ La fórmula trigonométrica del área ($1/2 \cdot ab \cdot \text{sen} C$) es ext
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante analiza la función inversa del seno, el arco seno.
 
@@ -293,7 +293,7 @@ Las funciones "arco" realizan la operación inversa: dada una razón, nos devuel
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un topógrafo utiliza el Teorema del Seno para hallar un lado desconocido en un triángulo. Lados $a, b$ y ángulos $A, B$.
 
@@ -314,7 +314,7 @@ El Teorema del Seno establece que los lados de un triángulo son proporcionales 
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el Teorema del Coseno para resolver triángulos donde se conocen dos lados y el ángulo comprendido.
 
@@ -335,7 +335,7 @@ El Teorema del Coseno es una generalización del Teorema de Pitágoras para cual
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante analiza la existencia de la tangente para ciertos ángulos.
 
@@ -356,7 +356,7 @@ La tangente tiende a infinito cuando nos acercamos a ángulos verticales (90, 27
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga quiere simplificar la expresión $\cos^2(x) \cdot (1 + \text{tg}^2(x))$.
 
@@ -377,7 +377,7 @@ El dominio de las identidades pitagóricas permite simplificar expresiones trigo
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la fórmula del seno del ángulo doble: $\text{sen}(2\alpha)$.
 
@@ -398,7 +398,7 @@ Las fórmulas de ángulo doble permiten reducir el argumento de las funciones, f
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un físico estudia el movimiento armónico de un muelle cuya posición es $y(t) = 5 \cos(10t)$.
 
@@ -419,7 +419,7 @@ Las funciones seno y coseno están acotadas entre -1 y 1. Al multiplicarlas por 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el Teorema de la Adición para el coseno: $\cos(A + B)$.
 

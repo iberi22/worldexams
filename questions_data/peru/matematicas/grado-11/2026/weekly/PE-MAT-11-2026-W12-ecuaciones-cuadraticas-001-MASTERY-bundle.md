@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en una academia preuniversitaria de Lima estudia la forma general de las ecuaciones de segundo grado.
 
@@ -45,7 +45,7 @@ Una ecuación cuadrática o de segundo grado se define por tener como mayor expo
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** En un taller de carpintería en Villa El Salvador, se desea fabricar una base cuadrada para un mueble.
 
@@ -70,7 +70,7 @@ El área de un cuadrado se expresa como $L^2$. Planteamos la ecuación pura de s
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Resolución de ecuaciones incompletas en un examen mensual de matemáticas en un colegio de Cusco.
 
@@ -95,7 +95,7 @@ Para resolver $ax^2 + bx = 0$, factorizamos $x$: $x(ax + b) = 0$. De aquí se de
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de la ciudad de Arequipa estudia el método de factorización por aspa simple.
 
@@ -120,7 +120,7 @@ El método de aspa simple busca dos números que multiplicados den el término i
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero civil en un proyecto en la ciudad de Trujillo calcula las dimensiones de un terreno rectangular.
 
@@ -145,7 +145,7 @@ Planteamos la ecuación $x(x + 5) = 150$, que se traduce en la cuadrática $x^2 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Aplicación de la fórmula general en un laboratorio de física en una universidad de Lima.
 
@@ -170,7 +170,7 @@ Usamos la fórmula $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$. Sustituimos: $x = \
 ## Question 7 [D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Análisis de la naturaleza de las raíces en un curso de matemáticas de 5to de secundaria.
 
@@ -195,7 +195,7 @@ El discriminante $\Delta = b^2 - 4ac$ determina la naturaleza de las raíces. Si
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Un proyectil es lanzado hacia arriba desde la parte superior de un edificio en el Callao. Su altura $h$ (en metros) después de $t$ segundos está dada por $h(t) = -5t^2 + 20t + 25$.
 
@@ -220,7 +220,7 @@ Igualamos la función de altura a cero: $-5t^2 + 20t + 25 = 0$. Simplificamos di
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante prepara su examen de admisión a la Universidad Nacional de Ingeniería (UNI) y repasa las propiedades de las raíces.
 
@@ -245,7 +245,7 @@ Para que una ecuación de segundo grado tenga raíces iguales, su discriminante 
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un comerciante de Gamarra desea calcular el precio de venta de una prenda para maximizar su utilidad diaria modelada por una función cuadrática.
 
@@ -270,7 +270,7 @@ El punto de equilibrio se halla igualando la utilidad a cero: $-2x^2 + 80x - 600
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Aplicación de los Teoremas de Vieta en la preparación para el examen de la Universidad Nacional Mayor de San Marcos (UNMSM).
 
@@ -295,7 +295,7 @@ Según las propiedades de las raíces (Teoremas de Vieta): la suma es $-b/a = 13
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Una piscina rectangular en un club de Chosica tiene dimensiones de 10 m por 15 m. Se desea construir un camino de ancho uniforme alrededor de ella.
 
@@ -320,7 +320,7 @@ Al añadir un camino de ancho $x$ alrededor, cada dimensión aumenta en $2x$. El
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de 5to de secundaria en Chiclayo trabaja con raíces inversas.
 
@@ -345,7 +345,7 @@ La suma de las inversas de las raíces de una cuadrática $ax^2 + bx + c = 0$ se
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Determinación de parámetros para raíces simétricas en el curso de Álgebra pre-UNI.
 
@@ -370,7 +370,7 @@ Dos raíces son simétricas si su suma es cero: $x_1 + x_2 = 0$. Por Vieta, $-b/
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Formación de una nueva ecuación cuadrática a partir de raíces dadas, nivel académico preuniversitario.
 
@@ -395,7 +395,7 @@ Dadas las raíces originales, $\alpha+\beta = 4$ y $\alpha\beta = 2$. Para la nu
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Análisis de la relación entre el discriminante y los coeficientes en una ecuación cuadrática.
 
@@ -420,7 +420,7 @@ Aplicamos la fórmula del discriminante $\Delta = b^2 - 4ac$. Al expandir $(2k+1
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Problema de nivel avanzado sobre raíces recíprocas, frecuente en exámenes de admisión a la UNI.
 
@@ -445,7 +445,7 @@ Dos raíces son recíprocas si su producto es igual a 1 ($x_1 \cdot x_2 = 1$). P
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Desafío sobre raíces irracionales en ecuaciones con coeficientes racionales, nivel preuniversitario avanzado.
 
@@ -470,7 +470,7 @@ En una ecuación cuadrática con coeficientes racionales, si una raíz es irraci
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la relación entre dos ecuaciones cuadráticas con una raíz común, nivel competencia matemática.
 
@@ -498,7 +498,7 @@ Si comparten una raíz $r$, esta satisface ambas ecuaciones. Al igualar las expr
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Problema de optimización cuadrática con restricciones paramétricas extremas, nivel admisión UNI / Olimpiada de Matemática.
 

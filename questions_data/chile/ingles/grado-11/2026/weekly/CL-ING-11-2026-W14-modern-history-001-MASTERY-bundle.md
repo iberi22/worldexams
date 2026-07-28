@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** General historical terms.
 
@@ -45,7 +45,7 @@ An era is a long and distinct period of history with a particular feature or cha
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a historical sequence.
 
@@ -65,7 +65,7 @@ The past perfect 'had stood' indicates that the duration of the wall's existence
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about a historical event.
 
@@ -85,7 +85,7 @@ The third conditional is used to imagine an alternative outcome for a historical
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the Industrial Revolution.
 
@@ -105,7 +105,7 @@ The Industrial Revolution was a period of transition to new manufacturing proces
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on historical interpretation.
 
@@ -125,7 +125,7 @@ Historians must analyze primary sources carefully to avoid bias and gain a more 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a revolution.
 
@@ -145,7 +145,7 @@ An uprising is an act of resistance or rebellion; a revolt.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a long-term historical impact.
 
@@ -165,7 +165,7 @@ The past continuous passive 'were being felt' emphasizes the ongoing suffering d
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on the "Cold War".
 
@@ -185,7 +185,7 @@ The Cold War was characterized by ideological conflict and a nuclear arms race b
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Discussing a missed historical opportunity.
 
@@ -205,7 +205,7 @@ The third conditional 'if + past perfect' allows us to speculate about different
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "colonialism".
 
@@ -225,7 +225,7 @@ The legacy of colonialism continues to influence the political and economic land
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Post-war terminology.
 
@@ -245,7 +245,7 @@ An armistice is an agreement made by opposing sides in a war to stop fighting fo
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing a historic figure.
 
@@ -265,7 +265,7 @@ The past simple passive 'was released' describes a specific completed action in 
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing the impact of a discovery.
 
@@ -285,7 +285,7 @@ The invention of the printing press catalyzed the spread of information and idea
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about the invention of the internet.
 
@@ -305,7 +305,7 @@ The third conditional passive allows for speculation about the impact of past te
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on historical empathy.
 
@@ -325,7 +325,7 @@ The author argues that studying history helps us develop a sense of perspective 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a treaty.
 
@@ -345,7 +345,7 @@ A treaty is a formally concluded and ratified agreement between countries.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a historical fact.
 
@@ -365,7 +365,7 @@ In reported speech, we backshift tenses: 'The revolution has changed...' becomes
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about the "suffragette" movement.
 
@@ -385,7 +385,7 @@ The suffragettes fought for the right of women to vote in public elections.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past struggle for independence.
 
@@ -405,7 +405,7 @@ The past perfect continuous describes a continuous effort that led up to a speci
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the value of history.
 

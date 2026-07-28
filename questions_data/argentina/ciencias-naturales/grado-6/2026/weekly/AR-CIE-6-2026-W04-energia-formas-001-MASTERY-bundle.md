@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.85
 **Contexto:** En una escuela de San Juan, los alumnos aprenden que nada en el universo ocurre sin la participación de la energía.
 
@@ -45,7 +45,7 @@ La energía no se puede ver ni tocar directamente, pero se reconoce por sus efec
 ## Question 2 [D4]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.80
 **Contexto:** Martina patea una pelota de fútbol hacia arriba en un potrero de Rosario. La pelota sube, se detiene un instante y luego baja con más velocidad.
 
@@ -70,7 +70,7 @@ La energía mecánica total es la suma de la cinética (movimiento) y la potenci
 ## Question 3 [D5]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.75
 **Contexto:** En una estancia en la Patagonia, se utiliza un molino de viento (aerogenerador) para obtener electricidad.
 
@@ -95,7 +95,7 @@ Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento.
 ## Question 4 [D5]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.70
 **Contexto:** Un grupo de alumnos en Mendoza está usando una lupa para concentrar los rayos del sol sobre un papel oscuro hasta que este empieza a quemarse.
 
@@ -120,7 +120,7 @@ La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser 
 ## Question 5 [D6]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.65
 **Contexto:** Leés en un folleto sobre eficiencia energética que las lamparitas LED consumen menos energía que las antiguas incandescentes para dar la misma luz.
 
@@ -145,7 +145,7 @@ En toda transformación de energía hay una parte que no se aprovecha para el fi
 ## Question 6 [D7]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.60
 **Contexto:** En un día muy frío en Neuquén, frotás tus manos rápidamente una contra la otra y sentís que se calientan.
 
@@ -170,7 +170,7 @@ Tu cuerpo transforma la energía química de los alimentos en energía cinética
 ## Question 7 [D7]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.55
 **Contexto:** Estás calentando agua para el mate en una pava sobre la hornalla. El calor pasa del fuego al metal de la pava, y de allí al agua.
 
@@ -195,7 +195,7 @@ La conducción ocurre cuando las partículas vibran y chocan entre sí, transmit
 ## Question 8 [D8]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.50
 **Contexto:** En las playas de Mar del Plata, se nota que durante el día la arena está mucho más caliente que el agua del mar, aunque ambas reciben la misma energía del Sol.
 
@@ -220,7 +220,7 @@ El calor específico es una propiedad de los materiales. El agua tiene un calor 
 ## Question 9 [D9]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.45
 **Contexto:** Un proyecto en Jujuy busca instalar paneles solares térmicos para que las familias tengan agua caliente sin usar gas.
 
@@ -245,7 +245,7 @@ Las energías renovables son fundamentales para la sostenibilidad. A diferencia 
 ## Question 10 [D10]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Energía
+**EJE:** Energía
 **Expected_Success:** 0.40
 **Contexto:** Estás diseñando una casa térmica en Ushuaia, donde hace mucho frío. Debés elegir materiales para las paredes.
 

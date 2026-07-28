@@ -26,7 +26,7 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.90
 **Contexto:** Silvia is talking about her visit to the Copan Ruins last summer.
 
@@ -51,7 +51,7 @@ En el estilo indirecto (reported speech), cuando el verbo introductorio está en
 ## Question 2 [D3]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.85
 **Contexto:** A tour guide in Roatan is explaining the local rules to a group of tourists.
 
@@ -76,7 +76,7 @@ El modal 'must not' se utiliza para expresar prohibiciones legales o reglas estr
 ## Question 3 [D4]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.80
 **Contexto:** Farmers in Choluteca are discussing the effects of the recent drought on their crops.
 
@@ -101,7 +101,7 @@ El segundo condicional se utiliza para hablar de situaciones hipotéticas o poco
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.75
 **Contexto:** An article in a San Pedro Sula newspaper describes the expansion of the local airport.
 
@@ -126,7 +126,7 @@ La voz pasiva se utiliza cuando el sujeto de la oración recibe la acción. En e
 ## Question 5 [D5]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.70
 **Contexto:** Two friends are planning a trip from Tegucigalpa to La Ceiba.
 
@@ -151,7 +151,7 @@ Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren si
 ## Question 6 [D5]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.68
 **Contexto:** A student is writing an essay about the importance of bilingual education in Honduras.
 
@@ -176,7 +176,7 @@ En el Present Perfect Continuous, utilizamos 'for' para indicar la duración de 
 ## Question 7 [D5]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.65
 **Contexto:** A journalist is interviewing a local artist in El Progreso about her latest mural.
 
@@ -201,7 +201,7 @@ Los pronombres relativos se utilizan para unir oraciones y proporcionar más inf
 ## Question 8 [D6]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.62
 **Contexto:** Discussing traditional food in a cultural festival in Gracias, Lempira.
 
@@ -226,7 +226,7 @@ Usamos la voz pasiva en presente simple (am/is/are + participio) para hablar de 
 ## Question 9 [D6]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.60
 **Contexto:** An environmentalist is warning about the deforestation in the Rio Platano Biosphere.
 
@@ -251,7 +251,7 @@ Unless we ______ our forests now, future generations ______ many environmental p
 ## Question 10 [D6]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.58
 **Contexto:** Reading about the Garifuna culture in Trujillo.
 
@@ -276,7 +276,7 @@ El Present Perfect se utiliza para acciones que comenzaron en el pasado y contin
 ## Question 11 [D7]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.55
 **Contexto:** A business owner in Choluteca is regretting not investing in solar panels earlier.
 
@@ -301,7 +301,7 @@ Los condicionales mixtos se usan para hablar de cómo una acción pasada (Past P
 ## Question 12 [D7]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.52
 **Contexto:** A tech blogger is comparing different internet providers in Honduras.
 
@@ -326,7 +326,7 @@ Para adjetivos cortos (una sílaba), el comparativo se forma añadiendo el sufij
 ## Question 13 [D7]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.50
 **Contexto:** A legal advisor is explaining the terms of a contract to a client in Puerto Cortes.
 
@@ -351,7 +351,7 @@ El Futuro Perfecto Pasivo se utiliza para indicar que una acción se habrá comp
 ## Question 14 [D8]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.48
 **Contexto:** A university professor in Comayagua is talking about the importance of critical thinking.
 
@@ -376,7 +376,7 @@ Los pronombres reflexivos se utilizan cuando el sujeto y el objeto de la oració
 ## Question 15 [D8]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.45
 **Contexto:** A conversation about the weather in Tegucigalpa compared to the Caribbean coast.
 
@@ -401,7 +401,7 @@ Para comparar dos cosas que no son iguales en grado, podemos usar la estructura 
 ## Question 16 [D8]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.42
 **Contexto:** A historian is describing the discovery of the 'White City' (Ciudad Blanca) in La Mosquitia.
 
@@ -426,7 +426,7 @@ The lost city, ______ exact location remained a secret for centuries, was finall
 ## Question 17 [D9]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.40
 **Contexto:** A financial expert is discussing the impact of inflation on small businesses in Catacamas.
 
@@ -451,7 +451,7 @@ La inversión se usa en inglés formal para dar énfasis. Con adverbios negativo
 ## Question 18 [D9]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.38
 **Contexto:** Advice given to a group of young entrepreneurs in Santa Rosa de Copan.
 
@@ -476,7 +476,7 @@ El modo subjuntivo en inglés se utiliza después de ciertas expresiones de urge
 ## Question 19 [D10]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.35
 **Contexto:** Reflecting on the evolution of renewable energy in the country.
 
@@ -501,7 +501,7 @@ Esta es una estructura de inversión de tercer condicional (omitimos 'if' y pone
 ## Question 20 [D10]
 **ID:** HN-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lingüística
+**EJE:** Comprensión Lingüística
 **Expected_Success:** 0.30
 **Contexto:** A critique of a failed social program in a rural community in Intibuca.
 

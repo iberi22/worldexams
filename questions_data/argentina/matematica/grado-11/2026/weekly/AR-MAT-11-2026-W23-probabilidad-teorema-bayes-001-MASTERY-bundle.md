@@ -28,7 +28,7 @@ Este bundle profundiza en el Teorema de Bayes y la probabilidad total, herramien
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Producción artesanal/industrial.
 **Expected_Success:** 0.85
 
@@ -51,7 +51,7 @@ El Teorema de Bayes permite calcular la probabilidad de un evento A dado que ocu
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Sanidad vegetal en citricultura.
 **Expected_Success:** 0.82
 
@@ -74,7 +74,7 @@ P(A) se denomina probabilidad "a priori" porque es la probabilidad asignada al e
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Filtros de correo electrónico.
 **Expected_Success:** 0.88
 
@@ -97,7 +97,7 @@ El Teorema de la Probabilidad Total permite calcular la probabilidad de un event
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Sociología electoral.
 **Expected_Success:** 0.80
 
@@ -122,7 +122,7 @@ La probabilidad total es una suma ponderada: P(B) = Σ P(B|Ai)P(Ai). Matemática
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Industria vitivinícola.
 **Expected_Success:** 0.75
 
@@ -145,7 +145,7 @@ Aplicamos la probabilidad total: P(Falla) = P(Falla|L1)P(L1) + P(Falla|L2)P(L2).
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Análisis de causa raíz en producción.
 **Expected_Success:** 0.70
 
@@ -170,7 +170,7 @@ Aplicamos el Teorema de Bayes: P(L2|Falla) = P(Falla ∩ L2) / P(Falla). El nume
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Diagnóstico médico.
 **Expected_Success:** 0.72
 
@@ -193,7 +193,7 @@ P(+) = (Prob. de positivo si tiene alergia * Prob. de tener alergia) + (Prob. de
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación de resultados clínicos.
 **Expected_Success:** 0.68
 
@@ -216,7 +216,7 @@ Usamos Bayes: P(Alergia | Positivo) = (0,9 * 0,1) / 0,18 = 0,09 / 0,18 = 0,5. A 
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Operaciones portuarias y logística.
 **Expected_Success:** 0.74
 
@@ -239,7 +239,7 @@ Para la intersección de eventos dependientes: P(A ∩ B) = P(A|B) * P(B). La pr
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Empleabilidad universitaria.
 **Expected_Success:** 0.72
 
@@ -262,7 +262,7 @@ P(Pas) = P(Pas | Rápido)P(Rápido) + P(Pas | Lento)P(Lento) = (0,8 * 0,6) + (0,
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Atención al cliente.
 **Expected_Success:** 0.65
 
@@ -285,7 +285,7 @@ Calculamos P(No Resuelto) = 0,20. De ese 20%, la parte que corresponde a los age
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Seguros de automotor.
 **Expected_Success:** 0.62
 
@@ -311,7 +311,7 @@ P(Accidente) = 0,16. Los dos grupos contribuyen con la misma cantidad absoluta d
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de calidad industrial multicapa.
 **Expected_Success:** 0.60
 
@@ -334,7 +334,7 @@ Calculamos la probabilidad total de defecto sumando los aportes de cada máquina
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Identificación de origen de fallas.
 **Expected_Success:** 0.58
 
@@ -357,7 +357,7 @@ La probabilidad a posteriori depende tanto del volumen de producción como de la
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Sistemas de alarma y seguridad.
 **Expected_Success:** 0.55
 
@@ -380,7 +380,7 @@ Debido a que el incendio es un evento muy raro (0,1%), la mayoría de las veces 
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Movilidad urbana y puntualidad.
 **Expected_Success:** 0.64
 
@@ -403,7 +403,7 @@ P(Temprano) = 0,46. El grupo de los que no usan bicicleta aporta más a los "lle
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Experimento de urnas con actualización de información.
 **Expected_Success:** 0.45
 
@@ -426,7 +426,7 @@ Al sacar una blanca primero, la probabilidad de estar en la Urna 1 (que tiene m�
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Biometría y seguridad bancaria.
 **Expected_Success:** 0.42
 
@@ -449,7 +449,7 @@ La probabilidad de que un acceso aceptado sea de un impostor es bajísima porque
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Probabilidad contraintuitiva (Monty Hall).
 **Expected_Success:** 0.48
 
@@ -472,7 +472,7 @@ Este es un clásico de Bayes. P(Premio en C | Conductor abre B) = [P(Conductor a
 
 **ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Experimento compuesto con dados cargados.
 **Expected_Success:** 0.40
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to narrative structure.
 
@@ -45,7 +45,7 @@ The plot is the sequence of events that make up a story.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing a classic novel.
 
@@ -65,7 +65,7 @@ The relative pronoun 'which' introduces extra information about the subject (the
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about reading.
 
@@ -85,7 +85,7 @@ The third conditional allows us to reflect on the impact of a past experience (r
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about magical realism.
 
@@ -105,7 +105,7 @@ Magical realism is a genre that depicts the real world as having an undercurrent
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the role of the protagonist.
 
@@ -125,7 +125,7 @@ The protagonist is the main character who drives the action and often undergoes 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a type of story.
 
@@ -145,7 +145,7 @@ A fable is a short story, typically with animals as characters, conveying a mora
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing literary trend.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current process of shifting critica
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "literary devices".
 
@@ -185,7 +185,7 @@ Foreshadowing is a literary device in which a writer gives an advance hint of wh
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a reading habit.
 
@@ -205,7 +205,7 @@ I used to read fairy tales every night when I was a child.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "stream of consciousness".
 
@@ -225,7 +225,7 @@ The author uses "stream of consciousness" to give readers a direct view into the
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Story endings.
 
@@ -245,7 +245,7 @@ A cliffhanger is a dramatic and exciting ending to an episode of a serial, leavi
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing an author's career.
 
@@ -265,7 +265,7 @@ The past perfect 'had written' establishes the completion of the action before t
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing poetry.
 
@@ -285,7 +285,7 @@ The poet used vivid imagery to evoke a sense of nostalgia in the reader.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about writing.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the imaginary result of a hy
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the power of stories.
 
@@ -325,7 +325,7 @@ The author argues that stories are a fundamental human tool for making sense of 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Literary terminology.
 
@@ -345,7 +345,7 @@ An anthology is a published collection of poems or other pieces of writing.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope about a future book.
 
@@ -365,7 +365,7 @@ The perfect infinitive 'to have read' indicates a goal that will be a finished a
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "symbolism".
 
@@ -385,7 +385,7 @@ Symbolism is the use of symbols to represent ideas or qualities.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a writer's statement.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: the original 'My story was inspired...'
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on universal themes.
 

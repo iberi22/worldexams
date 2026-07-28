@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante de 1º de Bachillerato en un instituto de Madrid identifica los componentes de un polinomio.
 
@@ -41,7 +41,7 @@ El coeficiente principal de un polinomio es el valor numérico que acompaña a l
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el grado de una expresión algebraica compleja en una clase en Barcelona.
 
@@ -62,7 +62,7 @@ El grado del producto de dos polinomios es igual a la suma de los grados de los 
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante aplica las identidades notables para simplificar un cálculo de áreas en Valencia.
 
@@ -83,7 +83,7 @@ El cuadrado de una suma sigue la identidad notable $(a+b)^2 = a^2 + 2ab + b^2$. 
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Sevilla pregunta por las raíces de un polinomio sencillo.
 
@@ -104,7 +104,7 @@ El Teorema del Factor establece que un número $a$ es raíz de un polinomio $P(x
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Málaga divide un polinomio entre un binomio usando la Regla de Ruffini.
 
@@ -125,7 +125,7 @@ El Teorema del Resto indica que el resto de dividir $P(x)$ entre $(x-a)$ es igua
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Se requiere simplificar una fracción algebraica en un ejercicio de refuerzo en Zaragoza.
 
@@ -146,7 +146,7 @@ Para simplificar fracciones algebraicas, primero factorizamos numerador y denomi
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la estructura de una fracción algebraica propia.
 
@@ -167,7 +167,7 @@ Una fracción algebraica $P(x)/Q(x)$ es propia si $grado(P) < grado(Q)$. Si el g
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un ingeniero calcula la resistencia estructural usando la suma de dos fracciones algebraicas simples.
 
@@ -188,7 +188,7 @@ Para sumar fracciones algebraicas con distinto denominador, hallamos el mínimo 
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Se busca factorizar un polinomio de tercer grado en un examen de evaluación en Bilbao.
 
@@ -209,7 +209,7 @@ La factorización debe ser exhaustiva. Primero se extrae factor común si es pos
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Un estudiante en San Sebastián calcula el valor numérico de una expresión racional.
 
@@ -230,7 +230,7 @@ Simplificar una expresión algebraica antes de sustituir los valores numéricos 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de 1º de Bachillerato en Valencia investiga el número máximo de raíces reales de un polinomio.
 
@@ -251,7 +251,7 @@ El Teorema Fundamental del Álgebra garantiza que todo polinomio de grado $n \ge
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se plantea la resolución de una identidad polinómica para hallar un coeficiente desconocido.
 
@@ -272,7 +272,7 @@ En un trinomio cuadrado perfecto de la forma $x^2 + kx + a^2$, el término centr
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Santander estudia la división de polinomios con coeficientes fraccionarios.
 
@@ -293,7 +293,7 @@ Las identidades notables se aplican de la misma forma con coeficientes fracciona
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga simplifica una expresión para el cálculo de un arco parabólico.
 
@@ -314,7 +314,7 @@ La extracción de factor común en el numerador ($2x$) y el reconocimiento de la
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el comportamiento de los restos en divisiones polinómicas.
 
@@ -335,7 +335,7 @@ El Teorema del Resto establece una conexión directa entre el valor numérico de
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante multiplica dos fracciones algebraicas en un problema de física cinemática.
 
@@ -356,7 +356,7 @@ En el producto de fracciones algebraicas, multiplicamos numeradores y denominado
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en una startup de tecnología en Madrid necesita descomponer un polinomio en factores primos para un algoritmo de seguridad.
 
@@ -377,7 +377,7 @@ Para construir un polinomio a partir de sus raíces, multiplicamos los factores 
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se evalúa la divisibilidad de un polinomio que depende de un parámetro desconocido $k$.
 
@@ -398,7 +398,7 @@ Un polinomio es divisible por $(x-a)$ si el resto es cero. Aplicando el Teorema 
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza la descomposición en fracciones simples de una expresión racional.
 
@@ -419,7 +419,7 @@ La descomposición en fracciones simples depende de la factorización del denomi
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre la suma de coeficientes de un polinomio complejo.
 

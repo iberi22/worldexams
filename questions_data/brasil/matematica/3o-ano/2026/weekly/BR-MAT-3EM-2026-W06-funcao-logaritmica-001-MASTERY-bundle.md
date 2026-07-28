@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo está iniciando o estudo de logaritmos e precisa compreender a definição básica dessa operação.
 
@@ -39,7 +39,7 @@ O logaritmo é a operação inversa da exponenciação. Dizer que $\log_a(b) = x
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Em uma aula de química no Rio de Janeiro, os alunos utilizam logaritmos para calcular o pH de uma solução.
 
@@ -58,7 +58,7 @@ Para que a função logarítmica seja bem definida no conjunto dos números reai
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um sismólogo em Brasília utiliza a escala Richter, que é baseada em logaritmos, para medir a magnitude de um terremoto.
 
@@ -77,7 +77,7 @@ Devemos encontrar o expoente $x$ tal que $2^x = 32$. Como $32 = 2 \cdot 2 \cdot 
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um arquiteto em Curitiba analisa a curva de uma concha acústica que segue um padrão logarítmico.
 
@@ -96,7 +96,7 @@ Assim como nas funções exponenciais, a base $a$ define o crescimento. Se $a > 
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um engenheiro de som em Belo Horizonte utiliza o decibel (dB), uma unidade logarítmica, para medir a intensidade sonora.
 
@@ -115,7 +115,7 @@ A função logarítmica possui propriedades operatórias importantes que derivam
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um biólogo em Manaus estuda o domínio de funções que descrevem a percepção de estímulos sensoriais.
 
@@ -134,7 +134,7 @@ Para que o logaritmo esteja definido, seu argumento (logaritmando) deve ser estr
 ## Question 7 [D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um técnico em Salvador calcula a desintegração de uma amostra química usando logaritmos decimais (base 10).
 
@@ -153,7 +153,7 @@ Resolvemos cada termo separadamente: $1000 = 10^3 \Rightarrow \log 1000 = 3$. $0
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Em um laboratório de informática em Porto Alegre, analisa-se a complexidade de algoritmos de busca binária, que é de ordem logarítmica.
 
@@ -172,7 +172,7 @@ Pela propriedade da potência: $\log_a(M^k) = k \cdot \log_a(M)$. Assim, $\log_2
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um economista em Recife utiliza logaritmos para isolar a variável tempo em uma equação de juros compostos.
 
@@ -191,7 +191,7 @@ Como $6 = 2 \cdot 3$, aplicamos a propriedade do produto: $\log 6 = \log(2 \cdot
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um estudante em Fortaleza resolve equações logarítmicas simples para consolidar o conhecimento da definição.
 
@@ -210,7 +210,7 @@ Aplicando a definição de logaritmo: $x^2 = 49$. As soluções algébricas seri
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um cientista de dados em São Paulo realiza uma mudança de base em um banco de dados para facilitar a visualização de informações.
 
@@ -229,7 +229,7 @@ A fórmula de mudança de base é essencial para cálculos práticos. Ela estabe
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um engenheiro em Goiânia resolve uma equação logarítmica que envolve a propriedade do quociente.
 
@@ -248,7 +248,7 @@ Usamos a propriedade do quociente: $\log_5(\frac{x+10}{x}) = 1$. Pela definiçã
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Vitória explica a relação de simetria entre os gráficos de funções inversas.
 
@@ -267,7 +267,7 @@ Como a função logarítmica é a inversa da exponencial, seus pares ordenados $
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um astrônomo em São José dos Campos utiliza logaritmos para calcular o brilho aparente das estrelas em uma escala logarítmica.
 
@@ -286,7 +286,7 @@ Aplicamos as propriedades do quociente e da potência: $\log(\frac{a^3}{b^2}) = 
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um farmacêutico em Florianópolis calcula o tempo de meia-vida de um medicamento no organismo usando logaritmos neperianos.
 
@@ -305,7 +305,7 @@ Para isolar o $x$ no expoente, aplicamos o logaritmo em ambos os lados da equaç
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático estuda o comportamento de funções logarítmicas transladadas e refletidas.
 
@@ -324,7 +324,7 @@ A função base $\log_2(x)$ é crescente pois $2 > 1$. O sinal negativo à frent
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um engenheiro nuclear em Campinas analisa a segurança de um reator através de equações que combinam logaritmos e exponenciais.
 
@@ -343,7 +343,7 @@ Usamos as identidades fundamentais: $a^{\log_a b} = b$. No primeiro termo, $2 \l
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada de matemática, os estudantes devem resolver um sistema de equações logarítmicas.
 
@@ -364,7 +364,7 @@ Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \l
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um pesquisador avançado investiga as propriedades de logaritmos cujas bases são variáveis.
 
@@ -383,7 +383,7 @@ Aplicamos a mudança de base em cada termo para uma base comum $k$: $\frac{\log_
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de relacionar logaritmos e progressões geométricas.
 

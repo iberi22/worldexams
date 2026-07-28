@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de bachillerato en la CDMX repasa los conceptos básicos para resolver igualdades matemáticas sencillas.
 **Expected_Success:** 0.90
 
@@ -41,7 +41,7 @@ En una ecuación lineal de primer grado, el objetivo es despejar la incógnita. 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una tienda de conveniencia en Monterrey, el precio de un refresco (r) es el triple del precio de un chicle (c).
 **Expected_Success:** 0.87
 
@@ -62,7 +62,7 @@ La traducción del lenguaje común al lenguaje algebraico es fundamental. La pal
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un carpintero en Guadalajara necesita calcular una longitud desconocida usando una ecuación de primer grado.
 **Expected_Success:** 0.85
 
@@ -83,7 +83,7 @@ Para despejar la variable x cuando está siendo multiplicada por un coeficiente,
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema de edades que involucra una ecuación lineal básica.
 **Expected_Success:** 0.82
 
@@ -104,7 +104,7 @@ Traducimos paso a paso: "la edad de Juan" es x. "El doble de la de Juan" es 2x. 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un vendedor en un mercado de Puebla vende naranjas y necesita resolver una ecuación para cuadrar sus cuentas.
 **Expected_Success:** 0.78
 
@@ -125,7 +125,7 @@ Primero, pasamos el término constante (-5) al otro lado sumando: 3x = 10 + 5 = 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en Toluca debe resolver una ecuación donde la incógnita aparece en ambos lados de la igualdad.
 **Expected_Success:** 0.75
 
@@ -146,7 +146,7 @@ Agrupamos los términos con x en un lado y los términos constantes en el otro. 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sastre en Tlaxcala tiene 45 metros de tela y los divide en dos partes, una de las cuales mide el doble que la otra.
 **Expected_Success:** 0.72
 
@@ -167,7 +167,7 @@ Sea x la longitud de la parte corta. La otra parte mide el doble, es decir, 2x. 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere resolver una ecuación con paréntesis para un proyecto escolar en Morelos.
 **Expected_Success:** 0.70
 
@@ -188,7 +188,7 @@ Aplicamos la propiedad distributiva: 2 \times x - 2 \times 3 = 14, lo que da 2x 
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante analiza la cantidad de soluciones de diferentes ecuaciones lineales.
 **Expected_Success:** 0.68
 
@@ -209,7 +209,7 @@ Al simplificar la ecuación restando 2x de ambos lados, obtenemos 5 = 5. Como es
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un pequeño empresario en Hidalgo calcula el precio de venta de un producto que incluye un IVA del 16%.
 **Expected_Success:** 0.65
 
@@ -230,7 +230,7 @@ El precio con IVA se calcula multiplicando el precio base (x) por 1.16 (que repr
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en San Luis Potosí resuelve una ecuación lineal que contiene fracciones.
 **Expected_Success:** 0.62
 
@@ -251,7 +251,7 @@ Para eliminar los denominadores, multiplicamos toda la ecuación por el mínimo 
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea una situación sobre la suma de tres números enteros consecutivos en un examen de admisión en la CDMX.
 **Expected_Success:** 0.60
 
@@ -272,7 +272,7 @@ Definimos los números como x, x+1 y x+2. Su suma es: x + x + 1 + x + 2 = 72 \ri
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero civil en Monterrey despeja una variable de una fórmula lineal utilizada en el diseño de estructuras.
 **Expected_Success:** 0.58
 
@@ -293,7 +293,7 @@ Para despejar "a", primero dividimos ambos lados por 2: P / 2 = a + b. Posterior
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un depósito de agua en Querétaro tiene una fuga. La cantidad de litros (L) tras "t" horas es L = 500 - 15t.
 **Expected_Success:** 0.55
 
@@ -314,7 +314,7 @@ Planteamos la ecuación sustituyendo L por 380: 380 = 500 - 15t. Movemos los té
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta una ecuación con incógnita en el denominador que se reduce a una lineal.
 **Expected_Success:** 0.53
 
@@ -335,7 +335,7 @@ Usamos productos cruzados: 12(x - 6) = 3x. Distribuimos: 12x - 72 = 3x. Agrupamo
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante analiza una ecuación que no tiene solución debido a una contradicción aritmética.
 **Expected_Success:** 0.50
 
@@ -356,7 +356,7 @@ Al desarrollar el lado izquierdo: 3x + 6 = 3x + 4. Si restamos 3x de ambos lados
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un químico en un laboratorio del IPN mezcla dos soluciones ácidas para obtener una concentración específica.
 **Expected_Success:** 0.45
 
@@ -377,7 +377,7 @@ Planteamos la ecuación basada en la cantidad de ácido puro: (litros \times con
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema de "persecución" (cinemática lineal) para evaluar habilidades de modelado algebraico.
 **Expected_Success:** 0.42
 
@@ -398,7 +398,7 @@ Sea t el tiempo del segundo auto. El tiempo del primero es t+2. Al encontrarse, 
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un problema sobre el rendimiento de trabajadores que se resuelve mediante ecuaciones lineales de tasas.
 **Expected_Success:** 0.38
 
@@ -419,7 +419,7 @@ Sumamos las tasas de trabajo (fracción de barda por hora): (1/6) + (1/4) = 1/t 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-algebra-ecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un reto sobre el valor de una constante para que una ecuación lineal tenga infinitas soluciones.
 **Expected_Success:** 0.35
 

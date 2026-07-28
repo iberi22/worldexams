@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de la Universidad de las Artes en Guayaquil estudia cómo se combinan diferentes ondas sonoras representadas por funciones.
 
@@ -51,7 +51,7 @@ La Regla de la Cadena es la técnica fundamental para derivar funciones compuest
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Derivada de una función potencia compuesta.
 
@@ -76,7 +76,7 @@ Aplicación de la regla de la cadena en una función de la forma $u^n$, donde la
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Derivada de las funciones trigonométricas básicas.
 
@@ -101,7 +101,7 @@ Identificación de la derivada de la función seno como la función coseno, esen
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Derivada de una función trigonométrica con argumento compuesto.
 
@@ -130,7 +130,7 @@ Aplicación de la regla de la cadena a funciones trigonométricas donde el ángu
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un biólogo en las islas Galápagos modela el crecimiento de una población de bacterias usando funciones exponenciales.
 
@@ -155,7 +155,7 @@ La función exponencial de base $e$ es invariante ante la operación de derivaci
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Derivada de la función logaritmo natural.
 
@@ -180,7 +180,7 @@ Para derivar el logaritmo de una función, se divide la derivada de dicha funci�
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Un sensor de presión en un pozo petrolero en la Amazonía ecuatoriana registra variaciones dadas por $P(t) = 100e^{-0.2t}$.
 
@@ -205,7 +205,7 @@ Cálculo de la derivada de funciones exponenciales con exponentes compuestos, co
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Derivada de la función tangente.
 
@@ -230,7 +230,7 @@ Uso de la regla de la cadena integrando la derivada fundamental de la función t
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un inversionista en la Bolsa de Valores de Quito analiza el crecimiento de un activo financiero modelado por $A(t) = 5^t$.
 
@@ -255,7 +255,7 @@ Diferenciación entre la derivada de la función exponencial de base $e$ y funci
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Derivada de una función compuesta con raíz cuadrada.
 
@@ -284,7 +284,7 @@ Combinación de la regla de la potencia (para la raíz) con la derivada de una f
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero mecánico en una planta de ensamblaje en Manta estudia el movimiento de una pieza dado por $x^2 + y^2 = 25$.
 
@@ -309,7 +309,7 @@ La derivación implícita es necesaria cuando $y$ no está despejada en término
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Derivada de una función compuesta por tres niveles.
 
@@ -334,7 +334,7 @@ Aplicación sucesiva de la regla de la cadena para funciones con múltiples capa
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Pendiente de una curva implícita en un punto dado.
 
@@ -359,7 +359,7 @@ Cálculo de pendientes en curvas no funcionales (relaciones) mediante derivació
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Uso de la derivación logarítmica para simplificar productos complejos.
 
@@ -384,7 +384,7 @@ La derivación logarítmica es la herramienta adecuada para funciones donde tant
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Derivada de funciones trigonométricas inversas.
 
@@ -409,7 +409,7 @@ Reconocimiento de las derivadas de funciones trigonométricas inversas, cruciale
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un tanque cilíndrico en una refinería en Esmeraldas se está llenando de crudo. El volumen es $V = \pi r^2 h$. Si el radio $r$ es constante y la altura $h$ varía con el tiempo $t$.
 
@@ -438,7 +438,7 @@ Modelado de problemas de tasas relacionadas utilizando la regla de la cadena par
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Derivada de una función con potencias exponenciales anidadas.
 
@@ -463,7 +463,7 @@ Manejo de funciones exponenciales compuestas donde la base de la potencia extern
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Diferenciación de una función con logaritmo de base distinta a $e$.
 
@@ -488,7 +488,7 @@ Generalización de la derivada del logaritmo para cualquier base positiva distin
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Un problema teórico sobre la derivada de la función inversa.
 
@@ -513,7 +513,7 @@ Uso del Teorema de la Función Inversa para calcular derivadas de funciones cuya
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W13-regla-de-la-cadena-y-trascendentes-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Segunda derivada de una función definida implícitamente.
 

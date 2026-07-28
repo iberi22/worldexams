@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid comienza el bloque de análisis integral, aprendiendo el concepto de primitiva.
 
@@ -41,7 +41,7 @@ Integrar es hallar una función conociendo su tasa de variación. Por ejemplo, s
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En un instituto de Valencia, se explica por qué siempre añadimos una constante $C$ al final de las integrales indefinidas.
 
@@ -62,7 +62,7 @@ Al derivar, perdemos la información sobre el término constante. Al integrar, d
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante aplica la regla de la potencia para integrales.
 
@@ -83,7 +83,7 @@ La regla de la potencia para integrales es el proceso inverso a la regla de la p
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se analiza el caso especial de la integral de la función recíproca.
 
@@ -104,7 +104,7 @@ La función $1/x$ es la única potencia de $x$ cuya integral no sigue la regla g
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En una clase de Matemáticas I en Bilbao, se practica la integración de polinomios sencillos.
 
@@ -125,7 +125,7 @@ La integral de una suma es la suma de las integrales de cada término. Aplicamos
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante en Zaragoza debe integrar una función con exponente fraccionario.
 
@@ -146,7 +146,7 @@ Para integrar radicales, primero los escribimos como potencias de exponente frac
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se introducen las integrales inmediatas de funciones trigonométricas.
 
@@ -167,7 +167,7 @@ Es fundamental no confundir los signos al integrar funciones trigonométricas. R
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la integral de una función exponencial de base distinta de $e$.
 
@@ -188,7 +188,7 @@ Para funciones exponenciales $a^x$, la regla de integración requiere compensar 
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero en Sevilla calcula la velocidad a partir de la aceleración constante $a = 9,8 \text{ m/s}^2$.
 
@@ -209,7 +209,7 @@ Los problemas de condiciones iniciales permiten determinar el valor exacto de la
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Barcelona halla la familia de curvas cuyas tangentes tienen pendiente $2x + 1$.
 
@@ -230,7 +230,7 @@ Integrar la función de pendiente nos devuelve la función original de la curva.
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Se introducen las integrales de tipo logarítmico compuestas.
 
@@ -251,7 +251,7 @@ Una de las integrales inmediatas más comunes en EBAU es la del tipo logarítmic
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante analiza la integral de una función trigonométrica compuesta.
 
@@ -272,7 +272,7 @@ Al integrar $f(ax+b)$, el resultado es $\frac{1}{a} F(ax+b)$. Es una aplicación
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un matemático en Asturias estudia la integral que conduce a la función arco tangente.
 
@@ -293,7 +293,7 @@ La integral del tipo arco tangente es muy frecuente. Es crucial identificar el v
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un físico en Valencia integra una función exponencial compuesta.
 
@@ -314,7 +314,7 @@ La integración de la función exponencial con exponente lineal es una de las op
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se plantea una integral que requiere un ajuste constante para ser inmediata.
 
@@ -335,7 +335,7 @@ El ajuste de constantes es una técnica vital: "lo que falta multiplicando dentr
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante estudia la propiedad de linealidad de la integral indefinida.
 
@@ -356,7 +356,7 @@ Es un error común pensar que las reglas de la integral son iguales a las de los
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga necesita integrar una función racional donde el grado del numerador es mayor que el del denominador.
 
@@ -377,7 +377,7 @@ Cuando el grado de $P(x) \geq$ grado de $Q(x)$, la división permite escribir la
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Un estudiante de 2º de Bachillerato se enfrenta a la integral $\int \text{tg}(x) \, dx$.
 
@@ -398,7 +398,7 @@ Muchas integrales trigonométricas se resuelven transformándolas en sus compone
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Se utiliza el método de sustitución o cambio de variable para simplificar una integral.
 
@@ -419,7 +419,7 @@ El éxito del cambio de variable reside en elegir una parte de la función cuya 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el significado geométrico de la integral indefinida.
 

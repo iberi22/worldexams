@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.85
 **Contexto:** Martina está observando una gota de agua del Río de la Plata con un microscopio en el laboratorio de su escuela en Buenos Aires.
 
@@ -45,7 +45,7 @@ La célula es la unidad mínima de vida. Todos los organismos, desde los unicelu
 ## Question 2 [D4]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.80
 **Contexto:** En una salida didáctica a la Reserva Ecológica Costanera Sur, un guía explica que los seres vivos se pueden clasificar según la cantidad de células que poseen.
 
@@ -70,7 +70,7 @@ La clasificación en unicelulares y pluricelulares se basa en el número de cél
 ## Question 3 [D5]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.75
 **Contexto:** Imaginate que encontrás un organismo desconocido en un parque de Mendoza. Al observarlo, notás que produce su propio alimento a partir de la luz solar.
 
@@ -95,7 +95,7 @@ La nutrición autótrofa es característica de las plantas y algunas algas/bacte
 ## Question 4 [D5]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.70
 **Contexto:** Un grupo de alumnos en Córdoba está comparando una célula de un animal (como un puma) con la de una planta (como un algarrobo).
 
@@ -120,7 +120,7 @@ Las células vegetales se distinguen por tener una pared celular rígida (de cel
 ## Question 5 [D6]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.65
 **Contexto:** Durante el verano en Mar del Plata, se observa un gran crecimiento de algas en la costa. Algunos científicos debaten si considerarlas plantas o protistas.
 
@@ -145,7 +145,7 @@ La clasificación biológica no es caprichosa; busca organizar la diversidad seg
 ## Question 6 [D7]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.60
 **Contexto:** En Salta, un agricultor nota que sus cultivos crecen menos si el suelo pierde ciertos microorganismos invisibles a simple vista.
 
@@ -170,7 +170,7 @@ Los descomponedores cierran el ciclo de la materia. Al degradar restos de animal
 ## Question 7 [D7]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.55
 **Contexto:** Un equipo de investigadores en la Patagonia estudia cómo los pingüinos mantienen su temperatura corporal en aguas muy frías.
 
@@ -195,7 +195,7 @@ La función de relación (o irritabilidad) es la que permite a los seres vivos r
 ## Question 8 [D8]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.50
 **Contexto:** Leés en un diario de Rosario que se descubrió una nueva especie de hongo en las islas del Paraná. Algunos piensan que es una planta porque no se mueve.
 
@@ -220,7 +220,7 @@ La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotos
 ## Question 9 [D9]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.45
 **Contexto:** En una clase de ciencias en Tucumán, surge un debate sobre si los virus son seres vivos o no, ya que pueden causar enfermedades pero no tienen células.
 
@@ -245,7 +245,7 @@ La teoría celular establece que la célula es la unidad básica de la vida. Com
 ## Question 10 [D10]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Organismos
+**EJE:** Organismos
 **Expected_Success:** 0.40
 **Contexto:** Un grupo conservacionista en Corrientes quiere proteger los esteros del Iberá. Argumentan que la pérdida de biodiversidad afecta la estabilidad de todo el ambiente.
 

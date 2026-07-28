@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to a tech seminar.
 
@@ -45,7 +45,7 @@ The latest breakthrough in smartphone technology includes foldable screens and i
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Future predictions about AI.
 
@@ -65,7 +65,7 @@ The future continuous 'will be using' is appropriate for an action that will be 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Reflecting on the impact of the internet.
 
@@ -85,7 +85,7 @@ This is a third conditional sentence about a past event (the invention of the in
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the ethics of self-driving cars.
 
@@ -105,7 +105,7 @@ The debate around autonomous vehicles frequently centers on the moral or ethical
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "Internet of Things" (IoT).
 
@@ -125,7 +125,7 @@ In cybersecurity, 'vulnerability' is the state of being susceptible to data brea
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Description of a new app.
 
@@ -145,7 +145,7 @@ This new application is designed to streamline the process of booking flights an
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Hypothetical scenario about tech development.
 
@@ -165,7 +165,7 @@ The second conditional uses 'if + past simple' to discuss a hypothetical situati
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Discussing the history of computing.
 
@@ -185,7 +185,7 @@ Computers have become significantly smaller and faster over the last few decades
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.70
 **Contexto:** Discussion about social media algorithms.
 
@@ -205,7 +205,7 @@ Algorithms are used to curate content based on users' previous interactions and 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "Big Tech" influence.
 
@@ -225,7 +225,7 @@ The author suggests that the dominance of a few large companies in the tech sect
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Tech support conversation.
 
@@ -245,7 +245,7 @@ Please update your password regularly to ensure the security of your account.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing future automation.
 
@@ -265,7 +265,7 @@ The future perfect passive 'will have been taken over' indicates a completed sta
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Article on Virtual Reality (VR).
 
@@ -285,7 +285,7 @@ Virtual Reality provides an immersive experience that allows users to feel as if
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Mixed conditional about tech education.
 
@@ -305,7 +305,7 @@ The mixed conditional (if + past perfect, would + verb) connects a past hypothet
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of a report on renewable energy tech.
 
@@ -325,7 +325,7 @@ The report concludes that without significant investment in infrastructure, the 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Online safety tips.
 
@@ -345,7 +345,7 @@ Beware of phishing emails that try to trick you into revealing your personal inf
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Comparing two technologies.
 
@@ -365,7 +365,7 @@ The adverb 'significantly' modifies the adjective 'efficient'.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about wearable technology.
 
@@ -385,7 +385,7 @@ Smartwatches can monitor your heart rate and sleep patterns to provide health in
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Speculating about a past failure.
 
@@ -405,7 +405,7 @@ The third conditional 'would have been' describes a past outcome that didn't hap
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the future of work.
 

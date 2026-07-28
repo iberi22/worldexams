@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en el Instituto de Secundaria de Rebola repasa los conceptos fundamentales del lenguaje algebraico.
 
@@ -39,7 +39,7 @@ Las expresiones algebraicas se clasifican segun el numero de terminos que las co
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en el Mercado de Semu, Malabo, usa expresiones algebraicas para representar sus ganancias mensuales.
 
@@ -58,7 +58,7 @@ El grado de un polinomio de una sola variable es el mayor exponente al que esta 
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de Bata necesita sumar dos expresiones algebraicas que representan perímetros de parcelas en la periferia de la ciudad.
 
@@ -77,7 +77,7 @@ La reduccion de terminos semejantes es la operacion base para simplificar expres
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un carpintero en Mbini utiliza la formula del area de un rectangulo, $A = b \cdot h$, y quiere saber el valor numerico para medidas especificas.
 
@@ -96,7 +96,7 @@ El valor numerico de una expresion algebraica se obtiene al sustituir las variab
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante de Mongomo estudia los productos notables para agilizar sus calculos algebraicos.
 
@@ -115,7 +115,7 @@ Los productos notables son formulas que permiten obtener el resultado de ciertas
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un sastre en Malabo usa la expresion $(x + 5)(x - 5)$ para calcular la diferencia de areas de retales de tela.
 
@@ -134,7 +134,7 @@ La formula $(a + b)(a - b) = a^2 - b^2$ se conoce como diferencia de cuadrados. 
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante en Evinayong divide un polinomio que representa el volumen de un granero entre la expresion de su altura.
 
@@ -153,7 +153,7 @@ Para dividir un polinomio por un monomio, aplicamos la propiedad distributiva de
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un profesor en Luba explica como simplificar el producto de una constante por un polinomio: $5(x^2 - 2x + 1)$.
 
@@ -172,7 +172,7 @@ La propiedad distributiva del producto sobre la suma/resta permite eliminar pare
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** En un taller mecanico en Malabo, se calcula el area de una pieza en forma de trapecio usando variables.
 
@@ -191,7 +191,7 @@ La suma de polinomios consiste en agrupar y operar exclusivamente los terminos q
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un estudiante en Mongomo identifica el termino independiente en un modelo de costos.
 
@@ -210,7 +210,7 @@ El termino independiente de un polinomio es el valor constante que no depende de
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en el Puerto de Malabo factoriza una expresion de carga: $x^2 - 7x + 10$.
 
@@ -229,7 +229,7 @@ Para factorizar un trinomio de la forma $x^2 + bx + c$, buscamos dos numeros que
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante en Annobon simplifica una fraccion algebraica para resolver un problema de distancias maritimas.
 
@@ -248,7 +248,7 @@ La simplificacion de fracciones algebraicas requiere factorizar primero tanto el
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un arquitecto en Mongomo calcula el perimetro de una figura compuesta por tres lados de longitud $2x + 1$ y uno de longitud $x - 4$.
 
@@ -267,7 +267,7 @@ Este problema requiere modelar una situacion real mediante una expresion algebra
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** En un examen de acceso a la UNGE, se pide realizar la multiplicacion de dos binomios: $(2x + 3)(x - 4)$.
 
@@ -286,7 +286,7 @@ La multiplicacion de polinomios se basa en la propiedad distributiva aplicada de
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante en Evinayong intenta factorizar la expresion $ax + ay + bx + by$ por agrupacion de terminos.
 
@@ -305,7 +305,7 @@ La factorizacion por agrupacion se aplica cuando no hay un factor comun a todos 
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** Un tecnico en Bata necesita simplificar el cuadrado de un trinomio simple: $(x + 1 + y)^2$.
 
@@ -324,7 +324,7 @@ La expansion de un multinomio al cuadrado sigue el patron: la suma de los cuadra
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado analiza la validez de una identidad algebraica propuesta para un modelo de ahorro en Francos CFA.
 
@@ -343,7 +343,7 @@ La factorizacion de suma y diferencia de cubos es una herramienta avanzada que p
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se plantea completar el trinomio cuadrado perfecto para resolver una ecuacion de diseño estructural en Ciudad de la Paz.
 
@@ -362,7 +362,7 @@ Completar el cuadrado es una tecnica para transformar un trinomio de la forma $x
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un programador en Malabo optimiza una función que calcula el costo total $C = 5x^2 + 20x + 15$ donde $x$ es el numero de licencias vendidas.
 
@@ -381,7 +381,7 @@ La factorizacion completa implica primero buscar el Maximo Comun Factor (MCF) de
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un estudiante de bachillerato avanzado analiza el resto de una division de polinomios sin realizar la division larga.
 

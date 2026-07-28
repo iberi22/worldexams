@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en la CDMX revisa sus notas sobre los criterios de igualdad entre figuras geométricas.
 
@@ -43,7 +43,7 @@ Dos figuras son congruentes si existe una isometría (traslación, rotación o r
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un dibujante técnico en Querétaro aplica los criterios de congruencia de triángulos para asegurar la simetría de una pieza mecánica.
 
@@ -64,7 +64,7 @@ Los criterios fundamentales para determinar si dos triángulos son congruentes s
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un fotógrafo en Guadalajara explica a su aprendiz cómo el cambio de zoom afecta la imagen pero mantiene las proporciones.
 
@@ -85,7 +85,7 @@ La semejanza de figuras se define por dos condiciones: 1) Los ángulos correspon
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante observa la sombra de un poste de luz en Monterrey y la compara con la de una vara de 1 metro.
 
@@ -106,7 +106,7 @@ Los rayos del sol se consideran paralelos. Al incidir sobre objetos verticales y
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un arquitecto en Puebla está utilizando una escala 1:50 para el plano de una casa.
 
@@ -127,7 +127,7 @@ La escala 1:50 significa que cada unidad en el plano representa 50 unidades real
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Dos triángulos rectángulos, $\triangle ABC$ y $\triangle DEF$, son semejantes. El primero tiene catetos de 3 cm y 4 cm.
 
@@ -148,7 +148,7 @@ Primero hallamos la hipotenusa del primer triángulo: $\sqrt{3^2 + 4^2} = 5\text
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Se tienen dos rectángulos semejantes. El rectángulo A tiene una base de 10 cm y un área de $50\text{ cm}^2$.
 
@@ -169,7 +169,7 @@ La razón de semejanza lineal es $k = 20 / 10 = 2$. El área de figuras semejant
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un topógrafo en Veracruz mide la distancia a través de un río utilizando triángulos semejantes formados por estacas en la orilla.
 
@@ -190,7 +190,7 @@ La relación entre perímetros de figuras semejantes es la misma que la razón d
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador de logotipos en el Estado de México proyecta una imagen en una pantalla, creando una figura semejante a la original.
 
@@ -211,7 +211,7 @@ La razón de las áreas de figuras semejantes es el cuadrado de la razón de sem
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un mapa con escala 1:1,000,000, la distancia entre dos ciudades mexicanas es de 15 cm.
 
@@ -232,7 +232,7 @@ Distancia real $= 15\text{ cm} \cdot 1,000,000 = 15,000,000\text{ cm}$. Para con
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero civil analiza dos vigas triangulares que sospecha son semejantes. El triángulo 1 tiene ángulos de $40^{\circ}$ y $60^{\circ}$.
 
@@ -253,7 +253,7 @@ La suma de los ángulos internos de cualquier triángulo es $180^{\circ}$. Triá
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un geómetra estudia un triángulo $\triangle ABC$ donde se traza un segmento $DE$ paralelo a la base $BC$, con $D$ en $AB$ y $E$ en $AC$.
 
@@ -274,7 +274,7 @@ Debido a que $DE \parallel BC$, el $\triangle ADE$ es semejante al $\triangle AB
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Se tienen dos cilindros semejantes. El cilindro pequeño tiene una altura de 5 cm y un volumen de $40\text{ cm}^3$.
 
@@ -295,7 +295,7 @@ La razón de semejanza lineal es $k = 10 / 5 = 2$. En cuerpos semejantes, el vol
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** En un triángulo rectángulo $\triangle ABC$ (recto en $C$), se traza la altura $h$ sobre la hipotenusa $c$.
 
@@ -316,7 +316,7 @@ Al trazar la altura sobre la hipotenusa de un triángulo rectángulo, se generan
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un fabricante de muñecas rusas (matrioskas) quiere que cada muñeca tenga un volumen que sea exactamente la mitad de la anterior.
 
@@ -337,7 +337,7 @@ La relación entre volúmenes de figuras semejantes es $V_2 / V_1 = k^3$. Si que
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.30
 **Contexto:** Un artista en San Miguel de Allende construye una escultura metálica que consiste en un tetraedro regular. Luego construye una réplica con el doble de material (volumen).
 
@@ -358,7 +358,7 @@ Si el volumen se duplica, la razón de semejanza lineal es $k = \sqrt[3]{2} = 2^
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.25
 **Contexto:** Un matemático analiza el "Teorema de la Bisectriz" en un triángulo $\triangle ABC$. La bisectriz del ángulo $A$ corta al lado opuesto $BC$ en el punto $D$.
 
@@ -379,7 +379,7 @@ El Teorema de la Bisectriz establece que, en cualquier triángulo, la bisectriz 
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Se plantea un problema de "Homotecia": una transformación que produce figuras semejantes.
 
@@ -400,7 +400,7 @@ En una homotecia, la razón $k$ determina el cambio de tamaño mediante $|k|$. S
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un astrónomo explica el fenómeno de los eclipses solares totales utilizando semejanza de triángulos.
 
@@ -421,7 +421,7 @@ El tamaño aparente (ángulo subtendido) depende de la relación $\frac{\text{di
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.15
 **Contexto:** Un estudiante de ingeniería analiza la semejanza de dos elipses definidas por las ecuaciones $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ y $\frac{x^2}{c^2} + \frac{y^2}{d^2} = 1$.
 

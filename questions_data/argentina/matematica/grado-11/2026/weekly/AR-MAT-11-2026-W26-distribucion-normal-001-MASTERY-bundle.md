@@ -28,7 +28,7 @@ Este bundle introduce la distribución normal, el concepto de estandarización (
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Clase universitaria teórica.
 **Expected_Success:** 0.88
 
@@ -51,7 +51,7 @@ La curva normal es una función de densidad de probabilidad. Por definición, la
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Datos biométricos poblacionales.
 **Expected_Success:** 0.85
 
@@ -74,7 +74,7 @@ La regla empírica o regla 68-95-99,7 describe los porcentajes de datos que caen
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estandarización de variables.
 **Expected_Success:** 0.82
 
@@ -97,7 +97,7 @@ Estandarizar permite comparar datos de distintas distribuciones normales. Z indi
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Propiedades de la normal estándar.
 **Expected_Success:** 0.80
 
@@ -120,7 +120,7 @@ La distribución normal es perfectamente simétrica respecto a su media. En la n
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de calidad industrial.
 **Expected_Success:** 0.75
 
@@ -143,7 +143,7 @@ Aplicamos Z = (x - μ) / σ. El valor de 10,4 está a 0,4 cm de la media. Como c
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Evaluación académica masiva.
 **Expected_Success:** 0.72
 
@@ -166,7 +166,7 @@ Z = (50 - 65) / 10 = -1,5. El signo negativo indica que el alumno obtuvo una cal
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Uso de tablas de probabilidad.
 **Expected_Success:** 0.70
 
@@ -189,7 +189,7 @@ La probabilidad de que Z sea mayor que un valor se calcula restando de 1 (el tot
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Vida útil de productos tecnológicos.
 **Expected_Success:** 0.74
 
@@ -212,7 +212,7 @@ Por definición de estandarización, el valor de la media (μ) siempre se mapea 
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Comercialización frutihortícola.
 **Expected_Success:** 0.68
 
@@ -235,7 +235,7 @@ La simetría de la curva normal implica que P(Z > -a) = P(Z < a). El área "de l
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Envasado de productos de consumo masivo.
 **Expected_Success:** 0.75
 
@@ -258,7 +258,7 @@ La desviación estándar controla la "dispersión" o ancho de la campana. Una σ
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Selección de personal.
 **Expected_Success:** 0.65
 
@@ -281,7 +281,7 @@ Primero calculamos Z = 2. Luego, como buscamos a los que superan ese valor, calc
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cálculo de probabilidad en intervalos centrales.
 **Expected_Success:** 0.62
 
@@ -304,7 +304,7 @@ Para calcular P(a < Z < b) restamos F(b) - F(a). Por simetría, el área fuera d
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Telecomunicaciones y experiencia de usuario.
 **Expected_Success:** 0.60
 
@@ -327,7 +327,7 @@ Usamos la fórmula de estandarización para hallar un parámetro desconocido. De
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Metrología y precisión de instrumentos.
 **Expected_Success:** 0.58
 
@@ -350,7 +350,7 @@ Buscamos P(|X| > 0,02), que equivale a las áreas externas a 2 desviaciones est�
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Inversiones financieras y riesgo.
 **Expected_Success:** 0.55
 
@@ -373,7 +373,7 @@ Perder dinero significa X < 0. Estandarizando: Z = (0 - 2) / 4 = -0,5. Por simet
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v16
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Relación entre percentiles y puntajes Z.
 **Expected_Success:** 0.64
 
@@ -396,7 +396,7 @@ La simetría de la distribución normal implica que los percentiles complementar
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Gestión de servicios públicos.
 **Expected_Success:** 0.52
 
@@ -419,7 +419,7 @@ Como el 10% superior e inferior están a la misma distancia de probabilidad, la 
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Optimización de procesos productivos.
 **Expected_Success:** 0.48
 
@@ -442,7 +442,7 @@ Para reducir el desperdicio (rechazos), la empresa debe "alejar" el promedio del
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Teorema de De Moivre-Laplace.
 **Expected_Success:** 0.50
 
@@ -465,7 +465,7 @@ Para muestras grandes, la Binomial se aproxima a la Normal. Aquí μ=200 y σ=10
 
 **ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Distribuciones de alto rendimiento.
 **Expected_Success:** 0.45
 

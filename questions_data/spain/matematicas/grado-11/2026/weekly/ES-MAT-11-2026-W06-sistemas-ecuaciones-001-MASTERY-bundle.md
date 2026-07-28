@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en un instituto de Madrid repasa los métodos clásicos para resolver sistemas de dos ecuaciones lineales.
 
@@ -41,7 +41,7 @@ Los tres métodos algebraicos clásicos para sistemas lineales son sustitución,
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se explica la clasificación de los sistemas de ecuaciones en una clase en Barcelona.
 
@@ -62,7 +62,7 @@ Un sistema es compatible si tiene solución. Si tiene una sola, es determinado (
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante resuelve un sistema sencillo para calcular el precio unitario de dos productos en Valencia.
 
@@ -84,7 +84,7 @@ Este sistema es ideal para el método de reducción. Al sumar las dos ecuaciones
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Sevilla pregunta por la interpretación geométrica de un sistema incompatible.
 
@@ -105,7 +105,7 @@ La solución de un sistema es el punto (o puntos) común a ambas gráficas. Si l
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un administrativo en una oficina de Sevilla calcula el coste de sobres y sellos mediante un sistema.
 
@@ -127,7 +127,7 @@ Podemos usar sustitución despejando $x = 1 + y$ de la segunda ecuación. Sustit
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante en Bilbao resuelve un sistema donde los coeficientes de las incógnitas son múltiplos entre sí.
 
@@ -149,7 +149,7 @@ Si al multiplicar una ecuación por un número obtenemos exactamente la otra (in
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la condición para que un sistema de dos rectas sea paralelo pero no coincidente.
 
@@ -170,7 +170,7 @@ Un sistema es incompatible si los coeficientes de las incógnitas son proporcion
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un agricultor en Murcia mezcla dos tipos de abono. El tipo A cuesta 2 €/kg y el tipo B cuesta 5 €/kg. Quiere obtener 10 kg de mezcla a un precio de 3,2 €/kg.
 
@@ -191,7 +191,7 @@ En problemas de mezclas, solemos tener una ecuación para la cantidad total ($x 
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en San Sebastián resuelve un sistema de tres ecuaciones con tres incógnitas usando el método de Gauss.
 
@@ -212,7 +212,7 @@ El método de Gauss consiste en realizar operaciones elementales entre las filas
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Un estudiante en Santander resuelve un sistema no lineal sencillo (recta y parábola).
 
@@ -233,7 +233,7 @@ Para resolver sistemas no lineales donde una variable está despejada en ambas, 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado en Madrid estudia el Teorema de Rouché-Frobenius para sistemas con parámetros.
 
@@ -254,7 +254,7 @@ El Teorema de Rouché-Frobenius es la herramienta definitiva para discutir siste
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se plantea la resolución de un sistema de 3 ecuaciones lineales mediante Gauss en un examen de acceso.
 
@@ -276,7 +276,7 @@ Este es un sistema ya escalonado (triangular superior). Se resuelve por sustituc
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias explica las características de un sistema homogéneo.
 
@@ -297,7 +297,7 @@ Un sistema homogéneo es aquel donde $Ax = 0$. Debido a que el vector nulo siemp
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga resuelve un sistema no lineal para hallar la intersección de una tubería recta con una estructura circular.
 
@@ -319,7 +319,7 @@ Sustituimos la expresión de $y$ en la ecuación del círculo. Obtenemos una ecu
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el rango de una matriz para discutir un sistema dependiente de $m$.
 
@@ -340,7 +340,7 @@ Para sistemas cuadrados (mismo número de ecuaciones que de incógnitas), el det
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante resuelve un sistema donde una ecuación es logarítmica.
 
@@ -362,7 +362,7 @@ Transformamos la ecuación logarítmica en una algebraica: $xy = 10^1 = 10$. El 
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en Madrid usa la Regla de Cramer para resolver sistemas pequeños en un motor gráfico.
 
@@ -383,7 +383,7 @@ La Regla de Cramer es elegante pero restrictiva: requiere una matriz cuadrada y 
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la discusión de un sistema con un parámetro $a$ en la matriz ampliada.
 
@@ -404,7 +404,7 @@ La desigualdad de rangos ($Rg(A) < Rg(A')$) implica que el vector de términos i
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza un sistema indeterminado con 3 incógnitas y rango 2.
 
@@ -425,7 +425,7 @@ El número de parámetros (grados de libertad) de un sistema compatible indeterm
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre un sistema donde los coeficientes forman una progresión.
 

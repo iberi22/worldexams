@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to futuristic concepts.
 
@@ -45,7 +45,7 @@ Automation is the use of technology to perform tasks that were previously done b
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Future prediction.
 
@@ -65,7 +65,7 @@ The future perfect passive 'will have been found' describes an achievement proje
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about a major societal shift.
 
@@ -85,7 +85,7 @@ The mixed conditional connects a past hypothetical failure with a present negati
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "Universal Basic Income" (UBI).
 
@@ -105,7 +105,7 @@ UBI is a model for providing all citizens of a country with a given sum of money
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the ethics of "transhumanism".
 
@@ -125,7 +125,7 @@ Transhumanism is the belief or theory that the human race can evolve beyond its 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Space colonization.
 
@@ -145,7 +145,7 @@ To colonize another planet means to send people to live there and establish a pe
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future trend in education.
 
@@ -165,7 +165,7 @@ The passive infinitive 'to be designed' follows the structure 'likely to' to des
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "vertical farming".
 
@@ -185,7 +185,7 @@ Vertical farming could provide a sustainable solution to food production in dens
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Expressing a hope for the future.
 
@@ -205,7 +205,7 @@ I wish we would solve the problem of world hunger once and for all.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "technological utopianism".
 
@@ -225,7 +225,7 @@ The author warns against technological utopianism, the belief that technology wi
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining a term for the future.
 
@@ -245,7 +245,7 @@ A futurist is a person who studies the future and makes predictions about it bas
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in a futuristic scenario.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the state of being submerged will be a
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing longevity.
 
@@ -285,7 +285,7 @@ Scientific advancements in biotechnology could significantly increase human long
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about the energy transition.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on future work.
 
@@ -325,7 +325,7 @@ The author concludes that adaptability will be the most valuable skill in the fu
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Digital currency.
 
@@ -345,7 +345,7 @@ Cryptocurrency is a digital or virtual currency that is secured by cryptography.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a future prediction.
 
@@ -365,7 +365,7 @@ In reported speech, we change 'will' to 'would' when the reporting verb is in th
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "sustainable cities".
 
@@ -385,7 +385,7 @@ Future cities must be designed to be self-sufficient in terms of energy and wate
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long-term research project.
 
@@ -405,7 +405,7 @@ The future perfect continuous 'will have been monitoring' describes the total du
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on future ethics.
 

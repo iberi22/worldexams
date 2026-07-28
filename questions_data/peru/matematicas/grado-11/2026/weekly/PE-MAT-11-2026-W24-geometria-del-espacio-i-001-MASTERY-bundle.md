@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa las nociones básicas de los sólidos platónicos.
 
@@ -45,7 +45,7 @@ Un hexaedro regular es un poliedro de seis caras cuadradas. Es uno de los cinco 
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un arquitecto en Arequipa analiza la forma de una columna prismática.
 
@@ -70,7 +70,7 @@ Un prisma se denomina recto cuando sus aristas laterales son perpendiculares a l
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un fabricante de cajas en Trujillo produce envases con forma de paralelepípedo rectángulo.
 
@@ -95,7 +95,7 @@ El volumen de un paralelepípedo rectángulo (u ortoedro) se calcula multiplican
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Se construye una pirámide cuadrangular regular para un proyecto escolar en Cusco.
 
@@ -120,7 +120,7 @@ El volumen de cualquier pirámide se calcula como un tercio del producto del ár
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un examen de simulación de la Universidad Nacional Mayor de San Marcos (UNMSM) plantea un problema sobre poliedros y el teorema de Euler.
 
@@ -145,7 +145,7 @@ El teorema de Euler para poliedros convexos establece que el número de vértice
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en la UNI calcula el área lateral de un prisma hexagonal regular.
 
@@ -170,7 +170,7 @@ El área lateral de un prisma es el producto del perímetro de la base por la al
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un decorador en Chiclayo diseña una pieza con forma de octaedro regular.
 
@@ -195,7 +195,7 @@ Un octaedro regular tiene 8 caras que son triángulos equiláteros. El área de 
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de la Universidad Nacional de Ingeniería (UNI) analiza la diagonal de un cubo.
 
@@ -220,7 +220,7 @@ La diagonal de un cubo se calcula como $D = a\sqrt{3}$. Si $D = 6\sqrt{3}$, la a
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Cálculo del área total de una pirámide cuadrangular en un taller de arquitectura en Lima.
 
@@ -245,7 +245,7 @@ El área total de una pirámide es la suma del área de la base y el área later
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el concepto de apotema en una pirámide regular durante una clase en Ica.
 
@@ -270,7 +270,7 @@ En una pirámide regular, la apotema de la pirámide es la altura de sus caras l
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Un problema sobre el área de la superficie de un tetraedro regular, común en el examen de admisión UNI.
 
@@ -295,7 +295,7 @@ Un tetraedro regular tiene 6 aristas iguales. Si la suma es 36, cada arista $a$ 
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero hidráulico en Piura calcula la capacidad de un canal con sección trapezoidal (prisma trapezoidal).
 
@@ -320,7 +320,7 @@ El volumen de un prisma es el producto del área de su base por su altura (en es
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un problema de geometría tridimensional sobre la distancia entre los centros de las caras de un cubo, nivel pre-UNI.
 
@@ -345,7 +345,7 @@ Al proyectar los centros de dos caras adyacentes sobre la arista común, vemos q
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Preparación para el examen de admisión UNI sobre el área de una sección en un tetraedro.
 
@@ -370,7 +370,7 @@ La sección es un triángulo cuyos lados son la arista del tetraedro ($a$) y las
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Un problema de optimización en el empaquetado de productos en una fábrica en el Callao.
 
@@ -395,7 +395,7 @@ Este es un problema de extremos condicionados. El área superficial es $S = x^2 
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un arquitecto en Cusco diseña el techo de una vivienda con forma de pirámide regular de base hexagonal.
 
@@ -420,7 +420,7 @@ En una pirámide regular, la altura ($h$), el radio de la base ($R$) y la arista
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Desafío avanzado del examen UNI sobre la razón de volúmenes tras un corte paralelo a la base en una pirámide.
 
@@ -445,7 +445,7 @@ Cuando se corta una pirámide con un plano paralelo a la base, la pirámide pequ
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Cálculo de la distancia mínima sobre la superficie de un sólido (geodésica), estilo olimpiada matemática.
 
@@ -470,7 +470,7 @@ Para hallar la distancia mínima sobre la superficie, "desdoblamos" el cubo en u
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Un problema complejo sobre el volumen de una pirámide oblicua, nivel admisión UNI.
 
@@ -495,7 +495,7 @@ En un tetraedro trirrectángulo (donde tres aristas que parten de un mismo vért
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Un geómetra estudia la esfera inscrita en un poliedro regular (hexaedro).
 

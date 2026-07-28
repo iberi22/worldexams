@@ -28,7 +28,7 @@ Este bundle trata sobre la organización de datos, tablas de frecuencias y repre
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Datos sobre composición familiar escolar.
 **Expected_Success:** 0.90
 
@@ -51,7 +51,7 @@ Las variables cuantitativas discretas son aquellas que solo pueden tomar valores
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Registro climático diario.
 **Expected_Success:** 0.88
 
@@ -74,7 +74,7 @@ Las variables cuantitativas continuas pueden tomar cualquier valor real dentro d
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Encuesta de opinión sobre transporte público.
 **Expected_Success:** 0.85
 
@@ -97,7 +97,7 @@ Las variables cualitativas ordinales expresan categorías no numéricas pero que
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación de tablas de frecuencia.
 **Expected_Success:** 0.82
 
@@ -120,7 +120,7 @@ La frecuencia relativa (hi) es el cociente entre la frecuencia absoluta (fi) y e
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Distribución de ingresos familiares.
 **Expected_Success:** 0.78
 
@@ -143,7 +143,7 @@ La marca de clase (xi) es el punto medio del intervalo y se utiliza como el valo
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Representación gráfica de datos.
 **Expected_Success:** 0.75
 
@@ -168,7 +168,7 @@ El histograma se utiliza para representar distribuciones de variables continuas 
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Rendimiento académico escolar.
 **Expected_Success:** 0.74
 
@@ -195,7 +195,7 @@ La frecuencia acumulada de un valor es la suma de su propia frecuencia absoluta 
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Hábitos de lectura en jóvenes.
 **Expected_Success:** 0.72
 
@@ -218,7 +218,7 @@ La frecuencia acumulada de un valor es la suma de su propia frecuencia absoluta 
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Consumo de yerba mate en Argentina.
 **Expected_Success:** 0.80
 
@@ -241,7 +241,7 @@ En un gráfico circular, el ángulo central de cada sector es proporcional a su 
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Gestión de salud pública.
 **Expected_Success:** 0.70
 
@@ -267,7 +267,7 @@ En la notación de intervalos de clase, el extremo izquierdo suele ser cerrado (
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Biometría en deportistas.
 **Expected_Success:** 0.65
 
@@ -290,7 +290,7 @@ Sumamos las frecuencias relativas de todos los intervalos que cumplen la condici
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Consumo energético regional.
 **Expected_Success:** 0.62
 
@@ -313,7 +313,7 @@ En un gráfico de frecuencias, el eje X representa los valores de la variable. S
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Logística y transporte.
 **Expected_Success:** 0.68
 
@@ -336,7 +336,7 @@ Dado que las frecuencias acumuladas se obtienen sumando cantidades siempre no ne
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Construcción de intervalos de clase.
 **Expected_Success:** 0.64
 
@@ -359,7 +359,7 @@ La amplitud se calcula dividiendo el rango (Valor Máximo - Valor Mínimo) por l
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v15
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Propiedades de las frecuencias.
 **Expected_Success:** 0.70
 
@@ -382,7 +382,7 @@ Por definición, la frecuencia absoluta acumulada del último intervalo de una d
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Análisis de forma de distribuciones.
 **Expected_Success:** 0.58
 
@@ -405,7 +405,7 @@ La asimetría positiva ocurre cuando los datos se concentran en valores bajos, p
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Finanzas y mercados de capitales.
 **Expected_Success:** 0.52
 
@@ -428,7 +428,7 @@ Primero calculamos la frecuencia relativa del segundo intervalo: 30 / 80 = 0,375
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Reconstrucción de distribuciones incompletas.
 **Expected_Success:** 0.55
 
@@ -451,7 +451,7 @@ La propiedad fundamental es que Σ hi = 1. El valor faltante es 1 - 0,80 = 0,20.
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Densidad de frecuencia en histogramas.
 **Expected_Success:** 0.45
 
@@ -474,7 +474,7 @@ En histogramas avanzados, la altura representa la densidad de frecuencia (fi/ai)
 
 **ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Interpretación avanzada de curvas acumulativas.
 **Expected_Success:** 0.40
 

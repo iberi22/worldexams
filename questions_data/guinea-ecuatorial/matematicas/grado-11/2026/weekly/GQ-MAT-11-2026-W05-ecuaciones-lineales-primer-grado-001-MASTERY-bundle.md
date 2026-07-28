@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Carlos Lwanga de Bata estudia las propiedades de la igualdad para resolver ecuaciones.
 
@@ -39,7 +39,7 @@ Resolver una ecuacion lineal es un proceso algebraico donde se aplican operacion
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Malabo usa una ecuacion simple para equilibrar sus gastos diarios: $x + 1500 = 5000$ Francos CFA.
 
@@ -58,7 +58,7 @@ Para despejar una incognita, debemos "deshacer" las operaciones que le afectan. 
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** En una papelería de Ebebiyin, el precio de un cuaderno es $x$ y el de tres cuadernos es $2400$ Francos CFA.
 
@@ -77,7 +77,7 @@ El lenguaje algebraico permite traducir situaciones cotidianas a expresiones mat
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante resuelve la ecuacion $2x - 10 = 0$ para encontrar el punto donde una funcion corta al eje X.
 
@@ -96,7 +96,7 @@ Primero sumamos 10 a ambos lados: $2x = 10$. Luego dividimos entre 2: $x = 10/2 
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un agricultor en Mongomo tiene una parcela rectangular cuyo perimetro es de 100 metros. El largo es el triple del ancho.
 
@@ -115,7 +115,7 @@ El perimetro de un rectangulo es $P = 2(largo + ancho)$. Al sustituir las relaci
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en Annobon resuelve la ecuacion $\frac{x}{2} + 5 = 11$ para calcular la cantidad de combustible necesaria para un bote.
 
@@ -134,7 +134,7 @@ Primero aislamos el termino que contiene la incognita restando 5 en ambos lados.
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un tecnico en Ciudad de la Paz repara un sistema que sigue la ley $3(x - 4) = 18$.
 
@@ -153,7 +153,7 @@ Podemos resolverla de dos maneras: 1) Dividir todo entre 3 primero para simplifi
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En una panaderia de Malabo, el costo de un pan mas $500$ Francos de envio es igual al doble del precio del pan.
 
@@ -172,7 +172,7 @@ La ecuacion que modela el problema es $x + 500 = 2x$. Al restar $x$ en ambos lad
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong resuelve la ecuacion $4x - 7 = x + 8$.
 
@@ -191,7 +191,7 @@ Agrupamos los terminos con $x$ en el lado izquierdo: $4x - x = 3x$. Agrupamos lo
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica que algunas ecuaciones no tienen una sola solucion numerica simple.
 
@@ -210,7 +210,7 @@ Las identidades son ecuaciones especiales donde ambos lados son expresiones equi
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un comerciante de cacao en Luba tiene dos tipos de sacos. Uno pesa $x$ kg y el otro pesa $5$ kg mas. Si juntos pesan $45$ kg, ¿cuanto pesa el saco mas ligero?
 
@@ -229,7 +229,7 @@ Definimos las variables segun el enunciado: $x$ (ligero) y $x+5$ (pesado). La su
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante en Malabo resuelve una ecuacion con incognitas en ambos lados: $5x - 8 = 2x + 7$.
 
@@ -248,7 +248,7 @@ Para resolver ecuaciones con la incognita en ambos miembros, agrupamos los termi
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Guinea Ecuatorial analiza una viga donde la carga se distribuye segun $\frac{2x - 3}{4} = 5$.
 
@@ -267,7 +267,7 @@ Primero eliminamos el denominador multiplicando ambos lados por 4. Luego sumamos
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** En un examen de la UNGE, se plantea una ecuacion que resulta en una identidad: $2(x + 3) = 2x + 6$.
 
@@ -286,7 +286,7 @@ Una ecuacion que es verdadera para cualquier valor de la incognita se llama iden
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante en Evinayong resuelve una ecuacion con parentesis anidados: $2[3 - (x - 1)] = 4$.
 
@@ -305,7 +305,7 @@ Para resolver ecuaciones con parentesis y corchetes, trabajamos desde adentro ha
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Bata se plantea la ecuacion $\frac{x+2}{3} = \frac{x-1}{2}$.
 
@@ -324,7 +324,7 @@ Cuando tenemos una igualdad de dos razones (proporcion), podemos aplicar el prod
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Se plantea una ecuacion contradictoria para analizar el pensamiento logico: $x + 5 = x + 10$.
 
@@ -343,7 +343,7 @@ Existen ecuaciones que no tienen solucion. Estas ocurren cuando la estructura de
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Un analista financiero en Bata estudia la depreciacion de una maquinaria que cuesta $10,000,000$ Francos CFA y pierde $500,000$ al año.
 
@@ -362,7 +362,7 @@ Modelamos el valor final como una funcion lineal del tiempo: $V(t) = V_0 - d \cd
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante avanzado resuelve una ecuacion con multiples denominadores: $\frac{x}{2} + \frac{x}{3} = 10$.
 
@@ -381,7 +381,7 @@ Para resolver ecuaciones con fracciones, el metodo mas eficiente es multiplicar 
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W05-ecuaciones-lineales-primer-grado-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un problema clasico de edades: La edad de Juan es el doble que la de Maria, y hace 5 años la suma de sus edades era 20.
 

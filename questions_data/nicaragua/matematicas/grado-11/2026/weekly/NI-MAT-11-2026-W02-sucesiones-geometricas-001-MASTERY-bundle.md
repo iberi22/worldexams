@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la Universidad Nacional Autónoma de Nicaragua (UNAN) estudia el crecimiento de poblaciones celulares.
 
@@ -39,7 +39,7 @@ Una sucesión geométrica se define por la relación recurrente $a_n = a_{n-1} \
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Un laboratorio en Managua analiza la duplicación de bacterias en un cultivo.
 
@@ -58,7 +58,7 @@ El término enésimo se obtiene multiplicando el primer término por la razón e
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un plan de inversión en un banco nicaragüense que ofrece interés compuesto.
 
@@ -77,7 +77,7 @@ La magnitud de la razón determina el crecimiento o decrecimiento: $|r| > 1$ imp
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Una progresión de valores en una escala logarítmica.
 
@@ -96,7 +96,7 @@ La razón común se halla dividiendo un término entre su antecesor: $r = a_n / 
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Un rumor que se extiende en una red social en Nicaragua, triplicando su alcance cada hora.
 
@@ -115,7 +115,7 @@ Aplicando $a_n = a_1 \cdot r^{n-1}$ con $a_1=5, r=3, n=4$, resulta en 135.
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** El valor de un equipo agrícola en Chinandega que se deprecia un 20% anual.
 
@@ -134,7 +134,7 @@ La depreciación porcentual constante se modela como una sucesión geométrica d
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Un experimento de física en un colegio de Granada sobre el rebote de una pelota.
 
@@ -153,7 +153,7 @@ Cada rebote es un término de una sucesión geométrica. La altura después del 
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** El ahorro acumulado en una cooperativa de Estelí.
 
@@ -172,7 +172,7 @@ Usamos la relación $a_j = a_i \cdot r^{j-i}$. Despejando: $r = \sqrt[j-i]{a_j/a
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.62
 **Contexto:** Un cambio de signo en los términos de una progresión.
 
@@ -191,7 +191,7 @@ Una razón negativa produce una sucesión alternante. Si $r = -1$, la sucesión 
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Identificación del número de términos en una sucesión finita.
 
@@ -210,7 +210,7 @@ Para hallar n, resolvemos la ecuación exponencial $a_n = a_1 \cdot r^{n-1}$. Aq
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Un sistema de ahorro donde se deposita el doble del día anterior.
 
@@ -229,7 +229,7 @@ La suma de una sucesión geométrica finita depende del primer término, la raz�
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un fondo de emergencia que comienza con C$ 100 y se duplica cada mes durante un semestre.
 
@@ -248,7 +248,7 @@ Aplicando la fórmula de la suma finita con $n=6$: $100 \cdot (63) = 6,300$.
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Un descuento sucesivo en una tienda de ropa en Managua.
 
@@ -267,7 +267,7 @@ Los descuentos porcentuales sucesivos son multiplicativos, no aditivos. El facto
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** La suma de una serie de donaciones que disminuyen a la mitad cada año.
 
@@ -286,7 +286,7 @@ Una serie geométrica infinita converge si y solo si la razón está entre -1 y 
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** Un problema de interpolación de medios geométricos entre dos valores de presión atmosférica.
 
@@ -305,7 +305,7 @@ Interpolar $k$ medios geométricos requiere hallar la razón $r = \sqrt[k+1]{b/a
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Identificación de la naturaleza de una sucesión a partir de una propiedad algebraica.
 
@@ -324,7 +324,7 @@ El término central de tres términos consecutivos en una progresión geométric
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** El problema del tablero de ajedrez y los granos de trigo (versión nicaragüense con granos de café).
 
@@ -343,7 +343,7 @@ Este es el ejemplo clásico de crecimiento exponencial acelerado. La suma de las
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Un análisis de convergencia de una serie geométrica con razón fraccionaria compleja.
 
@@ -362,7 +362,7 @@ La serie converge a 1, demostrando cómo una suma infinita de partes cada vez m�
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Un reto de lógica sobre la relación entre sucesiones aritméticas y geométricas.
 
@@ -381,7 +381,7 @@ Igualamos las razones entre términos consecutivos para formar una ecuación cua
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Determinación del producto de los primeros términos de una sucesión geométrica.
 

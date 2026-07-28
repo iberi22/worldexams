@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Ciudad de Guatemala está traduciendo enunciados cotidianos al lenguaje algebraico.
 
@@ -39,7 +39,7 @@ La traducción al lenguaje algebraico requiere identificar las palabras clave qu
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En un examen de álgebra, se pide identificar las partes fundamentales de un término algebraico.
 
@@ -58,7 +58,7 @@ El grado absoluto de un monomio se obtiene sumando los exponentes de todas sus v
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un arquitecto diseña una plaza rectangular en Antigua Guatemala y utiliza expresiones para sus dimensiones.
 
@@ -77,7 +77,7 @@ El perímetro de un rectángulo se calcula sumando el doble del largo y el doble
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante de artesanías usa polinomios para modelar sus costos y ventas.
 
@@ -96,7 +96,7 @@ Un trinomio es un polinomio con tres términos. Su grado se define por el térmi
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante simplifica expresiones antes de realizar cálculos de física.
 
@@ -115,7 +115,7 @@ La suma de polinomios se realiza agrupando y sumando únicamente los coeficiente
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un carpintero en Mixco calcula el área sobrante de una tabla de madera.
 
@@ -134,7 +134,7 @@ Para restar polinomios, se suma al primer polinomio el opuesto del segundo (camb
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un analista de sistemas necesita optimizar el almacenamiento de datos usando expresiones simplificadas.
 
@@ -153,7 +153,7 @@ La propiedad distributiva establece que el monomio exterior multiplica a cada un
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un grupo de estudiantes en Quetzaltenango estudia productos notables para agilizar sus cálculos.
 
@@ -172,7 +172,7 @@ El cuadrado de un binomio resulta en un trinomio cuadrado perfecto: el cuadrado 
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un taller de metalurgia en Escuintla, se calculan dimensiones de láminas metálicas.
 
@@ -191,7 +191,7 @@ El producto de la suma por la diferencia de dos términos es igual a la diferenc
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un programador usa el valor numérico de expresiones para probar sus algoritmos.
 
@@ -210,7 +210,7 @@ Evaluar un polinomio consiste en sustituir la variable por el valor dado y reali
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero civil en Guatemala necesita factorizar expresiones para simplificar el cálculo de esfuerzos en vigas.
 
@@ -229,7 +229,7 @@ Para factorizar un trinomio de la forma $x^2 + bx + c$, buscamos dos números qu
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** En un laboratorio de química, se usan fracciones algebraicas para expresar concentraciones.
 
@@ -248,7 +248,7 @@ La simplificación de fracciones algebraicas requiere factorizar numerador y den
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador gráfico utiliza potencias de polinomios para crear patrones escalables.
 
@@ -267,7 +267,7 @@ El cubo de un binomio sigue un patrón específico de coeficientes ($1, 3, 3, 1$
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un contable en una exportadora de banano en Izabal utiliza división de polinomios para prorratear costos.
 
@@ -286,7 +286,7 @@ La división de polinomios puede realizarse mediante división larga o, en este 
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de ingeniería utiliza el factor común para simplificar fórmulas de resistencia de materiales.
 
@@ -305,7 +305,7 @@ Para factorizar por factor común, se identifica el máximo común divisor de lo
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un topógrafo necesita calcular el área de un terreno irregular modelado por la diferencia de dos cuadrados.
 
@@ -324,7 +324,7 @@ Una diferencia de cuadrados se factoriza como el producto de binomios conjugados
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un matemático guatemalteco analiza la estructura de los polinomios primos sobre los números reales.
 
@@ -343,7 +343,7 @@ La suma de cubos se factoriza como un binomio por un trinomio. El signo del tér
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante utiliza la regla de Ruffini (división sintética) para hallar raíces de polinomios.
 
@@ -362,7 +362,7 @@ El teorema del residuo establece que el resto de dividir un polinomio $P(x)$ ent
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un investigador de la USAC trabaja en la simplificación de modelos polinómicos complejos para estudios demográficos.
 
@@ -381,7 +381,7 @@ Este es un polinomio de tipo bicuadrático. Se factoriza primero como un trinomi
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** En un certamen de matemáticas, se plantea un reto sobre simplificación de expresiones racionales compuestas.
 

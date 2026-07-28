@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En un taller de artesanías en Antigua Guatemala, los artesanos clasifican diferentes tipos de medidas según su precisión y naturaleza.
 
@@ -39,7 +39,7 @@ Los números irracionales son aquellos que no pueden ser expresados como la raz�
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante del mercado de Chichicastenango registra sus ganancias diarias (números positivos) y sus deudas (números negativos).
 
@@ -58,7 +58,7 @@ En el conjunto de los números enteros, las deudas se representan como valores n
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En la construcción de estructuras escolares en Quetzaltenango, se utilizan diferentes escalas de medida.
 
@@ -77,7 +77,7 @@ La propiedad conmutativa es fundamental en el sistema de los números reales y p
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de bachillerato en Guatemala está analizando la recta numérica para representar las distancias entre diferentes municipios.
 
@@ -96,7 +96,7 @@ La densidad es una propiedad de los conjuntos de números racionales e irraciona
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Una exportadora de café en Huehuetenango necesita calcular el peso total de varios lotes expresados en diferentes unidades.
 
@@ -115,7 +115,7 @@ Para sumar números reales en diferentes formatos (decimal y fracción mixta), e
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** En el diseño de un huipil, una tejedora utiliza patrones geométricos que requieren el cálculo de áreas circulares.
 
@@ -134,7 +134,7 @@ $\pi$ es el ejemplo más conocido de un número irracional. Además, es trascend
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un agricultor en Petén divide su terreno para diferentes tipos de cultivos.
 
@@ -153,7 +153,7 @@ La resolución implica identificar la fracción complementaria ($1 - 2/5 = 3/5$)
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un banco en Ciudad de Guatemala ofrece una tasa de interés sobre los ahorros de sus clientes.
 
@@ -172,7 +172,7 @@ El inverso multiplicativo de un número $a$ es $1/a$, tal que $a \times (1/a) = 
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un laboratorio escolar se mide la temperatura en grados Celsius, permitiendo valores positivos y negativos.
 
@@ -191,7 +191,7 @@ El manejo de operaciones con números enteros requiere atención a los signos qu
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un arquitecto diseña una plaza circular y necesita estimar el material para el borde.
 
@@ -210,7 +210,7 @@ La longitud de una circunferencia se calcula multiplicando el diámetro por $\pi
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de ingeniería analiza la precisión de las calculadoras al operar con raíces cuadradas.
 
@@ -229,7 +229,7 @@ El producto de dos números irracionales puede dar como resultado un número rac
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Una empresa de transporte en Escuintla calcula el consumo de combustible de sus camiones.
 
@@ -248,7 +248,7 @@ Convertir decimales a fracciones y simplificar es una habilidad clave para expre
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un programador en Guatemala está definiendo los tipos de datos para una aplicación financiera.
 
@@ -267,7 +267,7 @@ Para comparar números reales, es útil convertirlos a su expansión decimal o e
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un científico estudia la ley de gravitación y se encuentra con expresiones que involucran potencias y raíces.
 
@@ -286,7 +286,7 @@ Las leyes de los exponentes permiten simplificar expresiones complejas dentro de
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un topógrafo mide la distancia entre dos puntos en un terreno inclinado usando el teorema de Pitágoras.
 
@@ -305,7 +305,7 @@ El teorema de Pitágoras es una aplicación fundamental de los números reales (
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** En una clase de matemáticas, se discute la clasificación de los números según sus propiedades de cierre.
 
@@ -324,7 +324,7 @@ La propiedad de cierre indica que al realizar una operación con elementos de un
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante investiga la validez de diferentes enunciados sobre los números reales para una olimpiada de matemáticas.
 
@@ -343,7 +343,7 @@ La evaluación de propiedades de conjuntos numéricos requiere el uso de contrae
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un curso de lógica matemática, se analiza la estructura de los sistemas numéricos.
 
@@ -362,7 +362,7 @@ Este problema evalúa la comprensión de la función raíz cuadrada como valor a
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un astrónomo en el observatorio de la Ciudad de Guatemala maneja distancias astronómicas en notación científica.
 
@@ -381,7 +381,7 @@ La operación con números reales en notación científica requiere la aplicaci�
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un matemático guatemalteco está revisando la demostración de la densidad de los números reales.
 

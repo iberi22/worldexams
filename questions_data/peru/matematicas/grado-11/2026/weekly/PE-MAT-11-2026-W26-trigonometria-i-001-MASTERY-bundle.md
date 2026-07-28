@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa las razones trigonométricas en un triángulo rectángulo.
 
@@ -45,7 +45,7 @@ Las razones trigonométricas relacionan los lados de un triángulo rectángulo. 
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un carpintero en Trujillo utiliza un triángulo notable de 45° para un diseño.
 
@@ -70,7 +70,7 @@ En un triángulo rectángulo isósceles (ángulos de 45° y 45°), los catetos t
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Se analiza la relación entre las razones trigonométricas recíprocas en una clase en Arequipa.
 
@@ -95,7 +95,7 @@ Las razones trigonométricas recíprocas son pares cuyo producto es igual a 1. L
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Un topógrafo mide la elevación de una torre de 40 m en Cusco.
 
@@ -120,7 +120,7 @@ Se utiliza la razón tangente para relacionar la altura (cateto opuesto) y la di
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un examen de simulación sobre razones trigonométricas de ángulos complementarios.
 
@@ -145,7 +145,7 @@ Las razones trigonométricas de ángulos complementarios cumplen que el seno de 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Un triángulo rectángulo en la UNI con hipotenusa de 25 cm y $\sin\alpha = 4/5$.
 
@@ -170,7 +170,7 @@ A partir del seno hallamos el cateto opuesto: $x = 25 \times (4/5) = 20$ cm. Usa
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un taller de matemáticas en Lima sobre identidades trigonométricas recíprocas.
 
@@ -195,7 +195,7 @@ Usamos dos propiedades: 1) El producto de razones recíprocas del mismo ángulo 
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un triángulo oblicuángulo analizado mediante la altura en un examen preuniversitario.
 
@@ -220,7 +220,7 @@ La altura $h$ respecto al lado $AC$ se halla en el primer triángulo rectángulo
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Simplificación de expresiones trigonométricas en Trujillo.
 
@@ -245,7 +245,7 @@ Para evaluar la expresión conociendo la tangente, dividimos todos los términos
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Uso de triángulos notables aproximados (16° y 74°) en diseños geométricos.
 
@@ -270,7 +270,7 @@ En la trigonometría escolar en Perú se utilizan triángulos notables aproximad
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Un problema sobre ángulos de depresión en los acantilados de Lima.
 
@@ -295,7 +295,7 @@ Usamos la cotangente para hallar las distancias horizontales: $x_1 = 60 \cot 30^
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Cálculo de la altura de una rampa inclinada en Cusco.
 
@@ -320,7 +320,7 @@ En el triángulo rectángulo, la longitud de la rampa es la hipotenusa y la altu
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Determinación del valor de una expresión conociendo la secante de un ángulo agudo.
 
@@ -345,7 +345,7 @@ De $\sec\alpha = \sqrt{5}$ obtenemos $\cos\alpha = 1/\sqrt{5}$, por lo que $\cos
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Análisis de un triángulo rectángulo de lados 3, 4 y 5.
 
@@ -370,7 +370,7 @@ El menor ángulo agudo de un triángulo rectángulo se opone al menor cateto (3)
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Propiedades trigonométricas en un cuadrado.
 
@@ -395,7 +395,7 @@ Sea el lado del cuadrado igual a $L$. En el triángulo rectángulo $ADM$, el án
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un faro y un peñasco observados desde un barco en el Callao.
 
@@ -420,7 +420,7 @@ La altura total desde el nivel del mar hasta la cima es 50 m. Usando el ángulo 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Identidades trigonométricas de suma y producto.
 
@@ -445,7 +445,7 @@ La suma $\tan\theta + \cot\theta$ se reduce a $1/(\sin\theta \cos\theta)$. Si es
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Área de un triángulo inscrito en una semicircunferencia.
 
@@ -470,7 +470,7 @@ En la semicircunferencia el triángulo es rectángulo en $C$. Si $AB=2R$, los ca
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Valor máximo de una función trigonométrica lineal.
 
@@ -495,7 +495,7 @@ Una combinación lineal de seno y coseno puede expresarse como una sola función
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W26-trigonometria-i-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Geometría analítica en un cubo.
 

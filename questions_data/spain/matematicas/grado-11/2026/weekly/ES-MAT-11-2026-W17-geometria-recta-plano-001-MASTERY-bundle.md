@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid estudia las diferentes formas de expresar una recta en el plano.
 
@@ -41,7 +41,7 @@ La ecuación vectorial es la más intuitiva: para "fabricar" una recta solo nece
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase en Valencia, se explica la relación entre el vector director y la pendiente de una recta.
 
@@ -62,7 +62,7 @@ La pendiente $m$ es la tangente del ángulo que forma la recta con el eje X posi
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante identifica la ecuación general o implícita de la recta.
 
@@ -83,7 +83,7 @@ La ecuación general es muy útil para estudiar la posición relativa de dos rec
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se analiza el vector normal a una recta dada en su forma general.
 
@@ -104,7 +104,7 @@ Una de las grandes ventajas de la ecuación general es que permite leer directam
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Barcelona quiere hallar la ecuación explícita de la recta que pasa por $P(1, 4)$ y tiene pendiente $m = 2$.
 
@@ -125,7 +125,7 @@ Usamos la forma punto-pendiente: $y - y_0 = m(x - x_0)$. Es el método más ráp
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza debe determinar si dos rectas son paralelas. Rectas: $r: 2x - 3y + 6 = 0$ y $s: 4x - 6y - 10 = 0$.
 
@@ -146,7 +146,7 @@ Dos rectas son paralelas si sus vectores directores son proporcionales pero no c
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se busca la recta perpendicular a $y = 3x - 1$ que pasa por el origen $(0, 0)$.
 
@@ -167,7 +167,7 @@ Para que dos rectas sean perpendiculares, sus pendientes deben ser inversas y op
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la ecuación continua de la recta: $\frac{x-2}{3} = \frac{y+1}{4}$.
 
@@ -188,7 +188,7 @@ En la ecuación continua, las coordenadas del punto aparecen restando a las vari
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un topógrafo en Sevilla necesita hallar el punto de intersección de dos rectas: $r: x + y = 4$ y $s: x - y = 2$.
 
@@ -209,7 +209,7 @@ Hallar la intersección de dos rectas equivale a resolver el sistema de ecuacion
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Se calcula la distancia de un punto $P(1, 2)$ a la recta $r: 3x + 4y + 4 = 0$.
 
@@ -230,7 +230,7 @@ La distancia de un punto a una recta se obtiene sustituyendo las coordenadas del
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia el ángulo entre dos rectas dadas por sus ecuaciones explícitas: $y = 2x + 1$ e $y = -3x + 5$.
 
@@ -251,7 +251,7 @@ El ángulo entre dos rectas depende solo de sus pendientes. Una tangente igual a
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se busca la ecuación de la recta mediatriz de un segmento con extremos $A(2, 1)$ y $B(6, 5)$.
 
@@ -272,7 +272,7 @@ Para hallar la mediatriz: 1. Calculamos el punto medio de AB. 2. Hallamos el vec
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto en Asturias diseña un tejado cuyas vigas siguen las rectas $r: x + 2y - 4 = 0$ y $s: 2x + 4y + k = 0$.
 
@@ -293,7 +293,7 @@ Dos rectas son la misma si sus ecuaciones generales son proporcionales en todos 
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un estudiante halla el haz de rectas paralelas a $y = 5x + 2$.
 
@@ -314,7 +314,7 @@ Un haz de rectas paralelas se define por tener la misma pendiente $m$. Solo var�
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se estudia la orientación de una recta respecto a los ejes coordenados.
 
@@ -335,7 +335,7 @@ Cuando falta una de las variables en la ecuación general, la recta es paralela 
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante analiza el área de un triángulo formado por la recta $x + y = 4$ y los ejes de coordenadas.
 
@@ -356,7 +356,7 @@ Para hallar el área con los ejes, buscamos los puntos de corte igualando altern
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga quiere hallar la proyección ortogonal del punto $P(5, 5)$ sobre la recta $r: y = x$.
 
@@ -377,7 +377,7 @@ Si un punto pertenece a la recta, todas las operaciones de proyección y distanc
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea hallar el punto simétrico de $A(1, 2)$ respecto a la recta $y = 4$.
 
@@ -398,7 +398,7 @@ El punto medio entre un punto y su simétrico debe caer exactamente sobre el eje
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador calcula la distancia entre dos rectas paralelas $r: 3x - 4y + 1 = 0$ y $s: 3x - 4y + 11 = 0$.
 
@@ -419,7 +419,7 @@ Para hallar la distancia entre paralelas, restamos sus términos independientes 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W17-geometria-recta-plano-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el concepto de bisectriz de dos rectas secantes.
 

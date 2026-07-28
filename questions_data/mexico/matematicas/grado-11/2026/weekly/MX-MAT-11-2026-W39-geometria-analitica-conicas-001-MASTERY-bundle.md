@@ -27,7 +27,7 @@ Este bundle introduce las secciones cónicas, centrándose en la parábola y la 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Definición de parábola.
 **Expected_Success:** 0.95
 
@@ -48,7 +48,7 @@ La parábola se define por la propiedad de equidistancia entre un punto (foco) y
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Orientación de la parábola.
 **Expected_Success:** 0.90
 
@@ -69,7 +69,7 @@ En la forma $x^2 = 4py$, si $p > 0$ la parábola es vertical y abre hacia arriba
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Foco de la parábola.
 **Expected_Success:** 0.85
 
@@ -90,7 +90,7 @@ Identificamos $4p = 12$, por lo que $p = 3$. Como la variable al cuadrado es $y$
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Definición de elipse.
 **Expected_Success:** 0.88
 
@@ -111,7 +111,7 @@ La excentricidad mide qué tan "achatada" es la elipse. Se calcula dividiendo la
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación de la elipse con centro en el origen.
 **Expected_Success:** 0.80
 
@@ -132,7 +132,7 @@ La forma estándar es $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ para elipses horiz
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de elementos de la elipse.
 **Expected_Success:** 0.78
 
@@ -153,7 +153,7 @@ Identificamos el denominador mayor: $a^2 = 100$, entonces $a = 10$. La longitud 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Vértice de una parábola desplazada.
 **Expected_Success:** 0.75
 
@@ -174,7 +174,7 @@ En la forma ordinaria, el vértice es $(h, k)$. Aquí $x+2 \rightarrow h=-2$ y $
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Relación entre parámetros de la elipse.
 **Expected_Success:** 0.72
 
@@ -195,7 +195,7 @@ En la elipse se cumple la relación fundamental $a^2 = b^2 + c^2$. Despejando $c
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Directriz de la parábola.
 **Expected_Success:** 0.70
 
@@ -216,7 +216,7 @@ Identificamos $4p = -16 \rightarrow p = -4$. La parábola abre hacia abajo. La d
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Lado recto de la parábola.
 **Expected_Success:** 0.82
 
@@ -237,7 +237,7 @@ La longitud del lado recto es siempre $|4p|$. En la ecuación $y^2 = 20x$, el va
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Elipse con centro fuera del origen.
 **Expected_Success:** 0.60
 
@@ -258,7 +258,7 @@ El centro de la elipse se lee directamente de los desplazamientos en los términ
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Excentricidad de la elipse.
 **Expected_Success:** 0.55
 
@@ -279,7 +279,7 @@ Primero hallamos $c = \sqrt{25 - 16} = 3$. Luego la excentricidad $e = c/a = 3/5
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación general de la parábola.
 **Expected_Success:** 0.58
 
@@ -300,7 +300,7 @@ El foco en $(0,2)$ indica que la parábola es vertical ($x^2$) y abre hacia arri
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Reconocimiento de cónicas por sus coeficientes.
 **Expected_Success:** 0.65
 
@@ -321,7 +321,7 @@ Al dividir entre 36 obtenemos $\frac{x^2}{9} + \frac{y^2}{4} = 1$. Es una elipse
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Focos de una elipse desplazada.
 **Expected_Success:** 0.50
 
@@ -342,7 +342,7 @@ El centro es $(2, -1)$. Como $a^2=25$ está bajo $x$, la elipse es horizontal. C
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Lado recto de la elipse.
 **Expected_Success:** 0.52
 
@@ -363,7 +363,7 @@ Usamos la fórmula $LR = \frac{2b^2}{a}$. Con $a=4$ (raíz de 16) y $b^2=4$: $\f
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Conversión de general a ordinaria (Parábola).
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Completamos el cuadrado en $y$: $y^2 - 4y + 4 = 8x - 28 + 4$. Resulta $(y-2)^2 =
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Problema de aplicación (Antena parabólica).
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ Modelamos con $x^2 = 4py$. El punto en el borde es $(1, 0.5)$ (ya que el ancho t
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Área de una elipse (teórico/avanzado).
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ Llevamos la ecuación a la forma ordinaria dividiendo por 225: $\frac{x^2}{25} +
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Condición de tangencia de cónicas.
 **Expected_Success:** 0.30
 

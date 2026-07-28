@@ -27,7 +27,7 @@ Este bundle profundiza en el estudio de la línea recta en el plano cartesiano, 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Definición de pendiente.
 **Expected_Success:** 0.95
 
@@ -48,7 +48,7 @@ La pendiente representa la inclinación de la recta y se define matemáticamente
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de la ordenada al origen.
 **Expected_Success:** 0.92
 
@@ -69,7 +69,7 @@ En la ecuación ordinaria $y = mx + b$, el valor de $b$ indica el punto $(0, b)$
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Cálculo de pendiente con puntos específicos.
 **Expected_Success:** 0.88
 
@@ -90,7 +90,7 @@ Sustituimos en la fórmula de la pendiente: $m = \frac{10 - 4}{5 - 2} = \frac{6}
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Condición de paralelismo.
 **Expected_Success:** 0.90
 
@@ -111,7 +111,7 @@ El paralelismo implica que las rectas nunca se cruzan, lo cual ocurre si y solo 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación punto-pendiente.
 **Expected_Success:** 0.80
 
@@ -132,7 +132,7 @@ Usamos $y - y_1 = m(x - x_1)$. Sustituyendo: $y - (-2) = 4(x - 1) \rightarrow y 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Rectas horizontales y verticales.
 **Expected_Success:** 0.85
 
@@ -153,7 +153,7 @@ Una recta horizontal no tiene inclinación vertical. Como $\Delta y = 0$, la pen
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Conversión a forma general.
 **Expected_Success:** 0.78
 
@@ -174,7 +174,7 @@ Multiplicamos la ecuación por el denominador común (3) para eliminar la fracci
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Condición de perpendicularidad.
 **Expected_Success:** 0.82
 
@@ -195,7 +195,7 @@ Dos rectas son perpendiculares si el producto de sus pendientes es $-1$. El rec�
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Intersecciones con los ejes.
 **Expected_Success:** 0.75
 
@@ -216,7 +216,7 @@ Para cruzar el eje X, el valor de $y$ debe ser $0$. Sustituimos en la ecuación:
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Pendiente desde la forma general.
 **Expected_Success:** 0.72
 
@@ -237,7 +237,7 @@ Podemos despejar $y$ para llegar a $y = -\frac{2}{5}x + 2$, o usar directamente 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Recta que pasa por dos puntos (completo).
 **Expected_Success:** 0.65
 
@@ -258,7 +258,7 @@ Primero calculamos la pendiente $m=2$. Luego usamos el punto $M$ en la fórmula 
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Relación entre rectas paralelas y puntos.
 **Expected_Success:** 0.60
 
@@ -279,7 +279,7 @@ La recta dada tiene pendiente $m = 2$. Una paralela tendrá la misma pendiente. 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Recta perpendicular a una dada.
 **Expected_Success:** 0.58
 
@@ -300,7 +300,7 @@ La pendiente perpendicular a $1/2$ es $-2$. Usamos el punto $(3, 4)$: $y - 4 = -
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Gráficas de funciones lineales.
 **Expected_Success:** 0.62
 
@@ -321,7 +321,7 @@ Una recta con $b > 0$ inicia en el eje Y positivo. Al tener $m < 0$, desciende h
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Distancia de un punto a una recta.
 **Expected_Success:** 0.50
 
@@ -342,7 +342,7 @@ Usamos la fórmula $d = \frac{|Ax_0 + By_0 + C|}{\sqrt{A^2 + B^2}}$. Sustituyend
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Punto de intersección entre dos rectas.
 **Expected_Success:** 0.55
 
@@ -363,7 +363,7 @@ Igualamos las ecuaciones: $2x - 1 = -x + 5$. Resolvemos para $x$ obteniendo 2. S
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Recta como mediatriz de un segmento.
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ La mediatriz pasa por el punto medio $(1, 3)$ y es perpendicular al segmento. La
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ángulo entre dos rectas (conceptual).
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ Usamos la fórmula para el ángulo entre rectas: $\tan(\theta) = \left| \frac{m_
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Rectas que forman un triángulo.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ Las intersecciones con los ejes determinan la base y la altura del triángulo re
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Familia de rectas.
 **Expected_Success:** 0.30
 

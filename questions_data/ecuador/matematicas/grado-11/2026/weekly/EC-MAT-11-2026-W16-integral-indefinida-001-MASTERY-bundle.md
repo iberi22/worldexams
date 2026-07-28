@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de la Universidad Politécnica Salesiana en Cuenca inicia su estudio sobre el cálculo integral.
 
@@ -51,7 +51,7 @@ La integración indefinida es el proceso inverso a la derivación, permitiendo r
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Importancia de la constante de integración.
 
@@ -76,7 +76,7 @@ La constante $C$ representa la indeterminación del término constante original,
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Aplicación de la regla de la potencia para integrales.
 
@@ -101,7 +101,7 @@ La regla de la potencia para integrales requiere sumar uno al exponente y dividi
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Integral de una constante. Un flujo constante de agua en un canal de riego en la provincia de Loja es de 5 m³/s.
 
@@ -130,7 +130,7 @@ Modelado de la acumulación de una magnitud constante a través del tiempo media
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Integración de un polinomio compuesto.
 
@@ -155,7 +155,7 @@ Uso de la propiedad de linealidad de la integral para resolver antiderivadas de 
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** El caso especial de la potencia -1.
 
@@ -180,7 +180,7 @@ Identificación del logaritmo natural como la antiderivada de la función racion
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Integrales de funciones trigonométricas.
 
@@ -205,7 +205,7 @@ Reconocimiento de las antiderivadas de funciones trigonométricas fundamentales 
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Integral de la función exponencial.
 
@@ -230,7 +230,7 @@ Aplicación de la regla de sustitución simple para funciones exponenciales con 
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Integral de potencias fraccionarias.
 
@@ -255,7 +255,7 @@ Conversión de radicales a exponentes fraccionarios para aplicar la regla genera
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un vehículo en Guayaquil frena de tal manera que su aceleración es $a(t) = -2$ m/s². Si su velocidad inicial es $v(0) = 10$ m/s.
 
@@ -284,7 +284,7 @@ Uso de la integración para reconstruir funciones de velocidad a partir de acele
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Integración por sustitución (cambio de variable).
 
@@ -309,7 +309,7 @@ Identificación del patrón $f(g(x))g'(x)$ para aplicar el método de sustituci�
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Integral de una función lineal en el denominador.
 
@@ -334,7 +334,7 @@ Extensión de la regla del logaritmo para argumentos lineales mediante el ajuste
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Un sensor en una represa en la Amazonía mide la tasa de entrada de agua $R(t) = 4t + 100$ m³/h. Si inicialmente hay 5000 m³ de agua.
 
@@ -359,7 +359,7 @@ Resolución de problemas de valor inicial en contextos de acumulación de recurs
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Integral que resulta en una función trigonométrica inversa.
 
@@ -384,7 +384,7 @@ Identificación de integrales fundamentales que corresponden a las derivadas de 
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Integración por sustitución con funciones trigonométricas.
 
@@ -409,7 +409,7 @@ Aplicación del método de sustitución para potencias de funciones trigonométr
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Integral de una función con potencias negativas y racionales.
 
@@ -438,7 +438,7 @@ Uso de la división algebraica previa para simplificar integrandos racionales an
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Integral de la función tangente.
 
@@ -463,7 +463,7 @@ Deducción de integrales trigonométricas mediante la conversión a razones de s
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Uso de identidades trigonométricas para integrar.
 
@@ -488,7 +488,7 @@ Importancia de las identidades trigonométricas para reducir el grado de las pot
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Una partícula se mueve con una aceleración $a(t) = \cos(t)$. En $t=0$, la velocidad es $v=2$ y la posición es $s=0$.
 
@@ -513,7 +513,7 @@ Doble integración para obtener la posición a partir de la aceleración, maneja
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un problema de sustitución "ingeniosa" o avanzada. Calcule $\int \frac{e^x}{e^{2x} + 1} \, dx$.
 

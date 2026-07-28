@@ -30,7 +30,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Un agricultor en Zarcero desea calcular el área de un terreno circular para sembrar hortalizas.
 
@@ -55,7 +55,7 @@ Para calcular el área de un círculo, aplicamos la fórmula A = π * r². Susti
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.85
 **Contexto:** Una familia en Heredia está analizando el crecimiento de sus ahorros en una cuenta con interés simple.
 
@@ -80,7 +80,7 @@ El interés simple se calcula multiplicando el capital inicial por la tasa de in
 ## Question 3 [D3]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.82
 **Contexto:** Una tienda en San José ofrece un descuento en uniformes escolares.
 
@@ -105,7 +105,7 @@ Primero calculamos el valor del descuento: 25,000 * 0.20 = 5,000. Luego, restamo
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Se analiza el rendimiento de combustible de un vehículo que viaja de San José a Liberia.
 
@@ -130,7 +130,7 @@ Usamos una regla de tres simple directa: (12 L / 150 km) = (x L / 450 km). Despe
 ## Question 5 [D4]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.77
 **Contexto:** Un arquitecto en Cartago diseña una rampa con una pendiente constante.
 
@@ -155,7 +155,7 @@ La pendiente se define como la razón entre el desplazamiento vertical y el hori
 ## Question 6 [D4]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante revisa las propiedades de los triángulos rectángulos para un examen de bachillerato.
 
@@ -180,7 +180,7 @@ Aplicamos el Teorema de Pitágoras: a² + b² = c². Sustituyendo: 6² + 8² = c
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.72
 **Contexto:** Un comerciante en el Mercado Central de San José analiza sus ventas diarias.
 
@@ -205,7 +205,7 @@ La media aritmética se calcula sumando todos los valores y dividiendo el result
 ## Question 8 [D5]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Resolución de ecuaciones lineales en el contexto de un problema de edades.
 
@@ -230,7 +230,7 @@ Planteamos la ecuación donde x es la edad de Juan: x + 2x = 45. Sumamos términ
 ## Question 9 [D5]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.68
 **Contexto:** Probabilidad en un sorteo local de una escuela en Alajuela.
 
@@ -255,7 +255,7 @@ La probabilidad de que un evento no ocurra es (casos no favorables / total de ca
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero en Liberia calcula el volumen de un tanque de agua cilíndrico.
 
@@ -280,7 +280,7 @@ El volumen de un cilindro se calcula con la fórmula V = π * r² * h. Sustituye
 ## Question 11 [D6]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un decorador en San José está colocando baldosas en un piso cuadrado.
 
@@ -305,7 +305,7 @@ Para encontrar el lado de un cuadrado a partir de su área, calculamos la raíz 
 ## Question 12 [D6]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.60
 **Contexto:** Se estudia la función lineal que describe el costo de un servicio de taxi.
 
@@ -330,7 +330,7 @@ Una función lineal de costo tiene la forma f(x) = mx + b, donde 'm' es el costo
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.58
 **Contexto:** Un topógrafo mide la distancia entre dos puntos A(1, 2) y B(4, 6) en un plano.
 
@@ -355,7 +355,7 @@ Usamos la fórmula de distancia: d = √((x₂ - x₁)² + (y₂ - y₁)²). d =
 ## Question 14 [D7]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.55
 **Contexto:** Se resuelve un sistema de ecuaciones para determinar el precio de dos productos.
 
@@ -380,7 +380,7 @@ Podemos usar el método de eliminación sumando las dos ecuaciones: (x + y) + (2
 ## Question 15 [D7]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.52
 **Contexto:** Un biólogo estudia el decaimiento radioactivo en una muestra de suelo de un volcán.
 
@@ -405,7 +405,7 @@ Cada 10 años la cantidad se divide por 2. En 30 años hay 3 periodos: (1/2) * (
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.50
 **Contexto:** Uso de logaritmos para resolver ecuaciones exponenciales.
 
@@ -430,7 +430,7 @@ El exponente al que hay que elevar 10 para obtener 1000 es 3, ya que 10 * 10 * 1
 ## Question 17 [D8]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante de secundaria en Puntarenas analiza el ángulo de elevación hacia un faro.
 
@@ -455,7 +455,7 @@ Usamos la función tangente: tan(θ) = opuesto / adyacente. tan(45°) = h / 30. 
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Análisis de la concavidad de una función cuadrática en economía.
 
@@ -480,7 +480,7 @@ Como el coeficiente de x² es a = -2 (negativo), la parábola es cóncava hacia 
 ## Question 19 [D9]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.42
 **Contexto:** Un programador en Heredia analiza la complejidad de un algoritmo exponencial.
 
@@ -505,7 +505,7 @@ Aplicamos la definición de logaritmo: base^resultado = argumento. 3² = 2x - 1.
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estadístico en San José analiza la varianza de un conjunto de datos.
 

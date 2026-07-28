@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-001`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** Expressing origin in a classroom introduction.
 
@@ -42,7 +42,7 @@ El verbo "to be" se utiliza para expresar origen. Con el pronombre "I", la forma
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-002`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.80
 **Contexto:** Changing a sentence to negative form.
 
@@ -64,7 +64,7 @@ Para formar el negativo del verbo "to be", se añade "not" inmediatamente despu�
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-003`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.80
 **Contexto:** Describing a famous person from Argentina.
 
@@ -86,7 +86,7 @@ Se utiliza "is" para describir profesiones o características de una tercera per
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-004`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Julieta is talking about her new school supplies.
 
@@ -108,7 +108,7 @@ Para expresar posesión en inglés británico (común en el currículo argentino
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-005`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Using contractions in informal conversation.
 
@@ -130,7 +130,7 @@ Las contracciones son comunes en el habla cotidiana. "They're" une el sujeto "th
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-006`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Asking a friend about their pets.
 
@@ -152,7 +152,7 @@ Para hacer preguntas de posesión con "got", el verbo auxiliar "have" debe conco
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-007`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Describing physical traits in a family photo.
 
@@ -174,7 +174,7 @@ Para describir rasgos físicos (como el cabello) de una tercera persona, se util
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-008`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** A day at the park in Mar del Plata.
 
@@ -196,7 +196,7 @@ Esta pregunta requiere analizar la concordancia de número entre los sujetos ("w
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-009`
 **Bloom:** Evaluate
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.60
 **Contexto:** Social interaction and age.
 
@@ -218,7 +218,7 @@ En inglés, la edad no se "tiene" sino que se "es". Por eso se utiliza el verbo 
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-010`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Describing a school in Salta.
 

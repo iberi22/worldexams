@@ -27,7 +27,7 @@ Este bundle profundiza en el estudio de las sucesiones aritméticas, abordando d
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ahorro semanal donde se incrementa una cantidad fija.
 **Expected_Success:** 0.85
 
@@ -48,7 +48,7 @@ La diferencia común ($d$) se obtiene restando un término cualquiera menos su a
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Producción industrial con incremento constante.
 **Expected_Success:** 0.82
 
@@ -69,7 +69,7 @@ Usando la fórmula $a_n = a_1 + (n-1)d$, donde $a_1 = 120$ y $d = 8$: $a_n = 120
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Organización de asientos en un auditorio.
 **Expected_Success:** 0.80
 
@@ -90,7 +90,7 @@ Se aplica la fórmula del n-ésimo término: $a_n = a_1 + (n-1)d$. Sustituyendo 
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de patrones numéricos.
 **Expected_Success:** 0.88
 
@@ -111,7 +111,7 @@ Una sucesión aritmética requiere que la diferencia entre términos consecutivo
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Entrenamiento deportivo con incremento de tiempo.
 **Expected_Success:** 0.75
 
@@ -132,7 +132,7 @@ Despejamos $a_1$ de la fórmula: $a_1 = a_n - (n-1)d$. Sustituyendo: $75 - (9 \t
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de términos en una progresión de ahorro.
 **Expected_Success:** 0.72
 
@@ -153,7 +153,7 @@ La suma de una sucesión aritmética es $S_n = \frac{n(a_1 + a_n)}{2}$. Primero 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Interpolar términos en una secuencia de construcción.
 **Expected_Success:** 0.68
 
@@ -174,7 +174,7 @@ La diferencia común se halla como $d = \frac{a_n - a_k}{n - k}$. Aquí $\frac{3
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Depreciación lineal de equipo.
 **Expected_Success:** 0.70
 
@@ -195,7 +195,7 @@ Modelamos como $a_n = 18000 - 1200n$. Igualamos a 6000 y resolvemos para $n$: $1
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Distribución de folletos informativos.
 **Expected_Success:** 0.74
 
@@ -216,7 +216,7 @@ Primero calculamos $a_{12} = 182$ usando $a_n = a_1 + (n-1)d$. Luego usamos $S_{
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Secuencia de números negativos.
 **Expected_Success:** 0.65
 
@@ -237,7 +237,7 @@ Identificamos $a_1 = -15$ y $d = 4$. Aplicamos $a_{21} = -15 + (21-1) \times 4 =
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de múltiplos de un número.
 **Expected_Success:** 0.55
 
@@ -258,7 +258,7 @@ Los múltiplos son $7, 14, ..., 98$. Es una sucesión aritmética con $a_1=7, d=
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades de la suma de términos simétricos.
 **Expected_Success:** 0.50
 
@@ -279,7 +279,7 @@ Propiedad fundamental: La suma de dos términos equidistantes de los extremos es
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Resolución de sistemas lineales mediante sucesiones.
 **Expected_Success:** 0.52
 
@@ -300,7 +300,7 @@ Calculamos $d = 3$. Luego $a_1 = a_4 - 3d = 10 - 9 = 1$. Finalmente $a_{20} = a_
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Análisis de sucesiones decrecientes.
 **Expected_Success:** 0.48
 
@@ -321,7 +321,7 @@ Planteamos la desigualdad $a_n < 0 \rightarrow 100 + (n-1)(-7) < 0$. Resolviendo
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de una serie con límites definidos.
 **Expected_Success:** 0.45
 
@@ -342,7 +342,7 @@ Usamos $S_n = \frac{n}{2}[2a_1 + (n-1)d]$. Sustituimos: $480 = \frac{n}{2}[10 + 
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Geometría plana relacionada con sucesiones.
 **Expected_Success:** 0.53
 
@@ -363,7 +363,7 @@ Los ángulos son $40, 40+d, 40+2d$. Su suma es $120+3d = 180$. Resolviendo $3d =
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Aplicación avanzada en finanzas (interés simple).
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ El interés simple implica un crecimiento aritmético. La diferencia común es e
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Interpolación de múltiples medios aritméticos.
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ Interpolar 4 medios significa que habrá 6 términos en total. $a_1=5$ y $a_6=25
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Desafío teórico sobre sumatorias.
 **Expected_Success:** 0.30
 
@@ -426,7 +426,7 @@ Para cualquier sucesión, $a_n = S_n - S_{n-1}$. Calculamos $S_{10} = 320$ y $S_
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Generalización de patrones aritméticos complejos.
 **Expected_Success:** 0.28
 

@@ -27,7 +27,7 @@ Este bundle final de repaso integra los temas clave vistos en las últimas seman
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de sucesiones aritméticas.
 **Expected_Success:** 0.90
 
@@ -48,7 +48,7 @@ La diferencia común se halla restando un término menos el anterior: $7 - 12 = 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sucesiones geométricas básicas.
 **Expected_Success:** 0.88
 
@@ -69,7 +69,7 @@ La razón común es $12/4 = 3$. El siguiente término es $108 \times 3 = 324$.
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Notación de sumatoria.
 **Expected_Success:** 0.85
 
@@ -90,7 +90,7 @@ Sustituimos $i$ por 1, 2 y 3: $2 + 5 + 10 = 17$.
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Combinatoria básica.
 **Expected_Success:** 0.82
 
@@ -111,7 +111,7 @@ Como el orden no importa, usamos combinaciones: $\binom{5}{2} = 10$.
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Binomio de Newton.
 **Expected_Success:** 0.75
 
@@ -132,7 +132,7 @@ El tercer término ($k=2$) es $\binom{4}{2} x^2 2^2 = 6 \cdot x^2 \cdot 4 = 24x^
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Números complejos.
 **Expected_Success:** 0.78
 
@@ -153,7 +153,7 @@ $i^{14}$ equivale a $i^2 = -1$. $i^{16}$ equivale a $i^4 = 1$. Su suma es 0.
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Geometría analítica de la recta.
 **Expected_Success:** 0.80
 
@@ -174,7 +174,7 @@ Dos rectas son perpendiculares si $m_1 \cdot m_2 = -1$. El recíproco negativo d
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Elementos de la circunferencia.
 **Expected_Success:** 0.72
 
@@ -195,7 +195,7 @@ Completamos el cuadrado: $x^2 - 6x + 9 + y^2 = 9 \rightarrow (x-3)^2 + y^2 = 9$.
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades de la elipse.
 **Expected_Success:** 0.74
 
@@ -216,7 +216,7 @@ Los semiejes son $a=5$ y $b=3$. Al ser horizontal, el denominador mayor va bajo 
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Foco de la parábola.
 **Expected_Success:** 0.82
 
@@ -237,7 +237,7 @@ La ecuación es de la forma $x^2 = 4py$, vertical. $4p = 12 \rightarrow p = 3$. 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de serie aritmética.
 **Expected_Success:** 0.65
 
@@ -258,7 +258,7 @@ Hallamos $a_{20} = 62$. Usamos $S = \frac{n(a_1+a_n)}{2} = 10(5+62) = 670$.
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Serie geométrica infinita.
 **Expected_Success:** 0.60
 
@@ -279,7 +279,7 @@ Usamos $S = \frac{a_1}{1-r} = \frac{9}{1 - 1/3} = \frac{9}{2/3} = 13.5$.
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Permutaciones con repetición.
 **Expected_Success:** 0.58
 
@@ -300,7 +300,7 @@ Usamos la fórmula de permutación con repetición: $\frac{5!}{2! \cdot 2!} = 30
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** División de complejos.
 **Expected_Success:** 0.55
 
@@ -321,7 +321,7 @@ Multiplicamos por el conjugado del denominador. El resultado es $\frac{15 - 5i}{
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Distancia de punto a recta.
 **Expected_Success:** 0.52
 
@@ -342,7 +342,7 @@ Aplicamos la fórmula de distancia: $\frac{|26|}{\sqrt{25+144}} = \frac{26}{13} 
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Intersección de rectas.
 **Expected_Success:** 0.50
 
@@ -363,7 +363,7 @@ Igualamos las $y$: $3x - 5 = x + 1 \rightarrow 2x = 6 \rightarrow x = 3$. Sustit
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sucesiones mixtas.
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Sustituimos $n=4$ en la expresión: $2^4 + 3(4) = 16 + 12 = 28$.
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Combinaciones con restricciones.
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ Total de formas de elegir 3 de 6 es $C(6,3) = 20$. Los casos prohibidos son aque
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencia y tangencia.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ La tangencia al eje X implica que el radio es igual a la magnitud de la coordena
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Excentricidad de la elipse.
 **Expected_Success:** 0.30
 

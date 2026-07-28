@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un profesor en el Instituto Nacional Central "Miguel Ramírez Goyena" explica las bases de las funciones.
 
@@ -39,7 +39,7 @@ La función exponencial se define como $f(x) = b^x$. La restricción $b > 0$ ase
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Un análisis gráfico de las funciones en el sistema educativo nicaragüense.
 
@@ -58,7 +58,7 @@ Para hallar el intercepto con el eje $y$, evaluamos la función en $x=0$. Como $
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** El crecimiento de una inversión en un banco de Managua.
 
@@ -77,7 +77,7 @@ Si $b > 1$, la función representa un crecimiento exponencial. Si $0 < b < 1$, r
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Un estudio sobre el dominio y rango de funciones en secundaria.
 
@@ -96,7 +96,7 @@ El rango de $f(x) = b^x$ es el intervalo $(0, \infty)$ porque la función tiene 
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Una investigación sobre la población de tortugas paslama en las playas de Nicaragua.
 
@@ -115,7 +115,7 @@ El decaimiento exponencial ocurre cuando la base $b$ cumple con $0 < b < 1$. En 
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Un técnico en refrigeración en Chinandega observa cómo disminuye la temperatura de un motor.
 
@@ -134,7 +134,7 @@ En una función de la forma $f(x) = b^{x-h} + k$, la asíntota horizontal siempr
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** El cálculo de la población de bacterias en un laboratorio de la UNAN-León.
 
@@ -153,7 +153,7 @@ El modelo general de crecimiento exponencial es $f(t) = a \cdot b^t$, donde $a$ 
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante evalúa el valor de una función en un punto específico.
 
@@ -172,7 +172,7 @@ Un exponente negativo indica el recíproco de la base elevado al exponente posit
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** El uso del número $e$ en modelos financieros en Nicaragua.
 
@@ -191,7 +191,7 @@ El número $e$ es un número irracional fundamental en matemáticas, definido co
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** La transformación de funciones en el plano cartesiano.
 
@@ -210,7 +210,7 @@ En la transformación de funciones, $f(x) + k$ desplaza la gráfica verticalment
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Un plan de ahorro con interés compuesto mensualmente en Nicaragua.
 
@@ -229,7 +229,7 @@ La fórmula del interés compuesto es $A = P(1 + r/n)^{nt}$, donde $r$ es la tas
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Comparación del crecimiento de diferentes funciones.
 
@@ -248,7 +248,7 @@ Este es el concepto de crecimiento exponencial vs lineal. Las funciones exponenc
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** El análisis de la vida media de un isótopo radiactivo en un estudio geológico en Nicaragua.
 
@@ -267,7 +267,7 @@ La función $e^{-kt}$ es equivalente a $(1/e^k)^t$. Como $e^k > 1$, entonces $1/
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Identificación de una función a partir de puntos en el plano.
 
@@ -286,7 +286,7 @@ Sustituimos el primer punto $(0, a)$ para hallar $a=4$. Luego sustituimos el seg
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** El efecto de los coeficientes negativos en la gráfica exponencial.
 
@@ -305,7 +305,7 @@ La transformación $-f(x)$ refleja la gráfica sobre el eje horizontal. Todos lo
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Un análisis de la base fraccionaria y el exponente negativo.
 
@@ -324,7 +324,7 @@ La propiedad $b^{-x} = (1/b)^x$ implica que la función con base inversa es el r
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un modelo de crecimiento logístico simplificado en ecología.
 
@@ -343,7 +343,7 @@ Este es un modelo logístico. A diferencia del crecimiento exponencial puro, el 
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Resolución de una ecuación exponencial mediante igualación de bases.
 
@@ -362,7 +362,7 @@ Para resolver ecuaciones exponenciales donde las bases son potencias de un mismo
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Análisis de la composición de funciones exponenciales.
 
@@ -381,7 +381,7 @@ Una función es par si $f(-x) = f(x)$. Dado que el exponente de $e$ es una funci
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre el interés compuesto de capitalización continua.
 

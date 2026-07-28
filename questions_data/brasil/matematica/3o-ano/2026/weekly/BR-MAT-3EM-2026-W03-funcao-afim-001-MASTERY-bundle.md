@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um motorista de táxi em São Paulo cobra uma bandeirada fixa mais um valor por quilômetro rodado, o que caracteriza uma função afim.
 
@@ -39,7 +39,7 @@ Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$,
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Em uma aula de geometria analítica no Rio de Janeiro, o professor explica o significado geométrico dos coeficientes da reta.
 
@@ -58,7 +58,7 @@ O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricament
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um analista financeiro em Curitiba observa que o lucro de uma pequena empresa cresce de forma constante a cada mês.
 
@@ -77,7 +77,7 @@ A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 1
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um arquiteto em Brasília projeta o telhado de uma casa e precisa garantir que a inclinação seja constante.
 
@@ -96,7 +96,7 @@ O comportamento de crescimento ou decrescimento de uma função afim depende exc
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um técnico de laboratório em Campinas registra a variação de temperatura de uma substância que resfria uniformemente ao longo do tempo.
 
@@ -115,7 +115,7 @@ O coeficiente angular ($a$ ou $m$) mede a taxa de variação da função. É cal
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Uma empresa de telefonia em Belo Horizonte oferece um plano com taxa mensal fixa e um custo por minuto de ligação.
 
@@ -134,7 +134,7 @@ Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \cdot 100$. Calcul
 ## Question 7 [D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um reservatório de água em uma fazenda no Mato Grosso está sendo esvaziado a uma taxa constante para irrigação.
 
@@ -153,7 +153,7 @@ O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação 
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Em um experimento de física em Salvador, analisa-se o movimento retilíneo uniforme de um carrinho em um trilho.
 
@@ -172,7 +172,7 @@ Igualamos a função à posição desejada: $40 = 12 + 4t$. Subtraímos 12 de am
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um produtor de eventos em Recife está calculando o lucro de um show baseado no número de ingressos vendidos.
 
@@ -191,7 +191,7 @@ Para que o lucro seja zero, fazemos $40x - 2000 = 0$. Isso resulta em $40x = 200
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um topógrafo em Manaus determina a altitude de um terreno que sobe de forma constante à medida que se afasta do rio.
 
@@ -210,7 +210,7 @@ O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um engenheiro civil analisa a dilatação de uma barra metálica em São Paulo sob variações de temperatura.
 
@@ -229,7 +229,7 @@ Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 1
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um analista de sistemas em Florianópolis desenvolve um algoritmo para calcular o imposto de renda simplificado.
 
@@ -248,7 +248,7 @@ Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Fortaleza desafia seus alunos a interpretar o gráfico de uma função afim sem valores numéricos explícitos nos eixos.
 
@@ -267,7 +267,7 @@ O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. P
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um investidor em Porto Alegre compara dois fundos de investimento com taxas de administração diferentes.
 
@@ -286,7 +286,7 @@ Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $10
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um físico estuda a relação linear entre as escalas de temperatura Celsius ($^\circ$C) e Fahrenheit ($^\circ$F).
 
@@ -305,7 +305,7 @@ Calculamos o coeficiente angular: $a = \frac{212 - 32}{100 - 0} = \frac{180}{100
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Em um curso de economia em São Paulo, os alunos analisam a função demanda de um produto.
 
@@ -324,7 +324,7 @@ Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequ
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um matemático em Campinas estuda a composição de funções afins e suas propriedades algébricas.
 
@@ -343,7 +343,7 @@ $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Um analista de dados em Vitória avalia a eficácia de dois modelos lineares de regressão para prever vendas.
 
@@ -362,7 +362,7 @@ Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somand
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Em uma competição de matemática em São Paulo, propõe-se um problema sobre a área de figuras formadas por funções afins.
 
@@ -381,7 +381,7 @@ O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no int
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático investiga propriedades de famílias de retas que passam por um ponto fixo no plano cartesiano.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Ciudad de Guatemala recopila datos sobre las calificaciones de sus compañeros para un proyecto de clase.
 
@@ -39,7 +39,7 @@ La moda es útil para identificar la categoría o valor más popular o frecuente
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Se revisan los conceptos fundamentales antes de realizar un censo escolar.
 
@@ -58,7 +58,7 @@ La media aritmética es la medida de tendencia central más común y representa 
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un analista de salud en Guatemala observa las edades de los pacientes que asisten a una jornada de vacunación.
 
@@ -77,7 +77,7 @@ La mediana divide al conjunto de datos en dos partes iguales (50% arriba y 50% a
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante compara diferentes conjuntos de datos para entender la sensibilidad de las medidas de tendencia central.
 
@@ -96,7 +96,7 @@ La sensibilidad de la media la hace menos confiable en distribuciones muy sesgad
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** En una tienda de artesanías en Antigua Guatemala, se registran las ventas diarias de la última semana: GTQ $200$, $150$, $200$, $300$, $250$, $400$ y $250$.
 
@@ -115,7 +115,7 @@ Un conjunto de datos puede tener más de una moda si varios valores comparten la
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un profesor califica un examen corto de $10$ puntos aplicado a $5$ estudiantes: $7, 9, 10, 6, 8$.
 
@@ -134,7 +134,7 @@ La media se halla sumando todas las observaciones y dividiendo por el total de o
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un grupo de amigos en Quetzaltenango mide su estatura en centímetros: $160, 172, 165, 158, 170$.
 
@@ -153,7 +153,7 @@ El paso indispensable para hallar la mediana es ordenar los datos de menor a may
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un economista analiza los salarios en una empresa pequeña en Escuintla. Nota que el gerente gana mucho más que los operarios.
 
@@ -172,7 +172,7 @@ La mediana es una medida de tendencia central robusta, lo que significa que no s
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un hospital de Huehuetenango, se registra el peso de $6$ recién nacidos en libras: $6, 7, 8, 7, 9, 10$.
 
@@ -191,7 +191,7 @@ Para un número par de datos (n=6), la mediana se calcula como el promedio de lo
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante utiliza una tabla de frecuencias para organizar los resultados de una encuesta sobre el color favorito.
 
@@ -210,7 +210,7 @@ Los datos cualitativos nominales carecen de propiedades numéricas o de orden, p
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un profesor en Guatemala utiliza la media ponderada para calcular la nota final de sus alumnos.
 
@@ -229,7 +229,7 @@ La media ponderada asigna un "peso" o importancia distinta a cada dato. Se calcu
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se analiza una tabla de frecuencias para hallar la media de datos agrupados por categorías.
 
@@ -248,7 +248,7 @@ Para datos en tabla de frecuencias, la media se obtiene sumando los productos de
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un investigador de mercado en Ciudad de Guatemala quiere que el promedio de satisfacción de su producto sea de $85$ puntos.
 
@@ -267,7 +267,7 @@ Este problema utiliza la definición de media de forma inversa: se conoce el pro
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un analista de datos observa un histograma con un sesgo hacia la derecha (valores muy altos aislados).
 
@@ -286,7 +286,7 @@ La posición relativa de las medidas de tendencia central permite identificar la
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analizan los tiempos de respuesta de un servicio al cliente expresados en intervalos.
 
@@ -305,7 +305,7 @@ La marca de clase es el representante numérico de un intervalo y se calcula pro
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de Villa Nueva analiza la desviación de los datos respecto a la media aritmética.
 
@@ -324,7 +324,7 @@ La media actúa como un centro de equilibrio. La suma de las desviaciones respec
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un analista de la SAT en Guatemala revisa las declaraciones de impuestos y nota que un contribuyente declaró un valor inusualmente alto.
 
@@ -343,7 +343,7 @@ En presencia de valores atípicos (outliers), la mediana es preferible porque of
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado utiliza la media de medias para combinar resultados de diferentes secciones escolares.
 
@@ -362,7 +362,7 @@ Para promediar grupos de diferentes tamaños, se debe utilizar la media ponderad
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un investigador social en Guatemala analiza la distribución de ingresos. Observa que la mediana es de GTQ $4,000$ y la media es de GTQ $6,500$.
 
@@ -381,7 +381,7 @@ La diferencia entre la media y la mediana es un indicador clave de la asimetría
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un reto sobre la alteración de un conjunto de datos y su efecto en las medidas centrales.
 

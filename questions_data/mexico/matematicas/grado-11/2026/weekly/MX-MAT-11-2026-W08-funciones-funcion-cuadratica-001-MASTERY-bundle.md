@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre la **Función Cuadrática**, diseñadas 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Definición de función cuadrática
+**EJE:** Definición de función cuadrática
 **Expected_Success:** 0.90
 **Contexto:** En una sesión de repaso en una preparatoria de Morelos, se analizan las características de los polinomios de segundo grado.
 
@@ -47,7 +47,7 @@ Una función cuadrática es un polinomio de grado 2. Su forma general es $ax^2 +
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Concavidad de la parábola
+**EJE:** Concavidad de la parábola
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la Ciudad de México observa el arco de una fuente en un parque. Nota que la abertura de la parábola es hacia abajo.
 
@@ -68,7 +68,7 @@ El signo del coeficiente principal ($a$) determina la concavidad. Si $a > 0$, el
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** El vértice de la parábola
+**EJE:** El vértice de la parábola
 **Expected_Success:** 0.88
 **Contexto:** En un examen de matemáticas, se pide identificar el punto más alto o más bajo de la trayectoria de un proyectil modelada por una parábola.
 
@@ -89,7 +89,7 @@ El vértice es el punto $(h, k)$ donde la parábola alcanza su valor máximo (si
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Intersección con el eje Y
+**EJE:** Intersección con el eje Y
 **Expected_Success:** 0.82
 **Contexto:** Un analista de costos en una fábrica de calzado en León utiliza la función $C(x) = 2x^2 - 10x + 500$ para calcular costos de producción.
 
@@ -110,7 +110,7 @@ La intersección con el eje $y$ de la función $ax^2 + bx + c$ siempre está dad
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Cálculo de la coordenada X del vértice
+**EJE:** Cálculo de la coordenada X del vértice
 **Expected_Success:** 0.75
 **Contexto:** Un atleta en Jalisco lanza una bala. La altura $h$ en metros tras $t$ segundos es $h(t) = -5t^2 + 10t + 2$.
 
@@ -131,7 +131,7 @@ La coordenada $x$ del vértice (en este caso el tiempo $t$) se encuentra con la 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Cálculo de la coordenada Y del vértice (valor extremo)
+**EJE:** Cálculo de la coordenada Y del vértice (valor extremo)
 **Expected_Success:** 0.72
 **Contexto:** Continuando con el lanzamiento de la bala en Jalisco ($h(t) = -5t^2 + 10t + 2$), el entrenador desea saber la altura exacta en el punto más alto.
 
@@ -152,7 +152,7 @@ Para hallar el valor máximo, primero calculamos $t$ del vértice ($t=1$) y lueg
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Determinación de raíces o ceros
+**EJE:** Determinación de raíces o ceros
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de preparatoria en Nayarit resuelve la ecuación $x^2 - 6x + 8 = 0$ para encontrar los puntos de corte de una parábola con el eje X.
 
@@ -173,7 +173,7 @@ Las raíces se encuentran igualando la función a cero y resolviendo mediante fa
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Análisis del discriminante
+**EJE:** Análisis del discriminante
 **Expected_Success:** 0.78
 **Contexto:** Un profesor explica cómo saber cuántas veces una parábola toca al eje X sin necesidad de graficarla, utilizando el discriminante $D = b^2 - 4ac$.
 
@@ -194,7 +194,7 @@ El discriminante define la naturaleza de las raíces. Si $b^2 - 4ac = 0$, la ecu
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Forma vértice de la cuadrática
+**EJE:** Forma vértice de la cuadrática
 **Expected_Success:** 0.74
 **Contexto:** En un software de matemáticas, un usuario ve la función escrita como $f(x) = (x - 3)^2 + 5$.
 
@@ -215,7 +215,7 @@ La forma vértice $y = a(x - h)^2 + k$ es muy útil porque permite identificar e
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Eje de simetría
+**EJE:** Eje de simetría
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante en Querétaro grafica $f(x) = x^2 + 8x - 2$ y quiere trazar la línea que divide a la parábola en dos partes iguales.
 
@@ -236,7 +236,7 @@ El eje de simetría es la recta vertical que pasa por el vértice. Su ecuación 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Dominio y Rango de la cuadrática
+**EJE:** Dominio y Rango de la cuadrática
 **Expected_Success:** 0.62
 **Contexto:** Un investigador analiza la función de beneficio $B(x) = -x^2 + 20x - 50$ en una pequeña empresa de Tlaxcala.
 
@@ -257,7 +257,7 @@ El rango de una cuadrática depende de su concavidad y de la ordenada del vérti
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Transformaciones de la parábola
+**EJE:** Transformaciones de la parábola
 **Expected_Success:** 0.58
 **Contexto:** Se tiene la función básica $f(x) = x^2$. Se le aplica una transformación para obtener $g(x) = -(x + 4)^2 - 3$.
 
@@ -278,7 +278,7 @@ Las transformaciones de $y = a(x - h)^2 + k$ son: $a < 0$ refleja en X, $h > 0$ 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Problemas de área máxima
+**EJE:** Problemas de área máxima
 **Expected_Success:** 0.55
 **Contexto:** Un agricultor en Sinaloa tiene 100 metros de malla para cercar un terreno rectangular aprovechando una pared de piedra (solo necesita cercar tres lados).
 
@@ -299,7 +299,7 @@ Se plantea la función de área: $Largo + 2 \cdot Ancho = 100 \Rightarrow Largo 
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Identificación de la función a partir de puntos
+**EJE:** Identificación de la función a partir de puntos
 **Expected_Success:** 0.60
 **Contexto:** Una parábola tiene su vértice en $(0, 0)$ y pasa por el punto $(2, 8)$.
 
@@ -320,7 +320,7 @@ Dada la ubicación del vértice en el origen, usamos la forma simplificada $y = 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comparación de funciones cuadráticas
+**EJE:** Comparación de funciones cuadráticas
 **Expected_Success:** 0.56
 **Contexto:** Se comparan dos funciones: $f(x) = 0.5x^2$ y $g(x) = 2x^2$.
 
@@ -341,7 +341,7 @@ El valor absoluto del coeficiente $a$ determina la rapidez de crecimiento. A may
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Interpretación de la forma factorizada
+**EJE:** Interpretación de la forma factorizada
 **Expected_Success:** 0.52
 **Contexto:** Una función cuadrática está escrita como $f(x) = -2(x + 1)(x - 5)$.
 
@@ -362,7 +362,7 @@ La forma factorizada $a(x - r_1)(x - r_2)$ revela las raíces $r_1$ y $r_2$ y la
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Modelación de proyectiles con obstáculos
+**EJE:** Modelación de proyectiles con obstáculos
 **Expected_Success:** 0.45
 **Contexto:** Un balón de fútbol es pateado en un campo en Chiapas. Su trayectoria es $h(x) = -0.05x^2 + x$, donde $x$ es la distancia horizontal. A 15 metros hay una red de 4 metros de altura.
 
@@ -383,7 +383,7 @@ Para saber si un objeto pasa un obstáculo a una distancia dada, se evalúa la f
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Completar el trinomio cuadrado perfecto
+**EJE:** Completar el trinomio cuadrado perfecto
 **Expected_Success:** 0.42
 **Contexto:** Un estudiante desea convertir $f(x) = x^2 - 10x + 7$ a la forma vértice para identificar el punto mínimo rápidamente.
 
@@ -404,7 +404,7 @@ El proceso consiste en tomar la mitad del coeficiente lineal ($b/2 = -5$), eleva
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Análisis de raíces complejas
+**EJE:** Análisis de raíces complejas
 **Expected_Success:** 0.40
 **Contexto:** Un físico en un centro de investigación en Ensenada encuentra la función $y = 3x^2 - 2x + 5$. Intenta encontrar las raíces reales.
 
@@ -425,7 +425,7 @@ Cuando el discriminante es negativo, la parábola se encuentra totalmente por en
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-funciones-funcion-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Sistemas de una ecuación lineal y una cuadrática
+**EJE:** Sistemas de una ecuación lineal y una cuadrática
 **Expected_Success:** 0.38
 **Contexto:** Un ingeniero civil analiza el cruce de un cable parabólico $y = x^2 - 4x + 6$ con una viga recta $y = 2x - 3$.
 

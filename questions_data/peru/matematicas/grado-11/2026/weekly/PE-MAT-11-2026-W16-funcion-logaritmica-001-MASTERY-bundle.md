@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima estudia la definición básica de logaritmo.
 
@@ -45,7 +45,7 @@ El logaritmo es la operación inversa de la exponenciación. La frase "logaritmo
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de estudio preuniversitario en Trujillo repasa el dominio de las funciones logarítmicas.
 
@@ -70,7 +70,7 @@ Por definición, la función logarítmica solo acepta valores positivos en su ar
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Cálculo de logaritmos por definición en un examen de matemáticas en Arequipa.
 
@@ -95,7 +95,7 @@ Buscamos el exponente al que hay que elevar la base 2 para obtener 64. Realizand
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza las propiedades de los logaritmos.
 
@@ -120,7 +120,7 @@ Una de las propiedades fundamentales que simplifica cálculos es que el logaritm
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un geólogo en el Instituto Geofísico del Perú mide la magnitud de un sismo usando la escala de Richter, que es logarítmica.
 
@@ -145,7 +145,7 @@ Sustituimos la relación de amplitudes en la fórmula dada. Al simplificar $A_0$
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Análisis del dominio de funciones logarítmicas con desplazamientos en Chiclayo.
 
@@ -170,7 +170,7 @@ Para que la función esté definida en los reales, el argumento del logaritmo de
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Aplicación del cambio de base en una calculadora científica.
 
@@ -195,7 +195,7 @@ La fórmula de cambio de base establece que $\log_b(a) = \frac{\log_k(a)}{\log_k
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Representación gráfica de la función logarítmica en un software matemático en Huancayo.
 
@@ -220,7 +220,7 @@ Las funciones logarítmicas tienen una asíntota vertical en el valor de $x$ que
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Resolución de ecuaciones logarítmicas en el curso de Álgebra.
 
@@ -245,7 +245,7 @@ Usamos la propiedad del logaritmo de un producto para combinar los términos de 
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un químico ambiental en Moquegua mide el pH de una solución de agua en un río cercano a una mina.
 
@@ -270,7 +270,7 @@ Partimos de la fórmula del pH. Multiplicamos por -1 y luego aplicamos la defini
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Un economista en Lima proyecta el tiempo necesario para triplicar una inversión.
 
@@ -295,7 +295,7 @@ Sustituimos los valores conocidos en la expresión. Dividir por 0.05 es equivale
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Resolución de ecuaciones logarítmicas que requieren verificar la validez del dominio.
 
@@ -320,7 +320,7 @@ Aplicamos la propiedad del producto y convertimos a forma exponencial. Resolvemo
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Comparación de funciones logarítmicas con bases inversas.
 
@@ -345,7 +345,7 @@ Usando la propiedad de cambio de base y sabiendo que $0.5 = 2^{-1}$, podemos dem
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Un astrónomo en el Observatorio de la UNMSM calcula la magnitud absoluta $M$ de una estrella.
 
@@ -370,7 +370,7 @@ Sustituimos los valores en la fórmula. Calculamos el logaritmo de 100 (que es 2
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Hallar la regla de correspondencia de una función logarítmica a partir de su gráfica.
 
@@ -395,7 +395,7 @@ Usamos el primer punto para hallar la constante de desplazamiento horizontal $c$
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Resolución de ecuaciones exponenciales que requieren el uso de logaritmos neperianos.
 
@@ -420,7 +420,7 @@ Aplicamos la función inversa (logaritmo natural) a ambos miembros para "bajar" 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Problema avanzado sobre el rango de una función logarítmica compuesta, nivel examen UNI.
 
@@ -445,7 +445,7 @@ Como la función logarítmica con base mayor que 1 es creciente, su valor mínim
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Resolución de ecuaciones con logaritmos en la base, frecuente en exámenes de excelencia.
 
@@ -470,7 +470,7 @@ Al aplicar la propiedad del producto, el argumento se simplifica a $x^2$. La exp
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Un problema complejo de decaimiento y tiempo en un contexto de arqueología (Carbono-14) en Caral.
 
@@ -495,7 +495,7 @@ Igualamos la relación $N/N_0$ a 0.6. Aplicamos logaritmo natural para despejar 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Desafío de logaritmos anidados, nivel Olimpiada Nacional de Matemática.
 

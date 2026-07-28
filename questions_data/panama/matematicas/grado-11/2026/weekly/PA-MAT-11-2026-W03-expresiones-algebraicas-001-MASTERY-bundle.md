@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en un instituto en Colón está identificando los componentes de una fórmula de costos logísticos en el puerto.
 
@@ -41,7 +41,7 @@ Identificación de los elementos básicos de una expresión algebraica (término
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un artesano en la provincia de Coclé utiliza una expresión para calcular la cantidad de material necesario para sus sombreros pinta'os.
 
@@ -62,7 +62,7 @@ Cálculo del valor numérico de una expresión algebraica mediante la sustituci�
 ## Question 3 [D4]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** En una clase de álgebra en un colegio de Santiago, se definen las características de los polinomios multivariables.
 
@@ -83,7 +83,7 @@ Definición y determinación del grado absoluto de un polinomio multivariable.
 ## Question 4 [D4]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un comerciante en Paso Canoas utiliza el lenguaje algebraico para modelar sus ventas diarias de calzado y ropa.
 
@@ -104,7 +104,7 @@ Traducción de enunciados en lenguaje natural a expresiones en lenguaje algebrai
 ## Question 5 [D5]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en la Ciudad de Panamá simplifica las expresiones de las dimensiones de un local comercial.
 
@@ -125,7 +125,7 @@ Reducción de términos semejantes en una expresión polinómica.
 ## Question 6 [D5]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero hidráulico calcula la presión en las esclusas de Miraflores sumando dos polinomios de fuerzas.
 
@@ -146,7 +146,7 @@ Operación de adición de polinomios identificando y sumando coeficientes de té
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un agricultor en Boquete resta la pérdida de cultivos de su proyección total usando expresiones algebraicas.
 
@@ -167,7 +167,7 @@ Operación de sustracción de polinomios aplicando la regla del opuesto al sustr
 ## Question 8 [D6]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En un proyecto escolar en La Villa de Los Santos, se calcula el área de una maqueta rectangular multiplicando binomios.
 
@@ -188,7 +188,7 @@ Multiplicación de binomios aplicando la propiedad distributiva.
 ## Question 9 [D6]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un programador panameño desarrolla una función para calcular el volumen de una caja cúbica según su lado.
 
@@ -209,7 +209,7 @@ Desarrollo del producto notable "cubo de un binomio".
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En un laboratorio de química en la UNACHI, se divide una expresión de masa entre una de volumen (monomios).
 
@@ -230,7 +230,7 @@ División de monomios aplicando las leyes fundamentales de los exponentes.
 ## Question 11 [D7]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero de caminos en Darién simplifica una expresión racional para calcular el costo por kilómetro.
 
@@ -251,7 +251,7 @@ Simplificación de expresiones racionales mediante la factorización de polinomi
 ## Question 12 [D7]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un topógrafo verifica la precisión de un cálculo de área utilizando la división larga de polinomios en un plano.
 
@@ -272,7 +272,7 @@ Ejecución de la división de un polinomio entre un binomio lineal.
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante panameño utiliza la regla de Ruffini para encontrar el residuo de una división sintética en su tarea.
 
@@ -293,7 +293,7 @@ Aplicación del Teorema del Residuo para hallar el resto de una división polin�
 ## Question 14 [D8]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un analista de riesgos en la Bolsa de Valores de Panamá simplifica una expresión de potencias y fracciones.
 
@@ -314,7 +314,7 @@ Simplificación de expresiones algebraicas complejas utilizando leyes de exponen
 ## Question 15 [D8]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Herrera calcula la diferencia de volúmenes usando productos notables de binomios.
 
@@ -335,7 +335,7 @@ Aplicación del producto notable "producto de la suma por la diferencia de dos c
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un matemático investiga la relación entre las raíces de un polinomio y sus coeficientes en un estudio.
 
@@ -356,7 +356,7 @@ Identificación del término independiente en el producto de varios binomios lin
 ## Question 17 [D9]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un experto en finanzas corporativas en Panamá modela la amortización mediante una fracción compleja.
 
@@ -377,7 +377,7 @@ Simplificación de fracciones algebraicas complejas (fracción de fracciones).
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un científico de materiales analiza la expansión de una aleación usando un polinomio de Newton.
 
@@ -398,7 +398,7 @@ Aplicación del Teorema del Binomio para encontrar coeficientes específicos.
 ## Question 19 [D10]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Un criptógrafo en Panamá utiliza identidades algebraicas para verificar una clave de seguridad.
 
@@ -419,7 +419,7 @@ Uso de productos notables para resolver problemas de identidades condicionales.
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un matemático panameño demuestra una propiedad sobre la divisibilidad de polinomios superiores.
 

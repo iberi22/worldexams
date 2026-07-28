@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining the core concept.
 
@@ -45,7 +45,7 @@ Digital citizenship refers to the responsible use of technology by anyone who us
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing online safety.
 
@@ -65,7 +65,7 @@ The passive voice 'is kept' focuses on the state of the information being secure
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about digital footprints.
 
@@ -85,7 +85,7 @@ The mixed conditional (if + past perfect, would + verb) connects a past mistake 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about cyberbullying.
 
@@ -105,7 +105,7 @@ Cyberbullying involves using digital communication to harass, threaten, or intim
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "digital divide".
 
@@ -125,7 +125,7 @@ The digital divide highlights the inequality in access to information and commun
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Online etiquette.
 
@@ -145,7 +145,7 @@ Netiquette is the set of rules for behaving properly online.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Recommendation for password security.
 
@@ -165,7 +165,7 @@ The base form 'use' is required in the subjunctive mood to express importance or
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on intellectual property.
 
@@ -185,7 +185,7 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an ongoing process of data collection.
 
@@ -205,7 +205,7 @@ The present continuous passive describes how user data is currently and continuo
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "echo chambers".
 
@@ -225,7 +225,7 @@ Echo chambers can polarize society by only exposing individuals to information t
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Digital security software.
 
@@ -245,7 +245,7 @@ Malware is software that is specifically designed to disrupt, damage, or gain un
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passenger rights (adapted for digital users).
 
@@ -265,7 +265,7 @@ Users whose data has been breached should be notified immediately by the service
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing digital footprint.
 
@@ -285,7 +285,7 @@ Everything you do online leaves a permanent digital footprint that can be diffic
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Advice on sharing information.
 
@@ -305,7 +305,7 @@ You shouldn't share sensitive information unless you are absolutely sure of the 
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on digital ethics.
 
@@ -325,7 +325,7 @@ The author concludes that digital literacy is the most effective tool for naviga
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Phishing scams.
 
@@ -345,7 +345,7 @@ Phishing is a fraudulent attempt to obtain sensitive information such as usernam
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past regret about online behavior.
 
@@ -365,7 +365,7 @@ The structure 'wish + past perfect' allows for the expression of regret over a p
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "open source" software.
 
@@ -385,7 +385,7 @@ Open-source software allows users to access and modify the source code, promotin
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a warning about cyber security.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to the past
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the future of the internet.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en el Centro de Estudios de Malabo repasa las leyes basicas de los exponentes antes de un examen.
 
@@ -39,7 +39,7 @@ La regla del producto para potencias establece que para cualquier base real $a$ 
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** En una ferreteria de Bata, se venden cables cuya resistencia varia de forma exponencial. El dueño anota las formulas en una pizarra.
 
@@ -58,7 +58,7 @@ Un exponente negativo es una forma abreviada de escribir el reciproco de una pot
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un topografo en Mongomo calcula el area de un terreno cuadrado cuya medida de lado esta expresada como una raiz.
 
@@ -77,7 +77,7 @@ La operacion de elevar al cuadrado es la inversa de obtener la raiz cuadrada. Po
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Una bióloga en el Parque Nacional de Monte Alen estudia el crecimiento de una poblacion de bacterias que se triplica cada hora.
 
@@ -96,7 +96,7 @@ El crecimiento donde una cantidad se multiplica por un factor constante en inter
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante de secundaria en Ebebiyin intenta simplificar una expresion con radicales combinados.
 
@@ -115,7 +115,7 @@ La relacion entre radicales y potencias esta dada por la formula $\sqrt[n]{x^m} 
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un arquitecto en Ciudad de la Paz necesita calcular el volumen de un deposito cubico cuya arista mide $2^3$ centimetros.
 
@@ -134,7 +134,7 @@ El volumen de un cubo es $V = L^3$. Si el lado $L = 2^3$, entonces $V = (2^3)^3$
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un tesorero en Malabo maneja cuentas bancarias donde los intereses se calculan mediante la formula $Capital \cdot (1.05)^t$.
 
@@ -153,7 +153,7 @@ Este problema requiere aplicar la propiedad de potencia de una potencia o simple
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** En un laboratorio en Bata, se simplifica la expresion $\sqrt{a^4 \cdot b^6}$ para un analisis de fluidos.
 
@@ -172,7 +172,7 @@ Para extraer factores de una raiz cuadrada, dividimos sus exponentes por 2. $\sq
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong calcula el valor de $27^{2/3}$ sin usar calculadora.
 
@@ -191,7 +191,7 @@ Para calcular $a^{m/n}$, es mas sencillo primero extraer la raiz $n$-esima y lue
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un arquitecto en Mongomo utiliza la propiedad de la potencia de un producto para simplificar el diseño de una estructura.
 
@@ -210,7 +210,7 @@ La propiedad distributiva de la potencia respecto al producto establece que $(a 
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero en el puerto de Luba necesita racionalizar una expresion de diseño que contiene una raiz en el denominador: $\frac{10}{\sqrt{5}}$.
 
@@ -229,7 +229,7 @@ La racionalizacion consiste en eliminar los radicales del denominador. Multiplic
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante en Annobon resuelve la suma de radicales semejantes para un proyecto de navegacion: $3\sqrt{2} + \sqrt{50}$.
 
@@ -248,7 +248,7 @@ Para sumar radicales, estos deben ser semejantes (mismo indice y mismo radicando
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En un examen de acceso a la UNGE, se plantea simplificar la expresion $(\sqrt[3]{x^2})^6$.
 
@@ -267,7 +267,7 @@ Convertimos el radical a exponente fraccionario: $x^{2/3}$. Luego aplicamos la p
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un quimico en un laboratorio de Malabo analiza la desintegracion de una sustancia, cuya masa sigue la formula $M = M_0 \cdot 2^{-t/5}$.
 
@@ -286,7 +286,7 @@ Queremos que $M/M_0 = 1/4$, lo que significa que $2^{-t/5} = 2^{-2}$. Igualando 
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante compara dos numeros reales expresados con radicales: $A = 2\sqrt{3}$ y $B = 3\sqrt{2}$.
 
@@ -305,7 +305,7 @@ Para comparar radicales con diferentes coeficientes, es util introducir el coefi
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.46
 **Contexto:** En un taller en Malabo se pide simplificar la expresion $\sqrt[3]{54x^4}$.
 
@@ -324,7 +324,7 @@ Factorizamos el radicando en potencias perfectas del indice: $54 = 3^3 \cdot 2$ 
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un matematico analiza la validez de las operaciones con raices negativas en el conjunto de los numeros reales.
 
@@ -343,7 +343,7 @@ En el conjunto de los numeros reales, la raiz de indice par de un numero negativ
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se plantea simplificar la expresion radical anidada $\sqrt{x\sqrt{x\sqrt{x}}}$ para un modelo de fractales.
 
@@ -362,7 +362,7 @@ Este problema requiere convertir cada raiz en un exponente de 1/2 y aplicar las 
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero electrico en Mongomo analiza la potencia disipada por un componente, dada por $P = V^2 / R$.
 
@@ -381,7 +381,7 @@ Sustituimos los nuevos valores en la formula original: $P' = (\sqrt{2}V)^2 / (R/
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Un estudiante de bachillerato avanzado en Guinea Ecuatorial debe resolver la siguiente igualdad: $2^x \cdot 4^{x-1} = 8$.
 

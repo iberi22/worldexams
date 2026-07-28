@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to astronomical terms.
 
@@ -45,7 +45,7 @@ An orbit is the curved path of a celestial object or spacecraft around a star, p
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a past space mission.
 
@@ -65,7 +65,7 @@ The past simple passive 'was watched' describes how the audience experienced a s
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about alien life.
 
@@ -85,7 +85,7 @@ The second conditional 'if + past simple' is used to talk about an imaginary or 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the "Goldilocks Zone".
 
@@ -105,7 +105,7 @@ The "habitable zone" refers to the region around a star where conditions are jus
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the cost of space exploration.
 
@@ -125,7 +125,7 @@ Critics argue that the resources spent on space exploration could be better util
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Types of spacecraft.
 
@@ -145,7 +145,7 @@ A probe is an unmanned exploratory spacecraft that transmits information from ou
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing mission.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current and continuous scientific w
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "astrophysics".
 
@@ -185,7 +185,7 @@ Astrophysics is the branch of astronomy that deals with the physical properties 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Talking about a past astronomical discovery.
 
@@ -205,7 +205,7 @@ The past perfect 'had suspected' establishes that the suspicion existed before t
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "space debris".
 
@@ -225,7 +225,7 @@ The accumulation of space debris in Earth's orbit poses a serious threat to futu
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of an astronaut.
 
@@ -245,7 +245,7 @@ An astronaut is a person who is trained to travel in a spacecraft.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future goal in space.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the base will be a finished achievemen
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing zero gravity.
 
@@ -285,7 +285,7 @@ Microgravity is the condition in which people or objects appear to be weightless
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about the Apollo missions.
 
@@ -305,7 +305,7 @@ The third conditional is used to speculate about how historical events might hav
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on private spaceflight.
 
@@ -325,7 +325,7 @@ The author concludes that private companies are set to play a pivotal role in th
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining a galaxy.
 
@@ -345,7 +345,7 @@ A galaxy is a system of millions or billions of stars, together with gas and dus
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a discovery.
 
@@ -365,7 +365,7 @@ In reported speech, we backshift the tense of the discovery to show it happened 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "terraforming".
 
@@ -385,7 +385,7 @@ Terraforming is the hypothetical process of deliberately modifying another plane
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long journey.
 
@@ -405,7 +405,7 @@ The future perfect continuous describes the total length of the journey at the m
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the spirit of exploration.
 

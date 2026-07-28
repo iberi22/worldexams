@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 
 **ID:** `AR-ING-06-2026-W03-present-simple-001`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** A common habit in Argentina.
 
@@ -42,7 +42,7 @@ En el Presente Simple, con el pronombre "I", el verbo se mantiene en su forma ba
 
 **ID:** `AR-ING-06-2026-W03-present-simple-002`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.80
 **Contexto:** Talking about sports preferences.
 
@@ -64,7 +64,7 @@ Para formar el negativo en Presente Simple para una tercera persona (he), se uti
 
 **ID:** `AR-ING-06-2026-W03-present-simple-003`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** Valentina is traveling to school in La Plata.
 
@@ -86,7 +86,7 @@ En el Presente Simple, los verbos que terminan en "o" (como go o do) agregan "-e
 
 **ID:** `AR-ING-06-2026-W03-present-simple-004`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Identifying facts about Argentina.
 
@@ -108,7 +108,7 @@ El Presente Simple se utiliza para expresar verdades generales, hechos permanent
 
 **ID:** `AR-ING-06-2026-W03-present-simple-005`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** General grammar rules for questions.
 
@@ -130,7 +130,7 @@ En preguntas de Presente Simple, "Do" es el auxiliar correspondiente a los sujet
 
 **ID:** `AR-ING-06-2026-W03-present-simple-006`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Asking about parents' jobs.
 
@@ -152,7 +152,7 @@ Cuando el sujeto es "he" (tu padre), el auxiliar de pregunta correcto es "Does".
 
 **ID:** `AR-ING-06-2026-W03-present-simple-007`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Mateo's weekend hobbies.
 
@@ -174,7 +174,7 @@ Para verbos que terminan en vocal + "y", simplemente se agrega la "-s" en la ter
 
 **ID:** `AR-ING-06-2026-W03-present-simple-008`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Weekend routines of a group of friends.
 
@@ -196,7 +196,7 @@ Los sujetos plurales (my friends / they) requieren concordancia: "don't" en el n
 
 **ID:** `AR-ING-06-2026-W03-present-simple-009`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Breakfast habits.
 
@@ -218,7 +218,7 @@ En el negativo, el auxiliar "doesn't" ya indica la tercera persona, por lo que e
 
 **ID:** `AR-ING-06-2026-W03-present-simple-010`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Facts about wildlife in the Andes.
 

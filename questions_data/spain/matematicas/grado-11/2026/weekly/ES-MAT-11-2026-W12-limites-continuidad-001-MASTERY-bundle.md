@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un instituto de Murcia repasa las definiciones básicas de límites para preparar el examen del segundo trimestre.
 
@@ -41,7 +41,7 @@ La definición de límite requiere que el comportamiento de la función sea el m
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase de 1º de Bachillerato en Madrid, se clasifican las discontinuidades de las funciones.
 
@@ -62,7 +62,7 @@ Las discontinuidades de salto finito ocurren típicamente en funciones definidas
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la función $f(x) = 1/x$ cerca del origen.
 
@@ -83,7 +83,7 @@ Este límite describe una asíntota vertical. Al ser el denominador positivo y t
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se estudia la continuidad de una función que modela el coste de un envío postal según el peso.
 
@@ -104,7 +104,7 @@ La continuidad requiere tres pasos: 1. Que exista $f(a)$. 2. Que exista el lími
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de Ciencias en Barcelona debe resolver un límite que presenta una indeterminación del tipo $0/0$.
 
@@ -125,7 +125,7 @@ Para resolver indeterminaciones $0/0$ en funciones racionales, se factorizan num
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza analiza el comportamiento a largo plazo de una máquina cuya eficiencia sigue la función $E(t) = \frac{3t + 5}{t + 2}$.
 
@@ -146,7 +146,7 @@ Los límites al infinito de funciones racionales determinan las asíntotas horiz
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** En una prueba de EBAU, se pide determinar un parámetro para que una función sea continua. Sea $f(x) = \begin{cases} x + k & x \leq 3 \\ 2x - 1 & x > 3 \end{cases}$.
 
@@ -167,7 +167,7 @@ Para que una función a trozos sea continua, los límites laterales en el punto 
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante observa la gráfica de una función que tiene una asíntota vertical en $x = 1$.
 
@@ -188,7 +188,7 @@ Una asíntota vertical implica siempre una discontinuidad inevitable de salto in
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Se plantea calcular el límite $\lim_{x \to 0} \frac{\sqrt{x+1} - 1}{x}$.
 
@@ -209,7 +209,7 @@ La técnica del conjugado es esencial para eliminar raíces cuadradas que genera
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.62
 **Contexto:** Un profesor en Sevilla explica el concepto de límite lateral en funciones con valor absoluto.
 
@@ -230,7 +230,7 @@ El valor absoluto $|x|$ se comporta como $x$ si $x \geq 0$ y como $-x$ si $x < 0
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático estudia la función $f(x) = \frac{\text{sen}(x)}{x}$ cerca del origen, un límite fundamental en el cálculo.
 
@@ -251,7 +251,7 @@ Este límite es la base para derivar funciones trigonométricas. Indica que para
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se analiza una función racional $f(x) = \frac{x^2 - 1}{x^2 - 3x + 2}$ para encontrar sus asíntotas.
 
@@ -272,7 +272,7 @@ Una discontinuidad es evitable si el límite existe y es finito. En funciones ra
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias estudia el comportamiento de límites con potencias del tipo $1^\infty$.
 
@@ -293,7 +293,7 @@ La fórmula general para límites que tienden al número $e$ es $\lim_{x \to a} 
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Valencia diseña una rampa cuyo perfil está definido por $f(x) = \frac{ax^2}{x^2 + 1}$.
 
@@ -314,7 +314,7 @@ Este es un problema de aplicación de asíntotas horizontales. El valor del lím
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se plantea la existencia de asíntotas oblicuas en una función $f(x) = \frac{x^2 + x}{x - 1}$.
 
@@ -335,7 +335,7 @@ Las asíntotas oblicuas tienen la forma $y = mx + n$. La pendiente $m$ se halla 
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Se estudia el Teorema de Bolzano para localizar raíces de funciones continuas.
 
@@ -356,7 +356,7 @@ El Teorema de Bolzano es una herramienta fundamental para demostrar la existenci
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante se enfrenta a un límite complejo que involucra logaritmos: $\lim_{x \to \infty} \frac{\ln(x^2 + 1)}{\ln(x^3 + 5)}$.
 
@@ -377,7 +377,7 @@ En el infinito, el logaritmo de un polinomio se comporta como el logaritmo de su
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Un investigador analiza la continuidad de la función $f(x) = \frac{1}{1 + e^{1/x}}$ en el punto $x = 0$.
 
@@ -398,7 +398,7 @@ Este es un ejemplo avanzado donde la función exponencial con exponente racional
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador optimiza un motor gráfico y necesita saber si la función de suavizado $s(x) = \frac{x^2 - a}{x - \sqrt{a}}$ es continua en $x = \sqrt{a}$ (siendo $a > 0$).
 
@@ -419,7 +419,7 @@ La continuidad evitable permite asignar un valor a un punto anteriormente indefi
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el Teorema de Weierstrass en funciones continuas en intervalos cerrados.
 

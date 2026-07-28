@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "hn",
+    "pack_id": "hn-week-25-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-28T22:52:17.176Z"
+  },
+  "questions": [
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de las mitocondrias en una célula eucariota?",
+      "context": "Un estudiante en Tegucigalpa observa una célula animal al microscopio durante su clase de biología.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar la síntesis de proteínas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los ribosomas."
+        },
+        {
+          "letter": "B",
+          "text": "Producir energía mediante la respiración celular.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las mitocondrias transforman la energía química de los alimentos en ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar la información genética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Regular el paso de sustancias hacia el exterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de la membrana plasmática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las mitocondrias son conocidas como las centrales energéticas de la célula. En ellas se lleva a cabo el ciclo de Krebs y la cadena de transporte de electrones para obtener ATP.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina la relación simbiótica donde ambos organismos obtienen un beneficio, como las abejas polinizando flores de café?",
+      "context": "Investigadores en la Biósfera del Río Plátano estudian las relaciones entre especies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el comensalismo, uno se beneficia y el otro es indiferente."
+        },
+        {
+          "letter": "B",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el parasitismo, uno se beneficia a costa del daño del otro."
+        },
+        {
+          "letter": "C",
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambos organismos cooperan y se benefician mutuamente."
+        },
+        {
+          "letter": "D",
+          "text": "Competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la competencia, ambos luchan por un recurso limitado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El mutualismo es una interacción biológica vital para muchos ecosistemas hondureños, permitiendo la supervivencia y reproducción de múltiples especies.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "Si una planta de maíz con semillas amarillas dominantes (AA) se cruza con una de semillas blancas recesivas (aa), ¿cuál será el fenotipo de la primera generación (F1)?",
+      "context": "Un técnico en agricultura en Choluteca analiza las leyes de la herencia en cultivos de maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% amarillas y 50% blancas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Según la ley de uniformidad, el rasgo dominante prevalece en F1."
+        },
+        {
+          "letter": "B",
+          "text": "100% amarillas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todos los descendientes serán heterocigotos (Aa) expresando el color dominante."
+        },
+        {
+          "letter": "C",
+          "text": "100% blancas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blanco es el rasgo recesivo y queda enmascarado."
+        },
+        {
+          "letter": "D",
+          "text": "25% amarillas y 75% blancas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sigue las proporciones mendelianas para este cruce."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según la Primera Ley de Mendel, al cruzar dos líneas puras para un carácter diferente, todos los descendientes son iguales entre sí (Aa) y muestran el rasgo dominante.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de organismos son los principales responsables de la fijación del nitrógeno atmosférico para que pueda ser absorbido por las plantas?",
+      "context": "En un congreso ambiental en San Pedro Sula se discute el ciclo del nitrógeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hongos descomponedores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos participan en la amonificación pero no fijan nitrógeno gaseoso."
+        },
+        {
+          "letter": "B",
+          "text": "Bacterias nitrificantes y fijadoras.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Bacterias como Rhizobium en las raíces de leguminosas realizan esta función."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas con flores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas dependen de las bacterias para obtener nitrógeno utilizable."
+        },
+        {
+          "letter": "D",
+          "text": "Animales herbívoros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales obtienen nitrógeno al comer plantas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fijación del nitrógeno es un proceso bioquímico esencial donde microorganismos convierten el N2 atmosférico en amoníaco o nitratos, esenciales para la síntesis de proteínas vegetales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la causa química principal del blanqueamiento de los corales debido al aumento de CO2 en el océano?",
+      "context": "Se analizan los efectos del cambio climático en los arrecifes de coral de Islas de la Bahía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de la salinidad del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salinidad no es el factor determinante en el blanqueamiento por CO2."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de oxígeno disuelto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no causa el blanqueamiento."
+        },
+        {
+          "letter": "C",
+          "text": "La acidificación del océano por formación de ácido carbónico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El CO2 reacciona con el agua bajando el pH, lo que estresa al coral."
+        },
+        {
+          "letter": "D",
+          "text": "La disminución de la luz solar en el fondo marino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blanqueamiento está más ligado a temperatura y química del agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La acidificación oceánica dificulta que los organismos marinos, como los corales, construyan sus esqueletos de carbonato de calcio, amenazando la biodiversidad de Roatán y Utila.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el nombre de la placa tectónica que subduce bajo la Placa del Caribe en la costa pacífica centroamericana?",
+      "context": "Un geólogo explica los riesgos sísmicos en la zona sur de Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Placa de Nazca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta placa afecta principalmente a Suramérica."
+        },
+        {
+          "letter": "B",
+          "text": "Placa de Cocos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la responsable de la actividad volcánica y sísmica en el Pacífico de Honduras."
+        },
+        {
+          "letter": "C",
+          "text": "Placa Norteamericana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite con esta placa se encuentra más al norte."
+        },
+        {
+          "letter": "D",
+          "text": "Placa de Scotia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encuentra en el extremo sur del continente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso dinámico fundamental que da forma al relieve y la geología de la región sur de Honduras.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.75,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el elemento químico fundamental que define a todos los compuestos orgánicos y permite la formación de cadenas largas?",
+      "context": "Un profesor de química en Comayagua explica las propiedades de los compuestos orgánicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es común pero no es la base de las cadenas orgánicas."
+        },
+        {
+          "letter": "B",
+          "text": "Hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque acompaña al carbono, no es el elemento central estructurador."
+        },
+        {
+          "letter": "C",
+          "text": "Carbono",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su capacidad de tetravalencia le permite formar estructuras complejas."
+        },
+        {
+          "letter": "D",
+          "text": "Nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encuentra en proteínas, pero el esqueleto es de carbono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La química del carbono es la base de la vida. Su capacidad para formar enlaces covalentes estables con otros átomos de carbono permite la diversidad de biomoléculas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "Según la Segunda Ley de Newton, si un camión de 5000 kg desea acelerar a 2 m/s², ¿qué fuerza neta debe aplicar el motor?",
+      "context": "Un conductor de transporte pesado en la carretera CA-5 calcula su fuerza de frenado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2500 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la masa entre la aceleración."
+        },
+        {
+          "letter": "B",
+          "text": "5002 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los valores en lugar de multiplicarlos."
+        },
+        {
+          "letter": "C",
+          "text": "10000 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! F = m * a. 5000 kg * 2 m/s² = 10000 N."
+        },
+        {
+          "letter": "D",
+          "text": "1000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fuerza es directamente proporcional al producto de la masa por la aceleración (F=ma). Este concepto es crucial para la seguridad vial y el diseño de vehículos en Honduras.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la transformación de energía principal que ocurre cuando el agua cae desde una altura y mueve las turbinas para generar electricidad?",
+      "context": "Se estudia el funcionamiento de una planta hidroeléctrica en el Lago de Yojoa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía química a energía lumínica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay reacciones químicas involucradas en la caída del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Energía potencial gravitatoria a energía cinética y luego eléctrica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura (potencial) se convierte en movimiento (cinética) y luego en electricidad."
+        },
+        {
+          "letter": "C",
+          "text": "Energía nuclear a energía térmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroelectricidad no usa fisión nuclear."
+        },
+        {
+          "letter": "D",
+          "text": "Energía sonora a energía mecánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sonido es una consecuencia, no la fuente de energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para producir energía limpia y renovable, fundamental para la red eléctrica hondureña.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tipo de células sanguíneas son las responsables de producir anticuerpos para combatir infecciones virales o bacterianas?",
+      "context": "Un estudiante de bachillerato en La Ceiba investiga sobre el sistema inmunológico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eritrocitos (Glóbulos rojos)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función es transportar oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Linfocitos B",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son los glóbulos blancos especializados en la producción de anticuerpos específicos."
+        },
+        {
+          "letter": "C",
+          "text": "Trombocitos (Plaquetas)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función es la coagulación sanguínea."
+        },
+        {
+          "letter": "D",
+          "text": "Neuronas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son células del sistema nervioso, no del sistema inmune."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un antígeno, se activan y secretan anticuerpos que neutralizan al patógeno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.65,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "Si una estufa eléctrica funciona con un voltaje de 220 V y circula una corriente de 10 A, ¿cuál es su potencia eléctrica consumida?",
+      "context": "Se mide la resistencia eléctrica de una instalación en una vivienda en Juticalpa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22 W",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste los valores en lugar de multiplicarlos."
+        },
+        {
+          "letter": "B",
+          "text": "2200 W",
+          "is_correct": true,
+          "feedback": "¡Correcto! P = V * I. 220 V * 10 A = 2200 W."
+        },
+        {
+          "letter": "C",
+          "text": "210 W",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los valores."
+        },
+        {
+          "letter": "D",
+          "text": "230 W",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los valores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La potencia eléctrica es el ritmo al que se consume energía y se calcula multiplicando el voltaje por la intensidad de corriente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "¿Qué gas es el principal responsable de la lluvia ácida cuando reacciona con el agua en la atmósfera, dañando monumentos y bosques?",
+      "context": "Análisis de la contaminación del aire por quema de combustibles fósiles en zonas urbanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metano (CH4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano es un gas de efecto invernadero pero no causa lluvia ácida directamente."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de azufre (SO2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Forma ácido sulfúrico al entrar en contacto con el vapor de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Vapor de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es el medio, no la causa de la acidez dañina."
+        },
+        {
+          "letter": "D",
+          "text": "Argón (Ar)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gas noble que no reacciona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las emisiones de azufre y nitrógeno de las industrias y vehículos motorizados son las precursoras de la acidificación de las precipitaciones a nivel global.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿Hacia dónde se moverá el agua si colocamos una célula en una solución hipertónica (donde la concentración de solutos es mayor afuera que adentro)?",
+      "context": "Se estudia el proceso de ósmosis en un laboratorio escolar en Danlí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua entrará a la célula, haciendo que se hinche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre en soluciones hipotónicas."
+        },
+        {
+          "letter": "B",
+          "text": "El agua saldrá de la célula, haciendo que se encoja (crenación/plasmólisis).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua siempre se mueve de menor a mayor concentración de solutos."
+        },
+        {
+          "letter": "C",
+          "text": "No habrá movimiento de agua en absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo en soluciones isotónicas el flujo neto es cero."
+        },
+        {
+          "letter": "D",
+          "text": "El soluto entrará a la célula rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado pregunta por el movimiento del solvente (agua)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ósmosis es un proceso pasivo crucial para mantener el equilibrio hídrico celular. En una solución hipertónica, la célula pierde agua por diferencia de presión osmótica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el factor principal que genera las corrientes superficiales en los océanos?",
+      "context": "Un oceanógrafo analiza las corrientes marinas frente a las costas de Gracias a Dios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vientos predominantes (alisios).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El viento arrastra las capas superiores de agua debido a la fricción."
+        },
+        {
+          "letter": "B",
+          "text": "Las mareas causadas por la luna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mareas son movimientos verticales y rítmicos, no corrientes constantes."
+        },
+        {
+          "letter": "C",
+          "text": "El movimiento de los barcos comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala es insignificante comparada con los procesos oceánicos."
+        },
+        {
+          "letter": "D",
+          "text": "La pesca excesiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No afecta los patrones de circulación física del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La circulación oceánica superficial es impulsada por la atmósfera, mientras que la profunda depende de diferencias de temperatura y salinidad (circulación termohalina).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la función vital que cumple la capa de ozono (O3) para los seres vivos en la superficie terrestre?",
+      "context": "Debate sobre la importancia de la capa de ozono en la estratósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absorber el dióxido de carbono para evitar el calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono no absorbe CO2."
+        },
+        {
+          "letter": "B",
+          "text": "Producir oxígeno para que podamos respirar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El O3 no es la fuente primaria de oxígeno respirable."
+        },
+        {
+          "letter": "C",
+          "text": "Filtrar la mayor parte de la radiación ultravioleta B y C del sol.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Protege el ADN de daños que causan cáncer y mutaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Reflejar la luz visible para iluminar la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono no tiene esta propiedad óptica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal de los rayos UV de alta energía sobre las células.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se denominan los átomos de un mismo elemento que tienen el mismo número de protones pero diferente número de neutrones?",
+      "context": "Un estudiante identifica las partes del átomo en su clase de física-química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones tienen diferente número de electrones."
+        },
+        {
+          "letter": "B",
+          "text": "Isótopos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tienen diferentes masas atómicas pero las mismas propiedades químicas."
+        },
+        {
+          "letter": "C",
+          "text": "Isóbaros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen la misma masa pero diferentes protones."
+        },
+        {
+          "letter": "D",
+          "text": "Moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una molécula es la unión de dos o más átomos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los isótopos son fundamentales en aplicaciones que van desde la medicina nuclear hasta la datación de fósiles arqueológicos en Copán.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.5,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo afecta la eliminación de la cobertura vegetal al riesgo de inundaciones y deslizamientos de tierra?",
+      "context": "Se estudia el impacto de la deforestación en la infiltración del agua en las montañas de Olancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye el riesgo porque el suelo se seca más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces ayudan a estabilizar el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene ningún efecto en el ciclo del agua local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vegetación es clave para la intercepción y transpiración."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta el riesgo debido a que hay menos raíces que retengan el suelo y menos infiltración.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua corre superficialmente con más fuerza (escorrentía)."
+        },
+        {
+          "letter": "D",
+          "text": "Mejora la fertilidad del suelo a largo plazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La erosión quita la capa fértil (humus)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los bosques actúan como esponjas naturales. Al talarlos, el agua de lluvia llega rápidamente a los ríos y satura el suelo suelto, provocando desastres naturales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.48,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "Si se disuelven 5 gramos de cloro en 1000 ml (1 litro) de agua, ¿cuál es el porcentaje masa/volumen (% m/v) de la solución resultante?",
+      "context": "Cálculo de la concentración de una solución para purificar agua en una aldea rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que el volumen es 1000 ml."
+        },
+        {
+          "letter": "B",
+          "text": "0.5%",
+          "is_correct": true,
+          "feedback": "¡Correcto! (5g / 1000ml) * 100 = 0.5%."
+        },
+        {
+          "letter": "C",
+          "text": "0.05%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división por 10."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala masivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El porcentaje m/v indica los gramos de soluto por cada 100 ml de solución. En este caso, 5g en 1000ml equivale a 0.5g en 100ml.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "Si una estrella presenta un \"corrimiento al rojo\" en su espectro de luz, ¿qué nos indica esto sobre su movimiento respecto a la Tierra?",
+      "context": "Se observa el espectro de luz de una estrella lejana desde un telescopio en la UNAH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la estrella se está acercando a nosotros rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría un corrimiento al azul."
+        },
+        {
+          "letter": "B",
+          "text": "Que la estrella se está alejando de nosotros.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Efecto Doppler estira las ondas de luz hacia frecuencias más bajas (rojo)."
+        },
+        {
+          "letter": "C",
+          "text": "Que la estrella va a explotar pronto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corrimiento al rojo indica movimiento, no destino final estelar."
+        },
+        {
+          "letter": "D",
+          "text": "Que la estrella es más fría que el Sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de la estrella indica temperatura, pero el \"corrimiento\" indica movimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El corrimiento al rojo es una prueba fundamental de la expansión del universo, permitiendo a los astrónomos medir la velocidad de alejamiento de las galaxias.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la principal preocupación ética respecto a la edición de genes en la línea germinal (espermatozoides, óvulos o embriones)?",
+      "context": "Debate ético sobre el uso de la edición genética CRISPR en seres humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el procedimiento sea demasiado barato y accesible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo suele ser un obstáculo, no una preocupación de riesgo genético."
+        },
+        {
+          "letter": "B",
+          "text": "Que los cambios introducidos sean permanentes y se hereden a todas las generaciones futuras.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esto podría alterar el patrimonio genético humano sin el consentimiento de los descendientes."
+        },
+        {
+          "letter": "C",
+          "text": "Que las plantas editadas genéticamente crezcan más lento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado especifica edición en seres humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Que no se pueda usar para curar ninguna enfermedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. CRISPR tiene un gran potencial curativo, la preocupación es el mal uso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tecnología de edición genética plantea dilemas profundos sobre hasta qué punto debemos modificar nuestra propia biología y cuáles serían las consecuencias ecológicas y sociales a largo plazo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "HN-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "hn"
+    }
+  ]
+}

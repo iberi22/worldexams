@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to trade concepts.
 
@@ -45,7 +45,7 @@ Tariffs are taxes imposed by a government on imported goods and services.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing international commerce.
 
@@ -65,7 +65,7 @@ The present perfect continuous highlights the continuous growth of trade over se
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about a free trade agreement.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about the consequences of a past econ
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "comparative advantage".
 
@@ -105,7 +105,7 @@ Comparative advantage is the ability of an individual or group to carry out a pa
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "protectionism".
 
@@ -125,7 +125,7 @@ Protectionism involves government policies that restrict international trade to 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Shipping and logistics.
 
@@ -145,7 +145,7 @@ Logistics is the detailed coordination of a complex operation involving many peo
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a shift in trade routes.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current, active investigation into 
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "supply chains".
 
@@ -185,7 +185,7 @@ A supply chain is the entire system of producing and delivering a product or ser
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past economic impact.
 
@@ -205,7 +205,7 @@ The past perfect 'had caused' establishes that the price increase happened befor
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "fair trade".
 
@@ -225,7 +225,7 @@ Fair trade initiatives aim to ensure that producers in developing countries rece
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "outsourcing".
 
@@ -245,7 +245,7 @@ Outsourcing is the practice of having certain job functions done outside a compa
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future trade milestone.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the implementation will be a finished 
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "trade deficit".
 
@@ -285,7 +285,7 @@ A trade deficit occurs when a country's imports exceed its exports.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about economic sanctions.
 
@@ -305,7 +305,7 @@ The second conditional describes the likely result of a hypothetical change in g
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "digital trade".
 
@@ -325,7 +325,7 @@ The author concludes that digital trade is transforming the global economy by re
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Defining a "subsidy".
 
@@ -345,7 +345,7 @@ A subsidy is a sum of money granted by the state or a public body to help an ind
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for trade stability.
 
@@ -365,7 +365,7 @@ Business leaders wish the trade war would end as soon as possible.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "sustainable trade".
 
@@ -385,7 +385,7 @@ Sustainable trade must account for the environmental and social costs that are o
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a trade forecast.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original data ('Trade grew/has
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on trade ethics.
 
