@@ -8,43 +8,133 @@
   },
   "questions": [
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-001",
-      "statement": "Resuelva la siguiente ecuación: 3x + 7 = 22",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera correcta y completa la estructura del conjunto de los números reales ($\\mathbb{R}$)?",
+      "context": "Facundo está repasando la clasificación de los números para su examen de ingreso.",
       "options": [
         {
-          "letter": "D",
-          "text": "x = 4",
+          "letter": "A",
+          "text": "Está compuesto únicamente por los números enteros y los decimales exactos.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "x = 15",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Los irracionales como $\\pi$ también son reales."
         },
         {
           "letter": "B",
-          "text": "x = 7",
+          "text": "Es la unión de los números racionales ($\\mathbb{Q}$) y los irracionales ($\\mathbb{I}$).",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Todo número real o bien se puede escribir como fracción (racional) o bien tiene infinitas cifras decimales no periódicas (irracional)."
         },
         {
-          "letter": "A",
-          "text": "x = 5",
+          "letter": "C",
+          "text": "Excluye a los números naturales porque estos solo sirven para contar elementos.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Los números naturales están incluidos en los enteros, racionales y reales."
+        },
+        {
+          "letter": "D",
+          "text": "Incluye a los números complejos con parte imaginaria distinta de cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números con parte imaginaria no nula no pertenecen al conjunto de los reales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "El conjunto de los reales se define formalmente como la unión de los números racionales e irracionales. Cualquier número real pertenece a uno de estos dos subconjuntos disjuntos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Si querés representar el conjunto de números reales que son mayores o iguales a $-2$ y estrictamente menores que $5$, ¿cuál es la notación de intervalo correcta?",
+      "context": "Martina representa las soluciones de una inecuación en la recta numérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-2, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paréntesis indica abierto en $-2$ y el corchete indica cerrado en $5$, que es lo opuesto a lo pedido."
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corchete en $5$ incluye al número $5$, pero debe ser estrictamente menor."
+        },
+        {
+          "letter": "C",
+          "text": "$[-2, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. El corchete en $-2$ indica que se incluye el extremo (mayor o igual) y el paréntesis en $5$ indica que no se incluye (estrictamente menor)."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paréntesis en $-2$ excluye al $-2$, pero el enunciado pide mayores o iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La notación de intervalo utiliza corchetes $[ ]$ para indicar que el extremo está incluido (desigualdad no estricta) y paréntesis $( )$ para indicar que el extremo está excluido (desigualdad estricta).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "Dada la expresión matemática $f(x) = \\sqrt{2x - 6}$, ¿cuál es el intervalo de números reales para los cuales la expresión está definida en el campo real?",
+      "context": "En una clase de matemáticas en Córdoba, se analiza el dominio de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x < 3$, el radicando se vuelve negativo, lo cual no está definido en los reales."
+        },
+        {
+          "letter": "B",
+          "text": "$[3, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Para que la raíz cuadrada esté definida, el radicando debe ser mayor o igual a cero: $2x - 6 \\ge 0 \\Rightarrow 2x \\ge 6 \\Rightarrow x \\ge 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número $3$ sí está incluido en el dominio porque $\\sqrt{0} = 0$ es un número real válido."
+        },
+        {
+          "letter": "D",
+          "text": "$[-3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si elegís por ejemplo $x = 0$, el radicando es $-6$, cuya raíz cuadrada no es real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una raíz de índice par esté definida en los reales, el radicando debe ser mayor o igual a cero. Resolviendo $2x - 6 \\ge 0$, se obtiene $x \\ge 3$, lo que corresponde al intervalo $[3, +\\infty)$.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "[Remember]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +143,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-002",
-      "statement": "¿Cuál es el valor de x en la expresión 2(x - 3) = 14?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "La temperatura ideal de almacenamiento de un medicamento es de $20^\\circ\\text{C}$, aceptándose un margen de error máximo de $3^\\circ\\text{C}$. ¿Cuál de las siguientes expresiones con valor absoluto modela correctamente este rango de temperaturas permitidas $T$?",
+      "context": "Un fabricante de termómetros en Rosario calibra sus dispositivos para asegurar una gran precisión.",
       "options": [
         {
           "letter": "A",
-          "text": "x = 10",
+          "text": "$|T - 3| \\le 20$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Esta expresión describe temperaturas entre $-17$ y $23$ grados."
         },
         {
           "letter": "B",
-          "text": "x = 7",
+          "text": "$|T - 20| \\le 3$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "D",
-          "text": "x = 8",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Correcto. La distancia entre la temperatura $T$ y el valor ideal de $20^\\circ\\text{C}$ debe ser menor o igual a $3^\\circ\\text{C}$."
         },
         {
           "letter": "C",
-          "text": "x = 5",
+          "text": "$|T - 20| \\ge 3$",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Esto indicaría que la temperatura debe alejarse por lo menos $3$ grados del valor ideal."
+        },
+        {
+          "letter": "D",
+          "text": "$|T + 20| \\le 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma dentro del valor absoluto desplaza el centro del intervalo a $-20$ grados."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La expresión $|x - c| \\le r$ representa el conjunto de puntos cuya distancia al centro $c$ es menor o igual al radio $r$. En este caso, el centro ideal es $20$ y el radio permitido es $3$, de donde resulta $|T - 20| \\le 3$.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "[Understand]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +188,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-003",
-      "statement": "Calcule el área de un triángulo de base 8 cm y altura 6 cm.",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Si tenés los intervalos $A = [-4, 3)$ y $B = [-1, 7]$, ¿cuál es el conjunto resultante de la intersección $A \\cap B$?",
+      "context": "Agustín calcula la intersección de dos conjuntos de datos obtenidos en un censo.",
       "options": [
         {
-          "letter": "B",
-          "text": "48 cm²",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "letter": "A",
+          "text": "$[-4, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este intervalo corresponde a la unión de los conjuntos, no a la intersección."
         },
         {
-          "letter": "D",
-          "text": "36 cm²",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "letter": "B",
+          "text": "$[-1, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. La intersección consiste en los elementos comunes a ambos intervalos, los cuales empiezan en $-1$ (incluido en ambos) y terminan antes de $3$ (excluido en $A$)."
         },
         {
           "letter": "C",
-          "text": "12 cm²",
+          "text": "$[-1, 3]$",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. El número $3$ no pertenece al intervalo $A$ (tiene paréntesis), por lo que no puede estar en la intersección."
         },
         {
-          "letter": "A",
-          "text": "24 cm²",
+          "letter": "D",
+          "text": "$[-4, -1)$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Estos valores pertenecen a $A$ pero no a $B$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "La intersección de intervalos requiere encontrar los valores reales de $x$ que cumplen simultáneamente $-4 \\le x < 3$ y $-1 \\le x \\le 7$. Esto se cumple en el intervalo $[-1, 3)$.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "[Apply]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +233,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-004",
-      "statement": "Determine la pendiente de la recta que pasa por los puntos (2, 3) y (5, 9).",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Si la primera sucursal abre en el rango horario (en horas) dado por el intervalo $I_1 = (8, 14]$ y la segunda abre en $I_2 = [12, 20)$, ¿cuál es la unión $I_1 \\cup I_2$?",
+      "context": "Valentina analiza el rango horario de dos sucursales de atención al cliente en Buenos Aires.",
       "options": [
         {
-          "letter": "C",
-          "text": "3",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "text": "$(8, 20)$",
+          "is_correct": true,
+          "feedback": "Correcto. La unión agrupa todos los elementos que están en al menos uno de los intervalos. Comienza justo después de 8 y termina antes de 20, sin interrupciones."
         },
         {
           "letter": "B",
-          "text": "2",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "text": "$[8, 20]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los extremos 8 y 20 no están incluidos en los intervalos originales."
+        },
+        {
+          "letter": "C",
+          "text": "$[12, 14]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa la intersección de los intervalos, no su unión."
         },
         {
           "letter": "D",
-          "text": "-1",
+          "text": "$(8, 12]$",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Excluye la mayor parte del horario de atención conjunto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "La unión de $I_1$ e $I_2$ junta todos los valores de ambos conjuntos. Como se solapan entre 12 y 14, la unión cubre todo el rango continuo desde más de 8 hasta menos de 20, es decir, el intervalo abierto $(8, 20)$.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "[Analyze]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +278,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-005",
-      "statement": "Simplifique la expresión: (2a³b²)(3a²b⁴)",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "El plan A cuesta $\\$2000$ fijos al mes más $\\$150$ por cada gigabyte (GB) consumido. Camila dispone de un presupuesto mensual máximo de $\\$4250$ para este servicio. ¿Cuántos GB como máximo puede consumir al mes para no exceder su presupuesto?",
+      "context": "Camila está comparando planes de internet móvil para su celular en Buenos Aires.",
       "options": [
         {
+          "letter": "A",
+          "text": "Como máximo 20 GB.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 GB costarían $2000 + 150(20) = 5000$ pesos, excediendo el presupuesto."
+        },
+        {
           "letter": "B",
-          "text": "5a⁵b⁶",
+          "text": "Como máximo 15 GB.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Planteamos la inecuación: $2000 + 150x \\le 4250$. Restando $2000$ se obtiene $150x \\le 2250$. Dividiendo por $150$, resulta $x \\le 15$."
         },
         {
           "letter": "C",
-          "text": "6a⁶b⁸",
+          "text": "Como máximo 28 GB.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "A",
-          "text": "6a⁵b⁶",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Este valor no tiene en cuenta el cargo fijo mensual de 2000 pesos."
         },
         {
           "letter": "D",
-          "text": "5a⁶b⁶",
+          "text": "Como máximo 10 GB.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Con 10 GB gastaría 3500 pesos, lo cual está por debajo pero no es el valor máximo posible."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "Planteamos la inecuación $2000 + 150x \\le 4250$, donde $x$ es la cantidad de gigabytes. Al resolver obtenemos $150x \\le 2250$, de donde $x \\le 15$. Por lo tanto, el consumo máximo permitido es de $15$ GB.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "[Evaluate]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +323,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-006",
-      "statement": "¿Cuál es el resultado de (x + 3)(x - 2)?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "La temperatura diaria $t$ en grados Celsius cumplió la inecuación doble: $-8 < 2t + 4 \\le 12$. ¿Cuál es el intervalo real que contiene todas las posibles temperaturas registradas?",
+      "context": "Un meteorólogo en San Carlos de Bariloche registra las temperaturas durante el invierno.",
       "options": [
         {
-          "letter": "D",
-          "text": "x² + 5x + 6",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
           "letter": "A",
-          "text": "x² + x - 6",
+          "text": "$[-6, 4)$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Los extremos e inclusiones están al revés."
         },
         {
           "letter": "B",
-          "text": "x² + 5x - 6",
+          "text": "$(-6, 4]$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Restamos $4$ en todos los miembros: $-12 < 2t \\le 8$. Luego dividimos todo por $2$: $-6 < t \\le 4$. Esto equivale al intervalo $(-6, 4]$."
         },
         {
           "letter": "C",
-          "text": "x² - x - 6",
+          "text": "$(-8, 12]$",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Esto no resuelve la inecuación para la variable $t$."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, 8]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico al restar y dividir los términos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "Para despejar $t$ en $-8 < 2t + 4 \\le 12$, restamos $4$ en cada miembro, obteniendo $-12 < 2t \\le 8$. Luego dividimos cada miembro entre $2$, lo que da $-6 < t \\le 4$. En notación de intervalo, esto es $(-6, 4]$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "[Create]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,43 +368,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-007",
-      "statement": "Resuelva: 2x + 5 ≥ 13",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "El diámetro nominal de un perno debe ser de $12\\text{ mm}$, admitiéndose un margen de tolerancia de $0,05\\text{ mm}$. Resolvé la inecuación de valor absoluto correspondiente para encontrar el intervalo de diámetros aceptables $d$.",
+      "context": "Mateo diseña piezas metálicas en una fábrica metalúrgica de Rosario.",
       "options": [
         {
           "letter": "A",
-          "text": "x ≥ 4",
+          "text": "$[11,05; 12,05]$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "C",
-          "text": "x ≥ 13",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. El extremo inferior está mal calculado ($12 - 0,05 = 11,95$)."
         },
         {
           "letter": "B",
-          "text": "x ≥ 8",
+          "text": "$[11,95; 12,05]$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. La inecuación $|d - 12| \\le 0,05$ equivale a $-0,05 \\le d - 12 \\le 0,05$. Sumando $12$, obtenemos $11,95 \\le d \\le 12,05$."
+        },
+        {
+          "letter": "C",
+          "text": "$[11,95; 12,50]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite superior excede con creces la tolerancia máxima admisible."
         },
         {
           "letter": "D",
-          "text": "x ≤ 4",
+          "text": "$(11,95; 12,05)$",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Como la tolerancia incluye los límites extremos, el intervalo debe ser cerrado."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La inecuación con valor absoluto $|d - 12| \\le 0,05$ se traduce en $-0,05 \\le d - 12 \\le 0,05$. Al sumar $12$ a cada miembro, se obtiene $11,95 \\le d \\le 12,05$, lo cual se escribe como el intervalo cerrado $[11,95; 12,05]$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "[Remember]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -323,43 +413,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-008",
-      "statement": "¿Cuánto es el 15% de 240?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "La ganancia mensual $G(p)$ en miles de pesos viene dada por $G(p) = -p^2 + 80p - 1200$. ¿Para qué rango de precios $p$ la ganancia mensual es estrictamente positiva (mayor que cero)?",
+      "context": "Un viñedo en Mendoza analiza las ganancias obtenidas por la venta de un vino premium en función del precio fijado $p$.",
       "options": [
         {
           "letter": "A",
-          "text": "36",
+          "text": "$[20, 60]$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "C",
-          "text": "15",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "24",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. En los extremos de este intervalo la ganancia es exactamente cero."
         },
         {
           "letter": "B",
-          "text": "30",
+          "text": "$(20, 60)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Buscamos $-p^2 + 80p - 1200 > 0$. Multiplicando por $-1$ resulta $p^2 - 80p + 1200 < 0$. Las raíces de la ecuación cuadrática son $20$ y $60$. Como el coeficiente principal original es negativo, la parábola abre hacia abajo, por lo que es positiva entre las raíces."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 20) \\cup (60, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este rango la ganancia sería negativa, lo que generaría pérdidas."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 40)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $p = 10$, por ejemplo, la ganancia es negativa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "Resolvemos la inecuación $-p^2 + 80p - 1200 > 0$. Multiplicando por $-1$ se tiene $p^2 - 80p + 1200 < 0$. Factorizando queda $(p - 20)(p - 60) < 0$. El producto es negativo cuando el factor está entre las dos raíces reales, es decir, para $20 < p < 60$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "[Understand]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +458,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-009",
-      "statement": "Calcule la media aritmética de: 12, 15, 18, 21, 24",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Determiná el conjunto solución en los números reales para la inecuación racional: $\\frac{x - 2}{x + 3} \\ge 0$.",
+      "context": "Franco analiza la viabilidad de un proyecto de software basado en la relación costo/beneficio.",
       "options": [
         {
           "letter": "A",
-          "text": "18",
+          "text": "$[-3, 2]$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Para $x = -3$ el denominador se hace cero, lo cual está prohibido, y para valores en este intervalo la fracción es menor o igual a cero."
         },
         {
           "letter": "B",
-          "text": "18.5",
+          "text": "$(-\\infty, -3) \\cup [2, +\\infty)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "D",
-          "text": "15",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Correcto. La fracción es mayor o igual a cero si el numerador y el denominador tienen el mismo signo. El numerador se anula en $x=2$ (incluido) y el denominador en $x=-3$ (excluido para evitar la división por cero). Analizando los signos, resulta este conjunto."
         },
         {
           "letter": "C",
-          "text": "21",
+          "text": "$(-\\infty, -3] \\cup [2, +\\infty)$",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. El valor $-3$ no puede estar en el conjunto solución ya que anula al denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omite el intervalo donde tanto el numerador como el denominador son negativos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "Para resolver $\\frac{x - 2}{x + 3} \\ge 0$, encontramos los puntos críticos $x = 2$ y $x = -3$. El denominador nunca puede ser cero, por lo que $x \\ne -3$. Evaluando los intervalos, obtenemos la solución $(-\\infty, -3) \\cup [2, +\\infty)$.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "[Apply]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +503,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-010",
-      "statement": "¿Cuál es la probabilidad de obtener un número par al lanzar un dado de 6 caras?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Resolvé el siguiente sistema de inecuaciones lineales simultáneas para $x$ en los números reales:\n$$\n\\begin{cases}\n3x - 5 < 7 \\\\\n2x + 1 \\ge -3\n\\end{cases}\n$$",
+      "context": "Un agrónomo en Tucumán diseña una mezcla de nutrientes dentro de límites muy estrictos.",
       "options": [
         {
-          "letter": "D",
-          "text": "2/3",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "1/6",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "1/2",
+          "text": "$[-2, 4]$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. El número $4$ no está incluido debido a que la primera inecuación es estricta ($x < 4$)."
         },
         {
           "letter": "B",
-          "text": "1/3",
+          "text": "$[-2, 4)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. De la primera inecuación: $3x < 12 \\Rightarrow x < 4$. De la segunda inecuación: $2x \\ge -4 \\Rightarrow x \\ge -2$. Al intersectar ambas condiciones se obtiene $-2 \\le x < 4$, es decir, el intervalo $[-2, 4)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-2, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $-2$ sí debe ser incluido porque la segunda desigualdad es mayor o igual."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, -2] \\cup (4, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó la unión en lugar de la intersección."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "Resolvemos cada inecuación de forma independiente. Para $3x - 5 < 7$, sumamos $5$ y dividimos por $3$, obteniendo $x < 4$. Para $2x + 1 \\ge -3$, restamos $1$ y dividimos por $2$, obteniendo $x \\ge -2$. La intersección de ambas condiciones es $[-2, 4)$.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "[Analyze]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +548,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-011",
-      "statement": "Resuelva el sistema: x + y = 10, 2x - y = 5",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Si se sabe que el número real $x$ pertenece al intervalo abierto $(0, 1)$, ¿en qué intervalo se encuentra necesariamente su recíproco $\\frac{1}{x}$?",
+      "context": "Sofía investiga el comportamiento inverso de variables físicas en un laboratorio de física de La Plata.",
       "options": [
         {
-          "letter": "D",
-          "text": "(6, 4)",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "(5, 4)",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "(5, 5)",
+          "text": "$(0, 1)$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. El recíproco de un número entre 0 y 1 siempre es mayor que 1."
         },
         {
           "letter": "B",
-          "text": "(4, 6)",
+          "text": "$(-1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dado que $x$ es positivo, su recíproco también debe ser positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, +\\infty)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Para cualquier $x$ tal que $0 < x < 1$, se cumple que $\\frac{1}{x} > 1$, por lo tanto, pertenece al intervalo $(1, +\\infty)$."
+        },
+        {
+          "letter": "D",
+          "text": "$[1, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como $x < 1$ (estrictamente), su recíproco debe ser estrictamente mayor que $1$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Al analizar la función recíproca $f(x) = \\frac{1}{x}$ para valores positivos de $x$, observamos que a medida que $x$ se acerca a $0$ por la derecha, $\\frac{1}{x}$ tiende a $+\\infty$. Como el valor máximo de $x$ es menor que $1$, el valor mínimo de $\\frac{1}{x}$ debe ser mayor que $1$. Así, la imagen de $(0,1)$ es el intervalo abierto $(1, +\\infty)$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "[Evaluate]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +593,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-012",
-      "statement": "¿Cuál es el volumen de un cubo de arista 4 cm?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "El volumen de un cilindro está dado por $V = \\pi r^2 h$. Si la altura $h$ está fija en $2\\text{ metros}$ y se requiere que el volumen esté estrictamente entre $18\\pi\\text{ m}^3$ y $50\\pi\\text{ m}^3$, ¿qué intervalo describe con exactitud los posibles valores del radio $r$ (en metros)?",
+      "context": "Un constructor de tanques industriales de agua en Córdoba analiza las restricciones físicas del volumen.",
       "options": [
         {
-          "letter": "C",
-          "text": "96 cm³",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "64 cm³",
+          "text": "$[3, 5]$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. El enunciado requiere que sea estrictamente entre los dos límites, por lo que debe ser abierto."
         },
         {
           "letter": "B",
-          "text": "16 cm³",
+          "text": "$(3, 5)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Planteamos la inecuación: $18\\pi < \\pi r^2 (2) < 50\\pi$. Dividiendo por $2\\pi$, resulta $9 < r^2 < 25$. Tomando la raíz cuadrada, obtenemos $3 < r < 5$, es decir, el intervalo abierto $(3, 5)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(9, 25)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría el intervalo para el cuadrado del radio ($r^2$), no para el radio mismo."
         },
         {
           "letter": "D",
-          "text": "48 cm³",
+          "text": "$(1,5; 2,5)$",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Se dividió incorrectamente por la altura."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La condición para el volumen es $18\\pi < 2\\pi r^2 < 50\\pi$. Dividiendo toda la desigualdad por $2\\pi$, nos queda $9 < r^2 < 25$. Como el radio es positivo, aplicando raíz cuadrada resulta en $3 < r < 5$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "[Create]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +638,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-013",
-      "statement": "Factorice: x² - 9",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Considerá la inecuación $|2x - 5| > 9$. ¿Cuál es el conjunto de todos los números reales $x$ que no satisfacen esta inecuación?",
+      "context": "Lautaro analiza el conjunto de soluciones de inecuaciones con valor absoluto de cara a un examen de álgebra.",
       "options": [
         {
           "letter": "A",
-          "text": "(x-3)(x+3)",
+          "text": "$(-2, 7)$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "(x-3)²",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "x(x-9)",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Excluye a los extremos $-2$ y $7$, que tampoco satisfacen la desigualdad estricta."
         },
         {
           "letter": "B",
-          "text": "(x-9)(x+9)",
+          "text": "$[-2, 7]$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Los números que NO satisfacen $|2x - 5| > 9$ son aquellos que cumplen la desigualdad complementaria $|2x - 5| \\le 9$. Al resolverla obtenemos $-9 \\le 2x - 5 \\le 9 \\Rightarrow -4 \\le 2x \\le 14 \\Rightarrow -2 \\le x \\le 7$, lo cual corresponde al intervalo cerrado $[-2, 7]$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -2] \\cup [7, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conjunto es precisamente el conjunto solución de la inecuación original, no su complemento."
+        },
+        {
+          "letter": "D",
+          "text": "$[-7, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en los signos al resolver la desigualdad."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "El conjunto de números que no satisfacen una desigualdad es su conjunto complementario. Para $|2x - 5| > 9$, el complemento es $|2x - 5| \\le 9$. Resolviendo, se obtiene el intervalo cerrado $[-2, 7]$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "[Remember]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +683,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-014",
-      "statement": "Determine el valor de √144 + √81",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Dada la ecuación cuadrática $x^2 - kx + 9 = 0$, ¿para qué valores del parámetro real $k$ la ecuación no posee soluciones reales?",
+      "context": "Delfina estudia las condiciones matemáticas bajo las cuales una ecuación cuadrática tiene soluciones complejas.",
       "options": [
         {
-          "letter": "C",
-          "text": "23",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "21",
+          "text": "$k < 6$",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "19",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Si $k = -10$, el discriminante es positivo y habría soluciones reales."
         },
         {
           "letter": "B",
-          "text": "15",
+          "text": "$(-6, 6)$",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Para que no tenga soluciones reales, el discriminante debe ser estrictamente menor que cero: $\\Delta = b^2 - 4ac = k^2 - 36 < 0$. Esto equivale a $k^2 < 36$, cuya solución es $-6 < k < 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -6) \\cup (6, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este rango el discriminante es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$[-6, 6]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $k = \\pm 6$, el discriminante es exactamente cero, por lo que la ecuación tendría una solución real doble."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "El discriminante de la ecuación cuadrática es $\\Delta = k^2 - 36$. No hay soluciones reales si y solo si $\\Delta < 0 \\Rightarrow k^2 < 36$, lo cual corresponde al intervalo abierto $(-6, 6)$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "[Understand]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +728,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-015",
-      "statement": "¿Cuál es la ecuación de la recta con pendiente 2 que pasa por (0, 3)?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Considerá el conjunto de números reales $S = \\left\\{ 2 - \\frac{1}{n} \\colon n \\in \\mathbb{N} \\right\\}$. ¿Cuáles son el extremo inferior (ínfimo) y el extremo superior (supremo) de este conjunto $S$?",
+      "context": "Un profesor de análisis matemático en Mendoza plantea un desafío sobre la acotación de conjuntos numéricos.",
       "options": [
         {
-          "letter": "D",
-          "text": "y = x + 3",
+          "letter": "A",
+          "text": "Ínfimo = 1, Supremo = 1.99",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. El supremo debe ser el límite exacto de la secuencia a medida que $n$ tiende a infinito, el cual es exactamente 2."
         },
         {
           "letter": "B",
-          "text": "y = 3x + 2",
+          "text": "Ínfimo = 1, Supremo = 2",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "y = 2x + 3",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Correcto. El menor valor del conjunto ocurre cuando $n = 1$, dando $2 - 1 = 1$. A medida que $n$ crece, el término $\\frac{1}{n}$ disminuye, acercándose a 0, por lo que los elementos se aproximan a 2. El supremo es 2."
         },
         {
           "letter": "C",
-          "text": "y = 2x - 3",
+          "text": "Ínfimo = 0, Supremo = 2",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Dado que $n \\ge 1$, el menor valor posible en el conjunto es $1$."
+        },
+        {
+          "letter": "D",
+          "text": "No está acotado superiormente ya que $n$ puede ser tan grande como queramos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $n$ crece indefinidamente, los elementos del conjunto nunca pueden superar el valor de 2."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
+      "explanation": "Para el conjunto $S$, dado que $n \\ge 1$, la expresión $2 - \\frac{1}{n}$ alcanza su mínimo valor en $n=1$, dando $1$. Al aumentar $n$, los valores crecen aproximándose al límite $2$. Por ende, el ínfimo de $S$ es $1$ y el supremo es $2$.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "[Apply]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +773,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-016",
-      "statement": "Resuelva: 5! ÷ 3!",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Para dos números reales positivos cualesquiera $a$ y $b$, se propone la inecuación $\\frac{a + b}{2} \\ge \\sqrt{ab}$. ¿Para qué valores de $a$ y $b$ se cumple la igualdad exacta de esta inecuación?",
+      "context": "Joaquín intenta demostrar una propiedad algebraica para cualquier par de números reales positivos.",
       "options": [
         {
-          "letter": "C",
-          "text": "10",
+          "letter": "A",
+          "text": "Nunca se cumple la igualdad exacta en números reales positivos.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Sí hay una condición simple para la cual ambos lados son exactamente iguales."
         },
         {
           "letter": "B",
-          "text": "15",
+          "text": "Únicamente cuando $a = b$.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. Esta es la relación de las medias aritmética y geométrica (AM-GM). Al elevar ambos miembros al cuadrado y simplificar, se obtiene $(a-b)^2 \\ge 0$. La igualdad se da si y solo si $a - b = 0 \\Rightarrow a = b$."
         },
         {
-          "letter": "A",
-          "text": "20",
+          "letter": "C",
+          "text": "Cuando uno de los dos números es el doble del otro.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Si por ejemplo $a = 2$ y $b = 1$, las medias no son iguales."
         },
         {
           "letter": "D",
-          "text": "60",
+          "text": "Únicamente cuando $a = 1$ o $b = 1$.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Si $a = 1$ y $b = 4$, la media aritmética es $2,5$ y la geométrica es $2$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
+      "explanation": "La desigualdad de las medias aritmética y geométrica se demuestra a partir de la inecuación $(a-b)^2 \\ge 0$, la cual es una identidad en los reales. La igualdad se cumple únicamente cuando el binomio es cero, es decir, cuando $a = b$.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "[Analyze]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +818,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-017",
-      "statement": "¿Cuál es el dominio de f(x) = √(x - 4)?",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Un estudiante resolvió la inecuación $x^2 > 4x$ dividiendo ambos lados de la desigualdad por $x$, concluyendo que la solución es simplemente $x > 4$. ¿Cuál es la evaluación matemática correcta de este procedimiento?",
+      "context": "Bautista detecta un error común en la resolución de una inecuación por parte de un compañero.",
       "options": [
         {
+          "letter": "A",
+          "text": "El procedimiento es completamente correcto y la solución es $x > 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió una parte de las soluciones debido a la división por una variable sin analizar su signo."
+        },
+        {
           "letter": "B",
-          "text": "x > 4",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "text": "El procedimiento es incorrecto porque el sentido de la desigualdad debería haberse invertido siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se invierte si la variable por la que se divide es negativa."
         },
         {
           "letter": "C",
-          "text": "x ≥ 0",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "A",
-          "text": "x ≥ 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "text": "Es incorrecto porque al dividir por $x$ se asume implícitamente que $x > 0$. Si $x < 0$, la división invierte la desigualdad dando $x < 4$, lo que sumado al supuesto $x < 0$ añade el intervalo $(-\\infty, 0)$ a la solución.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividir por una variable cuyo signo se desconoce es un error grave. Si $x < 0$, al dividir por $x$ se invierte el sentido de la desigualdad, resultando en $x < 4$, lo que da todo el intervalo de números negativos."
         },
         {
           "letter": "D",
-          "text": "x > 0",
+          "text": "El procedimiento es incorrecto porque nunca está permitido dividir una inecuación por ninguna variable.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Sí está permitido siempre que se analicen los casos según el signo de la variable."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Al dividir ambos miembros de $x^2 > 4x$ por $x$, si $x > 0$, la división mantiene el sentido: $x > 4$. Si $x < 0$, al dividir se invierte el sentido: $x < 4$, lo que da $(-\\infty, 0)$. El valor $0$ no cumple la desigualdad. La solución real completa es $(-\\infty, 0) \\cup (4, +\\infty)$.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "[Evaluate]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,133 +863,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-018",
-      "statement": "Convierta 0.75 a fracción simplificada.",
-      "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "1/2",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "7/5",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "B",
-          "text": "75/100",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "3/4",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "[Create]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-019",
-      "statement": "¿Cuál es el perímetro de un círculo de radio 5 cm? (Use π ≈ 3.14)",
-      "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "15.7 cm",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "78.5 cm",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "A",
-          "text": "31.4 cm",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "B",
-          "text": "25 cm",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "[Remember]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-P1-numeros-reales-ar-020",
-      "statement": "Resuelva: log₂(8) + log₂(4)",
-      "context": "",
+      "id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Evaluá la veracidad de la siguiente proposición: 'Entre dos números irracionales distintos cualesquiera, siempre existe al menos un número racional'. ¿Es esta afirmación verdadera o falsa?",
+      "context": "Un grupo de estudiantes debate sobre las propiedades de densidad de los números en la recta real.",
       "options": [
         {
           "letter": "A",
-          "text": "5",
+          "text": "Falsa, porque los números irracionales y racionales están en conjuntos totalmente separados y no se mezclan.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "4",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. Aunque son conjuntos disjuntos, sus elementos están infinitamente entrelazados en la recta real."
         },
         {
           "letter": "B",
-          "text": "6",
+          "text": "Verdadera, debido a la propiedad de densidad de los números racionales en el conjunto de los números reales ($\\mathbb{R}$).",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "Correcto. El conjunto de los números racionales es denso en los reales. Esto garantiza que en cualquier intervalo abierto de la recta real, siempre existe al menos un número racional."
         },
         {
           "letter": "C",
-          "text": "3",
+          "text": "Falsa, ya que si los dos irracionales están sumamente juntos, solo puede haber otros números irracionales entre ellos.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Sin importar la distancia microscópica, la propiedad de densidad garantiza la existencia de racionales."
+        },
+        {
+          "letter": "D",
+          "text": "Verdadera, pero solo si al menos uno de los dos extremos irracionales es un múltiplo entero de $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cumple para cualquier par de números reales distintos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema numeros reales ar en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La propiedad de densidad de los números racionales en la recta real garantiza que para cualquier par de números reales distintos $a$ y $b$ con $a < b$, existe un número racional $q$ tal que $a < q < b$. Como los irracionales son reales, se cumple de manera absoluta.\\n",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "[Understand]",
-      "expected_success": null,
-      "bundle_id": "ar-matematicas-11-P1-numeros-reales-ar-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,

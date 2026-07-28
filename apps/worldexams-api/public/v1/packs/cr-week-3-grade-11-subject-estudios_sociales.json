@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "estudios-sociales",
+    "country": "cr",
+    "pack_id": "cr-week-3-grade-11-subject-estudios_sociales",
+    "generated_at": "2026-07-28T22:41:05.345Z"
+  },
+  "questions": [
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es un objetivo central o característica de Empresa transnacional de tecnología (Intel) que fue discutido por don Guillermo y el resto de la comunidad?",
+      "context": "En Heredia, el ciudadano don Guillermo asiste a un panel organizado en la comunidad sobre el impacto de el ensamblaje y testeo de microprocesadores en Belén de Heredia. Durante la charla, se destaca la influencia directa de Empresa transnacional de tecnología (Intel).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir toda participación comercial privada de Heredia en relación con cadenas de valor",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Empresa transnacional de tecnología (Intel) no persigue restringir o prohibir toda iniciativa privada regional en Heredia."
+        },
+        {
+          "letter": "B",
+          "text": "Nacionalizar unilateralmente todos los activos vinculados a cadenas de valor dentro de la provincia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La nacionalización forzosa regional no representa una política de Empresa transnacional de tecnología (Intel)."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de cadenas de valor",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Empresa transnacional de tecnología (Intel)."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer directrices que promuevan la regulación, orden y cadenas de valor a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Empresa transnacional de tecnología (Intel) se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a cadenas de valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La discusión sobre el ensamblaje y testeo de microprocesadores en Belén de Heredia resalta el papel de Empresa transnacional de tecnología (Intel) en regular cadenas de valor, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es un objetivo central o característica de Call centers y soporte técnico (Amazon) que fue discutido por Javier y el resto de la comunidad?",
+      "context": "En Liberia, el ciudadano Javier asiste a un panel organizado en la comunidad sobre el impacto de el empleo bilingüe para soporte informático en San Pedro de Montes de Oca. Durante la charla, se destaca la influencia directa de Call centers y soporte técnico (Amazon).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir toda participación comercial privada de Liberia en relación con servicios globales",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Call centers y soporte técnico (Amazon) no persigue restringir o prohibir toda iniciativa privada regional en Liberia."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer directrices que promuevan la regulación, orden y servicios globales a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Call centers y soporte técnico (Amazon) se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a servicios globales."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de servicios globales",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Call centers y soporte técnico (Amazon)."
+        },
+        {
+          "letter": "D",
+          "text": "Centralizar de manera absoluta el control aduanero exclusivo en las alcaldías de Liberia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Las aduanas son competencia del gobierno central, no de las alcaldías cantonales locales de Liberia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La discusión sobre el empleo bilingüe para soporte informático en San Pedro de Montes de Oca resalta el papel de Call centers y soporte técnico (Amazon) en regular servicios globales, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con la información analizada sobre el régimen tributario especial y la exención del impuesto sobre la renta, ¿cómo se explica el papel de Zonas Francas (Coyol de Alajuela) en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Puntarenas, Sofía evalúa una infografía detallada de el régimen tributario especial y la exención del impuesto sobre la renta. El gráfico muestra la movilización de capitales de ₡3.200.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Puntarenas respecto a mercados internacionales de incentivos de inversión",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Puntarenas sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre incentivos de inversión."
+        },
+        {
+          "letter": "C",
+          "text": "Permite comprender la integración de flujos económicos de incentivos de inversión bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de incentivos de inversión de acuerdo con marcos globales."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Zonas Francas (Coyol de Alajuela) opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender la articulación entre Zonas Francas (Coyol de Alajuela) y las finanzas costarricenses devela que los flujos de incentivos de inversión están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "De acuerdo con la información analizada sobre la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas, ¿cómo se explica el papel de Encadenamientos productivos en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Limón, Tatiana evalúa una infografía detallada de la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas. El gráfico muestra la movilización de capitales de ₡45.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite comprender la integración de flujos económicos de integración local bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de integración local de acuerdo con marcos globales."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre integración local."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡45.000.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Encadenamientos productivos."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Encadenamientos productivos opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender la articulación entre Encadenamientos productivos y las finanzas costarricenses devela que los flujos de integración local están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "De acuerdo con la información analizada sobre el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa, ¿cómo se explica el papel de Repatriación de utilidades en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Pérez Zeledón, Randall evalúa una infografía detallada de el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa. El gráfico muestra la movilización de capitales de ₡1.500.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Pérez Zeledón respecto a mercados internacionales de fuga de capitales",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Pérez Zeledón sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre fuga de capitales."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡1.500.000.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Repatriación de utilidades."
+        },
+        {
+          "letter": "D",
+          "text": "Permite comprender la integración de flujos económicos de fuga de capitales bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de fuga de capitales de acuerdo con marcos globales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Entender la articulación entre Repatriación de utilidades y las finanzas costarricenses devela que los flujos de fuga de capitales están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "De acuerdo con la información analizada sobre las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia, ¿cómo se explica el papel de Ciudades globales (Nueva York, Londres) en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia. El gráfico muestra la movilización de capitales de ₡50.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de San José respecto a mercados internacionales de hegemonía económica",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a San José sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Permite comprender la integración de flujos económicos de hegemonía económica bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de hegemonía económica de acuerdo con marcos globales."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡50.000.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Ciudades globales (Nueva York, Londres)."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de San José",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ciudades globales (Nueva York, Londres) opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la articulación entre Ciudades globales (Nueva York, Londres) y las finanzas costarricenses devela que los flujos de hegemonía económica están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "¿De qué manera práctica debe Andrés y su equipo aplicar los lineamientos de Responsabilidad social empresarial para garantizar el éxito de su proyecto de compromiso ambiental?",
+      "context": "Una organización en Alajuela liderada por Andrés busca financiamiento o acreditación bajo el marco de Responsabilidad social empresarial por una suma estimada de ₡18.000.000 para potenciar los programas de reforestación financiados por transnacionales en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡18.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Alajuela",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de compromiso ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para compromiso ambiental",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Alajuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Responsabilidad social empresarial demanda la traducción práctica de estándares internacionales de compromiso ambiental a la realidad operativa de Alajuela.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera práctica debe doña Marta y su equipo aplicar los lineamientos de Transferencia de tecnología para garantizar el éxito de su proyecto de desarrollo técnico?",
+      "context": "Una organización en Cartago liderada por doña Marta busca financiamiento o acreditación bajo el marco de Transferencia de tecnología por una suma estimada de ₡120.000.000 para potenciar la capacitación especializada de ingenieros costarricenses en robótica industrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para desarrollo técnico",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de desarrollo técnico."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡120.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de desarrollo técnico."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Cartago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La puesta en marcha de proyectos bajo Transferencia de tecnología demanda la traducción práctica de estándares internacionales de desarrollo técnico a la realidad operativa de Cartago.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "¿De qué manera práctica debe don Gerardo y su equipo aplicar los lineamientos de Empresa transnacional de tecnología (Intel) para garantizar el éxito de su proyecto de cadenas de valor?",
+      "context": "Una organización en Heredia liderada por don Gerardo busca financiamiento o acreditación bajo el marco de Empresa transnacional de tecnología (Intel) por una suma estimada de ₡250.000.000 para potenciar el ensamblaje y testeo de microprocesadores en Belén de Heredia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡250.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de cadenas de valor."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡250.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de cadenas de valor."
+        },
+        {
+          "letter": "D",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para cadenas de valor",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La puesta en marcha de proyectos bajo Empresa transnacional de tecnología (Intel) demanda la traducción práctica de estándares internacionales de cadenas de valor a la realidad operativa de Heredia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Call centers y soporte técnico (Amazon) para garantizar el éxito de su proyecto de servicios globales?",
+      "context": "Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Call centers y soporte técnico (Amazon) por una suma estimada de ₡1.200.000 para potenciar el empleo bilingüe para soporte informático en San Pedro de Montes de Oca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡1.200.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para servicios globales",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡1.200.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de servicios globales."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Liberia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en marcha de proyectos bajo Call centers y soporte técnico (Amazon) demanda la traducción práctica de estándares internacionales de servicios globales a la realidad operativa de Liberia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera práctica debe Elena y su equipo aplicar los lineamientos de Zonas Francas (Coyol de Alajuela) para garantizar el éxito de su proyecto de incentivos de inversión?",
+      "context": "Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Zonas Francas (Coyol de Alajuela) por una suma estimada de ₡3.200.000.000 para potenciar el régimen tributario especial y la exención del impuesto sobre la renta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡3.200.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de incentivos de inversión."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para incentivos de inversión",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Puntarenas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Zonas Francas (Coyol de Alajuela) demanda la traducción práctica de estándares internacionales de incentivos de inversión a la realidad operativa de Puntarenas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Encadenamientos productivos para garantizar el éxito de su proyecto de integración local?",
+      "context": "Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Encadenamientos productivos por una suma estimada de ₡45.000.000 para potenciar la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para integración local",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de integración local."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡45.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de integración local."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Limón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La puesta en marcha de proyectos bajo Encadenamientos productivos demanda la traducción práctica de estándares internacionales de integración local a la realidad operativa de Limón.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Repatriación de utilidades?",
+      "context": "Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa. Los participantes señalan que el flujo de recursos de ₡1.500.000.000 ha beneficiado a algunos sectores pero ha desatendido fuga de capitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Pérez Zeledón ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en fuga de capitales."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Pérez Zeledón ha declarado su autarquía completa y ha cancelado el uso de ₡1.500.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Repatriación de utilidades se restringe únicamente al sector inmobiliario residencial de lujo en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de fuga de capitales."
+        },
+        {
+          "letter": "D",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende fuga de capitales a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Repatriación de utilidades puede generar dualidades y desatención de sectores sensibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis crítico de el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en fuga de capitales locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Ciudades globales (Nueva York, Londres)?",
+      "context": "Un foro de debate en San José analiza de manera exhaustiva el impacto de las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia. Los participantes señalan que el flujo de recursos de ₡50.000.000 ha beneficiado a algunos sectores pero ha desatendido hegemonía económica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en San José ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en hegemonía económica."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende hegemonía económica a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Ciudades globales (Nueva York, Londres) puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Ciudades globales (Nueva York, Londres) se restringe únicamente al sector inmobiliario residencial de lujo en San José",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de hegemonía económica."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡50.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico de las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en hegemonía económica locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Responsabilidad social empresarial?",
+      "context": "Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de los programas de reforestación financiados por transnacionales en Puntarenas. Los participantes señalan que el flujo de recursos de ₡18.000.000 ha beneficiado a algunos sectores pero ha desatendido compromiso ambiental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Alajuela ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en compromiso ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Alajuela ha declarado su autarquía completa y ha cancelado el uso de ₡18.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende compromiso ambiental a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Responsabilidad social empresarial puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡18.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico de los programas de reforestación financiados por transnacionales en Puntarenas devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en compromiso ambiental locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Transferencia de tecnología?",
+      "context": "Un foro de debate en Cartago analiza de manera exhaustiva el impacto de la capacitación especializada de ingenieros costarricenses en robótica industrial. Los participantes señalan que el flujo de recursos de ₡120.000.000 ha beneficiado a algunos sectores pero ha desatendido desarrollo técnico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende desarrollo técnico a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Transferencia de tecnología puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Cartago ha declarado su autarquía completa y ha cancelado el uso de ₡120.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Transferencia de tecnología se restringe únicamente al sector inmobiliario residencial de lujo en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de desarrollo técnico."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡120.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de la capacitación especializada de ingenieros costarricenses en robótica industrial devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en desarrollo técnico locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el juicio crítico que debe formular Karla al evaluar los resultados a largo plazo sobre cadenas de valor en el país?",
+      "context": "Una comisión evaluadora del MEP en Heredia, integrada por Karla, revisa los indicadores de desarrollo de el ensamblaje y testeo de microprocesadores en Belén de Heredia y los aportes de Empresa transnacional de tecnología (Intel) estimados en ₡250.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Empresa transnacional de tecnología (Intel) carece de fallas y representa una solución perfecta para cadenas de valor",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en cadenas de valor."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Empresa transnacional de tecnología (Intel)",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡250.000.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para cadenas de valor."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en cadenas de valor",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡250.000.000 no equivale automáticamente a equidad social."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La evaluación crítica del impacto de Empresa transnacional de tecnología (Intel) demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de cadenas de valor beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre servicios globales en el país?",
+      "context": "Una comisión evaluadora del MEP en Liberia, integrada por Randall, revisa los indicadores de desarrollo de el empleo bilingüe para soporte informático en San Pedro de Montes de Oca y los aportes de Call centers y soporte técnico (Amazon) estimados en ₡1.200.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Call centers y soporte técnico (Amazon) carece de fallas y representa una solución perfecta para servicios globales",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en servicios globales."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en servicios globales",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡1.200.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡1.200.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Liberia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para servicios globales."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de servicios globales deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación crítica del impacto de Call centers y soporte técnico (Amazon) demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de servicios globales beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre incentivos de inversión en el país?",
+      "context": "Una comisión evaluadora del MEP en Puntarenas, integrada por Randall, revisa los indicadores de desarrollo de el régimen tributario especial y la exención del impuesto sobre la renta y los aportes de Zonas Francas (Coyol de Alajuela) estimados en ₡3.200.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Zonas Francas (Coyol de Alajuela) carece de fallas y representa una solución perfecta para incentivos de inversión",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en incentivos de inversión."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Zonas Francas (Coyol de Alajuela)",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en incentivos de inversión",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡3.200.000.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de incentivos de inversión deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica del impacto de Zonas Francas (Coyol de Alajuela) demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de incentivos de inversión beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre integración local en el país?",
+      "context": "Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas y los aportes de Encadenamientos productivos estimados en ₡45.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en integración local",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡45.000.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Encadenamientos productivos",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡45.000.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para integración local."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de integración local deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica del impacto de Encadenamientos productivos demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de integración local beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

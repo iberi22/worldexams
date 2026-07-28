@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.628Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una ecuación lineal de primer grado con una sola variable?",
+      "context": "En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ax + b = 0, con a distinto de cero",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta ecuación tiene grado 1 respecto a la variable x, y su solución es única y real si a != 0."
+        },
+        {
+          "letter": "B",
+          "text": "ax^2 + bx + c = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma general de una ecuación cuadrática, de segundo grado."
+        },
+        {
+          "letter": "C",
+          "text": "ax + by + c = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una ecuación lineal con dos variables, no con una."
+        },
+        {
+          "letter": "D",
+          "text": "a/x + b = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una ecuación racional, no una ecuación lineal pura de primer grado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una ecuación lineal de primer grado con una variable se escribe en la forma ax + b = 0, donde a y b son constantes reales con a != 0.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor que toma la variable x al resolver la ecuación lineal básica x / 2 + 5 = 11?",
+      "context": "En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando 5 a ambos lados se obtiene x / 2 = 6, y multiplicando por 2 resulta x = 12."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 8, 8 / 2 + 5 = 4 + 5 = 9, no 11."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste de forma errónea los términos del despeje."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por 2 al despejar la fracción del miembro izquierdo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restando 5 en ambos miembros obtenemos x / 2 = 6. Multiplicando ambos lados por 2 para despejar la variable resulta x = 12.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "Si sumamos 3 al doble de un número real x se obtiene 15. ¿Cuál ecuación lineal describe este enunciado?",
+      "context": "En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2x + 3 = 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! El doble de un número es 2x, y sumándole 3 es 2x + 3. Igualando a 15 resulta 2x + 3 = 15."
+        },
+        {
+          "letter": "B",
+          "text": "3x + 2 = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribiste el triple del número más dos, lo cual contradice el enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "2(x + 3) = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación representa el doble de la suma de x y 3, no el doble de x más 3."
+        },
+        {
+          "letter": "D",
+          "text": "x^2 + 3 = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste la variable al cuadrado en lugar de multiplicarla por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tradiciendo al lenguaje algebraico: 'el doble de un número x' es 2x. 'Sumamos 3' es + 3. 'Se obtiene 15' es = 15. Por ende, la ecuación es 2x + 3 = 15.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "Resuelva la ecuación lineal: 4x - 20 = 3x + 8. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Resuelva la ecuación lineal: 5x - 25 = 4x + 10. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Bolivar de Tarija, el estudiante Sonia plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la ecuación lineal: 6x - 30 = 5x + 12. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Potosí de Oruro, el estudiante Ramiro plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "Resuelva la ecuación lineal: 7x - 35 = 6x + 14. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "49",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "Resuelva la ecuación lineal: 8x - 40 = 7x + 16. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Trinidad de Cobija, el estudiante Jaime plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la ecuación lineal: 9x - 45 = 8x + 18. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Resuelva la ecuación lineal: 10x - 50 = 9x + 20. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Ayacucho de La Paz, el estudiante Grover plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la ecuación lineal: 11x - 55 = 10x + 22. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "77",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación lineal: 12x - 60 = 11x + 24. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la ecuación lineal: 13x - 65 = 12x + 26. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "91",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la ecuación lineal: 14x - 70 = 13x + 28. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "98",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación lineal: 15x - 75 = 14x + 30. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Bolivar de Tarija, el estudiante Sonia plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "105",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la ecuación lineal: 16x - 80 = 15x + 32. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Potosí de Oruro, el estudiante Ramiro plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "112",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Resuelva la ecuación lineal: 17x - 85 = 16x + 34. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "119",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la ecuación lineal: 18x - 90 = 17x + 36. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Trinidad de Cobija, el estudiante Jaime plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "126",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Resuelva la ecuación lineal: 19x - 95 = 18x + 38. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "133",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "Resuelva la ecuación lineal: 20x - 100 = 19x + 40. ¿Cuál es el valor de x?",
+      "context": "En el Colegio Nacional Ayacucho de La Paz, el estudiante Grover plantea ecuaciones de primer grado para modelar presupuestos familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "140",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
+        },
+        {
+          "letter": "D",
+          "text": "-20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

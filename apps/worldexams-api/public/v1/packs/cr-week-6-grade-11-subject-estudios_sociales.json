@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "estudios-sociales",
+    "country": "cr",
+    "pack_id": "cr-week-6-grade-11-subject-estudios_sociales",
+    "generated_at": "2026-07-28T22:41:05.347Z"
+  },
+  "questions": [
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es un objetivo central o característica de Apertura del monopolio de telecomunicaciones que fue discutido por Tatiana y el resto de la comunidad?",
+      "context": "En Limón, el ciudadano Tatiana asiste a un panel organizado en la comunidad sobre el impacto de el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica. Durante la charla, se destaca la influencia directa de Apertura del monopolio de telecomunicaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer directrices que promuevan la regulación, orden y competencia de mercado a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Apertura del monopolio de telecomunicaciones se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a competencia de mercado."
+        },
+        {
+          "letter": "B",
+          "text": "Nacionalizar unilateralmente todos los activos vinculados a competencia de mercado dentro de la provincia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La nacionalización forzosa regional no representa una política de Apertura del monopolio de telecomunicaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de competencia de mercado",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Apertura del monopolio de telecomunicaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Centralizar de manera absoluta el control aduanero exclusivo en las alcaldías de Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Las aduanas son competencia del gobierno central, no de las alcaldías cantonales locales de Limón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La discusión sobre el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica resalta el papel de Apertura del monopolio de telecomunicaciones en regular competencia de mercado, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es un objetivo central o característica de Brecha digital en centros educativos que fue discutido por Randall y el resto de la comunidad?",
+      "context": "En Pérez Zeledón, el ciudadano Randall asiste a un panel organizado en la comunidad sobre el impacto de el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón. Durante la charla, se destaca la influencia directa de Brecha digital en centros educativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir toda participación comercial privada de Pérez Zeledón en relación con educación digital",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Brecha digital en centros educativos no persigue restringir o prohibir toda iniciativa privada regional en Pérez Zeledón."
+        },
+        {
+          "letter": "B",
+          "text": "Nacionalizar unilateralmente todos los activos vinculados a educación digital dentro de la provincia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La nacionalización forzosa regional no representa una política de Brecha digital en centros educativos."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de educación digital",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Brecha digital en centros educativos."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer directrices que promuevan la regulación, orden y educación digital a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Brecha digital en centros educativos se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a educación digital."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La discusión sobre el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón resalta el papel de Brecha digital en centros educativos en regular educación digital, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con la información analizada sobre la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste, ¿cómo se explica el papel de Nómadas digitales en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste. El gráfico muestra la movilización de capitales de ₡1.800.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de San José respecto a mercados internacionales de economía turística",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a San José sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Permite comprender la integración de flujos económicos de economía turística bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de economía turística de acuerdo con marcos globales."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡1.800.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Nómadas digitales."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de San José",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Nómadas digitales opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la articulación entre Nómadas digitales y las finanzas costarricenses devela que los flujos de economía turística están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "De acuerdo con la información analizada sobre el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022, ¿cómo se explica el papel de Ataques cibernéticos (Ransomware Conti) en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Alajuela, Andrés evalúa una infografía detallada de el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022. El gráfico muestra la movilización de capitales de ₡10.000.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Alajuela respecto a mercados internacionales de ciberseguridad estatal",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Alajuela sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Alajuela",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre ciberseguridad estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Permite comprender la integración de flujos económicos de ciberseguridad estatal bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de ciberseguridad estatal de acuerdo con marcos globales."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Alajuela",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ataques cibernéticos (Ransomware Conti) opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender la articulación entre Ataques cibernéticos (Ransomware Conti) y las finanzas costarricenses devela que los flujos de ciberseguridad estatal están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "De acuerdo con la información analizada sobre la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB, ¿cómo se explica el papel de Soberanía tecnológica de datos en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Cartago, doña Marta evalúa una infografía detallada de la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB. El gráfico muestra la movilización de capitales de ₡45.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite comprender la integración de flujos económicos de privacidad digital bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de privacidad digital de acuerdo con marcos globales."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre privacidad digital."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡45.000.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Soberanía tecnológica de datos."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Soberanía tecnológica de datos opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender la articulación entre Soberanía tecnológica de datos y las finanzas costarricenses devela que los flujos de privacidad digital están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "De acuerdo con la información analizada sobre los programas de capacitación del INA en programación web e inteligencia artificial en San José, ¿cómo se explica el papel de Alfabetización digital y empleo en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Heredia, don Gerardo evalúa una infografía detallada de los programas de capacitación del INA en programación web e inteligencia artificial en San José. El gráfico muestra la movilización de capitales de ₡600.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Heredia respecto a mercados internacionales de empleabilidad tecnológica",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Heredia sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre empleabilidad tecnológica."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡600.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Alfabetización digital y empleo."
+        },
+        {
+          "letter": "D",
+          "text": "Permite comprender la integración de flujos económicos de empleabilidad tecnológica bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de empleabilidad tecnológica de acuerdo con marcos globales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Entender la articulación entre Alfabetización digital y empleo y las finanzas costarricenses devela que los flujos de empleabilidad tecnológica están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Infraestructura de fibra óptica para garantizar el éxito de su proyecto de infraestructura comunitaria?",
+      "context": "Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Infraestructura de fibra óptica por una suma estimada de ₡1.200.000.000 para potenciar el despliegue de redes simétricas en zonas rurales de San Carlos por cooperativas eléctricas locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡1.200.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para infraestructura comunitaria",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡1.200.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de infraestructura comunitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Liberia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en marcha de proyectos bajo Infraestructura de fibra óptica demanda la traducción práctica de estándares internacionales de infraestructura comunitaria a la realidad operativa de Liberia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera práctica debe Elena y su equipo aplicar los lineamientos de Comercio electrónico en pymes para garantizar el éxito de su proyecto de modernización comercial?",
+      "context": "Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Comercio electrónico en pymes por una suma estimada de ₡3.500.000 para potenciar la digitalización de ventas de artesanos de Sarchí mediante plataformas de pago electrónico nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡3.500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de modernización comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para modernización comercial",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Puntarenas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Comercio electrónico en pymes demanda la traducción práctica de estándares internacionales de modernización comercial a la realidad operativa de Puntarenas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Apertura del monopolio de telecomunicaciones para garantizar el éxito de su proyecto de competencia de mercado?",
+      "context": "Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Apertura del monopolio de telecomunicaciones por una suma estimada de ₡15.000.000.000 para potenciar el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para competencia de mercado",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de competencia de mercado."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡15.000.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de competencia de mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Limón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La puesta en marcha de proyectos bajo Apertura del monopolio de telecomunicaciones demanda la traducción práctica de estándares internacionales de competencia de mercado a la realidad operativa de Limón.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "¿De qué manera práctica debe Mariela y su equipo aplicar los lineamientos de Brecha digital en centros educativos para garantizar el éxito de su proyecto de educación digital?",
+      "context": "Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Brecha digital en centros educativos por una suma estimada de ₡8.000.000 para potenciar el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡8.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de educación digital."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡8.000.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de educación digital."
+        },
+        {
+          "letter": "D",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para educación digital",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La puesta en marcha de proyectos bajo Brecha digital en centros educativos demanda la traducción práctica de estándares internacionales de educación digital a la realidad operativa de Pérez Zeledón.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera práctica debe don Fernando y su equipo aplicar los lineamientos de Nómadas digitales para garantizar el éxito de su proyecto de economía turística?",
+      "context": "Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Nómadas digitales por una suma estimada de ₡1.800.000 para potenciar la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡1.800.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para economía turística",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡1.800.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de economía turística."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de San José."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en marcha de proyectos bajo Nómadas digitales demanda la traducción práctica de estándares internacionales de economía turística a la realidad operativa de San José.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera práctica debe Esteban y su equipo aplicar los lineamientos de Ataques cibernéticos (Ransomware Conti) para garantizar el éxito de su proyecto de ciberseguridad estatal?",
+      "context": "Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Ataques cibernéticos (Ransomware Conti) por una suma estimada de ₡10.000.000.000 para potenciar el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡10.000.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Alajuela",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de ciberseguridad estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para ciberseguridad estatal",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Alajuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Ataques cibernéticos (Ransomware Conti) demanda la traducción práctica de estándares internacionales de ciberseguridad estatal a la realidad operativa de Alajuela.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Soberanía tecnológica de datos?",
+      "context": "Un foro de debate en Cartago analiza de manera exhaustiva el impacto de la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB. Los participantes señalan que el flujo de recursos de ₡45.000.000 ha beneficiado a algunos sectores pero ha desatendido privacidad digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende privacidad digital a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Soberanía tecnológica de datos puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Cartago ha declarado su autarquía completa y ha cancelado el uso de ₡45.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Soberanía tecnológica de datos se restringe únicamente al sector inmobiliario residencial de lujo en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de privacidad digital."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡45.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en privacidad digital locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Alfabetización digital y empleo?",
+      "context": "Un foro de debate en Heredia analiza de manera exhaustiva el impacto de los programas de capacitación del INA en programación web e inteligencia artificial en San José. Los participantes señalan que el flujo de recursos de ₡600.000 ha beneficiado a algunos sectores pero ha desatendido empleabilidad tecnológica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Heredia ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en empleabilidad tecnológica."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Heredia ha declarado su autarquía completa y ha cancelado el uso de ₡600.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Alfabetización digital y empleo se restringe únicamente al sector inmobiliario residencial de lujo en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de empleabilidad tecnológica."
+        },
+        {
+          "letter": "D",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende empleabilidad tecnológica a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Alfabetización digital y empleo puede generar dualidades y desatención de sectores sensibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis crítico de los programas de capacitación del INA en programación web e inteligencia artificial en San José devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en empleabilidad tecnológica locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Infraestructura de fibra óptica?",
+      "context": "Un foro de debate en Liberia analiza de manera exhaustiva el impacto de el despliegue de redes simétricas en zonas rurales de San Carlos por cooperativas eléctricas locales. Los participantes señalan que el flujo de recursos de ₡1.200.000.000 ha beneficiado a algunos sectores pero ha desatendido infraestructura comunitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Liberia ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en infraestructura comunitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende infraestructura comunitaria a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Infraestructura de fibra óptica puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Infraestructura de fibra óptica se restringe únicamente al sector inmobiliario residencial de lujo en Liberia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de infraestructura comunitaria."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡1.200.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico de el despliegue de redes simétricas en zonas rurales de San Carlos por cooperativas eléctricas locales devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en infraestructura comunitaria locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Comercio electrónico en pymes?",
+      "context": "Un foro de debate en Puntarenas analiza de manera exhaustiva el impacto de la digitalización de ventas de artesanos de Sarchí mediante plataformas de pago electrónico nacional. Los participantes señalan que el flujo de recursos de ₡3.500.000 ha beneficiado a algunos sectores pero ha desatendido modernización comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Puntarenas ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en modernización comercial."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Puntarenas ha declarado su autarquía completa y ha cancelado el uso de ₡3.500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende modernización comercial a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Comercio electrónico en pymes puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡3.500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico de la digitalización de ventas de artesanos de Sarchí mediante plataformas de pago electrónico nacional devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en modernización comercial locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre competencia de mercado en el país?",
+      "context": "Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica y los aportes de Apertura del monopolio de telecomunicaciones estimados en ₡15.000.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en competencia de mercado",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡15.000.000.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Apertura del monopolio de telecomunicaciones",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡15.000.000.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para competencia de mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de competencia de mercado deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica del impacto de Apertura del monopolio de telecomunicaciones demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de competencia de mercado beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre educación digital en el país?",
+      "context": "Una comisión evaluadora del MEP en Pérez Zeledón, integrada por Randall, revisa los indicadores de desarrollo de el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón y los aportes de Brecha digital en centros educativos estimados en ₡8.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Brecha digital en centros educativos carece de fallas y representa una solución perfecta para educación digital",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en educación digital."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Brecha digital en centros educativos",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡8.000.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para educación digital."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en educación digital",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡8.000.000 no equivale automáticamente a equidad social."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La evaluación crítica del impacto de Brecha digital en centros educativos demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de educación digital beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el juicio crítico que debe formular Randall al evaluar los resultados a largo plazo sobre economía turística en el país?",
+      "context": "Una comisión evaluadora del MEP en San José, integrada por Randall, revisa los indicadores de desarrollo de la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste y los aportes de Nómadas digitales estimados en ₡1.800.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Nómadas digitales carece de fallas y representa una solución perfecta para economía turística",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en economía turística."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en economía turística",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡1.800.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡1.800.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en San José",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para economía turística."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de economía turística deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación crítica del impacto de Nómadas digitales demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de economía turística beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el juicio crítico que debe formular Shirley al evaluar los resultados a largo plazo sobre ciberseguridad estatal en el país?",
+      "context": "Una comisión evaluadora del MEP en Alajuela, integrada por Shirley, revisa los indicadores de desarrollo de el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022 y los aportes de Ataques cibernéticos (Ransomware Conti) estimados en ₡10.000.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Ataques cibernéticos (Ransomware Conti) carece de fallas y representa una solución perfecta para ciberseguridad estatal",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en ciberseguridad estatal."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Ataques cibernéticos (Ransomware Conti)",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en ciberseguridad estatal",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡10.000.000.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de ciberseguridad estatal deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica del impacto de Ataques cibernéticos (Ransomware Conti) demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de ciberseguridad estatal beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

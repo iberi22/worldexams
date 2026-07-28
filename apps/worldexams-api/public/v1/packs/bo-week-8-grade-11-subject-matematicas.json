@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.629Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "¿Qué propiedad del sentido de la desigualdad matemática cambia cuando multiplicamos o dividimos ambos lados por un número real negativo?",
+      "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sentido de la desigualdad se invierte obligatoriamente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Multiplicar o dividir una inecuación por un número negativo invierte el signo de desigualdad (por ejemplo de < a >)."
+        },
+        {
+          "letter": "B",
+          "text": "El sentido de la desigualdad se mantiene exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurre si multiplicamos o dividimos por un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "La inecuación se transforma de manera obligatoria en una de segundo grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo una inecuación de primer grado si se realiza la operación."
+        },
+        {
+          "letter": "D",
+          "text": "La desigualdad se anula y no tiene solución en el campo real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo perfectamente válida e invertible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por las propiedades fundamentales del orden en la recta real, multiplicar o dividir ambos miembros por una constante negativa requiere invertir el sentido de la desigualdad.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el conjunto solución de la inecuación lineal básica 2x + 6 < 14?",
+      "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x < 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando 6 de ambos lados se tiene 2x < 8, y dividiendo por 2 resulta x < 4."
+        },
+        {
+          "letter": "B",
+          "text": "x > 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay coeficientes negativos, por lo que no se debe invertir el signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "x < 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizaste operaciones aritméticas erróneas con los sumandos."
+        },
+        {
+          "letter": "D",
+          "text": "x <= 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad es estricta (<), por lo que no debe incluir el signo de igualdad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "2x + 6 < 14 -> 2x < 8 -> x < 4. El conjunto solución está dado por todos los números reales estrictamente menores que 4.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Si representamos en la recta real la inecuación con valor absoluto |x| <= 3, ¿cuál es el intervalo cerrado correspondiente?",
+      "context": "En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[-3, 3]",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por propiedad del valor absoluto, |x| <= a equivale a -a <= x <= a. Así, el intervalo es [-3, 3]."
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inecuación incluye la igualdad (<=), por lo que el intervalo debe ser cerrado (con corchetes) y no abierto."
+        },
+        {
+          "letter": "C",
+          "text": "(-infinito, -3] U [3, +infinito)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conjunto es el resultado de resolver la desigualdad |x| >= 3."
+        },
+        {
+          "letter": "D",
+          "text": "[0, 3]",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto también incluye a los números reales negativos comprendidos en el límite."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen menor o igual que 3, lo cual equivale a -3 <= x <= 3, representado por el intervalo cerrado [-3, 3].\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -4x + 16 < 4. ¿Cuál es la solución?",
+      "context": "En Sucre, Walter del Colegio Nacional Junín calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -4x < -12. Al dividir por el coeficiente negativo -4, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -5x + 20 < 5. ¿Cuál es la solución?",
+      "context": "En Tarija, Sonia del Colegio Nacional Bolivar calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -5x < -15. Al dividir por el coeficiente negativo -5, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -6x + 24 < 6. ¿Cuál es la solución?",
+      "context": "En Oruro, Ramiro del Colegio Nacional Potosí calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -6x < -18. Al dividir por el coeficiente negativo -6, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -7x + 28 < 7. ¿Cuál es la solución?",
+      "context": "En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -7x < -21. Al dividir por el coeficiente negativo -7, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -8x + 32 < 8. ¿Cuál es la solución?",
+      "context": "En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -8x < -24. Al dividir por el coeficiente negativo -8, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -9x + 36 < 9. ¿Cuál es la solución?",
+      "context": "En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -10x + 40 < 10. ¿Cuál es la solución?",
+      "context": "En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -10x < -30. Al dividir por el coeficiente negativo -10, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -11x + 44 < 11. ¿Cuál es la solución?",
+      "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -12x + 48 < 12. ¿Cuál es la solución?",
+      "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -12x < -36. Al dividir por el coeficiente negativo -12, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -13x + 52 < 13. ¿Cuál es la solución?",
+      "context": "En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -13x < -39. Al dividir por el coeficiente negativo -13, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -14x + 56 < 14. ¿Cuál es la solución?",
+      "context": "En Sucre, Walter del Colegio Nacional Junín calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -14x < -42. Al dividir por el coeficiente negativo -14, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -15x + 60 < 15. ¿Cuál es la solución?",
+      "context": "En Tarija, Sonia del Colegio Nacional Bolivar calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -15x < -45. Al dividir por el coeficiente negativo -15, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -16x + 64 < 16. ¿Cuál es la solución?",
+      "context": "En Oruro, Ramiro del Colegio Nacional Potosí calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -16x < -48. Al dividir por el coeficiente negativo -16, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -17x + 68 < 17. ¿Cuál es la solución?",
+      "context": "En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -17x < -51. Al dividir por el coeficiente negativo -17, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -18x + 72 < 18. ¿Cuál es la solución?",
+      "context": "En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -19x + 76 < 19. ¿Cuál es la solución?",
+      "context": "En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -19x < -57. Al dividir por el coeficiente negativo -19, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Resuelva la inecuación lineal con coeficientes fraccionarios: -20x + 80 < 20. ¿Cuál es la solución?",
+      "context": "En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
+        },
+        {
+          "letter": "C",
+          "text": "x > 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: -20x < -60. Al dividir por el coeficiente negativo -20, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

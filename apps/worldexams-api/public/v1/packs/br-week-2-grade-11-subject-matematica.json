@@ -926,6 +926,906 @@
       "subject": "matematica",
       "grade": 11,
       "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v1",
+      "statement": "Dada uma função $f: A \\to B$, como é chamado o conjunto $A$ de todos os valores de entrada possíveis?",
+      "context": "Um estudante de ensino médio em Porto Alegre está aprendendo o conceito fundamental de função como uma relação entre dois conjuntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Domínio",
+          "is_correct": true,
+          "feedback": "O domínio é o conjunto de partida de uma função, contendo todos os valores para os quais a função está definida."
+        },
+        {
+          "letter": "B",
+          "text": "Contradomínio",
+          "is_correct": false,
+          "feedback": "O contradomínio é o conjunto de chegada B, que pode conter elementos que não são imagens de nenhum x em A."
+        },
+        {
+          "letter": "C",
+          "text": "Imagem",
+          "is_correct": false,
+          "feedback": "O conjunto imagem é o subconjunto do contradomínio formado por todos os valores f(x) efetivamente assumidos."
+        },
+        {
+          "letter": "D",
+          "text": "Intervalo",
+          "is_correct": false,
+          "feedback": "Um intervalo é um tipo específico de subconjunto dos números reais, mas não é o nome genérico do conjunto A."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em uma função $f: A \\to B$, o conjunto $A$ é denominado **domínio**. Para que a relação seja uma função, cada elemento do domínio deve estar associado a exatamente um elemento do conjunto $B$ (contradomínio).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v2",
+      "statement": "Para que uma relação entre um conjunto $A$ e um conjunto $B$ seja considerada uma função, qual condição deve ser satisfeita?",
+      "context": "Em uma aula de revisão para o ENEM no Recife, o professor utiliza diagramas de flechas para explicar o que define uma função.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada elemento de B deve estar associado a pelo menos um elemento de A.",
+          "is_correct": false,
+          "feedback": "Esta é a definição de uma função sobrejetora, não de uma função em geral."
+        },
+        {
+          "letter": "B",
+          "text": "Elementos diferentes de A devem estar associados a elementos diferentes de B.",
+          "is_correct": false,
+          "feedback": "Esta é a definição de uma função injetora."
+        },
+        {
+          "letter": "C",
+          "text": "Cada elemento de A deve estar associado a exatamente um elemento de B.",
+          "is_correct": true,
+          "feedback": "Esta é a condição essencial: não pode sobrar elemento em A sem flecha e não pode sair mais de uma flecha de um mesmo elemento de A."
+        },
+        {
+          "letter": "D",
+          "text": "O conjunto A deve ser igual ao conjunto B.",
+          "is_correct": false,
+          "feedback": "O domínio e o contradomínio podem ser conjuntos completamente diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uma função é uma regra que associa cada elemento $x$ de um conjunto $A$ a um único elemento $y$ de um conjunto $B$. Se um elemento de $A$ não tiver correspondente ou tiver mais de um, a relação não é uma função.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v3",
+      "statement": "Dada a função $f(x) = 3x - 5$, qual é o valor de $f(4)$?",
+      "context": "Um desenvolvedor de software em Belo Horizonte está criando uma função matemática simples para calcular o custo de frete baseado no peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Erro de sinal: 3(4) + 5 = 17, mas a função é 3x - 5."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "f(4) = 3(4) - 5 = 12 - 5 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "f(4) = 3(4) - 5. O valor 7 é positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar o valor de uma função em um ponto, substituímos a variável independente $x$ pelo valor dado. No caso, $f(4) = 3 \\cdot 4 - 5 = 12 - 5 = 7$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v4",
+      "statement": "Como podemos identificar, através do gráfico no plano cartesiano, se uma curva representa uma função $y = f(x)$?",
+      "context": "Um arquiteto em Brasília analisa o gráfico de uma função para entender o perfil de uma rampa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda reta horizontal deve cruzar o gráfico em apenas um ponto.",
+          "is_correct": false,
+          "feedback": "O teste da reta horizontal serve para verificar se a função é injetora, não se é uma função."
+        },
+        {
+          "letter": "B",
+          "text": "Toda reta vertical deve cruzar o gráfico em no máximo um ponto.",
+          "is_correct": true,
+          "feedback": "O teste da reta vertical garante que para cada valor de x existe no máximo um valor correspondente de y."
+        },
+        {
+          "letter": "C",
+          "text": "O gráfico deve ser uma linha reta.",
+          "is_correct": false,
+          "feedback": "Funções podem ter gráficos curvos (parábolas, exponenciais, etc.)."
+        },
+        {
+          "letter": "D",
+          "text": "O gráfico deve passar pela origem $(0,0)$.",
+          "is_correct": false,
+          "feedback": "Muitas funções não passam pela origem, como f(x) = x + 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pelo \"Teste da Reta Vertical\", se qualquer reta vertical cruzar o desenho em mais de um ponto, isso significa que um único valor de $x$ teria mais de um correspondente em $y$, o que viola a definição de função.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v5",
+      "statement": "Qual é o domínio da função real $f(x) = \\frac{1}{x-2}$?",
+      "context": "Um biólogo em Manaus estuda o crescimento de uma população de bactérias e precisa determinar o domínio real da função que modela esse processo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{R} - \\{2\\}$",
+          "is_correct": true,
+          "feedback": "A função está definida para todos os reais, exceto para o valor que zera o denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{2\\}$",
+          "is_correct": false,
+          "feedback": "Este é justamente o único valor que NÃO pertence ao domínio."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Valores menores que 2 também são permitidos, desde que não sejam exatamente 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em funções racionais, o denominador não pode ser zero. Assim, devemos ter $x - 2 \\neq 0$, o que implica $x \\neq 2$. O domínio é o conjunto de todos os números reais excluindo o 2.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v6",
+      "statement": "Seja $f: \\mathbb{R} \\to \\mathbb{R}$ uma função tal que $f(x) = x^2 + 1$. Qual é o conjunto imagem desta função?",
+      "context": "Em uma fábrica em Curitiba, o custo total de produção é dado por uma função onde a variável representa a quantidade de peças.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "x² nunca resulta em valores negativos, então a imagem não pode ser todos os reais."
+        },
+        {
+          "letter": "B",
+          "text": "$[0, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0."
+        },
+        {
+          "letter": "C",
+          "text": "$[1, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 1]$",
+          "is_correct": false,
+          "feedback": "A função cresce para o infinito positivo, não negativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O valor mínimo de $x^2$ é 0 (quando $x=0$). Logo, o valor mínimo de $f(x) = x^2 + 1$ é $0 + 1 = 1$. Como a parábola se abre para cima, os valores de $y$ assumidos são todos maiores ou iguais a 1.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v7",
+      "statement": "Dadas as funções $f(x) = 2x + 3$ e $g(x) = 5x - 6$, para qual valor de $x$ temos $f(x) = g(x)$?",
+      "context": "Um economista em São Paulo analisa o ponto de equilíbrio de uma empresa através da igualdade entre duas funções.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "f(1) = 5 e g(1) = -1. Diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "f(3) = 2(3)+3 = 9 e g(3) = 5(3)-6 = 9. Iguais."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "f(-3) = -3 e g(-3) = -21. Diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "f(0) = 3 e g(0) = -6. Diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \\Rightarrow 9 = 3x \\Rightarrow x = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v8",
+      "statement": "Se $f(x) = \\sqrt{x-4}$ é uma função de variável real, qual é o seu domínio?",
+      "context": "Um atleta em treinamento no Rio de Janeiro monitora sua velocidade em função do tempo durante uma corrida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "O valor x = 4 é permitido, pois √0 existe e é 0."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 4$",
+          "is_correct": true,
+          "feedback": "Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq 4$",
+          "is_correct": false,
+          "feedback": "Se x for menor que 4, teremos a raiz de um número negativo, que não é real."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} - \\{4\\}$",
+          "is_correct": false,
+          "feedback": "Valores menores que 4 devem ser excluídos, não apenas o 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No conjunto dos números reais, a raiz quadrada de um número negativo não está definida. Portanto, a expressão dentro da raiz deve ser não negativa: $x - 4 \\geq 0$, o que nos dá $x \\geq 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v9",
+      "statement": "Seja $f(x) = ax + b$. Sabendo que $f(1) = 5$ e $f(0) = 2$, determine os valores de $a$ e $b$.",
+      "context": "Um motorista de aplicativo em Salvador calcula seu ganho por viagem através de uma função composta por uma taxa fixa e um valor por quilômetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 2, b = 3$",
+          "is_correct": false,
+          "feedback": "Se b=3 e a=2, f(0) seria 3, mas f(0)=2."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 3, b = 2$",
+          "is_correct": true,
+          "feedback": "f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 5, b = 2$",
+          "is_correct": false,
+          "feedback": "Se a=5 e b=2, f(1) seria 7, mas f(1)=5."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 3, b = 5$",
+          "is_correct": false,
+          "feedback": "Se b=5, f(0) seria 5, mas f(0)=2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b = 2$, logo $b = 2$. Usando $f(1)=5$, temos $a(1) + 2 = 5$, o que resulta em $a = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v10",
+      "statement": "Considere a função $f(x) = x^2 - 4x + 7$. Qual é o valor de $f(-1)$?",
+      "context": "Um estudante em Fortaleza está resolvendo problemas de funções para as provas bimestrais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Erro de sinal ao elevar ao quadrado ou multiplicar: (-1)² é 1, não -1."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto dos termos da função."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Substituindo $x$ por $-1$ na expressão: $f(-1) = (-1)^2 - 4(-1) + 7$. Como $(-1)^2 = 1$ e $-4 \\cdot (-1) = 4$, temos $1 + 4 + 7 = 12$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v11",
+      "statement": "Uma função $f: A \\to B$ é dita **injetora** quando:",
+      "context": "Um cientista de dados em São Paulo analisa a classificação de funções para otimizar um modelo de inteligência artificial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O conjunto imagem é igual ao contradomínio.",
+          "is_correct": false,
+          "feedback": "Esta é a definição de função sobrejetora."
+        },
+        {
+          "letter": "B",
+          "text": "Elementos distintos do domínio possuem imagens distintas no contradomínio.",
+          "is_correct": true,
+          "feedback": "Correto. x1 ≠ x2 implica f(x1) ≠ f(x2)."
+        },
+        {
+          "letter": "C",
+          "text": "Todo elemento de B é imagem de pelo menos um elemento de A.",
+          "is_correct": false,
+          "feedback": "Esta também é a definição de sobrejetora."
+        },
+        {
+          "letter": "D",
+          "text": "A função é crescente em todo o seu domínio.",
+          "is_correct": false,
+          "feedback": "Funções decrescentes também podem ser injetoras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A injetividade significa que não há \"colisões\": cada valor de $y$ no conjunto imagem é atingido por exatamente um valor de $x$ do domínio. Graficamente, qualquer reta horizontal corta o gráfico de uma função injetora em no máximo um ponto.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v12",
+      "statement": "Qual das seguintes condições é necessária para que uma função $f: A \\to B$ admita uma função inversa $f^{-1}: B \\to A$?",
+      "context": "Um professor em Goiânia apresenta o concept de função inversa para seus alunos do 3º ano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A função deve ser apenas injetora.",
+          "is_correct": false,
+          "feedback": "Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B."
+        },
+        {
+          "letter": "B",
+          "text": "A função deve ser apenas sobrejetora.",
+          "is_correct": false,
+          "feedback": "Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função."
+        },
+        {
+          "letter": "C",
+          "text": "A função deve ser bijetora.",
+          "is_correct": true,
+          "feedback": "Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente."
+        },
+        {
+          "letter": "D",
+          "text": "A função deve ser uma função do 1º grau.",
+          "is_correct": false,
+          "feedback": "Funções de outros graus (como exponenciais) também podem ter inversas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para inverter uma função, cada elemento de $B$ deve vir de um único elemento de $A$ (injetora) e todos os elementos de $B$ devem ser atingidos (sobrejetora). Portanto, a função deve ser bijetora.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v13",
+      "statement": "Dadas as funções $f(x) = x + 2$ e $g(x) = 3x$, qual é a expressão da função composta $g(f(x))$?",
+      "context": "Um engenheiro civil em Vitória estuda a composição de funções para calcular a pressão em diferentes profundidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x + 2$",
+          "is_correct": false,
+          "feedback": "Este seria f(g(x)), ou seja, (3x) + 2."
+        },
+        {
+          "letter": "B",
+          "text": "$3x + 6$",
+          "is_correct": true,
+          "feedback": "g(f(x)) = g(x + 2) = 3(x + 2) = 3x + 6."
+        },
+        {
+          "letter": "C",
+          "text": "$4x + 2$",
+          "is_correct": false,
+          "feedback": "Erro na aplicação da lei de formação da função g."
+        },
+        {
+          "letter": "D",
+          "text": "$x + 6$",
+          "is_correct": false,
+          "feedback": "Erro no termo variável de x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular $g(f(x))$, substituímos a expressão de $f(x)$ no lugar do $x$ da função $g$. Assim, $g(f(x)) = g(x+2) = 3(x+2)$. Distribuindo o 3, obtemos $3x + 6$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v14",
+      "statement": "Uma função é considerada **par** se $f(x) = f(-x)$ para todo $x$ no domínio. Qual das seguintes funções é uma função par?",
+      "context": "Em um laboratório de física em São José dos Campos, analisa-se a paridade de funções que descrevem ondas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 2x$",
+          "is_correct": false,
+          "feedback": "f(-x) = -2x, que é -f(x). Esta é uma função ímpar."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 + 3$",
+          "is_correct": true,
+          "feedback": "f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "f(-x) = (-x)³ = -x³. Esta é uma função ímpar."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x + 1$",
+          "is_correct": false,
+          "feedback": "f(-x) = -x + 1, que não é nem f(x) nem -f(x)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, substituir $x$ por $-x$ não altera a expressão final. Em $x^2 + 3$, o expoente par faz com que $(-x)^2$ seja igual a $x^2$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v15",
+      "statement": "Qual é a função inversa de $f(x) = 2x - 4$?",
+      "context": "Um analista financeiro em Florianópolis utiliza funções inversas para converter taxas de juros entre diferentes períodos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x}{2} - 4$",
+          "is_correct": false,
+          "feedback": "Erro ao isolar x: o 4 deve mudar de sinal ao passar para o outro lado."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x + 4}{2}$",
+          "is_correct": true,
+          "feedback": "y = 2x - 4 => y + 4 = 2x => x = (y + 4)/2. Trocando as variáveis, temos f⁻¹(x) = (x + 4)/2."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 2x + 4$",
+          "is_correct": false,
+          "feedback": "Inverter a função não é apenas trocar os sinais da expressão original."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x - 4}{2}$",
+          "is_correct": false,
+          "feedback": "O sinal do 4 deve ser positivo na expressão inversa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para achar a inversa, chamamos $f(x)$ de $y$ e isolamos $x$: $y = 2x - 4 \\Rightarrow y + 4 = 2x \\Rightarrow x = \\frac{y + 4}{2}$. Por fim, trocamos $x$ por $y$ para obter a lei da função inversa: $f^{-1}(x) = \\frac{x + 4}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v16",
+      "statement": "Determine o domínio da função real $f(x) = \\frac{\\sqrt{x-1}}{x-3}$.",
+      "context": "Um matemático estuda o domínio de funções compostas que envolvem raízes e frações.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 1$",
+          "is_correct": false,
+          "feedback": "Faltou considerar que o denominador x-3 não pode ser zero."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\neq 3$",
+          "is_correct": false,
+          "feedback": "Faltou considerar que x-1 deve ser maior ou igual a zero para a raiz ser real."
+        },
+        {
+          "letter": "C",
+          "text": "$[1, 3) \\cup (3, +\\infty)$",
+          "is_correct": true,
+          "feedback": "De x-1 ≥ 0 temos x ≥ 1. De x-3 ≠ 0 temos x ≠ 3. A combinação é x ≥ 1 e x ≠ 3."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 3)$",
+          "is_correct": false,
+          "feedback": "O domínio estende-se para além do 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Temos duas restrições: 1) O radicando de uma raiz de índice par deve ser não negativo ($x-1 \\geq 0 \\Rightarrow x \\geq 1$); 2) O denominador não pode ser nulo ($x-3 \\neq 0 \\Rightarrow x \\neq 3$). O domínio é a interseção dessas condições.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v17",
+      "statement": "Considere a função de Dirichlet definida como $f(x) = 1$ se $x$ é racional e $f(x) = 0$ se $x$ é irracional. Sobre esta função, avalie a veracidade das afirmações:",
+      "context": "Em um curso de cálculo em Campinas, discute-se a existência de funções que não possuem lei de formação simples.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O conjunto imagem da função é o intervalo $[0, 1]$.",
+          "is_correct": false,
+          "feedback": "Incorreto. A imagem contém apenas dois pontos discretos: {0, 1}."
+        },
+        {
+          "letter": "B",
+          "text": "A função é injetora.",
+          "is_correct": false,
+          "feedback": "Incorreto. Muitos valores de x levam ao mesmo resultado (todos os racionais levam a 1)."
+        },
+        {
+          "letter": "C",
+          "text": "O domínio da função é o conjunto dos números reais $\\mathbb{R}$.",
+          "is_correct": true,
+          "feedback": "Correto, pois todo número real é ou racional ou irracional, logo a função está definida para todo x real."
+        },
+        {
+          "letter": "D",
+          "text": "O gráfico desta função é uma linha contínua.",
+          "is_correct": false,
+          "feedback": "Incorreto. É uma função extremamente descontínua em todos os pontos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função de Dirichlet está definida para todos os números reais, pois o conjunto dos reais é a união dos racionais com os irracionais. Seu domínio é $\\mathbb{R}$ e sua imagem é o conjunto finito $\\{0, 1\\}$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v18",
+      "statement": "Seja $f: \\mathbb{R} \\to \\mathbb{R}$ uma função estritamente crescente. É correto concluir que:",
+      "context": "Um pesquisador analisa propriedades de funções monótonas e suas relações com a bijetividade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A função $f$ é necessariamente injetora.",
+          "is_correct": true,
+          "feedback": "Se a função é estritamente crescente, x1 < x2 implica f(x1) < f(x2), logo imagens de valores diferentes nunca serão iguais."
+        },
+        {
+          "letter": "B",
+          "text": "A função $f$ é necessariamente sobrejetora.",
+          "is_correct": false,
+          "feedback": "Nem sempre. Por exemplo, f(x) = arctan(x) é estritamente crescente mas sua imagem é limitada."
+        },
+        {
+          "letter": "C",
+          "text": "A função $f$ possui necessariamente um valor máximo.",
+          "is_correct": false,
+          "feedback": "Funções crescentes em domínios ilimitados podem crescer indefinidamente."
+        },
+        {
+          "letter": "D",
+          "text": "$f(0)$ deve ser igual a 0.",
+          "is_correct": false,
+          "feedback": "A função pode ser transladada verticalmente (ex: f(x) = x + 1)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uma função estritamente crescente preserva a ordem estrita dos elementos. Isso garante que, se tomarmos dois elementos distintos $x_1$ e $x_2$ no domínio, seus valores funcionais $f(x_1)$ e $f(x_2)$ serão obrigatoriamente distintos, o que define uma função injetora.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v19",
+      "statement": "Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$ para todo $x$ real.",
+      "context": "No exame de admissão de uma prestigiada faculdade de engenharia em São Paulo, propõe-se um problema sobre funções funcionais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^2 + 5$",
+          "is_correct": false,
+          "feedback": "Substituindo x por 2x+1 teríamos (2x+1)² + 5 = 4x² + 4x + 6, diferente do dado."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 + 4$",
+          "is_correct": true,
+          "feedback": "(2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 2x^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorreto ao testar a substituição da variável."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^2 + 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorreto ao testar a substituição da variável."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \\frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\\frac{t-1}{2})^2 + 4(\\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v20",
+      "statement": "Dados os conjuntos $A = \\{1, 2, 3\\}$ e $B = \\{a, b, c, d, e\\}$, qual é o número total de funções injetoras de $A$ em $B$?",
+      "context": "Um matemático estuda a cardinalidade de conjuntos de funções entre conjuntos finitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125",
+          "is_correct": false,
+          "feedback": "Este é o número total de funções (5³), não apenas as injetoras."
+        },
+        {
+          "letter": "B",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Este é o número de subconjuntos de 3 elementos de B (combinação)."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto das possibilidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para uma função ser injetora, cada elemento de $A$ deve escolher um elemento diferente de $B$. O primeiro elemento de $A$ tem 5 opções em $B$, o segundo tem 4 opções restantes e o terceiro tem 3 opções. Pelo Princípio Fundamental da Contagem: $5 \\cdot 4 \\cdot 3 = 60$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
     }
   ]
 }

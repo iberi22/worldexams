@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.773Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v1",
+      "statement": "¿Qué ocurre con el sentido de una desigualdad lineal si se multiplican o dividen ambos miembros por un número real estrictamente negativo?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sentido de la desigualdad obligatoriamente se invierte.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una de las propiedades más importantes de las relaciones de orden en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "El sentido de la desigualdad se mantiene igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por un negativo siempre cambia la dirección de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "La desigualdad se transforma automáticamente en una igualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo una desigualdad, pero con sentido opuesto."
+        },
+        {
+          "letter": "D",
+          "text": "El miembro de la derecha se vuelve indefinido de manera inmediata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación es completamente definida para cualquier número real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al multiplicar o dividir ambos miembros de una inecuación por un valor negativo, la desigualdad cambia de sentido ($<$ pasa a $>$, y viceversa).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v2",
+      "statement": "Determine el conjunto solución de la inecuación lineal básica: $-2x < 10$.",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > -5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dividiendo entre -2, el sentido de la desigualdad se invierte: $x > \\frac{10}{-2} \\implies x > -5$."
+        },
+        {
+          "letter": "B",
+          "text": "$x < -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó invertir el sentido de la desigualdad al dividir por el número negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuidado con el signo al dividir 10 entre -2."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el despeje completo de la inecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejamos dividiendo entre $-2$. Como dividimos por un número negativo, invertimos el sentido de la desigualdad: $x > \\frac{10}{-2} \\implies x > -5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v3",
+      "statement": "En Luque. un grupo escolar tiene un presupuesto máximo de ₲ 50.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 50.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 50,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 50.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 50.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 50000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 50000$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v4",
+      "statement": "En Encarnación. un grupo escolar tiene un presupuesto máximo de ₲ 60.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 60.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 60,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 60.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 60.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 60000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 60000$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v5",
+      "statement": "En Ciudad del Este. un grupo escolar tiene un presupuesto máximo de ₲ 70.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 70.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 70,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 70.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 70.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 28$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 70000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 70000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v6",
+      "statement": "En Caacupé. un grupo escolar tiene un presupuesto máximo de ₲ 80.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 80.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 80,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 80.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 80.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 80000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 80000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v7",
+      "statement": "En Pilar. un grupo escolar tiene un presupuesto máximo de ₲ 90.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 90.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 90,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 90.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 90.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 90000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 90000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v8",
+      "statement": "En Coronel Oviedo. un grupo escolar tiene un presupuesto máximo de ₲ 100.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 100.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 100,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 100.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 100.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 100000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 100000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v9",
+      "statement": "En Concepción. un grupo escolar tiene un presupuesto máximo de ₲ 110.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 110.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 110,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 110.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 110.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 44$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 110000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 110000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v10",
+      "statement": "En Villarrica. un grupo escolar tiene un presupuesto máximo de ₲ 120.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 120.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 120,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 120.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 120.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 48$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 120000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 120000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v11",
+      "statement": "En Asunción. un grupo escolar tiene un presupuesto máximo de ₲ 130.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 130.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 130,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 130.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 130.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 52$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 130000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 130000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v12",
+      "statement": "En San Lorenzo. un grupo escolar tiene un presupuesto máximo de ₲ 140.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 140.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 140,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 140.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 140.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 56$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 140000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 140000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v13",
+      "statement": "En Luque. un grupo escolar tiene un presupuesto máximo de ₲ 150.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 150.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 150,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 150.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 150.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 60$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 150000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 150000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v14",
+      "statement": "En Encarnación. un grupo escolar tiene un presupuesto máximo de ₲ 160.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 160.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 160,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 160.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 160.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 160000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 160000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v15",
+      "statement": "En Ciudad del Este. un grupo escolar tiene un presupuesto máximo de ₲ 170.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 170.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 170,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 170.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 170.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 68$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 170000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 170000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v16",
+      "statement": "En Caacupé. un grupo escolar tiene un presupuesto máximo de ₲ 180.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 180.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 180,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 180.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 180.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 72$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 180000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 180000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v17",
+      "statement": "En Pilar. un grupo escolar tiene un presupuesto máximo de ₲ 190.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 190.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 190,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 190.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 190.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 76$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 190000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 190000$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v18",
+      "statement": "En Coronel Oviedo. un grupo escolar tiene un presupuesto máximo de ₲ 200.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 200.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 200,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 200.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 200.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 80$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 200000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 200000$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v19",
+      "statement": "En Concepción. un grupo escolar tiene un presupuesto máximo de ₲ 210.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 210.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 210,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 210.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 210.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 84$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 210000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 210000$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-v20",
+      "statement": "En Villarrica. un grupo escolar tiene un presupuesto máximo de ₲ 220.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Inecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000x \\le 220.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 220,000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000x \\ge 220.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000x < 220.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\\le$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 88$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número límite de artículos calculados es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el presupuesto máximo es de ₲ 220000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \\le 220000$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
