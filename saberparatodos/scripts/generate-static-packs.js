@@ -193,7 +193,7 @@ function parseQuestions(body) {
 
     // Extract QA metadata fields (bloom, icfes, expected_success) for quality control
     const bloomMatch = section.match(/\*\*Bloom:\*\*\s*([^\n]+)/i);
-    const icfesMatch = section.match(/\*\*ICFES:\*\*\s*([^\n]+)/i);
+    const icfesMatch = section.match(/\*\*(ICFES|EJE):\*\*\s*([^\n]+)/i);
     const expectedSuccessMatch = section.match(/\*\*Expected_Success:\*\*\s*([^\n]+)/i);
 
     // Extract statement
