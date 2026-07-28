@@ -926,6 +926,906 @@
       "subject": "matematicas",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición fundamental para que una relación de un conjunto A en un conjunto B sea clasificada como una función?",
+      "context": "Una alumna de preparatoria en Colima estudia la definición formal de función matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada elemento del conjunto de partida esté relacionado con exactamente un elemento del conjunto de llegada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una función es una regla de correspondencia que asocia a cada elemento de un conjunto de partida un único elemento del conjunto de llegada."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los elementos del conjunto de llegada tengan asignado un elemento del de partida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define una función suprayectiva, no es la definición básica de función."
+        },
+        {
+          "letter": "C",
+          "text": "Que la gráfica resultante sea una línea recta continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen muchas funciones con gráficas no lineales y curvas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número de elementos de ambos conjuntos sea exactamente el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dominio y el codominio de una función pueden tener tamaños o cardinalidades totalmente distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición, una relación f del conjunto A en el conjunto B es una función si y solo si para cada elemento x en el conjunto A (dominio) existe un único elemento y en el conjunto B (codominio o rango) tal que f(x) = y.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Si la función de costo está dada por C(x) = 150x + 800, donde x representa el número de pares producidos, ¿cuál es el rango de esta función para valores de producción no negativos?",
+      "context": "Se modela el costo de producción de calzado artesanal en León, Guanajuato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[800, ∞)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que la producción x es no negativa (x ≥ 0), el costo mínimo ocurre cuando x = 0, donde C(0) = 800. Por lo tanto, el rango va desde $800 en adelante."
+        },
+        {
+          "letter": "B",
+          "text": "[0, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería al dominio de la producción, no al rango de costos."
+        },
+        {
+          "letter": "C",
+          "text": "(-∞, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen costos de producción negativos en este contexto real."
+        },
+        {
+          "letter": "D",
+          "text": "[0, 800]",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo de producción aumenta indefinidamente con la cantidad de calzado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio está restringido a valores no negativos de producción, es decir, x ≥ 0. Como el coeficiente de x es positivo (150), la función es creciente. El valor mínimo de C(x) se alcanza en x = 0, dando C(0) = 150(0) + 800 = 800. Para valores mayores de x, C(x) crece indefinidamente, por lo que el rango es [800, ∞).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 3).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 3 ≠ 0, de donde x ≠ 3."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 3), planteamos la restricción: x - 3 ≠ 0 => x ≠ 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 4).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 4 ≠ 0, de donde x ≠ 4."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 4), planteamos la restricción: x - 4 ≠ 0 => x ≠ 4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 5).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 5 ≠ 0, de donde x ≠ 5."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 5), planteamos la restricción: x - 5 ≠ 0 => x ≠ 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 6).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 6 ≠ 0, de donde x ≠ 6."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 6), planteamos la restricción: x - 6 ≠ 0 => x ≠ 6.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 7).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 7",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 7 ≠ 0, de donde x ≠ 7."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 7), planteamos la restricción: x - 7 ≠ 0 => x ≠ 7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 8).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 8 ≠ 0, de donde x ≠ 8."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 8), planteamos la restricción: x - 8 ≠ 0 => x ≠ 8.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 9).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 9",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 9 ≠ 0, de donde x ≠ 9."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 9), planteamos la restricción: x - 9 ≠ 0 => x ≠ 9.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 10).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 10 ≠ 0, de donde x ≠ 10."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 10), planteamos la restricción: x - 10 ≠ 0 => x ≠ 10.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 11).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 11",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 11 ≠ 0, de donde x ≠ 11."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 11), planteamos la restricción: x - 11 ≠ 0 => x ≠ 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 12).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 12",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 12 ≠ 0, de donde x ≠ 12."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 12), planteamos la restricción: x - 12 ≠ 0 => x ≠ 12.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 13).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 13",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 13 ≠ 0, de donde x ≠ 13."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 13), planteamos la restricción: x - 13 ≠ 0 => x ≠ 13.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 14).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 14",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 14 ≠ 0, de donde x ≠ 14."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 14), planteamos la restricción: x - 14 ≠ 0 => x ≠ 14.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 15).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 15 ≠ 0, de donde x ≠ 15."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 15), planteamos la restricción: x - 15 ≠ 0 => x ≠ 15.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 16).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 16",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 16 ≠ 0, de donde x ≠ 16."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 16), planteamos la restricción: x - 16 ≠ 0 => x ≠ 16.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 17).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 17",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 17 ≠ 0, de donde x ≠ 17."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 17), planteamos la restricción: x - 17 ≠ 0 => x ≠ 17.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 18).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 18",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 18 ≠ 0, de donde x ≠ 18."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 18), planteamos la restricción: x - 18 ≠ 0 => x ≠ 18.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 19).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 19",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 19 ≠ 0, de donde x ≠ 19."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 19), planteamos la restricción: x - 19 ≠ 0 => x ≠ 19.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 20).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 20",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 20 ≠ 0, de donde x ≠ 20."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 20), planteamos la restricción: x - 20 ≠ 0 => x ≠ 20.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

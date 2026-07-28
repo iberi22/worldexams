@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.370Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "Una cooperativa en San Carlos ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡700000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En San Carlos, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 700000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 700000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 700000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 700000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 700000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 700000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 720 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En Pérez Zeledón, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "B",
+          "text": "720 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "C",
+          "text": "360.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 720$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 720 \\cdot (0.5)^1 = 720 \\cdot 0.5 = 360.0$ gramos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "En Escazú, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 740 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Escazú, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "888 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "740 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 740 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 740 \\cdot (1.2)^0 = 740 \\cdot 1 = 740$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 740.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Una cooperativa en San José ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡760000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En San José, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 760000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 760000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 760000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 760000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 760000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 760000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 780 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En Alajuela, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "780 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "390.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "390.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 780$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 780 \\cdot (0.5)^1 = 780 \\cdot 0.5 = 390.0$ gramos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "En Cartago, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 800 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Cartago, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "B",
+          "text": "960 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 800 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 800 \\cdot (1.2)^0 = 800 \\cdot 1 = 800$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 800.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Una cooperativa en Heredia ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡820000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En Heredia, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 820000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 820000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 820000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 820000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 820000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 820000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 840 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En Liberia, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "840 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "420.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "420.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "D",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 840$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 840 \\cdot (0.5)^1 = 840 \\cdot 0.5 = 420.0$ gramos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "En Puntarenas, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 860 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Puntarenas, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1032 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "860 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 860 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 860 \\cdot (1.2)^0 = 860 \\cdot 1 = 860$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 860.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Una cooperativa en Limón ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡880000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En Limón, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 880000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 880000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 880000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 880000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 880000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 880000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 900 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En San Carlos, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "450.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "450.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 900$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 900 \\cdot (0.5)^1 = 900 \\cdot 0.5 = 450.0$ gramos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "En Pérez Zeledón, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 920 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Pérez Zeledón, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1104 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "920 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "D",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 920 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 920 \\cdot (1.2)^0 = 920 \\cdot 1 = 920$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 920.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Una cooperativa en Escazú ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡940000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En Escazú, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 940000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 940000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 940000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 940000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 940000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 940000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 960 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En San José, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "480.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "B",
+          "text": "960 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "C",
+          "text": "480.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 960$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 960 \\cdot (0.5)^1 = 960 \\cdot 0.5 = 480.0$ gramos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "En Alajuela, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 980 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Alajuela, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1176 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "980 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 980 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 980 \\cdot (1.2)^0 = 980 \\cdot 1 = 980$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 980.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Una cooperativa en Cartago ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡1000000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En Cartago, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 1000000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 1000000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 1000000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 1000000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 1000000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 1000000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 1020 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En Heredia, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1020 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "510.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "510.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 1020$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 1020 \\cdot (0.5)^1 = 1020 \\cdot 0.5 = 510.0$ gramos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "En Liberia, el crecimiento de una población forestal de árboles nativos se modela mediante $P(t) = 1040 \\cdot (1.2)^t$, donde $t$ representa los años transcurridos. ¿Cuál es la población inicial de árboles ($t = 0$)?",
+      "context": "En Liberia, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1040 árboles",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "B",
+          "text": "1248 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "0 árboles",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la población inicial de árboles nativos, evaluamos la función de modelización $P(t) = 1040 \\cdot (1.2)^t$ para el instante temporal $t = 0$: $P(0) = 1040 \\cdot (1.2)^0 = 1040 \\cdot 1 = 1040$ árboles. Por lo tanto, la cantidad original de árboles al inicio de las mediciones es de 1040.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Una cooperativa en Puntarenas ofrece una tasa de interés compuesto anual representada por la fórmula del capital final $C(t) = C_0 \\cdot (1 + r)^t$. Si $r = 0.05$ y se invierten inicialmente ₡1060000, ¿cuál expresión modela el capital final tras $t$ años?",
+      "context": "En Puntarenas, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(t) = 1060000 \\cdot (1.5)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "C(t) = 1060000 \\cdot (1.05)^t",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "C(t) = 1060000 \\cdot (0.05)^t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "C(t) = 1060000 + 1.05 \\cdot t",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituyendo los parámetros en la ecuación de interés compuesto, el capital inicial es $C_0 = 1060000$ colones costarricenses, y la tasa es $r = 0.05$. El factor de crecimiento exponencial anual corresponde a: $1 + r = 1 + 0.05 = 1.05$. Por lo tanto, la expresión correcta que modela la evolución del capital final es $C(t) = 1060000 \\cdot (1.05)^t$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "El decaimiento radiactivo de una sustancia química se modela por $M(t) = M_0 \\cdot (0.5)^t$, donde $t$ es el tiempo en periodos de 10 años. Si se tienen originalmente 1080 gramos, ¿cuántos gramos quedarán después de 1 periodo?",
+      "context": "En Limón, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1080 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se realiza una multiplicación incorrecta de la base por el coeficiente antes de evaluar el exponente cero."
+        },
+        {
+          "letter": "B",
+          "text": "540.0 gramos de aumento",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia erróneamente el porcentaje sin sumar la unidad al factor de crecimiento en el interés compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "540.0 gramos",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Sustituyendo $t = 0$ o aplicando la tasa de interés/decaimiento de forma directa en el modelo dado se obtiene la respuesta correcta."
+        },
+        {
+          "letter": "D",
+          "text": "0 gramos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone un modelo lineal simple en lugar del exponencial correspondiente al interés compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La masa inicial de la sustancia es $M_0 = 1080$ gramos. Para hallar la masa restante después de transcurrir 1 periodo completo, evaluamos la función para $t = 1$: $M(1) = 1080 \\cdot (0.5)^1 = 1080 \\cdot 0.5 = 540.0$ gramos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

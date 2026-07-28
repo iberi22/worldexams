@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.369Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 5$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Heredia, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "[-5, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $5$ en el criterio $f(x) = \\sqrt{x + 3} - 5$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $5$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-5$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-5, +\\infty[$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 2$?",
+      "context": "En Liberia, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(9, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "(0, -2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "(4, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 2 = 0 \\Rightarrow \\sqrt{x - 5} = 2$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 2^2 \\Rightarrow x = 2^2 + 5 = 9$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(9, 0)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 4$.",
+      "context": "En Puntarenas, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[4, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 4$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 6$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Limón, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[-6, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "D",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $6$ en el criterio $f(x) = \\sqrt{x + 3} - 6$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $6$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-6$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-6, +\\infty[$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 3$?",
+      "context": "En San Carlos, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, -3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "(14, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 3 = 0 \\Rightarrow \\sqrt{x - 5} = 3$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 3^2 \\Rightarrow x = 3^2 + 5 = 14$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(14, 0)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 5$.",
+      "context": "En Pérez Zeledón, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "[5, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 5$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 2$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Escazú, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[-2, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $2$ en el criterio $f(x) = \\sqrt{x + 3} - 2$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $2$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-2$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-2, +\\infty[$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 4$?",
+      "context": "En San José, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, -4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "(21, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "D",
+          "text": "(16, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 4 = 0 \\Rightarrow \\sqrt{x - 5} = 4$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 4^2 \\Rightarrow x = 4^2 + 5 = 21$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(21, 0)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 6$.",
+      "context": "En Alajuela, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[6, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 6$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 3$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Cartago, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[-3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $3$ en el criterio $f(x) = \\sqrt{x + 3} - 3$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $3$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-3$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-3, +\\infty[$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 5$?",
+      "context": "En Heredia, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "(30, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "(0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "(25, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 5 = 0 \\Rightarrow \\sqrt{x - 5} = 5$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 5^2 \\Rightarrow x = 5^2 + 5 = 30$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(30, 0)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 2$.",
+      "context": "En Liberia, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[2, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 2$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 4$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Puntarenas, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "[-4, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $4$ en el criterio $f(x) = \\sqrt{x + 3} - 4$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $4$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-4$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-4, +\\infty[$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 6$?",
+      "context": "En Limón, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(41, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "(0, -6)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "(36, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 6 = 0 \\Rightarrow \\sqrt{x - 5} = 6$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 6^2 \\Rightarrow x = 6^2 + 5 = 41$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(41, 0)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 3$.",
+      "context": "En San Carlos, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 3$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 5$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Pérez Zeledón, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "[-5, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "D",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $5$ en el criterio $f(x) = \\sqrt{x + 3} - 5$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $5$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-5$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-5, +\\infty[$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 2$?",
+      "context": "En Escazú, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, -2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "(4, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "(9, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 2 = 0 \\Rightarrow \\sqrt{x - 5} = 2$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 2^2 \\Rightarrow x = 2^2 + 5 = 9$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(9, 0)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Determine el dominio máximo de la función real de variable real $f(x) = \\sqrt{x - 1} + 4$.",
+      "context": "En San José, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "]-\\infty, 1]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "[4, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función de raíz cuadrada $f(x) = \\sqrt{x - 1} + 4$ esté definida en el conjunto de los números reales, el subradical o argumento de la raíz debe ser mayor o igual a cero: $x - 1 \\geq 0 \\Rightarrow x \\geq 1$. Por lo tanto, el dominio máximo de definición es el intervalo semiabierto $[1, +\\infty[$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Considere la función con criterio $f(x) = \\sqrt{x + 3} - 6$. ¿Cuál es el ámbito (rango) de esta función?",
+      "context": "En Alajuela, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "[-6, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "D",
+          "text": "[0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función básica de raíz cuadrada $\\sqrt{g(x)}$ toma siempre valores mayores o iguales a cero en su dominio real (es decir, $\\sqrt{g(x)} \\geq 0$). Al restar la constante $6$ en el criterio $f(x) = \\sqrt{x + 3} - 6$, todos los valores resultantes de la función se desplazan verticalmente hacia abajo en $6$ unidades. Por lo tanto, el menor valor posible para $f(x)$ es $-6$, de lo cual se deduce que su ámbito (rango) corresponde al intervalo semiabierto $[-6, +\\infty[$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el punto de intersección con el eje $x$ de la función de raíz cuadrada $f(x) = \\sqrt{x - 5} - 3$?",
+      "context": "En Cartago, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la restricción del dominio con el desplazamiento vertical o la dirección contraria del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, -3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asocia incorrectamente con el valor del rango o se asume todo el conjunto de números reales."
+        },
+        {
+          "letter": "C",
+          "text": "(14, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Es correcto porque el subradical debe ser mayor o igual a cero para que la raíz cuadrada esté definida en los números reales."
+        },
+        {
+          "letter": "D",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error al evaluar el origen de la función o al calcular el cuadrado del desplazamiento vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la intersección con el eje $x$, igualamos el criterio de la función a cero ($f(x) = 0$): $\\sqrt{x - 5} - 3 = 0 \\Rightarrow \\sqrt{x - 5} = 3$. Elevamos ambos miembros al cuadrado para eliminar la raíz cuadrada: $x - 5 = 3^2 \\Rightarrow x = 3^2 + 5 = 14$. Por lo tanto, el punto de intersección de la gráfica de la función con el eje de las abscisas (eje $x$) es exactamente $(14, 0)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

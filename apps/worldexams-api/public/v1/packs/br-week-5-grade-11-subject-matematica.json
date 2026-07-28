@@ -926,6 +926,906 @@
       "subject": "matematica",
       "grade": 11,
       "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v1",
+      "statement": "Qual é a forma básica de uma função exponencial de base $a$?",
+      "context": "Um estudante em São Paulo está aprendendo as bases das funções que descrevem fenômenos de crescimento rápido, como populações ou juros compostos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^a$",
+          "is_correct": false,
+          "feedback": "Esta é uma função potência, onde a variável está na base, não no expoente."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = a^x$, com $a > 0$ e $a \\neq 1$",
+          "is_correct": true,
+          "feedback": "Correto. Na função exponencial, a variável independente x encontra-se no expoente."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\log_a(x)$",
+          "is_correct": false,
+          "feedback": "Esta é a função logarítmica, que é a inversa da exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = ax + b$",
+          "is_correct": false,
+          "feedback": "Esta é a função afim (do 1º grau)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uma função exponencial é definida pela lei $f(x) = a^x$. As restrições sobre a base ($a > 0$ e $a \\neq 1$) garantem que a função seja bem definida para todos os números reais e que não seja uma função constante.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v2",
+      "statement": "Em uma função exponencial do tipo $f(x) = a^x$, o que acontece com o gráfico se a base $a$ estiver entre 0 e 1 ($0 < a < 1$)?",
+      "context": "Um biólogo em Manaus observa o crescimento de bactérias em uma placa de Petri e nota que a população dobra a cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A função é crescente.",
+          "is_correct": false,
+          "feedback": "Para a função ser crescente, a base 'a' deve ser maior que 1."
+        },
+        {
+          "letter": "B",
+          "text": "A função é decrescente.",
+          "is_correct": true,
+          "feedback": "Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final."
+        },
+        {
+          "letter": "C",
+          "text": "A função é uma reta horizontal.",
+          "is_correct": false,
+          "feedback": "Isso ocorreria apenas se a base fosse exatamente 1."
+        },
+        {
+          "letter": "D",
+          "text": "A função passa a ter raízes negativas.",
+          "is_correct": false,
+          "feedback": "Funções exponenciais simples não possuem raízes (não cruzam o eixo x)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O valor da base $a$ determina o comportamento da função: se $a > 1$, os valores de $y$ aumentam conforme $x$ aumenta (crescente); se $0 < a < 1$, os valores de $y$ diminuem conforme $x$ aumenta (decrescente).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v3",
+      "statement": "Qual é o valor de $f(3)$ para a função exponencial $f(x) = 2^x$?",
+      "context": "Um investidor no Rio de Janeiro calcula o montante de uma aplicação financeira após alguns anos usando a fórmula de juros compostos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Erro comum de multiplicar a base pelo expoente (2 * 3)."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "2³ = 2 * 2 * 2 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "9 seria 3², confundindo a base com o expoente."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Erro de somar a base com o expoente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indicado. No caso, $f(3) = 2^3 = 2 \\cdot 2 \\cdot 2 = 8$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v4",
+      "statement": "Onde o gráfico de qualquer função exponencial da forma $f(x) = a^x$ intercepta o eixo das ordenadas ($y$)?",
+      "context": "Em um laboratorio de química em Curitiba, estuda-se a desintegração radioativa de um elemento, onde a massa cai pela metade a cada período fixo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Na origem $(0,0)$",
+          "is_correct": false,
+          "feedback": "O valor de a elevado a 0 nunca é 0 (para a ≠ 0)."
+        },
+        {
+          "letter": "B",
+          "text": "No ponto $(0,1)$",
+          "is_correct": true,
+          "feedback": "Correto. Qualquer número (diferente de zero) elevado a zero é igual a 1."
+        },
+        {
+          "letter": "C",
+          "text": "No ponto $(1,0)$",
+          "is_correct": false,
+          "feedback": "Este seria um intercepto no eixo x, que estas funções não possuem."
+        },
+        {
+          "letter": "D",
+          "text": "Depende do valor da base $a$.",
+          "is_correct": false,
+          "feedback": "Embora o formato da curva dependa de 'a', todas cruzam o eixo y no 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $x=0$ no eixo $y$, calculamos $f(0) = a^0$. Pela propriedade das potências, qualquer base positiva elevada a zero resulta em 1. Assim, o intercepto $y$ é sempre 1 para funções sem translação vertical.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v5",
+      "statement": "Dada a função $f(x) = (\\frac{1}{3})^x$, qual é o valor de $f(-2)$?",
+      "context": "Um analista financeiro em Brasília projeta a desvalorização de um veículo ao longo dos anos usando uma taxa percentual fixa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Este seria o valor de f(2)."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Expoentes negativos não tornam o resultado da potência negativo."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "(1/3)⁻² = 3² = 9."
+        },
+        {
+          "letter": "D",
+          "text": "-6",
+          "is_correct": false,
+          "feedback": "Erro grosseiro de operação aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Um expoente negativo inverte a base da potência. Assim, $(\\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v6",
+      "statement": "Sobre o conjunto imagem da função exponencial $f(x) = 5^x$, definida para todo $x$ real, é correto afirmar que:",
+      "context": "Um programador em Belo Horizonte cria um algoritmo para simular a propagação de um vírus em uma rede de computadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A imagem é todo o conjunto dos números reais ($\\mathbb{R}$).",
+          "is_correct": false,
+          "feedback": "Potências de base positiva nunca resultam em números negativos ou zero."
+        },
+        {
+          "letter": "B",
+          "text": "A imagem é o conjunto de todos os números reais positivos ($y > 0$).",
+          "is_correct": true,
+          "feedback": "Correto. f(x) = a^x sempre produz valores maiores que zero."
+        },
+        {
+          "letter": "C",
+          "text": "A imagem inclui o valor zero.",
+          "is_correct": false,
+          "feedback": "Por mais que x seja um número negativo muito grande, a^x nunca atinge o zero."
+        },
+        {
+          "letter": "D",
+          "text": "A imagem é $[1, +\\infty)$.",
+          "is_correct": false,
+          "feedback": "Valores entre 0 e 1 (como 0,2) pertencem à imagem quando x é negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A função exponencial $f(x) = a^x$ (com $a > 0$) tem como imagem o intervalo $(0, +\\infty)$. O eixo $x$ funciona como uma assíntota horizontal, ou seja, o gráfico se aproxima dele mas nunca o toca ou ultrapassa.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v7",
+      "statement": "Após quantas horas $t$ a massa de algas atingirá 160 gramas?",
+      "context": "Um técnico em Salvador analisa o crescimento de uma cultura de algas marinhas cuja população $P$ em gramas é dada por $P(t) = 10 \\cdot 2^t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 horas",
+          "is_correct": false,
+          "feedback": "P(16) seria um valor extremamente alto (10 * 65536)."
+        },
+        {
+          "letter": "B",
+          "text": "4 horas",
+          "is_correct": true,
+          "feedback": "160 = 10 * 2^t => 16 = 2^t => 2⁴ = 2^t => t = 4."
+        },
+        {
+          "letter": "C",
+          "text": "3 horas",
+          "is_correct": false,
+          "feedback": "P(3) = 10 * 8 = 80."
+        },
+        {
+          "letter": "D",
+          "text": "5 horas",
+          "is_correct": false,
+          "feedback": "P(5) = 10 * 32 = 320."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos a função ao valor desejado: $160 = 10 \\cdot 2^t$. Dividindo por 10: $16 = 2^t$. Como $16 = 2^4$, temos que $t = 4$ horas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v8",
+      "statement": "Resolva a equação exponencial $9^x = 27$.",
+      "context": "Em um laboratório de informática em Porto Alegre, estuda-se o poder de processamento que dobra a cada 18 meses (Lei de Moore).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "9³ = 729."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1,5$",
+          "is_correct": true,
+          "feedback": "(3²) ^ x = 3³ => 3^(2x) = 3³ => 2x = 3 => x = 1,5."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "9² = 81."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0,5$",
+          "is_correct": false,
+          "feedback": "9^(0,5) = √9 = 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ e $27 = 3^3$, temos $(3^2)^x = 3^3 \\Rightarrow 3^{2x} = 3^3$. Igualando os expoentes: $2x = 3 \\Rightarrow x = 1,5$ ou $3/2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v9",
+      "statement": "Se a área inicial é $A_0$, a função que descreve a área após $n$ décadas é $A(n) = A_0 \\cdot (0,9)^n$. Qual será a porcentagem da área original restante após 2 décadas?",
+      "context": "Um geógrafo em Recife analisa a redução da área de uma floresta nativa que perde 10\\% de seu tamanho a cada década.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80\\%",
+          "is_correct": false,
+          "feedback": "Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples)."
+        },
+        {
+          "letter": "B",
+          "text": "81\\%",
+          "is_correct": true,
+          "feedback": "(0,9)² = 0,81 = 81%."
+        },
+        {
+          "letter": "C",
+          "text": "90\\%",
+          "is_correct": false,
+          "feedback": "Este é o valor após apenas 1 década."
+        },
+        {
+          "letter": "D",
+          "text": "70\\%",
+          "is_correct": false,
+          "feedback": "Erro no cálculo da potência."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos o fator de redução após 2 períodos: $(0,9)^2 = 0,9 \\cdot 0,9 = 0,81$. Multiplicando por 100 para obter a porcentagem, temos 81\\% da área original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v10",
+      "statement": "Qual é a solução da equação $2^{x+3} = 32$?",
+      "context": "Um estudante em Fortaleza resolve desafios sobre potências para se preparar para as olimpíadas regionais de matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Se x=5, 2^(5+3) = 2⁸ = 256."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "32 = 2⁵. Logo x + 3 = 5 => x = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Se x=1, 2^(1+3) = 2⁴ = 16."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expressamos 32 como uma potência de 2: $32 = 2^5$. A equação fica $2^{x+3} = 2^5$. Igualando os expoentes: $x + 3 = 5$, o que nos dá $x = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v11",
+      "statement": "Considere a função $f(x) = 2^x + 3$. Qual é a assíntota horizontal desta função e o seu intercepto com o eixo $y$?",
+      "context": "Um cientista em São Paulo estuda a propagação de calor e utiliza funções exponenciais com translação vertical para modelar a temperatura de um objeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assíntota $y = 0$ e intercepto $(0, 1)$.",
+          "is_correct": false,
+          "feedback": "Esta seria a resposta para a função 2^x sem o termo constante +3."
+        },
+        {
+          "letter": "B",
+          "text": "Assíntota $y = 3$ e intercepto $(0, 4)$.",
+          "is_correct": true,
+          "feedback": "A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "Assíntota $y = 3$ e intercepto $(0, 3)$.",
+          "is_correct": false,
+          "feedback": "f(0) resulta em 4, não 3."
+        },
+        {
+          "letter": "D",
+          "text": "Assíntota $y = 1$ e intercepto $(0, 2)$.",
+          "is_correct": false,
+          "feedback": "Translação incorreta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 unidades, movendo a assíntota para $y=3$. O intercepto $y$ original era 1, somando 3, torna-se 4.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v12",
+      "statement": "Resolva a inequação exponencial: $(\\frac{1}{2})^x < \\frac{1}{8}$.",
+      "context": "Um engenheiro civil em Goiânia analisa a atenuação do sinal de rádio ao atravessar paredes de diferentes espessuras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 3$",
+          "is_correct": false,
+          "feedback": "Cuidado: ao lidar com bases entre 0 e 1, a ordem da desigualdade se inverte ao comparar expoentes."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 3$",
+          "is_correct": true,
+          "feedback": "(1/2)^x < (1/2)³. Como a base é menor que 1, x deve ser maior que 3."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "O valor comparativo correto é 3, pois 2³ = 8."
+        },
+        {
+          "letter": "D",
+          "text": "$x < -3$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escrevemos ambos os lados na mesma base: $(\\frac{1}{2})^x < (\\frac{1}{2})^3$. Como a base $1/2$ está entre 0 e 1, a função é decrescente. Isso significa que, para o valor da função ser menor, o expoente deve ser maior: $x > 3$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v13",
+      "statement": "Dadas as funções $f(x) = 2^x$ e $g(x) = 4x$, para quais valores inteiros de $x$ temos $f(x) = g(x)$?",
+      "context": "Um professor em Vitória desafia seus alunos a comparar o crescimento de uma função afim com o de uma função exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ apenas.",
+          "is_correct": false,
+          "feedback": "f(2)=4 e g(2)=8. Não são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ apenas.",
+          "is_correct": true,
+          "feedback": "f(4) = 2⁴ = 16 e g(4) = 4 * 4 = 16."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ e $x = 4$.",
+          "is_correct": false,
+          "feedback": "f(0)=1 e g(0)=0. Diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$ e $x = 4$.",
+          "is_correct": false,
+          "feedback": "Somente o 4 satisfaz a igualdade."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Testando os valores: para $x=4$, $2^4 = 16$ e $4 \\cdot 4 = 16$. Embora funções exponenciais cresçam muito mais rápido que lineares a longo prazo, elas podem se cruzar em pontos específicos.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v14",
+      "statement": "Se a população inicial é de 100 insetos, qual das seguintes funções representa a população $P$ após $n$ dias? (Considere uma semana como 7 dias).",
+      "context": "Um biólogo em Manaus estuda uma população de insetos que triplica a cada semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(n) = 100 \\cdot 3^n$",
+          "is_correct": false,
+          "feedback": "Esta função assumiria que a população triplica a cada dia."
+        },
+        {
+          "letter": "B",
+          "text": "$P(n) = 100 \\cdot 3^{n/7}$",
+          "is_correct": true,
+          "feedback": "Correto. Quando n=7 (uma semana), o expoente é 1 e a população triplica."
+        },
+        {
+          "letter": "C",
+          "text": "$P(n) = 100 \\cdot 3^{7n}$",
+          "is_correct": false,
+          "feedback": "Esta função cresceria rápido demais."
+        },
+        {
+          "letter": "D",
+          "text": "$P(n) = 300n + 100$",
+          "is_correct": false,
+          "feedback": "Crescimento populacional biológico é geralmente exponencial, não linear."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo $n$ deve ser dividido pelo período de 7 para que a base 3 seja elevada à potência 1 somente após uma semana completa.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v15",
+      "statement": "A função $f(x) = e^x$ é chamada de função exponencial natural. Qual é a característica fundamental de sua função inversa?",
+      "context": "Um analista financeiro em São Paulo utiliza a constante de Euler ($e \\approx 2,718$) para calcular juros compostos continuamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É uma função quadrática.",
+          "is_correct": false,
+          "feedback": "A inversa de uma exponencial nunca é uma potência."
+        },
+        {
+          "letter": "B",
+          "text": "É a função $f(x) = x^e$.",
+          "is_correct": false,
+          "feedback": "Esta é uma função potência."
+        },
+        {
+          "letter": "C",
+          "text": "É o logaritmo natural, $\\ln(x)$.",
+          "is_correct": true,
+          "feedback": "Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'."
+        },
+        {
+          "letter": "D",
+          "text": "É a função $f(x) = 1/e^x$.",
+          "is_correct": false,
+          "feedback": "Esta é a função e⁻x, não a inversa f⁻¹(x)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definição, a função logarítmica é a inversa da função exponencial. Quando a base é o número irracional $e$, chamamos o logaritmo de natural ou neperiano, denotado por $\\ln(x)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v16",
+      "statement": "Se $V(t) = 100 \\cdot 2^{-t}$, qual será o valor de $V$ após 3 unidades de tempo?",
+      "context": "Um físico em São José dos Campos estuda o decaimento de uma voltagem em um capacitor, seguindo a função $V(t) = V_0 \\cdot e^{-t/RC}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800",
+          "is_correct": false,
+          "feedback": "Erro ao tratar o expoente negativo como positivo."
+        },
+        {
+          "letter": "B",
+          "text": "33,33",
+          "is_correct": false,
+          "feedback": "Erro de cálculo."
+        },
+        {
+          "letter": "C",
+          "text": "12,5",
+          "is_correct": true,
+          "feedback": "V(3) = 100 * 2⁻³ = 100 * (1/8) = 12,5."
+        },
+        {
+          "letter": "D",
+          "text": "-800",
+          "is_correct": false,
+          "feedback": "Exponenciais de base positiva nunca resultam em valores negativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Substituímos $t = 3$ na função: $V(3) = 100 \\cdot 2^{-3}$. Calculamos a potência: $2^{-3} = 1 / 2^3 = 1 / 8$. Multiplicando pelo valor inicial: $100 / 8 = 12,5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v17",
+      "statement": "Resolva a equação: $4^x - 6 \\cdot 2^x + 8 = 0$.",
+      "context": "Um matemático em Campinas propõe uma equação que exige a substituição de variáveis para ser resolvida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ e $x = 4$",
+          "is_correct": false,
+          "feedback": "Estes são os valores de y = 2^x, mas precisamos achar o valor de x."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$ e $x = 2$",
+          "is_correct": true,
+          "feedback": "Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ e $x = 3$",
+          "is_correct": false,
+          "feedback": "Testando na equação original não satisfaz a igualdade."
+        },
+        {
+          "letter": "D",
+          "text": "Não possui solução real.",
+          "is_correct": false,
+          "feedback": "A equação possui duas soluções reais distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \\Rightarrow x = 1$; $2^x = 4 \\Rightarrow x = 2$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v18",
+      "statement": "Considere a função $f(x) = 2^{-x^2}$. Qual é o valor máximo desta função e para qual valor de $x$ ele ocorre?",
+      "context": "Durante uma competição de matemática, avalia-se a profundidade do conhecimento sobre o comportamento assintótico de funções compostas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Máximo 2 em $x = 1$.",
+          "is_correct": false,
+          "feedback": "f(1) = 2⁻¹ = 0,5."
+        },
+        {
+          "letter": "B",
+          "text": "Máximo 1 em $x = 0$.",
+          "is_correct": true,
+          "feedback": "x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1."
+        },
+        {
+          "letter": "C",
+          "text": "Não possui valor máximo.",
+          "is_correct": false,
+          "feedback": "Como o expoente é limitado superiormente, a função possui máximo."
+        },
+        {
+          "letter": "D",
+          "text": "Máximo 0 em $x$ tendendo ao infinito.",
+          "is_correct": false,
+          "feedback": "0 é o limite inferior (assíntota), não o máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A base é maior que 1, então a função cresce com o aumento do expoente. O expoente é $-x^2$. O maior valor que $-x^2$ pode assumir é 0 (quando $x=0$). Logo, o valor máximo da função é $2^0 = 1$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v19",
+      "statement": "Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\\frac{1}{2})^{x - 2}$.",
+      "context": "Um pesquisador avançado em São José dos Campos investiga as propriedades de funções exponenciais em domínios complexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Esta é apenas uma parte da solução."
+        },
+        {
+          "letter": "B",
+          "text": "$x < -3$",
+          "is_correct": false,
+          "feedback": "Esta é apenas uma parte da solução."
+        },
+        {
+          "letter": "C",
+          "text": "$x < -3$ ou $x > 2$",
+          "is_correct": true,
+          "feedback": "2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes."
+        },
+        {
+          "letter": "D",
+          "text": "$-3 < x < 2$",
+          "is_correct": false,
+          "feedback": "Este é o intervalo onde a expressão quadrática é negativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, mantemos a desigualdade: $x^2 - 4 > -x + 2 \\Rightarrow x^2 + x - 6 > 0$. As raízes da equação quadrática são $-3$ e $2$. Como queremos valores maiores que zero, a solução está fora do intervalo das raízes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v20",
+      "statement": "Se $3^x + 3^{-x} = 5$, qual é o valor de $9^x + 9^{-x}$?",
+      "context": "Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de manipulação algébrica de potências compostas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Erro ao elevar cada termo individualmente sem considerar o termo médio do quadrado do binômio."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": true,
+          "feedback": "(3^x + 3⁻x)² = 5² => (3^x)² + 2(3^x)(3⁻x) + (3⁻x)² = 25 => 9^x + 2 + 9⁻x = 25 => 9^x + 9⁻x = 23."
+        },
+        {
+          "letter": "C",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Erro no sinal ou na manipulação do termo médio."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Erro na aplicação das propriedades de potências."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elevamos ambos os lados da equação original ao quadrado: $(3^x + 3^{-x})^2 = 5^2$. Desenvolvendo o produto notável: $(3^x)^2 + 2 \\cdot 3^x \\cdot 3^{-x} + (3^{-x})^2 = 25$. Como $3^x \\cdot 3^{-x} = 3^0 = 1$, temos $9^x + 2 + 9^{-x} = 25$. Portanto, $9^x + 9^{-x} = 23$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
     }
   ]
 }

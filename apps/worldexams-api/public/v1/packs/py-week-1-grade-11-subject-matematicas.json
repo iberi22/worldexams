@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.771Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v1",
+      "statement": "¿Qué propiedad matemática de la adición en los números reales justifica que para cualquier $a, b \\in \\mathbb{R}$, se cumpla que $a + b = b + a$?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad conmutativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La conmutatividad indica que el orden de los sumandos no altera la suma."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad asociativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asociatividad se aplica a la agrupación de tres o más sumandos."
+        },
+        {
+          "letter": "C",
+          "text": "Elemento neutro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El elemento neutro es el cero y establece que $a + 0 = a$."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad distributiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relaciona la multiplicación con la suma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad conmutativa establece que para cualesquiera números reales $a$ y $b$, el orden de la operación no cambia el resultado, es decir, $a + b = b + a$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v2",
+      "statement": "Si un termómetro en el Chaco paraguayo registra temperaturas en el intervalo semiabierto $(18, 42]$ °C, ¿cuál es la interpretación correcta de este conjunto?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura es estrictamente mayor que 18 °C y menor o igual que 42 °C.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Paréntesis excluye el límite inferior y corchete incluye el superior."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura es mayor o igual que 18 °C y menor o igual que 42 °C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite inferior 18 está excluido porque tiene un paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura es estrictamente mayor que 18 °C y estrictamente menor que 42 °C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite superior 42 está incluido porque tiene un corchete."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura es exactamente igual a 18 °C o a 42 °C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intervalo abarca todos los números reales entre ambos valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El intervalo semiabierto $(a, b]$ incluye al extremo derecho $b$ pero excluye al izquierdo $a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v3",
+      "statement": "Jorge viaja en auto por la Ruta PY02. Si pasa por el km 24 (San Bernardino) y luego por el km 54 (Caacupé), ¿cuál de las siguientes expresiones con valor absoluto calcula la distancia exacta recorrida?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$|24 - 54|$ km",
+          "is_correct": true,
+          "feedback": "¡Correcto! El valor absoluto de la diferencia de dos coordenadas reales da la distancia métrica entre ellas."
+        },
+        {
+          "letter": "B",
+          "text": "$|24| + |54|$ km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sumaría las distancias desde el inicio, dando un valor erróneo de 78 km."
+        },
+        {
+          "letter": "C",
+          "text": "$24 - 54$ km",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de esta resta es negativo (-30), y las distancias físicas deben ser no negativas."
+        },
+        {
+          "letter": "D",
+          "text": "$|24 + 54|$ km",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia no se calcula sumando las coordenadas reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia entre dos puntos $x_1, x_2$ en la recta real está dada por la métrica $d = |x_1 - x_2|$. En este caso, $|24 - 54| = |-30| = 30$ km.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v4",
+      "statement": "Considere el número real $x = \\sqrt{5}$. ¿A qué subconjunto de los números reales pertenece estrictamente?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números irracionales ($\\mathbb{I}$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\sqrt{5}$ es un número irracional porque su desarrollo decimal es infinito no periódico."
+        },
+        {
+          "letter": "B",
+          "text": "Números racionales ($\\mathbb{Q}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede escribir como fracción de dos enteros."
+        },
+        {
+          "letter": "C",
+          "text": "Números enteros ($\\mathbb{Z}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un número entero."
+        },
+        {
+          "letter": "D",
+          "text": "Números naturales ($\\mathbb{N}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números naturales son enteros positivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las raíces cuadradas de números enteros que no son cuadrados perfectos son siempre irracionales, con decimales infinitos no periódicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v5",
+      "statement": "En Ciudad del Este, Gladys compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 10%. ¿Cuál es el valor final pagado?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 135.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 10% de 150.000 es 15,000, restándolo da 135,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 142.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 165.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 132.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.10) = 135000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v6",
+      "statement": "En Caacupé, Diego compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 12%. ¿Cuál es el valor final pagado?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 132.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 12% de 150.000 es 18,000, restándolo da 132,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 141.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 168.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 128.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.12) = 132000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v7",
+      "statement": "En Pilar, Patricia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 14%. ¿Cuál es el valor final pagado?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 129.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 14% de 150.000 es 21,000, restándolo da 129,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 139.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 171.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 124.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.14) = 129000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v8",
+      "statement": "En Coronel Oviedo, Gustavo compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 16%. ¿Cuál es el valor final pagado?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 126.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 16% de 150.000 es 24,000, restándolo da 126,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 138.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 174.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 121.200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.16) = 126000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v9",
+      "statement": "En Concepción, Natalia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 18%. ¿Cuál es el valor final pagado?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 123.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 18% de 150.000 es 27,000, restándolo da 123,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 136.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 177.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 117.600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.18) = 123000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v10",
+      "statement": "En Villarrica, Carlos compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 20%. ¿Cuál es el valor final pagado?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 120.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 20% de 150.000 es 30,000, restándolo da 120,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 135.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 180.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 114.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.20) = 120000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v11",
+      "statement": "En Asunción, Ramón compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 22%. ¿Cuál es el valor final pagado?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 117.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 22% de 150.000 es 33,000, restándolo da 117,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 133.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 183.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 110.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.22) = 117000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v12",
+      "statement": "En San Lorenzo, María compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 24%. ¿Cuál es el valor final pagado?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 114.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 24% de 150.000 es 36,000, restándolo da 114,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 132.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 186.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 106.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.24) = 114000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v13",
+      "statement": "En Luque, Jorge compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 26%. ¿Cuál es el valor final pagado?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 111.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 26% de 150.000 es 39,000, restándolo da 111,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 130.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 189.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 103.200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.26) = 111000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v14",
+      "statement": "En Encarnación, Liz compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 28%. ¿Cuál es el valor final pagado?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 108.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 28% de 150.000 es 42,000, restándolo da 108,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 129.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 192.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 99.600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.28) = 108000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v15",
+      "statement": "En Ciudad del Este, Gladys compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 30%. ¿Cuál es el valor final pagado?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 105.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 30% de 150.000 es 45,000, restándolo da 105,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 127.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 195.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 96.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.30) = 105000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v16",
+      "statement": "En Caacupé, Diego compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 32%. ¿Cuál es el valor final pagado?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 102.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 32% de 150.000 es 48,000, restándolo da 102,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 126.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 198.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 92.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.32) = 102000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v17",
+      "statement": "En Pilar, Patricia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 34%. ¿Cuál es el valor final pagado?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 99.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 34% de 150.000 es 51,000, restándolo da 99,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 124.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 201.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 88.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.34) = 99000$ Guaraníes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v18",
+      "statement": "En Coronel Oviedo, Gustavo compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 36%. ¿Cuál es el valor final pagado?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 96.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 36% de 150.000 es 54,000, restándolo da 96,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 123.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 204.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 85.200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.36) = 96000$ Guaraníes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v19",
+      "statement": "En Concepción, Natalia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 38%. ¿Cuál es el valor final pagado?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 93.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 38% de 150.000 es 57,000, restándolo da 93,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 121.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 207.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 81.600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.38) = 93000$ Guaraníes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v20",
+      "statement": "En Villarrica, Carlos compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 40%. ¿Cuál es el valor final pagado?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 90.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 40% de 150.000 es 60,000, restándolo da 90,000."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 120.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 210.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 78.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.40) = 90000$ Guaraníes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

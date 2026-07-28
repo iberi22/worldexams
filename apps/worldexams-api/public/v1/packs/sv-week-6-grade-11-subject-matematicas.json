@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "sv",
+    "pack_id": "sv-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.509Z"
+  },
+  "questions": [
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "Desarrolla el binomio al cuadrado: $(x + 5)^2$.",
+      "context": "Un docente de San Salvador explica de forma geométrica el área del cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 10x + 25$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 5x + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 10x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Desarrolla el producto de binomios conjugados: $(2x + 3)(2x - 3)$.",
+      "context": "Un ingeniero en Soyapango calcula la diferencia de área entre dos parcelas cuadradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 - 9$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2 + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2 - 12x - 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Desarrolla el producto de binomios con término común: $(x + 4)(x + 3)$.",
+      "context": "Una arquitecta en Santa Ana diseña un jardín rectangular con dimensiones proporcionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 12x + 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 7x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 7x + 12$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Desarrolla el binomio al cubo: $(x + 2)^3$.",
+      "context": "Un profesor de San Miguel plantea un reto sobre volúmenes de cubos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 4x^2 + 8x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 6x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Desarrolla el binomio al cuadrado: $(5x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$25x^2 - 10x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$25x^2 - 5x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$5x^2 - 10x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Desarrolla el binomio al cuadrado: $(6x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2 - 12x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$36x^2 - 12x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$36x^2 - 6x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Desarrolla el binomio al cuadrado: $(7x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$49x^2 - 7x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$7x^2 - 14x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$49x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$49x^2 - 14x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Desarrolla el binomio al cuadrado: $(8x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$64x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$8x^2 - 16x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$64x^2 - 8x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$64x^2 - 16x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Desarrolla el binomio al cuadrado: $(9x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9x^2 - 18x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$81x^2 - 9x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$81x^2 - 18x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$81x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Desarrolla el binomio al cuadrado: $(10x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$10x^2 - 20x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$100x^2 - 10x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$100x^2 - 20x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Desarrolla el binomio al cuadrado: $(11x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$121x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$121x^2 - 11x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$121x^2 - 22x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$11x^2 - 22x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Desarrolla el binomio al cuadrado: $(12x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$144x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$144x^2 - 24x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$12x^2 - 24x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$144x^2 - 12x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Desarrolla el binomio al cuadrado: $(13x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$169x^2 - 26x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$13x^2 - 26x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$169x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$169x^2 - 13x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Desarrolla el binomio al cuadrado: $(14x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$196x^2 - 14x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$196x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$14x^2 - 28x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$196x^2 - 28x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Desarrolla el binomio al cuadrado: $(15x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$225x^2 - 15x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$225x^2 - 30x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$15x^2 - 30x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$225x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Desarrolla el binomio al cuadrado: $(16x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$256x^2 - 16x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$256x^2 - 32x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$256x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$16x^2 - 32x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.31,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Desarrolla el binomio al cuadrado: $(17x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$17x^2 - 34x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$289x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$289x^2 - 34x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$289x^2 - 17x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Desarrolla el binomio al cuadrado: $(18x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18x^2 - 36x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$324x^2 - 18x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$324x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$324x^2 - 36x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Desarrolla el binomio al cuadrado: $(19x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$361x^2 - 19x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$19x^2 - 38x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$361x^2 - 38x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$361x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.19,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Desarrolla el binomio al cuadrado: $(20x - 1)^2$.",
+      "context": "Se realiza una expansión algebraica de precisión para estimar deformación elástica en Santa Ana, ensayo 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$20x^2 - 40x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$400x^2 - 20x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$400x^2 - 40x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Productos Notables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "SV-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

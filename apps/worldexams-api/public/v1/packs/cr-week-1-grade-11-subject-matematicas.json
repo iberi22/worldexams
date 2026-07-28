@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.368Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 2 \\}$ definida por $f(x) = \\frac{2x + 15}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En Cartago, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 15}{2x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x + 15}{x - 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{-x + 15}{x - 2}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 15}{x + 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{2x + 15}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{2x + 15}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 2x + 15 \\Rightarrow yx + y = 2x + 15$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 2x = 15 - y \\Rightarrow x(y - 2) = 15 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 15}{y - 2}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 15}{x - 2}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Sea la función biyectiva $f(x) = 4x + 17$. Si se sabe que el punto $(5, 37)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(37)$?",
+      "context": "En Heredia, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "0.02702702702702703",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $37$ (es decir, $f(5) = 37$, lo que significa que el punto $(5, 37)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $37$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(37) = 5$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 6x + 19$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En Liberia, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 19}{6}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x + 19}{6}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = 6x - 19",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{6x - 19}{19}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 6x + 19$:\n1. Sustituimos $f(x)$ por $y$: $y = 6x + 19$.\n2. Despejamos $x$: $y - 19 = 6x \\Rightarrow x = \\frac{y - 19}{6}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 19}{6}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 3 \\}$ definida por $f(x) = \\frac{3x + 11}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En Puntarenas, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 11}{3x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{-x + 11}{x - 3}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x + 11}{x - 3}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 11}{x + 3}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{3x + 11}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{3x + 11}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 3x + 11 \\Rightarrow yx + y = 3x + 11$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 3x = 11 - y \\Rightarrow x(y - 3) = 11 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 11}{y - 3}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 11}{x - 3}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Sea la función biyectiva $f(x) = 5x + 13$. Si se sabe que el punto $(5, 38)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(38)$?",
+      "context": "En Limón, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "38",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "0.02631578947368421",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $38$ (es decir, $f(5) = 38$, lo que significa que el punto $(5, 38)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $38$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(38) = 5$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 2x + 15$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En San Carlos, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x + 15}{2}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = 2x - 15",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{2x - 15}{15}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{x - 15}{2}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 2x + 15$:\n1. Sustituimos $f(x)$ por $y$: $y = 2x + 15$.\n2. Despejamos $x$: $y - 15 = 2x \\Rightarrow x = \\frac{y - 15}{2}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 15}{2}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 4 \\}$ definida por $f(x) = \\frac{4x + 17}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En Pérez Zeledón, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{-x + 17}{x - 4}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x - 17}{4x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x + 17}{x - 4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 17}{x + 4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{4x + 17}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{4x + 17}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 4x + 17 \\Rightarrow yx + y = 4x + 17$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 4x = 17 - y \\Rightarrow x(y - 4) = 17 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 17}{y - 4}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 17}{x - 4}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Sea la función biyectiva $f(x) = 6x + 19$. Si se sabe que el punto $(5, 49)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(49)$?",
+      "context": "En Escazú, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "49",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "C",
+          "text": "0.02040816326530612",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $49$ (es decir, $f(5) = 49$, lo que significa que el punto $(5, 49)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $49$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(49) = 5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 3x + 11$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En San José, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x + 11}{3}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = 3x - 11",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x - 11}{3}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{3x - 11}{11}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 3x + 11$:\n1. Sustituimos $f(x)$ por $y$: $y = 3x + 11$.\n2. Despejamos $x$: $y - 11 = 3x \\Rightarrow x = \\frac{y - 11}{3}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 11}{3}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 5 \\}$ definida por $f(x) = \\frac{5x + 13}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En Alajuela, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 13}{5x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x + 13}{x - 5}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{-x - 13}{x + 5}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x + 13}{x - 5}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{5x + 13}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{5x + 13}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 5x + 13 \\Rightarrow yx + y = 5x + 13$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 5x = 13 - y \\Rightarrow x(y - 5) = 13 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 13}{y - 5}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 13}{x - 5}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Sea la función biyectiva $f(x) = 2x + 15$. Si se sabe que el punto $(5, 25)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(25)$?",
+      "context": "En Cartago, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "0.04",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $25$ (es decir, $f(5) = 25$, lo que significa que el punto $(5, 25)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $25$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(25) = 5$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 4x + 17$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En Heredia, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x + 17}{4}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x - 17}{4}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = 4x - 17",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{4x - 17}{17}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 4x + 17$:\n1. Sustituimos $f(x)$ por $y$: $y = 4x + 17$.\n2. Despejamos $x$: $y - 17 = 4x \\Rightarrow x = \\frac{y - 17}{4}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 17}{4}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 6 \\}$ definida por $f(x) = \\frac{6x + 19}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En Liberia, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 19}{6x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x + 19}{x - 6}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{-x + 19}{x - 6}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 19}{x + 6}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{6x + 19}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{6x + 19}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 6x + 19 \\Rightarrow yx + y = 6x + 19$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 6x = 19 - y \\Rightarrow x(y - 6) = 19 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 19}{y - 6}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 19}{x - 6}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Sea la función biyectiva $f(x) = 3x + 11$. Si se sabe que el punto $(5, 26)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(26)$?",
+      "context": "En Puntarenas, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "0.038461538461538464",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $26$ (es decir, $f(5) = 26$, lo que significa que el punto $(5, 26)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $26$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(26) = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 5x + 13$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En Limón, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 13}{5}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x + 13}{5}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = 5x - 13",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{5x - 13}{13}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 5x + 13$:\n1. Sustituimos $f(x)$ por $y$: $y = 5x + 13$.\n2. Despejamos $x$: $y - 13 = 5x \\Rightarrow x = \\frac{y - 13}{5}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 13}{5}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 2 \\}$ definida por $f(x) = \\frac{2x + 15}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En San Carlos, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x - 15}{2x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{-x + 15}{x - 2}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x + 15}{x - 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 15}{x + 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{2x + 15}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{2x + 15}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 2x + 15 \\Rightarrow yx + y = 2x + 15$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 2x = 15 - y \\Rightarrow x(y - 2) = 15 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 15}{y - 2}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 15}{x - 2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Sea la función biyectiva $f(x) = 4x + 17$. Si se sabe que el punto $(5, 37)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(37)$?",
+      "context": "En Pérez Zeledón, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "0.02702702702702703",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $37$ (es decir, $f(5) = 37$, lo que significa que el punto $(5, 37)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $37$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(37) = 5$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Considere la función lineal $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ dada por $f(x) = 6x + 19$. ¿Cuál corresponde al criterio algebraico de la función inversa $f^{-1}(x)$?",
+      "context": "En Escazú, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{x + 19}{6}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = 6x - 19",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{6x - 19}{19}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{x - 19}{6}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar la función inversa de la función lineal $f(x) = 6x + 19$:\n1. Sustituimos $f(x)$ por $y$: $y = 6x + 19$.\n2. Despejamos $x$: $y - 19 = 6x \\Rightarrow x = \\frac{y - 19}{6}$.\n3. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{x - 19}{6}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Sea la función $f: \\mathbb{R} - \\{ -1 \\} \\rightarrow \\mathbb{R} - \\{ 3 \\}$ definida por $f(x) = \\frac{3x + 11}{x + 1}$. Determine el criterio algebraico de $f^{-1}(x)$.",
+      "context": "En San José, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\frac{-x + 11}{x - 3}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x - 11}{3x + 1}",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x + 11}{x - 3}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\frac{-x - 11}{x + 3}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la función inversa de la función racional $f(x) = \\frac{3x + 11}{x + 1}$:\n1. Escribimos la ecuación $y = \\frac{3x + 11}{x + 1}$.\n2. Multiplicamos ambos miembros por el denominador: $y(x + 1) = 3x + 11 \\Rightarrow yx + y = 3x + 11$.\n3. Agrupamos los términos que contienen la variable $x$ en un lado: $yx - 3x = 11 - y \\Rightarrow x(y - 3) = 11 - y$.\n4. Despejamos $x$: $x = \\frac{-y + 11}{y - 3}$.\n5. Intercambiamos variables para obtener el criterio de la inversa: $f^{-1}(x) = \\frac{-x + 11}{x - 3}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Sea la función biyectiva $f(x) = 5x + 13$. Si se sabe que el punto $(5, 38)$ pertenece a la gráfica de $f$, ¿cuál es el valor exacto de $f^{-1}(38)$?",
+      "context": "En Alajuela, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "38",
+          "is_correct": false,
+          "feedback": "Explicación detallada: Esta opción es incorrecta debido a un error de signo en el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue rigurosamente el proceso algebraico inverso."
+        },
+        {
+          "letter": "C",
+          "text": "0.02631578947368421",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta respuesta confunde la inversa con la recíproca o comete un error operacional básico."
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Esta opción representa un error común al no aplicar la división correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de función inversa, si una función biyectiva $f(x)$ mapea el valor de entrada $5$ al valor de salida $38$ (es decir, $f(5) = 38$, lo que significa que el punto $(5, 38)$ pertenece a la gráfica de $f$), entonces su función inversa $f^{-1}$ realiza el mapeo exactamente contrario, llevando el valor de entrada $38$ de vuelta al valor original $5$. Por lo tanto, de forma inmediata obtenemos que $f^{-1}(38) = 5$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.371Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Escazú, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En San José, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En Alajuela, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Cartago, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "C",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Heredia, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En Liberia, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "D",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Puntarenas, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Limón, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "C",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En San Carlos, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Pérez Zeledón, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Escazú, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En San José, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "C",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Alajuela, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Cartago, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En Heredia, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En Liberia, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "C",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Puntarenas, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la ecuación logarítmica: $\\log_{2}(x + 4) = 3$.",
+      "context": "En Limón, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "D",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando la definición de logaritmo, reescribimos la ecuación $\\log_{2}(x + 4) = 3$ en su forma exponencial correspondiente: $x + 4 = 2^3$. Calculando la potencia: $x + 4 = 8$. Despejando la variable: $x = 8 - 4 = 4$. Dado que el argumento resultante $4 + 4 = 8$ es positivo, la solución es válida.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Determine la solución real para la ecuación logarítmica $\\log_{10}(x) + \\log_{10}(x - 3) = 1$.",
+      "context": "En San Carlos, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x = -2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la propiedad del producto para la suma de logaritmos de igual base, obtenemos: $\\log_{10}(x(x - 3)) = 1 \\Rightarrow x(x - 3) = 10^1 \\Rightarrow x^2 - 3x - 10 = 0$. Factorizando la ecuación cuadrática obtenemos $(x - 5)(x + 2) = 0$, lo que genera las posibles soluciones $x = 5$ y $x = -2$. Comprobando las restricciones del dominio para descartar soluciones extrañas: se debe cumplir que $x > 0$ y $x - 3 > 0 \\Rightarrow x > 3$. Por lo tanto, descartamos $x = -2$ y la única solución válida es $x = 5$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Halle el conjunto solución para la ecuación logarítmica: $\\log(x + 1) - \\log(x) = \\log(2)$.",
+      "context": "En Pérez Zeledón, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = {1}",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque aplica de manera precisa las propiedades de los logaritmos y comprueba las restricciones de dominio para descartar soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "S = {2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se olvida comprobar las restricciones del argumento de los logaritmos, incluyendo valores negativos no válidos."
+        },
+        {
+          "letter": "C",
+          "text": "S = {0}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asumen soluciones de manera errónea sin realizar la multiplicación o división de argumentos correspondientes."
+        },
+        {
+          "letter": "D",
+          "text": "S = {1, 2}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incurre en un error algebraico básico al sumar o restar argumentos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizando la propiedad del cociente para la diferencia de logaritmos con la misma base, reescribimos el primer miembro de la ecuación: $\\log\\left(\\frac{x + 1}{x}\\right) = \\log(2)$. Al tener logaritmos de igual base en ambos miembros, igualamos directamente sus respectivos argumentos: $\\frac{x + 1}{x} = 2 \\Rightarrow x + 1 = 2x \\Rightarrow x = 1$. Comprobando la restricción, como $1 > 0$, el conjunto solución definitivo es $S = \\{1\\}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

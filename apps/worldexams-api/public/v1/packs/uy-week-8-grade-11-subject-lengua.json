@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "uy",
+    "pack_id": "uy-week-8-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.969Z"
+  },
+  "questions": [
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "Según el texto anterior, ¿en qué año se registró el primer antecedente documentado de festejos carnavalescos en la ciudad de Montevideo?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana \"La Gaditana que se va\", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 1874.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, no el primer antecedente colonial."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1761.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma de manera literal e inequívoca: 'El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761'."
+        },
+        {
+          "letter": "C",
+          "text": "En el año 1908.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1908 nació formalmente el concurso oficial de agrupaciones carnavalescas, no el antecedente original."
+        },
+        {
+          "letter": "D",
+          "text": "En el año 1909.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1909 desembarcó la compañía de zarzuela gaditana en el puerto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se localiza de manera directa y explícita en la tercera oración del fragmento histórico provisto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Qué actividad recreativa autorizó tímidamente el cabildo de Montevideo en sus primeros registros del Carnaval colonial?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana \"La Gaditana que se va\", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bailes de máscaras y juegos de agua.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona literalmente que el cabildo 'autorizó tímidamente bailes de máscaras y juegos de agua' en 1761."
+        },
+        {
+          "letter": "B",
+          "text": "Desfiles oficiales de carros alegóricos gigantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desfiles oficiales comenzaron mucho más tarde, en el año 1874, según el texto."
+        },
+        {
+          "letter": "C",
+          "text": "El concurso oficial de murgas rioplatenses del puerto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concurso oficial de agrupaciones se organizó de forma formal a partir de 1908."
+        },
+        {
+          "letter": "D",
+          "text": "La quema masiva de basura al aire libre en la rambla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención de quema de basura o residuos en los festejos coloniales del fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta se identifica de forma textual directa en el pasaje colonial del texto base provisto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con el texto provisto, ¿dónde nació de manera formal el concurso oficial de agrupaciones carnavalescas uruguayas en el año 1908?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana \"La Gaditana que se va\", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la Avenida 18 de Julio del centro de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por la Avenida 18 de Julio se organizó el primer desfile oficial en 1874, no el concurso formal de agrupaciones."
+        },
+        {
+          "letter": "B",
+          "text": "En el Teatro de Verano Ramón Collazo del Parque Rodó.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento indica de manera textual explícita que en 1908 'nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó'."
+        },
+        {
+          "letter": "C",
+          "text": "En los barcos de la compañía zarzuela del puerto de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La zarzuela de Cádiz desembarcó en el puerto en 1909, pero el concurso oficial nació en 1908 en el parque Rodó."
+        },
+        {
+          "letter": "D",
+          "text": "En las dunas costeras del departamento de Rocha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sitúa geográficamente el concurso en el Parque Rodó de Montevideo, no en las costas de Rocha."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lector halla el sitio exacto del concurso identificando los nombres propios geográficos expresados literalmente en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "¿Qué suceso histórico impulsó y dio su 'fisonomía actual' al festejo del Carnaval uruguayo a finales del siglo XIX según el texto?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana \"La Gaditana que se va\", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición de los juegos de agua por parte de la Intendencia de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona que una prohibición de agua haya dado la fisonomía actual del festejo."
+        },
+        {
+          "letter": "B",
+          "text": "La llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma literalmente: 'fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual'."
+        },
+        {
+          "letter": "C",
+          "text": "El nacimiento formal de la primera murga de la frontera de Rivera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera murga que menciona el texto se asocia a una compañía de Cádiz desembarcada en el puerto, no en Rivera."
+        },
+        {
+          "letter": "D",
+          "text": "La disolución de los desfiles de carros del cabildo municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desfiles oficiales comenzaron en 1874, impulsados precisamente por la inmigración y desarrollo social descrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hecho causal explícito figura de forma literal en la mitad del fragmento histórico del Carnaval uruguayo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Según los estudios del año 2021 de la UdelaR citados en el texto, ¿cuál es el promedio de consumo anual de yerba mate por habitante en Uruguay?",
+      "context": "Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un promedio de 5 kilogramos anuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto detalla un volumen de consumo superior para los habitantes del país."
+        },
+        {
+          "letter": "B",
+          "text": "Un promedio de 8 kilogramos anuales por habitante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento indica de manera literal explícita: 'con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR'."
+        },
+        {
+          "letter": "C",
+          "text": "Un promedio de 10 kilogramos anuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cifra no figura en el texto de consumo de yerba de la UdelaR de 2021."
+        },
+        {
+          "letter": "D",
+          "text": "Un promedio de 12 kilogramos anuales por familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio indica 8 kilogramos anuales por habitante (individual), no 12 por familia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cifra exacta de consumo anual figura explícita y asociada a la UdelaR y al año 2021 en la primera mitad del texto base.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "De acuerdo con el fragmento descriptivo, ¿de qué zona geográfica proviene mayormente la yerba mate que se consume en Uruguay?",
+      "context": "Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De plantaciones locales de los campos de Tacuarembó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto señala explícitamente que el territorio uruguayo carece de cultivos comerciales activos de yerba mate."
+        },
+        {
+          "letter": "B",
+          "text": "Del sur de Brasil (estados de Paraná y Río Grande del Sur).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma literalmente: 'La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur)'."
+        },
+        {
+          "letter": "C",
+          "text": "De las selvas tropicales de la Mesopotamia de Misiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Misiones produce yerba, el fragmento de mate especifica que la importación uruguaya proviene del sur de Brasil."
+        },
+        {
+          "letter": "D",
+          "text": "De las dunas costeras del departamento de Rocha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima costero e invernal de dunas de Rocha veta los cultivos comerciales de yerba según el fragmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El origen de importación de la yerba se enuncia textualmente con nombres de regiones y estados de Brasil en el tramo final del pasaje.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "¿Qué causa climática se expresa textualmente en el fragmento para explicar la ausencia de cultivos comerciales de yerba mate en el territorio de Uruguay?",
+      "context": "Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escasez crónica de lluvias en las praderas de Tacuarembó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención de sequías o escasez de agua para los cultivos de yerba mate en el pasaje."
+        },
+        {
+          "letter": "B",
+          "text": "Las heladas invernales del clima templado pampeano.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo declara de forma directa en su cierre: 'debido a las heladas invernales del clima templado pampeano' que afectan al territorio uruguayo de forma comercial."
+        },
+        {
+          "letter": "C",
+          "text": "La salinidad de la costa atlántica de Punta del Este.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sodio costero no figura como la causa botánica limitante expresada en el texto descriptivo de yerba mate."
+        },
+        {
+          "letter": "D",
+          "text": "El calor extremo del norte fronterizo de Rivera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario: las heladas de invierno (frío) son la causa climática explícita, no el calor de la frontera norte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La causa física de la falta de cultivo nacional se enuncia de forma literal en la última oración del fragmento de yerba mate.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Según el texto, ¿qué rasgo diferencial distingue al consumo de mate en Uruguay con respecto al de otros países de la región rioplatense?",
+      "context": "Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en Uruguay es un hábito móvil de la vía pública, donde el habitante traslada cotidianamente su termo y mate.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento resalta literalmente que 'a diferencia de otros países (...) en Uruguay se caracteriza por ser un hábito móvil (...) traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública'."
+        },
+        {
+          "letter": "B",
+          "text": "Que en Uruguay el consumo está restringido exclusivamente a las oficinas del gobierno de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto detalla que se traslada por la calle, plazas, ramblas, liceos y oficinas, de forma móvil generalizada."
+        },
+        {
+          "letter": "C",
+          "text": "Que los uruguayos solo beben infusión de yerba mate caliente en invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se describe como un hábito móvil y cotidiano general (sin restricciones de estación climática en el texto)."
+        },
+        {
+          "letter": "D",
+          "text": "Que en Uruguay el mate se toma de forma exclusivamente colectiva utilizando tazas de té.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se define como un hábito individual-compartido y móvil; el texto no menciona tazas de té en ningún tramo de yerba mate."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción del hábito de traslado móvil callejero uruguayo figura explícita en el cuerpo del texto de yerba mate.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "¿En qué año fueron declarados los Bañados del Este como Reserva de la Biosfera por la organización internacional Unesco?",
+      "context": "Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 1908.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1908 nació formalmente el concurso de murgas de Montevideo, no la declaración ecológica de Bañados del Este de la Unesco."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1976.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo declara explícitamente en su primera oración: 'declarados Reserva de la Biosfera por la Unesco en el año 1976'."
+        },
+        {
+          "letter": "C",
+          "text": "En el año 1985.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fecha de transición democrática no figura en el fragmento científico de Bañados del Este de la Unesco."
+        },
+        {
+          "letter": "D",
+          "text": "En el año 2021.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 2021 se realizaron estudios de consumo de yerba mate de la UdelaR, no la declaración ecológica de Bañados del Este de la Unesco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fecha de declaración ecológica de la Unesco de Bañados del Este figura de manera literal al inicio del pasaje científico de Bañados del Este.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Según el fragmento, ¿cuántas especies de aves migratorias se registran llegando desde el hemisferio norte cada primavera a los Bañados del Este?",
+      "context": "Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente 50 especies de aves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto detalla una variedad de avifauna migratoria norteña muy superior en el humedal de Bañados del Este."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 120 especies de aves.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma de forma literal: 'registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera' al humedal de Bañados del Este."
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente 200 especies de aves rapaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 200.000 es la cifra de hectáreas de extensión del humedal de Bañados del Este, no la cantidad de especies de aves."
+        },
+        {
+          "letter": "D",
+          "text": "Más de 300 especies de garzas y cisnes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cifra de avifauna no figura en el fragmento geográfico de Bañados del Este."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de especies migratorias norteñas del humedal de Bañados del Este figura de manera literal en el centro del fragmento geográfico de Bañados del Este.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "De acuerdo con el inventario botánico citado en el texto, ¿qué medida de perímetro basal pueden alcanzar los ejemplares centenarios del monte de ombúes a orillas de la laguna de Castillos?",
+      "context": "Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hasta 5 metros de diámetro basal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diámetro de los troncos de los ombúes centenarios de Castillos es significativamente mayor según el inventario botánico."
+        },
+        {
+          "letter": "B",
+          "text": "Hasta 15 metros de diámetro de perímetro basal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto indica literalmente: 'con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico' de Castillos."
+        },
+        {
+          "letter": "C",
+          "text": "Más de 20 metros de altura vertical aérea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento de Castillos detalla el perímetro basal del tronco (diámetro basal de 15 m), no la altura vertical aérea."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente 120 metros de diámetro de copa forestal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 120 es la cifra de especies de aves migratorias norteñas de Bañados del Este, no los metros de copa del ombú de Castillos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La medida del tronco de los ombúes centenarios de Castillos figura explícita y asociada al inventario botánico en la última oración del fragmento geográfico de Bañados del Este.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "¿En qué departamentos de la República Oriental del Uruguay se extienden las 200.000 hectáreas de la Reserva de la Biosfera Bañados del Este según el texto?",
+      "context": "Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los departamentos de Maldonado y Canelones de la costa sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Maldonado posee dunas costeras de Cabo Polonio y sierras, pero el humedal de Bañados del Este no se ubica en Canelones según el texto."
+        },
+        {
+          "letter": "B",
+          "text": "En los departamentos de Rocha y Treinta y Tres.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento indica de manera textual explícita: 'abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres'."
+        },
+        {
+          "letter": "C",
+          "text": "En los departamentos de Salto y Artigas de la frontera norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salto y Artigas se asocian a termas, basalto y portuñol, ajenos a la extensión de Bañados del Este descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusivamente en los humedales del departamento de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humedal se asocia a Rocha y Treinta y Tres en el interior este de Uruguay, no a la capital del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los departamentos geográficos de extensión de Bañados del Este figuran explícitos al inicio del pasaje científico de Bañados del Este.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Según el texto militar e histórico anterior, ¿en qué año asumió la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 1750.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1750 es el año de firma del Tratado de Madrid colonial que delimitaba las fronteras, no el del rediseño español del fuerte de Santa Teresa."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1762.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1762 los portugueses iniciaron la obra y los españoles la conquistaron, pero el rediseño final granítico de Santa Teresa se fechó posterior en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "En el año 1775.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma literalmente: 'asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775'."
+        },
+        {
+          "letter": "D",
+          "text": "En el año 1928.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1928 se inició la restauración histórica civil del fuerte de Santa Teresa de Arredondo, no la obra colonial de piedra española de 1775."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fecha exacta de rediseño de piedra de Santa Teresa de la corona española figura explícita en la mitad del fragmento de historia militar de Santa Teresa.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "¿Qué hito diplomático fronterizo colonial motivó que los ingenieros de la corona portuguesa iniciaran de forma militar las obras del fuerte de Santa Teresa en el año 1762?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La firma de la primera Constitución de la República de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera Constitución de Uruguay se juró mucho más tarde, en el año 1830, ajena al tratado colonial de 1750."
+        },
+        {
+          "letter": "B",
+          "text": "Resguardar la frontera del Tratado de Madrid del año 1750.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento indica de manera textual explícita: 'como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750'."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de los inmigrantes italianos del puerto de Rocha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inmigración masiva italiana y española ocurrió a fines del siglo XIX según el texto anterior de Carnaval, no en el año 1762 colonial de Santa Teresa."
+        },
+        {
+          "letter": "D",
+          "text": "La disolución de los desfiles de carros de la frontera norte de Rivera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un suceso ajeno a los tratados diplomáticos coloniales hispano-lusos de Santa Teresa del siglo XVIII."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El motivo diplomático de resguardo del fuerte de Santa Teresa figura explícito en la primera mitad de la crónica de Santa Teresa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Según el texto histórico, ¿en qué año cesaron las funciones militares del fuerte de Santa Teresa de Rocha al ser abandonado militarmente por las tropas de la nación?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 1762.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1762 los españoles conquistaron de forma armada las obras inconclusas de Santa Teresa, no fue el cese militar definitivo del fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1775.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1775 se finalizó el rediseño militar pentagonal de piedra granítica rosada de Santa Teresa, estando plenamente activo de forma militar."
+        },
+        {
+          "letter": "C",
+          "text": "En el año 1897.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento indica textualmente: 'hasta que fue abandonado de forma militar en el año 1897' por las fuerzas de la frontera."
+        },
+        {
+          "letter": "D",
+          "text": "En el año 1928.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1928 se restauró como parque histórico y civil nacional de Rocha, habiendo dejado de operar militarmente mucho antes de Santa Teresa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fecha exacta de abandono militar del fuerte de Santa Teresa figura de manera directa en el tramo final del pasaje de Santa Teresa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "¿Por iniciativa de qué arqueólogo uruguayo y en qué año se restauró el forte de Santa Teresa de Rocha como parque histórico nacional?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del general Pedro de Cevallos en el año 1762.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cevallos conquistó de forma armada las obras militares coloniales inconclusas en 1762; no era arqueólogo ni restaurador civil de parque nacional en 1928."
+        },
+        {
+          "letter": "B",
+          "text": "Del arqueólogo Horacio Arredondo en el año 1928.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto indica de manera textual explícita en su cierre: 'siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'."
+        },
+        {
+          "letter": "C",
+          "text": "Del botánico Ramón Collazo en el año 1908.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ramón Collazo da nombre al Teatro de Verano del Parque Rodó de Montevideo en el año 1908 colonial de Carnaval, ajeno a los monumentos de Rocha."
+        },
+        {
+          "letter": "D",
+          "text": "Del historiador de dunas de Cabo Polonio de Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fuerte y parque nacional de Santa Teresa de Rocha se restauró por iniciativa de Arredondo de forma arqueológica civil, ajena a Cabo Polonio de Maldonado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nombre del arqueólogo restaurador de Santa Teresa y el año civil figuran de manera directa al final del pasaje de Santa Teresa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Evaluá críticamente la siguiente afirmación formulada por un alumno del liceo: 'El Carnaval uruguayo actual es un producto exclusivamente colonial español, ya que las murgas y el concurso oficial nacieron de forma íntegra bajo la administración del cabildo de Montevideo en el siglo XVIII'. ¿Cuál es la invalidez fáctica de la afirmación del alumno basándote únicamente en la información del texto de Carnaval?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia del Carnaval uruguayo: 'El Carnaval uruguayo posee raíces históricas que se remontan a la época colonial. El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761, cuando el cabildo de la ciudad autorizó tímidamente bailes de máscaras y juegos de agua. Sin embargo, fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual. En el año 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, y en 1908 nació de manera formal el concurso oficial de agrupaciones carnavalescas en el Teatro de Verano Ramón Collazo del Parque Rodó. La murga rioplatense, por ejemplo, tiene su origen en la murga gaditana \"La Gaditana que se va\", una compañía de zarzuela que desembarcó en el puerto de Montevideo en el año 1909'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación contradice el texto de forma literal: el cabildo colonial de Montevideo solo autorizó de manera tímida bailes de máscaras y juegos de agua en 1761, mientras que la fisonomía actual del Carnaval se debe a la llegada masiva de inmigrantes italianos y españoles a fines del siglo XIX, naciendo el concurso oficial de murgas en el siglo XX (años 1908 y 1909 respectivamente).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La afirmación del alumno es fácticamente inválida frente a los datos textuales de Carnaval. Las murgas y concurso oficial son hitos modernos de principios del siglo XX (1908 y 1909), impulsados por la oleada inmigratoria decimonónica, y exentos de nexos con el cabildo colonial del setecientos de Carnaval."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta dado que el cabildo colonial de Montevideo poseía una murga de zarzuela municipal oficial en 1761.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sitúa la zarzuela y origen de murga en 1909, más de un siglo después del cabildo original de 1761 de Carnaval."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es inválida porque en el cabildo colonial de Montevideo se hablaba exclusivamente portugués de Rivera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo español montevideano colonial operaba en español, pero esta afirmación no es un dato de Carnaval provisto en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta ya que Ramón Collazo era el presidente de la junta departamental del cabildo en el año 1761.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ramón Collazo da nombre al Teatro de Verano inaugurado de forma formal en el siglo XX (1908) según el texto de Carnaval."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El examen de la verdad literal desmantela las falsas interpretaciones históricas. Confrontar las fechas y sucesos textuales del Carnaval uruguayo permite verificar la invalidez de la afirmación del alumno de Carnaval.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.66,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Evaluá de forma crítica la siguiente afirmación comercial: 'Uruguay es un gran exportador internacional de yerba mate producida en los campos de Tacuarembó, gracias a que el clima templado costero del país favorece extensas plantaciones agroindustriales locales de Ilex paraguariensis'. ¿Cuál es el veredicto de veracidad de la afirmación basándote en la información explícita del texto de mate?",
+      "context": "Leé atentamente el siguiente fragmento descriptivo sobre el consumo de mate en Uruguay: 'El mate (infusión de hojas de yerba mate, Ilex paraguariensis) constituye el principal hábito sociocultural cohesivo de la sociedad uruguaya, registrando el consumo per cápita de yerba más alto del mundo con un promedio de 8 kilogramos anuales por habitante según estudios del año 2021 de la UdelaR. A diferencia de otros países de la región rioplatense donde el mate se consume de forma predominantemente hogareña, en Uruguay se caracteriza por ser un hábito móvil e individual-compartido: el habitante uruguayo traslada de manera cotidiana su termo de agua caliente bajo el brazo y el mate en la mano por la vía pública, la rambla, plazas, liceos y centros de trabajo. La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur), ya que el territorio uruguayo carece de cultivos comerciales activos de yerba mate debido a las heladas invernales del clima templado pampeano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es verdadera dado que el texto sitúa los cultivos de yerba mate en las dunas de Rocha y Salto de forma agroindustrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto detalla que no existen cultivos comerciales activos de yerba en el territorio uruguayo por motivos climáticos."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es falsa en todos sus puntos textuales: Uruguay carece de cultivos comerciales activos de yerba mate por las heladas invernales del clima templado pampeano, siendo la yerba consumida mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur).",
+          "is_correct": true,
+          "feedback": "¡Correcto! De acuerdo con los datos textuales de mate, Uruguay no exporta yerba nativa; importa yerba brasileña debido a que las heladas invernales del clima nacional vetan los cultivos agroindustriales activos en el país de yerba mate."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es verdadera ya que el promedio de 8 kilogramos anuales de la UdelaR de 2021 se destina a la exportación al Mercosur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio de 8 kilogramos de la UdelaR de 2021 es de consumo individual interno de los habitantes del país de yerba mate, no de exportación mercantil."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es falsa únicamente porque el nombre científico de la planta es originario de las selvas de Cabo Polonio de Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre botánico es Ilex paraguariensis y el texto no sitúa cultivos o selvas botánicas en Cabo Polonio de Maldonado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La verificación de datos denotativos textuales descarta los mitos comerciales agropecuarios. Confrontar el texto de mate de yerba demuestra que Uruguay importa de forma total el insumo debido a limitaciones climáticas de heladas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.64,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Evaluá de forma crítica este informe geográfico de Secundaria: 'Los Bañados del Este de Rocha abarcan dunas costeras de dunas de Cabo Polonio de hasta 200.000 kilómetros de extensión, donde habitan murgas de aves de más de 300 especies nativas terrestres que nunca abandonan los ombúes centenarios de Castillos'. ¿Qué errores de dato literal o inconsistencias numéricas y de nomenclatura con respecto al texto de Bañados del Este comete de manera indudable el informe de Secundaria?",
+      "context": "Leé con atención el siguiente fragmento científico-expositivo sobre geografía física y biodiversidad de Uruguay: 'Los Bañados del Este, declarados Reserva de la Biosfera por la Unesco en el año 1976, abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres. Este humedal subtropical constituye un refugio de biodiversidad crucial para aves migratorias, registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera. Entre las especies vegetales dominantes destaca el monte de ombúes, una formación arbórea nativa singular que crece a orillas de la laguna de Castillos en Rocha, con ejemplares centenarios cuyo tronco alcanza perímetros basales de hasta 15 metros de diámetro de acuerdo con el inventario botánico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta ya que la Unesco declaró a las murgas terrestres como reserva botánica oficial de la laguna de Castillos en 1976.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto de Bañados del Este de la Unesco no asocia murgas a las aves migratorias norteñas ni altera las cifras botánicas de Castillos de forma satírica."
+        },
+        {
+          "letter": "B",
+          "text": "El informe altera drásticamente los datos textuales: confunde 200.000 hectáreas con 'kilómetros', eleva de forma falaz las 120 especies de aves migratorias del norte a '300 especies nativas terrestres', y erróneamente afirma que 'nunca abandonan' cuando en verdad el texto expone que son 'aves migratorias que llegan desde el hemisferio norte cada primavera'.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El informe escolar comete graves desvíos de dato literal de Bañados del Este. Altera la unidad de medida (hectáreas por kilómetros de Bañados del Este), infla la biodiversidad de avifauna (120 por 300 de Bañados del Este), niega el carácter dinámico migratorio estacional norteño de la avifauna y asocia términos de Carnaval ('murgas') a la zoología de Bañados del Este."
+        },
+        {
+          "letter": "C",
+          "text": "El único error del informe es el año de declaración de la Unesco de Bañados del Este, que fue en 1908 colonial de Carnaval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El año de declaración de la Unesco de Bañados del Este fue 1976 y está expresado correctamente en el texto base de Bañados del Este; el error reside en las unidades, número de avifauna y el hábito migratorio norteño de Bañados del Este."
+        },
+        {
+          "letter": "D",
+          "text": "El informe de Secundaria es impecable y goza de gran validez científica para estudios de geografía física nacional de la UdelaR.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desvíos numéricos de hectáreas, especies de avifauna migratoria norteña y conducta animal invalidan de forma total su rigor de Secundaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia de lectura crítica y literal de Secundaria exige el cotejo minucioso de las unidades físicas y cifras de biodiversidad de Bañados del Este. Identificar las distorsiones de datos de Bañados del Este resguarda el rigor explicativo y conceptual de la geografía física nacional de Secundaria de Bañados del Este.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.61,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Evaluá de forma crítica la siguiente síntesis histórica del fuerte de Santa Teresa redactada por un estudiante de Bachillerato: 'El fuerte de Santa Teresa de Rocha fue erigido en piedra de granito rosado por arqueólogos uruguayos de Secundaria en el año 1897 para resistir de forma armada la conquista española de Cevallos'. ¿Qué errores de dato cronológico e inversión de causas y roles militares de época históricos con respecto al texto de Santa Teresa comete de manera indudable la síntesis de Secundaria?",
+      "context": "Leé con atención el siguiente fragmento sobre la historia militar y fronteriza de Uruguay: 'El Fortín de Santa Teresa, ubicado en el departamento de Rocha, es un hito de la arquitectura militar colonial. Su construcción fue iniciada por los ingenieros de la corona portuguesa en el año 1762, como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750. Sin embargo, ese mismo año de 1762, las fuerzas españolas al mando de don Pedro de Cevallos conquistaron de forma armada las obras inconclusas, asumiendo los ingenieros de la corona española la finalización y rediseño pentagonal del fuerte de piedra granítica rosada en el año 1775. El fuerte de Santa Teresa resistió múltiples asedios históricos hasta que fue abandonado de forma militar en el año 1897, siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La síntesis de Secundaria es correcta dado que en 1897 las fuerzas militares nacionales derrotaron de forma definitiva a los ingenieros de la corona española de Cevallos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1897 el fuerte fue abandonado de forma militar, ajeno a batallas contra Cevallos del setecientos colonial de Santa Teresa."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante comete graves desvíos históricos y de datación literal: invierte los roles de obra (fue iniciado por portugueses en 1762, no por arqueólogos de Secundaria), falsea el año de la conquista de Cevallos (ocurrida en 1762, no en 1897) y confunde el año de abandono militar definitivo (1897) con el de la edificación de piedra original de Santa Teresa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El resumen de Secundaria descalabra el mapa cronológico de Santa Teresa de Rocha. Fusiona de manera inadecuada hitos separados por siglos: asocia a los arqueólogos restauradores modernos de parque nacional de 1928 (Arredondo) como constructores militares del fuerte en el setecientos, asocia la conquista armada de Cevallos de 1762 al año de abandono militar final de 1897, e invierte la autoría de obra portuguesa original de Santa Teresa."
+        },
+        {
+          "letter": "C",
+          "text": "El único error del estudiante es el año de declaración de parque nacional de Santa Teresa, que fue en 1750 colonial del Tratado de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1750 fue el año del Tratado de Madrid que delimitaba fronteras de Santa Teresa de Rocha, ajeno a restauraciones de parques nacionales modernos del siglo XX de Santa Teresa."
+        },
+        {
+          "letter": "D",
+          "text": "La síntesis histórica de Secundaria es perfecta y goza de gran prestigio académico para el ingreso a la academia militar del país de Santa Teresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las distorsiones de fechas, roles constructores coloniales e invasiones de Santa Teresa de Rocha descalifican de forma total el rigor histórico escolar de la síntesis de Secundaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asimilación de la lectura literal e histórica de Secundaria exige el encadenamiento correcto de las causas y dataciones cronológicas de Santa Teresa de Rocha. Desentrañar las inversiones temporales y de roles de constructores y asediadores de Santa Teresa de Rocha resguarda la veracidad cognitiva de la historia nacional de Secundaria de Santa Teresa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

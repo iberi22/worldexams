@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.629Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la ecuación explícita que describe a una función lineal o afín de pendiente m e intersección con el eje vertical n?",
+      "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = mx + n",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es la ecuación de la recta en su forma pendiente-intersección con el eje y."
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = ax^2 + bx + c",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la expresión general de una función cuadrática de segundo grado."
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = m/x + n",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función racional, no lineal o afín."
+        },
+        {
+          "letter": "D",
+          "text": "f(x) = k^x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función exponencial de base constante, no una recta afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La representación explícita de cualquier función afín en el plano cartesiano es f(x) = mx + n, donde m es la pendiente y n es la ordenada en el origen.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "Si una recta afín tiene pendiente m = -3, ¿cómo es su comportamiento gráfico en el plano cartesiano al aumentar la variable independiente x?",
+      "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente decreciente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser la pendiente negativa (m < 0), la función lineal disminuye de manera constante a medida que x se desplaza a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ser creciente, la pendiente m debe ser estrictamente positiva (m > 0)."
+        },
+        {
+          "letter": "C",
+          "text": "Es una línea recta completamente horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta horizontal posee una pendiente igual a cero (m = 0)."
+        },
+        {
+          "letter": "D",
+          "text": "Es una línea completamente vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las líneas verticales no representan funciones en el sentido de mapeo real de valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo de la pendiente m indica el comportamiento del crecimiento de la función. Si m < 0, la función afín es estrictamente decreciente en todo su dominio real.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el punto de intersección con el eje vertical y de la función afín f(x) = 2x - 7?",
+      "context": "En El Alto, Marisol del Colegio Nacional El Alto analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -7)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando f(0) = 2(0) - 7 = -7, obtenemos las coordenadas exactas de cruce (0, -7)."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del término independiente es negativo, por lo que el cruce es en -7 y no en 7."
+        },
+        {
+          "letter": "C",
+          "text": "(3.5, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este punto es la intersección con el eje horizontal x (donde f(x) = 0), no con el eje y."
+        },
+        {
+          "letter": "D",
+          "text": "(-7, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de las coordenadas x e y del punto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección de una función con el eje y se calcula haciendo x = 0. f(0) = 2(0) - 7 = -7. Por tanto, el punto es (0, -7).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "Un taxi en El Alto cobra según la función afín de costo de transporte: C(x) = 4x + 8 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "20 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "8 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "40 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 4*(5) + 8 = 20 + 8 = 28 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "Un taxi en Sucre cobra según la función afín de costo de transporte: C(x) = 5x + 10 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Tarija, Sonia del Colegio Nacional Bolivar analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "25 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "10 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "50 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 5*(5) + 10 = 25 + 10 = 35 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "Un taxi en Tarija cobra según la función afín de costo de transporte: C(x) = 6x + 12 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "30 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "12 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "60 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 6*(5) + 12 = 30 + 12 = 42 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "Un taxi en Oruro cobra según la función afín de costo de transporte: C(x) = 7x + 14 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Potosí, Yolanda del Colegio Nacional San Luis analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "49 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "35 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "14 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "70 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 7*(5) + 14 = 35 + 14 = 49 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "Un taxi en Potosí cobra según la función afín de costo de transporte: C(x) = 8x + 16 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Cobija, Jaime del Colegio Nacional Trinidad analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "40 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "16 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "80 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 8*(5) + 16 = 40 + 16 = 56 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "Un taxi en Cobija cobra según la función afín de costo de transporte: C(x) = 9x + 18 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "45 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "18 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "90 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 9*(5) + 18 = 45 + 18 = 63 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "Un taxi en Trinidad cobra según la función afín de costo de transporte: C(x) = 10x + 20 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "50 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "20 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "100 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 10*(5) + 20 = 50 + 20 = 70 BOB (Bs).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "Un taxi en La Paz cobra según la función afín de costo de transporte: C(x) = 11x + 22 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "77 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "55 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "22 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "110 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 11*(5) + 22 = 55 + 22 = 77 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "Un taxi en Santa Cruz cobra según la función afín de costo de transporte: C(x) = 12x + 24 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "60 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "24 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "120 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 12*(5) + 24 = 60 + 24 = 84 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "Un taxi en Cochabamba cobra según la función afín de costo de transporte: C(x) = 13x + 26 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En El Alto, Marisol del Colegio Nacional El Alto analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "91 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "65 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "26 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "130 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 13*(5) + 26 = 65 + 26 = 91 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "Un taxi en El Alto cobra según la función afín de costo de transporte: C(x) = 14x + 28 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "98 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "70 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "28 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "140 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 14*(5) + 28 = 70 + 28 = 98 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "Un taxi en Sucre cobra según la función afín de costo de transporte: C(x) = 15x + 30 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Tarija, Sonia del Colegio Nacional Bolivar analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "105 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "75 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "30 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "150 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 15*(5) + 30 = 75 + 30 = 105 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "Un taxi en Tarija cobra según la función afín de costo de transporte: C(x) = 16x + 32 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "112 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "80 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "32 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "160 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 16*(5) + 32 = 80 + 32 = 112 BOB (Bs).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "Un taxi en Oruro cobra según la función afín de costo de transporte: C(x) = 17x + 34 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Potosí, Yolanda del Colegio Nacional San Luis analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "119 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "85 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "34 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "170 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 17*(5) + 34 = 85 + 34 = 119 BOB (Bs).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "Un taxi en Potosí cobra según la función afín de costo de transporte: C(x) = 18x + 36 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Cobija, Jaime del Colegio Nacional Trinidad analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "126 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "90 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "36 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "180 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 18*(5) + 36 = 90 + 36 = 126 BOB (Bs).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Un taxi en Cobija cobra según la función afín de costo de transporte: C(x) = 19x + 38 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "133 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "95 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "38 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "190 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 19*(5) + 38 = 95 + 38 = 133 BOB (Bs).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "Un taxi en Trinidad cobra según la función afín de costo de transporte: C(x) = 20x + 40 BOB (Bs), donde x representa los kilómetros recorridos. ¿Cuánto debe pagar por un recorrido de 5 kilómetros?",
+      "context": "En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "140 BOB (Bs)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
+        },
+        {
+          "letter": "B",
+          "text": "100 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "40 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "200 BOB (Bs)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 20*(5) + 40 = 100 + 40 = 140 BOB (Bs).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
