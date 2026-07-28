@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-25-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.373Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "Si el radio del terreno es de 10 metros, ¿cuál es el área aproximada del terreno? (Use π ≈ 3.14)",
+      "context": "Un agricultor en Zarcero desea calcular el área de un terreno circular para sembrar hortalizas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la mitad de la circunferencia, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la circunferencia del círculo (2πr)."
+        },
+        {
+          "letter": "C",
+          "text": "314 m²",
+          "is_correct": true,
+          "feedback": "¡Correcto! El área se calcula como π * r². 3.14 * 10² = 314."
+        },
+        {
+          "letter": "D",
+          "text": "100 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por el valor de π."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular el área de un círculo, aplicamos la fórmula A = π * r². Sustituyendo los valores: A ≈ 3.14 * (10 m)² = 3.14 * 100 m² = 314 m².\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.9,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "Si depositan ₡500,000 a una tasa de interés simple del 6% anual, ¿cuánto dinero en intereses habrán ganado al cabo de 3 años?",
+      "context": "Una familia en Heredia está analizando el crecimiento de sus ahorros en una cuenta con interés simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₡30,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el interés de un solo año."
+        },
+        {
+          "letter": "B",
+          "text": "₡90,000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Interés = Principal * tasa * tiempo. 500,000 * 0.06 * 3 = 90,000."
+        },
+        {
+          "letter": "C",
+          "text": "₡590,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el monto total (capital + interés), no solo el interés."
+        },
+        {
+          "letter": "D",
+          "text": "₡15,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la tasa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El interés simple se calcula multiplicando el capital inicial por la tasa de interés y por el tiempo: I = C * i * t. I = 500,000 * 0.06 * 3 = 90,000 colones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "Un uniforme cuesta ₡25,000 y tiene un 20% de descuento. ¿Cuál es el precio final del uniforme?",
+      "context": "Una tienda en San José ofrece un descuento en uniformes escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₡5,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el monto del descuento, no el precio final."
+        },
+        {
+          "letter": "B",
+          "text": "₡20,000",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 20% de 25,000 es 5,000. 25,000 - 5,000 = 20,000."
+        },
+        {
+          "letter": "C",
+          "text": "₡22,500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste un 10% de descuento."
+        },
+        {
+          "letter": "D",
+          "text": "₡18,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta o en el cálculo del porcentaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos el valor del descuento: 25,000 * 0.20 = 5,000. Luego, restamos ese valor al precio original: 25,000 - 5,000 = 20,000 colones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.82,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "El vehículo consume 12 litros de gasolina para recorrer 150 km. ¿Cuántos litros necesitará para recorrer 450 km si mantiene el mismo consumo?",
+      "context": "Se analiza el rendimiento de combustible de un vehículo que viaja de San José a Liberia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo duplicaste el consumo original."
+        },
+        {
+          "letter": "B",
+          "text": "36 litros",
+          "is_correct": true,
+          "feedback": "¡Correcto! 450 es el triple de 150, por lo que consume el triple: 12 * 3 = 36."
+        },
+        {
+          "letter": "C",
+          "text": "30 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "48 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el cuádruple del consumo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos una regla de tres simple directa: (12 L / 150 km) = (x L / 450 km). Despejando x: x = (12 * 450) / 150 = 12 * 3 = 36 litros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "Si la rampa sube 2 metros de altura por cada 10 metros de distancia horizontal, ¿cuál es la pendiente de la rampa expresada como porcentaje?",
+      "context": "Un arquitecto en Cartago diseña una rampa con una pendiente constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 2 entre 100 en lugar de 10."
+        },
+        {
+          "letter": "B",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la distancia con el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "20%",
+          "is_correct": true,
+          "feedback": "¡Correcto! Pendiente = (Altura / Base) * 100. (2 / 10) * 100 = 20%."
+        },
+        {
+          "letter": "D",
+          "text": "5%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 10 entre 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pendiente se define como la razón entre el desplazamiento vertical y el horizontal. m = 2/10 = 0.2. Para expresarlo como porcentaje, multiplicamos por 100: 0.2 * 100 = 20%.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.77,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la medida de la hipotenusa de un triángulo rectángulo cuyos catetos miden 6 cm y 8 cm?",
+      "context": "Un estudiante revisa las propiedades de los triángulos rectángulos para un examen de bachillerato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los catetos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! √(6² + 8²) = √(36 + 64) = √100 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste correctamente el teorema de Pitágoras."
+        },
+        {
+          "letter": "D",
+          "text": "100 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste calcular la raíz cuadrada final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos el Teorema de Pitágoras: a² + b² = c². Sustituyendo: 6² + 8² = c² => 36 + 64 = 100. Por lo tanto, c = √100 = 10 cm.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "Las ventas de los últimos 5 días fueron: ₡40k, ₡55k, ₡45k, ₡60k y ₡50k. ¿Cuál es el promedio (media aritmética) de las ventas diarias?",
+      "context": "Un comerciante en el Mercado Central de San José analiza sus ventas diarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₡45,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de la venta del tercer día."
+        },
+        {
+          "letter": "B",
+          "text": "₡50,000",
+          "is_correct": true,
+          "feedback": "¡Correcto! (40+55+45+60+50)/5 = 250/5 = 50."
+        },
+        {
+          "letter": "C",
+          "text": "₡55,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma o la división."
+        },
+        {
+          "letter": "D",
+          "text": "₡52,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media aritmética se calcula sumando todos los valores y dividiendo el resultado entre la cantidad de datos. Suma = 250,000. Media = 250,000 / 5 = 50,000 colones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.72,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "La edad de María es el doble que la de Juan. Si la suma de sus edades es 45 años, ¿qué edad tiene Juan?",
+      "context": "Resolución de ecuaciones lineales en el contexto de un problema de edades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la edad de María."
+        },
+        {
+          "letter": "B",
+          "text": "15 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! x + 2x = 45 => 3x = 45 => x = 15."
+        },
+        {
+          "letter": "C",
+          "text": "20 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la condición de la suma ni del doble."
+        },
+        {
+          "letter": "D",
+          "text": "10 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al plantear o resolver la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la ecuación donde x es la edad de Juan: x + 2x = 45. Sumamos términos semejantes: 3x = 45. Dividimos entre 3: x = 15. Por lo tanto, Juan tiene 15 años.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "En una tómbola hay 100 números. 10 de ellos tienen premio. ¿Cuál es la probabilidad de sacar un número que NO tenga premio al primer intento?",
+      "context": "Probabilidad en un sorteo local de una escuela en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ganar un premio."
+        },
+        {
+          "letter": "B",
+          "text": "0.90",
+          "is_correct": true,
+          "feedback": "¡Correcto! Hay 90 números sin premio de 100 totales. 90/100 = 0.9."
+        },
+        {
+          "letter": "C",
+          "text": "0.09",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división por 100."
+        },
+        {
+          "letter": "D",
+          "text": "0.50",
+          "is_correct": false,
+          "feedback": "Incorrecto. No refleja la proporción real del sorteo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad de que un evento no ocurra es (casos no favorables / total de casos). Números sin premio = 100 - 10 = 90. P = 90/100 = 0.9 o 90%.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "Si el tanque tiene un radio de 2 metros y una altura de 5 metros, ¿cuál es su volumen aproximado? (Use π ≈ 3.14)",
+      "context": "Un ingeniero en Liberia calcula el volumen de un tanque de agua cilíndrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 m³",
+          "is_correct": true,
+          "feedback": "¡Correcto! V = π * r² * h = 3.14 * 2² * 5 = 3.14 * 4 * 5 = 62.8."
+        },
+        {
+          "letter": "C",
+          "text": "20 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo las dimensiones sin π ni el cuadrado del radio."
+        },
+        {
+          "letter": "D",
+          "text": "125.6 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro en lugar del radio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cilindro se calcula con la fórmula V = π * r² * h. Sustituyendo: V ≈ 3.14 * (2 m)² * 5 m = 3.14 * 4 m² * 5 m = 62.8 m³.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "Si el área del piso es de 64 metros cuadrados, ¿cuánto mide el lado del piso?",
+      "context": "Un decorador en San José está colocando baldosas en un piso cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el área por 2."
+        },
+        {
+          "letter": "B",
+          "text": "16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el área por 4."
+        },
+        {
+          "letter": "C",
+          "text": "8 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! El área de un cuadrado es L². √64 = 8."
+        },
+        {
+          "letter": "D",
+          "text": "6.4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moviste el punto decimal sin sentido matemático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el lado de un cuadrado a partir de su área, calculamos la raíz cuadrada del área: L = √A = √64 = 8 metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.62,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "El costo de un viaje es de ₡800 fijos más ₡600 por cada kilómetro recorrido. Si 'x' son los kilómetros, ¿cuál es la función que representa el costo 'C'?",
+      "context": "Se estudia la función lineal que describe el costo de un servicio de taxi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(x) = 800x + 600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asignaste el costo variable al fijo."
+        },
+        {
+          "letter": "B",
+          "text": "C(x) = 600x + 800",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo variable (por km) multiplica a x, y se suma el cargo fijo."
+        },
+        {
+          "letter": "C",
+          "text": "C(x) = 1400x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el cargo fijo y el variable incorrectamente."
+        },
+        {
+          "letter": "D",
+          "text": "C(x) = 600 / x + 800",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es lineal directa, no inversa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función lineal de costo tiene la forma f(x) = mx + b, donde 'm' es el costo unitario (pendiente) y 'b' el costo fijo. Así, C(x) = 600x + 800.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la distancia entre los puntos A y B?",
+      "context": "Un topógrafo mide la distancia entre dos puntos A(1, 2) y B(4, 6) en un plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la diferencia en las coordenadas X."
+        },
+        {
+          "letter": "B",
+          "text": "4 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la diferencia en las coordenadas Y."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! √((4-1)² + (6-2)²) = √(3² + 4²) = √25 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "7 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diferencias en lugar de aplicar la raíz de la suma de cuadrados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la fórmula de distancia: d = √((x₂ - x₁)² + (y₂ - y₁)²). d = √((4 - 1)² + (6 - 2)²) = √(3² + 4²) = √(9 + 16) = √25 = 5 unidades.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "Si x + y = 10 y 2x - y = 8, ¿cuál es el valor de 'x'?",
+      "context": "Se resuelve un sistema de ecuaciones para determinar el precio de dos productos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface las ecuaciones originales."
+        },
+        {
+          "letter": "B",
+          "text": "x = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando las ecuaciones: 3x = 18 => x = 6."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el sistema."
+        },
+        {
+          "letter": "D",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resolución por eliminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar el método de eliminación sumando las dos ecuaciones: (x + y) + (2x - y) = 10 + 8. Esto nos da 3x = 18. Dividiendo entre 3, obtenemos x = 6.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "Si la cantidad de sustancia se reduce a la mitad cada 10 años, ¿qué porcentaje de la muestra original quedará después de 30 años?",
+      "context": "Un biólogo estudia el decaimiento radioactivo en una muestra de suelo de un volcán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el porcentaje después de solo 10 años."
+        },
+        {
+          "letter": "B",
+          "text": "25%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el porcentaje después de 20 años."
+        },
+        {
+          "letter": "C",
+          "text": "12.5%",
+          "is_correct": true,
+          "feedback": "¡Correcto! 100% -> 50% -> 25% -> 12.5%. Son 3 periodos de vida media."
+        },
+        {
+          "letter": "D",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del decaimiento exponencial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada 10 años la cantidad se divide por 2. En 30 años hay 3 periodos: (1/2) * (1/2) * (1/2) = 1/8. 1/8 expresado en porcentaje es 12.5%.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.52,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor de 'x' en la ecuación 10^x = 1000?",
+      "context": "Uso de logaritmos para resolver ecuaciones exponenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10^1 = 10."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10^2 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! 10 * 10 * 10 = 1000."
+        },
+        {
+          "letter": "D",
+          "text": "x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10^4 = 10000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El exponente al que hay que elevar 10 para obtener 1000 es 3, ya que 10 * 10 * 10 = 1000. También se puede ver como log₁₀(1000) = 3.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "Si el estudiante está a 30 metros de la base del faro y lo observa con un ángulo de elevación de 45°, ¿cuál es la altura del faro?",
+      "context": "Un estudiante de secundaria en Puntarenas analiza el ángulo de elevación hacia un faro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la razón trigonométrica."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un triángulo de 45°, los catetos son iguales (tan 45° = 1)."
+        },
+        {
+          "letter": "C",
+          "text": "45 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el ángulo con la medida del lado."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo trigonométrico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la función tangente: tan(θ) = opuesto / adyacente. tan(45°) = h / 30. Como tan(45°) = 1, entonces 1 = h / 30, lo que implica que h = 30 metros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "Dada la función cuadrática f(x) = -2x² + 4x + 1, ¿cuál es la orientación de la parábola y su vértice?",
+      "context": "Análisis de la concavidad de una función cuadrática en economía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cóncava hacia arriba, vértice en (1, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente de x² es negativo, por lo que abre hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Cóncava hacia abajo, vértice en (1, 3)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El coeficiente -2 indica concavidad hacia abajo. h = -4/(2*-2) = 1. k = f(1) = 3."
+        },
+        {
+          "letter": "C",
+          "text": "Cóncava hacia abajo, vértice en (-1, -5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de las coordenadas del vértice."
+        },
+        {
+          "letter": "D",
+          "text": "Cóncava hacia arriba, vértice en (-1, -5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores tanto en concavidad como en el vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como el coeficiente de x² es a = -2 (negativo), la parábola es cóncava hacia abajo. El valor x del vértice es h = -b / 2a = -4 / (2 * -2) = 1. El valor y es f(1) = -2(1)² + 4(1) + 1 = 3.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor de x que satisface la ecuación log₃(2x - 1) = 2?",
+      "context": "Un programador en Heredia analiza la complejidad de un algoritmo exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar la ecuación exponencial resultante."
+        },
+        {
+          "letter": "B",
+          "text": "x = 4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3² = 2x - 1 => 9 = 2x - 1 => 10 = 2x => x = 5."
+        },
+        {
+          "letter": "D",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error grave en la aplicación de la definición de logaritmo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicamos la definición de logaritmo: base^resultado = argumento. 3² = 2x - 1. Entonces 9 = 2x - 1. Sumamos 1: 10 = 2x. Dividimos entre 2: x = 5.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.42,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "Si un conjunto de datos tiene una varianza de 25, ¿cuál es su desviación estándar?",
+      "context": "Un estadístico en San José analiza la varianza de un conjunto de datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "625",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste al cuadrado en lugar de calcular la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "12.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por 2 en lugar de calcular la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! La desviación estándar es la raíz cuadrada de la varianza. √25 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La varianza positiva implica una desviación positiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición, la desviación estándar (σ) es la raíz cuadrada positiva de la varianza (σ²). Por lo tanto, si σ² = 25, entonces σ = √25 = 5.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.38,
+      "bundle_id": "CR-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

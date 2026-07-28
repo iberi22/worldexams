@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.627Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de expandir el producto notable conocido como binomio al cuadrado (a + b)^2?",
+      "context": "En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a^2 + 2ab + b^2",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cuadrado de un binomio es igual al cuadrado del primer término, más el doble producto del primero por el segundo, más el cuadrado del segundo."
+        },
+        {
+          "letter": "B",
+          "text": "a^2 + b^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término del doble producto cruzado (2ab), un error algebraico clásico."
+        },
+        {
+          "letter": "C",
+          "text": "a^2 - 2ab + b^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el desarrollo de (a - b)^2, no de (a + b)^2."
+        },
+        {
+          "letter": "D",
+          "text": "a^2 + ab + b^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por 2 el término cruzado de los factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado de factorizar la diferencia de cuadrados perfectos x^2 - y^2?",
+      "context": "En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x - y)(x + y)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos."
+        },
+        {
+          "letter": "B",
+          "text": "(x - y)^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2."
+        },
+        {
+          "letter": "C",
+          "text": "(x + y)^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2."
+        },
+        {
+          "letter": "D",
+          "text": "x^2 - 2xy + y^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de productos notables, la diferencia de cuadrados se descompone en el producto de binomios conjugados: (x - y)(x + y).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la factorización correcta del trinomio de la forma x^2 + 5x + 6?",
+      "context": "En El Alto, el alumno Marisol del Colegio Nacional El Alto simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 2)(x + 3)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Buscamos dos números que multiplicados den 6 y sumados den 5. Esos números son 2 y 3."
+        },
+        {
+          "letter": "B",
+          "text": "(x - 2)(x - 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de -2 y -3 es 6, pero la suma de ambos es -5, no 5."
+        },
+        {
+          "letter": "C",
+          "text": "(x + 1)(x + 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto es 5 y la suma es 6, lo cual no corresponde con el trinomio original."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 1)(x - 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste de forma errónea los signos y factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para factorizar x^2 + 5x + 6, buscamos dos números reales que multiplicados den 6 y sumados den 5. Estos son 2 y 3. Por lo tanto, la factorización es (x + 2)(x + 3).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 16) / (x^2 - 8x + 15)",
+      "context": "En Sucre, el alumno Walter del Colegio Nacional Junín simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 4) / (x - 3)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 4) / (x + 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 4)(x + 4) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 25) / (x^2 - 10x + 23)",
+      "context": "En Tarija, el alumno Sonia del Colegio Nacional Bolivar simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 5) / (x - 4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 5) / (x + 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 5)(x + 5) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 36) / (x^2 - 12x + 35)",
+      "context": "En Oruro, el alumno Ramiro del Colegio Nacional Potosí simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 6) / (x - 5)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 6) / (x + 6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 6)(x + 6) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 49) / (x^2 - 14x + 47)",
+      "context": "En Potosí, el alumno Yolanda del Colegio Nacional San Luis simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 7) / (x - 6)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 7) / (x + 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 7)(x + 7) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 64) / (x^2 - 16x + 63)",
+      "context": "En Cobija, el alumno Jaime del Colegio Nacional Trinidad simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 8) / (x - 7)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 8) / (x + 8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 8)(x + 8) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 81) / (x^2 - 18x + 79)",
+      "context": "En Trinidad, el alumno Marcela del Colegio Nacional Cobija simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 9) / (x - 8)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 9) / (x + 9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 9)(x + 9) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 100) / (x^2 - 20x + 99)",
+      "context": "En La Paz, el alumno Grover del Colegio Nacional Ayacucho simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 10) / (x - 9)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 10) / (x + 10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 10)(x + 10) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 121) / (x^2 - 22x + 119)",
+      "context": "En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 11) / (x - 10)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 11) / (x + 11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 11)(x + 11) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 144) / (x^2 - 24x + 143)",
+      "context": "En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 12) / (x - 11)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 12) / (x + 12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 12)(x + 12) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 169) / (x^2 - 26x + 167)",
+      "context": "En El Alto, el alumno Marisol del Colegio Nacional El Alto simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 13) / (x - 12)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 13) / (x + 13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 13)(x + 13) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 196) / (x^2 - 28x + 195)",
+      "context": "En Sucre, el alumno Walter del Colegio Nacional Junín simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 14) / (x - 13)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 14) / (x + 14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 14)(x + 14) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 225) / (x^2 - 30x + 223)",
+      "context": "En Tarija, el alumno Sonia del Colegio Nacional Bolivar simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 15) / (x - 14)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 15) / (x + 15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 15)(x + 15) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 256) / (x^2 - 32x + 255)",
+      "context": "En Oruro, el alumno Ramiro del Colegio Nacional Potosí simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 16) / (x - 15)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 16) / (x + 16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 16)(x + 16) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 289) / (x^2 - 34x + 287)",
+      "context": "En Potosí, el alumno Yolanda del Colegio Nacional San Luis simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 17) / (x - 16)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 17) / (x + 17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 17)(x + 17) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 324) / (x^2 - 36x + 323)",
+      "context": "En Cobija, el alumno Jaime del Colegio Nacional Trinidad simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 18) / (x - 17)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 18) / (x + 18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 18)(x + 18) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 361) / (x^2 - 38x + 359)",
+      "context": "En Trinidad, el alumno Marcela del Colegio Nacional Cobija simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 19) / (x - 18)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 19) / (x + 19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 19)(x + 19) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Simplifique la fracción algebraica: (x^2 - 400) / (x^2 - 40x + 399)",
+      "context": "En La Paz, el alumno Grover del Colegio Nacional Ayacucho simplifica expresiones y fracciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 20) / (x - 19)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
+        },
+        {
+          "letter": "B",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 20) / (x + 20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 20)(x + 20) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

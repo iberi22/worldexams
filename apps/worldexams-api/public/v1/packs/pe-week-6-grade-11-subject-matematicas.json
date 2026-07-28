@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:40:18.479Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "Si se cumple que $x + 3 = 6$, ¿cuál es el valor correspondiente del número real $x$?",
+      "context": "Un estudiante de Cusco repasa temas de tema-w06 como parte de su preparación para postular a la UNALM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando obtenemos la diferencia exacta."
+        },
+        {
+          "letter": "B",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las constantes en lugar de restar."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al transponer términos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el valor de $x$, restamos 3 a ambos lados de la ecuación: $x = 6 - 3 = 3$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?",
+      "context": "Un estudiante de Piura repasa temas de tema-w06 como parte de su preparación para postular a la Udep.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \\cdot 1 = a$."
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar por -1 cambia el signo del número."
+        },
+        {
+          "letter": "D",
+          "text": "No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existe y es único en el conjunto real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición, el elemento neutro multiplicativo en los reales es el número 1, dado que cualquier número real de valor $a$ multiplicado por 1 da como resultado el mismo número.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Dada la ecuación lineal $2x + 4 = 14$, determine cuál de los siguientes pasos describe su resolución correcta.",
+      "context": "Un estudiante de Puno repasa temas de tema-w06 como parte de su preparación para postular a la PUCP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restar 4 a ambos miembros y luego dividir entre 2, obteniendo $x = 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta secuencia de pasos cancela el término independiente 4 y luego el coeficiente 2."
+        },
+        {
+          "letter": "B",
+          "text": "Dividir entre 2 antes de restar 4, lo cual es incorrecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si dividimos entre 2 primero, tendríamos que dividir también el término independiente 4."
+        },
+        {
+          "letter": "C",
+          "text": "Restar 2 a ambos miembros, lo cual es incorrecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número 2 está multiplicando a la variable, no sumando."
+        },
+        {
+          "letter": "D",
+          "text": "Sumar 4 a ambos lados de la ecuación lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe restar 4 a ambos lados para anular el término sumado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación, primero eliminamos la constante sumada aplicando la operación opuesta: $2x = 10$. Luego dividimos ambos lados entre el coeficiente de la variable: $x = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Si un artículo que cuesta S/ 300 se vende con un descuento del 50\\%, ¿cuánto se paga finalmente en soles por el artículo?",
+      "context": "Un estudiante de Ica repasa temas de tema-w06 como parte de su preparación para postular a la UNT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 150.00",
+          "is_correct": true,
+          "feedback": "Correcto. Se calculó el descuento restando el porcentaje correspondiente de la base."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 295.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descuento calculado de forma fija sin usar el porcentaje."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 450.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el descuento en lugar de restarlo de la base original."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 299.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en las operaciones aritméticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El descuento es de 50\\% de S/ 300, lo cual equivale a S/ 150.00. Restando esto del precio original, el pago final es de S/ 150.00.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Halle el valor de la expresión con potencias de base común: $E = \\frac{4^{b+2}}{4^{b}}$.",
+      "context": "Un estudiante de Ayacucho repasa temas de tema-w06 como parte de su preparación para postular a la UNSAAC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de simplificación al restar exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron base y exponente de forma equivocada."
+        },
+        {
+          "letter": "D",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por leyes de exponentes de la división de bases iguales, restamos el exponente del denominador del exponente del numerador: $4^{b+2-b} = 4^2 = 16$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Si se sabe que $2x < 6$, determine el conjunto solución expresado como intervalo real de la variable $x$.",
+      "context": "Un estudiante de Pucallpa repasa temas de tema-w06 como parte de su preparación para postular a la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\langle -\\infty, 3 \\rangle$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir entre el número positivo 2 se mantiene el sentido, resultando $x < 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\langle 3, +\\infty \\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$[ -\\infty, 3 ]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\langle -\\infty, 3 ]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser menor estricto ($<$), el extremo superior debe ser abierto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividimos ambos miembros de la inecuación lineal entre el número positivo 2: $x < 3$. En notación de intervalo abierto, esto corresponde a $\\langle -\\infty, 3 \\rangle$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Una persona en el mercado gasta S/ 18 en frutas y S/ 24 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?",
+      "context": "Un estudiante de Lima repasa temas de tema-w06 como parte de su preparación para postular a la UNPRG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 58",
+          "is_correct": true,
+          "feedback": "Correcto. Restamos el gasto total de la denominación del billete de pago."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 63",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de los consumos realizados."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 82",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se restó el gasto de las verduras."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 53",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético en la sustracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gasto total es la suma de ambos rubros: 18 + 24 = 42 soles. El vuelto es la diferencia respecto a 100: 100 - 42 = 58 soles.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Determine la solución de la inecuación lineal: $4x - 5 \\ge 11$.",
+      "context": "Un estudiante de Trujillo repasa temas de tema-w06 como parte de su preparación para postular a la UNSCH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 5 a ambos lados y luego dividir por el número positivo 4, el sentido se mantiene."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\le 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió incorrectamente el sentido de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió la desigualdad de no estricta a estricta."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división o en la simplificación numérica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumamos 5 a ambos miembros de la inecuación lineal: $4x \\ge 16$. Dividimos entre el número positivo 4: $x \\ge 4$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor absoluto de la diferencia de los números reales $2$ y $8$?",
+      "context": "Un estudiante de Huancayo repasa temas de tema-w06 como parte de su preparación para postular a la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "Correcto. El valor absoluto de la diferencia es el módulo de 2 menos la suma 2 más 6, que resulta en el valor absoluto de menos 6, es decir, 6."
+        },
+        {
+          "letter": "B",
+          "text": "$-6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las cantidades en lugar de restarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético en la resolución del módulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia es $2 - (8) = -6$. El valor absoluto de este resultado negativo es su opuesto positivo, es decir, $6$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Encuentre el valor de la variable $y$ si se sabe que cumple con la proporción lineal: $\\frac{y}{3} = \\frac{3}{6}$.",
+      "context": "Un estudiante de Chimbote repasa temas de tema-w06 como parte de su preparación para postular a la UNSA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.50$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$2.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación de los factores cruzados."
+        },
+        {
+          "letter": "C",
+          "text": "$0.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división de los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "$18.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron denominadores incorrectos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicamos por 3 en ambos lados de la ecuación de proporcionalidad para despejar $y$: $y = \\frac{3 \\cdot 3}{6} = \\frac{9}{6} = 1.50$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Calcule la suma de los coeficientes del polinomio lineal: $P(x) = 4x + 4$.",
+      "context": "Un estudiante de Tacna repasa temas de tema-w06 como parte de su preparación para postular a la UNALM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de coeficientes de un polinomio es equivalente a evaluarlo en $x = 1$, dando 4 más 4 igual a 8."
+        },
+        {
+          "letter": "B",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron los coeficientes en lugar de sumarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma aritmética errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $P(1) = 4(1) + 4 = 4 + 4 = 8$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Si el perímetro de un triángulo equilátero es de $6$ metros, ¿cuánto mide cada uno de sus lados en metros?",
+      "context": "Un estudiante de Huanuco repasa temas de tema-w06 como parte de su preparación para postular a la Udep.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 2."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el perímetro total al sumar dos lados de esta medida."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que generaría un perímetro menor al real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el perímetro es $6$ m, planteamos $3L = 6 \\Rightarrow L = 2$ m.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Halle el dominio de la función real: $f(x) = \\frac{1}{x - 6}$.",
+      "context": "Un estudiante de Chachapoyas repasa temas de tema-w06 como parte de su preparación para postular a la PUCP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R} - \\{6\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de x causa una división indeterminada por cero."
+        },
+        {
+          "letter": "C",
+          "text": "$\\langle 6, +\\infty \\rangle$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función también está perfectamente definida para valores reales menores que 6."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} - \\{-6\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al hallar el punto de discontinuidad del denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función racional esté definida en el campo real, el denominador debe ser diferente de cero: x - 6 \\ne 0 \\Rightarrow x \\ne 6.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.44,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 7y + 12$ cuando $y = 4$.",
+      "context": "Un estudiante de Arequipa repasa temas de tema-w06 como parte de su preparación para postular a la UNT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluando el polinomio para y = a resulta cero."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en los productos parciales."
+        },
+        {
+          "letter": "C",
+          "text": "$24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar o transponer los términos del trinomio."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético en las adiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituimos el valor de $y = 4$ en el polinomio cuadrático: P(4) = 4^2 - 7(4) + 12 = 0.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.41,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Resuelva el siguiente sistema lineal de dos ecuaciones simultáneas:\n$\\begin{cases} x + y = 6 \\\\ x - y = 2 \\end{cases}$\nIndique el valor obtenido para la variable $x$.",
+      "context": "Un estudiante de Chiclayo repasa temas de tema-w06 como parte de su preparación para postular a la UNSAAC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando ambas ecuaciones para eliminar la variable y."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al valor de la variable y, no de x."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de resolución al sustituir o sumar los miembros."
+        },
+        {
+          "letter": "D",
+          "text": "$5.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la diferencia de las variables, no al valor de x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar y: 2x = 8 \\Rightarrow x = 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor del discriminante ($\\Delta$) de la ecuación de segundo grado $x^2 - 8x + 15 = 0$?",
+      "context": "Un estudiante de Iquitos repasa temas de tema-w06 como parte de su preparación para postular a la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante se calcula como b^2 - 4ac."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar el término cuadrático del discriminante."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los signos del producto de los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó restar el término de la fórmula fundamental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 64 - 4(15) = 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Si se sabe que la suma de un número real y su inverso multiplicativo es igual a 4.25, determine el producto exacto de dichos números.",
+      "context": "Un estudiante de Cajamarca repasa temas de tema-w06 como parte de su preparación para postular a la UNPRG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número original, no el producto con su recíproco."
+        },
+        {
+          "letter": "C",
+          "text": "$0.25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al inverso aditivo o multiplicativo individual."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto es constante e independiente del número real elegido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición del inverso multiplicativo, el producto de un número no nulo y su recíproco siempre es igual a 1.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Halle el valor de la suma de las raíces de la ecuación cuadrática de coeficientes reales: $x^2 - 5x + 6 = 0$ utilizando las relaciones de Cardano-Vieta.",
+      "context": "Un estudiante de Huaraz repasa temas de tema-w06 como parte de su preparación para postular a la UNSCH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. Por Cardano-Vieta, la suma de raíces es -b/a."
+        },
+        {
+          "letter": "B",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó cambiar el signo del término lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al producto de las raíces."
+        },
+        {
+          "letter": "D",
+          "text": "$9.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético al aplicar la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax^2 + bx + c = 0, la suma de raíces es -b/a = 5.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $28$ metros.",
+      "context": "Un estudiante de Tarapoto repasa temas de tema-w06 como parte de su preparación para postular a la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$49$ metros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$45$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una configuración rectangular desigual subóptima."
+        },
+        {
+          "letter": "C",
+          "text": "$53$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo."
+        },
+        {
+          "letter": "D",
+          "text": "$24.5$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimación del área máxima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sean los lados x e y. El perímetro es 2(x+y) = 28 \\Rightarrow x+y = 14. El área máxima se da cuando x = y = 7, resultando en 49 metros cuadrados.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Si se define la función real $f(x) = x^2 - 8x + 21$, determine las coordenadas del vértice $(h, k)$ de su representación gráfica parabólica.",
+      "context": "Un estudiante de Moquegua repasa temas de tema-w06 como parte de su preparación para postular a la UNSA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. Completando cuadrados: f(x) = (x - a)^2 + b."
+        },
+        {
+          "letter": "B",
+          "text": "$(-4, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar la coordenada horizontal h."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, -5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al determinar la coordenada vertical k."
+        },
+        {
+          "letter": "D",
+          "text": "$(8, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coordenadas mal identificadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escribimos la función como: f(x) = (x - 4)^2 + 5. En esta forma, el vértice es (4, 5).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

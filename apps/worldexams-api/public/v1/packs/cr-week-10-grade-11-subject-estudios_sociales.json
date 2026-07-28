@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "estudios-sociales",
+    "country": "cr",
+    "pack_id": "cr-week-10-grade-11-subject-estudios_sociales",
+    "generated_at": "2026-07-28T22:41:05.349Z"
+  },
+  "questions": [
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es un objetivo central o característica de Corte Interamericana de Derechos Humanos que fue discutido por doña Marta y el resto de la comunidad?",
+      "context": "En Cartago, el ciudadano doña Marta asiste a un panel organizado en la comunidad sobre el impacto de las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles. Durante la charla, se destaca la influencia directa de Corte Interamericana de Derechos Humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer directrices que promuevan la regulación, orden y soberanía jurídica a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Corte Interamericana de Derechos Humanos se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a soberanía jurídica."
+        },
+        {
+          "letter": "B",
+          "text": "Nacionalizar unilateralmente todos los activos vinculados a soberanía jurídica dentro de la provincia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La nacionalización forzosa regional no representa una política de Corte Interamericana de Derechos Humanos."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de soberanía jurídica",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Corte Interamericana de Derechos Humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Centralizar de manera absoluta el control aduanero exclusivo en las alcaldías de Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Las aduanas son competencia del gobierno central, no de las alcaldías cantonales locales de Cartago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La discusión sobre las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles resalta el papel de Corte Interamericana de Derechos Humanos en regular soberanía jurídica, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es un objetivo central o característica de Derechos laborales en el agro que fue discutido por don Gerardo y el resto de la comunidad?",
+      "context": "En Heredia, el ciudadano don Gerardo asiste a un panel organizado en la comunidad sobre el impacto de las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil. Durante la charla, se destaca la influencia directa de Derechos laborales en el agro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir toda participación comercial privada de Heredia en relación con inspección laboral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Derechos laborales en el agro no persigue restringir o prohibir toda iniciativa privada regional en Heredia."
+        },
+        {
+          "letter": "B",
+          "text": "Nacionalizar unilateralmente todos los activos vinculados a inspección laboral dentro de la provincia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La nacionalización forzosa regional no representa una política de Derechos laborales en el agro."
+        },
+        {
+          "letter": "C",
+          "text": "Desmantelar las redes locales de comunicación para frenar el flujo de inspección laboral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desmantelamiento de infraestructura local contradice los objetivos de desarrollo de Derechos laborales en el agro."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer directrices que promuevan la regulación, orden y inspección laboral a nivel transnacional",
+          "is_correct": true,
+          "feedback": "Es correcto. Derechos laborales en el agro se caracteriza precisamente por normar, coordinar o facilitar acciones en torno a inspección laboral."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La discusión sobre las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil resalta el papel de Derechos laborales en el agro en regular inspección laboral, permitiendo que países como Costa Rica se inserten ordenadamente en el mercado global.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con la información analizada sobre el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas, ¿cómo se explica el papel de Derecho humano al agua potable en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Liberia, Randall evalúa una infografía detallada de el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas. El gráfico muestra la movilización de capitales de ₡500.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Liberia respecto a mercados internacionales de salud pública",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Liberia sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Permite comprender la integración de flujos económicos de salud pública bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de salud pública de acuerdo con marcos globales."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡500.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Derecho humano al agua potable."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Liberia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Derecho humano al agua potable opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la articulación entre Derecho humano al agua potable y las finanzas costarricenses devela que los flujos de salud pública están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "De acuerdo con la información analizada sobre las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT, ¿cómo se explica el papel de Derechos de los pueblos indígenas en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Puntarenas, Elena evalúa una infografía detallada de las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT. El gráfico muestra la movilización de capitales de ₡8.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Puntarenas respecto a mercados internacionales de autodeterminación cultural",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Puntarenas sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre autodeterminación cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Permite comprender la integración de flujos económicos de autodeterminación cultural bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de autodeterminación cultural de acuerdo con marcos globales."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Derechos de los pueblos indígenas opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender la articulación entre Derechos de los pueblos indígenas y las finanzas costarricenses devela que los flujos de autodeterminación cultural están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "De acuerdo con la información analizada sobre las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón, ¿cómo se explica el papel de Objetivos de Desarrollo Sostenible (ODS) en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Limón, Randall evalúa una infografía detallada de las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón. El gráfico muestra la movilización de capitales de ₡2.500.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite comprender la integración de flujos económicos de equidad de género bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de equidad de género de acuerdo con marcos globales."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre equidad de género."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡2.500.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Objetivos de Desarrollo Sostenible (ODS)."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la normativa constitucional costarricense por un código exclusivo municipal de Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Objetivos de Desarrollo Sostenible (ODS) opera respetando el marco constitucional nacional de Costa Rica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender la articulación entre Objetivos de Desarrollo Sostenible (ODS) y las finanzas costarricenses devela que los flujos de equidad de género están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "De acuerdo con la información analizada sobre el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS, ¿cómo se explica el papel de Defensoría de los Habitantes en las dinámicas de Costa Rica?",
+      "context": "Durante una sesión de análisis en la escuela de Pérez Zeledón, Mariela evalúa una infografía detallada de el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS. El gráfico muestra la movilización de capitales de ₡1.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar el aislamiento económico absoluto de Pérez Zeledón respecto a mercados internacionales de derecho de petición",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El propósito no es aislar a Pérez Zeledón sino integrarla activamente bajo reglas claras."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir subsidios estatales permanentes y fijos para la comercialización interna en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los subsidios fijos generalizados no constituyen la explicación de la gobernanza sobre derecho de petición."
+        },
+        {
+          "letter": "C",
+          "text": "Generar una devaluación masiva programada de ₡1.000 para desincentivar el comercio",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La devaluación artificial para frenar el comercio contradice el espíritu de apertura comercial de Defensoría de los Habitantes."
+        },
+        {
+          "letter": "D",
+          "text": "Permite comprender la integración de flujos económicos de derecho de petición bajo un estándar internacional de desarrollo",
+          "is_correct": true,
+          "feedback": "Es correcto. Facilita la comprensión de cómo Costa Rica coordina sus políticas de derecho de petición de acuerdo con marcos globales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Entender la articulación entre Defensoría de los Habitantes y las finanzas costarricenses devela que los flujos de derecho de petición están fuertemente vinculados a estándares multilaterales globales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "¿De qué manera práctica debe don Fernando y su equipo aplicar los lineamientos de Libertad de expresión y prensa para garantizar el éxito de su proyecto de democracia informativa?",
+      "context": "Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Libertad de expresión y prensa por una suma estimada de ₡1.000 para potenciar el alto sitial internacional que ocupa Costa Rica en libertad de prensa en informes de Reporteros Sin Fronteras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡1.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para democracia informativa",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡1.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de democracia informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de San José."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en marcha de proyectos bajo Libertad de expresión y prensa demanda la traducción práctica de estándares internacionales de democracia informativa a la realidad operativa de San José.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera práctica debe Esteban y su equipo aplicar los lineamientos de Acuerdos climáticos internacionales (Acuerdo de París) para garantizar el éxito de su proyecto de transición energética?",
+      "context": "Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Acuerdos climáticos internacionales (Acuerdo de París) por una suma estimada de ₡2.000.000.000 para potenciar el Plan Nacional de Descarbonización de Costa Rica para eliminar combustibles fósiles en el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡2.000.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Alajuela",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de transición energética."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para transición energética",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Alajuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Acuerdos climáticos internacionales (Acuerdo de París) demanda la traducción práctica de estándares internacionales de transición energética a la realidad operativa de Alajuela.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Corte Interamericana de Derechos Humanos para garantizar el éxito de su proyecto de soberanía jurídica?",
+      "context": "Una organización en Cartago liderada por Randall busca financiamiento o acreditación bajo el marco de Corte Interamericana de Derechos Humanos por una suma estimada de ₡1.000 para potenciar las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para soberanía jurídica",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de soberanía jurídica."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡1.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de soberanía jurídica."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Cartago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La puesta en marcha de proyectos bajo Corte Interamericana de Derechos Humanos demanda la traducción práctica de estándares internacionales de soberanía jurídica a la realidad operativa de Cartago.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "¿De qué manera práctica debe Karla y su equipo aplicar los lineamientos de Derechos laborales en el agro para garantizar el éxito de su proyecto de inspección laboral?",
+      "context": "Una organización en Heredia liderada por Karla busca financiamiento o acreditación bajo el marco de Derechos laborales en el agro por una suma estimada de ₡650.000 para potenciar las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡650.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de inspección laboral."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡650.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de inspección laboral."
+        },
+        {
+          "letter": "D",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para inspección laboral",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La puesta en marcha de proyectos bajo Derechos laborales en el agro demanda la traducción práctica de estándares internacionales de inspección laboral a la realidad operativa de Heredia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Derecho humano al agua potable para garantizar el éxito de su proyecto de salud pública?",
+      "context": "Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Derecho humano al agua potable por una suma estimada de ₡500.000 para potenciar el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para salud pública",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "C",
+          "text": "Destinar de manera exclusiva los fondos de ₡500.000 para el gasto de propaganda electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a propaganda política está prohibido y no guarda relación técnica con el proyecto de salud pública."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Liberia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en marcha de proyectos bajo Derecho humano al agua potable demanda la traducción práctica de estándares internacionales de salud pública a la realidad operativa de Liberia.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera práctica debe Randall y su equipo aplicar los lineamientos de Derechos de los pueblos indígenas para garantizar el éxito de su proyecto de autodeterminación cultural?",
+      "context": "Una organización en Puntarenas liderada por Randall busca financiamiento o acreditación bajo el marco de Derechos de los pueblos indígenas por una suma estimada de ₡8.000.000 para potenciar las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir deliberadamente la legislación ambiental costarricense para agilizar el uso de ₡8.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Ignorar la legislación ambiental nacional tica causaría sanciones legales y anularía la acreditación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar todo tipo de fiscalización de auditoría externa sobre los recursos en Puntarenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La transparencia y auditoría rigurosa de fondos son requisitos obligatorios en este marco de autodeterminación cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Alineando las prácticas locales del proyecto con las normas técnicas y ambientales exigidas para autodeterminación cultural",
+          "is_correct": true,
+          "feedback": "Es correcto. La aplicación práctica exige la adopción sistemática de estándares técnicos e internacionales del sector."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la totalidad del personal calificado costarricense por asesores extranjeros sin experiencia local",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El proyecto requiere y fomenta el desarrollo de capacidades técnicas en los profesionales de Puntarenas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puesta en marcha de proyectos bajo Derechos de los pueblos indígenas demanda la traducción práctica de estándares internacionales de autodeterminación cultural a la realidad operativa de Puntarenas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Objetivos de Desarrollo Sostenible (ODS)?",
+      "context": "Un foro de debate en Limón analiza de manera exhaustiva el impacto de las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón. Los participantes señalan que el flujo de recursos de ₡2.500.000 ha beneficiado a algunos sectores pero ha desatendido equidad de género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende equidad de género a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Objetivos de Desarrollo Sostenible (ODS) puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Limón ha declarado su autarquía completa y ha cancelado el uso de ₡2.500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Objetivos de Desarrollo Sostenible (ODS) se restringe únicamente al sector inmobiliario residencial de lujo en Limón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de equidad de género."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡2.500.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en equidad de género locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Defensoría de los Habitantes?",
+      "context": "Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido derecho de petición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Pérez Zeledón ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en derecho de petición."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Pérez Zeledón ha declarado su autarquía completa y ha cancelado el uso de ₡1.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Defensoría de los Habitantes se restringe únicamente al sector inmobiliario residencial de lujo en Pérez Zeledón",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de derecho de petición."
+        },
+        {
+          "letter": "D",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende derecho de petición a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Defensoría de los Habitantes puede generar dualidades y desatención de sectores sensibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis crítico de el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en derecho de petición locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Libertad de expresión y prensa?",
+      "context": "Un foro de debate en San José analiza de manera exhaustiva el impacto de el alto sitial internacional que ocupa Costa Rica en libertad de prensa en informes de Reporteros Sin Fronteras. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido democracia informativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en San José ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en democracia informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende democracia informativa a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Libertad de expresión y prensa puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "C",
+          "text": "El impacto de Libertad de expresión y prensa se restringe únicamente al sector inmobiliario residencial de lujo en San José",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El análisis abarca dinámicas más complejas de empleo, flujos logísticos y el sector de democracia informativa."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡1.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico de el alto sitial internacional que ocupa Costa Rica en libertad de prensa en informes de Reporteros Sin Fronteras devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en democracia informativa locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes conclusiones resume correctamente la tensión analítica identificada en el foro respecto a Acuerdos climáticos internacionales (Acuerdo de París)?",
+      "context": "Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de el Plan Nacional de Descarbonización de Costa Rica para eliminar combustibles fósiles en el transporte público. Los participantes señalan que el flujo de recursos de ₡2.000.000.000 ha beneficiado a algunos sectores pero ha desatendido transición energética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización económica en Alajuela ha suprimido con éxito todas las brechas sociales e informalidad",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Los participantes recalcan que subsisten problemas y tensiones significativas en transición energética."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Alajuela ha declarado su autarquía completa y ha cancelado el uso de ₡2.000.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Costa Rica mantiene un modelo de economía de mercado abierta, alejado de la autarquía o aislamiento provincial."
+        },
+        {
+          "letter": "C",
+          "text": "Existe una distribución asimétrica que fomenta la modernización de ciertos sectores productivos pero desatiende transición energética a nivel local",
+          "is_correct": true,
+          "feedback": "Es correcto. El análisis devela que la globalización mediante Acuerdos climáticos internacionales (Acuerdo de París) puede generar dualidades y desatención de sectores sensibles."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos locales ha desaparecido de forma absoluta gracias a ₡2.000.000.000",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El Estado costarricense y sus dependencias siguen ejerciendo plenamente su potestad tributaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico de el Plan Nacional de Descarbonización de Costa Rica para eliminar combustibles fósiles en el transporte público devela las brechas estructurales del desarrollo: el auge en áreas seleccionadas genera riqueza pero puede profundizar el rezago en transición energética locales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el juicio crítico que debe formular Carlos al evaluar los resultados a largo plazo sobre soberanía jurídica en el país?",
+      "context": "Una comisión evaluadora del MEP en Cartago, integrada por Carlos, revisa los indicadores de desarrollo de las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles y los aportes de Corte Interamericana de Derechos Humanos estimados en ₡1.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en soberanía jurídica",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡1.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Corte Interamericana de Derechos Humanos",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡1.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Cartago",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para soberanía jurídica."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de soberanía jurídica deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica del impacto de Corte Interamericana de Derechos Humanos demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de soberanía jurídica beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el juicio crítico que debe formular don Guillermo al evaluar los resultados a largo plazo sobre inspección laboral en el país?",
+      "context": "Una comisión evaluadora del MEP en Heredia, integrada por don Guillermo, revisa los indicadores de desarrollo de las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil y los aportes de Derechos laborales en el agro estimados en ₡650.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Derechos laborales en el agro carece de fallas y representa una solución perfecta para inspección laboral",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en inspección laboral."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Derechos laborales en el agro",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡650.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Heredia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para inspección laboral."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en inspección laboral",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡650.000 no equivale automáticamente a equidad social."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La evaluación crítica del impacto de Derechos laborales en el agro demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de inspección laboral beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el juicio crítico que debe formular Javier al evaluar los resultados a largo plazo sobre salud pública en el país?",
+      "context": "Una comisión evaluadora del MEP en Liberia, integrada por Javier, revisa los indicadores de desarrollo de el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas y los aportes de Derecho humano al agua potable estimados en ₡500.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Derecho humano al agua potable carece de fallas y representa una solución perfecta para salud pública",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en salud pública."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en salud pública",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡500.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "C",
+          "text": "El financiamiento de ₡500.000 debe destinarse únicamente a subsidiar el consumo suntuario privado en Liberia",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El desvío de fondos a consumo privado de lujo no es una recomendación de desarrollo sostenible para salud pública."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de salud pública deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación crítica del impacto de Derecho humano al agua potable demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de salud pública beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el juicio crítico que debe formular Sofía al evaluar los resultados a largo plazo sobre autodeterminación cultural en el país?",
+      "context": "Una comisión evaluadora del MEP en Puntarenas, integrada por Sofía, revisa los indicadores de desarrollo de las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT y los aportes de Derechos de los pueblos indígenas estimados en ₡8.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gestión de Derechos de los pueblos indígenas carece de fallas y representa una solución perfecta para autodeterminación cultural",
+          "is_correct": false,
+          "feedback": "Es incorrecto. Una evaluación objetiva siempre identifica límites, asimetrías y áreas críticas en autodeterminación cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica debe revocar de inmediato todos sus compromisos internacionales para suspender Derechos de los pueblos indígenas",
+          "is_correct": false,
+          "feedback": "Es incorrecto. El aislamiento total perjudicaría la estabilidad macroeconómica del país y su inserción global."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo requiere un balance riguroso, ya que el crecimiento en macro-indicadores no asegura automáticamente bienestar o equidad en autodeterminación cultural",
+          "is_correct": true,
+          "feedback": "Es correcto. Se debe juzgar críticamente que el éxito numérico en ₡8.000.000 no equivale automáticamente a equidad social."
+        },
+        {
+          "letter": "D",
+          "text": "Los indicadores de autodeterminación cultural deben ser manipulados administrativamente para proyectar éxito absoluto ante la OCDE",
+          "is_correct": false,
+          "feedback": "Es incorrecto. La manipulación de estadísticas públicas atenta contra la ética, transparencia y confianza de Costa Rica ante foros multilaterales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica del impacto de Derechos de los pueblos indígenas demuestra que se requiere un replanteamiento de políticas para que la inversión y la modernización de autodeterminación cultural beneficien equitativamente a Costa Rica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "estudios-sociales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

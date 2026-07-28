@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "sv",
+    "pack_id": "sv-week-10-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.506Z"
+  },
+  "questions": [
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v1",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla ortográfica que tilda las palabras con fuerza de voz en la última sílaba cuando terminan en n, s o vocal. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de palabras agudas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica palabras agudas para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de palabras agudas es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v2",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla ortográfica que tilda las palabras con fuerza de voz en la penúltima sílaba cuando terminan en consonante distinta de n o s. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de palabras graves.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica palabras graves para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de palabras graves es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v3",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla que obliga a colocar tilde a todas las palabras cuya sílaba tónica se encuentra en la antepenúltima sílaba. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de palabras esdrújulas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica palabras esdrújulas para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de palabras esdrújulas es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.62,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v4",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla de acentuación que tilda siempre las palabras cuya fuerza de voz recae antes de la antepenúltima sílaba. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de palabras sobresdrújulas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica palabras sobresdrújulas para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de palabras sobresdrújulas es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.61,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v5",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la tilde que sirve para diferenciar palabras que se escriben igual pero tienen funciones gramaticales diferentes. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de tilde diacrítica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica tilde diacrítica para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de tilde diacrítica es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v6",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la colocación de tilde obligatoria sobre la vocal cerrada tónica unida a una vocal abierta, rompiendo el diptongo. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de tildación de hiato acentual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica tildación de hiato acentual para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de tildación de hiato acentual es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.58,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v7",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'porque', 'ya que' o 'puesto que' que introducen de forma lógica el motivo o fundamento de lo dicho. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de conectores causales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica conectores causales para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de conectores causales es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.57,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v8",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'sin embargo' o 'no obstante' que introducen un contraste, objeción o restricción moderada. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de conectores adversativos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica conectores adversativos para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de conectores adversativos es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v9",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'por lo tanto' o 'por consiguiente' que introducen de forma lógica la consecuencia o resultado directo. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de conectores consecutivos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica conectores consecutivos para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de conectores consecutivos es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.54,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v10",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo de puntuación que aísla de forma obligatoria el nombre o pronombre del interlocutor a quien nos dirigimos. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de coma vocativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica coma vocativa para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de coma vocativa es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v11",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo de puntuación que sustituye de manera elegante a un verbo que ya se ha mencionado anteriormente en el texto. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de coma elíptica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica coma elíptica para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de coma elíptica es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v12",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que se utiliza para detener el discurso y llamar la atención sobre una enumeración, aclaración o cita directa. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de uso de los dos puntos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica uso de los dos puntos para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de uso de los dos puntos es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.49,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v13",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que se utiliza para separar proposiciones complejas extensas que ya contienen sus propias comas internas. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de uso del punto y coma.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica uso del punto y coma para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de uso del punto y coma es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.48,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v14",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'es decir', 'esto es' o 'en otras palabras' que aclaran un concepto previo de forma más accesible. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de conectores explicativos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica conectores explicativos para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de conectores explicativos es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v15",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que separa enunciados dentro de un mismo párrafo, manteniendo una estrecha unidad temática entre las ideas. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de punto y seguido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica punto y seguido para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de punto y seguido es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.45,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v16",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla que mantiene la tilde original del adjetivo base al añadir el sufijo adverbial de modo. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de tildación en adverbios en -mente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica tildación en adverbios en -mente para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de tildación en adverbios en -mente es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.43,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v17",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo ortográfico que enmarca la reproducción de citas textuales de otros autores dentro del escrito propio. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de uso de las comillas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica uso de las comillas para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de uso de las comillas es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v18",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: los signos que sirven para intercalar de forma secundaria datos aclaratorios precisos como fechas o lugares. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de uso de los paréntesis.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica uso de los paréntesis para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de uso de los paréntesis es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.4,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v19",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'al principio', 'luego' o 'finalmente' que permiten ordenar de forma cronológica los sucesos narrados. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de conectores temporales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica conectores temporales para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de conectores temporales es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.\n\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.39,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v20",
+      "statement": "Se propone corregir o estructurar un texto escolar según la siguiente indicación: la prohibición de colocar una coma separando de forma injustificada el núcleo del sujeto y el verbo principal. ¿Qué norma o recurso de redacción se está aplicando?",
+      "context": "En la unidad de ortografía, puntuación y redacción formal de Grado 11 en El Salvador, se analizan las normas de la Real Academia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de error de la coma entre sujeto y verbo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplica error de la coma entre sujeto y verbo para garantizar la claridad y corrección del escrito formal."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento de ejemplificación personal subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción cinematográfica de un paisaje urbano salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita."
+        },
+        {
+          "letter": "D",
+          "text": "La lírica modernista de Arturo Ambrogi en sonsonate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de error de la coma entre sujeto y verbo es fundamental para lograr una expresión escrita clara, precisa y conforme al registro académico culto.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.37,
+      "bundle_id": "SV-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

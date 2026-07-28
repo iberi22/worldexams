@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.369Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 3)$.",
+      "context": "En Puntarenas, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "(4, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 3)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 3) = 0$. Aplicando la definición exponencial, se tiene: $x - 3 = 2^0 \\Rightarrow x - 3 = 1 \\Rightarrow x = 4$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(4, 0)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Limón, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 3)$?",
+      "context": "En San Carlos, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 3)$, planteamos la inecuación: $x - 3 > 0 \\Rightarrow x > 3$. El conjunto de valores permitidos es el intervalo abierto $]3, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 1)$.",
+      "context": "En Pérez Zeledón, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "(7, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 1)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 1) = 0$. Aplicando la definición exponencial, se tiene: $x - 1 = 2^0 \\Rightarrow x - 1 = 1 \\Rightarrow x = 2$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(2, 0)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Escazú, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "C",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 1)$?",
+      "context": "En San José, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "]1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "D",
+          "text": "]-\\infty, 1[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 1)$, planteamos la inecuación: $x - 1 > 0 \\Rightarrow x > 1$. El conjunto de valores permitidos es el intervalo abierto $]1, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 3)$.",
+      "context": "En Alajuela, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "(4, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 3)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 3) = 0$. Aplicando la definición exponencial, se tiene: $x - 3 = 2^0 \\Rightarrow x - 3 = 1 \\Rightarrow x = 4$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(4, 0)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Cartago, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 3)$?",
+      "context": "En Heredia, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 3)$, planteamos la inecuación: $x - 3 > 0 \\Rightarrow x > 3$. El conjunto de valores permitidos es el intervalo abierto $]3, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 1)$.",
+      "context": "En Liberia, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "D",
+          "text": "(7, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 1)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 1) = 0$. Aplicando la definición exponencial, se tiene: $x - 1 = 2^0 \\Rightarrow x - 1 = 1 \\Rightarrow x = 2$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(2, 0)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Puntarenas, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 1)$?",
+      "context": "En Limón, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "]1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "[1, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "]-\\infty, 1[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 1)$, planteamos la inecuación: $x - 1 > 0 \\Rightarrow x > 1$. El conjunto de valores permitidos es el intervalo abierto $]1, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 3)$.",
+      "context": "En San Carlos, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "(4, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 3)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 3) = 0$. Aplicando la definición exponencial, se tiene: $x - 3 = 2^0 \\Rightarrow x - 3 = 1 \\Rightarrow x = 4$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(4, 0)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Pérez Zeledón, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 3)$?",
+      "context": "En Escazú, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 3)$, planteamos la inecuación: $x - 3 > 0 \\Rightarrow x > 3$. El conjunto de valores permitidos es el intervalo abierto $]3, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 1)$.",
+      "context": "En San José, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "(7, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 1)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 1) = 0$. Aplicando la definición exponencial, se tiene: $x - 1 = 2^0 \\Rightarrow x - 1 = 1 \\Rightarrow x = 2$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(2, 0)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Alajuela, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "C",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el dominio máximo de la función logarítmica definida por $f(x) = \\log_2(x - 1)$?",
+      "context": "En Cartago, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "]1, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "D",
+          "text": "]-\\infty, 1[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que un logaritmo esté definido en el conjunto de los números reales, su argumento debe ser estrictamente mayor que cero. Por lo tanto, para la función $f(x) = \\log_2(x - 1)$, planteamos la inecuación: $x - 1 > 0 \\Rightarrow x > 1$. El conjunto de valores permitidos es el intervalo abierto $]1, +\\infty[$, el cual constituye el dominio máximo de la función.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Determine el punto de intersección con el eje $x$ de la gráfica de la función $f(x) = \\log_2(x - 3)$.",
+      "context": "En Heredia, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "C",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "(4, 0)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el punto de intersección con el eje $x$ de la función logarítmica $f(x) = \\log_2(x - 3)$, igualamos a cero ($f(x) = 0$): $\\log_2(x - 3) = 0$. Aplicando la definición exponencial, se tiene: $x - 3 = 2^0 \\Rightarrow x - 3 = 1 \\Rightarrow x = 4$. De esta manera, el punto de corte con el eje $x$ corresponde al par ordenado $(4, 0)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Si se cumple que $\\log_2(y) = x$, ¿cuál es su representación equivalente en forma exponencial?",
+      "context": "En Liberia, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 2^x",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Esta es la opción correcta porque sigue la definición rigurosa del logaritmo como operación inversa de la exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2^y",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error común de intervalos al incluir el valor frontera que hace que el argumento sea cero, lo cual indefiniría el logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "y = x^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde la traslación horizontal con el punto de intersección estándar (1,0)."
+        },
+        {
+          "letter": "D",
+          "text": "x = y^2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Confusión al intercambiar la base y el exponente en la relación de equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición fundamental de la función logarítmica, el logaritmo en base $2$ de un número $y$ es el exponente $x$ al cual se debe elevar la base para obtener dicho número $y$. Es decir, la relación logarítmica $\\log_{2}(y) = x$ es matemáticamente equivalente de forma directa a la ecuación exponencial $y = 2^x$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

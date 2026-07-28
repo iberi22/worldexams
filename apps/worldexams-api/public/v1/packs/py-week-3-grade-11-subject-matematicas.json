@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.772Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v1",
+      "statement": "¿Cómo se define formalmente el logaritmo $\\log_b(a) = c$ para $b > 0, b \\neq 1$ y $a > 0$?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$b^c = a$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo es el exponente al que se debe elevar la base $b$ para obtener el argumento $a$."
+        },
+        {
+          "letter": "B",
+          "text": "$a^c = b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió la base y el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "$b^a = c$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación es incorrecta por definición."
+        },
+        {
+          "letter": "D",
+          "text": "$c^b = a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación no define al logaritmo de base $b$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición básica de logaritmos, $\\log_b(a) = c \\iff b^c = a$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v2",
+      "statement": "¿A qué es igual el logaritmo de un producto, es decir, $\\log_b(x \\cdot y)$?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(x) + \\log_b(y)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo de un producto es igual a la suma de los logaritmos de los factores."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(x) \\cdot \\log_b(y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplican los logaritmos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(x + y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de una suma no se puede simplificar así."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_b(x) - \\log_b(y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta corresponde al logaritmo de un cociente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una propiedad fundamental de los logaritmos establece que el logaritmo de un producto de dos números reales positivos es igual a la suma de sus logaritmos individuales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v3",
+      "statement": "En una cooperativa de Luque, Jorge evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v4",
+      "statement": "En una cooperativa de Encarnación, Liz evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v5",
+      "statement": "En una cooperativa de Ciudad del Este, Gladys evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v6",
+      "statement": "En una cooperativa de Caacupé, Diego evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v7",
+      "statement": "En una cooperativa de Pilar, Patricia evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v8",
+      "statement": "En una cooperativa de Coronel Oviedo, Gustavo evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v9",
+      "statement": "En una cooperativa de Concepción, Natalia evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v10",
+      "statement": "En una cooperativa de Villarrica, Carlos evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v11",
+      "statement": "En una cooperativa de Asunción, Ramón evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v12",
+      "statement": "En una cooperativa de San Lorenzo, María evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v13",
+      "statement": "En una cooperativa de Luque, Jorge evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v14",
+      "statement": "En una cooperativa de Encarnación, Liz evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v15",
+      "statement": "En una cooperativa de Ciudad del Este, Gladys evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v16",
+      "statement": "En una cooperativa de Caacupé, Diego evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v17",
+      "statement": "En una cooperativa de Pilar, Patricia evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v18",
+      "statement": "En una cooperativa de Coronel Oviedo, Gustavo evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v19",
+      "statement": "En una cooperativa de Concepción, Natalia evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-v20",
+      "statement": "En una cooperativa de Villarrica, Carlos evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "3 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "1 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor del esperado."
+        },
+        {
+          "letter": "D",
+          "text": "4 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

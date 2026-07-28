@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "cr",
+    "pack_id": "cr-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.362Z"
+  },
+  "questions": [
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el elemento primordial que define a un texto argumentativo frente a uno informativo?",
+      "context": "En un debate sobre el transporte público en San José, Andrey expone que la prioridad debe ser el tren eléctrico interurbano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La defensa de una postura o tesis mediante argumentos fundamentados para persuadir al lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El objetivo de la argumentación es convencer o persuadir a través de razonamientos válidos."
+        },
+        {
+          "letter": "B",
+          "text": "La mera recopilación cronológica de sucesos de interés público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza a los textos narrativos o informativos, no argumentativos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción pormenorizada de las características físicas de un objeto o lugar del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define la tipología descriptiva."
+        },
+        {
+          "letter": "D",
+          "text": "La enumeración de directrices técnicas emitidas por el MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a textos instructivos o normativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto argumentativo se define por la presencia de una tesis (opinión o postura) y un cuerpo argumentativo que busca convencer mediante razones lógicas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple la tesis dentro de la estructura de un ensayo argumentativo?",
+      "context": "Durante una clase en el Liceo de Heredia, Sofía analiza un artículo de opinión sobre el impacto del turismo ecológico en Monteverde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar las conclusiones finales y sugerir futuras investigaciones sobre el ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se hace en la conclusión del ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar la postura clara, explícita y debatible que el autor defenderá a lo largo del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la columna vertebral que define la postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecer datos cuantitativos neutrales y de visitación anual en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es propio de la argumentación de datos en el desarrollo, no la tesis misma."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar el marco histórico de la legislación ecológica en Costa Rica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pertenece a la introducción contextual, no es la tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la idea principal o punto de vista que el autor sostiene y defiende mediante argumentos lógicos a lo largo del texto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones describe mejor un argumento de autoridad?",
+      "context": "En una editorial de un diario costarricense se debate sobre el presupuesto universitario y la inversión en investigación científica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelar a los sentimientos de culpa del lector para lograr una adhesión emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto constituye un argumento afectivo o falacia de apelación a las emociones."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar ejemplos concretos ocurridos en comunidades rurales como Upala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un argumento analógico o mediante ejemplos."
+        },
+        {
+          "letter": "C",
+          "text": "Sustentar la postura citando investigaciones y opiniones de expertos o instituciones reconocidas en la materia.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de autoridad se basa en el prestigio y credibilidad de expertos acreditados."
+        },
+        {
+          "letter": "D",
+          "text": "Utilizar la opinión de la mayoría de la población josefina para validar una propuesta de ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una falacia ad populum o argumento de mayoría."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El argumento de autoridad aporta validez a la tesis recurriendo al testimonio o estudios de especialistas reconocidos en la materia en discusión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Si desean incorporar un argumento de causa-efecto, ¿cuál de las siguientes opciones representa mejor este tipo de argumento?",
+      "context": "Un grupo de estudiantes de Cartago elabora un ensayo argumentativo contra el uso de plásticos de un solo uso en los comercios locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acumulación de microplásticos en las costas de Puntarenas provoca la muerte de fauna marina, lo que altera severamente la cadena alimentaria local.",
+          "is_correct": true,
+          "feedback": "Correcto. Establece una relación lógica directa de causa (acumulación de plásticos) y su efecto inmediato (alteración ecológica)."
+        },
+        {
+          "letter": "B",
+          "text": "El expresidente costarricense de la República declaró en un foro que el plástico es el principal enemigo del desarrollo sostenible actual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento de autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "Hace veinte años no se utilizaban pajillas de plástico en las sodas costarricenses y la población vivía perfectamente de forma saludable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este argumento recurre a la tradición o a analogías temporales."
+        },
+        {
+          "letter": "D",
+          "text": "El 85% de los patentados de la provincia están de acuerdo en reducir la contaminación plástica de forma paulatina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento cuantitativo o de datos estadísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de causa-efecto demuestra cómo una acción o fenómeno determinado produce inevitablemente una consecuencia específica de interés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "¿Qué contraargumento debería anticipar y responder adecuadamente para fortalecer su discurso?",
+      "context": "Para un proyecto de educación cívica en Alajuela, Javier escribe un discurso argumentativo instando al voto joven en las elecciones municipales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación de que el voto de la población joven ha aumentado un 15% en las últimas décadas en América Latina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto apoya su causa en lugar de ser una objeción."
+        },
+        {
+          "letter": "B",
+          "text": "La postura de que la política tradicional costarricense no representa los intereses reales de la juventud actual.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una objeción común que debe refutar activamente en su escrito para persuadir al lector escéptico."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción de los requisitos legales del Tribunal Supremo de Elecciones para emitir el sufragio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho legal neutro, no una postura contraria."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta de digitalizar todo el proceso electoral para reducir costos estatales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propuesta alternativa o técnica, no un contraargumento a la participación joven."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contraargumentación consiste en identificar posibles objeciones del lector para refutarlas con argumentos sólidos, incrementando la persuasión general.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes premisas constituye un argumento de datos empíricos?",
+      "context": "En un debate sobre la restricción vehicular en el centro de San José, se plantea la necesidad de reducir la huella de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debemos cuidar el aire que respiramos por el bien de nuestros hijos y nietos de forma voluntaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento afectivo o de valores morales."
+        },
+        {
+          "letter": "B",
+          "text": "El informe del Estado de la Nación revela que el transporte terrestre genera el 40% de las emisiones de gases de efecto invernadero en el país.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza cifras y datos estadísticos objetivos del informe del Estado de la Nación."
+        },
+        {
+          "letter": "C",
+          "text": "La restricción vehicular es vista con buenos ojos por muchos taxistas del cantón central de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una opinión generalizada o anecdótica, no un dato empírico."
+        },
+        {
+          "letter": "D",
+          "text": "San José siempre ha sido una ciudad con calles estrechas y congestionadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción histórica o geográfica, no un argumento estadístico empírico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los argumentos basados en datos empíricos sustentan la tesis mediante cifras de fuentes oficiales, estadísticas, encuestas o estudios comprobables.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "¿Qué registro lingüístico es el más adecuado para garantizar la persuasión académica y formal en su ensayo?",
+      "context": "María redacta un ensayo sobre la preservación de las lenguas indígenas costarricenses, como el bribri y el cabécar, dirigiéndose al Ministerio de Cultura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Registro coloquial costarricense con abundantes expresiones vernáculas y familiares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece del tono académico formal requerido en un texto dirigido a un ministerio."
+        },
+        {
+          "letter": "B",
+          "text": "Registro técnico especializado de carácter puramente estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dificulta la transmisión de la tesis cultural y el desarrollo reflexivo del ensayo."
+        },
+        {
+          "letter": "C",
+          "text": "Registro culto formal, empleando conectores lógicos precisos y léxico especializado bien fundamentado.",
+          "is_correct": true,
+          "feedback": "Correcto. El tono culto formal transmite seriedad, rigor y respeto institucional, idóneo para la argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Registro literario poético, con abundantes figuras de dicción y de pensamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque estético, distrae de la argumentación clara y lógica del ensayo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ensayo argumentativo dirigido a una autoridad o comunidad académica requiere el uso del registro culto formal para mantener la objetividad y persuasión.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones constituye una falacia ad hominem en esta argumentación?",
+      "context": "En una discusión familiar, Andrey intenta convencer a su abuelo de utilizar banca electrónica para evitar filas en el banco de Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La banca electrónica no es segura porque ayer se cayó el sistema por dos horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento defectuoso de generalización apresurada, no ad hominem."
+        },
+        {
+          "letter": "B",
+          "text": "Usted no entiende de esto porque es una persona mayor que se quedó en el pasado.",
+          "is_correct": true,
+          "feedback": "Correcto. Ataca directamente a la persona (edad del abuelo) en lugar de refutar la validez del uso de la tecnología."
+        },
+        {
+          "letter": "C",
+          "text": "La mayoría de la gente en el país prefiere ir físicamente a las sucursales bancarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una falacia ad populum, no ad hominem."
+        },
+        {
+          "letter": "D",
+          "text": "Si usamos la aplicación en el celular, el banco nos cobrará más comisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento de causa-efecto, no un ataque personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia ad hominem desvía la atención del argumento atacando o desacreditando directamente a la persona que lo emite.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "¿Qué conector lógico de oposición es adecuado para contrastar su postura frente a los argumentos del sector automotor?",
+      "context": "Un ensayista publica una columna en Heredia criticando la falta de ciclovías seguras en los cantones del Valle Central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por consiguiente, las municipalidades deben actuar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector conclusivo o consecutivo."
+        },
+        {
+          "letter": "B",
+          "text": "No obstante, las autoridades viales insisten en priorizar la inversión en asfalto para vehículos particulares.",
+          "is_correct": true,
+          "feedback": "Correcto. 'No obstante' es un conector de oposición u oposición restrictiva ideal para contrastar posturas."
+        },
+        {
+          "letter": "C",
+          "text": "En primer lugar, se debe trazar la ruta en el mapa vial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de ordenación temporal."
+        },
+        {
+          "letter": "D",
+          "text": "Además, la bicicleta mejora la salud de los usuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de adición de argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de oposición (no obstante, sin embargo, por el contrario) permiten contrastar ideas contrarias enriqueciendo el debate argumentativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la principal diferencia estructural entre estos dos textos?",
+      "context": "Ana lee un artículo científico sobre el cambio climático y un ensayo de opinión sobre la justicia climática global.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo científico incluye opiniones personales y el ensayo de opinión no las permite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo científico busca objetividad estricta, no opiniones personales."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo científico describe metodologías empíricas y resultados experimentales, mientras que el ensayo plantea una postura subjetiva argumentada mediante reflexiones críticas.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe con precisión la naturaleza científica experimental frente a la ensayística reflexiva."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo de opinión carece de estructura lógica y se redacta de manera informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo tiene una estructura rigurosa de introducción, desarrollo y conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo científico es siempre de autoría anónima y el ensayo pertenece a un colectivo comunal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos tienen autores identificados y definidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo científico se basa en el método experimental y la exposición de resultados empíricos, mientras que el ensayo argumenta subjetiva y lógicamente una postura reflexiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "¿Qué estrategia persuasiva predomina en el fragmento anterior?",
+      "context": "Analice el siguiente texto:\\n'Es urgente regular las plataformas de entrega a domicilio en Costa Rica. Los repartidores carecen de seguro social y estabilidad económica básica. Si el Estado costarricense ignora este vacío legal, estará promoviendo la precarización laboral extrema de miles de jóvenes.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelación a las consecuencias éticas y sociales negativas para forzar la toma de conciencia del lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor alerta de las consecuencias extremas (precarización laboral extrema) para instar a la regulación legislativa."
+        },
+        {
+          "letter": "B",
+          "text": "Uso de analogías complejas con el sistema de transporte ferroviario nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no hace ninguna comparación ni analogía con trenes o vías."
+        },
+        {
+          "letter": "C",
+          "text": "Citación directa de sentencias del Tribunal de Casación Laboral de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan leyes específicas ni fallos judiciales en el fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Desprestigio moral directo de los dueños de las plataformas digitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en las consecuencias del vacío legal estatal, no en ataques directos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fragmento utiliza una argumentación causa-efecto basada en la responsabilidad social y ética estatal para persuadir de la necesidad de regular un sector.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la premisa implícita (supuesto no declarado) detrás de este argumento?",
+      "context": "Considere el siguiente enunciado de un debate sobre alimentación saludable en escuelas costarricenses:\\n'Prohibir la venta de comida no saludable en centros educativos vulnera el libre albedrío de los estudiantes para elegir sus alimentos cotidianos.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comida rápida posee altos estándares de calidad nutricional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no defiende las cualidades nutricionales de estos alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes menores de edad poseen la madurez suficiente para discernir autónomamente qué es saludable para su organismo.",
+          "is_correct": true,
+          "feedback": "Correcto. Para argumentar que se vulnera el 'libre albedrío' de elegir, se debe presuponer que los estudiantes tienen la madurez para tomar esa decisión de consumo de forma adecuada."
+        },
+        {
+          "letter": "C",
+          "text": "Las sodas escolares operan con pérdidas económicas debido a regulaciones del MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un aspecto comercial externo que el argumento no aborda."
+        },
+        {
+          "letter": "D",
+          "text": "El libre albedrío de los jóvenes está determinado por las redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una especulación externa que excede la lógica del argumento planteado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La premisa implícita presupone que los jóvenes son agentes con plena capacidad de toma de decisiones nutricionales maduras, lo cual sustenta la apelación al libre albedrío.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo se estructuran las ideas en el fragmento anterior?",
+      "context": "Un ensayo de opinión sobre el teletrabajo en Alajuela afirma lo siguiente:\\n'El teletrabajo reduce el estrés de los colaboradores y descongestiona las autopistas principales del Valle Central. No obstante, incrementa el consumo de electricidad doméstico y puede generar aislamiento social.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se presenta una causa histórica y luego se analizan sus repercusiones en el sector agropecuario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento se enfoca en aspectos laborales y viales contemporáneos, no en agricultura."
+        },
+        {
+          "letter": "B",
+          "text": "Se exponen argumentos de autoridad que refutan de manera tajante el uso de tecnologías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mención de autoridades ni rechazo de la tecnología."
+        },
+        {
+          "letter": "C",
+          "text": "Se contrastan los beneficios viales y personales del teletrabajo frente a sus desventajas económicas y psicológicas.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expone pros (estrés, tránsito) y los matiza con contras (costo eléctrico, aislamiento) usando un conector adversativo."
+        },
+        {
+          "letter": "D",
+          "text": "Se enumeran cronológicamente las leyes de teletrabajo vigentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no menciona leyes ni fechas de aprobación legislativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto posee una estructura dialéctica que balancea argumentos favorables con desventajas mediante la relación adversativa marcada por el conector 'no obstante'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "¿Qué sesgo argumentativo presenta esta formulación en un ensayo formal?",
+      "context": "Lea con atención la siguiente tesis sobre el desarrollo de energías limpias en Guanacaste:\\n'La inversión masiva en campos eólicos es una falacia ambientalista de corto alcance, puesto que su instalación devasta los ecosistemas locales de aves.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generalización apresurada al calificar toda la energía eólica de 'falacia ambientalista' basándose únicamente en un impacto ecológico particular.",
+          "is_correct": true,
+          "feedback": "Correcto. Descalifica de manera total un complejo sistema ecológico usando un único factor negativo de forma absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Sesgo de confirmación basado en entrevistas científicas realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no presenta testimonios ni citas científicas concretas."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de apelación a la ignorancia al sostener que las aves son seres inteligentes superiores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace referencia a la inteligencia de las aves ni a la falta de pruebas."
+        },
+        {
+          "letter": "D",
+          "text": "Razonamiento tautológico al repetir palabras constantemente a lo largo del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se repite la palabra de forma constante ni hay redundancia lógica circular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis descalifica una alternativa energética tildándola de falacia global a partir de un aspecto perjudicial localizado, incurriendo en una generalización desproporcionada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Al evaluar la solidez y viabilidad de este argumento, ¿cuál es la principal debilidad del planteamiento?",
+      "context": "Un panel de expertos en San José analiza un ensayo propuesto sobre la descarbonización industrial en la provincia de Cartago. Uno de los párrafos dice:\\n'Costa Rica debe abandonar de inmediato toda industria pesada que consuma combustibles fósiles, cerrando fábricas y plantas de cemento este año para liderar el ecologismo mundial.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de un tono emotivo y apasionado en el llamado a la acción climática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es sumamente apasionado y urgente, no carece de emotividad."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cementera costarricense no utiliza combustibles fósiles en sus hornos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un detalle técnico que no altera la viabilidad general de la propuesta del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de realismo económico y pragmático social, al ignorar las repercusiones de desempleo masivo y desabastecimiento constructivo que provocaría.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento carece de viabilidad pragmática al proponer un cierre inmediato sin transición, desatendiendo el impacto socioeconómico grave."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de rimas asonantes en la formulación de sus oraciones principales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos argumentativos académicos no requieren recursos líricos como rimas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento sólido debe ser viable y pragmático en sus propuestas. El cierre abrupto de industrias sin un plan de transición socioeconómica destruye la consistencia de la propuesta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se califica la validez interna de esta argumentación académica?",
+      "context": "Lea el siguiente argumento en contra de la educación financiera obligatoria en colegios:\\n'No debemos enseñar finanzas a los jóvenes porque los bancos costarricenses solo buscan lucrar con los intereses y endeudar a las familias.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altamente sólida, ya que protege a los jóvenes de la usura del sistema bancario nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta un sesgo ideológico que debilita el rigor académico formal."
+        },
+        {
+          "letter": "B",
+          "text": "Poco sólida, porque incurre en una falacia de falso dilema y desvía el objeto de estudio hacia un ataque generalizado al sector financiero.",
+          "is_correct": true,
+          "feedback": "Correcto. El hecho de que las instituciones financieras tengan fines de lucro no invalida el beneficio cognitivo de aprender a gestionar el dinero."
+        },
+        {
+          "letter": "C",
+          "text": "Completamente lógica, al fundamentarse en leyes vigentes emitidas por el Ministerio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hace mención de leyes ni decretos del Ministerio de Hacienda."
+        },
+        {
+          "letter": "D",
+          "text": "Inválida porque debió redactarse utilizando el voseo costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de variantes dialectales o pronombres de tratamiento no determina la validez de un razonamiento lógico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La argumentación es deficiente porque desvía la utilidad del conocimiento financiero individual mediante un ataque prejuicioso contra el sistema bancario comercial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "¿Qué falacia de razonamiento lógico se presenta de forma evidente en el argumento anterior?",
+      "context": "En una asamblea comunal en Liberia, se debate un proyecto de ley para autorizar casinos de lujo. Un opositor argumenta:\\n'Si permitimos la apertura de estos casinos, nuestra pacífica ciudad se convertirá inmediatamente en un nido de delincuencia, lavado de dinero y adicción desenfrenada que destruirá a cada familia liberiana.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad misericordiam (apelación directa a la compasión y piedad del jurado).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca causar lástima, sino infundir pánico sobre el futuro de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de la pendiente resbaladiza, al asumir que un primer paso inevitablemente conducirá a una cadena de consecuencias extremas y catastróficas sin demostrar la causalidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Sostiene que abrir casinos causará la destrucción total e inmediata de la sociedad local sin mostrar vínculos lógicos graduales."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de petición de principio, al definir casino como sinónimo exacto de delincuencia organizada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los asocia, el mecanismo falaz principal es la reacción en cadena catastrófica desproporcionada."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia ad verecundiam, al sostener que la tesis es verdadera porque la respalda una autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se apoya en ninguna autoridad; es una exageración catastrófica personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente resbaladiza consiste en argumentar que si realizamos una acción, ocurrirá una serie de eventos terribles consecuentes, sin justificar la necesidad de ese encadenamiento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el principal defecto lógico-argumentativo presente en este párrafo?",
+      "context": "Lea el siguiente fragmento de un ensayo argumentativo sobre la protección de cuencas hidrográficas en Cartago:\\n'El agua es vida. Debemos cuidar nuestros ríos porque son fuentes vitales que fluyen por la provincia. Sin ríos limpios, no habría corrientes fluviales libres de contaminación y el ciclo ecológico se detendría por completo por falta de pureza en el caudal.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradicción flagrante entre la primera premisa sobre la vida y la conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción; las ideas son coherentes temáticamente entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Razonamiento circular (petición de principio), al repetir la misma premisa sin aportar pruebas externas ni argumentos de desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento da vueltas sobre el mismo concepto de 'agua limpia' y 'río limpio' sin avanzar lógicamente en razones concretas de preservación."
+        },
+        {
+          "letter": "C",
+          "text": "Uso excesivo de tecnicismos que entorpecen la comprensión lectora general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es sencillo y no utiliza ningún tecnicismo químico ni fórmulas científicas."
+        },
+        {
+          "letter": "D",
+          "text": "Sesgo geográfico al mencionar únicamente la provincia de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar una región específica pertinente al contexto de la tesis no constituye un defecto lógico-argumentativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La petición de principio o razonamiento circular ocurre cuando la conclusión de un argumento ya está implícita o explícitamente contenida en las premisas de partida.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de las siguientes propuestas temáticas cumple adecuadamente con las propiedades de una tesis ensayística?",
+      "context": "Un profesor de Español del Liceo de San José solicita a sus estudiantes redactar un texto argumentativo sobre el uso de la inteligencia artificial en la redacción de tareas escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inteligencia artificial fue creada a finales del siglo XX para automatizar cálculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho histórico objetivo y expositivo, no una tesis debatible."
+        },
+        {
+          "letter": "B",
+          "text": "Muchos estudiantes de undécimo año utilizan aplicaciones móviles inteligentes cotidianamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción de un comportamiento observable, no una tesis que requiera defensa de forma lógica."
+        },
+        {
+          "letter": "C",
+          "text": "El uso desregulado de la inteligencia artificial en el colegio debilita el desarrollo del pensamiento crítico del estudiante costarricense al sustituir el esfuerzo cognitivo individual.",
+          "is_correct": true,
+          "feedback": "Correcto. Expresa una postura debatible, analítica y clara que requiere ser defendida con argumentos sólidos."
+        },
+        {
+          "letter": "D",
+          "text": "Existen diversas aplicaciones gratuitas y de pago para redactar ensayos desde el celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación fáctica informativa sobre la disponibilidad tecnológica en el mercado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis ensayística sólida debe ser una proposición debatible que requiera argumentación racional para sostenerse, en lugar de un hecho indiscutible o puramente descriptivo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.32,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "¿A qué se refiere el concepto de 'refutación' en la estructura del texto argumentativo?",
+      "context": "Durante un taller literario en el cantón de Curridabat, se analizan los componentes lógicos de los discursos políticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la introducción poética que cautiva los sentimientos estéticos de los oyentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se denomina exordio en la retórica clásica."
+        },
+        {
+          "letter": "B",
+          "text": "A la presentación formal del currículum académico del expositor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una cuestión protocolaria externa al cuerpo lógico argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Al proceso de demostrar la falsedad, invalidez o debilidad de los argumentos contrarios para respaldar la postura propia.",
+          "is_correct": true,
+          "feedback": "Correcto. Refutar consiste en destruir la argumentación del oponente mediante contraargumentos lógicos y pruebas consistentes."
+        },
+        {
+          "letter": "D",
+          "text": "A la transcripción de las fuentes consultadas al final del escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la bibliografía o referencias documentales del ensayo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La refutación es la sección argumentativa destinada a impugnar y demostrar las inconsistencias de las tesis opuestas, fortaleciendo la validez de la tesis del autor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.3,
+      "bundle_id": "CR-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}
