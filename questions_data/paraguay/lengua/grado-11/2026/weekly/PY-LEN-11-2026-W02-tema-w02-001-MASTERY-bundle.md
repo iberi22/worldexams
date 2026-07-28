@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.62
 **Contexto:** Clase de lenguaje en PY.
 
@@ -45,7 +45,7 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 ## Question 2 [D3-D4]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.61
 **Contexto:** Clase de lenguaje en PY.
 
@@ -66,7 +66,7 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 ## Question 3 [D3-D4]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.60
 **Contexto:** Clase de lenguaje en PY.
 
@@ -87,7 +87,7 @@ El conector 'ademas' anade informacion.
 ## Question 4 [D3-D4]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Evaluate
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.59
 **Contexto:** Clase de lenguaje en PY.
 
@@ -108,7 +108,7 @@ La opcion A sigue las normas ortograficas correctamente.
 ## Question 5 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.58
 **Contexto:** Clase de lenguaje en PY.
 
@@ -129,7 +129,7 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ## Question 6 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.57
 **Contexto:** Clase de lenguaje en PY.
 
@@ -150,7 +150,7 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ## Question 7 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.56
 **Contexto:** Clase de lenguaje en PY.
 
@@ -171,7 +171,7 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ## Question 8 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.55
 **Contexto:** Clase de lenguaje en PY.
 
@@ -192,7 +192,7 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ## Question 9 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.54
 **Contexto:** Clase de lenguaje en PY.
 
@@ -213,7 +213,7 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 ## Question 10 [D5-D6]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.53
 **Contexto:** Clase de lenguaje en PY.
 
@@ -234,7 +234,7 @@ El texto destaca la importancia del agua como recurso vital.
 ## Question 11 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.52
 **Contexto:** Clase de lenguaje en PY.
 
@@ -255,7 +255,7 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 ## Question 12 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Remember
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.51
 **Contexto:** Clase de lenguaje en PY.
 
@@ -276,7 +276,7 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 ## Question 13 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.50
 **Contexto:** Clase de lenguaje en PY.
 
@@ -297,7 +297,7 @@ El conector 'ademas' anade informacion.
 ## Question 14 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.49
 **Contexto:** Clase de lenguaje en PY.
 
@@ -318,7 +318,7 @@ La opcion A sigue las normas ortograficas correctamente.
 ## Question 15 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.48
 **Contexto:** Clase de lenguaje en PY.
 
@@ -339,7 +339,7 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ## Question 16 [D7-D8]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.47
 **Contexto:** Clase de lenguaje en PY.
 
@@ -360,7 +360,7 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ## Question 17 [D9-D10]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.46
 **Contexto:** Clase de lenguaje en PY.
 
@@ -381,7 +381,7 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ## Question 18 [D9-D10]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.45
 **Contexto:** Clase de lenguaje en PY.
 
@@ -402,7 +402,7 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ## Question 19 [D9-D10]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.44
 **Contexto:** Clase de lenguaje en PY.
 
@@ -423,7 +423,7 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 ## Question 20 [D9-D10]
 **ID:** PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Understand
-**ICFES:** Lengua y Literatura paraguaya
+**EJE:** Lengua y Literatura paraguaya
 **Expected_Success:** 0.43
 **Contexto:** Clase de lenguaje en PY.
 
