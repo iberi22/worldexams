@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo está introduzindo o estudo de sequências numéricas e suas leis de formação.
 
@@ -39,7 +39,7 @@ Uma sequência numérica é um conjunto de números reais dispostos em uma ordem
 ## Question 2 [D3]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Em uma aula no Rio de Janeiro, o professor apresenta a famosa Sequência de Fibonacci, presente em diversos fenômenos da natureza.
 
@@ -58,7 +58,7 @@ A Sequência de Fibonacci é uma sequência recursiva clássica. Após os dois p
 ## Question 3 [D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um analista de sistemas em Brasília cria uma sequência para gerar códigos de identificação de usuários.
 
@@ -77,7 +77,7 @@ Para encontrar um termo específico em uma sequência definida por uma fórmula 
 ## Question 4 [D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um arquiteto em Curitiba projeta uma escadaria onde a altura dos degraus segue uma progressão simples.
 
@@ -96,7 +96,7 @@ Em uma Progressão Aritmética, a razão é a diferença constante entre qualque
 ## Question 5 [D5]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um biólogo em Manaus estuda o crescimento de uma população de formigas que triplica a cada observação.
 
@@ -115,7 +115,7 @@ Em uma Progressão Geométrica, a razão é o quociente constante entre um termo
 ## Question 6 [D5]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um programador em Belo Horizonte utiliza uma sequência definida recursivamente para controlar a animação de um objeto em um jogo.
 
@@ -134,7 +134,7 @@ Trata-se de uma definição recursiva. Partimos de $a_1 = 5$. Aplicamos a regra 
 ## Question 7 [D5]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um engenheiro em Salvador projeta o empilhamento de tubos onde cada camada tem um número fixo de tubos a menos que a anterior.
 
@@ -153,7 +153,7 @@ Usamos a fórmula do termo geral da PA: $a_n = a_1 + (n-1) \cdot r$. Substituind
 ## Question 8 [D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um investidor em Goiânia aplica um capital em um regime onde o saldo cresce conforme uma PG de razão 2.
 
@@ -172,7 +172,7 @@ Usamos a fórmula do termo geral da PG: $a_n = a_1 \cdot q^{n-1}$. Aqui $a_1 = 5
 ## Question 9 [D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Fortaleza desafia os alunos a encontrar o número de termos de uma sequência finita.
 
@@ -191,7 +191,7 @@ Identificamos $a_1 = -3$, $r = 1 - (-3) = 4$ e $a_n = 113$. Pela fórmula: $113 
 ## Question 10 [D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um arquiteto em Porto Alegre analisa as propriedades de uma sequência que não é nem PA nem PG, mas segue uma regra lógica clara.
 
@@ -210,7 +210,7 @@ Podemos observar o padrão das diferenças entre termos: $5-2=3, 10-5=5, 17-10=7
 ## Question 11 [D7]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um estatístico em São Paulo utiliza a soma de progressões para calcular o total de eventos em um período determinado.
 
@@ -231,7 +231,7 @@ Qual é a soma dos 10 primeiros termos da PA $(2, 5, 8, ...)$?
 ## Question 12 [D7]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático estuda a convergência de séries e a soma de termos de uma PG.
 
@@ -250,7 +250,7 @@ Usamos a fórmula da soma da PG finita: $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Com 
 ## Question 13 [D7]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v13
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um pesquisador em Campinas investiga propriedades de sequências onde os termos dependem de parâmetros desconhecidos.
 
@@ -269,7 +269,7 @@ Em uma PA de três termos, o termo médio é a média aritmética dos extremos: 
 ## Question 14 [D7]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada de matemática, os estudantes devem analisar uma sequência de triângulos cujas áreas diminuem em progressão.
 
@@ -288,7 +288,7 @@ Trata-se de uma PG infinita convergente com $a_1 = 1$ e $q = 1/2$. A fórmula pa
 ## Question 15 [D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No vestibular de uma universidade de elite, propõe-se um problema que une os conceitos de PA e PG.
 
@@ -310,7 +310,7 @@ Seja $(a_n)$ uma PA tal que $a_1 = 2$ e $r = 3$. Seja $(b_n)$ uma PG tal que $b_
 ## Question 16 [D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático investiga o produto dos termos de uma Progressão Geométrica finita.
 
@@ -329,7 +329,7 @@ Podemos escrever cada termo como uma potência de 2: $2^1, 2^2, 2^3, 2^4, 2^5$. 
 ## Question 17 [D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v17
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Em um laboratório de física, a temperatura de um objeto cai em progressão aritmética.
 
@@ -348,7 +348,7 @@ O tempo 0 é a1=100. Após 15 minutos, estamos no termo a16. a16 = 100 + 15*(-4)
 ## Question 18 [D9]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático analisa a interpolação geométrica entre dois valores de pressão.
 
@@ -367,7 +367,7 @@ Temos a1=3 e a4=24. 24 = 3 * q^3 => q^3 = 8 => q = 2. A PG é (3, 6, 12, 24). O 
 ## Question 19 [D9]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um analista financeiro estuda o rendimento de um fundo com ganhos exponenciais.
 
@@ -386,7 +386,7 @@ Usamos PG com a1=1000 e q=1,1. O montante após 3 meses é o termo a4 = 1000 * (
 ## Question 20 [D10]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Um pesquisador investiga a soma dos quadrados dos termos de uma PA.
 

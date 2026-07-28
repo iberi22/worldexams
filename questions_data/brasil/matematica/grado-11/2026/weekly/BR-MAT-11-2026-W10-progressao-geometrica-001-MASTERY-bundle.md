@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo está revisando a definição de sequências que crescem ou decrescem por meio de multiplicações sucessivas.
 
@@ -39,7 +39,7 @@ Em uma Progressão Geométrica, a relação entre termos consecutivos é constan
 ## Question 2 [D3]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Um professor no Rio de Janeiro explica como o valor da razão altera a natureza da sequência geométrica.
 
@@ -58,7 +58,7 @@ Para uma PG de termos positivos, se a razão está entre 0 e 1, cada novo termo 
 ## Question 3 [D4]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um biólogo em Manaus observa uma cultura de fungos cuja área ocupada triplica a cada dia de observação.
 
@@ -77,7 +77,7 @@ A razão $q$ de uma PG é encontrada dividindo um termo pelo seu antecessor imed
 ## Question 4 [D4]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um economista em Brasília analisa o crescimento populacional de uma cidade que aumenta 2\% ao ano, caracterizando uma PG.
 
@@ -96,7 +96,7 @@ Em situações de crescimento percentual, a razão da PG é dada por $1 + i$, on
 ## Question 5 [D5]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um técnico em informática em Curitiba analisa a propagação de um boato em uma rede social, onde cada pessoa repassa a informação para duas outras.
 
@@ -115,7 +115,7 @@ Identificamos $a_1 = 3$ e $q = 2$. Aplicando a fórmula do termo geral para $n=6
 ## Question 6 [D5]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um físico em São José dos Campos estuda o rebatimento de uma bola que perde 20\% de sua altura a cada quique.
 
@@ -134,7 +134,7 @@ A altura inicial é o "termo zero" ou podemos considerar a sequência das altura
 ## Question 7 [D6]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um investidor em Belo Horizonte utiliza a fórmula da soma da PG finita para calcular o montante acumulado de aportes mensais fixos com juros compostos.
 
@@ -153,7 +153,7 @@ Usamos a fórmula $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Para $a_1 = 2, q = 3$ e $n
 ## Question 8 [D6]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Em um laboratório químico em Porto Alegre, uma substância radioativa decai pela metade a cada hora.
 
@@ -172,7 +172,7 @@ Para uma PG infinita com $|q| < 1$, a soma converge para $S = \frac{a_1}{1 - q}$
 ## Question 9 [D6]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um designer em Recife cria um mosaico onde o lado de cada quadrado é metade do lado do quadrado anterior.
 
@@ -191,7 +191,7 @@ Lados em PG: $16, 8, 4, 2, 1$. O quinto termo da sequência de lados é $a_5 = 1
 ## Question 10 [D6]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um estudante em Fortaleza resolve equações para encontrar termos médios de uma progressão geométrica.
 
@@ -210,7 +210,7 @@ Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos ex
 ## Question 11 [D7]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um analista de sistemas em São Paulo calcula a capacidade de armazenamento necessária para um backup que dobra de tamanho a cada semana.
 
@@ -229,7 +229,7 @@ Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \frac{1 \cdot (2^{10} - 1)}{2 - 1} = 
 ## Question 12 [D7]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um engenheiro civil em Goiânia utiliza PG para calcular a carga em treliças dispostas de forma escalonada.
 
@@ -249,7 +249,7 @@ Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual 
 ## Question 13 [D7]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Vitória desafia seus alunos a encontrar a fração geratriz de uma dízima periódica usando a soma da PG infinita.
 
@@ -268,7 +268,7 @@ A dízima pode ser escrita como $0,3 + 0,03 + 0,003 + ...$, que é uma PG infini
 ## Question 14 [D7]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um matemático em Porto Alegre estuda as propriedades dos produtos de termos equidistantes em uma PG finita.
 
@@ -287,7 +287,7 @@ Em uma PG finita com número ímpar de termos, o produto dos termos equidistante
 ## Question 15 [D8]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um estatístico analisa um processo de filtragem onde cada etapa remove uma porcentagem fixa de impurezas restantes.
 
@@ -306,7 +306,7 @@ Usamos o termo geral: $a_4 = a_1 \cdot q^3 \Rightarrow 625 = 5 \cdot q^3$. Divid
 ## Question 16 [D8]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático investiga a relação entre os logaritmos dos termos de uma PG.
 
@@ -325,7 +325,7 @@ Pela definição de PA: $2 \cdot \log b = \log a + \log c$. Usando propriedades 
 ## Question 17 [D9]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um pesquisador em Campinas analisa a convergência de uma série geométrica alternada.
 
@@ -344,7 +344,7 @@ Identificamos $a_1 = 1$ e $q = -1/2$. Como $|q| < 1$, aplicamos a fórmula da so
 ## Question 18 [D9]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada, propõe-se um problema envolvendo o produto de uma grande quantidade de termos de uma PG.
 
@@ -363,7 +363,7 @@ O produto de termos de uma PG de base 2 é $2^0 \cdot 2^1 \cdot 2^2 \cdot ... \c
 ## Question 19 [D10]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No vestibular do ITA, propõe-se um problema que relaciona a soma dos termos de uma PG com o seu produto.
 
@@ -382,7 +382,7 @@ Representamos a PG como $(\frac{x}{q}, x, x \cdot q)$. O produto é $(\frac{x}{q
 ## Question 20 [D10]
 **ID:** BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático analisa a área total de um fractal gerado pela soma infinita de áreas de figuras geométricas.
 

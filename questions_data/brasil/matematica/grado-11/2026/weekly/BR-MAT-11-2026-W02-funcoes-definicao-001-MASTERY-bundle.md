@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante de ensino médio em Porto Alegre está aprendendo o conceito fundamental de função como uma relação entre dois conjuntos.
 
@@ -39,7 +39,7 @@ Em uma função $f: A \to B$, o conjunto $A$ é denominado **domínio**. Para qu
 ## Question 2 [D3]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Em uma aula de revisão para o ENEM no Recife, o professor utiliza diagramas de flechas para explicar o que define uma função.
 
@@ -58,7 +58,7 @@ Uma função é uma regra que associa cada elemento $x$ de um conjunto $A$ a um 
 ## Question 3 [D4]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um desenvolvedor de software em Belo Horizonte está criando uma função matemática simples para calcular o custo de frete baseado no peso.
 
@@ -77,7 +77,7 @@ Para encontrar o valor de uma função em um ponto, substituímos a variável in
 ## Question 4 [D4]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um arquiteto em Brasília analisa o gráfico de uma função para entender o perfil de uma rampa.
 
@@ -96,7 +96,7 @@ Pelo "Teste da Reta Vertical", se qualquer reta vertical cruzar o desenho em mai
 ## Question 5 [D5]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um biólogo em Manaus estuda o crescimento de uma população de bactérias e precisa determinar o domínio real da função que modela esse processo.
 
@@ -115,7 +115,7 @@ Em funções racionais, o denominador não pode ser zero. Assim, devemos ter $x 
 ## Question 6 [D5]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Em uma fábrica em Curitiba, o custo total de produção é dado por uma função onde a variável representa a quantidade de peças.
 
@@ -134,7 +134,7 @@ O valor mínimo de $x^2$ é 0 (quando $x=0$). Logo, o valor mínimo de $f(x) = x
 ## Question 7 [D6]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um economista em São Paulo analisa o ponto de equilíbrio de uma empresa através da igualdade entre duas funções.
 
@@ -153,7 +153,7 @@ Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \Rig
 ## Question 8 [D6]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um atleta em treinamento no Rio de Janeiro monitora sua velocidade em função do tempo durante uma corrida.
 
@@ -172,7 +172,7 @@ No conjunto dos números reais, a raiz quadrada de um número negativo não est�
 ## Question 9 [D6]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um motorista de aplicativo em Salvador calcula seu ganho por viagem através de uma função composta por uma taxa fixa e um valor por quilômetro.
 
@@ -191,7 +191,7 @@ Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b =
 ## Question 10 [D6]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um estudante em Fortaleza está resolvendo problemas de funções para as provas bimestrais.
 
@@ -210,7 +210,7 @@ Substituindo $x$ por $-1$ na expressão: $f(-1) = (-1)^2 - 4(-1) + 7$. Como $(-1
 ## Question 11 [D7]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um cientista de dados em São Paulo analisa a classificação de funções para otimizar um modelo de inteligência artificial.
 
@@ -229,7 +229,7 @@ A injetividade significa que não há "colisões": cada valor de $y$ no conjunto
 ## Question 12 [D7]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Goiânia apresenta o concept de função inversa para seus alunos do 3º ano.
 
@@ -248,7 +248,7 @@ Para inverter uma função, cada elemento de $B$ deve vir de um único elemento 
 ## Question 13 [D7]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um engenheiro civil em Vitória estuda a composição de funções para calcular a pressão em diferentes profundidades.
 
@@ -267,7 +267,7 @@ Para calcular $g(f(x))$, substituímos a expressão de $f(x)$ no lugar do $x$ da
 ## Question 14 [D7]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Em um laboratório de física em São José dos Campos, analisa-se a paridade de funções que descrevem ondas.
 
@@ -286,7 +286,7 @@ Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, su
 ## Question 15 [D8]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um analista financeiro em Florianópolis utiliza funções inversas para converter taxas de juros entre diferentes períodos.
 
@@ -305,7 +305,7 @@ Para achar a inversa, chamamos $f(x)$ de $y$ e isolamos $x$: $y = 2x - 4 \Righta
 ## Question 16 [D8]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático estuda o domínio de funções compostas que envolvem raízes e frações.
 
@@ -324,7 +324,7 @@ Temos duas restrições: 1) O radicando de uma raiz de índice par deve ser não
 ## Question 17 [D9]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Em um curso de cálculo em Campinas, discute-se a existência de funções que não possuem lei de formação simples.
 
@@ -343,7 +343,7 @@ A função de Dirichlet está definida para todos os números reais, pois o conj
 ## Question 18 [D9]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Um pesquisador analisa propriedades de funções monótonas e suas relações com a bijetividade.
 
@@ -362,7 +362,7 @@ Uma função estritamente crescente preserva a ordem estrita dos elementos. Isso
 ## Question 19 [D10]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No exame de admissão de uma prestigiada faculdade de engenharia em São Paulo, propõe-se um problema sobre funções funcionais.
 
@@ -381,7 +381,7 @@ Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2
 ## Question 20 [D10]
 **ID:** BR-MAT-11-2026-W02-funcoes-definicao-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático estuda a cardinalidade de conjuntos de funções entre conjuntos finitos.
 

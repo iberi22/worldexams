@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo estuda as características das funções do 2º grau e como identificá-las por sua lei de formação.
 
@@ -39,7 +39,7 @@ Uma função quadrática é definida por um polinômio de grau 2. A presença do
 ## Question 2 [D3]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Um arquiteto no Rio de Janeiro utiliza curvas parabólicas no design de um arco monumental.
 
@@ -58,7 +58,7 @@ Diferente das funções lineares, a taxa de variação das funções quadrática
 ## Question 3 [D4]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Em uma aula de física em Curitiba, analisa-se a concavidade da trajetória de um projétil lançado para cima.
 
@@ -77,7 +77,7 @@ O coeficiente $a$ (termo dominante) define a "abertura" e a orientação da par�
 ## Question 4 [D4]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um engenheiro civil em Brasília analisa os pontos onde uma ponte encosta no solo, representados pelas raízes da função.
 
@@ -96,7 +96,7 @@ O discriminante ($\Delta$) é fundamental para entender a interseção da paráb
 ## Question 5 [D5]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um biólogo em Manaus estuda a área ocupada por uma colônia de fungos, que cresce de forma quadrática com o tempo.
 
@@ -115,7 +115,7 @@ Podemos usar a soma ($S = -b/a = 6$) e o produto ($P = c/a = 5$) das raízes. Do
 ## Question 6 [D5]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um fotógrafo em Belo Horizonte quer entender em que ponto sua lente captura o foco máximo, modelado por uma parábola.
 
@@ -134,7 +134,7 @@ Para encontrar o intercepto $y$, basta calcular $f(0)$. Em qualquer função do 
 ## Question 7 [D6]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um projétil é lançado de um ponto em Salvador e sua altura $h$ em metros segue a função $h(t) = -5t^2 + 20t$.
 
@@ -153,7 +153,7 @@ A altura máxima ocorre no vértice da parábola. A coordenada $t$ do vértice �
 ## Question 8 [D6]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um administrador de empresas em Porto Alegre analisa a função custo de produção para minimizar gastos.
 
@@ -172,7 +172,7 @@ O vértice $V(x_v, y_v)$ tem $x_v = -b / 2a = 8 / 2 = 4$. Substituindo $x=4$ na 
 ## Question 9 [D6]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um designer em Recife projeta um logotipo usando uma parábola que toca o eixo $x$ em apenas um ponto.
 
@@ -191,7 +191,7 @@ Uma função quadrática possui apenas uma raiz real (ou duas raízes iguais) qu
 ## Question 10 [D6]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um agrimensor em Manaus analisa a curvatura de um terreno modelada por uma função do 2º grau.
 
@@ -210,7 +210,7 @@ Encontramos as raízes resolvendo $-x^2 + 10x - 21 = 0$. $\Delta = 100 - 84 = 16
 ## Question 11 [D7]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um investidor em São Paulo monitora o valor de uma ação que seguiu uma trajetória parabólica ao longo de um dia de negociações.
 
@@ -229,7 +229,7 @@ O valor mínimo da função é a coordenada $y$ do vértice ($y_v$). Como $a > 0
 ## Question 12 [D7]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Goiânia mostra como determinar a lei de uma função quadrática a partir de seus pontos notáveis.
 
@@ -248,7 +248,7 @@ Usamos a forma fatorada: $f(x) = a(x - x_1)(x - x_2)$. Assim, $f(x) = a(x + 1)(x
 ## Question 13 [D7]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um analista de sistemas em Florianópolis otimiza um código que calcula a trajetória de objetos em um jogo digital.
 
@@ -267,7 +267,7 @@ Para que uma função do 2º grau não tenha raízes reais, o discriminante deve
 ## Question 14 [D7]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um arquiteto paisagista em Porto Alegre projeta um canteiro retangular onde a área deve ser maximizada para um dado perímetro.
 
@@ -286,7 +286,7 @@ A função área é $A(x) = -x^2 + 10x$. O valor máximo ocorre no vértice $x_v
 ## Question 15 [D8]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um economista em São Paulo analisa a função receita de uma loja, dada pelo produto do preço pela quantidade vendida.
 
@@ -305,7 +305,7 @@ A função receita é $R(p) = -2p^2 + 60p$. Esta é uma função quadrática com
 ## Question 16 [D8]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um físico em São José dos Campos estuda a energia potencial de uma mola, que é uma função quadrática da deformação.
 
@@ -324,7 +324,7 @@ Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. S
 ## Question 17 [D9]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um matemático em Campinas investiga as propriedades das somas e produtos de raízes em funções com parâmetros variáveis.
 
@@ -343,7 +343,7 @@ Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \cdot x_2 = m - 1$. A exp
 ## Question 18 [D9]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada de matemática, os estudantes devem analisar o comportamento de uma parábola cujos coeficientes dependem de um sorteio.
 
@@ -362,7 +362,7 @@ Como $b = 0$, o eixo de simetria é o próprio eixo $y$ ($x_v = 0$). O vértice 
 ## Question 19 [D10]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No vestibular de uma universidade militar de elite no Brasil, avalia-se o conhecimento profundo sobre o deslocamento de parábolas.
 
@@ -381,7 +381,7 @@ A translação de $h$ unidades para a direita e $k$ para cima transforma $f(x)$ 
 ## Question 20 [D10]
 **ID:** BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático em São Paulo estuda a área de triângulos cujos vértices são pontos notáveis de uma parábola.
 
