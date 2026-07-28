@@ -1,3 +1,8 @@
 ---
+// Join deep-links: /practica?join=CODE → /sala-examenes?join=CODE (RoomApp)
+const join = Astro.url.searchParams.get('join');
+if (join) {
+  return Astro.redirect(`/sala-examenes?join=${encodeURIComponent(join)}`);
+}
 return Astro.redirect('/');
 ---

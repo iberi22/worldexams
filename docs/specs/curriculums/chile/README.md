@@ -1,38 +1,26 @@
-# 🇨🇱 Malla Curricular Chile
+# Curriculum map — chile (CL)
 
-> **Entidad Reguladora:** Ministerio de Educación (MINEDUC)
-> **Agencia / Instituto evaluador:** DEMRE (Univ. de Chile)
-> **Examen Oficial:** PAES (Prueba de Acceso a la Educación Superior)
-> **Última Actualización:** 2023 (Implementación PAES)
-> **Fuentes Oficiales:** [MINEDUC](https://www.mineduc.cl), [DEMRE](https://www.demre.cl)
-> **Formato de Calificación:** Escala 100-1000 puntos (Escala actual PAES).
+Source of truth for Jules issue tables (W01–W40 × grade × subject).
 
----
+## How to use
+1. Pick grade + subject from `skills/bundle-creator/rules/CL.md`
+2. Fill topic per week below (or extend this file)
+3. Generate issues: `node scripts/generate-jules-issue-matrix.mjs --country CL --grade 11 --subject matematicas --from 1 --to 10`
 
-## 📚 Estructura del Sistema Educativo (MINEDUC)
+## G11 core weeks (starter skeleton)
 
-| Nivel | Duración | Grados/Años |
-|-------|----------|-------------|
-| **Educación Básica** | 8 años | 1° a 8° año básico |
-| **Enseñanza Media** | 4 años | 1° a 4° año medio |
+| Week | Tema placeholder (replace with ministry topic) |
+|------|--------------------------------------------------|
+| W01 | fundamentos-01 |
+| W02 | fundamentos-02 |
+| W03 | fundamentos-03 |
+| W04 | fundamentos-04 |
+| W05 | fundamentos-05 |
+| W06 | fundamentos-06 |
+| W07 | fundamentos-07 |
+| W08 | fundamentos-08 |
+| W09 | fundamentos-09 |
+| W10 | repaso-p1 |
+| W11–W40 | Extend per subject map in country rule |
 
----
-
-## 📐 PAES (Prueba de Acceso a la Educación Superior)
-- **Obligatorias:** Competencia Lectora (CL) y Competencia Matemática 1 (M1).
-- **Electivas:** Competencia Matemática 2 (M2), Ciencias, Historia y Ciencias Sociales.
-
----
-
-## 🎓 Universidades Principales
-- **UCH:** Universidad de Chile.
-- **PUC:** Pontificia Universidad Católica de Chile.
-- **USACH:** Universidad de Santiago de Chile.
-
----
-
-## 🇨🇱 Contexto Cultural
-- **Moneda:** Peso Chileno ($ / CLP).
-- **Geografía:** Santiago, Valparaíso, Concepción, Desierto de Atacama, Patagonia.
-- **Nombres:** Benjamín, Florencia, Agustín, Valentina.
-- **Referencias:** Fiestas Patrias (18), Cordillera de los Andes, poetas (Neruda, Mistral).
+Replace placeholders before creating Jules waves. Keep ASCII kebab-case topics.

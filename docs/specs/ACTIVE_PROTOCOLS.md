@@ -1,40 +1,48 @@
 # Active Protocols
 
-Last updated: 2026-03-17
+Last updated: 2026-07-28
 
 ## Purpose
 
 This file defines which product and operational protocols are active by default.
-If another protocol document conflicts with this file, validate against the root governance layer before acting.
+If another protocol document conflicts with this file, **root `AGENTS.md` wins**.
 
 ## Active Defaults
 
 | Area | Default authority | Notes |
 |---|---|---|
-| Question generation | `docs/QUESTION_GENERATION_PROTOCOL_V5.md` | Default for new Grade 11 `MASTERY` generation in `questions_data/`; v3 remains historical for legacy bundles |
-| PREU Generation | `docs/QUESTION_GENERATION_PROTOCOL_V5.md` | **ACTIVE v5.2** - Pre-university bundles must follow institutional blueprints (UNAL, UdeA) |
-| Colombia assessment | `skills/colombia-assessment-protocol-v6/SKILL.md` | Protocolo v6 para generación manual de bundles Colombia |
-| Question review | `skills/worldexams-question-reviewer/SKILL.md` | Sistema de validación automática - REGLA: 2+ errores = REGENERAR |
-| Country onboarding | `docs/specs/REPLICACION.md` | New countries should reuse shared logic/UI |
-| Product deploy | `saberparatodos/PROTOCOLO_DEPLOY_CLI.md` | Manual CLI deploy path |
+| Question generation | **`AGENTS.md` + protocol v5.2** | Weekly MASTERY bundles; validator: `npm run validate` → `scripts/validate-bundles-v52.mjs` |
+| Jules entry skills | `skills/worldexams-bundle-generator/SKILL.md` + `skills/bundle-creator/SKILL.md` | Always read `skills/bundle-creator/rules/{CODE}.md` |
+| Hermes × Jules ops | `docs/HERMES_JULES_WORKFLOW.md` | Atomic issues, anti-overlap waves |
+| Issue template | `.github/ISSUE_TEMPLATE/jules-bundle-generation.md` | Max 15 bundles/issue |
+| Country readiness KPI | `scripts/audit-country-readiness.mjs` | 2000 published validated questions/country |
+| Question review | `skills/worldexams-question-reviewer/SKILL.md` | 2+ errors → regenerate |
+| Country onboarding | `docs/specs/REPLICACION.md` | Config/content first; no app forks |
+| Product deploy | `saberparatodos/PROTOCOLO_DEPLOY_CLI.md` | Manual CLI deploy |
 | Repo governance | `README.md`, `AGENTS.md`, `.gitcore/ARCHITECTURE.md` | Root layer wins |
-| UNAL Blueprint | `docs/specs/PREU_UNAL_BLUEPRINT.md` | Focus on Image Analysis and 5 components |
-| UdeA Blueprint | `docs/specs/PREU_UDEA_BLUEPRINT.md` | Focus on Logical Reasoning and Reading |
+| PREU (Colombia) | `docs/specs/PREU_UNAL_BLUEPRINT.md`, `docs/specs/PREU_UDEA_BLUEPRINT.md` | Institutional mocks; still use v5.2 frontmatter when published as weekly |
 
-## Historical Or Specialized References
+## Historical / Non-default (do not use for new LATAM generation)
 
-| File | Current role | Rule |
+| File | Role | Rule |
 |---|---|---|
-| `docs/QUESTION_GENERATION_PROTOCOL_V2.md` | historical migration reference for v2.x bundles | Do not use as the default for new generation work |
-| `docs/QUESTION_GENERATION_PROTOCOL_V3.md` | legacy default for older 10-question bundles | Use only for maintaining legacy v3 content; do not use for new Grade 11 mastery work |
-| `docs/MODERN_QUESTIONS_PROTOCOL.md` | specialized style overlay | Use only if explicitly requested and reconcile with v3 first |
-| `docs/API_REAL_SETUP.md` | historical API setup snapshot | Validate runtime/package paths before using it |
+| `PROTOCOL_v7.md` | Aspirational / historical | **Not default.** Do not instruct Jules to use v7 validator for new work. |
+| `scripts/validate-bundles-v7.mjs` | Historical validator | Prefer `validate-bundles-v52.mjs` |
+| `scripts/generate-jules-issues.mjs` | Regen helper that cites v7 | Prefer `scripts/generate-jules-issue-matrix.mjs` + Hermes Planner |
+| `skills/colombia-assessment-protocol-v6/SKILL.md` | Colombia-only legacy overlay | Use only when explicitly maintaining v6 Colombia batches |
+| `docs/QUESTION_GENERATION_PROTOCOL_V5.md` | Grade-11 periodo-era docs | Superseded by AGENTS weekly path for new work |
+| `docs/QUESTION_GENERATION_PROTOCOL_V2.md` … `V4.md` | Migration references | Do not use for new generation |
+| `docs/MODERN_QUESTIONS_PROTOCOL.md` | Style overlay | Only if explicitly requested |
+
+## Canonical path (all new weekly bundles)
+
+```text
+questions_data/{country}/{subject}/grado-{N}/2026/weekly/
+  {CODE}-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle.md
+```
+
+Brasil EM exception: `questions_data/brasil/matematica/3o-ano/2026/weekly/` with grade token `3EM`.
 
 ## Monorepo Rule
 
-Protocols must support:
-
-- shared application logic
-- shared UI foundation
-- country variation through configuration, content, branding, localization, and SEO
-- manual/private operational flows unless root governance says otherwise
+Protocols must support shared app logic/UI; country variation via config, content, branding, localization, and SEO only.

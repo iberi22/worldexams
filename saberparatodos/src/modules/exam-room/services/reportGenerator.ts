@@ -290,16 +290,126 @@ class ReportGeneratorService {
   }
 
   /**
-   * Genera reporte PDF (requiere jsPDF y html2canvas)
+   * Genera reporte PDF real con jsPDF (dependencia ya instalada).
+   * Construye el documento desde los datos del reporte (no depende del DOM),
+   * y cae al HTML como fallback si jsPDF falla (p. ej. entorno sin canvas).
    */
   private async generatePDFReport(
     results: RoomResults,
     options: ReportOptions
   ): Promise<Blob> {
-    // TODO: Implementar con jsPDF y html2canvas (dependencias ya instaladas)
-    // Por ahora, devolvemos el HTML como fallback
-    const html = this.generateHTMLReport(results, options);
-    return new Blob([html], { type: 'text/html' });
+    try {
+      const { jsPDF } = await import('jspdf');
+      const doc = new jsPDF({ unit: 'pt', format: 'a4' });
+
+      const pageWidth = doc.internal.pageSize.getWidth();
+      const pageHeight = doc.internal.pageSize.getHeight();
+      const margin = 48;
+      let y = margin;
+
+      const ensureSpace = (needed: number) => {
+        if (y + needed > pageHeight - margin) {
+          doc.addPage();
+          y = margin;
+        }
+      };
+      const writeWrapped = (text: string, lineHeight: number, size = 11) => {
+        doc.setFontSize(size);
+        const lines = doc.splitTextToSize(text, pageWidth - margin * 2) as string[];
+        for (const line of lines) {
+          ensureSpace(lineHeight);
+          doc.text(line, margin, y);
+          y += lineHeight;
+        }
+      };
+
+      // Header
+      doc.setFontSize(24);
+      doc.text('Reporte de Examen', margin, y);
+      y += 26;
+      doc.setFontSize(14);
+      doc.text(String(results.roomName || ''), margin, y);
+      y += 18;
+      doc.setFontSize(10);
+      doc.text(
+        `Generado el ${new Date(results.generatedAt).toLocaleDateString('es-CO', { dateStyle: 'long' })}`,
+        margin,
+        y
+      );
+      y += 30;
+
+      // General stats
+      doc.setFontSize(16);
+      doc.text('Estadísticas Generales', margin, y);
+      y += 20;
+      doc.setFontSize(11);
+      const stats: [string, string][] = [
+        ['Participantes', String(results.totalPlayers)],
+        ['Completaron', String(results.completedPlayers)],
+        ['Promedio', String(Math.round(results.averageScore))],
+        ['Tiempo promedio', `${Math.round(results.averageTime / 1000)}s`],
+      ];
+      for (const [label, value] of stats) {
+        ensureSpace(16);
+        doc.text(`${label}: ${value}`, margin, y);
+        y += 16;
+      }
+      y += 14;
+
+      // Ranking
+      doc.setFontSize(16);
+      ensureSpace(24);
+      doc.text('Ranking de Participantes', margin, y);
+      y += 20;
+      const sorted = [...results.playerStats].sort((a: any, b: any) => b.score - a.score);
+      sorted.forEach((player: any, index: number) => {
+        ensureSpace(34);
+        doc.setFontSize(12);
+        doc.text(`#${index + 1} ${player.playerName} — ${player.score} pts`, margin, y);
+        y += 14;
+        doc.setFontSize(10);
+        const suspicious =
+          player.suspiciousEvents > 0 ? ` • ⚠ ${player.suspiciousEvents} eventos sospechosos` : '';
+        doc.text(
+          `${player.correctAnswers}/${player.totalQuestions} correctas • Promedio: ${Math.round(player.averageTimePerQuestion / 1000)}s${suspicious}`,
+          margin + 12,
+          y
+        );
+        y += 18;
+      });
+      y += 10;
+
+      // Recommendations
+      if (options.includeRecommendations) {
+        doc.setFontSize(16);
+        ensureSpace(24);
+        doc.text('Recomendaciones Personalizadas', margin, y);
+        y += 22;
+        for (const player of sorted as any[]) {
+          ensureSpace(20);
+          doc.setFontSize(12);
+          doc.text(String(player.playerName), margin, y);
+          y += 15;
+          writeWrapped(String(player.recommendation || ''), 14, 10);
+          y += 10;
+        }
+      }
+
+      // Footer
+      ensureSpace(20);
+      doc.setFontSize(9);
+      doc.text(
+        `© ${new Date().getFullYear()} Saber Para Todos • Generado automáticamente`,
+        margin,
+        y
+      );
+
+      return doc.output('blob');
+    } catch (err) {
+      console.warn('[ReportGenerator] PDF generation failed, falling back to HTML:', err);
+      const html = this.generateHTMLReport(results, options);
+      return new Blob([html], { type: 'text/html' });
+    }
   }
 
   /**

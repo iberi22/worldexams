@@ -88,7 +88,9 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
     const tryStaticPackCandidates = async (): Promise<Response | null> => {
       // Prefer subject-specific packs first, then generic grade packs.
       const subjectCandidatePaths: string[] = [];
-      const countryCode = getExplicitProductCountryCode() || 'co';
+      // Prefer runtime geo/tenant country from #api-config; build-time site country is last resort.
+      const countryCode =
+        (runtimeApiConfig.countryCode || getExplicitProductCountryCode() || 'co').toLowerCase();
       
       if (normalizedSubject) {
         for (const subjectAlias of getPackSubjectAliases(normalizedSubject)) {

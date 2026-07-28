@@ -3,8 +3,10 @@ import '../styles/global.css';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.svelte';
+import InstallPrompt from '../components/InstallPrompt.svelte';
 import VersionBadge from '../components/VersionBadge.svelte';
 import CountryBanner from '../components/CountryBanner.astro';
+import ContentComingSoon from '../components/ContentComingSoon.astro';
 import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
 import packageInfo from '../../package.json';
 
@@ -277,6 +279,14 @@ const webAppSchema = {
 
     {showCountryBanner && <CountryBanner currentCountry={Astro.locals.countryCode} />}
 
+    {Astro.locals.countryHasContent === false && (
+      <ContentComingSoon
+        countryName={Astro.locals.countryName}
+        countryFlag={Astro.locals.countryFlag}
+        countryCode={Astro.locals.countryCode}
+      />
+    )}
+
     <main class="flex-1">
 		  <slot />
     </main>
@@ -293,6 +303,9 @@ const webAppSchema = {
 
         <!-- Global Feedback Button -->
         <GlobalFeedbackButton client:idle />
+
+        <!-- PWA Install Prompt -->
+        <InstallPrompt client:only="svelte" />
       </>
     )}
 
