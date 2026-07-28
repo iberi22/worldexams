@@ -56,6 +56,10 @@
   import PeriodTracker from './PeriodTracker.svelte';
   import PeriodTrackerModal from './PeriodTrackerModal.svelte';
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
+  import {
+    isSupabaseMirrorEnabled,
+    maybeUpdatePartySession,
+  } from '../modules/exam-room/services/authPersistence';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
 
   let {
@@ -87,6 +91,7 @@
   let showOfflineProfile = $state(false); // Modal for offline profile
   let blogSubjectFilter = $state(null); // 🆕 Pre-filter for BlogView from LocalReportsView
   let isNavigatingToBlog = $state(false); // 🆕 Loading state for Blog navigation
+  let articleReturnView = $state(AppView.BLOG); // Where ArticleView should return (BLOG | RESULTS)
   let buildInfo = $state(null); // Dynamic build info
     let showUpdateModal = $state(false); // 🆕 New version available modal
   let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
@@ -139,6 +144,55 @@
     if (newView === AppView.LANDING || newView === AppView.SUBJECT_SELECTION) {
       generatedExamQuestions = null;
     }
+    if (newView !== AppView.ARTICLE && typeof window !== 'undefined') {
+      clearRevisarDeepLink();
+    }
+  }
+
+  function setRevisarDeepLink(questionId) {
+    if (typeof window === 'undefined' || !questionId) return;
+    const url = new URL(window.location.href);
+    url.searchParams.set('revisar', String(questionId));
+    url.searchParams.delete('q');
+    window.history.replaceState({}, '', `${url.pathname}?${url.searchParams.toString()}`);
+  }
+
+  function clearRevisarDeepLink() {
+    if (typeof window === 'undefined') return;
+    const url = new URL(window.location.href);
+    if (!url.searchParams.has('revisar') && !url.searchParams.has('q')) return;
+    url.searchParams.delete('revisar');
+    url.searchParams.delete('q');
+    const qs = url.searchParams.toString();
+    window.history.replaceState({}, '', qs ? `${url.pathname}?${qs}` : url.pathname);
+  }
+
+  function openRevisarArticle(article, returnView = AppView.BLOG) {
+    if (!article) return;
+    selectedArticle = article;
+    articleReturnView = returnView;
+    setRevisarDeepLink(article.id);
+    view = AppView.ARTICLE;
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new CustomEvent('app-view-change', { detail: { view: AppView.ARTICLE } }));
+    }
+  }
+
+  async function openRevisarHome() {
+    isNavigatingToBlog = true;
+    try {
+      if (loadedQuestions.length === 0) {
+        loadedQuestions = await fetchQuestionsForGrade(primaryLandingGrade, 150);
+        fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10], 150).catch((e) =>
+          console.warn('Background prefetch error:', e)
+        );
+      }
+      setView(AppView.BLOG);
+    } finally {
+      setTimeout(() => {
+        isNavigatingToBlog = false;
+      }, 300);
+    }
   }
 
   function enterExamView() {
@@ -179,12 +233,13 @@
     const { data: { session: currentSession } } = await supabase.auth.getSession();
     user = currentSession?.user || null;
 
-    // 🆕 Check for URL Params (Room Code or Direct Subject)
+    // 🆕 Check for URL Params (Room Code, Direct Subject, or Revisar deep-link)
     const urlParams = new URLSearchParams(window.location.search);
     const joinCode = urlParams.get('join');
     const subjectParam = urlParams.get('subject');
     const gradeParam = urlParams.get('grade');
     const onboardingComplete = urlParams.get('onboarding') === 'complete';
+    const revisarId = urlParams.get('revisar') || urlParams.get('q');
 
     if (joinCode) {
       initialRoomCode = joinCode;
@@ -197,6 +252,32 @@
          showExamConfigModal = true;
        }
        window.history.replaceState({}, '', '/');
+    } else if (revisarId && runtimeCountry.features?.blog) {
+      // Deep-link into Revisar / Article without a full router rewrite
+      try {
+        isNavigatingToBlog = true;
+        const gradeHint = gradeParam ? parseInt(gradeParam, 10) : primaryLandingGrade;
+        if (loadedQuestions.length === 0) {
+          loadedQuestions = await fetchQuestionsForGrade(gradeHint || primaryLandingGrade, 150);
+        }
+        const needle = String(revisarId).trim().toLowerCase();
+        let match = loadedQuestions.find((q) => String(q.id).trim().toLowerCase() === needle);
+        if (!match) {
+          const bulk = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 200);
+          const existingIds = new Set(loadedQuestions.map((q) => q.id));
+          loadedQuestions = [...loadedQuestions, ...bulk.filter((q) => !existingIds.has(q.id))];
+          match = loadedQuestions.find((q) => String(q.id).trim().toLowerCase() === needle);
+        }
+        if (match) {
+          openRevisarArticle(match, AppView.BLOG);
+        } else {
+          setView(AppView.BLOG);
+        }
+      } catch (err) {
+        console.warn('Failed to open Revisar deep-link', err);
+      } finally {
+        isNavigatingToBlog = false;
+      }
     }
 
     if (currentSession?.user && onboardingComplete) {
@@ -473,42 +554,29 @@
           console.log('📦 Preguntas de fallback generadas:', generatedExamQuestions.length);
       }
 
-      // 2. 🆕 CRÍTICO: Primero obtener exam_config actual, luego actualizar con preguntas
-      try {
-        const { data: currentData } = await supabase
-          .from('party_sessions')
-          .select('exam_config')
-          .eq('party_code', roomCode)
-          .single();
-
-        const startedAt = new Date().toISOString();
-        const updatedConfig = {
-          ...(currentData?.exam_config || {}),
-          questions: generatedExamQuestions // 🎯 Asegurar que las preguntas estén en BD
-        };
-
-        // Ahora actualizar status y exam_config juntos
-        await supabase.from('party_sessions')
-            .update({
-              status: 'active',
-              current_question: 0,
-              started_at: startedAt,
-              exam_config: updatedConfig
-            })
-            .eq('party_code', roomCode);
-
-        console.log('✅ Sala iniciada: status=active, preguntas sincronizadas en BD');
-
-        // 2b. Broadcast via P2P (fallback si Realtime falla)
-        p2pService.broadcast('START_EXAM', {
-            questions: generatedExamQuestions,
-            timeLimitSeconds: examConfig.timeLimitSeconds || 0,
-            startedAt: startedAt,
-            isEnglishDiagnostic: examConfig.isEnglishDiagnostic || false
-        });
-      } catch (err) {
-        console.error('❌ Error actualizando sesión de sala:', err);
+      const startedAt = new Date().toISOString();
+      if (isSupabaseMirrorEnabled()) {
+        try {
+          await maybeUpdatePartySession(roomCode, {
+            status: 'active',
+            current_question: 0,
+            started_at: startedAt,
+            exam_config: {
+              ...(roomState.config || {}),
+              questions: generatedExamQuestions,
+            },
+          });
+        } catch (err) {
+          console.warn('No se pudo actualizar el mirror de la sala:', err);
+        }
       }
+
+      p2pService.broadcast('START_EXAM', {
+          questions: generatedExamQuestions,
+          timeLimitSeconds: examConfig.timeLimitSeconds || 0,
+          startedAt,
+          isEnglishDiagnostic: examConfig.isEnglishDiagnostic || false
+      });
 
       // 3. Switch View to EXAM
       console.log('🎬 Cambiando a vista EXAM...');
@@ -534,8 +602,7 @@
 
 
   function handleArticleSelect(article) {
-    selectedArticle = article;
-    setView(AppView.ARTICLE);
+    openRevisarArticle(article, AppView.BLOG);
   }
 
   async function handleGradeSelect(grade) {
@@ -629,6 +696,20 @@
     lastExamData = examData;
     userAnswers = answers;
 
+    try {
+      // Dynamic import avoids circular weight on landing
+      import('../lib/mejora-interna-telemetry').then(({ recordMejoraInterna }) => {
+        recordMejoraInterna('exam_finished', {
+          grade: examData?.grade,
+          subject: examData?.subject,
+          questionCount: Array.isArray(examData?.questions) ? examData.questions.length : undefined,
+          room: Boolean(roomCode),
+        });
+      }).catch(() => {});
+    } catch {
+      // ignore
+    }
+
     // Mark questions as answered in memory
     if (examData?.questions) {
       // 🆕 Calculate total available for this context to prevent premature clearing
@@ -716,7 +797,7 @@
         11, // Default grade for Speed Mode
         'Speed Challenge',
         {
-          connectionMode: 'supabase',
+          connectionMode: 'edge-mesh',
           maxPlayers: 100,
           timePerQuestion: 15,
           totalQuestions: config.totalQuestions,
@@ -758,16 +839,27 @@
       showLobbyBrowser = false;
       isLoadingQuestions = true;
 
-      // Fetch the session config
-      const { data, error } = await supabase
-        .from('party_sessions')
-        .select('*')
-        .eq('party_code', code)
-        .single();
+      await roomState.fetchPublicRooms(countryCode || undefined);
+      const room = roomState.publicRooms.find((candidate) => candidate.party_code === code);
+      if (!room) throw new Error('No se pudo encontrar la sala en el mesh.');
 
-      if (error || !data) throw new Error('No se pudo encontrar la sala.');
-
-      const config = data.exam_config;
+      const meshConfig = room.exam_config || {};
+      const config = {
+        id: code,
+        name: meshConfig.name || `Sala ${code}`,
+        hostId: room.students?.[0]?.id || room.host_name || 'mesh-host',
+        hostName: room.host_name || 'Host',
+        maxPlayers: room.max_students || 50,
+        timePerQuestion: meshConfig.timePerQuestion || 15,
+        totalQuestions: meshConfig.totalQuestions || 20,
+        grado: meshConfig.grado || 11,
+        asignatura: meshConfig.asignatura || 'Desafío Speed',
+        region: meshConfig.region,
+        countryCode: meshConfig.countryCode,
+        connectionMode: 'edge-mesh',
+        mode: meshConfig.mode || 'stop',
+        createdAt: new Date(room.created_at || Date.now()),
+      };
 
       // Join via roomState
       await roomState.joinRoom(code, playerName || 'Jugador', config);
@@ -1229,46 +1321,21 @@
           </div>
           -->
 
-          <!--
-          {#if false && runtimeCountry.features?.blog}
+          {#if runtimeCountry.features?.blog}
           <FlashlightCard
-            onClick={async () => {
-              isNavigatingToBlog = true;
-              try {
-                // 🆕 Use NEW grade-specific endpoint for Blog view
-                // Load only grade 11 by default (1 small request instead of 1 large request with all grades)
-                if (loadedQuestions.length === 0) {
-                  console.log('📚 Loading questions for Blog view using grade-specific endpoint...');
-                  // Single request for the primary grade first
-                  loadedQuestions = await fetchQuestionsForGrade(primaryLandingGrade, 150);
-
-                  console.log(`✅ Loaded ${loadedQuestions.length} questions for grade 11`);
-                  console.log(`📊 Performance: ~40KB instead of ~150KB (73% smaller)`);
-
-                  // Pre-fetch all other grades in background for instant switching
-                  fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10], 150).catch(e => console.warn('Background prefetch error:', e));
-                }
-                setView(AppView.BLOG);
-              } finally {
-                // Use a small delay for smoother transition
-                setTimeout(() => { isNavigatingToBlog = false; }, 300);
-              }
-            }}
-            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-[#003893]/40 transition-transform duration-300 hover:scale-105"
+            onClick={openRevisarHome}
+            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/40 transition-transform duration-300 hover:scale-105"
           >
-            <div class="mb-4 text-[#003893] opacity-60 group-hover:opacity-100">
-              <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none">
-                <path d="M6 8h28v28H6V8z" stroke="currentColor" stroke-width="2" fill="none"/>
-                <path d="M6 8l14 10 14-10" stroke="currentColor" stroke-width="2" fill="none"/>
-                <rect x="12" y="22" width="16" height="2" fill="currentColor" opacity="0.5"/>
-                <rect x="12" y="27" width="12" height="2" fill="currentColor" opacity="0.3"/>
+            <div class="mb-4 text-emerald-500 opacity-70 group-hover:opacity-100 transition-opacity">
+              <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+                <path d="M8 10h24v22H8V10z" stroke="currentColor" stroke-width="2" fill="none"/>
+                <path d="M12 16h16M12 21h12M12 26h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
               </svg>
             </div>
-            <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Blog / Artículos</h3>
-            <p class="text-xs opacity-40">Explorar banco de preguntas</p>
+            <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-[#F5F5DC]">Revisar</h3>
+            <p class="text-xs opacity-40">Banco social · discutir preguntas</p>
           </FlashlightCard>
           {/if}
-          -->
         </div>
 
         <!-- CTA Button -->
@@ -1380,6 +1447,7 @@
           onHome={() => setView(AppView.LANDING)}
           onLeaderboard={() => setView(AppView.LEADERBOARD)}
           onViewReports={() => showLocalReports = true}
+          onDiscussQuestion={(question) => openRevisarArticle(question, AppView.RESULTS)}
           onLogin={() => setView(AppView.LOGIN)}
         />
       </div>
@@ -1430,7 +1498,11 @@
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <ArticleView
           question={selectedArticle}
-          onBack={() => setView(AppView.BLOG)}
+          onBack={() => {
+            selectedArticle = null;
+            clearRevisarDeepLink();
+            setView(articleReturnView || AppView.BLOG);
+          }}
         />
       </div>
     {/if}

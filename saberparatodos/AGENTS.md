@@ -17,6 +17,7 @@ This file adds package-local rules only. Root governance still lives in `../AGEN
 - Keep runtime changes tenant-aware through shared config and explicit tenant content modules.
 - Do not create country forks of the app when config, content, SEO, or theming is sufficient.
 - Maintain mobile-first behavior, accessibility, and the existing product visual language.
+- `features.blog` gates **Revisar / Banco social** (question browser + ArticleView comments). Deep-link with `?revisar=<questionId>`.
 
 ### Tenanting
 

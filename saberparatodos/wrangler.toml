@@ -14,14 +14,15 @@ binding = "ASSETS"
 [vars]
 PUBLIC_API_BASE_URL = "/api"
 PUBLIC_SITE_URL = "https://saberparatodos.space"
+PUBLIC_ROOMS_SUPABASE_MIRROR = "false"
 PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co"
 PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc"
 
 # Production environment
 [env.production]
-vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc" }
+vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_ROOMS_SUPABASE_MIRROR = "false", PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc" }
 
 # Preview/staging environment
 [env.preview]
 workers_dev = true
-vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev" }
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev", PUBLIC_ROOMS_SUPABASE_MIRROR = "false" }

@@ -27,12 +27,12 @@
     "build:saberparatodos": "npm run build -w saberparatodos",
     "build:worldexams-api": "npm run build -w @worldexams/worldexams-api",
     "build:workspaces": "npm run build:landing-worldexams && npm run build:saberparatodos && npm run build:worldexams-api",
-    "generate-api": "powershell -File scripts/generate-questions-api.ps1",
-    "audit:supabase:functions": "powershell -File scripts/audit-supabase-functions.ps1",
     "preview": "npm run preview -w @worldexams/landing-worldexams",
     "test:e2e": "npm run test -w worldexams-e2e-tests",
     "astro": "npm run astro -w @worldexams/landing-worldexams",
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "jules:issue-matrix": "node scripts/generate-jules-issue-matrix.mjs",
+    "smoke:geo": "node scripts/smoke-geo-routing.mjs"
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
@@ -67,10 +67,8 @@
       "yaml": "^2.8.3"
     },
     "smol-toml": "^1.6.1",
-    "js-yaml": "4.3.0",
-    "gray-matter": {
-      "js-yaml": "4.3.0"
-    }
+    "js-yaml@3": "3.15.0",
+    "js-yaml@4": "4.3.0"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",

@@ -79,21 +79,22 @@ describe('question-memory', () => {
       expect(result.filtered).not.toContainEqual(q2);
     });
 
-    it('resets memory PARTIALLY when all questions in current pool are exhausted', () => {
+    it('uses spaced repetition when all questions in current pool are exhausted', () => {
       // Answer q1, q2, q3 (current pool) AND q4 (other subject)
       saveAnsweredQuestions(new Set(['q1', 'q2', 'q3', 'q4']), 10);
 
       // All questions in current pool are answered. Requesting 1.
+      // FIX #742: memory is never wiped here — oldest answered are reused instead.
       const result = filterUnansweredQuestions(questions, 1);
 
       expect(result.hadToRepeat).toBe(true);
-      expect(result.wasReset).toBe(true);
+      expect(result.wasReset).toBe(false);
 
-      // Memory should have been cleared for q1, q2, q3 but preserved for q4
+      // Memory is preserved for all questions (only explicit UI reset clears it)
       const answered = loadAnsweredQuestions();
-      expect(answered.has('q1')).toBe(false);
-      expect(answered.has('q2')).toBe(false);
-      expect(answered.has('q3')).toBe(false);
+      expect(answered.has('q1')).toBe(true);
+      expect(answered.has('q2')).toBe(true);
+      expect(answered.has('q3')).toBe(true);
       expect(answered.has('q4')).toBe(true);
     });
 

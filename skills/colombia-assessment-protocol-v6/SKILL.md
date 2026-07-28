@@ -1,11 +1,13 @@
 ---
 name: colombia-assessment-protocol-v6
-description: Protocolo especializado para la generación y validación de contenido multi-grado (3-11) en Colombia, alineado con DBA del MEN y marcos ICFES.
+description: HISTORICAL — Protocolo v6 Colombia (periodo/P-format). New weekly work uses AGENTS.md v5.2. Kept for legacy maintenance only.
 ---
 
 # Colombia Assessment Protocol v6.0
 
-Este skill gobierna la creación de bundles MASTERY para todos los grados en Colombia.
+> **HISTORICAL / NON-DEFAULT.** New Colombia weekly MASTERY bundles follow `AGENTS.md` Bundle Protocol **v5.2** and `skills/bundle-creator/rules/CO.md`. Use this skill only when maintaining legacy period/P-format content. Authority: `docs/specs/ACTIVE_PROTOCOLS.md`.
+
+Este skill gobernaba la creación de bundles MASTERY multi-grado en Colombia (formato periodo `P[P]`).
 
 ## Protocolo de Generación
 
