@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Martina analiza la estructura de los polinomios y sus respectivos grados.
 
@@ -41,7 +41,7 @@ El grado de un polinomio es el mayor exponente de la variable con coeficiente no
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Matías estudia el teorema del resto para dividir polinomios en Córdoba.
 
@@ -62,7 +62,7 @@ El teorema del resto es una herramienta algebraica que permite calcular directam
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Valentina repasa la regla de Ruffini en Mendoza.
 
@@ -83,7 +83,7 @@ La regla de Ruffini es un algoritmo abreviado de división que se aplica únicam
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza el comportamiento gráfico de una raíz con multiplicidad par en La Plata.
 
@@ -104,7 +104,7 @@ La multiplicidad de una raíz determina el comportamiento de la gráfica en su i
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Lucía busca las asíntotas verticales de una función de concentración química en Rosario.
 
@@ -125,7 +125,7 @@ Una asíntota vertical ocurre en los puntos de discontinuidad no evitable de una
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza las asíntotas horizontales de modelos físicos de decaimiento en Buenos Aires.
 
@@ -146,7 +146,7 @@ Para funciones racionales con igual grado en numerador y denominador, la asínto
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Sofía realiza la división abreviada de polinomios en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ Aplicando el teorema del resto, evaluamos el polinomio en $x=2$: $2^3 - 3(2^2) +
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo analiza la concentración de un fármaco en el torrente sanguíneo en Salta.
 
@@ -188,7 +188,7 @@ Cuando el grado del denominador de una función racional es estrictamente mayor 
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el costo unitario de producción en una fábrica de calzado en Mendoza.
 
@@ -209,7 +209,7 @@ Al calcular el límite para $x \to \infty$ de la función de costo promedio $f(x
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Joaquín factoriza polinomios para modelar la resistencia de materiales en Bahía Blanca.
 
@@ -230,7 +230,7 @@ Dividiendo $P(x)$ por el factor conocido $(x+1)$ mediante Ruffini, obtenemos el 
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Julieta analiza la trayectoria asintótica de un proyectil en Neuquén.
 
@@ -251,7 +251,7 @@ Una asíntota oblicua de la forma $y = mx + b$ se produce cuando el grado del nu
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Lautaro analiza una discontinuidad evitable en un sistema de engranajes en San Juan.
 
@@ -272,7 +272,7 @@ Si un valor de $x$ anula simultáneamente al numerador y al denominador de una f
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza el comportamiento de una estructura metálica mediante funciones polinómicas en San Luis.
 
@@ -293,7 +293,7 @@ Planteamos la forma factorizada general $P(x) = a(x - x_1)(x - x_2)(x - x_3)$ y 
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Isabella analiza el comportamiento asintótico lateral de una función de costos en Ushuaia.
 
@@ -314,7 +314,7 @@ Al evaluar el límite lateral $\lim_{x \to 2^+} \frac{x+1}{x-2}$, se observa que
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Tomas resuelve inecuaciones polinómicas para un estudio de rendimiento agrícola en Bariloche.
 
@@ -335,7 +335,7 @@ La resolución se realiza determinando los signos de cada factor en los interval
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Milagros analiza el comportamiento límite de funciones de densidad en Paraná.
 
@@ -356,7 +356,7 @@ Para que la asíntota horizontal de una función racional con grados iguales sea
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Nicolas estudia la variación de una función racional con parámetros desconocidos en Corrientes.
 
@@ -377,7 +377,7 @@ Despejamos cada parámetro secuencialmente: $c=2$ de la asíntota vertical; $a=3
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Catalina estudia el comportamiento de un filtro digital de frecuencias en Resistencia.
 
@@ -398,7 +398,7 @@ Mediante factorización completa $\frac{(x-1)(x+1)}{(x-3)(x+1)}$, identificamos 
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa una demostración algebraica sobre límites y asíntotas en Posadas.
 
@@ -419,7 +419,7 @@ La asíntota horizontal describe el comportamiento de la función en el extremo 
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa críticamente el uso del teorema de las raíces racionales en Jujuy.
 

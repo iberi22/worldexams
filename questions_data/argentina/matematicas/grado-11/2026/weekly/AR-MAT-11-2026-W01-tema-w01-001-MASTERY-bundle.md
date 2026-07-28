@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Facundo está repasando la clasificación de los números para su examen de ingreso.
 
@@ -41,7 +41,7 @@ El conjunto de los reales se define formalmente como la unión de los números r
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Martina representa las soluciones de una inecuación en la recta numérica.
 
@@ -62,7 +62,7 @@ La notación de intervalo utiliza corchetes $[ ]$ para indicar que el extremo es
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** En una clase de matemáticas en Córdoba, se analiza el dominio de una función.
 
@@ -83,7 +83,7 @@ Para que una raíz de índice par esté definida en los reales, el radicando deb
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Un fabricante de termómetros en Rosario calibra sus dispositivos para asegurar una gran precisión.
 
@@ -104,7 +104,7 @@ La expresión $|x - c| \le r$ representa el conjunto de puntos cuya distancia al
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Agustín calcula la intersección de dos conjuntos de datos obtenidos en un censo.
 
@@ -125,7 +125,7 @@ La intersección de intervalos requiere encontrar los valores reales de $x$ que 
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Valentina analiza el rango horario de dos sucursales de atención al cliente en Buenos Aires.
 
@@ -146,7 +146,7 @@ La unión de $I_1$ e $I_2$ junta todos los valores de ambos conjuntos. Como se s
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila está comparando planes de internet móvil para su celular en Buenos Aires.
 
@@ -167,7 +167,7 @@ Planteamos la inecuación $2000 + 150x \le 4250$, donde $x$ es la cantidad de gi
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Un meteorólogo en San Carlos de Bariloche registra las temperaturas durante el invierno.
 
@@ -188,7 +188,7 @@ Para despejar $t$ en $-8 < 2t + 4 \le 12$, restamos $4$ en cada miembro, obtenie
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo diseña piezas metálicas en una fábrica metalúrgica de Rosario.
 
@@ -209,7 +209,7 @@ La inecuación con valor absoluto $|d - 12| \le 0,05$ se traduce en $-0,05 \le d
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Un viñedo en Mendoza analiza las ganancias obtenidas por la venta de un vino premium en función del precio fijado $p$.
 
@@ -230,7 +230,7 @@ Resolvemos la inecuación $-p^2 + 80p - 1200 > 0$. Multiplicando por $-1$ se tie
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Franco analiza la viabilidad de un proyecto de software basado en la relación costo/beneficio.
 
@@ -251,7 +251,7 @@ Para resolver $\frac{x - 2}{x + 3} \ge 0$, encontramos los puntos críticos $x =
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Un agrónomo en Tucumán diseña una mezcla de nutrientes dentro de límites muy estrictos.
 
@@ -278,7 +278,7 @@ Resolvemos cada inecuación de forma independiente. Para $3x - 5 < 7$, sumamos $
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Sofía investiga el comportamiento inverso de variables físicas en un laboratorio de física de La Plata.
 
@@ -299,7 +299,7 @@ Al analizar la función recíproca $f(x) = \frac{1}{x}$ para valores positivos d
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Un constructor de tanques industriales de agua en Córdoba analiza las restricciones físicas del volumen.
 
@@ -320,7 +320,7 @@ La condición para el volumen es $18\pi < 2\pi r^2 < 50\pi$. Dividiendo toda la 
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Lautaro analiza el conjunto de soluciones de inecuaciones con valor absoluto de cara a un examen de álgebra.
 
@@ -341,7 +341,7 @@ El conjunto de números que no satisfacen una desigualdad es su conjunto complem
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina estudia las condiciones matemáticas bajo las cuales una ecuación cuadrática tiene soluciones complejas.
 
@@ -362,7 +362,7 @@ El discriminante de la ecuación cuadrática es $\Delta = k^2 - 36$. No hay solu
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Un profesor de análisis matemático en Mendoza plantea un desafío sobre la acotación de conjuntos numéricos.
 
@@ -383,7 +383,7 @@ Para el conjunto $S$, dado que $n \ge 1$, la expresión $2 - \frac{1}{n}$ alcanz
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Joaquín intenta demostrar una propiedad algebraica para cualquier par de números reales positivos.
 
@@ -404,7 +404,7 @@ La desigualdad de las medias aritmética y geométrica se demuestra a partir de 
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Bautista detecta un error común en la resolución de una inecuación por parte de un compañero.
 
@@ -425,7 +425,7 @@ Al dividir ambos miembros de $x^2 > 4x$ por $x$, si $x > 0$, la división mantie
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Un grupo de estudiantes debate sobre las propiedades de densidad de los números en la recta real.
 

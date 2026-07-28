@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.90
 **Contexto:** Martina analiza la definición de las razones trigonométricas en un triángulo rectángulo.
 
@@ -41,7 +41,7 @@ Las razones trigonométricas son las relaciones entre las longitudes de los lado
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.85
 **Contexto:** Matías estudia la identidad trigonométrica más importante (identidad pitagórica) en Córdoba.
 
@@ -62,7 +62,7 @@ La identidad pitagórica fundamental $\sin^2(\alpha) + \cos^2(\alpha) = 1$ se de
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.85
 **Contexto:** Valentina convierte medidas angulares en un plano topográfico en Mendoza.
 
@@ -83,7 +83,7 @@ La equivalencia básica entre ambos sistemas de medición angular es que $180^\c
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza el signo de las razones trigonométricas en los cuadrantes del círculo unitario en La Plata.
 
@@ -104,7 +104,7 @@ En el círculo unitario, un punto asociado a un ángulo $\alpha$ tiene coordenad
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.75
 **Contexto:** Lucía analiza las ondas sinusoidales de corriente eléctrica en Rosario.
 
@@ -125,7 +125,7 @@ Las funciones trigonométricas son periódicas. El período fundamental de $y = 
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.75
 **Contexto:** Franco repasa las condiciones matemáticas bajo las cuales se aplican los teoremas de triángulos oblicuángulos.
 
@@ -146,7 +146,7 @@ El teorema del coseno o generalización del teorema de Pitágoras relaciona los 
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.70
 **Contexto:** Sofía quiere medir la altura de una torre de telefonía en Mar del Plata.
 
@@ -167,7 +167,7 @@ Modelamos la situación mediante un triángulo rectángulo donde el cateto adyac
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.70
 **Contexto:** Mateo calcula la distancia entre dos lanchas de rescate en el lago Nahuel Huapi en Bariloche.
 
@@ -188,7 +188,7 @@ Aplicamos la ley de cosenos para el caso Lado-Ángulo-Lado (LAL) para calcular e
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.70
 **Contexto:** Camila mide los ángulos interiores de un terreno triangular en Bahía Blanca.
 
@@ -209,7 +209,7 @@ La ley de senos establece que los lados de un triángulo son proporcionales a lo
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.70
 **Contexto:** Joaquín busca todas las soluciones de una inecuación de posición para sincronizar oscilaciones de ondas en Neuquén.
 
@@ -230,7 +230,7 @@ La función seno es positiva en los cuadrantes I y II. La ecuación cuadrática 
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.65
 **Contexto:** Julieta simplifica una fórmula de interferencia de ondas acústicas en Santa Fe.
 
@@ -251,7 +251,7 @@ Sustituimos la definición de la tangente en términos de seno y coseno, reducie
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.65
 **Contexto:** Lautaro resuelve una ecuación trigonométrica de segundo grado en San Juan.
 
@@ -272,7 +272,7 @@ Sustituimos $\cos^2(x)$ por $1 - \sin^2(x)$ para unificar la ecuación en térmi
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza el comportamiento oscilatorio de una onda amortiguada en San Luis.
 
@@ -293,7 +293,7 @@ La amplitud de $3$ y el desplazamiento vertical de $+1$ definen el rango de la f
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.60
 **Contexto:** Isabella analiza una ambigüedad geométrica al cartografiar una zona costera en Ushuaia.
 
@@ -314,7 +314,7 @@ Este es el caso ambiguo Lado-Lado-Ángulo (LLA) de la ley de senos. Dado que la 
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza el desfase espacial de dos ondas sísmicas registradas en Bariloche.
 
@@ -335,7 +335,7 @@ Un desfasaje de la forma $y = f(x - \phi)$ traslada la gráfica de la función h
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.60
 **Contexto:** Milagros modela la oscilación diaria de la marea en el puerto fluvial de Paraná.
 
@@ -356,7 +356,7 @@ La marea alta consecutiva corresponde al período fundamental de la función cos
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.55
 **Contexto:** Nicolas realiza la deducción de las identidades angulares de suma y resta en Corrientes.
 
@@ -377,7 +377,7 @@ Al sustituir la propiedad de paridad de las funciones trigonométricas en la fó
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.55
 **Contexto:** Catalina analiza la cantidad de soluciones de un modelo de interferencia espacial en Resistencia.
 
@@ -398,7 +398,7 @@ Al igualar $\sin(x) = \frac{x}{2}$, se observa que $x=0$ es una raíz obvia. Dad
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.50
 **Contexto:** Facundo juzga la veracidad de la generalización del teorema de Pitágoras en Posadas.
 
@@ -419,7 +419,7 @@ La Ley de Cosenos $c^2 = a^2 + b^2 - 2ab \cos(C)$ es una generalización del teo
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Geometría y medida
+**EJE:** Geometría y medida
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa la precisión geométrica de paneles solares instalados en Jujuy.
 

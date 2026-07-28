@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.90
 **Contexto:** Martina estudia las medidas de centralización estadística para resumir datos.
 
@@ -41,7 +41,7 @@ La moda es la medida de tendencia central que identifica al valor o categoría m
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.85
 **Contexto:** Matías repasa las medidas de dispersión de cara a su prueba escolar en Córdoba.
 
@@ -62,7 +62,7 @@ El rango es la medida de dispersión más sencilla. Indica la amplitud total de 
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.85
 **Contexto:** Valentina analiza un gráfico de barras que representa el número de hermanos de un curso en Mendoza.
 
@@ -83,7 +83,7 @@ En un diagrama de barras o de columnas, el eje horizontal contiene los valores d
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza el significado conceptual de la desviación estándar en un estudio de rendimiento deportivo en La Plata.
 
@@ -104,7 +104,7 @@ La desviación estándar mide la dispersión o variabilidad. Si su valor es cero
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.75
 **Contexto:** Lucía calcula la mediana de las temperaturas semanales registradas en Rosario.
 
@@ -125,7 +125,7 @@ Cuando el tamaño muestral $N$ es par, el conjunto ordenado tiene dos valores ce
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza las calificaciones escolares utilizando percentiles en Buenos Aires.
 
@@ -146,7 +146,7 @@ Las medidas de posición como los percentiles dividen a la muestra en cien parte
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Sofía quiere calcular la cantidad promedio de lluvia mensual caída en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ La media es la suma de los datos dividido entre el total ($300/5 = 60$). Para ha
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Mateo analiza la variabilidad de goles de un equipo de fútbol en Salta.
 
@@ -188,7 +188,7 @@ La varianza poblacional $\sigma^2$ es el promedio de los cuadrados de las desvia
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el consumo diario de energía eléctrica en hogares de Mendoza a partir de datos agrupados.
 
@@ -209,7 +209,7 @@ La marca de clase es el valor representativo de un intervalo en una distribució
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Joaquín calcula los cuartiles de los tiempos de espera de clientes en Bahía Blanca.
 
@@ -230,7 +230,7 @@ Los cuartiles dividen la distribución ordenada en cuatro segmentos equivalentes
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.65
 **Contexto:** Julieta analiza la distribución de salarios en una pyme en Neuquén mediante un diagrama de caja.
 
@@ -251,7 +251,7 @@ El rango intercuartílico (IQR) es la diferencia absoluta entre el tercer y prim
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.65
 **Contexto:** Lautaro analiza el impacto de la inflación sobre los sueldos de los empleados en San Juan.
 
@@ -272,7 +272,7 @@ Por propiedades de los estadísticos: la media de una variable trasladada es $\m
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza el efecto de un cambio de escala monetaria sobre la dispersión en San Luis.
 
@@ -293,7 +293,7 @@ Por las propiedades de cambio de escala de los parámetros de dispersión: la de
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Isabella analiza valores atípicos extremados en un censo de población en Ushuaia.
 
@@ -314,7 +314,7 @@ El criterio de Tukey establece que un dato es un valor atípico superior si se e
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza la asimetría de la renta per cápita familiar de una comuna en Bariloche.
 
@@ -335,7 +335,7 @@ La asimetría positiva o sesgo a la derecha ocurre cuando la media es empujada h
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Milagros compara de manera relativa la homogeneidad de rendimiento de dos cursos en Paraná.
 
@@ -356,7 +356,7 @@ Para comparar la variabilidad de dos muestras con medias distintas, se utiliza e
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.55
 **Contexto:** Nicolas analiza una tabla de contingencia bidimensional de deserción escolar en Corrientes.
 
@@ -382,7 +382,7 @@ La frecuencia condicionada restringe el espacio de análisis a una fila o column
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.55
 **Contexto:** Catalina deduce los valores individuales perdidos a partir de los datos generales en Resistencia.
 
@@ -403,7 +403,7 @@ Dado que el promedio de los $5$ datos es $7$, la suma agregada es $35$. Restando
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa críticamente los gráficos informativos presentados en los medios de prensa en Posadas.
 
@@ -424,7 +424,7 @@ Los gráficos de barras se basan en el principio de proporcionalidad entre la al
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.50
 **Contexto:** Martina debate sobre la pertinencia ética del uso de la media frente a la mediana en el análisis socioeconómico nacional en Jujuy.
 

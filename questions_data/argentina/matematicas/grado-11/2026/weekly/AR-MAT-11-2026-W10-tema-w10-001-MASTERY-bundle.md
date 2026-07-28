@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.90
 **Contexto:** Martina estudia las permutaciones simples de un grupo de objetos.
 
@@ -41,7 +41,7 @@ Una permutación simple es un ordenamiento lineal de todos los elementos de un c
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.85
 **Contexto:** Matías estudia la ley clásica de probabilidades en Córdoba.
 
@@ -62,7 +62,7 @@ La regla de Laplace establece que la probabilidad de un suceso es la razón entr
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.85
 **Contexto:** Valentina analiza el criterio para elegir entre combinaciones o permutaciones en Mendoza.
 
@@ -83,7 +83,7 @@ La diferencia radica en la relevancia del ordenamiento. Si cambiar el orden de l
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza el cálculo de eventos complementarios en La Plata.
 
@@ -104,7 +104,7 @@ La probabilidad de un suceso complementario $A^c$ (no ocurrencia de $A$) se calc
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.75
 **Contexto:** Lucía repasa la probabilidad de la unión de eventos mutuamente excluyentes en Rosario.
 
@@ -125,7 +125,7 @@ Para sucesos excluyentes, al no existir elementos en común, la intersección es
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza sucesiones de lanzamientos de monedas en Buenos Aires.
 
@@ -146,7 +146,7 @@ Para eventos estadísticamente independientes, la probabilidad de ocurrencia con
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Sofía coordina un certamen de debate entre 5 alumnos finalistas en Rosario.
 
@@ -167,7 +167,7 @@ Dado que intervienen todos los elementos del grupo y se busca calcular ordenamie
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Mateo quiere formar una comisión representativa del curso en Salta.
 
@@ -188,7 +188,7 @@ Dado que no importa el orden en que sean nombrados los tres miembros de la deleg
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el lanzamiento de dados en un juego de mesa en Mendoza.
 
@@ -209,7 +209,7 @@ Al lanzar dos dados, cada uno independiente, el espacio muestral posee $36$ elem
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.70
 **Contexto:** Joaquín extrae cartas de una baraja española en Bahía Blanca para un juego familiar.
 
@@ -230,7 +230,7 @@ Aplicamos la fórmula de la adición de eventos no excluyentes: $P(\text{As} \cu
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.65
 **Contexto:** Julieta analiza la probabilidad de reprobación cruzada de dos materias en Neuquén.
 
@@ -251,7 +251,7 @@ La probabilidad condicional se define mediante la expresión de Bayes: $P(A \mid
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.65
 **Contexto:** Lautaro analiza el resultado de una prueba médica de diagnóstico clínico utilizando diagramas de árbol en San Juan.
 
@@ -275,7 +275,7 @@ Utilizando el teorema de probabilidad total, ponderamos las tasas condicionadas 
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza la probabilidad de extracción sucesiva sin devolución de elementos en San Luis.
 
@@ -296,7 +296,7 @@ La extracción sin devolución constituye eventos dependientes. Aplicamos la reg
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Isabella diseña combinaciones de contraseñas bancarias de seguridad en Ushuaia.
 
@@ -317,7 +317,7 @@ Para variaciones con repetición permitida de elementos, el número total de arr
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza las probabilidades asociadas al cruce de condiciones climáticas adversas en Bariloche.
 
@@ -338,7 +338,7 @@ La probabilidad de la unión de dos eventos que no son mutuamente excluyentes se
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.60
 **Contexto:** Milagros analiza la probabilidad de ocurrencia exacta en lanzamientos repetidos en Paraná.
 
@@ -359,7 +359,7 @@ Para calcular la probabilidad de obtener exactamente $k$ éxitos en $n$ ensayos 
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.55
 **Contexto:** Nicolas aplica el teorema de Bayes para analizar la confiabilidad de positivos clínicos en Corrientes.
 
@@ -380,7 +380,7 @@ Aplicando el teorema de Bayes, se obtiene que la probabilidad a posteriori de es
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.55
 **Contexto:** Catalina analiza problemas de ordenamiento circular de personas en Resistencia.
 
@@ -401,7 +401,7 @@ Las permutaciones circulares se calculan mediante $PC_n = (n-1)!$. Se reduce en 
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa las interpretaciones de probabilidad y azar en un casino de Posadas.
 
@@ -422,7 +422,7 @@ La falacia del jugador o falacia de Montecarlo es un sesgo cognitivo común que 
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Estadística y probabilidad
+**EJE:** Estadística y probabilidad
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa críticamente la validez científica de un estudio sobre las probabilidades condicionadas inversas en Jujuy.
 

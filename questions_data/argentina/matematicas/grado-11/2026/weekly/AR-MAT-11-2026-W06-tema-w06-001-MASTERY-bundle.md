@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Martina repasa la equivalencia matemática fundamental de los logaritmos.
 
@@ -41,7 +41,7 @@ La definición fundamental del logaritmo establece que el logaritmo en base $b$ 
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Matías estudia las restricciones del dominio logarítmico en Córdoba.
 
@@ -62,7 +62,7 @@ Dado que la base de un logaritmo es siempre positiva, cualquier potencia de ella
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Valentina analiza el comportamiento gráfico de las funciones exponenciales en Mendoza.
 
@@ -83,7 +83,7 @@ Una función exponencial elemental de la forma $f(x) = b^x$ (con $b > 1$) posee 
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Agustín repasa las propiedades operacionales de los logaritmos en La Plata.
 
@@ -104,7 +104,7 @@ El logaritmo de un producto es igual a la suma de los logaritmos de los factores
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Lucía aplica el cambio de base para operar con su calculadora científica en Rosario.
 
@@ -125,7 +125,7 @@ La fórmula de cambio de base para logaritmos permite expresar un logaritmo en c
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza las curvas de respuesta sensorial auditiva en Buenos Aires.
 
@@ -146,7 +146,7 @@ El logaritmo de una potencia es igual al exponente multiplicado por el logaritmo
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Sofía resuelve una ecuación exponencial simple para hallar la antigüedad de un fósil en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ Para resolver ecuaciones exponenciales sencillas, se busca expresar ambos lados 
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo estudia la acidez de suelos agrícolas en Salta midiendo el nivel de pH.
 
@@ -188,7 +188,7 @@ Sustituimos el valor de la concentración $[H^+] = 10^{-6}$ en la definición de
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el crecimiento de su caja de ahorros en un banco de Mendoza bajo interés compuesto continuo.
 
@@ -209,7 +209,7 @@ Igualamos la fórmula del capital a $\$10000$ (el doble del capital inicial de 5
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Joaquín resuelve una ecuación logarítmica en un análisis de acústica vial en Bahía Blanca.
 
@@ -230,7 +230,7 @@ Al aplicar la propiedad de multiplicación, combinamos los logaritmos en $\log_2
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Julieta analiza el comportamiento de una bacteria patógena en un hospital de Neuquén.
 
@@ -251,7 +251,7 @@ Establecemos la igualdad $1600 = 100 \cdot 2^{t/3}$, de donde resulta $16 = 2^{t
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Lautaro resuelve una ecuación donde el exponente se halla repetido en San Juan.
 
@@ -272,7 +272,7 @@ Mediante el método de cambio de variable, sustituimos $u = e^x$ para transforma
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina calcula el dominio de definición de una señal electromagnética compleja en San Luis.
 
@@ -293,7 +293,7 @@ El dominio de una función logarítmica exige resolver la inecuación cuadrátic
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Isabella compara la velocidad de crecimiento de dos algoritmos de búsqueda en Ushuaia.
 
@@ -314,7 +314,7 @@ El crecimiento exponencial es uno de los más rápidos en matemáticas, mientras
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza los niveles de ruido ambiental en un teatro de Bariloche utilizando la escala de decibeles.
 
@@ -335,7 +335,7 @@ La escala de decibeles es una escala logarítmica. Un incremento de $30\text{ dB
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Milagros estudia la ley de enfriamiento de los cuerpos en el laboratorio de Paraná.
 
@@ -356,7 +356,7 @@ Al evaluar el límite de $T(t) = 20 + 60 \cdot e^{-0,05t}$ cuando el tiempo $t$ 
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Nicolas calcula la inversa de un modelo de atenuación de ondas de radio en Corrientes.
 
@@ -377,7 +377,7 @@ Para hallar la inversa de $y = 3^{x-1} + 2$, aislamos el término exponencial: $
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Catalina analiza el punto geométrico donde se igualan dos tendencias de crecimiento en Resistencia.
 
@@ -398,7 +398,7 @@ Igualando las dos expresiones obtenemos $2^{x+3} = 5$. Al aplicar la función lo
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa una supuesta demostración matemática que concluye un absurdo en Posadas.
 
@@ -419,7 +419,7 @@ Al multiplicar ambos miembros de la desigualdad por $\log(0,5)$, estamos multipl
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa críticamente los límites de un modelo demográfico en Jujuy.
 

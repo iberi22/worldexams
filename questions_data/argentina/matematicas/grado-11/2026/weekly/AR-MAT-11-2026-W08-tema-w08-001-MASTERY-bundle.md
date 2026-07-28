@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Martina estudia el comportamiento constante de las progresiones aritméticas.
 
@@ -41,7 +41,7 @@ Una progresión aritmética es una sucesión de números reales en la que la dif
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Matías analiza la rapidez con la que crecen las progresiones geométricas en Córdoba.
 
@@ -62,7 +62,7 @@ La razón de una progresión geométrica es el factor constante por el cual se m
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Valentina calcula términos distantes en una progresión aritmética en Mendoza.
 
@@ -83,7 +83,7 @@ En la fórmula explícita de una sucesión, el índice $n \in \mathbb{N}$ determ
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza el comportamiento límite de la suma de infinitos términos en La Plata.
 
@@ -104,7 +104,7 @@ Una serie geométrica infinita converge a un valor numérico finito si y solo si
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Lucía analiza las cuotas mensuales constantes de un plan de pagos en Rosario.
 
@@ -125,7 +125,7 @@ El método desarrollado por Gauss para sumar progresiones se basa en el principi
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Franco repasa las propiedades de las sucesiones monótonas en Buenos Aires.
 
@@ -146,7 +146,7 @@ El signo de la diferencia común $d$ rige de forma absoluta la monotonía de una
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Sofía quiere calcular la cantidad de asientos de un teatro en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ La cantidad de asientos forma una progresión aritmética con término inicial $
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo calcula la suma de los números pares para una estimación probabilística en Salta.
 
@@ -188,7 +188,7 @@ Los números pares forman una progresión aritmética con $a_1 = 2$, $d = 2$, y 
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el aumento geométrico de un virus informático en Mendoza.
 
@@ -209,7 +209,7 @@ La cantidad de nuevas computadoras infectadas diariamente se modela mediante una
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Joaquín suma los términos de una serie infinita convergente en Bahía Blanca.
 
@@ -231,7 +231,7 @@ Para una serie geométrica infinita convergente, la suma de todos sus términos 
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Julieta organiza un método de ahorro mensual progresivo en Neuquén.
 
@@ -252,7 +252,7 @@ Los depósitos forman una progresión aritmética con $a_1 = 100$ y $d = 50$. El
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Lautaro busca los coeficientes de una progresión geométrica desconocida en San Juan.
 
@@ -273,7 +273,7 @@ Dividiendo los términos conocidos se obtiene una expresión para la razón: $a_
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza la convergencia de una serie para calcular su viabilidad en San Luis.
 
@@ -294,7 +294,7 @@ Dado que la razón de la serie geométrica es $r = 2/3$, y cumple que $|r| < 1$,
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Isabella modela la atenuación de una onda de red móvil tras atravesar paredes en Ushuaia.
 
@@ -315,7 +315,7 @@ La atenuación se modela como una progresión geométrica decreciente de razón 
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza de forma comparativa dos ofertas de planes de jubilación privada en Bariloche.
 
@@ -336,7 +336,7 @@ El aumento anual del plan Plata es constante de $\$200$. El incremento anual del
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Milagros analiza la sucesión de Fibonacci definida de forma recurrente en Paraná.
 
@@ -357,7 +357,7 @@ La sucesión de Fibonacci se construye sumando los dos términos anteriores para
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Nicolas utiliza series geométricas para expresar números periódicos como fracciones exactas en Corrientes.
 
@@ -378,7 +378,7 @@ Un decimal periódico se puede modelar como una suma de infinitas fracciones dec
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Catalina analiza el crecimiento acumulado del capital en una inversión bursátil en Resistencia.
 
@@ -399,7 +399,7 @@ El interés compuesto capitaliza los intereses generados mes a mes, de modo que 
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa una demostración por inducción completa sobre progresiones en Posadas.
 
@@ -420,7 +420,7 @@ La suma de los primeros $n$ impares se modela mediante una suma aritmética. Apl
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa críticamente la viabilidad física del modelo geométrico de las paradojas de Zenón en Jujuy.
 

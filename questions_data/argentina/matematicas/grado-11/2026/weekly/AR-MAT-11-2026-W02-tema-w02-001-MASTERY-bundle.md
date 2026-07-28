@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Martina analiza la definición matemática de las funciones.
 
@@ -41,7 +41,7 @@ Una función es una relación que asocia a cada elemento del conjunto de partida
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Matías analiza los costos de un emprendimiento en Córdoba.
 
@@ -62,7 +62,7 @@ La variable independiente es la que se puede cambiar libremente (en este caso, l
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Valentina calcula el dominio de definición de una función de distribución de ingresos en Rosario.
 
@@ -83,7 +83,7 @@ En una función racional, el dominio está formado por todos los números reales
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Agustín diseña un sensor de humedad en Mendoza y analiza su función de calibración.
 
@@ -104,7 +104,7 @@ Las raíces de índice par requieren que el radicando sea mayor o igual a cero p
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Lucía repasa el concepto de simetría de funciones para preparar un examen en La Plata.
 
@@ -125,7 +125,7 @@ Una función es par si al evaluar en $-x$ se obtiene la misma expresión que en 
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza las oscilaciones de una onda sonora en un laboratorio de Mar del Plata.
 
@@ -146,7 +146,7 @@ Una función es impar si al cambiar $x$ por $-x$ obtenemos el opuesto de la func
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Sofía analiza el costo mensual de un servicio de transporte de carga en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ Un modelo lineal tiene la forma $y = mx + b$, donde $m$ representa la tasa de va
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo analiza la trayectoria parabólica de una pelota de fútbol en Salta.
 
@@ -188,7 +188,7 @@ El rango es el conjunto de valores reales que toma la variable dependiente $y$. 
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila calcula el proceso inverso para convertir temperaturas entre dos escalas en Santa Fe.
 
@@ -209,7 +209,7 @@ Para hallar la función inversa, despejamos la variable independiente $x$ en té
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Joaquín desplaza la ubicación de unas antenas de transmisión en Bahía Blanca.
 
@@ -230,7 +230,7 @@ Las traslaciones horizontales se aplican restando el valor del desplazamiento de
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Julieta estudia el crecimiento biológico de una plantación en Neuquén.
 
@@ -251,7 +251,7 @@ La función logaritmo natural solo está definida para argumentos que sean estri
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Lautaro analiza una transformación en un sistema de engranajes en San Juan.
 
@@ -272,7 +272,7 @@ Al despejar la variable independiente de una función homográfica de la forma $
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina calcula las dimensiones de una zona de seguridad en San Luis.
 
@@ -293,7 +293,7 @@ El dominio de la función requiere resolver la inecuación cuadrática $4 - x^2 
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Isabella analiza un proceso de producción en cadena en Ushuaia.
 
@@ -314,7 +314,7 @@ En la composición de funciones, la función interna $g(x)$ se introduce como el
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza el flujo de tráfico vehicular en Bariloche utilizando modelos continuos.
 
@@ -335,7 +335,7 @@ Para que una función sea continua en un punto, deben existir los límites later
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Milagros estudia las reflexiones ópticas de los lentes de una cámara en Paraná.
 
@@ -356,7 +356,7 @@ Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las co
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Nicolas calcula la estabilidad de un sistema de telecomunicaciones en Corrientes.
 
@@ -377,7 +377,7 @@ El dominio de una composición $f(g(x))$ está formado por los elementos $x$ del
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Catalina investiga las simetrías en señales de radiofrecuencia en Resistencia.
 
@@ -398,7 +398,7 @@ La composición de una función par con una función impar resulta en una funci�
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Facundo evalúa una demostración matemática presentada por un compañero en Posadas.
 
@@ -419,7 +419,7 @@ Para que una función admita una función inversa, debe ser inyectiva (y biyecti
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Martina calcula las restricciones de un modelo físico en Jujuy.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.90
 **Contexto:** Martina analiza la fórmula del vértice de una parábola de cara a su lección en Rosario.
 
@@ -41,7 +41,7 @@ La abscisa del vértice de una parábola representa su eje de simetría y se cal
 ## Question 2 [D3]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Matías estudia las relaciones entre los coeficientes y las raíces de una función cuadrática en Córdoba.
 
@@ -62,7 +62,7 @@ Las fórmulas de Vieta relacionan los coeficientes de un polinomio con sus raíc
 ## Question 3 [D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.85
 **Contexto:** Valentina analiza el comportamiento gráfico del coeficiente principal en Mendoza.
 
@@ -83,7 +83,7 @@ El signo del coeficiente principal $a$ determina la concavidad de la parábola. 
 ## Question 4 [D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** Agustín analiza los resultados arrojados por el discriminante de una función en La Plata.
 
@@ -104,7 +104,7 @@ El discriminante $\Delta = b^2 - 4ac$ determina el carácter de las raíces de u
 ## Question 5 [D5]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Lucía analiza las ventajas de representar una parábola en su forma canónica o de vértice en Buenos Aires.
 
@@ -125,7 +125,7 @@ La forma canónica $f(x) = a(x - h)^2 + k$ revela de forma directa las coordenad
 ## Question 6 [D5]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** Franco analiza la forma factorizada de una parábola de cara a su examen escolar en Mar del Plata.
 
@@ -146,7 +146,7 @@ La forma factorizada de una función cuadrática se expresa como $f(x) = a(x - x
 ## Question 7 [D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Sofía resuelve una ecuación cuadrática en un análisis de física de fluidos en San Miguel de Tucumán.
 
@@ -167,7 +167,7 @@ Una ecuación cuadrática completa de la forma $ax^2 + bx + c = 0$ puede resolve
 ## Question 8 [D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Mateo analiza la trayectoria de un proyectil disparado desde el suelo en Salta.
 
@@ -188,7 +188,7 @@ La altura máxima se localiza en el vértice de la parábola. Calculamos primero
 ## Question 9 [D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Camila modela un túnel con forma parabólica en Bahía Blanca para permitir el paso de transportes.
 
@@ -209,7 +209,7 @@ Para hallar la ecuación de una parábola dado su vértice y un punto, se plante
 ## Question 10 [D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** Joaquín busca los puntos de intersección entre una ruta y una vía férrea en Neuquén.
 
@@ -230,7 +230,7 @@ Para hallar las intersecciones de una línea y una parábola, se igualan sus ecu
 ## Question 11 [D7]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Julieta quiere delimitar un sector rectangular para criar ovejas en un campo de Santa Fe.
 
@@ -251,7 +251,7 @@ El problema de optimización se reduce a hallar el vértice de la función de á
 ## Question 12 [D7]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** Lautaro resuelve una ecuación cuadrática con raíces fraccionarias en un examen en San Juan.
 
@@ -272,7 +272,7 @@ La resolución por fórmula general permite obtener de forma directa las raíces
 ## Question 13 [D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Delfina analiza el comportamiento paramétrico del término independiente en San Luis.
 
@@ -293,7 +293,7 @@ Para que el vértice de una parábola esté sobre el eje horizontal, la ordenada
 ## Question 14 [D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Isabella analiza analíticamente la existencia de intersecciones entre rectas y parábolas en Ushuaia.
 
@@ -314,7 +314,7 @@ La condición de tangencia entre una recta y una curva cuadrática se cumple cua
 ## Question 15 [D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Tomas analiza el conjunto imagen de la rentabilidad de una inversión turística en Bariloche.
 
@@ -335,7 +335,7 @@ La función de ganancia es una parábola cóncava hacia abajo. Su valor máximo 
 ## Question 16 [D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** Milagros analiza la representación matemática del movimiento parabólico de un chorro de agua en Paraná.
 
@@ -356,7 +356,7 @@ Al sustituir el punto de paso obligatorio $(0,0)$ en la ecuación con el vértic
 ## Question 17 [D9]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Nicolas estudia la superposición de dos campos de gravedad modelados por parábolas en Corrientes.
 
@@ -377,7 +377,7 @@ Al igualar dos funciones cuadráticas se obtiene una ecuación polinómica cuyo 
 ## Question 18 [D9]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** Catalina analiza un problema de límites de producción resolviendo una inecuación de segundo grado en Resistencia.
 
@@ -398,7 +398,7 @@ Para resolver $x^2 - 2x - 15 \le 0$, hallamos las raíces críticas de la ecuaci
 ## Question 19 [D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Facundo juzga la consistencia de un planteo de optimización económica propuesto por un compañero en Posadas.
 
@@ -419,7 +419,7 @@ Fijar el precio basándose únicamente en el vértice sin analizar el signo del 
 ## Question 20 [D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** Martina evalúa las afirmaciones teóricas referidas a las intersecciones de familias de parábolas en Jujuy.
 
