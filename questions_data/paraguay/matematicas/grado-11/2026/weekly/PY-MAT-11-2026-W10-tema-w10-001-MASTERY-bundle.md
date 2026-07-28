@@ -25,7 +25,7 @@ Este bundle evalúa conceptos clave de Función Cuadrática alineados al curríc
 ## Question 1 [D3]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.82
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -46,7 +46,7 @@ El vértice $(h, k)$ de una función cuadrática de la forma general se localiza
 ## Question 2 [D4]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v2
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -67,7 +67,7 @@ El eje de simetría de una parábola es la recta vertical que divide a la figura
 ## Question 3 [D3]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v3
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.77
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -88,7 +88,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 4 [D4]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v4
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -109,7 +109,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 5 [D5]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v5
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.72
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -130,7 +130,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 6 [D6]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v6
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -151,7 +151,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 7 [D5]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v7
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.67
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -172,7 +172,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 8 [D6]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v8
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -193,7 +193,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 9 [D5]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v9
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.62
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -214,7 +214,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 10 [D6]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v10
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -235,7 +235,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 11 [D7]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.57
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -256,7 +256,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 12 [D8]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v12
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -277,7 +277,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 13 [D7]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v13
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.52
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -298,7 +298,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 14 [D8]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v14
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -319,7 +319,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 15 [D7]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v15
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.47
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -340,7 +340,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 16 [D8]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.45
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -361,7 +361,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 17 [D9]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.42
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -382,7 +382,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 18 [D10]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v18
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.40
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -403,7 +403,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 19 [D9]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v19
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.37
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 
@@ -424,7 +424,7 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 ## Question 20 [D10]
 **ID:** PY-MAT-11-2026-W10-tema-w10-001-MASTERY-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.35
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Cuadrática.
 

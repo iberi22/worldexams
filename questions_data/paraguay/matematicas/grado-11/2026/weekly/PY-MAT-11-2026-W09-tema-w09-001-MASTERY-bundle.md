@@ -25,7 +25,7 @@ Este bundle evalúa conceptos clave de Función Lineal y Afín alineados al curr
 ## Question 1 [D3]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.82
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -46,7 +46,7 @@ Una función afín se expresa como $f(x) = mx + n$, donde $m$ representa la pend
 ## Question 2 [D4]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v2
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -67,7 +67,7 @@ La pendiente de una recta es la relación entre el cambio vertical y el cambio h
 ## Question 3 [D3]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v3
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.77
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -88,7 +88,7 @@ El costo de un viaje consta de una parte fija (₲ 13000) y una parte variable q
 ## Question 4 [D4]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v4
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -109,7 +109,7 @@ El costo de un viaje consta de una parte fija (₲ 14000) y una parte variable q
 ## Question 5 [D5]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v5
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.72
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -130,7 +130,7 @@ El costo de un viaje consta de una parte fija (₲ 15000) y una parte variable q
 ## Question 6 [D6]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v6
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -151,7 +151,7 @@ El costo de un viaje consta de una parte fija (₲ 16000) y una parte variable q
 ## Question 7 [D5]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v7
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.67
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -172,7 +172,7 @@ El costo de un viaje consta de una parte fija (₲ 17000) y una parte variable q
 ## Question 8 [D6]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v8
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -193,7 +193,7 @@ El costo de un viaje consta de una parte fija (₲ 18000) y una parte variable q
 ## Question 9 [D5]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v9
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.62
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -214,7 +214,7 @@ El costo de un viaje consta de una parte fija (₲ 19000) y una parte variable q
 ## Question 10 [D6]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v10
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -235,7 +235,7 @@ El costo de un viaje consta de una parte fija (₲ 20000) y una parte variable q
 ## Question 11 [D7]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.57
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -256,7 +256,7 @@ El costo de un viaje consta de una parte fija (₲ 21000) y una parte variable q
 ## Question 12 [D8]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v12
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -277,7 +277,7 @@ El costo de un viaje consta de una parte fija (₲ 22000) y una parte variable q
 ## Question 13 [D7]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v13
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.52
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -298,7 +298,7 @@ El costo de un viaje consta de una parte fija (₲ 23000) y una parte variable q
 ## Question 14 [D8]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v14
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -319,7 +319,7 @@ El costo de un viaje consta de una parte fija (₲ 24000) y una parte variable q
 ## Question 15 [D7]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v15
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.47
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -340,7 +340,7 @@ El costo de un viaje consta de una parte fija (₲ 25000) y una parte variable q
 ## Question 16 [D8]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.45
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -361,7 +361,7 @@ El costo de un viaje consta de una parte fija (₲ 26000) y una parte variable q
 ## Question 17 [D9]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.42
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -382,7 +382,7 @@ El costo de un viaje consta de una parte fija (₲ 27000) y una parte variable q
 ## Question 18 [D10]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v18
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.40
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -403,7 +403,7 @@ El costo de un viaje consta de una parte fija (₲ 28000) y una parte variable q
 ## Question 19 [D9]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v19
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.37
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 
@@ -424,7 +424,7 @@ El costo de un viaje consta de una parte fija (₲ 29000) y una parte variable q
 ## Question 20 [D10]
 **ID:** PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.35
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.
 

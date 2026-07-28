@@ -25,7 +25,7 @@ Este bundle evalúa conceptos clave de Expresiones Algebraicas y Polinomios alin
 ## Question 1 [D3]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.82
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -46,7 +46,7 @@ El grado absoluto de un polinomio es el mayor grado absoluto de sus términos co
 ## Question 2 [D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v2
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.80
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -67,7 +67,7 @@ El término independiente de un polinomio es el término que no tiene variable (
 ## Question 3 [D3]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v3
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.77
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -88,7 +88,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 ## Question 4 [D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v4
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.75
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -109,7 +109,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 ## Question 5 [D5]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v5
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.72
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -130,7 +130,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 ## Question 6 [D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v6
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.70
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -151,7 +151,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 ## Question 7 [D5]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v7
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.67
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -172,7 +172,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 ## Question 8 [D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v8
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.65
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -193,7 +193,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 ## Question 9 [D5]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v9
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.62
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -214,7 +214,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 ## Question 10 [D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v10
 **Bloom:** Remember
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.60
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -235,7 +235,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 ## Question 11 [D7]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v11
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.57
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -256,7 +256,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 ## Question 12 [D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v12
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.55
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -277,7 +277,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 ## Question 13 [D7]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v13
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.52
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -298,7 +298,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 ## Question 14 [D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v14
 **Bloom:** Understand
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.50
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -319,7 +319,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 ## Question 15 [D7]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v15
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.47
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -340,7 +340,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 ## Question 16 [D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.45
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -361,7 +361,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 ## Question 17 [D9]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v17
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.42
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -382,7 +382,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 ## Question 18 [D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v18
 **Bloom:** Apply
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.40
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -403,7 +403,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 ## Question 19 [D9]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v19
 **Bloom:** Analyze
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.37
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 
@@ -424,7 +424,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 ## Question 20 [D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y funciones
+**EJE:** Álgebra y funciones
 **Expected_Success:** 0.35
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.
 

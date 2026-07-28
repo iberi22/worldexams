@@ -25,7 +25,7 @@ Este bundle evalúa conceptos clave de Números Reales, Intervalos y Operaciones
 ## Question 1 [D3]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v1
 **Bloom:** Remember
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.82
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -46,7 +46,7 @@ La propiedad conmutativa establece que para cualesquiera números reales $a$ y $
 ## Question 2 [D4]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v2
 **Bloom:** Understand
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.80
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -67,7 +67,7 @@ El intervalo semiabierto $(a, b]$ incluye al extremo derecho $b$ pero excluye al
 ## Question 3 [D3]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v3
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.77
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -88,7 +88,7 @@ La distancia entre dos puntos $x_1, x_2$ en la recta real está dada por la mét
 ## Question 4 [D4]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v4
 **Bloom:** Analyze
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.75
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -109,7 +109,7 @@ Las raíces cuadradas de números enteros que no son cuadrados perfectos son sie
 ## Question 5 [D5]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v5
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.72
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -130,7 +130,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 6 [D6]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v6
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.70
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -151,7 +151,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 7 [D5]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v7
 **Bloom:** Evaluate
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.67
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -172,7 +172,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 8 [D6]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v8
 **Bloom:** Evaluate
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.65
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -193,7 +193,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 9 [D5]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v9
 **Bloom:** Evaluate
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.62
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -214,7 +214,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 10 [D6]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v10
 **Bloom:** Remember
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.60
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -235,7 +235,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 11 [D7]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v11
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.57
 **Contexto:** En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -256,7 +256,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 12 [D8]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v12
 **Bloom:** Understand
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.55
 **Contexto:** En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -277,7 +277,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 13 [D7]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v13
 **Bloom:** Understand
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.52
 **Contexto:** En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -298,7 +298,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 14 [D8]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v14
 **Bloom:** Understand
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.50
 **Contexto:** En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -319,7 +319,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 15 [D7]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v15
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.47
 **Contexto:** En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -340,7 +340,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 16 [D8]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v16
 **Bloom:** Analyze
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.45
 **Contexto:** En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -361,7 +361,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 17 [D9]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v17
 **Bloom:** Analyze
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.42
 **Contexto:** En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -382,7 +382,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 18 [D10]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v18
 **Bloom:** Apply
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.40
 **Contexto:** En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -403,7 +403,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 19 [D9]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v19
 **Bloom:** Analyze
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.37
 **Contexto:** En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
@@ -424,7 +424,7 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 ## Question 20 [D10]
 **ID:** PY-MAT-11-2026-W01-tema-w01-001-MASTERY-v20
 **Bloom:** Evaluate
-**ICFES:** Números y operaciones
+**EJE:** Números y operaciones
 **Expected_Success:** 0.35
 **Contexto:** En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.
 
