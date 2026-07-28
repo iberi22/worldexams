@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -44,7 +44,7 @@ El discriminante D determina la naturaleza de las raíces de una ecuación de se
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -64,7 +64,7 @@ Aplicando la fórmula del discriminante D = b^2 - 4ac para a = 1, b = -4, c = 4:
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -84,7 +84,7 @@ La ecuación incompleta x^2 - 9 = 0 se resuelve factorizando como diferencia de 
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -104,7 +104,7 @@ La ecuación se puede resolver factorizando como (x - (3))(x - (5)) = 0, lo que 
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -124,7 +124,7 @@ La ecuación se puede resolver factorizando como (x - (4))(x - (6)) = 0, lo que 
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -144,7 +144,7 @@ La ecuación se puede resolver factorizando como (x - (5))(x - (7)) = 0, lo que 
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -164,7 +164,7 @@ La ecuación se puede resolver factorizando como (x - (6))(x - (8)) = 0, lo que 
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -184,7 +184,7 @@ La ecuación se puede resolver factorizando como (x - (7))(x - (9)) = 0, lo que 
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -204,7 +204,7 @@ La ecuación se puede resolver factorizando como (x - (8))(x - (10)) = 0, lo que
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -224,7 +224,7 @@ La ecuación se puede resolver factorizando como (x - (9))(x - (11)) = 0, lo que
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -244,7 +244,7 @@ La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo qu
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -264,7 +264,7 @@ La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo qu
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -284,7 +284,7 @@ La ecuación se puede resolver factorizando como (x - (12))(x - (14)) = 0, lo qu
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -304,7 +304,7 @@ La ecuación se puede resolver factorizando como (x - (13))(x - (15)) = 0, lo qu
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -324,7 +324,7 @@ La ecuación se puede resolver factorizando como (x - (14))(x - (16)) = 0, lo qu
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -344,7 +344,7 @@ La ecuación se puede resolver factorizando como (x - (15))(x - (17)) = 0, lo qu
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -364,7 +364,7 @@ La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo qu
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -384,7 +384,7 @@ La ecuación se puede resolver factorizando como (x - (17))(x - (19)) = 0, lo qu
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 
@@ -404,7 +404,7 @@ La ecuación se puede resolver factorizando como (x - (18))(x - (20)) = 0, lo qu
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.
 

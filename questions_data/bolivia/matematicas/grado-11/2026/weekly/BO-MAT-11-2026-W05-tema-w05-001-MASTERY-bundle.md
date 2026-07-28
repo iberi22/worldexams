@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -44,7 +44,7 @@ Una ecuación lineal de primer grado con una variable se escribe en la forma ax 
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -64,7 +64,7 @@ Restando 5 en ambos miembros obtenemos x / 2 = 6. Multiplicando ambos lados por 
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -84,7 +84,7 @@ Tradiciendo al lenguaje algebraico: 'el doble de un número x' es 2x. 'Sumamos 3
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -104,7 +104,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En el Colegio Nacional Bolivar de Tarija, el estudiante Sonia plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -124,7 +124,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En el Colegio Nacional Potosí de Oruro, el estudiante Ramiro plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -144,7 +144,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -164,7 +164,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En el Colegio Nacional Trinidad de Cobija, el estudiante Jaime plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -184,7 +184,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -204,7 +204,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En el Colegio Nacional Ayacucho de La Paz, el estudiante Grover plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -224,7 +224,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -244,7 +244,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -264,7 +264,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -284,7 +284,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -304,7 +304,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En el Colegio Nacional Bolivar de Tarija, el estudiante Sonia plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -324,7 +324,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En el Colegio Nacional Potosí de Oruro, el estudiante Ramiro plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -344,7 +344,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -364,7 +364,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En el Colegio Nacional Trinidad de Cobija, el estudiante Jaime plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -384,7 +384,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.
 
@@ -404,7 +404,7 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En el Colegio Nacional Ayacucho de La Paz, el estudiante Grover plantea ecuaciones de primer grado para modelar presupuestos familiares.
 

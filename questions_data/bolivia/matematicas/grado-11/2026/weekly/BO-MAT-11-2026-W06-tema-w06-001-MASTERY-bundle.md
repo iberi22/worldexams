@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -44,7 +44,7 @@ Cada ecuación lineal en dos variables representa una recta. El conjunto de solu
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -64,7 +64,7 @@ Al obtener una identidad falsa (contradicción) durante la resolución, se demue
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -84,7 +84,7 @@ Un sistema compatible indeterminado posee infinitas soluciones debido a que amba
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -104,7 +104,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -124,7 +124,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -144,7 +144,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -164,7 +164,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -184,7 +184,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -204,7 +204,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -224,7 +224,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -244,7 +244,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -264,7 +264,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -284,7 +284,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -304,7 +304,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -324,7 +324,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -344,7 +344,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -364,7 +364,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -384,7 +384,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 
@@ -404,7 +404,7 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.
 

@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.
 
@@ -44,7 +44,7 @@ La representación explícita de cualquier función afín en el plano cartesiano
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.
 
@@ -64,7 +64,7 @@ El signo de la pendiente m indica el comportamiento del crecimiento de la funci�
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, Marisol del Colegio Nacional El Alto analiza el comportamiento lineal de los costos de producción textil.
 
@@ -84,7 +84,7 @@ La intersección de una función con el eje y se calcula haciendo x = 0. f(0) = 
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.
 
@@ -104,7 +104,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 4*(5) + 8 = 20 + 8 = 28
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, Sonia del Colegio Nacional Bolivar analiza el comportamiento lineal de los costos de producción textil.
 
@@ -124,7 +124,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 5*(5) + 10 = 25 + 10 = 
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.
 
@@ -144,7 +144,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 6*(5) + 12 = 30 + 12 = 
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, Yolanda del Colegio Nacional San Luis analiza el comportamiento lineal de los costos de producción textil.
 
@@ -164,7 +164,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 7*(5) + 14 = 35 + 14 = 
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, Jaime del Colegio Nacional Trinidad analiza el comportamiento lineal de los costos de producción textil.
 
@@ -184,7 +184,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 8*(5) + 16 = 40 + 16 = 
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.
 
@@ -204,7 +204,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 9*(5) + 18 = 45 + 18 = 
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.
 
@@ -224,7 +224,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 10*(5) + 20 = 50 + 20 =
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.
 
@@ -244,7 +244,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 11*(5) + 22 = 55 + 22 =
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.
 
@@ -264,7 +264,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 12*(5) + 24 = 60 + 24 =
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, Marisol del Colegio Nacional El Alto analiza el comportamiento lineal de los costos de producción textil.
 
@@ -284,7 +284,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 13*(5) + 26 = 65 + 26 =
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.
 
@@ -304,7 +304,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 14*(5) + 28 = 70 + 28 =
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, Sonia del Colegio Nacional Bolivar analiza el comportamiento lineal de los costos de producción textil.
 
@@ -324,7 +324,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 15*(5) + 30 = 75 + 30 =
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.
 
@@ -344,7 +344,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 16*(5) + 32 = 80 + 32 =
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, Yolanda del Colegio Nacional San Luis analiza el comportamiento lineal de los costos de producción textil.
 
@@ -364,7 +364,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 17*(5) + 34 = 85 + 34 =
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, Jaime del Colegio Nacional Trinidad analiza el comportamiento lineal de los costos de producción textil.
 
@@ -384,7 +384,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 18*(5) + 36 = 90 + 36 =
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.
 
@@ -404,7 +404,7 @@ Se sustituye x = 5 en la función afín de costo: C(5) = 19*(5) + 38 = 95 + 38 =
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.
 

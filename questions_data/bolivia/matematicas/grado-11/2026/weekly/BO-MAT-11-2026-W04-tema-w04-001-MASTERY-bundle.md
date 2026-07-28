@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.
 
@@ -44,7 +44,7 @@ El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = 
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.
 
@@ -64,7 +64,7 @@ Por la regla de productos notables, la diferencia de cuadrados se descompone en 
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, el alumno Marisol del Colegio Nacional El Alto simplifica expresiones y fracciones algebraicas.
 
@@ -84,7 +84,7 @@ Para factorizar x^2 + 5x + 6, buscamos dos números reales que multiplicados den
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, el alumno Walter del Colegio Nacional Junín simplifica expresiones y fracciones algebraicas.
 
@@ -104,7 +104,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 4)(x + 4) y el deno
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, el alumno Sonia del Colegio Nacional Bolivar simplifica expresiones y fracciones algebraicas.
 
@@ -124,7 +124,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 5)(x + 5) y el deno
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, el alumno Ramiro del Colegio Nacional Potosí simplifica expresiones y fracciones algebraicas.
 
@@ -144,7 +144,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 6)(x + 6) y el deno
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, el alumno Yolanda del Colegio Nacional San Luis simplifica expresiones y fracciones algebraicas.
 
@@ -164,7 +164,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 7)(x + 7) y el deno
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, el alumno Jaime del Colegio Nacional Trinidad simplifica expresiones y fracciones algebraicas.
 
@@ -184,7 +184,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 8)(x + 8) y el deno
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, el alumno Marcela del Colegio Nacional Cobija simplifica expresiones y fracciones algebraicas.
 
@@ -204,7 +204,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 9)(x + 9) y el deno
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, el alumno Grover del Colegio Nacional Ayacucho simplifica expresiones y fracciones algebraicas.
 
@@ -224,7 +224,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 10)(x + 10) y el de
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.
 
@@ -244,7 +244,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 11)(x + 11) y el de
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.
 
@@ -264,7 +264,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 12)(x + 12) y el de
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, el alumno Marisol del Colegio Nacional El Alto simplifica expresiones y fracciones algebraicas.
 
@@ -284,7 +284,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 13)(x + 13) y el de
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, el alumno Walter del Colegio Nacional Junín simplifica expresiones y fracciones algebraicas.
 
@@ -304,7 +304,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 14)(x + 14) y el de
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, el alumno Sonia del Colegio Nacional Bolivar simplifica expresiones y fracciones algebraicas.
 
@@ -324,7 +324,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 15)(x + 15) y el de
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, el alumno Ramiro del Colegio Nacional Potosí simplifica expresiones y fracciones algebraicas.
 
@@ -344,7 +344,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 16)(x + 16) y el de
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, el alumno Yolanda del Colegio Nacional San Luis simplifica expresiones y fracciones algebraicas.
 
@@ -364,7 +364,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 17)(x + 17) y el de
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, el alumno Jaime del Colegio Nacional Trinidad simplifica expresiones y fracciones algebraicas.
 
@@ -384,7 +384,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 18)(x + 18) y el de
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, el alumno Marcela del Colegio Nacional Cobija simplifica expresiones y fracciones algebraicas.
 
@@ -404,7 +404,7 @@ Se descompone el numerador como diferencia de cuadrados (x - 19)(x + 19) y el de
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, el alumno Grover del Colegio Nacional Ayacucho simplifica expresiones y fracciones algebraicas.
 

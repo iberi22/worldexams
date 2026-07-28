@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.85
 **Contexto:** Roxana, estudiante de Sucre, está repasando las clasificaciones de los conjuntos numéricos y las propiedades fundamentales del sistema de los números reales.
 
@@ -44,7 +44,7 @@ El conjunto de los números irracionales (denotado como I) está constituido por
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.80
 **Contexto:** Jhonny asiste a una feria en El Alto y quiere modelar matemáticamente los precios de dos productos agrícolas de los valles interandinos.
 
@@ -64,7 +64,7 @@ La propiedad conmutativa de la adición de números reales establece de manera f
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.75
 **Contexto:** Un topógrafo de la alcaldía de La Paz necesita delimitar un tramo de terreno plano representándolo como un intervalo abierto en la recta de los números reales.
 
@@ -84,7 +84,7 @@ Un intervalo abierto se denota mediante paréntesis (a, b) e incluye a todos los
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.70
 **Contexto:** Un artesano de la zona andina de Oruro calcula el margen de error tolerado en el ancho de una manta tejida a mano.
 
@@ -104,7 +104,7 @@ La distancia entre el ancho real x y el ancho nominal 120 se calcula mediante el
 ## Question 5 [D5]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.68
 **Contexto:** Marisol, estudiante de bachillerato en Potosí, analiza la densidad de los números reales mediante comparaciones entre fracciones de uso común en mediciones físicas.
 
@@ -124,7 +124,7 @@ Convertimos los números racionales a su expresión decimal periódica o exacta 
 ## Question 6 [D5]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.65
 **Contexto:** Un agrónomo en Santa Cruz de la Sierra mide el contenido de humedad de una parcela experimental de soya y registra dos intervalos viables para riego eficiente.
 
@@ -144,7 +144,7 @@ La intersección de ambos intervalos es el conjunto de números reales que perte
 ## Question 7 [D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.60
 **Contexto:** En un laboratorio de química en Cochabamba, un investigador disuelve una sal andina en agua destilada y estima el rango exacto de temperatura de estabilidad de la solución.
 
@@ -164,7 +164,7 @@ Para resolver la inecuación |T - 25| < 4, aplicamos la propiedad |x| < a si y s
 ## Question 8 [D5]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.62
 **Contexto:** Walter, un analista financiero de La Paz, estudia las variaciones de la tasa de cambio implícita en transacciones comerciales informales de importación.
 
@@ -184,7 +184,7 @@ Para resolver x^2 - 4x - 12 < 0, factorizamos el trinomio: (x - 6)(x + 2) < 0. L
 ## Question 9 [D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.58
 **Contexto:** Roxana investiga la veracidad de propiedades algebraicas complejas de los números reales para su proyecto escolar de ciencias.
 
@@ -204,7 +204,7 @@ La propiedad aditiva de las desigualdades de los números reales establece de ma
 ## Question 10 [D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.55
 **Contexto:** Un programador de software de la Universidad Mayor de San Andrés (UMSA) evalúa la precisión del redondeo y las propiedades de distancia de números reales en el procesador.
 
@@ -224,7 +224,7 @@ La desigualdad triangular es un teorema fundamental en el sistema de los número
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.52
 **Contexto:** Un profesor de matemáticas del Colegio Nacional Ayacucho en La Paz introduce el concepto del Axioma del Supremo como la propiedad que distingue a los números reales de los números racionales.
 
@@ -244,7 +244,7 @@ El Axioma del Supremo, también llamado principio de completitud de los números
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de la Universidad Mayor de San Simón (UMSS) en Cochabamba analiza el concepto de vecindades simétricas de un punto en el contexto de límites de funciones reales.
 
@@ -264,7 +264,7 @@ Una vecindad simétrica de centro a y radio delta se define por |x - a| < delta.
 ## Question 13 [D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.45
 **Contexto:** En la facultad de Ingeniería de la UMSA, un estudiante diseña una viga de acero sometida a cargas mecánicas y obtiene una ecuación para los puntos de esfuerzo límite.
 
@@ -284,7 +284,7 @@ El complemento lógico de |2x - 5| >= 9 es |2x - 5| < 9. Al resolver esta desigu
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.48
 **Contexto:** Un agricultor en los Yungas de La Paz planifica la distribución de agua para sus parcelas de café, basándose en flujos mínimos y máximos de la vertiente de la montaña.
 
@@ -304,7 +304,7 @@ El sistema se compone de: 1) 3F - 4 >= 11 -> F >= 5, es decir, el intervalo [5, 
 ## Question 15 [D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.42
 **Contexto:** Un analista de sistemas hidráulicos en la represa de Misicuni (Cochabamba) modela el coeficiente de presión máxima permitida en las tuberías de distribución.
 
@@ -324,7 +324,7 @@ Los puntos críticos de la inecuación racional son p = 3 y p = -5. Analizando l
 ## Question 16 [D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería financiera analiza la convergencia de una serie de retornos reales acotados en la Bolsa de Valores de Bolivia.
 
@@ -344,7 +344,7 @@ Para n = 1, el elemento es 0. A medida que n crece, los valores se aproximan a 1
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero ambiental en Potosí calcula el rango crítico de acidez del suelo afectado por efluentes mineros utilizando una inecuación de valor absoluto con dos variables lineales.
 
@@ -364,7 +364,7 @@ La inecuación se divide en: -1 < (2x - 1)/(x + 3) < 1. 1) (2x - 1)/(x + 3) > -1
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.32
 **Contexto:** Un diseñador de algoritmos numéricos en Cochabamba analiza el comportamiento del error de aproximación polinomial en intervalos simétricos del dominio de los números reales.
 
@@ -384,7 +384,7 @@ La inecuación se traduce en 1 < |x - 3| < 3. Esto da lugar a dos sistemas: 1) 1
 ## Question 19 [D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.28
 **Contexto:** Un astrofísico en el observatorio de Tarija investiga la métrica de convergencia de una órbita y necesita demostrar formalmente una propiedad analítica del ínfimo y supremo de la recta real.
 
@@ -404,7 +404,7 @@ Dado que a <= b para todo a en A y todo b en B, cualquier b fijo es una cota sup
 ## Question 20 [D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.25
 **Contexto:** Un matemático puro de la Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (Sucre) realiza una investigación sobre la topología de conjuntos y su relación con la recta real.
 

@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz practica potenciación y radicación de números reales.
 
@@ -44,7 +44,7 @@ Por definición en el sistema de los números reales, cualquier base distinta de
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre practica potenciación y radicación de números reales.
 
@@ -64,7 +64,7 @@ La propiedad de potencia de una potencia establece que (a^m)^n = a^(m * n). Por 
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto practica potenciación y radicación de números reales.
 
@@ -84,7 +84,7 @@ Para simplificar la raíz de 48, buscamos el mayor cuadrado perfecto que divida 
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín practica potenciación y radicación de números reales.
 
@@ -104,7 +104,7 @@ El volumen de un cubo es lado al cubo. L = 2x^2. Entonces V = (2x^2)^3 = 2^3 * (
 ## Question 5 [D5]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar practica potenciación y radicación de números reales.
 
@@ -124,7 +124,7 @@ Aplicando leyes de exponentes: en el numerador se suman exponentes al multiplica
 ## Question 6 [D5]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí practica potenciación y radicación de números reales.
 
@@ -144,7 +144,7 @@ Reescribiendo todo a base 2: 4^x = 2^(2x). Entonces: 2^(x+3) / 2^(2x) = 2^(x + 3
 ## Question 7 [D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis practica potenciación y radicación de números reales.
 
@@ -164,7 +164,7 @@ La raíz cúbica de un producto es el producto de las raíces cúbicas: raíz_c�
 ## Question 8 [D5]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad practica potenciación y radicación de números reales.
 
@@ -184,7 +184,7 @@ Por la regla de exponentes racionales, raíz_n(x^m) = x^(m/n). Para raíz_quinta
 ## Question 9 [D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija practica potenciación y radicación de números reales.
 
@@ -204,7 +204,7 @@ Primero simplificamos los términos dentro del paréntesis restando los exponent
 ## Question 10 [D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho practica potenciación y radicación de números reales.
 
@@ -225,7 +225,7 @@ Racionalizamos multiplicando numerador y denominador por raíz(3):
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Remember
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz practica potenciación y radicación de números reales.
 
@@ -245,7 +245,7 @@ Por la definición algebraica de exponentes en el campo real, para cualquier x d
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre practica potenciación y radicación de números reales.
 
@@ -265,7 +265,7 @@ Primero simplificamos el numerador sumando los exponentes: 1/2 + 3/2 = 4/2 = 2. 
 ## Question 13 [D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto practica potenciación y radicación de números reales.
 
@@ -286,7 +286,7 @@ raíz(75x^5 / 3x^3) = raíz(25 * x^(5 - 3)) = raíz(25x^2) = 5x.
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín practica potenciación y radicación de números reales.
 
@@ -309,7 +309,7 @@ Descomponemos los radicandos en factores con cuadrados perfectos:
 ## Question 15 [D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar practica potenciación y radicación de números reales.
 
@@ -333,7 +333,7 @@ Multiplicamos el numerador y el denominador por la expresión conjugada del deno
 ## Question 16 [D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí practica potenciación y radicación de números reales.
 
@@ -353,7 +353,7 @@ La tasa de retorno está dada por r = (243/32)^(1/5) - 1. Sabemos que 243 = 3^5 
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Apply
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis practica potenciación y radicación de números reales.
 
@@ -377,7 +377,7 @@ Por ende, la expresión final es x^(5/3).
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad practica potenciación y radicación de números reales.
 
@@ -401,7 +401,7 @@ raíz[ (x + raíz(x^2 - 1)) * (x - raíz(x^2 - 1)) ]
 ## Question 19 [D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija practica potenciación y radicación de números reales.
 
@@ -424,7 +424,7 @@ x^2 = 2 \implies x = raíz(2) (ya que x es positivo).
 ## Question 20 [D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Numérico y Sistemas de Datos
+**EJE:** Pensamiento Numérico y Sistemas de Datos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho practica potenciación y radicación de números reales.
 

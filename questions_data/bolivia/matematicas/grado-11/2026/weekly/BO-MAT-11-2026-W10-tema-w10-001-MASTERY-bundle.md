@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -44,7 +44,7 @@ El eje de simetría y la coordenada del vértice x de una función cuadrática s
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -64,7 +64,7 @@ El coeficiente cuadrático a define la concavidad de la parábola. Si a < 0, la 
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -84,7 +84,7 @@ La coordenada x del vértice es x_v = -b / (2a) = -(-4) / (2 * 1) = 2. Para la c
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -104,7 +104,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(8) 
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -124,7 +124,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(10)
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -144,7 +144,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(12)
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -164,7 +164,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(14)
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -184,7 +184,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16)
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -204,7 +204,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(18)
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -224,7 +224,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(20)
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -244,7 +244,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(22)
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -264,7 +264,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(24)
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -284,7 +284,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26)
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -304,7 +304,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(28)
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -324,7 +324,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(30)
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -344,7 +344,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(32)
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -364,7 +364,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(34)
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -384,7 +384,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(36)
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.
 
@@ -404,7 +404,7 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(38)
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la concavidad de la función cuadrática de costos de distribución de energía.
 

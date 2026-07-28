@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -44,7 +44,7 @@ Por las propiedades fundamentales del orden en la recta real, multiplicar o divi
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En Cochabamba, Jhonny del Colegio Nacional Sucre calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -64,7 +64,7 @@ Por las propiedades fundamentales del orden en la recta real, multiplicar o divi
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -84,7 +84,7 @@ La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen 
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En Sucre, Walter del Colegio Nacional Junín calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -104,7 +104,7 @@ Despejando: -4x < -12. Al dividir por el coeficiente negativo -4, invertimos obl
 ## Question 5 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En Tarija, Sonia del Colegio Nacional Bolivar calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -124,7 +124,7 @@ Despejando: -5x < -15. Al dividir por el coeficiente negativo -5, invertimos obl
 ## Question 6 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En Oruro, Ramiro del Colegio Nacional Potosí calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -144,7 +144,7 @@ Despejando: -6x < -18. Al dividir por el coeficiente negativo -6, invertimos obl
 ## Question 7 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -164,7 +164,7 @@ Despejando: -7x < -21. Al dividir por el coeficiente negativo -7, invertimos obl
 ## Question 8 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -184,7 +184,7 @@ Despejando: -8x < -24. Al dividir por el coeficiente negativo -8, invertimos obl
 ## Question 9 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -204,7 +204,7 @@ Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obl
 ## Question 10 [D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -224,7 +224,7 @@ Despejando: -10x < -30. Al dividir por el coeficiente negativo -10, invertimos o
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -244,7 +244,7 @@ Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos o
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En Cochabamba, Jhonny del Colegio Nacional Sucre calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -264,7 +264,7 @@ Despejando: -12x < -36. Al dividir por el coeficiente negativo -12, invertimos o
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -284,7 +284,7 @@ Despejando: -13x < -39. Al dividir por el coeficiente negativo -13, invertimos o
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En Sucre, Walter del Colegio Nacional Junín calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -304,7 +304,7 @@ Despejando: -14x < -42. Al dividir por el coeficiente negativo -14, invertimos o
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En Tarija, Sonia del Colegio Nacional Bolivar calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -324,7 +324,7 @@ Despejando: -15x < -45. Al dividir por el coeficiente negativo -15, invertimos o
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En Oruro, Ramiro del Colegio Nacional Potosí calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -344,7 +344,7 @@ Despejando: -16x < -48. Al dividir por el coeficiente negativo -16, invertimos o
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -364,7 +364,7 @@ Despejando: -17x < -51. Al dividir por el coeficiente negativo -17, invertimos o
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -384,7 +384,7 @@ Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos o
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 
@@ -404,7 +404,7 @@ Despejando: -19x < -57. Al dividir por el coeficiente negativo -19, invertimos o
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.
 

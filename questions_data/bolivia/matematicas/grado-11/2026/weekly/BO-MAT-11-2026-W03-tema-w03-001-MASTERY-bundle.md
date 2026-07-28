@@ -24,7 +24,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.87
 **Contexto:** En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.
 
@@ -44,7 +44,7 @@ Por definición formal, el logaritmo en base b de un número positivo x es el ex
 ## Question 2 [D3]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.84
 **Contexto:** En la clase del Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny investiga las propiedades de los logaritmos.
 
@@ -64,7 +64,7 @@ La propiedad del producto de los logaritmos enuncia que log_b(x * y) = log_b(x) 
 ## Question 3 [D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.81
 **Contexto:** En la clase del Colegio Nacional El Alto de El Alto, el estudiante Marisol investiga las propiedades de los logaritmos.
 
@@ -84,7 +84,7 @@ La propiedad de la potencia de logaritmos establece que el exponente del argumen
 ## Question 4 [D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.78
 **Contexto:** En la clase del Colegio Nacional Junín de Sucre, el estudiante Walter investiga las propiedades de los logaritmos.
 
@@ -104,7 +104,7 @@ La fórmula universal para el cambio de base es log_a(b) = log_c(b) / log_c(a). 
 ## Question 5 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.75
 **Contexto:** En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.
 
@@ -124,7 +124,7 @@ Expresamos 8 como potencia de 2: 8 = 2^3. Aplicando la propiedad de la potencia:
 ## Question 6 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.72
 **Contexto:** En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.
 
@@ -144,7 +144,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 7 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.69
 **Contexto:** En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.
 
@@ -164,7 +164,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 8 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.66
 **Contexto:** En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.
 
@@ -184,7 +184,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 9 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.63
 **Contexto:** En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.
 
@@ -204,7 +204,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 10 [D5]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.60
 **Contexto:** En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.
 
@@ -224,7 +224,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 11 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.57
 **Contexto:** En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.
 
@@ -244,7 +244,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 12 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.54
 **Contexto:** En la clase del Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny investiga las propiedades de los logaritmos.
 
@@ -264,7 +264,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 13 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.51
 **Contexto:** En la clase del Colegio Nacional El Alto de El Alto, el estudiante Marisol investiga las propiedades de los logaritmos.
 
@@ -284,7 +284,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 14 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.48
 **Contexto:** En la clase del Colegio Nacional Junín de Sucre, el estudiante Walter investiga las propiedades de los logaritmos.
 
@@ -304,7 +304,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 15 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.45
 **Contexto:** En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.
 
@@ -324,7 +324,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 16 [D7]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.42
 **Contexto:** En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.
 
@@ -344,7 +344,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 17 [D9]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.39
 **Contexto:** En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.
 
@@ -364,7 +364,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 18 [D9]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.36
 **Contexto:** En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.
 
@@ -384,7 +384,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 ## Question 19 [D9]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.33
 **Contexto:** En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.
 
@@ -404,7 +404,7 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 ## Question 20 [D9]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
+**EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
 **Expected_Success:** 0.30
 **Contexto:** En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.
 
