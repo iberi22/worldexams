@@ -45,7 +45,7 @@
           throwOnError: false,
           errorColor: '#ef4444',
           strict: false,
-          trust: true
+          trust: false
         });
       } catch (e) {
         console.warn('KaTeX block error:', e);
@@ -70,7 +70,7 @@
           throwOnError: false,
           errorColor: '#ef4444',
           strict: false,
-          trust: true
+          trust: false
         });
         return rendered + suffix;
       } catch (e) {
